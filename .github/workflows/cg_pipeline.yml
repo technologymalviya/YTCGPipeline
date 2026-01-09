@@ -3,8 +3,8 @@ name: Generate and Share JSON
 on:
   schedule:
     # Runs every 2 hours at :30 UTC -> corresponds to IST 08:00–00:00 
-    # UTC times: 02:30,04:30,06:30,...,18:30 -> which map to IST 08:00,10:00,...,00:00.
-   - cron: '0 */3 * * *'
+    # UTC times: 02:30,04:30,06:30,...,18:30 -> which map to IST 8:00,10:00,...,00:00.
+    - cron: '30 2-18/2 * * *'
   workflow_dispatch:
 
 permissions:
