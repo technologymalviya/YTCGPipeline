@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-01-09T17:47:12.590488Z",
-  "clusterCount": 5,
+  "generatedAt": "2026-01-09T19:06:52.281413Z",
+  "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "general",
       "topic": "Chhattisgarh Raipur",
-      "videoCount": 119,
-      "trendScore": 64.6,
+      "videoCount": 121,
+      "trendScore": 64.2,
       "topVideos": [
         {
           "index": 1,
           "videoId": "De2zrRjtVl8",
-          "title": "09 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "10 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "09 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-01-08T23:30:09Z",
           "thumbnail": "https://i.ytimg.com/vi/De2zrRjtVl8/hqdefault.jpg",
           "durationSeconds": 954,
           "durationFormatted": "15:54",
-          "views": 30603,
+          "views": 32451,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/o3ofs5-qPe0/hqdefault.jpg",
           "durationSeconds": 33,
           "durationFormatted": "00:33",
-          "views": 24074,
-          "likes": 252,
+          "views": 24628,
+          "likes": 254,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OAik-ELKCiI/hqdefault.jpg",
           "durationSeconds": 1519,
           "durationFormatted": "25:19",
-          "views": 18532,
+          "views": 19021,
           "likes": 274,
           "videoType": "VOD",
           "genre": "General"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0TfQfhUhJwY/hqdefault.jpg",
           "durationSeconds": 820,
           "durationFormatted": "13:40",
-          "views": 12968,
+          "views": 13205,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/P7VKSPEDAB4/hqdefault.jpg",
           "durationSeconds": 1657,
           "durationFormatted": "27:37",
-          "views": 11899,
-          "likes": 494,
+          "views": 13143,
+          "likes": 504,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-09T17:45:45Z"
+      "latestUpdateAt": "2026-01-09T19:03:35Z"
     },
     {
       "clusterId": "politics",
       "topic": "Chhattisgarh January",
-      "videoCount": 48,
-      "trendScore": 63.6,
+      "videoCount": 46,
+      "trendScore": 63.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EiLF8VOKczw/hqdefault.jpg",
           "durationSeconds": 1510,
           "durationFormatted": "25:10",
-          "views": 33701,
+          "views": 34242,
           "likes": 349,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ihsulzwjYt8/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 18941,
-          "likes": 427,
+          "views": 19983,
+          "likes": 432,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -132,28 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/YxpqBo22zt0/hqdefault.jpg",
           "durationSeconds": 1904,
           "durationFormatted": "31:44",
-          "views": 4713,
-          "likes": 78,
+          "views": 6710,
+          "likes": 87,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "jTWirPPkvQ0",
-          "title": "ED Raid in Bengal: दिल्ली से बंगाल..हंगामा और बवाल! ED की कार्रवाई से बंगाल में गरमाई राजनीति..",
-          "description": "IBC24, ED Raid in Bengal: दिल्ली से बंगाल..हंगामा और बवाल! ED की कार्रवाई से ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-09T15:28:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/jTWirPPkvQ0/hqdefault.jpg",
-          "durationSeconds": 603,
-          "durationFormatted": "10:03",
-          "views": 3985,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "xP5TIxW0hyM",
           "title": "Iran America War : Ali Khamenei की चाल में फंस गए Trump, Reza Pahlavi की नहीं होगी वापसी ? | Israel",
           "description": "Iran America War : Ali Khamenei की चाल में फंस गए Trump, Reza Pahlavi की नहीं होगी वापसी ?",
@@ -162,19 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/xP5TIxW0hyM/hqdefault.jpg",
           "durationSeconds": 1092,
           "durationFormatted": "18:12",
-          "views": 3557,
-          "likes": 70,
+          "views": 5179,
+          "likes": 89,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "plUxLQWRjYA",
+          "title": "Russian Oil Tanker Ship :अमेरिका ने रूसी जहाज पकड़ा, इस पर 3 भारतीय नागरिक सवार थे | Trump | N18G",
+          "description": "Russian Oil Tanker Ship :अमेरिका ने रूसी जहाज पकड़ा, इस पर 3 भारतीय नागरिक सवार ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-09T15:35:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/plUxLQWRjYA/hqdefault.jpg",
+          "durationSeconds": 191,
+          "durationFormatted": "03:11",
+          "views": 4771,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-09T17:37:57Z"
+      "latestUpdateAt": "2026-01-09T18:47:38Z"
     },
     {
       "clusterId": "crime",
       "topic": "Raja Meghalaya",
-      "videoCount": 20,
-      "trendScore": 54.0,
+      "videoCount": 24,
+      "trendScore": 58.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,13 +186,43 @@
           "thumbnail": "https://i.ytimg.com/vi/wfftkf9qD04/hqdefault.jpg",
           "durationSeconds": 9,
           "durationFormatted": "00:09",
-          "views": 31176,
-          "likes": 264,
+          "views": 46127,
+          "likes": 285,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
+          "videoId": "ykpYhI-62-k",
+          "title": "🔴Dantewada Naxal Surrender LIVE : दंतेवाड़ा में 63 नक्सलियों ने Police के सामने किया सरेंडर | CG",
+          "description": "Dantewada Naxal Surrender LIVE : दंतेवाड़ा में 63 नक्सलियों ने Police के सामने किया ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-09T18:06:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/ykpYhI-62-k/hqdefault.jpg",
+          "durationSeconds": 32877,
+          "durationFormatted": "09:07:57",
+          "views": 6878,
+          "likes": 89,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "kr_EXtxFKLg",
+          "title": "🔴Indore Accident News: सड़क हादसे में पूर्व गृहमंत्री की बेटी की मौत | Bala Bachchan | MP News",
+          "description": "IBC24, Indore Accident News: सड़क हादसे में पूर्व गृहमंत्री की बेटी की मौत | Bala ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-09T18:47:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/kr_EXtxFKLg/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 4942,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
           "videoId": "9ttCLqAK6J8",
           "title": "रायपुर पुलिस की बड़ी कार्रवाई ऑनलाइन सट्टा गिरोह का भंडाफोड़ करते हुए 4 आरोपियों को गिरफ्तार किया।",
           "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #raipurpolice #onlinebetting #sattaracket #onlinegambling #crime ...",
@@ -207,7 +237,7 @@
           "genre": "Crime"
         },
         {
-          "index": 3,
+          "index": 5,
           "videoId": "fdx7EVDM2F0",
           "title": "छत्तीसगढ़ में युवा बंदियों को अपराध से दूर करने की तैयारी, योजना पर जल्द होगा अमल #Chhattisgarh",
           "description": "छत्तीसगढ़ में युवा बंदियों को अपराध से दूर करने की तैयारी, योजना पर ...",
@@ -216,49 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/fdx7EVDM2F0/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 771,
+          "views": 798,
           "likes": 13,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "0XW-07d6LXo",
-          "title": "चरोदा में S.I.R की लाईन,, &quot;बीएलओ&quot; की लापरवाही पूर्व &quot;पार्षद एल्डरमेन&quot; का भी फॉर्म रिजेक्ट...!",
-          "description": "bhilai #trending #durg #news #shortsfeed #crime #at #chhattisgarh #india #ytshorts #sir #भिलाई3 #bhilai3 #charodanews ...",
-          "channelTitle": "CG JANMAT ",
-          "publishedAt": "2026-01-09T04:38:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/0XW-07d6LXo/hqdefault.jpg",
-          "durationSeconds": 223,
-          "durationFormatted": "03:43",
-          "views": 553,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "WOoBkon6iqA",
-          "title": "Indore Road Accident: Bala Bachchan की Daughter समेत 3 की मौत, कैसे हुआ हादसा ? देखिए पूरी Report",
-          "description": "Indore Road Accident: Bala Bachchan की Daughter समेत 3 की मौत, कैसे हुआ हादसा ? देखिए पूरी ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-09T15:37:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/WOoBkon6iqA/hqdefault.jpg",
-          "durationSeconds": 340,
-          "durationFormatted": "05:40",
-          "views": 300,
-          "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-09T17:26:11Z"
+      "latestUpdateAt": "2026-01-09T18:47:37Z"
     },
     {
       "clusterId": "traffic",
       "topic": "Rover Ranger",
-      "videoCount": 12,
-      "trendScore": 43.0,
+      "videoCount": 10,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c5HmXIdo2t8/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 4865,
+          "views": 6869,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -285,22 +285,22 @@
           "thumbnail": "https://i.ytimg.com/vi/OoUyPI_mny0/hqdefault.jpg",
           "durationSeconds": 307,
           "durationFormatted": "05:07",
-          "views": 2080,
-          "likes": 39,
+          "views": 3401,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 3,
-          "videoId": "-e6FkVragQc",
-          "title": "🔴&#39;जिसको जाना है..जाए&#39;,जंबूरी का &#39;लंका कांड&#39;! Rover Ranger Jamboree Controversy।शह मात The Big Debate",
-          "description": "IBC24, 'जिसको जाना है..जाए',जंबूरी का 'लंका कांड'! Rover Ranger Jamboree Controversy।",
+          "videoId": "49dEFH7lyiA",
+          "title": "🔴National Rover Ranger Jamboree : जंबूरी विवाद को लेकर मौहाल गर्म | Youth Congress का प्रदर्शन",
+          "description": "IBC24, National Rover Ranger Jamboree , जंबूरी विवाद को लेकर मौहाल गर्म , Youth Congress का ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-01-09T14:55:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/-e6FkVragQc/hqdefault.jpg",
-          "durationSeconds": 1401,
-          "durationFormatted": "23:21",
-          "views": 748,
+          "publishedAt": "2026-01-09T18:47:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/49dEFH7lyiA/hqdefault.jpg",
+          "durationSeconds": 41411,
+          "durationFormatted": "11:30:11",
+          "views": 561,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -315,67 +315,28 @@
           "thumbnail": "https://i.ytimg.com/vi/HoS90Qqf_k4/hqdefault.jpg",
           "durationSeconds": 315,
           "durationFormatted": "05:15",
-          "views": 127,
-          "likes": 5,
+          "views": 205,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 5,
-          "videoId": "MPymX_uiqm4",
-          "title": "Dhamtari News: अटल आवास के छत अऊ सीढ़ी गिरिस। हादसा म महिला अउ मासूम लइका घायल",
-          "description": "IBC24, Dhamtari News: अटल आवास के छत अऊ सीढ़ी गिरिस। हादसा म महिला अउ मासूम ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-09T15:00:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/MPymX_uiqm4/hqdefault.jpg",
-          "durationSeconds": 106,
-          "durationFormatted": "01:46",
-          "views": 126,
-          "likes": 0,
+          "videoId": "4qGwBWrfekU",
+          "title": "बालोद में 15,000 स्काउट-गाइड्स के साथ जंबूरी की हुई रोमांचक शुरुआत #RoverRangerJamboree",
+          "description": "बालोद में 15000 स्काउट-गाइड्स के साथ जंबूरी की हुई रोमांचक शुरुआत ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-01-09T15:00:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/4qGwBWrfekU/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 139,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-09T17:02:16Z"
-    },
-    {
-      "clusterId": "live",
-      "topic": "Mudde Baat",
-      "videoCount": 2,
-      "trendScore": 23.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "UbJ5gycaZm8",
-          "title": "🔴Seedhe Mudde Ki Baat : Jitu Patwari के कान कौन फूंक रहा है? | MP Congress | Political Update",
-          "description": "Seedhe Mudde Ki Baat : Jitu Patwari के कान कौन फूंक रहा है? | MP Congress | Political Update ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-09T15:08:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/UbJ5gycaZm8/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 60,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "index": 2,
-          "videoId": "QfgEVHwqKXI",
-          "title": "🔴 Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 09 January 2026",
-          "description": "IBC24, Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 09 January ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-09T17:44:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/QfgEVHwqKXI/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 0,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        }
-      ],
-      "latestUpdateAt": "2026-01-09T17:44:51Z"
+      "latestUpdateAt": "2026-01-09T18:47:07Z"
     }
   ]
 }
