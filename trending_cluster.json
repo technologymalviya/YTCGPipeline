@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-01-10T04:21:32.135171Z",
-  "clusterCount": 5,
+  "generatedAt": "2026-01-10T05:00:18.746408Z",
+  "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "general",
       "topic": "Chhattisgarh Raipur",
-      "videoCount": 108,
-      "trendScore": 61.6,
+      "videoCount": 109,
+      "trendScore": 61.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "m44AD8g6pTU",
-          "title": "तेरा घोटाला - घोटाला मेरा वाला जंबूरी जलेबी",
-          "description": "chhattisgarh #raipur #cgbox CG Box News छत्तीसगढ़ का अपना डिजिटल न्यूज़ प्लेटफॉर्म ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-01-09T08:07:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/m44AD8g6pTU/hqdefault.jpg",
-          "durationSeconds": 27,
-          "durationFormatted": "00:27",
-          "views": 10751,
-          "likes": 346,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "wmDMPg9Himg",
           "title": "10 जनवरी 2026 छत्तीसगढ़ 30 ताजा खबरें | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "10 जनवरी 2026 छत्तीसगढ़ 30 ताजा खबरें | CG News | Raipur News Today | Chattisgarh News Hindi ...",
@@ -33,28 +18,28 @@
           "thumbnail": "https://i.ytimg.com/vi/wmDMPg9Himg/hqdefault.jpg",
           "durationSeconds": 910,
           "durationFormatted": "15:10",
-          "views": 10670,
-          "likes": 123,
+          "views": 12244,
+          "likes": 130,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "m44AD8g6pTU",
+          "title": "तेरा घोटाला - घोटाला मेरा वाला जंबूरी जलेबी",
+          "description": "chhattisgarh #raipur #cgbox CG Box News छत्तीसगढ़ का अपना डिजिटल न्यूज़ प्लेटफॉर्म ...",
+          "channelTitle": "CG BOX",
+          "publishedAt": "2026-01-09T08:07:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/m44AD8g6pTU/hqdefault.jpg",
+          "durationSeconds": 27,
+          "durationFormatted": "00:27",
+          "views": 10900,
+          "likes": 349,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "knSTtzWRu_Y",
-          "title": "Hitek Hospital in Chhattisgarh Bajrangdal...#bajrangdal #chhattisgarh #ytshorts #shortsfeed #shorts",
-          "description": "Hitek Hospital in Chhattisgarh Bajrangdal...#bajrangdal #chhattisgarh #ytshorts #shortsfeed #shorts #bajrangdal ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-01-09T12:54:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/knSTtzWRu_Y/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 9693,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "tZdOeXclTaY",
           "title": "Delhi NCR Rain: दिल्ली-NCR में बारिश के बाद कड़ाके की ठंड का कहर! | Weather Forecast | Breaking",
           "description": "Delhi NCR Rain: दिल्ली-NCR में बारिश के बाद कड़ाके की ठंड का कहर! | Weather Forecast ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tZdOeXclTaY/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 9022,
-          "likes": 117,
+          "views": 10511,
+          "likes": 118,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "30Oky_B7sd4",
           "title": "10 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
           "description": "दोस्तों आप देख रहे हैं छत्तीसगढ़ की आज की 25 बड़ी खबरें.",
@@ -78,17 +63,32 @@
           "thumbnail": "https://i.ytimg.com/vi/30Oky_B7sd4/hqdefault.jpg",
           "durationSeconds": 952,
           "durationFormatted": "15:52",
-          "views": 8622,
-          "likes": 140,
+          "views": 10367,
+          "likes": 167,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "knSTtzWRu_Y",
+          "title": "Hitek Hospital in Chhattisgarh Bajrangdal...#bajrangdal #chhattisgarh #ytshorts #shortsfeed #shorts",
+          "description": "Hitek Hospital in Chhattisgarh Bajrangdal...#bajrangdal #chhattisgarh #ytshorts #shortsfeed #shorts #bajrangdal ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-01-09T12:54:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/knSTtzWRu_Y/hqdefault.jpg",
+          "durationSeconds": 152,
+          "durationFormatted": "02:32",
+          "views": 9712,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-10T04:09:23Z"
+      "latestUpdateAt": "2026-01-10T04:58:55Z"
     },
     {
       "clusterId": "politics",
-      "topic": "Chhattisgarh Mohan",
+      "topic": "Chhattisgarh January",
       "videoCount": 51,
       "trendScore": 60.4,
       "topVideos": [
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/14Ed0iEVwtM/hqdefault.jpg",
           "durationSeconds": 1540,
           "durationFormatted": "25:40",
-          "views": 12752,
-          "likes": 347,
+          "views": 15160,
+          "likes": 368,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P57QxYAF-o0/hqdefault.jpg",
           "durationSeconds": 218,
           "durationFormatted": "03:38",
-          "views": 8078,
+          "views": 8135,
           "likes": 55,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/T-K9ek0H1uU/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 4906,
+          "views": 4936,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XKGzeaO80NY/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 3720,
+          "views": 3796,
           "likes": 131,
           "videoType": "VOD",
           "genre": "Politics"
@@ -162,52 +162,22 @@
           "thumbnail": "https://i.ytimg.com/vi/NRa6MPh-7oE/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 2497,
-          "likes": 9,
+          "views": 2505,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-10T04:21:20Z"
+      "latestUpdateAt": "2026-01-10T04:38:01Z"
     },
     {
       "clusterId": "crime",
-      "topic": "Bala Bachchan",
-      "videoCount": 26,
-      "trendScore": 57.2,
+      "topic": "Accident Bala",
+      "videoCount": 23,
+      "trendScore": 52.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "LVOCOkfBR14",
-          "title": "Breaking News LIVE: सड़क हादसे में MP के Former Home Minister Bala Bachchan की बेटी की मौत | MP News",
-          "description": "Breaking News LIVE: सड़क हादसे में MP के Former Home Minister Bala Bachchan की बेटी की मौत | MP ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-09T19:03:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/LVOCOkfBR14/hqdefault.jpg",
-          "durationSeconds": 42900,
-          "durationFormatted": "11:55:00",
-          "views": 28294,
-          "likes": 121,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "ykpYhI-62-k",
-          "title": "🔴Dantewada Naxal Surrender LIVE : दंतेवाड़ा में 63 नक्सलियों ने Police के सामने किया सरेंडर | CG",
-          "description": "Dantewada Naxal Surrender LIVE : दंतेवाड़ा में 63 नक्सलियों ने Police के सामने किया ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-09T18:06:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/ykpYhI-62-k/hqdefault.jpg",
-          "durationSeconds": 32877,
-          "durationFormatted": "09:07:57",
-          "views": 7246,
-          "likes": 90,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "kr_EXtxFKLg",
           "title": "🔴Indore Accident News: सड़क हादसे में पूर्व गृहमंत्री की बेटी की मौत | Bala Bachchan | MP News",
           "description": "IBC24, Indore Accident News: सड़क हादसे में पूर्व गृहमंत्री की बेटी की मौत | Bala ...",
@@ -216,13 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/kr_EXtxFKLg/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 5613,
+          "views": 5674,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 2,
           "videoId": "WOoBkon6iqA",
           "title": "Indore Road Accident: Bala Bachchan की Daughter समेत 3 की मौत, कैसे हुआ हादसा ? देखिए पूरी Report",
           "description": "Indore Road Accident: Bala Bachchan की Daughter समेत 3 की मौत, कैसे हुआ हादसा ? देखिए पूरी ...",
@@ -231,13 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/WOoBkon6iqA/hqdefault.jpg",
           "durationSeconds": 340,
           "durationFormatted": "05:40",
-          "views": 2044,
-          "likes": 20,
+          "views": 2498,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "-rwxBmhameY",
           "title": "Faiz-E-Elahi Masjid Demolition:सुनियोजित साजिश के तहत हमला, FIR में हत्या की कोशिश की धारा जुड़ी।Top",
           "description": "Faiz-E-Elahi Masjid Demolition:सुनियोजित साजिश के तहत हमला, FIR में हत्या की कोशिश की ...",
@@ -246,8 +216,38 @@
           "thumbnail": "https://i.ytimg.com/vi/-rwxBmhameY/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 2003,
-          "likes": 15,
+          "views": 2045,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "Q49FUN6zpJU",
+          "title": "Bhilai Big Breaking News 🚨 बड़ी फैक्ट्री में दर्दनाक हादसा | युवक की मौत | किसकी लापरवाही से गई जान?",
+          "description": "Bhilai Big Breaking News बड़ी फैक्ट्री में दर्दनाक हादसा | युवक की मौत | किसकी ...",
+          "channelTitle": "THE CG KHABAR",
+          "publishedAt": "2026-01-09T17:19:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q49FUN6zpJU/hqdefault.jpg",
+          "durationSeconds": 494,
+          "durationFormatted": "08:14",
+          "views": 1601,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "9ttCLqAK6J8",
+          "title": "रायपुर पुलिस की बड़ी कार्रवाई ऑनलाइन सट्टा गिरोह का भंडाफोड़ करते हुए 4 आरोपियों को गिरफ्तार किया।",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #raipurpolice #onlinebetting #sattaracket #onlinegambling #crime ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-09T17:06:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/9ttCLqAK6J8/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 1146,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -257,26 +257,11 @@
     {
       "clusterId": "traffic",
       "topic": "Jamboree Rover",
-      "videoCount": 9,
-      "trendScore": 35.0,
+      "videoCount": 11,
+      "trendScore": 39.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "49dEFH7lyiA",
-          "title": "🔴National Rover Ranger Jamboree : जंबूरी विवाद को लेकर मौहाल गर्म | Youth Congress का प्रदर्शन",
-          "description": "IBC24, National Rover Ranger Jamboree , जंबूरी विवाद को लेकर मौहाल गर्म , Youth Congress का ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-09T18:47:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/49dEFH7lyiA/hqdefault.jpg",
-          "durationSeconds": 41411,
-          "durationFormatted": "11:30:11",
-          "views": 633,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
           "videoId": "xy6xwL6d2wM",
           "title": "कोर्ट पहुंचा जंबूरी विवाद | सरकार के खिलाफ सांसद बृजमोहन अग्रवाल की खुलकर बैटिंग | @tirandaj",
           "description": "nationaljamboreecontroversy #jamboreecontroversyreachescourt #brijmohanagrawal #governmentvsbrijmohanagrawal ...",
@@ -285,8 +270,23 @@
           "thumbnail": "https://i.ytimg.com/vi/xy6xwL6d2wM/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 510,
-          "likes": 3,
+          "views": 904,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "49dEFH7lyiA",
+          "title": "🔴National Rover Ranger Jamboree : जंबूरी विवाद को लेकर मौहाल गर्म | Youth Congress का प्रदर्शन",
+          "description": "IBC24, National Rover Ranger Jamboree , जंबूरी विवाद को लेकर मौहाल गर्म , Youth Congress का ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-09T18:47:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/49dEFH7lyiA/hqdefault.jpg",
+          "durationSeconds": 41411,
+          "durationFormatted": "11:30:11",
+          "views": 638,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SBhw8SnBdVk/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 385,
+          "views": 366,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4qGwBWrfekU/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 332,
-          "likes": 7,
+          "views": 354,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -330,37 +330,13 @@
           "thumbnail": "https://i.ytimg.com/vi/D1K-JLl6H3g/hqdefault.jpg",
           "durationSeconds": 358,
           "durationFormatted": "05:58",
-          "views": 274,
+          "views": 317,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-10T04:00:35Z"
-    },
-    {
-      "clusterId": "live",
-      "topic": "CJM Court",
-      "videoCount": 1,
-      "trendScore": 20.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "WfJ0gtKffug",
-          "title": "CG News: CJM Court ने Jaijaipur MLA Baleshwar Sahu को भेजा जेल | मामले में CM का आया बड़ा बयान",
-          "description": "IBC24, CG News: CJM Court ने Jaijaipur MLA Baleshwar Sahu को भेजा जेल | मामले में CM का आया ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-10T04:17:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/WfJ0gtKffug/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 11,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        }
-      ],
-      "latestUpdateAt": "2026-01-10T04:17:01Z"
+      "latestUpdateAt": "2026-01-10T04:38:44Z"
     }
   ]
 }
