@@ -37,6 +37,7 @@ jobs:
           YOUTUBE_API_KEY_3: ${{ secrets.YOUTUBE_API_KEY_3 }}
           YOUTUBE_API_KEY_4: ${{ secrets.YOUTUBE_API_KEY_4 }}
           BHILAI_CHANNELS: ${{ vars.BHILAI_CHANNELS }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python generate_json.py
           python generate_trending_clusters.py
