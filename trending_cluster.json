@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-01-11T13:49:09.837258Z",
+  "generatedAt": "2026-01-11T14:54:41.811084Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "general",
-      "topic": "Chhattisgarh Samachar",
-      "videoCount": 93,
-      "trendScore": 65.3,
+      "topic": "Chhattisgarh Viral",
+      "videoCount": 104,
+      "trendScore": 65.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "GtWuRvVqCaY",
-          "title": "PM Modi in Somnath Mandir LIVE : सोमनाथ मंदिर से पीएम मोदी का संबोधन | PM Modi Gujarat Visit LIVE",
-          "description": "PM Modi in Somnath Mandir LIVE : सोमनाथ मंदिर से पीएम मोदी का संबोधन | PM Modi Gujarat Visit ...",
+          "videoId": "ioQyKvSYPAs",
+          "title": "Monalisa Viral Video : महाकुंभ की कंजी आंखों वाली मोनालिसा की बदली अदा! | N18S | Shorts",
+          "description": "Monalisa Viral Video : महाकुंभ की कंजी आंखों वाली मोनालिसा की बदली अदा! | N18S | Shorts ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-11T11:53:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/GtWuRvVqCaY/hqdefault.jpg",
-          "durationSeconds": 16595,
-          "durationFormatted": "04:36:35",
-          "views": 27504,
-          "likes": 351,
+          "publishedAt": "2026-01-11T11:57:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/ioQyKvSYPAs/hqdefault.jpg",
+          "durationSeconds": 4,
+          "durationFormatted": "00:04",
+          "views": 46114,
+          "likes": 328,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,23 +33,23 @@
           "thumbnail": "https://i.ytimg.com/vi/XyIv9I-J7c8/hqdefault.jpg",
           "durationSeconds": 8,
           "durationFormatted": "00:08",
-          "views": 26064,
+          "views": 33053,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "hYlv2oiadts",
-          "title": "Jashpur चोरी Case | करोड़पति RTO Officer के घर भतीजी ने हाथ साफ किया | गजब कहानी | Yashwant Sahu",
-          "description": "Jashpur चोरी Case | करोड़पति RTO Officer के घर भतीजी ने हाथ साफ किया | गजब कहानी ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-01-10T14:01:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/hYlv2oiadts/hqdefault.jpg",
-          "durationSeconds": 754,
-          "durationFormatted": "12:34",
-          "views": 25705,
-          "likes": 506,
+          "videoId": "GtWuRvVqCaY",
+          "title": "PM Modi in Somnath Mandir LIVE : सोमनाथ मंदिर से पीएम मोदी का संबोधन | PM Modi Gujarat Visit LIVE",
+          "description": "PM Modi in Somnath Mandir LIVE : सोमनाथ मंदिर से पीएम मोदी का संबोधन | PM Modi Gujarat Visit ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-11T11:53:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/GtWuRvVqCaY/hqdefault.jpg",
+          "durationSeconds": 16595,
+          "durationFormatted": "04:36:35",
+          "views": 27622,
+          "likes": 351,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HHSkSnEjYmg/hqdefault.jpg",
           "durationSeconds": 1518,
           "durationFormatted": "25:18",
-          "views": 21618,
-          "likes": 277,
+          "views": 22546,
+          "likes": 281,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/f4entfga-wY/hqdefault.jpg",
           "durationSeconds": 1160,
           "durationFormatted": "19:20",
-          "views": 20399,
-          "likes": 569,
+          "views": 22330,
+          "likes": 598,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-11T13:43:14Z"
+      "latestUpdateAt": "2026-01-11T14:51:02Z"
     },
     {
       "clusterId": "politics",
       "topic": "Mohan Yadav",
-      "videoCount": 38,
-      "trendScore": 63.2,
+      "videoCount": 41,
+      "trendScore": 63.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AV8Ig-9RMtU/hqdefault.jpg",
           "durationSeconds": 1422,
           "durationFormatted": "23:42",
-          "views": 21862,
-          "likes": 341,
+          "views": 22519,
+          "likes": 347,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/JGJ_xJ3EiTY/hqdefault.jpg",
           "durationSeconds": 17,
           "durationFormatted": "00:17",
-          "views": 14790,
-          "likes": 110,
+          "views": 20800,
+          "likes": 177,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "hcC-sG0LU7o",
-          "title": "राजिम में MP का बच्चा बोला चेहरे में बंदन लगाने से बहुत पैसा मिलता है",
-          "description": "राजिम में MP का बच्चा बोला चेहरे में बंदन लगाने से बहुत पैसा मिलता है ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-01-11T08:30:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/hcC-sG0LU7o/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 5128,
-          "likes": 141,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "B30fIZ-EOyg",
           "title": "CG DA Hike: छत्तीसगढ़ के सरकारी कर्मचारियों की बल्ले-बल्ले, CM Sai ने किया ये ऐलान |#shorts",
           "description": "Increased Dearness Allowance: छत्तीसगढ़ में अधिकारी-कर्मचारियों के लिए बड़ी ...",
@@ -147,8 +132,23 @@
           "thumbnail": "https://i.ytimg.com/vi/B30fIZ-EOyg/hqdefault.jpg",
           "durationSeconds": 24,
           "durationFormatted": "00:24",
-          "views": 5107,
-          "likes": 18,
+          "views": 6801,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "hcC-sG0LU7o",
+          "title": "राजिम में MP का बच्चा बोला चेहरे में बंदन लगाने से बहुत पैसा मिलता है",
+          "description": "राजिम में MP का बच्चा बोला चेहरे में बंदन लगाने से बहुत पैसा मिलता है ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-01-11T08:30:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/hcC-sG0LU7o/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 6437,
+          "likes": 166,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/Pf9lDpnLcD0/hqdefault.jpg",
           "durationSeconds": 14398,
           "durationFormatted": "03:59:58",
-          "views": 4516,
+          "views": 4536,
           "likes": 32,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-11T13:25:40Z"
+      "latestUpdateAt": "2026-01-11T14:29:15Z"
     },
     {
       "clusterId": "crime",
-      "topic": "Sahu Viral",
-      "videoCount": 25,
-      "trendScore": 61.2,
+      "topic": "Sahu Irani",
+      "videoCount": 22,
+      "trendScore": 57.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oebjHX3WeN4/hqdefault.jpg",
           "durationSeconds": 502,
           "durationFormatted": "08:22",
-          "views": 14894,
-          "likes": 226,
+          "views": 15226,
+          "likes": 238,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Fk98Hk9wM4Q/hqdefault.jpg",
           "durationSeconds": 647,
           "durationFormatted": "10:47",
-          "views": 13062,
-          "likes": 200,
+          "views": 13961,
+          "likes": 212,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -216,28 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/e9_2vDtDbmc/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 3372,
-          "likes": 152,
+          "views": 3527,
+          "likes": 162,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "uB8ZCfxf8AY",
-          "title": "Seoni Viral Video: पुलिस के मौजूदगी में महिला की पिटाई! | Viral | Short | MP News | Latest |Top News",
-          "description": "Seoni Viral Video: पुलिस के मौजूदगी में महिला की पिटाई! | Viral | Short | MP News | Latest |Top ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-11T07:59:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/uB8ZCfxf8AY/hqdefault.jpg",
-          "durationSeconds": 17,
-          "durationFormatted": "00:17",
-          "views": 2070,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
           "videoId": "aZQPem2pqpM",
           "title": "चंद्रशेखर रावण की पुलिस को चेतावनी, हाथ मत लगाना | चंद्रशेखर रावण बनाम पुलिस | @tirandaj",
           "description": "chandrashekharravanvspolice #chandrashekharclasheswithpolice #naginamp #chandrashekharravan ...",
@@ -246,19 +231,34 @@
           "thumbnail": "https://i.ytimg.com/vi/aZQPem2pqpM/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 1983,
-          "likes": 124,
+          "views": 2194,
+          "likes": 134,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "wi3pskybSvE",
+          "title": "Raju Irani Arrested: Suraj में छिपा था Irani Gang का Mastermind, हत्थे चढ़ा!| Breaking | Bhopal News",
+          "description": "देशभर की पुलिस के लिए बीते दो दशकों से चुनौती बना भोपाल का कुख्यात ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-11T09:25:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/wi3pskybSvE/hqdefault.jpg",
+          "durationSeconds": 35,
+          "durationFormatted": "00:35",
+          "views": 1495,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-11T13:30:21Z"
+      "latestUpdateAt": "2026-01-11T13:57:21Z"
     },
     {
       "clusterId": "events",
       "topic": "Modi Somnath",
-      "videoCount": 15,
-      "trendScore": 52.8,
+      "videoCount": 13,
+      "trendScore": 50.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/If7N5FWj2Xs/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 17504,
-          "likes": 570,
+          "views": 20667,
+          "likes": 633,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -285,28 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/BKKjDp-tTX4/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 6452,
-          "likes": 372,
+          "views": 7415,
+          "likes": 380,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
-          "videoId": "tMjwH_IeLPY",
-          "title": "शिल्पा-शमिता शेट्टी ने महाकाल के किए दर्शन, शयन आरती में शामिल होकर लिया आशीर्वाद",
-          "description": "बाबा महाकाल के दर पर हर कोई जाता है, वो चाहे कोई बड़ा अभिनेता या ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-11T06:56:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/tMjwH_IeLPY/hqdefault.jpg",
-          "durationSeconds": 113,
-          "durationFormatted": "01:53",
-          "views": 3535,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
           "videoId": "c4NIqg0MC6Y",
           "title": "शादी के बंधन में बंधे नूपुर सेनन-स्टेबिन बेन, क्रिश्चियन रीति-रिवाजों से रचाई शादी",
           "description": "एक्ट्रेस कृति सेनन की छोटी बहन नूपुर सेनन अपनी शादी को लेकर ...",
@@ -315,13 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/c4NIqg0MC6Y/hqdefault.jpg",
           "durationSeconds": 33,
           "durationFormatted": "00:33",
-          "views": 2195,
+          "views": 2590,
           "likes": 12,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "gjv7v9Nsgr4",
           "title": "Bhopal से LIVE CM Mohan Yadav द्वारा कृषक कल्याण वर्ष-2026 का भव्य शुभारंभ| India News",
           "description": "मुख्यमंत्री डॉ. मोहन यादव द्वारा कृषक कल्याण वर्ष-2026 का भव्य ...",
@@ -330,8 +315,23 @@
           "thumbnail": "https://i.ytimg.com/vi/gjv7v9Nsgr4/hqdefault.jpg",
           "durationSeconds": 1750,
           "durationFormatted": "29:10",
-          "views": 1055,
-          "likes": 12,
+          "views": 1267,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "qE2qqNgV1gY",
+          "title": "CM Dr. Mohan Yadav LIVE | कृषक कल्याण-2026 का सीएम ने किया शुभारंभ | ट्रैक्टर्स की भव्य रैली का आगाज",
+          "description": "IBC24, CM Dr. Mohan Yadav LIVE | कृषक कल्याण-2026 का सीएम ने किया शुभारंभ ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-11T09:56:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/qE2qqNgV1gY/hqdefault.jpg",
+          "durationSeconds": 2006,
+          "durationFormatted": "33:26",
+          "views": 744,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -341,8 +341,8 @@
     {
       "clusterId": "jobs",
       "topic": "Bhilai Chhattisgarh",
-      "videoCount": 6,
-      "trendScore": 35.9,
+      "videoCount": 4,
+      "trendScore": 32.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,28 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Y00b_N2F3Go/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 17750,
+          "views": 21547,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
           "index": 2,
-          "videoId": "jTcPgJp_JCo",
-          "title": "का तै मोला मोहनी डार दिये रे छत्तीसगढ़ी डरावनी मूवी इंटरव्यू...",
-          "description": "का तै मोला मोहनी डार दिये रे छत्तीसगढ़ी डरावनी मूवी इंटरव्यू... Join this ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-01-11T10:30:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/jTcPgJp_JCo/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 4214,
-          "likes": 167,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 3,
           "videoId": "TXRS-e-Fc2w",
           "title": "Bhilai के Smriti Nagar में Congress पार्षद ने चलवाया Bulldozer ! Bhilai News || Bharti Media Network",
           "description": "Bhilai के Smriti Nagar में Congress पार्षद ने चलवाया Bulldozer ! Bhilai News || Bharti Media Network ...",
@@ -384,49 +369,127 @@
           "thumbnail": "https://i.ytimg.com/vi/TXRS-e-Fc2w/hqdefault.jpg",
           "durationSeconds": 1053,
           "durationFormatted": "17:33",
-          "views": 1125,
+          "views": 1309,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 3,
+          "videoId": "hj5yBw66PKs",
+          "title": "Muslim बना था साधु Chhattisgarh Bajrangdal ने किया Expose!#shorts #shortsfeed #ytshorts #bajrangdal",
+          "description": "Muslim बना था साधु Chhattisgarh Bajrangdal ने किया Expose ! Bharti Media Network || Sharik Khan #bhilainews ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-01-10T15:20:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/hj5yBw66PKs/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 589,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
           "index": 4,
-          "videoId": "r4S-EMnpwAY",
-          "title": "EPFO Latest Update : अभी-अभी प्राइवेट नौकरी वालों की हो गई बल्ले-बल्ले? | Top News | Breaking News",
-          "description": "EPFO Latest Update : अभी-अभी प्राइवेट नौकरी वालों की हो गई बल्ले-बल्ले? | Top News ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-11T10:40:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/r4S-EMnpwAY/hqdefault.jpg",
-          "durationSeconds": 200,
-          "durationFormatted": "03:20",
-          "views": 935,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 5,
-          "videoId": "4eX665Wnc5s",
-          "title": "Muslim बना था साधु Chhattisgarh Bajrangdal ने किया Expose ! Bharti Media Network || Sharik Khan ",
-          "description": "Muslim बना था साधु Chhattisgarh Bajrangdal ने किया Expose ! Bharti Media Network || Sharik Khan #bhilainews ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-01-10T14:47:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/4eX665Wnc5s/hqdefault.jpg",
-          "durationSeconds": 919,
-          "durationFormatted": "15:19",
-          "views": 839,
+          "videoId": "2hDOBKbYYS8",
+          "title": "Bhind Jackal Attack: सियार ने महिला पर किया हमला। महिला गंभीर घायल, अस्पताल में भर्ती",
+          "description": "IBC24, Bhind Jackal Attack, सियार ने महिला पर किया हमला, महिला गंभीर घायल, अस्पताल ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-11T11:41:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/2hDOBKbYYS8/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-01-11T10:40:36Z"
+      "latestUpdateAt": "2026-01-11T11:41:36Z"
+    },
+    {
+      "clusterId": "live",
+      "topic": "Bansal MPCG",
+      "videoCount": 1,
+      "trendScore": 26.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "K8UTsO7GOn8",
+          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
+          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-11T08:41:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/K8UTsO7GOn8/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 776,
+          "likes": 6,
+          "videoType": "LIVE",
+          "genre": "Live"
+        }
+      ],
+      "latestUpdateAt": "2026-01-11T08:41:53Z"
+    },
+    {
+      "clusterId": "traffic",
+      "topic": "Road Accident",
+      "videoCount": 3,
+      "trendScore": 25.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "cC6tgAINcjU",
+          "title": "Jabalpur Road Accident: तेज रफ्तार ट्रक ने स्कूटी को मारी टक्कर। एक महिला की मौके पर मौत, एक गंभीर",
+          "description": "IBC24, Jabalpur Road Accident, तेज रफ्तार ट्रक ने स्कूटी को मारी टक्कर, एक महिला की ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-11T11:33:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/cC6tgAINcjU/hqdefault.jpg",
+          "durationSeconds": 64,
+          "durationFormatted": "01:04",
+          "views": 208,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "mrggvbvhmPU",
+          "title": "Damoh Road Accident: तेज रफ्तार बस और कार में भिड़ंत। हादसे में 8 लोग घायल",
+          "description": "IBC24, Damoh Road Accident, तेज रफ्तार बस और कार में भिड़ंत, हादसे में 8 लोग घायल ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-11T11:30:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/mrggvbvhmPU/hqdefault.jpg",
+          "durationSeconds": 68,
+          "durationFormatted": "01:08",
+          "views": 115,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "tNLGLGo-JVo",
+          "title": "Chhatarpur Drunk and Drive Case: कार और ट्रक में हुई जोरदार टक्कर | नशे में धुत था कार ड्राइवर",
+          "description": "IBC24, Chhatarpur Drunk and Drive Case: कार और ट्रक में हुई जोरदार टक्कर | नशे में धुत ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-11T07:56:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/tNLGLGo-JVo/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 29,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-01-11T11:33:49Z"
     },
     {
       "clusterId": "civic",
       "topic": "Raipur Uzbekistan",
       "videoCount": 2,
-      "trendScore": 24.0,
+      "trendScore": 24.6,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +501,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CDYTso_GhBY/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 135,
+          "views": 270,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -460,99 +523,6 @@
         }
       ],
       "latestUpdateAt": "2026-01-11T12:22:26Z"
-    },
-    {
-      "clusterId": "traffic",
-      "topic": "Damoh Road",
-      "videoCount": 3,
-      "trendScore": 23.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "mrggvbvhmPU",
-          "title": "Damoh Road Accident: तेज रफ्तार बस और कार में भिड़ंत। हादसे में 8 लोग घायल",
-          "description": "IBC24, Damoh Road Accident, तेज रफ्तार बस और कार में भिड़ंत, हादसे में 8 लोग घायल ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-11T11:30:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/mrggvbvhmPU/hqdefault.jpg",
-          "durationSeconds": 68,
-          "durationFormatted": "01:08",
-          "views": 64,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "tNLGLGo-JVo",
-          "title": "Chhatarpur Drunk and Drive Case: कार और ट्रक में हुई जोरदार टक्कर | नशे में धुत था कार ड्राइवर",
-          "description": "IBC24, Chhatarpur Drunk and Drive Case: कार और ट्रक में हुई जोरदार टक्कर | नशे में धुत ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-11T07:56:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/tNLGLGo-JVo/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 22,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "2hDOBKbYYS8",
-          "title": "Bhind Jackal Attack: सियार ने महिला पर किया हमला। महिला गंभीर घायल, अस्पताल में भर्ती",
-          "description": "IBC24, Bhind Jackal Attack, सियार ने महिला पर किया हमला, महिला गंभीर घायल, अस्पताल ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-11T11:41:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/2hDOBKbYYS8/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-01-11T11:41:36Z"
-    },
-    {
-      "clusterId": "live",
-      "topic": "Irani Dera",
-      "videoCount": 2,
-      "trendScore": 17.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "fUPxOvnj7fY",
-          "title": "Irani Dera Chief: ईरानी डेरे के सरगना को इतनी दिन की रिमांड | मामले पर ईरानी की पत्नी का बड़ा बयान",
-          "description": "IBC24, Irani Dera Chief: ईरानी डेरे के सरगना को इतनी दिन की रिमांड | मामले पर ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-11T13:46:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/fUPxOvnj7fY/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 1,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "index": 2,
-          "videoId": "q3IVHTIUwSo",
-          "title": "CG DA Hike: छत्तीसगढ़ के सरकारी कर्मचारियों की बल्ले-बल्ले, CM Sai ने किया ये ऐलान | Top News",
-          "description": "Increased Dearness Allowance: छत्तीसगढ़ में अधिकारी-कर्मचारियों के लिए बड़ी ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-11T13:47:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/q3IVHTIUwSo/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 0,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        }
-      ],
-      "latestUpdateAt": "2026-01-11T13:47:02Z"
     }
   ]
 }
