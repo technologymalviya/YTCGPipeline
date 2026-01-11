@@ -245,7 +245,7 @@ def normalize(text: str) -> str:
     text = re.sub(r"[^\w\s\u0900-\u097F]", "", text)
     # Normalize multiple spaces to single space
     text = re.sub(r"\s+", " ", text).strip()
-
+    
     replacements = {
         "h!dsa": "हादसा",
         "ha*dsa": "हादसा",
@@ -310,44 +310,48 @@ def classify_genre(title: str, description: str = "") -> str:
         "हत्या", "कत्ल", "लाश", "शव", "मौत", "अपराध", "अपराधी",
         "गिरफ्तार", "गिरफ्तारी", "संदिग्ध", "आरोपी",
         "पुलिस", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
-        "जांच", "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग"
+        "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग",
+        # Context-specific: जांच only when combined with crime terms
+        "अपराध जांच", "पुलिस जांच", "हत्या जांच", "मुकदमा जांच"
     ]
     
     # Traffic keywords - specific traffic/accident terms
     traffic_keywords = [
-        # English - strong single-word indicators
-        "accident", "collision", "crash", "traffic", "jam",
-        "ambulance", "rescue", "injured", "highway", "expressway",
-        # English - multi-word phrases for stronger matching
+        # English - multi-word phrases for stronger matching (check first)
         "traffic accident", "road accident", "car accident", "vehicle accident",
         "traffic jam", "road jam",
         "head-on collision", "rear-end collision",
         "fatal accident", "deadly accident",
-        # Hindi/Devanagari - strong single-word indicators
-        "दुर्घटना", "हादसा", "टक्कर", "जाम", "घायल", "एम्बुलेंस",
-        # Hindi/Devanagari - multi-word phrases
+        # Hindi/Devanagari - multi-word phrases (check first)
         "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
-        "ट्रैफिक जाम", "सड़क जाम"
+        "ट्रैफिक जाम", "सड़क जाम",
+        # English - strong single-word indicators (context-specific)
+        "accident", "collision", "crash", "traffic", "jam",
+        "ambulance", "rescue", "highway", "expressway",
+        # Hindi/Devanagari - strong single-word indicators (context-specific)
+        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस"
+        # Note: "घायल" (injured) removed - too generic, appears in non-traffic contexts
     ]
     
     # Jobs keywords - specific employment/job terms
     jobs_keywords = [
         # English - strong single-word indicators
         "job", "jobs", "recruitment", "vacancy", "hiring", "employment", "bharti", "bharte",
-        "interview", "career", "opportunity", "post", "application", "opening",
+        "career", "opportunity", "post", "application", "opening",
         "admit card", "merit", "salary", "wage", "exam",
         # English - multi-word phrases for stronger matching
         "job notification", "job vacancy", "job opening", "job opportunity",
         "government job", "sarkari naukri", "govt job",
         "job application", "apply for job",
         "exam result", "merit list",
-        "walk-in interview", "job interview",
+        "walk-in interview", "job interview", "employment interview",
         "pay scale", "vacancy notification",
         # Hindi/Devanagari - strong single-word indicators
         "नौकरी", "रोजगार", "भर्ती", "आवेदन", "एडमिट कार्ड",
-        "रिजल्ट", "मेरिट", "परीक्षा", "इंटरव्यू", "वेतन",
-        # Hindi/Devanagari - multi-word phrases
-        "सरकारी नौकरी", "नौकरी सूचना"
+        "रिजल्ट", "मेरिट", "परीक्षा", "वेतन",
+        # Hindi/Devanagari - multi-word phrases (context-specific)
+        "सरकारी नौकरी", "नौकरी सूचना",
+        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू"
     ]
 
     # Events keywords - specific event/festival terms
@@ -388,7 +392,9 @@ def classify_genre(title: str, description: str = "") -> str:
         "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र",
         "आधार", "पैन कार्ड", "मतदाता पहचान",
         "ड्राइविंग लाइसेंस", "पासपोर्ट",
-        "मेयर", "कमिश्नर", "पार्षद"
+        "मेयर", "कमिश्नर", "पार्षद",
+        # Safety inspections and administrative checks
+        "सुरक्षा जांच", "स्कूल बस जांच", "वाहन जांच", "सार्वजनिक जांच"
     ]
     
     # Politics keywords - specific political terms
@@ -400,12 +406,14 @@ def classify_genre(title: str, description: str = "") -> str:
         "political rally", "political speech",
         "budget", "assembly session", "parliament",
         "political leader", "politician",
+        "councilor", "councillor", "alderman",
         # Hindi/Devanagari - specific political terms
         "चुनाव", "मतदान", "वोट",
         "मंत्री", "मुख्यमंत्री", "विधायक", "सांसद",
         "सरकार", "पार्टी", "राजनीति",
         "रैली", "भाषण", "अभियान",
-        "बजट", "विधानसभा", "संसद", "नेता"
+        "बजट", "विधानसभा", "संसद", "नेता",
+        "पार्षद"  # Councilor - political position
     ]
 
     # Create patterns and check in order of specificity
@@ -417,15 +425,15 @@ def classify_genre(title: str, description: str = "") -> str:
     politics_patterns = create_patterns(politics_keywords)
 
     # Check each category - order matters (most specific first)
-    # Crime - most specific, check first
-    for pattern in crime_patterns:
-        if pattern.search(text):
-            return GENRE_CRIME
-
-    # Traffic - specific accidents/jams
+    # Traffic - check BEFORE Crime (road accidents can have deaths but should be Traffic)
     for pattern in traffic_patterns:
         if pattern.search(text):
             return GENRE_TRAFFIC
+
+    # Crime - specific crime terms (check after Traffic to avoid false positives)
+    for pattern in crime_patterns:
+        if pattern.search(text):
+            return GENRE_CRIME
 
     # Jobs - employment opportunities
     for pattern in jobs_patterns:
@@ -651,7 +659,7 @@ def generate_ott_json(feed: List[Dict]) -> Dict:
     jobs_news = filter_by_genre(feed, [GENRE_JOBS])
     events_news = filter_by_genre(feed, [GENRE_EVENTS])
     civic_news = filter_by_genre(feed, [GENRE_CIVIC])
-
+    
     sections = [
         {"section": SECTION_LIVE, "count": len(live_news), "items": live_news},
         {"section": SECTION_SCHEDULED, "count": len(scheduled_news), "items": scheduled_news},
