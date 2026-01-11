@@ -27,6 +27,7 @@ YOUTUBE_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 # Environment Variable Names
 ENV_YOUTUBE_API_KEY = "YOUTUBE_API_KEY"
 ENV_BHILAI_CHANNELS = "BHILAI_CHANNELS"
+ENV_CHANNEL_PROVIDERS = "CHANNEL_PROVIDERS"
 
 # Error Messages
 MSG_API_KEY_NOT_SET = "WARNING: YOUTUBE_API_KEY not set. Not updating output file."
@@ -42,6 +43,7 @@ MSG_NO_VIDEOS = "WARNING: No videos fetched. This may indicate all API keys are 
 MSG_PRESERVE_DATA = "Not updating output.json to preserve existing data."
 MSG_KEEP_EXISTING = "Keeping existing output.json file (if present)"
 MSG_SET_CHANNELS = "Please set the BHILAI_CHANNELS environment variable with comma-separated channel IDs."
+MSG_SET_PROVIDERS = "Please set the CHANNEL_PROVIDERS environment variable with JSON configuration for provider-based channel control."
 
 # Error Types
 ERR_QUOTA_REASON = "quotaExceeded"
@@ -175,8 +177,59 @@ def is_invalid_api_key_error(response):
             pass
     return False
 
+def load_channel_providers():
+    """
+    Load channel providers configuration from environment variable.
+    Supports JSON format: {"provider1": {"channels": ["id1", "id2"], "maxChannels": 5}, ...}
+    Returns dict with provider names as keys and their channel lists as values.
+    """
+    providers_env = os.environ.get(ENV_CHANNEL_PROVIDERS, "")
+    if providers_env:
+        try:
+            providers_config = json.loads(providers_env)
+            if isinstance(providers_config, dict):
+                result = {}
+                for provider_name, provider_data in providers_config.items():
+                    if isinstance(provider_data, dict):
+                        channels = provider_data.get("channels", [])
+                        max_channels = provider_data.get("maxChannels", None)
+                        
+                        # Filter channels if maxChannels is specified
+                        if max_channels is not None and isinstance(max_channels, int) and max_channels > 0:
+                            channels = channels[:max_channels]
+                        
+                        if channels:
+                            result[provider_name] = channels
+                    elif isinstance(provider_data, list):
+                        # Support simple list format: {"provider1": ["id1", "id2"]}
+                        if provider_data:
+                            result[provider_name] = provider_data
+                
+                if result:
+                    return result
+        except (json.JSONDecodeError, TypeError, ValueError) as e:
+            print(f"[WARNING] Failed to parse CHANNEL_PROVIDERS JSON: {e}")
+            print("[INFO] Falling back to BHILAI_CHANNELS format")
+    
+    return None
+
 def load_bhilai_channels():
-    """Load channel IDs from environment variable."""
+    """
+    Load channel IDs from environment variable.
+    First tries CHANNEL_PROVIDERS (provider-based), then falls back to BHILAI_CHANNELS (flat list).
+    Returns list of channel IDs (flat list for backward compatibility).
+    """
+    # Try provider-based configuration first
+    providers = load_channel_providers()
+    if providers:
+        # Flatten all provider channels into a single list
+        all_channels = []
+        for provider_name, channels in providers.items():
+            print(f"[INFO] Provider '{provider_name}': {len(channels)} channel(s)")
+            all_channels.extend(channels)
+        return all_channels
+    
+    # Fallback to old comma-separated format
     channels_env = os.environ.get(ENV_BHILAI_CHANNELS, "")
     if channels_env:
         # Parse comma-separated channel IDs from environment variable
@@ -187,6 +240,23 @@ def load_bhilai_channels():
     return []
 
 BHILAI_CHANNELS = load_bhilai_channels()
+
+def get_channel_providers_map():
+    """
+    Get mapping of channel IDs to their providers.
+    Returns dict with channel_id as key and provider_name as value.
+    """
+    providers = load_channel_providers()
+    if not providers:
+        return {}
+    
+    channel_to_provider = {}
+    for provider_name, channels in providers.items():
+        for channel_id in channels:
+            channel_to_provider[channel_id] = provider_name
+    return channel_to_provider
+
+CHANNEL_PROVIDERS_MAP = get_channel_providers_map()
 
 
 def _safe_int(x, default=0) -> int:
@@ -231,12 +301,19 @@ def format_duration(seconds: int) -> str:
 
 def normalize(text: str) -> str:
     """Normalize text for genre classification."""
+    if not text:
+        return ""
+    
     text = text.lower()
-    text = re.sub(r"[^\w\s\u0900-\u097F]", "", text)
+    # Keep spaces, word characters, and Devanagari characters
+    text = re.sub(r"[^\w\s\u0900-\u097F]", " ", text)
+    # Normalize multiple spaces to single space
+    text = re.sub(r"\s+", " ", text).strip()
     
     replacements = {
         "h!dsa": "हादसा",
         "ha*dsa": "हादसा",
+        "h@dsa": "हादसा",
         "mou.t": "मौत",
         "mou t": "मौत",
         "la sh": "लाश",
@@ -244,6 +321,12 @@ def normalize(text: str) -> str:
         "murd r": "murder",
         "murdर": "murder",
         "रफ्त!र": "रफ्तार",
+        "d!rt": "दुर्घटना",
+        "durghatna": "दुर्घटना",
+        "hadsa": "हादसा",
+        "mout": "मौत",
+        "lash": "लाश",
+        "hatya": "हत्या",
     }
     
     for k, v in replacements.items():
@@ -253,35 +336,84 @@ def normalize(text: str) -> str:
 
 
 def classify_genre(title: str, description: str = "") -> str:
-    """Classify video genre based on title and description."""
-    text = normalize(f"{title or ''} {description or ''}")
+    """Classify video genre based on title and description with improved matching."""
+    # Normalize title and description separately for better weighting
+    title_text = normalize(title or "")
+    desc_text = normalize(description or "")
     
-    # Crime keywords
+    # Combine with title having more weight (appears 3 times)
+    text = f"{title_text} {title_text} {title_text} {desc_text}"
+    
+    # Crime keywords (expanded list)
     crime_keywords = [
-        "murder", "killed", "death", "crime", "loot", "robbery",
-        "assault", "rape", "fraud", "arrest", "police", "gang",
-        "हत्या", "मौत", "लाश", "अपराध", "गिरफ्तार", "पुलिस"
+        # English
+        "murder", "killed", "killing", "death", "dead", "died", "crime", "criminal",
+        "loot", "robbery", "rob", "assault", "rape", "fraud", "arrest", "arrested",
+        "police", "gang", "shoot", "shot", "stab", "knife", "weapon", "violence",
+        "suspect", "accused", "jail", "prison", "court", "judge", "case", "investigation",
+        # Hindi/Devanagari
+        "हत्या", "मौत", "लाश", "शव", "अपराध", "अपराधी", "गिरफ्तार", "गिरफ्तारी",
+        "पुलिस", "हत्या", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
+        "जांच", "संदिग्ध", "आरोपी", "हिंसा", "चाकू", "बंदूक", "गोली"
     ]
     
-    # Traffic keywords
+    # Traffic keywords (expanded list)
     traffic_keywords = [
-        "accident", "traffic", "jam", "collision", "crash",
-        "दुर्घटना", "हादसा", "जाम", "टक्कर"
+        # English
+        "accident", "traffic", "jam", "collision", "crash", "vehicle", "car",
+        "bus", "truck", "road", "highway", "injured", "injury", "ambulance",
+        "blocked", "congestion", "lane", "signal", "intersection", "bridge",
+        # Hindi/Devanagari
+        "दुर्घटना", "हादसा", "जाम", "टक्कर", "वाहन", "कार", "बस", "ट्रक",
+        "सड़क", "हाइवे", "घायल", "चोट", "एम्बुलेंस", "रुका", "भीड़", "लेन",
+        "सिग्नल", "चौराहा", "पुल", "रफ्तार"
     ]
     
-    # Politics keywords
+    # Politics keywords (expanded list)
     politics_keywords = [
-        "election", "minister", "mla", "mp", "cm", "government",
-        "चुनाव", "मंत्री", "सरकार", "राजनीति"
+        # English
+        "election", "vote", "voting", "minister", "ministry", "mla", "mp", "cm",
+        "chief minister", "government", "govt", "party", "political", "politician",
+        "leader", "speech", "rally", "campaign", "candidate", "constituency",
+        "parliament", "assembly", "budget", "policy", "scheme", "program",
+        # Hindi/Devanagari
+        "चुनाव", "वोट", "मतदान", "मंत्री", "मंत्रालय", "विधायक", "सांसद",
+        "मुख्यमंत्री", "सरकार", "पार्टी", "राजनीति", "राजनीतिक", "नेता", "भाषण",
+        "रैली", "अभियान", "उम्मीदवार", "निर्वाचन क्षेत्र", "संसद", "विधानसभा",
+        "बजट", "नीति", "योजना", "कार्यक्रम"
     ]
     
-    # Check each category
-    if any(kw in text for kw in crime_keywords):
-        return GENRE_CRIME
-    if any(kw in text for kw in traffic_keywords):
-        return GENRE_TRAFFIC
-    if any(kw in text for kw in politics_keywords):
-        return GENRE_POLITICS
+    # Create word boundary patterns for better matching
+    def create_patterns(keywords):
+        """Create regex patterns with word boundaries for better matching."""
+        patterns = []
+        for kw in keywords:
+            # Use word boundaries for English, space boundaries for Hindi
+            if re.search(r'[\u0900-\u097F]', kw):
+                # Hindi/Devanagari - use space or start/end of string
+                pattern = r'(?:^|\s)' + re.escape(kw) + r'(?:\s|$)'
+            else:
+                # English - use word boundaries
+                pattern = r'\b' + re.escape(kw) + r'\b'
+            patterns.append(re.compile(pattern, re.IGNORECASE))
+        return patterns
+    
+    crime_patterns = create_patterns(crime_keywords)
+    traffic_patterns = create_patterns(traffic_keywords)
+    politics_patterns = create_patterns(politics_keywords)
+    
+    # Check each category with pattern matching
+    for pattern in crime_patterns:
+        if pattern.search(text):
+            return GENRE_CRIME
+    
+    for pattern in traffic_patterns:
+        if pattern.search(text):
+            return GENRE_TRAFFIC
+    
+    for pattern in politics_patterns:
+        if pattern.search(text):
+            return GENRE_POLITICS
     
     return GENRE_GENERAL
 
@@ -517,7 +649,12 @@ def main():
         }
     elif not BHILAI_CHANNELS:
         print(MSG_CHANNELS_NOT_SET)
-        print(MSG_SET_CHANNELS)
+        providers = load_channel_providers()
+        if providers:
+            print(f"[INFO] CHANNEL_PROVIDERS format detected with {len(providers)} provider(s)")
+            print(MSG_SET_CHANNELS)
+        else:
+            print(MSG_SET_CHANNELS)
         should_update_file = False
         json_data = {
             "generatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
@@ -526,6 +663,11 @@ def main():
         }
     else:
         print(f"Loaded {len(API_KEYS)} API key(s) for fallback support")
+        providers = load_channel_providers()
+        if providers:
+            print(f"[INFO] Using provider-based channel configuration: {len(providers)} provider(s)")
+            for provider_name, channels in providers.items():
+                print(f"  - {provider_name}: {len(channels)} channel(s)")
         print(f"Fetching videos from {len(BHILAI_CHANNELS)} Bhilai news channels...")
         feed = aggregate_bhilai_videos(BHILAI_CHANNELS)
         feed = add_genres_to_feed(feed)
