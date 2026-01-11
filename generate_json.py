@@ -61,6 +61,9 @@ GENRE_SCHEDULED = "Scheduled"
 GENRE_CRIME = "Crime"
 GENRE_TRAFFIC = "Traffic"
 GENRE_POLITICS = "Politics"
+GENRE_JOBS = "Jobs"
+GENRE_EVENTS = "Events"
+GENRE_CIVIC = "Civic"
 GENRE_GENERAL = "General"
 
 # Section Names
@@ -69,6 +72,9 @@ SECTION_SCHEDULED = "Scheduled"
 SECTION_CRIME = "Crime"
 SECTION_TRAFFIC = "Traffic"
 SECTION_POLITICS = "Politics"
+SECTION_JOBS = "Jobs"
+SECTION_EVENTS = "Events"
+SECTION_CIVIC = "Civic"
 SECTION_GENERAL = "General"
 
 # Section -> Index map (per requested mapping)
@@ -231,12 +237,19 @@ def format_duration(seconds: int) -> str:
 
 def normalize(text: str) -> str:
     """Normalize text for genre classification."""
+    if not text:
+        return ""
+
     text = text.lower()
+    # Keep spaces, word characters, and Devanagari characters
     text = re.sub(r"[^\w\s\u0900-\u097F]", "", text)
-    
+    # Normalize multiple spaces to single space
+    text = re.sub(r"\s+", " ", text).strip()
+
     replacements = {
         "h!dsa": "हादसा",
         "ha*dsa": "हादसा",
+        "h@dsa": "हादसा",
         "mou.t": "मौत",
         "mou t": "मौत",
         "la sh": "लाश",
@@ -244,6 +257,12 @@ def normalize(text: str) -> str:
         "murd r": "murder",
         "murdर": "murder",
         "रफ्त!र": "रफ्तार",
+        "d!rt": "दुर्घटना",
+        "durghatna": "दुर्घटना",
+        "hadsa": "हादसा",
+        "mout": "मौत",
+        "lash": "लाश",
+        "hatya": "हत्या",
     }
     
     for k, v in replacements.items():
@@ -252,36 +271,156 @@ def normalize(text: str) -> str:
     return text
 
 
+ # Create word boundary patterns for better matching
+def create_patterns(keywords):
+    """Create regex patterns with word boundaries for better matching."""
+    patterns = []
+    for kw in keywords:
+        # Use word boundaries for English, space boundaries for Hindi
+        if re.search(r'[\u0900-\u097F]', kw):
+            # Hindi/Devanagari - use space or start/end of string
+            pattern = r'(?:^|\s)' + re.escape(kw) + r'(?:\s|$)'
+        else:
+            # English - use word boundaries
+            pattern = r'\b' + re.escape(kw) + r'\b'
+        patterns.append(re.compile(pattern, re.IGNORECASE))
+    return patterns
+
 def classify_genre(title: str, description: str = "") -> str:
     """Classify video genre based on title and description."""
     text = normalize(f"{title or ''} {description or ''}")
     
     # Crime keywords
     crime_keywords = [
-        "murder", "killed", "death", "crime", "loot", "robbery",
-        "assault", "rape", "fraud", "arrest", "police", "gang",
-        "हत्या", "मौत", "लाश", "अपराध", "गिरफ्तार", "पुलिस"
+        # English
+        "murder", "killed", "killing", "death", "dead", "died", "crime", "criminal",
+        "loot", "robbery", "rob", "assault", "rape", "fraud", "arrest", "arrested",
+        "police", "gang", "shoot", "shot", "stab", "knife", "weapon", "violence",
+        "suspect", "accused", "jail", "prison", "court", "judge", "case", "investigation",
+        # Hindi/Devanagari
+        "हत्या", "मौत", "लाश", "शव", "अपराध", "अपराधी", "गिरफ्तार", "गिरफ्तारी",
+        "पुलिस", "हत्या", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
+        "जांच", "संदिग्ध", "आरोपी", "हिंसा", "चाकू", "बंदूक", "गोली"
     ]
     
-    # Traffic keywords
+    # Traffic keywords (expanded list)
     traffic_keywords = [
-        "accident", "traffic", "jam", "collision", "crash",
-        "दुर्घटना", "हादसा", "जाम", "टक्कर"
+        # English
+        "accident", "traffic", "jam", "collision", "crash", "vehicle", "car",
+        "bus", "truck", "road", "highway", "injured", "injury", "ambulance",
+        "blocked", "congestion", "lane", "signal", "intersection", "bridge",
+        # Hindi/Devanagari
+        "दुर्घटना", "हादसा", "जाम", "टक्कर", "वाहन", "कार", "बस", "ट्रक",
+        "सड़क", "हाइवे", "घायल", "चोट", "एम्बुलेंस", "रुका", "भीड़", "लेन",
+        "सिग्नल", "चौराहा", "पुल", "रफ्तार"
     ]
     
-    # Politics keywords
+    # Politics keywords (expanded list)
     politics_keywords = [
-        "election", "minister", "mla", "mp", "cm", "government",
-        "चुनाव", "मंत्री", "सरकार", "राजनीति"
+        # English
+        "election", "vote", "voting", "minister", "ministry", "mla", "mp", "cm",
+        "chief minister", "government", "govt", "party", "political", "politician",
+        "leader", "speech", "rally", "campaign", "candidate", "constituency",
+        "parliament", "assembly", "budget", "policy", "scheme", "program",
+        # Hindi/Devanagari
+        "चुनाव", "वोट", "मतदान", "मंत्री", "मंत्रालय", "विधायक", "सांसद",
+        "मुख्यमंत्री", "सरकार", "पार्टी", "राजनीति", "राजनीतिक", "नेता", "भाषण",
+        "रैली", "अभियान", "उम्मीदवार", "निर्वाचन क्षेत्र", "संसद", "विधानसभा",
+        "बजट", "नीति", "योजना", "कार्यक्रम"
     ]
-    
-    # Check each category
-    if any(kw in text for kw in crime_keywords):
+
+    # Jobs keywords
+    jobs_keywords = [
+        # English
+        "job", "jobs", "employment", "recruitment", "vacancy", "vacancies", "hiring",
+        "interview", "career", "opportunity", "opportunities", "post", "posts",
+        "notification", "admit card", "result", "exam", "examination", "syllabus",
+        "apply", "application", "form", "salary", "wage", "wages", "position",
+        "opening", "openings", "govt job", "government job", "sarkari naukri",
+        "walk in", "walk-in", "bharti", "bharte", "roster", "merit", "cutoff",
+        # Hindi/Devanagari
+        "नौकरी", "रोजगार", "भर्ती", "रिक्ति", "रिक्तियां", "भरती", "भर्ती",
+        "इंटरव्यू", "करियर", "अवसर", "पद", "पदों", "सूचना", "एडमिट कार्ड",
+        "रिजल्ट", "परिणाम", "परीक्षा", "सिलेबस", "आवेदन", "फॉर्म", "वेतन",
+        "पदस्थापना", "सरकारी नौकरी", "सरकारी रोजगार", "भर्ती", "मेरिट", "कटऑफ"
+    ]
+
+    # Events keywords
+    events_keywords = [
+        # English
+        "event", "events", "festival", "celebration", "ceremony", "function",
+        "program", "programme", "conference", "meeting", "gathering", "fair",
+        "exhibition", "show", "concert", "performance", "inauguration", "launch",
+        "anniversary", "birthday", "wedding", "marriage", "fest", "mela", "utsav",
+        "kumbh", "mela", "jatra", "yatra", "puja", "aarti", "pooja", "prayer",
+        "cultural", "religious", "traditional", "commemoration", "memorial",
+        # Hindi/Devanagari
+        "कार्यक्रम", "उत्सव", "त्योहार", "समारोह", "सम्मेलन", "बैठक", "मेला",
+        "प्रदर्शनी", "शो", "संगीत", "प्रदर्शन", "उद्घाटन", "शुभारंभ", "जन्मदिन",
+        "शादी", "विवाह", "मेला", "यात्रा", "पूजा", "आरती", "प्रार्थना", "सांस्कृतिक",
+        "धार्मिक", "परंपरागत", "स्मरण", "महाकुंभ", "कुंभ", "जलसा"
+    ]
+
+    # Civic keywords (civic services, public services, community issues)
+    civic_keywords = [
+        # English
+        "civic", "municipal", "municipality", "corporation", "municipal corporation",
+        "water supply", "electricity", "power", "street light", "road", "street",
+        "drainage", "sewage", "garbage", "waste", "cleanliness", "swachh", "swachhta",
+        "public health", "sanitation", "pothole", "repair", "maintenance", "development",
+        "infrastructure", "public works", "pwd", "public welfare", "community", "ward",
+        "councilor", "mayor", "commissioner", "complaint", "grievance", "petition",
+        "tax", "property tax", "house tax", "license", "permit", "certificate",
+        "birth certificate", "death certificate", "marriage certificate", "ration",
+        "aadhaar", "pan card", "voter id", "driving license", "passport", "service",
+        "public service", "citizen service", "csc", "common service center",
+        # Hindi/Devanagari
+        "नगर निगम", "नगर पालिका", "नगर पंचायत", "पानी", "जल", "बिजली", "सड़क",
+        "गली", "नाली", "नालियां", "कचरा", "सफाई", "स्वच्छ", "स्वच्छता", "सार्वजनिक स्वास्थ्य",
+        "स्वच्छता", "गड्ढा", "मरम्मत", "रखरखाव", "विकास", "बुनियादी ढांचा", "निर्माण",
+        "सार्वजनिक कार्य", "समुदाय", "वार्ड", "पार्षद", "मेयर", "कमिश्नर", "शिकायत",
+        "कर", "संपत्ति कर", "घर कर", "लाइसेंस", "परमिट", "प्रमाणपत्र", "जन्म प्रमाणपत्र",
+        "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र", "राशन", "आधार", "पैन कार्ड", "मतदाता पहचान पत्र",
+        "ड्राइविंग लाइसेंस", "पासपोर्ट", "सेवा", "सार्वजनिक सेवा", "नागरिक सेवा"
+    ]
+
+    crime_patterns = create_patterns(crime_keywords)
+    traffic_patterns = create_patterns(traffic_keywords)
+    politics_patterns = create_patterns(politics_keywords)
+    jobs_patterns = create_patterns(jobs_keywords)
+    events_patterns = create_patterns(events_keywords)
+    civic_patterns = create_patterns(civic_keywords)
+
+    # Check each category with pattern matching (order matters - more specific first)
+    # Check Crime first (most specific)
+    for pattern in crime_patterns:
+        if pattern.search(text):
         return GENRE_CRIME
-    if any(kw in text for kw in traffic_keywords):
+
+    # Check Traffic
+    for pattern in traffic_patterns:
+        if pattern.search(text):
         return GENRE_TRAFFIC
-    if any(kw in text for kw in politics_keywords):
-        return GENRE_POLITICS
+
+    # Check Jobs
+    for pattern in jobs_patterns:
+        if pattern.search(text):
+            return GENRE_JOBS
+
+    # Check Events
+    for pattern in events_patterns:
+        if pattern.search(text):
+            return GENRE_EVENTS
+
+    # Check Civic
+    for pattern in civic_patterns:
+        if pattern.search(text):
+            return GENRE_CIVIC
+
+    # Check Politics (after civic to avoid overlap with civic services)
+    for pattern in politics_patterns:
+        if pattern.search(text):
+            return GENRE_POLITICS
     
     return GENRE_GENERAL
 
@@ -481,12 +620,18 @@ def generate_ott_json(feed: List[Dict]) -> Dict:
     politics_news = filter_by_genre(feed, [GENRE_POLITICS])
     traffic_news = filter_by_genre(feed, [GENRE_TRAFFIC])
     crime_news = filter_by_genre(feed, [GENRE_CRIME])
-    
+    jobs_news = filter_by_genre(feed, [GENRE_JOBS])
+    events_news = filter_by_genre(feed, [GENRE_EVENTS])
+    civic_news = filter_by_genre(feed, [GENRE_CIVIC])
+
     sections = [
         {"section": SECTION_LIVE, "count": len(live_news), "items": live_news},
         {"section": SECTION_SCHEDULED, "count": len(scheduled_news), "items": scheduled_news},
         {"section": SECTION_GENERAL, "count": len(general_news), "items": general_news},
+        {"section": SECTION_JOBS, "count": len(jobs_news), "items": jobs_news},
         {"section": SECTION_POLITICS, "count": len(politics_news), "items": politics_news},
+        {"section": SECTION_EVENTS, "count": len(events_news), "items": events_news},
+        {"section": SECTION_CIVIC, "count": len(civic_news), "items": civic_news},
         {"section": SECTION_TRAFFIC, "count": len(traffic_news), "items": traffic_news},
         {"section": SECTION_CRIME, "count": len(crime_news), "items": crime_news},
     ]
