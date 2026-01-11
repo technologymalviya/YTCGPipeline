@@ -271,7 +271,7 @@ def normalize(text: str) -> str:
     return text
 
 
- # Create word boundary patterns for better matching
+# Create word boundary patterns for better matching
 def create_patterns(keywords):
     """Create regex patterns with word boundaries for better matching."""
     patterns = []
@@ -299,7 +299,7 @@ def classify_genre(title: str, description: str = "") -> str:
         "suspect", "accused", "jail", "prison", "court", "judge", "case", "investigation",
         # Hindi/Devanagari
         "हत्या", "मौत", "लाश", "शव", "अपराध", "अपराधी", "गिरफ्तार", "गिरफ्तारी",
-        "पुलिस", "हत्या", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
+        "पुलिस", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
         "जांच", "संदिग्ध", "आरोपी", "हिंसा", "चाकू", "बंदूक", "गोली"
     ]
     
@@ -339,10 +339,9 @@ def classify_genre(title: str, description: str = "") -> str:
         "opening", "openings", "govt job", "government job", "sarkari naukri",
         "walk in", "walk-in", "bharti", "bharte", "roster", "merit", "cutoff",
         # Hindi/Devanagari
-        "नौकरी", "रोजगार", "भर्ती", "रिक्ति", "रिक्तियां", "भरती", "भर्ती",
-        "इंटरव्यू", "करियर", "अवसर", "पद", "पदों", "सूचना", "एडमिट कार्ड",
-        "रिजल्ट", "परिणाम", "परीक्षा", "सिलेबस", "आवेदन", "फॉर्म", "वेतन",
-        "पदस्थापना", "सरकारी नौकरी", "सरकारी रोजगार", "भर्ती", "मेरिट", "कटऑफ"
+        "नौकरी", "रोजगार", "भर्ती", "रिक्ति", "रिक्तियां", "इंटरव्यू", "करियर",
+        "अवसर", "पद", "पदों", "सूचना", "एडमिट कार्ड", "रिजल्ट", "परिणाम",
+        "परीक्षा", "सिलेबस", "आवेदन", "फॉर्म", "वेतन", "सरकारी नौकरी", "मेरिट"
     ]
 
     # Events keywords
@@ -352,13 +351,13 @@ def classify_genre(title: str, description: str = "") -> str:
         "program", "programme", "conference", "meeting", "gathering", "fair",
         "exhibition", "show", "concert", "performance", "inauguration", "launch",
         "anniversary", "birthday", "wedding", "marriage", "fest", "mela", "utsav",
-        "kumbh", "mela", "jatra", "yatra", "puja", "aarti", "pooja", "prayer",
+        "kumbh", "jatra", "yatra", "puja", "aarti", "pooja", "prayer",
         "cultural", "religious", "traditional", "commemoration", "memorial",
         # Hindi/Devanagari
         "कार्यक्रम", "उत्सव", "त्योहार", "समारोह", "सम्मेलन", "बैठक", "मेला",
         "प्रदर्शनी", "शो", "संगीत", "प्रदर्शन", "उद्घाटन", "शुभारंभ", "जन्मदिन",
-        "शादी", "विवाह", "मेला", "यात्रा", "पूजा", "आरती", "प्रार्थना", "सांस्कृतिक",
-        "धार्मिक", "परंपरागत", "स्मरण", "महाकुंभ", "कुंभ", "जलसा"
+        "शादी", "विवाह", "यात्रा", "पूजा", "आरती", "प्रार्थना", "सांस्कृतिक",
+        "धार्मिक", "परंपरागत", "स्मरण", "जुलूस"
     ]
 
     # Civic keywords (civic services, public services, community issues)
@@ -376,12 +375,12 @@ def classify_genre(title: str, description: str = "") -> str:
         "public service", "citizen service", "csc", "common service center",
         # Hindi/Devanagari
         "नगर निगम", "नगर पालिका", "नगर पंचायत", "पानी", "जल", "बिजली", "सड़क",
-        "गली", "नाली", "नालियां", "कचरा", "सफाई", "स्वच्छ", "स्वच्छता", "सार्वजनिक स्वास्थ्य",
-        "स्वच्छता", "गड्ढा", "मरम्मत", "रखरखाव", "विकास", "बुनियादी ढांचा", "निर्माण",
-        "सार्वजनिक कार्य", "समुदाय", "वार्ड", "पार्षद", "मेयर", "कमिश्नर", "शिकायत",
-        "कर", "संपत्ति कर", "घर कर", "लाइसेंस", "परमिट", "प्रमाणपत्र", "जन्म प्रमाणपत्र",
-        "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र", "राशन", "आधार", "पैन कार्ड", "मतदाता पहचान पत्र",
-        "ड्राइविंग लाइसेंस", "पासपोर्ट", "सेवा", "सार्वजनिक सेवा", "नागरिक सेवा"
+        "गली", "नाली", "नालियां", "कचरा", "सफाई", "स्वच्छ", "स्वच्छता", "गड्ढा",
+        "मरम्मत", "रखरखाव", "विकास", "बुनियादी ढांचा", "निर्माण", "सार्वजनिक कार्य",
+        "समुदाय", "वार्ड", "पार्षद", "मेयर", "कमिश्नर", "शिकायत", "कर", "संपत्ति कर",
+        "लाइसेंस", "परमिट", "प्रमाणपत्र", "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र",
+        "विवाह प्रमाणपत्र", "राशन", "आधार", "पैन कार्ड", "मतदाता पहचान", "ड्राइविंग लाइसेंस",
+        "पासपोर्ट", "सेवा", "सार्वजनिक सेवा", "नागरिक सेवा"
     ]
 
     crime_patterns = create_patterns(crime_keywords)
@@ -395,12 +394,12 @@ def classify_genre(title: str, description: str = "") -> str:
     # Check Crime first (most specific)
     for pattern in crime_patterns:
         if pattern.search(text):
-        return GENRE_CRIME
+            return GENRE_CRIME
 
     # Check Traffic
     for pattern in traffic_patterns:
         if pattern.search(text):
-        return GENRE_TRAFFIC
+            return GENRE_TRAFFIC
 
     # Check Jobs
     for pattern in jobs_patterns:
@@ -554,13 +553,16 @@ def fetch_latest_videos_for_channel(channel_id: str) -> List[Dict]:
             return []
     
     items = response.json().get("items", [])
-    video_ids = [item["id"]["videoId"] for item in items]
+    video_ids = [item["id"]["videoId"] for item in items if item.get("id", {}).get("videoId")]
     video_details = fetch_video_details(video_ids)
     
     videos: List[Dict] = []
     for item in items:
-        video_id = item["id"]["videoId"]
-        snippet = item["snippet"]
+        vid_dict = item.get("id", {})
+        video_id = vid_dict.get("videoId")
+        if not video_id:
+            continue
+        snippet = item.get("snippet", {})
         video_info = video_details.get(video_id, {})
         
         videos.append({
