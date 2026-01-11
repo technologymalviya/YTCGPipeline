@@ -247,23 +247,6 @@ def load_bhilai_channels():
 
 BHILAI_CHANNELS = load_bhilai_channels()
 
-def get_channel_providers_map():
-    """
-    Get mapping of channel IDs to their providers.
-    Returns dict with channel_id as key and provider_name as value.
-    """
-    providers = load_channel_providers()
-    if not providers:
-        return {}
-    
-    channel_to_provider = {}
-    for provider_name, channels in providers.items():
-        for channel_id in channels:
-            channel_to_provider[channel_id] = provider_name
-    return channel_to_provider
-
-CHANNEL_PROVIDERS_MAP = get_channel_providers_map()
-
 
 def _safe_int(x, default=0) -> int:
     """Safely convert to int."""
