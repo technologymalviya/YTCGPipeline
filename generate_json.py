@@ -7,9 +7,18 @@ Fetches latest videos from Bhilai news channels and generates JSON feed.
 import json
 import os
 import re
+import time
 from datetime import datetime, timedelta, timezone
-from typing import List, Dict
+from typing import List, Dict, Optional
 import requests
+
+# OpenAI integration (optional)
+try:
+    import openai
+    OPENAI_AVAILABLE = True
+except ImportError:
+    OPENAI_AVAILABLE = False
+    openai = None
 
 
 # Configuration Constants
@@ -27,6 +36,24 @@ YOUTUBE_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 # Environment Variable Names
 ENV_YOUTUBE_API_KEY = "YOUTUBE_API_KEY"
 ENV_BHILAI_CHANNELS = "BHILAI_CHANNELS"
+ENV_OPENAI_API_KEY = "OPENAI_API_KEY"
+
+# OpenAI Configuration
+OPENAI_MODEL = "gpt-4o-mini"  # Cost-effective model
+OPENAI_MAX_TOKENS = 10  # Just need genre name
+OPENAI_TEMPERATURE = 0.1  # Low temperature for consistent classification
+OPENAI_RATE_LIMIT_RPM = 500  # Requests per minute limit
+OPENAI_RATE_LIMIT_TPM = 50000  # Tokens per minute limit
+OPENAI_MAX_RETRIES = 3
+OPENAI_RETRY_DELAY_BASE = 1  # Base delay in seconds for exponential backoff
+OPENAI_REQUEST_TIMEOUT = 30  # Timeout in seconds
+
+# Rate limiting tracking
+_openai_rate_limit_tracker = {
+    "requests": [],
+    "tokens": [],
+    "last_reset": time.time()
+}
 
 # Error Messages
 MSG_API_KEY_NOT_SET = "WARNING: YOUTUBE_API_KEY not set. Not updating output file."
@@ -286,8 +313,187 @@ def create_patterns(keywords):
         patterns.append(re.compile(pattern, re.IGNORECASE))
     return patterns
 
+
+def classify_genre_with_openai(title: str, description: str = "") -> Optional[str]:
+    """
+    Classify video genre using OpenAI API with rate limiting and error handling.
+    Returns None if OpenAI is unavailable or encounters errors (fallback to keyword-based).
+    """
+    if not OPENAI_AVAILABLE:
+        return None
+    
+    # Check if API key is configured
+    api_key = os.environ.get(ENV_OPENAI_API_KEY)
+    if not api_key:
+        return None
+    
+    try:
+        # Initialize OpenAI client
+        client = openai.OpenAI(api_key=api_key, timeout=OPENAI_REQUEST_TIMEOUT)
+        
+        # Check rate limits
+        if not _check_openai_rate_limits():
+            return None
+        
+        # Prepare prompt
+        prompt = f"""Classify this video into ONE of these genres based on title and description:
+- Crime: Criminal activities, arrests, violence, murders, thefts, police cases
+- Traffic: Road accidents, traffic jams, vehicle collisions, highway incidents
+- Jobs: Employment opportunities, job notifications, recruitment, interviews, exams
+- Events: Festivals, ceremonies, celebrations, inaugurations, cultural events
+- Civic: Municipal services, civic issues, government services, certificates, utilities
+- Politics: Political news, elections, government announcements, political rallies, CM/PM speeches
+- General: Everything else that doesn't fit above categories
+
+Title: {title}
+Description: {description[:500]}
+
+Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics, or General)."""
+        
+        # Estimate tokens (rough: 1 token ≈ 4 characters)
+        estimated_tokens = len(prompt) // 4 + OPENAI_MAX_TOKENS
+        
+        # Check token rate limit
+        if not _check_openai_token_limit(estimated_tokens):
+            return None
+        
+        # Make API call with retry logic
+        response = None
+        for attempt in range(OPENAI_MAX_RETRIES):
+            try:
+                response = client.chat.completions.create(
+                    model=OPENAI_MODEL,
+                    messages=[
+                        {"role": "system", "content": "You are a news genre classifier. Respond with only the genre name."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    max_tokens=OPENAI_MAX_TOKENS,
+                    temperature=OPENAI_TEMPERATURE,
+                )
+                break
+            except openai.RateLimitError as e:
+                if attempt < OPENAI_MAX_RETRIES - 1:
+                    # Exponential backoff
+                    wait_time = OPENAI_RETRY_DELAY_BASE * (2 ** attempt)
+                    print(f"[OpenAI] Rate limit hit, waiting {wait_time}s before retry {attempt + 1}/{OPENAI_MAX_RETRIES}")
+                    time.sleep(wait_time)
+                else:
+                    print(f"[OpenAI] Rate limit exceeded after {OPENAI_MAX_RETRIES} retries, falling back to keyword-based classification")
+                    return None
+            except openai.APIConnectionError as e:
+                print(f"[OpenAI] Connection error: {e}, falling back to keyword-based classification")
+                return None
+            except openai.APIError as e:
+                print(f"[OpenAI] API error: {e}, falling back to keyword-based classification")
+                return None
+            except Exception as e:
+                print(f"[OpenAI] Unexpected error: {e}, falling back to keyword-based classification")
+                return None
+        
+        if not response:
+            return None
+        
+        # Extract genre from response
+        genre = response.choices[0].message.content.strip()
+        
+        # Track usage
+        _track_openai_usage(estimated_tokens)
+        
+        # Validate and map genre
+        genre_map = {
+            "crime": GENRE_CRIME,
+            "traffic": GENRE_TRAFFIC,
+            "jobs": GENRE_JOBS,
+            "events": GENRE_EVENTS,
+            "civic": GENRE_CIVIC,
+            "politics": GENRE_POLITICS,
+            "general": GENRE_GENERAL,
+        }
+        
+        genre_lower = genre.lower()
+        if genre_lower in genre_map:
+            return genre_map[genre_lower]
+        
+        # If response doesn't match expected genres, fallback
+        print(f"[OpenAI] Unexpected genre response: {genre}, falling back to keyword-based classification")
+        return None
+        
+    except Exception as e:
+        print(f"[OpenAI] Error in classification: {e}, falling back to keyword-based classification")
+        return None
+
+
+def _check_openai_rate_limits() -> bool:
+    """Check if we're within rate limits for requests per minute."""
+    current_time = time.time()
+    
+    # Reset tracking if a minute has passed
+    if current_time - _openai_rate_limit_tracker["last_reset"] >= 60:
+        _openai_rate_limit_tracker["requests"] = []
+        _openai_rate_limit_tracker["tokens"] = []
+        _openai_rate_limit_tracker["last_reset"] = current_time
+    
+    # Check requests per minute
+    recent_requests = [
+        req_time for req_time in _openai_rate_limit_tracker["requests"]
+        if current_time - req_time < 60
+    ]
+    
+    if len(recent_requests) >= OPENAI_RATE_LIMIT_RPM:
+        print(f"[OpenAI] Rate limit reached ({OPENAI_RATE_LIMIT_RPM} RPM), falling back to keyword-based classification")
+        return False
+    
+    return True
+
+
+def _check_openai_token_limit(estimated_tokens: int) -> bool:
+    """Check if we're within token rate limits."""
+    current_time = time.time()
+    
+    # Reset tracking if a minute has passed
+    if current_time - _openai_rate_limit_tracker["last_reset"] >= 60:
+        _openai_rate_limit_tracker["requests"] = []
+        _openai_rate_limit_tracker["tokens"] = []
+        _openai_rate_limit_tracker["last_reset"] = current_time
+    
+    # Check tokens per minute
+    recent_tokens = [
+        token_count for token_count in _openai_rate_limit_tracker["tokens"]
+        if current_time - token_count["time"] < 60
+    ]
+    
+    total_tokens = sum(token_count["tokens"] for token_count in recent_tokens)
+    
+    if total_tokens + estimated_tokens > OPENAI_RATE_LIMIT_TPM:
+        print(f"[OpenAI] Token limit reached ({total_tokens}/{OPENAI_RATE_LIMIT_TPM} TPM), falling back to keyword-based classification")
+        return False
+    
+    return True
+
+
+def _track_openai_usage(tokens: int):
+    """Track OpenAI API usage for rate limiting."""
+    current_time = time.time()
+    _openai_rate_limit_tracker["requests"].append(current_time)
+    _openai_rate_limit_tracker["tokens"].append({"time": current_time, "tokens": tokens})
+
+
 def classify_genre(title: str, description: str = "") -> str:
-    """Classify video genre based on title and description with improved accuracy."""
+    """
+    Classify video genre based on title and description.
+    Tries OpenAI first, falls back to keyword-based classification on any error.
+    """
+    # Try OpenAI classification first (if available and configured)
+    openai_result = classify_genre_with_openai(title, description)
+    if openai_result:
+        return openai_result
+    
+    # Fallback to keyword-based classification
+    return classify_genre_keyword_based(title, description)
+
+
+def classify_genre_keyword_based(title: str, description: str = "") -> str:
+    """Classify video genre based on title and description with improved accuracy using keywords."""
     # Normalize title and description separately - title gets more weight
     title_text = normalize(title or "")
     desc_text = normalize(description or "")
