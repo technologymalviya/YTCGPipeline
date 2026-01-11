@@ -1,11 +1,9 @@
-import os
 import json
-import tempfile
+import os
 from unittest.mock import patch
 
-import pytest
-
 import generate_json as gj
+
 
 # Simple mock response
 class MockResponse:

@@ -287,136 +287,162 @@ def create_patterns(keywords):
     return patterns
 
 def classify_genre(title: str, description: str = "") -> str:
-    """Classify video genre based on title and description."""
-    text = normalize(f"{title or ''} {description or ''}")
+    """Classify video genre based on title and description with improved accuracy."""
+    # Normalize title and description separately - title gets more weight
+    title_text = normalize(title or "")
+    desc_text = normalize(description or "")
     
-    # Crime keywords
+    # Combine with title weighted 3x more than description (titles are more indicative)
+    text = f"{title_text} {title_text} {title_text} {desc_text}"
+    
+    # Crime keywords - specific and strong indicators
     crime_keywords = [
-        # English
-        "murder", "killed", "killing", "death", "dead", "died", "crime", "criminal",
-        "loot", "robbery", "rob", "assault", "rape", "fraud", "arrest", "arrested",
-        "police", "gang", "shoot", "shot", "stab", "knife", "weapon", "violence",
-        "suspect", "accused", "jail", "prison", "court", "judge", "case", "investigation",
-        # Hindi/Devanagari
-        "हत्या", "मौत", "लाश", "शव", "अपराध", "अपराधी", "गिरफ्तार", "गिरफ्तारी",
+        # English - specific crime terms
+        "murder", "killed", "killing", "homicide", "assassination",
+        "robbery", "loot", "theft", "steal", "stolen",
+        "assault", "rape", "sexual assault",
+        "arrest", "arrested", "suspect", "accused", "criminal",
+        "gang", "mob", "violence", "rioting",
+        "shoot", "shot", "firing", "gunfire", "bullets",
+        "stab", "knife attack", "weapon",
+        "jail", "prison", "court case", "trial", "investigation",
+        # Hindi/Devanagari - specific crime terms
+        "हत्या", "कत्ल", "लाश", "शव", "मौत", "अपराध", "अपराधी",
+        "गिरफ्तार", "गिरफ्तारी", "संदिग्ध", "आरोपी",
         "पुलिस", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
-        "जांच", "संदिग्ध", "आरोपी", "हिंसा", "चाकू", "बंदूक", "गोली"
+        "जांच", "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग"
     ]
     
-    # Traffic keywords (expanded list)
+    # Traffic keywords - specific traffic/accident terms
     traffic_keywords = [
-        # English
-        "accident", "traffic", "jam", "collision", "crash", "vehicle", "car",
-        "bus", "truck", "road", "highway", "injured", "injury", "ambulance",
-        "blocked", "congestion", "lane", "signal", "intersection", "bridge",
-        # Hindi/Devanagari
-        "दुर्घटना", "हादसा", "जाम", "टक्कर", "वाहन", "कार", "बस", "ट्रक",
-        "सड़क", "हाइवे", "घायल", "चोट", "एम्बुलेंस", "रुका", "भीड़", "लेन",
-        "सिग्नल", "चौराहा", "पुल", "रफ्तार"
+        # English - strong single-word indicators
+        "accident", "collision", "crash", "traffic", "jam",
+        "ambulance", "rescue", "injured", "highway", "expressway",
+        # English - multi-word phrases for stronger matching
+        "traffic accident", "road accident", "car accident", "vehicle accident",
+        "traffic jam", "road jam",
+        "head-on collision", "rear-end collision",
+        "fatal accident", "deadly accident",
+        # Hindi/Devanagari - strong single-word indicators
+        "दुर्घटना", "हादसा", "टक्कर", "जाम", "घायल", "एम्बुलेंस",
+        # Hindi/Devanagari - multi-word phrases
+        "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
+        "ट्रैफिक जाम", "सड़क जाम"
     ]
     
-    # Politics keywords (expanded list)
-    politics_keywords = [
-        # English
-        "election", "vote", "voting", "minister", "ministry", "mla", "mp", "cm",
-        "chief minister", "government", "govt", "party", "political", "politician",
-        "leader", "speech", "rally", "campaign", "candidate", "constituency",
-        "parliament", "assembly", "budget", "policy", "scheme", "program",
-        # Hindi/Devanagari
-        "चुनाव", "वोट", "मतदान", "मंत्री", "मंत्रालय", "विधायक", "सांसद",
-        "मुख्यमंत्री", "सरकार", "पार्टी", "राजनीति", "राजनीतिक", "नेता", "भाषण",
-        "रैली", "अभियान", "उम्मीदवार", "निर्वाचन क्षेत्र", "संसद", "विधानसभा",
-        "बजट", "नीति", "योजना", "कार्यक्रम"
-    ]
-
-    # Jobs keywords
+    # Jobs keywords - specific employment/job terms
     jobs_keywords = [
-        # English
-        "job", "jobs", "employment", "recruitment", "vacancy", "vacancies", "hiring",
-        "interview", "career", "opportunity", "opportunities", "post", "posts",
-        "notification", "admit card", "result", "exam", "examination", "syllabus",
-        "apply", "application", "form", "salary", "wage", "wages", "position",
-        "opening", "openings", "govt job", "government job", "sarkari naukri",
-        "walk in", "walk-in", "bharti", "bharte", "roster", "merit", "cutoff",
-        # Hindi/Devanagari
-        "नौकरी", "रोजगार", "भर्ती", "रिक्ति", "रिक्तियां", "इंटरव्यू", "करियर",
-        "अवसर", "पद", "पदों", "सूचना", "एडमिट कार्ड", "रिजल्ट", "परिणाम",
-        "परीक्षा", "सिलेबस", "आवेदन", "फॉर्म", "वेतन", "सरकारी नौकरी", "मेरिट"
+        # English - strong single-word indicators
+        "job", "jobs", "recruitment", "vacancy", "hiring", "employment", "bharti", "bharte",
+        "interview", "career", "opportunity", "post", "application", "opening",
+        "admit card", "merit", "salary", "wage", "exam",
+        # English - multi-word phrases for stronger matching
+        "job notification", "job vacancy", "job opening", "job opportunity",
+        "government job", "sarkari naukri", "govt job",
+        "job application", "apply for job",
+        "exam result", "merit list",
+        "walk-in interview", "job interview",
+        "pay scale", "vacancy notification",
+        # Hindi/Devanagari - strong single-word indicators
+        "नौकरी", "रोजगार", "भर्ती", "आवेदन", "एडमिट कार्ड",
+        "रिजल्ट", "मेरिट", "परीक्षा", "इंटरव्यू", "वेतन",
+        # Hindi/Devanagari - multi-word phrases
+        "सरकारी नौकरी", "नौकरी सूचना"
     ]
 
-    # Events keywords
+    # Events keywords - specific event/festival terms
     events_keywords = [
-        # English
-        "event", "events", "festival", "celebration", "ceremony", "function",
-        "program", "programme", "conference", "meeting", "gathering", "fair",
-        "exhibition", "show", "concert", "performance", "inauguration", "launch",
-        "anniversary", "birthday", "wedding", "marriage", "fest", "mela", "utsav",
-        "kumbh", "jatra", "yatra", "puja", "aarti", "pooja", "prayer",
-        "cultural", "religious", "traditional", "commemoration", "memorial",
-        # Hindi/Devanagari
-        "कार्यक्रम", "उत्सव", "त्योहार", "समारोह", "सम्मेलन", "बैठक", "मेला",
-        "प्रदर्शनी", "शो", "संगीत", "प्रदर्शन", "उद्घाटन", "शुभारंभ", "जन्मदिन",
-        "शादी", "विवाह", "यात्रा", "पूजा", "आरती", "प्रार्थना", "सांस्कृतिक",
-        "धार्मिक", "परंपरागत", "स्मरण", "जुलूस"
+        # English - strong single-word indicators
+        "event", "events", "festival", "celebration", "ceremony", "fair", "mela", "exhibition",
+        "inauguration", "wedding", "anniversary", "birthday",
+        "kumbh", "jatra", "yatra", "puja", "aarti", "pooja",
+        # English - multi-word phrases for stronger matching
+        "cultural event", "religious event",
+        "launch ceremony", "marriage ceremony",
+        "birthday celebration",
+        # Hindi/Devanagari - strong single-word indicators
+        "त्योहार", "उत्सव", "समारोह", "मेला", "प्रदर्शनी",
+        "उद्घाटन", "शुभारंभ", "शादी", "विवाह", "जन्मदिन",
+        "यात्रा", "पूजा", "आरती", "जुलूस"
     ]
 
-    # Civic keywords (civic services, public services, community issues)
+    # Civic keywords - specific civic/municipal service terms
     civic_keywords = [
-        # English
-        "civic", "municipal", "municipality", "corporation", "municipal corporation",
-        "water supply", "electricity", "power", "street light", "road", "street",
-        "drainage", "sewage", "garbage", "waste", "cleanliness", "swachh", "swachhta",
-        "public health", "sanitation", "pothole", "repair", "maintenance", "development",
-        "infrastructure", "public works", "pwd", "public welfare", "community", "ward",
-        "councilor", "mayor", "commissioner", "complaint", "grievance", "petition",
-        "tax", "property tax", "house tax", "license", "permit", "certificate",
-        "birth certificate", "death certificate", "marriage certificate", "ration",
-        "aadhaar", "pan card", "voter id", "driving license", "passport", "service",
-        "public service", "citizen service", "csc", "common service center",
-        # Hindi/Devanagari
-        "नगर निगम", "नगर पालिका", "नगर पंचायत", "पानी", "जल", "बिजली", "सड़क",
-        "गली", "नाली", "नालियां", "कचरा", "सफाई", "स्वच्छ", "स्वच्छता", "गड्ढा",
-        "मरम्मत", "रखरखाव", "विकास", "बुनियादी ढांचा", "निर्माण", "सार्वजनिक कार्य",
-        "समुदाय", "वार्ड", "पार्षद", "मेयर", "कमिश्नर", "शिकायत", "कर", "संपत्ति कर",
-        "लाइसेंस", "परमिट", "प्रमाणपत्र", "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र",
-        "विवाह प्रमाणपत्र", "राशन", "आधार", "पैन कार्ड", "मतदाता पहचान", "ड्राइविंग लाइसेंस",
-        "पासपोर्ट", "सेवा", "सार्वजनिक सेवा", "नागरिक सेवा"
+        # English - specific civic terms
+        "municipal corporation", "municipality", "municipal",
+        "water supply", "electricity supply", "power supply",
+        "garbage collection", "waste management", "cleanliness drive",
+        "pothole repair", "road repair", "street repair",
+        "public health", "sanitation", "swachh bharat",
+        "property tax", "house tax", "municipal tax",
+        "birth certificate", "death certificate", "marriage certificate",
+        "aadhaar card", "pan card", "voter id card",
+        "driving license", "passport",
+        "csc", "common service center",
+        "mayor", "commissioner", "councilor",
+        # Hindi/Devanagari - specific civic terms
+        "नगर निगम", "नगर पालिका",
+        "पानी की समस्या", "बिजली की समस्या",
+        "कचरा", "सफाई", "स्वच्छता", "गड्ढा",
+        "मरम्मत", "शिकायत", "संपत्ति कर",
+        "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र",
+        "आधार", "पैन कार्ड", "मतदाता पहचान",
+        "ड्राइविंग लाइसेंस", "पासपोर्ट",
+        "मेयर", "कमिश्नर", "पार्षद"
+    ]
+    
+    # Politics keywords - specific political terms
+    politics_keywords = [
+        # English - specific political terms
+        "election", "voting", "vote", "election campaign",
+        "minister", "chief minister", "cm", "mla", "mp",
+        "government", "govt", "political party",
+        "political rally", "political speech",
+        "budget", "assembly session", "parliament",
+        "political leader", "politician",
+        # Hindi/Devanagari - specific political terms
+        "चुनाव", "मतदान", "वोट",
+        "मंत्री", "मुख्यमंत्री", "विधायक", "सांसद",
+        "सरकार", "पार्टी", "राजनीति",
+        "रैली", "भाषण", "अभियान",
+        "बजट", "विधानसभा", "संसद", "नेता"
     ]
 
+    # Create patterns and check in order of specificity
     crime_patterns = create_patterns(crime_keywords)
     traffic_patterns = create_patterns(traffic_keywords)
-    politics_patterns = create_patterns(politics_keywords)
     jobs_patterns = create_patterns(jobs_keywords)
     events_patterns = create_patterns(events_keywords)
     civic_patterns = create_patterns(civic_keywords)
+    politics_patterns = create_patterns(politics_keywords)
 
-    # Check each category with pattern matching (order matters - more specific first)
-    # Check Crime first (most specific)
+    # Check each category - order matters (most specific first)
+    # Crime - most specific, check first
     for pattern in crime_patterns:
         if pattern.search(text):
             return GENRE_CRIME
 
-    # Check Traffic
+    # Traffic - specific accidents/jams
     for pattern in traffic_patterns:
         if pattern.search(text):
             return GENRE_TRAFFIC
 
-    # Check Jobs
+    # Jobs - employment opportunities
     for pattern in jobs_patterns:
         if pattern.search(text):
             return GENRE_JOBS
 
-    # Check Events
+    # Events - festivals/ceremonies
     for pattern in events_patterns:
         if pattern.search(text):
             return GENRE_EVENTS
 
-    # Check Civic
+    # Civic - municipal services
     for pattern in civic_patterns:
         if pattern.search(text):
             return GENRE_CIVIC
 
-    # Check Politics (after civic to avoid overlap with civic services)
+    # Politics - political activities (check last to avoid overlap)
     for pattern in politics_patterns:
         if pattern.search(text):
             return GENRE_POLITICS
