@@ -320,12 +320,16 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
     Returns None if OpenAI is unavailable or encounters errors (fallback to keyword-based).
     """
     if not OPENAI_AVAILABLE:
+        print("[OpenAI] OpenAI library not available, using keyword-based classification")
         return None
     
     # Check if API key is configured
     api_key = os.environ.get(ENV_OPENAI_API_KEY)
     if not api_key:
+        print("[OpenAI] API key not configured, using keyword-based classification")
         return None
+    
+    print(f"[OpenAI] Attempting classification for: {title[:60]}...")
     
     try:
         # Initialize OpenAI client
@@ -333,6 +337,7 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
         
         # Check rate limits
         if not _check_openai_rate_limits():
+            print("[OpenAI] Rate limit check failed, using keyword-based classification")
             return None
         
         # Prepare prompt
@@ -355,12 +360,14 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
         
         # Check token rate limit
         if not _check_openai_token_limit(estimated_tokens):
+            print(f"[OpenAI] Token limit check failed (estimated: {estimated_tokens} tokens), using keyword-based classification")
             return None
         
         # Make API call with retry logic
         response = None
         for attempt in range(OPENAI_MAX_RETRIES):
             try:
+                print(f"[OpenAI] API call attempt {attempt + 1}/{OPENAI_MAX_RETRIES} (model: {OPENAI_MODEL})")
                 response = client.chat.completions.create(
                     model=OPENAI_MODEL,
                     messages=[
@@ -370,6 +377,7 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
                     max_tokens=OPENAI_MAX_TOKENS,
                     temperature=OPENAI_TEMPERATURE,
                 )
+                print(f"[OpenAI] API call successful (attempt {attempt + 1})")
                 break
             except openai.RateLimitError as e:
                 if attempt < OPENAI_MAX_RETRIES - 1:
@@ -412,10 +420,12 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
         
         genre_lower = genre.lower()
         if genre_lower in genre_map:
-            return genre_map[genre_lower]
+            mapped_genre = genre_map[genre_lower]
+            print(f"[OpenAI] Classification successful: '{genre}' → {mapped_genre}")
+            return mapped_genre
         
         # If response doesn't match expected genres, fallback
-        print(f"[OpenAI] Unexpected genre response: {genre}, falling back to keyword-based classification")
+        print(f"[OpenAI] Unexpected genre response: '{genre}', falling back to keyword-based classification")
         return None
         
     except Exception as e:
@@ -489,7 +499,9 @@ def classify_genre(title: str, description: str = "") -> str:
         return openai_result
     
     # Fallback to keyword-based classification
-    return classify_genre_keyword_based(title, description)
+    keyword_result = classify_genre_keyword_based(title, description)
+    print(f"[Keyword] Classification result: {keyword_result}")
+    return keyword_result
 
 
 def classify_genre_keyword_based(title: str, description: str = "") -> str:
@@ -836,15 +848,42 @@ def aggregate_bhilai_videos(channels: List[str]) -> List[Dict]:
 
 def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
     """Add genre classification to each video."""
-    for v in feed:
+    total_videos = len(feed)
+    openai_count = 0
+    keyword_count = 0
+    special_count = 0
+    
+    print(f"[Classification] Starting genre classification for {total_videos} videos...")
+    
+    for i, v in enumerate(feed, 1):
         video_type = (v.get("videoType") or "").strip().upper()
         
         if video_type == VIDEO_TYPE_LIVE:
             v["genre"] = GENRE_LIVE
+            special_count += 1
         elif VIDEO_TYPE_SCHEDULED in video_type or "UPCOMING" in video_type:
             v["genre"] = GENRE_SCHEDULED
+            special_count += 1
         else:
-            v["genre"] = classify_genre(v.get("title", ""), v.get("description", ""))
+            title = v.get("title", "")
+            description = v.get("description", "")
+            
+            # Try OpenAI first
+            openai_result = classify_genre_with_openai(title, description)
+            if openai_result:
+                v["genre"] = openai_result
+                openai_count += 1
+            else:
+                # Fallback to keyword-based
+                v["genre"] = classify_genre_keyword_based(title, description)
+                keyword_count += 1
+        
+        # Progress indicator for large batches
+        if total_videos > 50 and i % 50 == 0:
+            print(f"[Classification] Progress: {i}/{total_videos} videos classified (OpenAI: {openai_count}, Keyword: {keyword_count}, Special: {special_count})")
+    
+    print(f"[Classification] Complete: {openai_count} OpenAI, {keyword_count} keyword-based, {special_count} special types (Live/Scheduled)")
+    print(f"[Classification] Summary: {openai_count}/{total_videos - special_count} used OpenAI ({openai_count/(total_videos - special_count)*100:.1f}%)" if (total_videos - special_count) > 0 else "[Classification] Summary: All videos were special types")
     
     return feed
 
