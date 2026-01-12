@@ -10,7 +10,7 @@ from typing import List, Dict
 import random
 
 # Set the API key
-os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_API_KEY"] = ${{ secrets.OPENAI_API_KEY }}
 
 # Import the classification function
 sys.path.insert(0, '.')
