@@ -663,21 +663,23 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "traffic jam", "road jam",
         "head-on collision", "rear-end collision",
         "fatal accident", "deadly accident",
+        "traffic crash", "car crash", "road crash", "vehicle crash",
         # Hindi/Devanagari - multi-word phrases (check first)
         "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
         "ट्रैफिक जाम", "सड़क जाम",
         # English - strong single-word indicators (context-specific)
-        "accident", "collision", "crash", "traffic", "jam",
+        "accident", "collision", "traffic", "jam",
         "ambulance", "rescue", "highway", "expressway",
         # Hindi/Devanagari - strong single-word indicators (context-specific)
         "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस"
+        # Note: "crash" removed from single-word - only matches in multi-word context to avoid false positives like "Share Market Crash"
         # Note: "घायल" (injured) removed - too generic, appears in non-traffic contexts
     ]
     
     # Jobs keywords - specific employment/job terms
     jobs_keywords = [
         # English - strong single-word indicators
-        "job", "jobs", "recruitment", "vacancy", "hiring", "employment", "bharti", "bharte",
+        "job", "jobs", "recruitment", "vacancy", "hiring", "employment",
         "career", "opportunity", "post", "application", "opening",
         "admit card", "merit", "salary", "wage", "exam",
         # English - multi-word phrases for stronger matching
@@ -692,7 +694,9 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "रिजल्ट", "मेरिट", "परीक्षा", "वेतन",
         # Hindi/Devanagari - multi-word phrases (context-specific)
         "सरकारी नौकरी", "नौकरी सूचना",
-        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू"
+        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू",
+        "भर्ती सूचना", "रोजगार मेला", "भर्ती परीक्षा"
+        # Note: "bharti" removed from single-word - only matches in multi-word context to avoid false positives like "Bharti Media Network"
     ]
 
     # Events keywords - specific event/festival terms
@@ -744,14 +748,16 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "election", "voting", "vote", "election campaign",
         "minister", "chief minister", "cm", "mla", "mp",
         "government", "govt", "political party",
-        "political rally", "political speech",
+        "political rally", "political speech", "political news",
         "budget", "assembly session", "parliament",
         "political leader", "politician",
         "councilor", "councillor", "alderman",
+        # Major political parties (common in Indian news)
+        "congress", "bjp", "aap", "sp", "bsp", "dmk", "aiadmk", "tmc", "cpi", "cpm",
         # Hindi/Devanagari - specific political terms
         "चुनाव", "मतदान", "वोट",
         "मंत्री", "मुख्यमंत्री", "विधायक", "सांसद",
-        "सरकार", "पार्टी", "राजनीति",
+        "सरकार", "पार्टी", "राजनीति", "सियासी", "राजनीतिक",
         "रैली", "भाषण", "अभियान",
         "बजट", "विधानसभा", "संसद", "नेता",
         "पार्षद"  # Councilor - political position
