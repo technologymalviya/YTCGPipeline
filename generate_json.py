@@ -407,15 +407,74 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
                 else:
                     print(f"[OpenAI] Rate limit exceeded after {OPENAI_MAX_RETRIES} retries, falling back to keyword-based classification")
                     return None
+            except openai.AuthenticationError as e:
+                # Invalid API key (401 error) - don't expose the key in logs
+                if not hasattr(classify_genre_with_openai, '_logged_invalid_key'):
+                    # Try to extract error details without exposing API key
+                    error_code = 'invalid_api_key'
+                    error_type = 'authentication_error'
+                    
+                    # Check if error has response with JSON
+                    if hasattr(e, 'response') and hasattr(e.response, 'json'):
+                        try:
+                            error_data = e.response.json()
+                            error_obj = error_data.get('error', {})
+                            error_code = error_obj.get('code', 'invalid_api_key')
+                            error_type = error_obj.get('type', 'authentication_error')
+                        except:
+                            pass
+                    
+                    # Sanitize error message - remove any API key patterns
+                    error_msg = str(e)
+                    # Remove API key patterns (sk-proj-, sk-, etc.)
+                    error_msg = re.sub(r'sk-[a-zA-Z0-9_-]+', 'sk-***', error_msg)
+                    error_msg = re.sub(r'[a-zA-Z0-9]{20,}', '***', error_msg)  # Remove long alphanumeric strings
+                    
+                    print(f"[OpenAI] Invalid API key (error: {error_code}), falling back to keyword-based classification")
+                    print("[OpenAI] To fix: Check OPENAI_API_KEY environment variable or GitHub secret")
+                    print(f"[OpenAI] Error details: {error_type}")
+                    classify_genre_with_openai._logged_invalid_key = True
+                return None
             except openai.APIConnectionError as e:
-                print(f"[OpenAI] Connection error: {e}, falling back to keyword-based classification")
-                return None
+                if attempt < OPENAI_MAX_RETRIES - 1:
+                    wait_time = OPENAI_RETRY_DELAY_BASE * (2 ** attempt)
+                    print(f"[OpenAI] Connection error, waiting {wait_time}s before retry {attempt + 1}/{OPENAI_MAX_RETRIES}")
+                    time.sleep(wait_time)
+                else:
+                    print(f"[OpenAI] Connection error after {OPENAI_MAX_RETRIES} retries: {e}, falling back to keyword-based classification")
+                    return None
             except openai.APIError as e:
-                print(f"[OpenAI] API error: {e}, falling back to keyword-based classification")
-                return None
+                # Check if it's a 401 error (invalid API key) even if not AuthenticationError
+                error_msg = str(e)
+                # Sanitize error message - remove any API key patterns
+                sanitized_msg = re.sub(r'sk-[a-zA-Z0-9_-]+', 'sk-***', error_msg)
+                sanitized_msg = re.sub(r'[a-zA-Z0-9]{20,}', '***', sanitized_msg)
+                
+                if '401' in error_msg or 'invalid_api_key' in error_msg.lower() or 'incorrect api key' in error_msg.lower():
+                    if not hasattr(classify_genre_with_openai, '_logged_invalid_key'):
+                        print("[OpenAI] Invalid API key (401 error), falling back to keyword-based classification")
+                        print("[OpenAI] To fix: Check OPENAI_API_KEY environment variable or GitHub secret")
+                        classify_genre_with_openai._logged_invalid_key = True
+                    return None
+                else:
+                    print(f"[OpenAI] API error: {sanitized_msg}, falling back to keyword-based classification")
+                    return None
             except Exception as e:
-                print(f"[OpenAI] Unexpected error: {e}, falling back to keyword-based classification")
-                return None
+                error_msg = str(e)
+                # Sanitize error message - remove any API key patterns
+                sanitized_msg = re.sub(r'sk-[a-zA-Z0-9_-]+', 'sk-***', error_msg)
+                sanitized_msg = re.sub(r'[a-zA-Z0-9]{20,}', '***', sanitized_msg)
+                
+                # Check for API key in error message and sanitize
+                if 'api key' in error_msg.lower() or '401' in error_msg or 'invalid_api_key' in error_msg.lower():
+                    if not hasattr(classify_genre_with_openai, '_logged_invalid_key'):
+                        print("[OpenAI] Invalid API key detected, falling back to keyword-based classification")
+                        print("[OpenAI] To fix: Check OPENAI_API_KEY environment variable or GitHub secret")
+                        classify_genre_with_openai._logged_invalid_key = True
+                    return None
+                else:
+                    print(f"[OpenAI] Unexpected error: {sanitized_msg}, falling back to keyword-based classification")
+                    return None
         
         if not response:
             return None
@@ -507,19 +566,64 @@ def _track_openai_usage(tokens: int):
     _openai_rate_limit_tracker["tokens"].append({"time": current_time, "tokens": tokens})
 
 
-def classify_genre(title: str, description: str = "") -> str:
+def is_recent_video(published_at: str, hours: int = 1) -> bool:
+    """
+    Check if a video was published within the last N hours.
+    
+    Args:
+        published_at: ISO8601 formatted datetime string (e.g., "2024-01-01T12:00:00Z")
+        hours: Number of hours to check (default: 1)
+    
+    Returns:
+        True if video was published within the last N hours, False otherwise
+    """
+    if not published_at:
+        return False
+    
+    try:
+        # Parse ISO8601 format (handles both Z and +00:00 formats)
+        published_at_clean = published_at.replace('Z', '+00:00')
+        published_time = datetime.fromisoformat(published_at_clean)
+        if published_time.tzinfo is None:
+            published_time = published_time.replace(tzinfo=timezone.utc)
+        
+        # Get current time in UTC
+        now = datetime.now(timezone.utc)
+        
+        # Check if published within last N hours (include videos up to N hours old)
+        time_diff = now - published_time
+        # Use <= with small buffer to account for precision and include videos exactly N hours old
+        return time_diff <= timedelta(hours=hours, seconds=1)
+    except (ValueError, AttributeError) as e:
+        # If parsing fails, assume not recent (fallback to keyword-based)
+        print(f"[Classification] Error parsing publishedAt '{published_at}': {e}, using keyword-based classification")
+        return False
+
+
+def classify_genre(title: str, description: str = "", published_at: str = None, use_openai: bool = True) -> str:
     """
     Classify video genre based on title and description.
-    Tries OpenAI first, falls back to keyword-based classification on any error.
-    """
-    # Try OpenAI classification first (if available and configured)
-    openai_result = classify_genre_with_openai(title, description)
-    if openai_result:
-        return openai_result
     
-    # Fallback to keyword-based classification
+    Args:
+        title: Video title
+        description: Video description
+        published_at: ISO8601 formatted datetime string (optional)
+        use_openai: Whether to try OpenAI (default: True). If False, uses keyword-based directly.
+    
+    Returns:
+        Genre classification string
+    """
+    # Only use OpenAI if explicitly enabled and video is recent (within last 1 hour)
+    if use_openai and published_at and is_recent_video(published_at, hours=1):
+        openai_result = classify_genre_with_openai(title, description)
+        if openai_result:
+            return openai_result
+    
+    # Use keyword-based classification for older videos or if OpenAI fails
     keyword_result = classify_genre_keyword_based(title, description)
-    print(f"[Keyword] Classification result: {keyword_result}")
+    if not use_openai or not published_at or not is_recent_video(published_at, hours=1):
+        # Only print for non-recent videos to avoid spam
+        print(f"[Keyword] Classification result: {keyword_result}")
     return keyword_result
 
 
@@ -866,13 +970,21 @@ def aggregate_bhilai_videos(channels: List[str]) -> List[Dict]:
 
 
 def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
-    """Add genre classification to each video."""
+    """
+    Add genre classification to each video.
+    Only videos published in the last 1 hour use OpenAI; others use keyword-based classification.
+    Circuit breaker: Once OpenAI fails, stops trying OpenAI for rest of batch.
+    """
     total_videos = len(feed)
     openai_count = 0
     keyword_count = 0
     special_count = 0
+    recent_count = 0
+    openai_failed = False  # Circuit breaker flag
     
     print(f"[Classification] Starting genre classification for {total_videos} videos...")
+    print(f"[Classification] Strategy: OpenAI for videos published in last 1 hour, keyword-based for others")
+    print(f"[Classification] Circuit breaker: Will stop using OpenAI after first failure")
     
     for i, v in enumerate(feed, 1):
         video_type = (v.get("videoType") or "").strip().upper()
@@ -886,23 +998,45 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
         else:
             title = v.get("title", "")
             description = v.get("description", "")
+            published_at = v.get("publishedAt", "")
             
-            # Try OpenAI first
-            openai_result = classify_genre_with_openai(title, description)
-            if openai_result:
-                v["genre"] = openai_result
-                openai_count += 1
+            # Check if video is recent (within last 1 hour)
+            is_recent = is_recent_video(published_at, hours=1)
+            if is_recent:
+                recent_count += 1
+            
+            # Only use OpenAI for recent videos (published in last 1 hour) and if circuit breaker hasn't tripped
+            if is_recent and not openai_failed:
+                openai_result = classify_genre_with_openai(title, description)
+                if openai_result:
+                    v["genre"] = openai_result
+                    openai_count += 1
+                else:
+                    # OpenAI failed - set circuit breaker and use keyword-based
+                    if not openai_failed:
+                        print(f"[Classification] OpenAI failed, circuit breaker activated - using keyword-based for remaining {total_videos - i} videos")
+                        openai_failed = True
+                    v["genre"] = classify_genre_keyword_based(title, description)
+                    keyword_count += 1
             else:
-                # Fallback to keyword-based
+                # Use keyword-based directly for older videos or if circuit breaker is active
                 v["genre"] = classify_genre_keyword_based(title, description)
                 keyword_count += 1
         
         # Progress indicator for large batches
         if total_videos > 50 and i % 50 == 0:
-            print(f"[Classification] Progress: {i}/{total_videos} videos classified (OpenAI: {openai_count}, Keyword: {keyword_count}, Special: {special_count})")
+            status = " (Circuit breaker active)" if openai_failed else ""
+            print(f"[Classification] Progress: {i}/{total_videos} videos classified (Recent: {recent_count}, OpenAI: {openai_count}, Keyword: {keyword_count}, Special: {special_count}){status}")
     
-    print(f"[Classification] Complete: {openai_count} OpenAI, {keyword_count} keyword-based, {special_count} special types (Live/Scheduled)")
-    print(f"[Classification] Summary: {openai_count}/{total_videos - special_count} used OpenAI ({openai_count/(total_videos - special_count)*100:.1f}%)" if (total_videos - special_count) > 0 else "[Classification] Summary: All videos were special types")
+    print(f"[Classification] Complete: {recent_count} recent videos, {openai_count} OpenAI, {keyword_count} keyword-based, {special_count} special types (Live/Scheduled)")
+    if openai_failed:
+        print(f"[Classification] Circuit breaker was activated - OpenAI stopped after first failure")
+    if (total_videos - special_count) > 0:
+        recent_percent = (recent_count / (total_videos - special_count)) * 100 if (total_videos - special_count) > 0 else 0
+        openai_percent = (openai_count / recent_count) * 100 if recent_count > 0 else 0
+        print(f"[Classification] Summary: {recent_count}/{total_videos - special_count} recent ({recent_percent:.1f}%), {openai_count}/{recent_count} used OpenAI ({openai_percent:.1f}% of recent)")
+    else:
+        print("[Classification] Summary: All videos were special types")
     
     return feed
 
