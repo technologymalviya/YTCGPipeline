@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-12T17:42:02.680361Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-01-12T18:34:22.272927Z",
+  "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "politics",
       "topic": "Chhattisgarh January",
-      "videoCount": 49,
-      "trendScore": 65.2,
+      "videoCount": 53,
+      "trendScore": 65.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rtVdsvXz6BU/hqdefault.jpg",
           "durationSeconds": 1531,
           "durationFormatted": "25:31",
-          "views": 22491,
+          "views": 22780,
           "likes": 267,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xi9INjdp59I/hqdefault.jpg",
           "durationSeconds": 14501,
           "durationFormatted": "04:01:41",
-          "views": 12763,
-          "likes": 84,
+          "views": 13117,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pcCjAKkGdbQ/hqdefault.jpg",
           "durationSeconds": 923,
           "durationFormatted": "15:23",
-          "views": 9642,
-          "likes": 554,
+          "views": 9911,
+          "likes": 559,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aijOuVWCWUg/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 4130,
-          "likes": 502,
+          "views": 5017,
+          "likes": 521,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -84,13 +84,13 @@
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-12T17:40:40Z"
+      "latestUpdateAt": "2026-01-12T18:15:06Z"
     },
     {
       "clusterId": "general",
-      "topic": "Chhattisgarh Viral",
-      "videoCount": 107,
-      "trendScore": 64.4,
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 104,
+      "trendScore": 64.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/--E2K07TWd8/hqdefault.jpg",
           "durationSeconds": 1527,
           "durationFormatted": "25:27",
-          "views": 32823,
-          "likes": 347,
+          "views": 33704,
+          "likes": 349,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EJKHGMuJ-xo/hqdefault.jpg",
           "durationSeconds": 871,
           "durationFormatted": "14:31",
-          "views": 14108,
-          "likes": 382,
+          "views": 15072,
+          "likes": 385,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0osvWwUxk-E/hqdefault.jpg",
           "durationSeconds": 864,
           "durationFormatted": "14:24",
-          "views": 10391,
-          "likes": 255,
+          "views": 10491,
+          "likes": 256,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mTYOQVbYbsU/hqdefault.jpg",
           "durationSeconds": 19,
           "durationFormatted": "00:19",
-          "views": 8867,
+          "views": 9771,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/MG4S91ZkJkQ/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 7838,
-          "likes": 33,
+          "views": 9415,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-12T17:36:51Z"
+      "latestUpdateAt": "2026-01-12T18:15:00Z"
     },
     {
       "clusterId": "crime",
       "topic": "क्रांति सेना",
       "videoCount": 17,
-      "trendScore": 50.9,
+      "trendScore": 50.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/64gvQRS2gRs/hqdefault.jpg",
           "durationSeconds": 919,
           "durationFormatted": "15:19",
-          "views": 1885,
-          "likes": 93,
+          "views": 1973,
+          "likes": 94,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jin2YVg8hZ4/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 822,
-          "likes": 19,
+          "views": 864,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -216,13 +216,28 @@
           "thumbnail": "https://i.ytimg.com/vi/HaUPDNEDAEI/hqdefault.jpg",
           "durationSeconds": 212,
           "durationFormatted": "03:32",
-          "views": 55,
+          "views": 71,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
+          "videoId": "t9h5P5ScL6o",
+          "title": "US Attack on Venezuela: ट्रंप की जेल से Nicolas Maduro ने बेटे को भेजा संदेश! जल्द होंगे रिहा?",
+          "description": "US Attack on Venezuela: ट्रंप की जेल से Nicolas Maduro ने बेटे को भेजा संदेश! जल्द ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-12T17:05:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/t9h5P5ScL6o/hqdefault.jpg",
+          "durationSeconds": 149,
+          "durationFormatted": "02:29",
+          "views": 61,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "dbMS6uWE3ug",
           "title": "SAY NO TO चाइनीज मांझा, सड़क पर मौत की डोर, बैन के बावजूद बिक्री जारी",
           "description": "इंदौर में प्रतिबंध के बावजूद बिक रहा चाइनीज मांझा एक बार नहीं बार- ...",
@@ -231,23 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dbMS6uWE3ug/hqdefault.jpg",
           "durationSeconds": 1280,
           "durationFormatted": "21:20",
-          "views": 46,
+          "views": 58,
           "likes": 6,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "K9-qqbfgF34",
-          "title": "Katni News: पिकअप वाहन से 1 लाख 36 हजार रुपए की अवैध शराब जब्त | पिकअप ड्राइवर समेत 2 आरोपी गिरफ्तार",
-          "description": "IBC24, Katni News: पिकअप वाहन से 1 लाख 36 हजार रुपए की अवैध शराब जब्त | पिकअप ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-12T11:43:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/K9-qqbfgF34/hqdefault.jpg",
-          "durationSeconds": 57,
-          "durationFormatted": "00:57",
-          "views": 44,
-          "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -258,7 +258,7 @@
       "clusterId": "events",
       "topic": "Bhopal Mohan",
       "videoCount": 10,
-      "trendScore": 40.7,
+      "trendScore": 40.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VvwbTIYX-Ts/hqdefault.jpg",
           "durationSeconds": 31,
           "durationFormatted": "00:31",
-          "views": 1878,
-          "likes": 56,
+          "views": 2261,
+          "likes": 67,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/28uziPB6wtk/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 212,
+          "views": 217,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
@@ -322,16 +322,16 @@
         },
         {
           "index": 5,
-          "videoId": "VmXwhWQ5H98",
-          "title": "Bhopal News : CM Mohan Yadav ने किया ग्रामोदय से अभ्युदय अभियान का शुभारंभ LIVE।",
-          "description": "'ग्रामोदय से अभ्युदय मध्यप्रदेश' अभियान का आज राज्यस्तरीय शुभारंभ ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-12T07:04:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/VmXwhWQ5H98/hqdefault.jpg",
-          "durationSeconds": 646,
-          "durationFormatted": "10:46",
-          "views": 34,
-          "likes": 1,
+          "videoId": "PFjnkq5jeBY",
+          "title": "Bhopal में कायस्थ समाज का &#39;कायस्थम 2026&#39; समारोह हुआ आयोजित | Bhopal News | Kayasth Community",
+          "description": "Bhopal में कायस्थ समाज का 'कायस्थम 2026' समारोह हुआ आयोजित | Bhopal News | Kayasth ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-12T13:51:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/PFjnkq5jeBY/hqdefault.jpg",
+          "durationSeconds": 55,
+          "durationFormatted": "00:55",
+          "views": 40,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -339,112 +339,13 @@
       "latestUpdateAt": "2026-01-12T17:14:04Z"
     },
     {
-      "clusterId": "traffic",
-      "topic": "Highway Accident",
-      "videoCount": 7,
-      "trendScore": 34.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "QuKt2OmgLn8",
-          "title": "Cylinder Blast: Mahasamund में गैस सिलेंडर से भरी गाड़ी में ब्लास्ट, Highway पर अफरा-तफरी | Top News",
-          "description": "Cylinder Blast: Mahasamund में गैस सिलेंडर से भरी गाड़ी में ब्लास्ट, Highway पर ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-12T13:56:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/QuKt2OmgLn8/hqdefault.jpg",
-          "durationSeconds": 134,
-          "durationFormatted": "02:14",
-          "views": 652,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "e-md25LJMWQ",
-          "title": "Share Market Crash: दुनियाभर में War जैसे हालात, Recession से मचेगी तबाही! | America Russia Tension",
-          "description": "Share Market Crash: दुनियाभर में War जैसे हालात, Recession से मचेगी तबाही! | America ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-12T14:14:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/e-md25LJMWQ/hqdefault.jpg",
-          "durationSeconds": 1093,
-          "durationFormatted": "18:13",
-          "views": 288,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "AMWBiBnei9w",
-          "title": "Gariaband News: बिजली की मांग को लेकर प्रदर्शन, National Highway जाम | Chhattisgarh  | Protest News",
-          "description": "Gariaband News: बिजली की मांग को लेकर प्रदर्शन, National Highway जाम | Chhattisgarh | Protest ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-12T10:50:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/AMWBiBnei9w/hqdefault.jpg",
-          "durationSeconds": 553,
-          "durationFormatted": "09:13",
-          "views": 84,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "12KyShwyum0",
-          "title": "Rewa Accident News: बाइक और मालवाहक में भिड़ंत | हादसे में पिता और 5 साल की बेटी की मौत",
-          "description": "IBC24, Rewa Accident News: बाइक और मालवाहक में भिड़ंत | हादसे में पिता और 5 साल की ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-12T08:44:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/12KyShwyum0/hqdefault.jpg",
-          "durationSeconds": 55,
-          "durationFormatted": "00:55",
-          "views": 72,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
-          "videoId": "bCeKTRkpNg0",
-          "title": "Dantewada Accident News: कटेकल्याण तहसीलदार की गाड़ी दुर्घटनाग्रस्त। डिवाइडर से टकराई कार। देखिए..",
-          "description": "IBC24, Dantewada Accident News: कटेकल्याण तहसीलदार की गाड़ी दुर्घटनाग्रस्त।",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-12T16:44:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/bCeKTRkpNg0/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 71,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-01-12T16:44:51Z"
-    },
-    {
       "clusterId": "jobs",
-      "topic": "Bhilai Khursipar",
+      "topic": "Board Exam",
       "videoCount": 3,
-      "trendScore": 28.7,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "a1HO43dTaGM",
-          "title": "Bhilai के Khursipar में हुआ बवाल! महिला और बच्चे की गई जाN || Bhilai News || Bharti Media Network ||",
-          "description": "Bhilai के Khursipar में हुआ बवाल! महिला और बच्चे की गई जाN || Bhilai News || Bharti Media Network ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-01-12T16:26:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/a1HO43dTaGM/hqdefault.jpg",
-          "durationSeconds": 775,
-          "durationFormatted": "12:55",
-          "views": 244,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 2,
           "videoId": "kyAuPwbTc9Y",
           "title": "Breaking News:  MP बोर्ड परीक्षा की तारीखों में बड़ा बदलाव । MP Board Exam 2026",
           "description": "Breaking News: MP बोर्ड परीक्षा की तारीखों में बड़ा बदलाव । MP Board Exam 2026 #mp ...",
@@ -453,8 +354,23 @@
           "thumbnail": "https://i.ytimg.com/vi/kyAuPwbTc9Y/hqdefault.jpg",
           "durationSeconds": 561,
           "durationFormatted": "09:21",
-          "views": 66,
+          "views": 81,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "mj9soxCyGho",
+          "title": "8th Pay Commision: सैलरी में अब तक नहीं जुड़ा 8वें वेतन आयोग का पैसा, जानें कितना मिलेगा एरियर?",
+          "description": "8th Pay Commision: सैलरी में अब तक नहीं जुड़ा 8वें वेतन आयोग का पैसा, जानें ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-12T17:36:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/mj9soxCyGho/hqdefault.jpg",
+          "durationSeconds": 206,
+          "durationFormatted": "03:26",
+          "views": 68,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -474,31 +390,91 @@
           "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-01-12T16:50:57Z"
+      "latestUpdateAt": "2026-01-12T17:36:20Z"
     },
     {
-      "clusterId": "live",
-      "topic": "Top Chhattisgarh",
-      "videoCount": 1,
-      "trendScore": 22.1,
+      "clusterId": "traffic",
+      "topic": "Accident Chhattisgarh",
+      "videoCount": 6,
+      "trendScore": 29.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "EP9aLuExVAg",
-          "title": "🔴 Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 12 January 2026",
-          "description": "IBC24, Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 12 January ...",
+          "videoId": "AMWBiBnei9w",
+          "title": "Gariaband News: बिजली की मांग को लेकर प्रदर्शन, National Highway जाम | Chhattisgarh  | Protest News",
+          "description": "Gariaband News: बिजली की मांग को लेकर प्रदर्शन, National Highway जाम | Chhattisgarh | Protest ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-12T10:50:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/AMWBiBnei9w/hqdefault.jpg",
+          "durationSeconds": 553,
+          "durationFormatted": "09:13",
+          "views": 135,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "bCeKTRkpNg0",
+          "title": "Dantewada Accident News: कटेकल्याण तहसीलदार की गाड़ी दुर्घटनाग्रस्त। डिवाइडर से टकराई कार। देखिए..",
+          "description": "IBC24, Dantewada Accident News: कटेकल्याण तहसीलदार की गाड़ी दुर्घटनाग्रस्त।",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-01-12T17:24:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/EP9aLuExVAg/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 24,
+          "publishedAt": "2026-01-12T16:44:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/bCeKTRkpNg0/hqdefault.jpg",
+          "durationSeconds": 52,
+          "durationFormatted": "00:52",
+          "views": 80,
           "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "12KyShwyum0",
+          "title": "Rewa Accident News: बाइक और मालवाहक में भिड़ंत | हादसे में पिता और 5 साल की बेटी की मौत",
+          "description": "IBC24, Rewa Accident News: बाइक और मालवाहक में भिड़ंत | हादसे में पिता और 5 साल की ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-12T08:44:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/12KyShwyum0/hqdefault.jpg",
+          "durationSeconds": 55,
+          "durationFormatted": "00:55",
+          "views": 72,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "gwzUO7VHxgM",
+          "title": "Chinese Manjha Accident: चाइनीज मांझे का कहर, NDTV की पड़ताल, क्या सामने आया? MP News | Chhattisgarh",
+          "description": "Chinese Manjha Accident: चाइनीज मांझे का कहर, NDTV की पड़ताल, क्या सामने आया?",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-12T12:50:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/gwzUO7VHxgM/hqdefault.jpg",
+          "durationSeconds": 1605,
+          "durationFormatted": "26:45",
+          "views": 47,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "wagWf-3qFJo",
+          "title": "Viral Video: गहरी खाई में गिरा युवक | #shortsnews #shorts #viralvideo",
+          "description": "Viral Video: गहरी खाई में गिरा युवक | #shortsnews #shorts #viralvideo NDTV Madhya Pradesh and ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-12T18:16:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/wagWf-3qFJo/hqdefault.jpg",
+          "durationSeconds": 17,
+          "durationFormatted": "00:17",
+          "views": 14,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-12T17:24:46Z"
+      "latestUpdateAt": "2026-01-12T18:16:01Z"
     }
   ]
 }
