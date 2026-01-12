@@ -9,8 +9,11 @@ import time
 from typing import List, Dict
 import random
 
+# Environment Variable Names
+ENV_OPENAI_API_KEY = "OPENAI_API_KEY"
+
 # Prefer reading the API key from the environment. Do NOT embed GitHub Actions secrets syntax here.
-api_key = os.environ.get("OPENAI_API_KEY")
+api_key = os.environ[ENV_YOUTUBE_API_KEY]
 if not api_key:
     print("Warning: OPENAI_API_KEY not set. Falling back to a local heuristic mock classifier for testing.")
     USE_MOCK = True
