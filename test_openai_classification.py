@@ -14,7 +14,7 @@ ENV_OPENAI_API_KEY = "OPENAI_API_KEY"
 
 # Prefer reading the API key from the environment. Do NOT embed GitHub Actions secrets syntax here.
 api_key = os.environ[ENV_OPENAI_API_KEY]
-print("Warning: api_key "+$api_key)
+print(f"Warning: api_key {api_key} ")
   
 if not api_key:
     print("Warning: OPENAI_API_KEY not set. Falling back to a local heuristic mock classifier for testing.")
