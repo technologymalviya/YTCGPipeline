@@ -1,96 +1,12 @@
 {
-  "generatedAt": "2026-01-12T09:54:12.655219Z",
+  "generatedAt": "2026-01-12T10:59:47.944502Z",
   "clusterCount": 7,
   "clusters": [
     {
-      "clusterId": "general",
-      "topic": "Chhattisgarh Viral",
-      "videoCount": 102,
-      "trendScore": 63.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "OJZz3jJf65A",
-          "title": "Viral Video : PM Modi and German Chancellor पतंग उड़ाते हुए। shorts | N18S | #viralvideo #viral",
-          "description": "Viral Video : PM Modi and German Chancellor पतंग उड़ाते हुए। यहां वे भगवान हनुमान की ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-12T06:03:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/OJZz3jJf65A/hqdefault.jpg",
-          "durationSeconds": 9,
-          "durationFormatted": "00:09",
-          "views": 39605,
-          "likes": 239,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "--E2K07TWd8",
-          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 12 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
-          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 12 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा ...",
-          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
-          "publishedAt": "2026-01-11T23:30:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/--E2K07TWd8/hqdefault.jpg",
-          "durationSeconds": 1527,
-          "durationFormatted": "25:27",
-          "views": 21255,
-          "likes": 281,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "jTcPgJp_JCo",
-          "title": "का तै मोला मोहनी डार दिये रे छत्तीसगढ़ी डरावनी मूवी इंटरव्यू...",
-          "description": "का तै मोला मोहनी डार दिये रे छत्तीसगढ़ी डरावनी मूवी इंटरव्यू... Join this ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-01-11T10:30:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/jTcPgJp_JCo/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 14886,
-          "likes": 366,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "pwBAhyrtu3E",
-          "title": "Trump Venezuela Oil Deal: कैसे निकलेगा वेनेजुएला का तेल, भारत ने बिगाड़ा ट्रंप का $100 अरब का खेल!",
-          "description": "Trump Venezuela Oil Deal: कैसे निकलेगा वेनेजुएला का तेल, भारत ने बिगाड़ा ट्रंप ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-12T07:26:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/pwBAhyrtu3E/hqdefault.jpg",
-          "durationSeconds": 168,
-          "durationFormatted": "02:48",
-          "views": 10074,
-          "likes": 80,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "baIvr3LtDFw",
-          "title": "Omkareshwar Viral Video : देखिए घर बैठे बाबा ओंकारेश्वर की संध्या श्रृंगार दर्शन | N18S | Shorts",
-          "description": "Omkareshwar Viral Video : देखिए घर बैठे बाबा ओंकारेश्वर की संध्या श्रृंगार ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-12T06:46:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/baIvr3LtDFw/hqdefault.jpg",
-          "durationSeconds": 31,
-          "durationFormatted": "00:31",
-          "views": 8707,
-          "likes": 104,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-01-12T09:37:03Z"
-    },
-    {
       "clusterId": "politics",
-      "topic": "Chhattisgarh Mohan",
-      "videoCount": 45,
-      "trendScore": 63.2,
+      "topic": "Chhattisgarh Sai",
+      "videoCount": 46,
+      "trendScore": 64.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/rtVdsvXz6BU/hqdefault.jpg",
           "durationSeconds": 1531,
           "durationFormatted": "25:31",
-          "views": 18239,
-          "likes": 239,
+          "views": 19100,
+          "likes": 244,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "v_fuolXevpM",
-          "title": "National Youth Day पर MP में सामूहिक सूर्य नमस्कार, CM Mohan Yadav ने भी लिया हिस्सा। N18S | #mp",
-          "description": "National Youth Day पर MP में सामूहिक सूर्य नमस्कार, CM Mohan Yadav ने भी लिया ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-12T06:27:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/v_fuolXevpM/hqdefault.jpg",
-          "durationSeconds": 159,
-          "durationFormatted": "02:39",
-          "views": 12360,
-          "likes": 42,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "pcCjAKkGdbQ",
           "title": "Chhattisgarh paddy scam में चूहों chuho पर क्यों लगा है इल्ज़ाम",
           "description": "chhattisgarh #latestnews #news #viralnews #hindinews #viral #breakingnews #paddy #farmer #mouse #government #bjp ...",
@@ -132,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/pcCjAKkGdbQ/hqdefault.jpg",
           "durationSeconds": 923,
           "durationFormatted": "15:23",
-          "views": 5502,
-          "likes": 432,
+          "views": 6585,
+          "likes": 447,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "sYZGxZjbmV0",
           "title": "लाडली बहनों को बड़ी सौगात, CM Mohan Yadav ने जारी की 31वीं किस्त | India News",
           "description": "छतरपुर में आयोजित लाड़ली बहना सम्मेलन में मुख्यमंत्री डॉ. मोहन ...",
@@ -147,34 +48,133 @@
           "thumbnail": "https://i.ytimg.com/vi/sYZGxZjbmV0/hqdefault.jpg",
           "durationSeconds": 14378,
           "durationFormatted": "03:59:38",
-          "views": 3333,
+          "views": 3322,
           "likes": 25,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 5,
-          "videoId": "BnMNq2oSHAA",
-          "title": "Bhopal से CM Mohan Yadav LIVE, रवीन्द्र भवन में राज्य स्तरीय सह-प्रशिक्षण कार्यक्रम हुए शामिल |",
-          "description": "भोपाल के रवीन्द्र भवन में लोक निर्माण विभाग का राज्य स्तरीय ...",
+          "index": 4,
+          "videoId": "xi9INjdp59I",
+          "title": "लाडली बहनों को बड़ी सौगात, CM Mohan Yadav ने जारी की 31वीं किस्त | India News",
+          "description": "छतरपुर में आयोजित लाड़ली बहना सम्मेलन में मुख्यमंत्री डॉ. मोहन ...",
           "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-11T10:32:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/BnMNq2oSHAA/hqdefault.jpg",
-          "durationSeconds": 14445,
-          "durationFormatted": "04:00:45",
-          "views": 2955,
-          "likes": 10,
+          "publishedAt": "2026-01-12T06:48:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/xi9INjdp59I/hqdefault.jpg",
+          "durationSeconds": 14501,
+          "durationFormatted": "04:01:41",
+          "views": 3115,
+          "likes": 55,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "IQ1XwkRzyD4",
+          "title": "12 January 2026 Chhattisgarh News | Chhattisgarh Ki Taja Khabar | Cg Breaking News | Cm Vishnu Sai",
+          "description": "12 January 2026 Chhattisgarh News | Chhattisgarh Ki Taja Khabar | Cg Breaking News | Cm Vishnu Sai 2025 Chhattisgarh News ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-01-12T01:24:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/IQ1XwkRzyD4/hqdefault.jpg",
+          "durationSeconds": 573,
+          "durationFormatted": "09:33",
+          "views": 2058,
+          "likes": 60,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-12T09:52:57Z"
+      "latestUpdateAt": "2026-01-12T10:58:51Z"
+    },
+    {
+      "clusterId": "general",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 100,
+      "trendScore": 63.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "--E2K07TWd8",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 12 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 12 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-01-11T23:30:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/--E2K07TWd8/hqdefault.jpg",
+          "durationSeconds": 1527,
+          "durationFormatted": "25:27",
+          "views": 23512,
+          "likes": 286,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "pwBAhyrtu3E",
+          "title": "Trump Venezuela Oil Deal: कैसे निकलेगा वेनेजुएला का तेल, भारत ने बिगाड़ा ट्रंप का $100 अरब का खेल!",
+          "description": "Trump Venezuela Oil Deal: कैसे निकलेगा वेनेजुएला का तेल, भारत ने बिगाड़ा ट्रंप ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-12T07:26:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/pwBAhyrtu3E/hqdefault.jpg",
+          "durationSeconds": 168,
+          "durationFormatted": "02:48",
+          "views": 13100,
+          "likes": 87,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "0osvWwUxk-E",
+          "title": "छत्तीसगढ़ 12 जनवरी 2026 के मुख्य समाचार : Chhattisgarh Samachar Today, Cg breaking news, Media CG",
+          "description": "Chhattisgarh Today Breaking News 12 January 2026 Media Chhattisgarh #Chhattisgarh_News #Cgsamachartoday ...",
+          "channelTitle": "Media Chhattisgarh",
+          "publishedAt": "2026-01-11T23:28:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/0osvWwUxk-E/hqdefault.jpg",
+          "durationSeconds": 864,
+          "durationFormatted": "14:24",
+          "views": 8798,
+          "likes": 243,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "EJKHGMuJ-xo",
+          "title": "Jamboree में Srilanka के Rovers से खास बातचीत | CG की नोनी से R’sthan के बाबू तक Full Vibe |",
+          "description": "Jamboree में Srilanka के Rovers से खास बातचीत | CG की नोनी से R'sthan के बाबू तक Full Vibe ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-01-12T02:00:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/EJKHGMuJ-xo/hqdefault.jpg",
+          "durationSeconds": 871,
+          "durationFormatted": "14:31",
+          "views": 8228,
+          "likes": 271,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "kPksVX3D-Fs",
+          "title": "Devkinandan Thakur ने AMU में की मंदिर बनाने की मांग, बोले- सनातनी बनने के लिए तिलक जरूरी | Top News",
+          "description": "Bulandshahr में Khurja के शारदा जैन में श्रीकुंज बिहारी सेवा परिकर के चौथे ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-12T06:57:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/kPksVX3D-Fs/hqdefault.jpg",
+          "durationSeconds": 159,
+          "durationFormatted": "02:39",
+          "views": 8148,
+          "likes": 12,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-12T10:58:03Z"
     },
     {
       "clusterId": "crime",
       "topic": "क्रांति सेना",
-      "videoCount": 14,
-      "trendScore": 51.8,
+      "videoCount": 15,
+      "trendScore": 52.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,13 +186,28 @@
           "thumbnail": "https://i.ytimg.com/vi/t2pv2wxI61c/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 9417,
-          "likes": 418,
+          "views": 11031,
+          "likes": 433,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
+          "videoId": "64gvQRS2gRs",
+          "title": "क्रांति सेना के अध्यक्ष डॉ अजय यादव की गिरफ्तारी पर फूटा गुस्सा, जानें क्या कहा लोगों ने। कान्हा",
+          "description": "क्रांति सेना के अध्यक्ष डॉ अजय यादव की गिरफ्तारी पर फूटा गुस्सा, ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-12T03:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/64gvQRS2gRs/hqdefault.jpg",
+          "durationSeconds": 919,
+          "durationFormatted": "15:19",
+          "views": 1072,
+          "likes": 72,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
           "videoId": "yL5ygW74ofk",
           "title": "नगर निगम अधिकारी एवं पुलिस प्रशासन ने मिलकर की बड़ी कार्रवाही। सड़क से उठायी गाड़िया और किया चालान।",
           "description": "नगर निगम अधिकारी एवं पुलिस प्रशासन ने मिलकर की बड़ी कार्रवाही।",
@@ -207,21 +222,6 @@
           "genre": "Crime"
         },
         {
-          "index": 3,
-          "videoId": "64gvQRS2gRs",
-          "title": "क्रांति सेना के अध्यक्ष डॉ अजय यादव की गिरफ्तारी पर फूटा गुस्सा, जानें क्या कहा लोगों ने। कान्हा",
-          "description": "क्रांति सेना के अध्यक्ष डॉ अजय यादव की गिरफ्तारी पर फूटा गुस्सा, ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-12T03:30:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/64gvQRS2gRs/hqdefault.jpg",
-          "durationSeconds": 919,
-          "durationFormatted": "15:19",
-          "views": 734,
-          "likes": 67,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
           "index": 4,
           "videoId": "gIeC8pHkcsc",
           "title": "Raipur Gangwar News: गैंगवार मामले मुख्य आरोपी समेत 4 लोग गिरफ्तार,वर्चस्व की रंजिश के चलते की हत्या",
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gIeC8pHkcsc/hqdefault.jpg",
           "durationSeconds": 242,
           "durationFormatted": "04:02",
-          "views": 377,
+          "views": 655,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/xbyuDIsEFgY/hqdefault.jpg",
           "durationSeconds": 251,
           "durationFormatted": "04:11",
-          "views": 215,
+          "views": 296,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-12T09:02:58Z"
+      "latestUpdateAt": "2026-01-12T10:22:42Z"
     },
     {
       "clusterId": "events",
       "topic": "Shorts N18S",
       "videoCount": 15,
-      "trendScore": 47.3,
+      "trendScore": 47.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BAPlCp9nDyU/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 9348,
-          "likes": 30,
+          "views": 11122,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hIEb0PHZ6mM/hqdefault.jpg",
           "durationSeconds": 32,
           "durationFormatted": "00:32",
-          "views": 8641,
-          "likes": 93,
+          "views": 10455,
+          "likes": 107,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vkIoSzpc-Cs/hqdefault.jpg",
           "durationSeconds": 32,
           "durationFormatted": "00:32",
-          "views": 2030,
-          "likes": 70,
+          "views": 3486,
+          "likes": 100,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/C_Bp0QJV024/hqdefault.jpg",
           "durationSeconds": 14514,
           "durationFormatted": "04:01:54",
-          "views": 936,
+          "views": 1134,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Events"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kza_dlbJ4n8/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 184,
+          "views": 240,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -342,7 +342,7 @@
       "clusterId": "jobs",
       "topic": "SSC Exam",
       "videoCount": 2,
-      "trendScore": 34.7,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4KoEcxb2IC0/hqdefault.jpg",
           "durationSeconds": 369,
           "durationFormatted": "06:09",
-          "views": 14310,
-          "likes": 303,
+          "views": 15108,
+          "likes": 319,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OI2nC44fjlE/hqdefault.jpg",
           "durationSeconds": 200,
           "durationFormatted": "03:20",
-          "views": 331,
-          "likes": 5,
+          "views": 976,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "Jobs"
         }
@@ -381,7 +381,7 @@
       "clusterId": "traffic",
       "topic": "Bhilai सुपेला",
       "videoCount": 4,
-      "trendScore": 30.8,
+      "trendScore": 30.2,
       "topVideos": [
         {
           "index": 1,
@@ -393,13 +393,43 @@
           "thumbnail": "https://i.ytimg.com/vi/KH75mAVfxxM/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 939,
+          "views": 936,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 2,
+          "videoId": "Qee2gLpY9mQ",
+          "title": "Gwalior News: लोडिंग वाहन ने खड़े ट्रक को मारी टक्कर। ट्रक में भरी शराब की बोतलें सड़कों पर बिखरी",
+          "description": "IBC24, Gwalior News, लोडिंग वाहन ने खड़े ट्रक को मारी टक्कर, ट्रक में भरी शराब ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-12T09:47:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/Qee2gLpY9mQ/hqdefault.jpg",
+          "durationSeconds": 57,
+          "durationFormatted": "00:57",
+          "views": 48,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "H4HF76Pn0pg",
+          "title": "Gariaband news : बिजली की मांग को लेकर चक्काजाम, 8 गांवों के ग्रामीणों ने NH-130 किया जाम",
+          "description": "Gariaband news : बिजली की मांग को लेकर चक्काजाम, 8 गांवों के ग्रामीणों ने ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-12T07:03:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/H4HF76Pn0pg/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 33,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
           "videoId": "12KyShwyum0",
           "title": "Rewa Accident News: बाइक और मालवाहक में भिड़ंत | हादसे में पिता और 5 साल की बेटी की मौत",
           "description": "IBC24, Rewa Accident News: बाइक और मालवाहक में भिड़ंत | हादसे में पिता और 5 साल की ...",
@@ -412,63 +442,48 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "Qee2gLpY9mQ",
-          "title": "Gwalior News: लोडिंग वाहन ने खड़े ट्रक को मारी टक्कर। ट्रक में भरी शराब की बोतलें सड़कों पर बिखरी",
-          "description": "IBC24, Gwalior News, लोडिंग वाहन ने खड़े ट्रक को मारी टक्कर, ट्रक में भरी शराब ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-12T09:47:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/Qee2gLpY9mQ/hqdefault.jpg",
-          "durationSeconds": 57,
-          "durationFormatted": "00:57",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "H4HF76Pn0pg",
-          "title": "Gariaband news : बिजली की मांग को लेकर चक्काजाम, 8 गांवों के ग्रामीणों ने NH-130 किया जाम",
-          "description": "Gariaband news : बिजली की मांग को लेकर चक्काजाम, 8 गांवों के ग्रामीणों ने ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-12T07:03:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/H4HF76Pn0pg/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-01-12T09:47:06Z"
     },
     {
       "clusterId": "live",
-      "topic": "Bansal MPCG",
-      "videoCount": 1,
-      "trendScore": 26.4,
+      "topic": "Accident Chinese",
+      "videoCount": 2,
+      "trendScore": 23.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "XVjekHD2pto",
-          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
-          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-12T01:11:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/XVjekHD2pto/hqdefault_live.jpg",
+          "videoId": "aabVrOHNaO8",
+          "title": "Accident due to Chinese Manjha: शहर-शहर मौत का मांझा! लोगों को लहुलुहान कर रहा चाइनीज मांझा? देखिए..",
+          "description": "IBC24, Accident due to Chinese thread: शहर-शहर मौत का मांझा! लोगों को लहुलुहान कर रहा ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-12T10:42:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/aabVrOHNaO8/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 1154,
-          "likes": 11,
+          "views": 36,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 2,
+          "videoId": "AMWBiBnei9w",
+          "title": "Gariaband News: बिजली की मांग को लेकर प्रदर्शन, National Highway जाम | Chhattisgarh  | Protest News",
+          "description": "Gariaband News: बिजली की मांग को लेकर प्रदर्शन, National Highway जाम | Chhattisgarh | Protest ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-12T10:50:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/AMWBiBnei9w/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 3,
+          "likes": 0,
           "videoType": "LIVE",
           "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-01-12T01:11:30Z"
+      "latestUpdateAt": "2026-01-12T10:50:06Z"
     }
   ]
 }
