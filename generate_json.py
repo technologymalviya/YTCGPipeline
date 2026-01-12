@@ -15,10 +15,21 @@ import requests
 # OpenAI integration (optional)
 try:
     import openai
-    OPENAI_AVAILABLE = True
-except ImportError:
+    # Verify the module has the required OpenAI class
+    if hasattr(openai, 'OpenAI'):
+        OPENAI_AVAILABLE = True
+    else:
+        OPENAI_AVAILABLE = False
+        openai = None
+        print("[OpenAI] OpenAI module imported but missing OpenAI class")
+except ImportError as e:
     OPENAI_AVAILABLE = False
     openai = None
+    print(f"[OpenAI] OpenAI library import failed: {e}")
+except Exception as e:
+    OPENAI_AVAILABLE = False
+    openai = None
+    print(f"[OpenAI] Unexpected error importing OpenAI: {e}")
 
 
 # Configuration Constants
@@ -320,13 +331,21 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
     Returns None if OpenAI is unavailable or encounters errors (fallback to keyword-based).
     """
     if not OPENAI_AVAILABLE:
-        print("[OpenAI] OpenAI library not available, using keyword-based classification")
+        # Only log once per session to avoid spam
+        if not hasattr(classify_genre_with_openai, '_logged_unavailable'):
+            print("[OpenAI] OpenAI library not available, using keyword-based classification")
+            print("[OpenAI] To fix: pip install openai>=1.0.0 (or check import errors above)")
+            classify_genre_with_openai._logged_unavailable = True
         return None
     
     # Check if API key is configured
     api_key = os.environ.get(ENV_OPENAI_API_KEY)
     if not api_key:
-        print("[OpenAI] API key not configured, using keyword-based classification")
+        # Only log once per session to avoid spam
+        if not hasattr(classify_genre_with_openai, '_logged_no_key'):
+            print("[OpenAI] API key not configured, using keyword-based classification")
+            print("[OpenAI] To fix: Set OPENAI_API_KEY environment variable or GitHub secret")
+            classify_genre_with_openai._logged_no_key = True
         return None
     
     print(f"[OpenAI] Attempting classification for: {title[:60]}...")
