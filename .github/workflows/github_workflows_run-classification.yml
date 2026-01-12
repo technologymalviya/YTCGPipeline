@@ -25,6 +25,6 @@ jobs:
       - name: Run test_openai_classification.py
         env:
           # Leave OPENAI_API_KEY empty to force the mock classifier.
-          OPENAI_API_KEY: ""
+           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           python test_openai_classification.py
