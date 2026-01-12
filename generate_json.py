@@ -50,7 +50,7 @@ ENV_BHILAI_CHANNELS = "BHILAI_CHANNELS"
 ENV_OPENAI_API_KEY = "OPENAI_API_KEY"
 
 # OpenAI Configuration
-OPENAI_MODEL = "gpt-4o-mini"  # Cost-effective model
+OPENAI_MODEL = "gpt-4.1-mini" #"gpt-4o-mini"  # Cost-effective model
 OPENAI_MAX_TOKENS = 10  # Just need genre name
 OPENAI_TEMPERATURE = 0.1  # Low temperature for consistent classification
 OPENAI_RATE_LIMIT_RPM = 500  # Requests per minute limit
