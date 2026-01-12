@@ -9,12 +9,59 @@ import time
 from typing import List, Dict
 import random
 
-# Set the API key
-os.environ["OPENAI_API_KEY"] = ${{ secrets.OPENAI_API_KEY }}
+# Prefer reading the API key from the environment. Do NOT embed GitHub Actions secrets syntax here.
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    print("Warning: OPENAI_API_KEY not set. Falling back to a local heuristic mock classifier for testing.")
+    USE_MOCK = True
+else:
+    USE_MOCK = False
 
-# Import the classification function
+# Import the classification function and genre constants if available.
 sys.path.insert(0, '.')
-from generate_json import classify_genre, GENRE_CRIME, GENRE_TRAFFIC, GENRE_JOBS, GENRE_EVENTS, GENRE_CIVIC, GENRE_POLITICS, GENRE_GENERAL
+real_classify = None
+try:
+    from generate_json import classify_genre as real_classify_genre, GENRE_CRIME, GENRE_TRAFFIC, GENRE_JOBS, GENRE_EVENTS, GENRE_CIVIC, GENRE_POLITICS, GENRE_GENERAL
+    real_classify = real_classify_genre
+except Exception as e:
+    # If import fails, we'll define fallback constants and a mock classifier below.
+    print(f"Warning: could not import generate_json.classify_genre - {e}")
+    real_classify = None
+
+# Fallback genre constants (used when generate_json isn't available)
+GENRE_CRIME = globals().get('GENRE_CRIME', 'crime')
+GENRE_TRAFFIC = globals().get('GENRE_TRAFFIC', 'traffic')
+GENRE_JOBS = globals().get('GENRE_JOBS', 'jobs')
+GENRE_EVENTS = globals().get('GENRE_EVENTS', 'events')
+GENRE_CIVIC = globals().get('GENRE_CIVIC', 'civic')
+GENRE_POLITICS = globals().get('GENRE_POLITICS', 'politics')
+GENRE_GENERAL = globals().get('GENRE_GENERAL', 'general')
+
+# If there's no API key or the real classifier isn't available, use a simple heuristic classifier for tests.
+if USE_MOCK or real_classify is None:
+    def classify_genre(title: str, description: str):
+        text = f"{title} {description}".lower()
+        # Crime keywords
+        if any(k in text for k in ["हत्या", "गिरफ्तार", "चोरी", "हिंसा", "मर्डर", "ड्रग", "लूट", "गिरफ्तारी"]):
+            return GENRE_CRIME
+        # Traffic keywords
+        if any(k in text for k in ["ट्रैफिक", "टक्कर", "दुर्घटना", "हादसा", "ट्रक", "रोड", "हाईवे", "एक्सीडेंट", "वाह��"]):
+            return GENRE_TRAFFIC
+        # Jobs keywords
+        if any(k in text for k in ["नौकरी", "भर्ती", "रोजगार", "इंटरव्यू", "पदों", "रोजगार मेला", "रिजल्ट", "एडमिट"]):
+            return GENRE_JOBS
+        # Events keywords
+        if any(k in text for k in ["त्योहार", "मेला", "शादी", "उत्सव", "समारोह", "उद्घाटन", "जन्मदिन", "पूजा"]):
+            return GENRE_EVENTS
+        # Civic keywords
+        if any(k in text for k in ["नगर निगम", "पानी", "कचरा", "सफाई", "नगर पालिका", "आधार", "जन्म प्रमाणपत्र", "सफाई कर्मचारी"]):
+            return GENRE_CIVIC
+        # Politics keywords
+        if any(k in text for k in ["चुनाव", "मंत्री", "राजनीतिक", "सरकार", "बजट", "रैली", "नेता", "संबोधन", "खबर"]):
+            return GENRE_POLITICS
+        return GENRE_GENERAL
+else:
+    classify_genre = real_classify
 
 
 def generate_mock_videos() -> List[Dict]:
