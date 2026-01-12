@@ -2,9 +2,20 @@ name: Generate and Share JSON
 
 on:
   schedule:
-    # Runs every 2 hours at :30 UTC -> corresponds to IST 08:00–00:00 
-    # UTC times: 02:30,04:30,06:30,...,18:30 -> which map to IST 8:00,10:00,...,00:00.
-    - cron: '30 2-18/2 * * *'
+    # Runs every 2 hours from 6 AM IST to 12 AM IST (midnight)
+    # IST is UTC+5:30, so:
+    # 6 AM IST = 00:30 UTC
+    # 8 AM IST = 02:30 UTC
+    # 10 AM IST = 04:30 UTC
+    # 12 PM IST = 06:30 UTC
+    # 2 PM IST = 08:30 UTC
+    # 4 PM IST = 10:30 UTC
+    # 6 PM IST = 12:30 UTC
+    # 8 PM IST = 14:30 UTC
+    # 10 PM IST = 16:30 UTC
+    # 12 AM IST (midnight) = 18:30 UTC
+    # Cron: minute 30, every 2 hours from 0 to 18 UTC
+    - cron: '30 0-18/2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,7 +23,7 @@ permissions:
 
 jobs:
  scheduled-run:
-    name: Scheduled run (IST 08:00–00:00 every 2 hours)
+    name: Scheduled run (IST 06:00–00:00 every 2 hours)
     runs-on: ubuntu-latest    
     steps:
       - name: Checkout repository
