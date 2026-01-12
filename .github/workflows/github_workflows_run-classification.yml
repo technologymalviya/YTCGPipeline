@@ -28,4 +28,3 @@ jobs:
           OPENAI_API_KEY: ""
         run: |
           python test_openai_classification.py
-```
