@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-01-15T18:00:25.324519Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-01-15T19:38:21.232017Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "general",
       "topic": "Viral Chhattisgarh",
-      "videoCount": 95,
-      "trendScore": 63.9,
+      "videoCount": 102,
+      "trendScore": 63.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "onwLnjgu4Z0",
-          "title": "US Supreme Court tariff decision LIVE : 575% टैरिफ पर आ गया बहुत बड़ा फैसला! Donald Trump | America",
-          "description": "US Supreme Court tariff decision LIVE : 575% टैरिफ पर आ गया बहुत बड़ा फैसला! Donald Trump | America ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-15T16:43:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/onwLnjgu4Z0/hqdefault.jpg",
-          "durationSeconds": 36705,
-          "durationFormatted": "10:11:45",
-          "views": 77569,
-          "likes": 335,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "1T8A2FZ0x-8",
           "title": "Viral Video : टोंक के गांव में नहीं मिला सोने का घड़ा, लोगों ने लगाई भीड़ ! | N18S | Shorts",
           "description": "Viral Video : टोंक के गांव में नहीं मिला सोने का घड़ा, लोगों ने लगाई भीड़ !",
@@ -33,8 +18,23 @@
           "thumbnail": "https://i.ytimg.com/vi/1T8A2FZ0x-8/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 66327,
-          "likes": 221,
+          "views": 103900,
+          "likes": 267,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "onwLnjgu4Z0",
+          "title": "US Supreme Court tariff decision LIVE : 575% टैरिफ पर आ गया बहुत बड़ा फैसला! Donald Trump | America",
+          "description": "US Supreme Court tariff decision LIVE : 575% टैरिफ पर आ गया बहुत बड़ा फैसला! Donald Trump | America ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T16:43:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/onwLnjgu4Z0/hqdefault.jpg",
+          "durationSeconds": 36705,
+          "durationFormatted": "10:11:45",
+          "views": 79156,
+          "likes": 336,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OKuryHcQwwU/hqdefault.jpg",
           "durationSeconds": 1517,
           "durationFormatted": "25:17",
-          "views": 29783,
-          "likes": 330,
+          "views": 30364,
+          "likes": 331,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/bY6ClgFbZn0/hqdefault.jpg",
           "durationSeconds": 1053,
           "durationFormatted": "17:33",
-          "views": 12031,
+          "views": 12134,
           "likes": 284,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "AgRXRZMsuqQ",
-          "title": "Brij Bhushan Falls on Stage: मंच पर धड़ाम से गिरे बृजभूषण, Viral Video देख सब हैरान | N18S",
-          "description": "Brij Bhushan Sharan Singh Falls Stage Viral Video : मंच पर चढ़ते समय धड़ाम से गिरे बृजभूषण, ...",
+          "videoId": "f5PPgfXW7jI",
+          "title": "Mahanaryaman Scindia Car Viral Video: कार की ब्रेक लगने के बाद महाआर्यमन को सीने में लगी चोट, लेकिन",
+          "description": "Mahanaryaman Scindia Car Viral Video: कार की ब्रेक लगने के बाद महाआर्यमन को सीने में ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-15T16:02:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/AgRXRZMsuqQ/hqdefault.jpg",
-          "durationSeconds": 7,
-          "durationFormatted": "00:07",
-          "views": 8659,
-          "likes": 40,
+          "publishedAt": "2026-01-15T16:09:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/f5PPgfXW7jI/hqdefault.jpg",
+          "durationSeconds": 15,
+          "durationFormatted": "00:15",
+          "views": 10086,
+          "likes": 36,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-15T17:30:17Z"
+      "latestUpdateAt": "2026-01-15T18:34:26Z"
     },
     {
       "clusterId": "politics",
       "topic": "BMC Elections",
-      "videoCount": 30,
-      "trendScore": 63.4,
+      "videoCount": 34,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IaG5UAvGABk/hqdefault.jpg",
           "durationSeconds": 14940,
           "durationFormatted": "04:09:00",
-          "views": 52476,
-          "likes": 171,
+          "views": 54612,
+          "likes": 170,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-KQR7HGtMCo/hqdefault.jpg",
           "durationSeconds": 1450,
           "durationFormatted": "24:10",
-          "views": 22587,
+          "views": 22796,
           "likes": 313,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N9ZFZF50qS8/hqdefault.jpg",
           "durationSeconds": 12055,
           "durationFormatted": "03:20:55",
-          "views": 6404,
+          "views": 6884,
           "likes": 34,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,34 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/fmcLNVRcqRI/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 5022,
+          "views": 5946,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "LrLJvOHXCjE",
-          "title": "Maharashtra Voting Results Live Updates: 5 बजते ही पलट गया महाराष्ट्र चुनाव! | BMC Elections 2026",
-          "description": "Maharashtra Voting Results Live Updates: 5 बजते ही पलट गया महाराष्ट्र चुनाव! | BMC Elections ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-15T16:21:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/LrLJvOHXCjE/hqdefault.jpg",
-          "durationSeconds": 12170,
-          "durationFormatted": "03:22:50",
-          "views": 4010,
-          "likes": 11,
+          "videoId": "WSLUzd8pU18",
+          "title": "MP में अचानक क्यों बढ़ी गर्मी? क्या फिर गिरेगा मावठा? डॉ. दिव्या ने बताई बारिश की तारीख?",
+          "description": "मप्र में लौटी गर्मी, ठंड का असर कम,उत्तरी मप्र में कोहरे के आसार: IMD .",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-15T14:00:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/WSLUzd8pU18/hqdefault.jpg",
+          "durationSeconds": 188,
+          "durationFormatted": "03:08",
+          "views": 4535,
+          "likes": 84,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-15T17:49:11Z"
+      "latestUpdateAt": "2026-01-15T18:22:30Z"
     },
     {
       "clusterId": "crime",
       "topic": "Bijapur Surrender",
       "videoCount": 24,
-      "trendScore": 58.4,
+      "trendScore": 58.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5HJRSlqlOEI/hqdefault.jpg",
           "durationSeconds": 8,
           "durationFormatted": "00:08",
-          "views": 9470,
-          "likes": 57,
+          "views": 14572,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VPid-cIBCMo/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 7614,
+          "views": 8841,
           "likes": 128,
           "videoType": "VOD",
           "genre": "Crime"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fCt40HZXhOc/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 3635,
-          "likes": 36,
+          "views": 4229,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BFA4CVDTIJo/hqdefault.jpg",
           "durationSeconds": 463,
           "durationFormatted": "07:43",
-          "views": 3045,
-          "likes": 47,
+          "views": 3387,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/Gjx9JZYwJgc/hqdefault.jpg",
           "durationSeconds": 801,
           "durationFormatted": "13:21",
-          "views": 1884,
-          "likes": 75,
+          "views": 2167,
+          "likes": 76,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-15T17:29:56Z"
+      "latestUpdateAt": "2026-01-15T19:05:09Z"
     },
     {
       "clusterId": "events",
-      "topic": "Ind Team",
-      "videoCount": 14,
-      "trendScore": 43.8,
+      "topic": "Ind Match",
+      "videoCount": 12,
+      "trendScore": 40.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-Cvktiy8zMs/hqdefault.jpg",
           "durationSeconds": 24190,
           "durationFormatted": "06:43:10",
-          "views": 2747,
-          "likes": 31,
+          "views": 3180,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -285,13 +285,28 @@
           "thumbnail": "https://i.ytimg.com/vi/U4aSbory_fg/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 222,
+          "views": 235,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "G6RKKtg2dy0",
+          "title": "Ind vs NZ T20 Match : 23 जनवरी को रायपुर में दूसरा T20 मैच, आज से टिकटों की बिक्री शुरू",
+          "description": "रायपुर के शहीद वीर नारायण सिंह अंतरराष्ट्रीय क्रिकेट स्टेडियम में ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-15T12:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/G6RKKtg2dy0/hqdefault.jpg",
+          "durationSeconds": 181,
+          "durationFormatted": "03:01",
+          "views": 192,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
           "videoId": "pGBow3GOonk",
           "title": "CM Mohan Yadav LIVE, आज लॉन्च होगी एमपी स्पेसटेक नीति | India News Mpcg",
           "description": "आज मध्य प्रदेश की स्पेसटेक नीति का शुभारंभ किया जाएगा।इस कार्यक्रम ...",
@@ -306,43 +321,28 @@
           "genre": "Events"
         },
         {
-          "index": 4,
-          "videoId": "G6RKKtg2dy0",
-          "title": "Ind vs NZ T20 Match : 23 जनवरी को रायपुर में दूसरा T20 मैच, आज से टिकटों की बिक्री शुरू",
-          "description": "रायपुर के शहीद वीर नारायण सिंह अंतरराष्ट्रीय क्रिकेट स्टेडियम में ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-15T12:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/G6RKKtg2dy0/hqdefault.jpg",
-          "durationSeconds": 181,
-          "durationFormatted": "03:01",
-          "views": 135,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
           "index": 5,
-          "videoId": "DXc2Rx6oM5E",
-          "title": "Omkareshwar Viral Video : घर बैठे देखिए भगवान ओंकारेश्वर जी की संध्या श्रृंगार दर्शन | N18S",
-          "description": "Omkareshwar Viral Video : घर बैठे देखिए भगवान ओंकारेश्वर जी की संध्या श्रृंगार ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-15T17:47:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/DXc2Rx6oM5E/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 100,
-          "likes": 1,
+          "videoId": "NBNdH6ZQQZg",
+          "title": "आज का इतिहास: आज ही के दिन दूसरी अंतरिक्ष यात्रा पर रवाना हुई थीं कल्पना चावला",
+          "description": "आज ही के दिन भारतीय मूल की पहली महिला अंतरिक्ष यात्री कल्पना चावला ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-15T17:23:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/NBNdH6ZQQZg/hqdefault.jpg",
+          "durationSeconds": 57,
+          "durationFormatted": "00:57",
+          "views": 137,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-01-15T17:54:49Z"
+      "latestUpdateAt": "2026-01-15T18:49:21Z"
     },
     {
       "clusterId": "jobs",
       "topic": "BMC Elections",
       "videoCount": 4,
-      "trendScore": 40.9,
+      "trendScore": 39.7,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AaCU5IUUMWo/hqdefault.jpg",
           "durationSeconds": 12880,
           "durationFormatted": "03:34:40",
-          "views": 10854,
+          "views": 11144,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -367,10 +367,10 @@
           "channelTitle": "Tirandaj",
           "publishedAt": "2026-01-15T10:42:06Z",
           "thumbnail": "https://i.ytimg.com/vi/eLGBVTdQqGc/hqdefault.jpg",
-          "durationSeconds": 561,
-          "durationFormatted": "09:21",
-          "views": 6240,
-          "likes": 390,
+          "durationSeconds": 560,
+          "durationFormatted": "09:20",
+          "views": 7009,
+          "likes": 400,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KunEyFE67kY/hqdefault.jpg",
           "durationSeconds": 674,
           "durationFormatted": "11:14",
-          "views": 1627,
-          "likes": 183,
+          "views": 2511,
+          "likes": 194,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/iDz2ku7fJ-w/hqdefault.jpg",
           "durationSeconds": 225,
           "durationFormatted": "03:45",
-          "views": 853,
-          "likes": 64,
+          "views": 1139,
+          "likes": 68,
           "videoType": "VOD",
           "genre": "Jobs"
         }
@@ -409,27 +409,12 @@
     },
     {
       "clusterId": "civic",
-      "topic": "GGU क्यों",
-      "videoCount": 9,
-      "trendScore": 39.2,
+      "topic": "GGU Raipur",
+      "videoCount": 8,
+      "trendScore": 35.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "nTrkCBoDqAg",
-          "title": "क्यों नाराज है तृत्य वर्ग कर्मचारी, क्या हैं उनकी मांगे? #govtemployees #protest #shorts #ytshorts",
-          "description": "IBC24, क्यों नाराज है तृत्य वर्ग कर्मचारी, क्या हैं उनकी मांगे?",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-15T14:31:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/nTrkCBoDqAg/hqdefault.jpg",
-          "durationSeconds": 103,
-          "durationFormatted": "01:43",
-          "views": 7177,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 2,
           "videoId": "-DSTmhojL6k",
           "title": "GGU में छात्रों का उग्र प्रदर्शन  खराब खाने को लेकर कुलपति निवास का घेराव |  @tirandaj",
           "description": "gguprotest #GuruGhasidasUniversity #hostelprotest #studentsprotest #foodissue #CentralUniversity #Bilaspuruniversity ...",
@@ -438,13 +423,13 @@
           "thumbnail": "https://i.ytimg.com/vi/-DSTmhojL6k/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 1656,
+          "views": 1640,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "6MNqnvXsUNQ",
           "title": "Raipur Contaminated Water: पेयजल सप्लाई ल लेके बड़े लापरवाही। सरकारी नल ले आवत हे नाली के गंदा पानी",
           "description": "IBC24, Raipur Contaminated Water: पेयजल सप्लाई ल लेके बड़े लापरवाही। सरकारी नल ले ...",
@@ -453,13 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/6MNqnvXsUNQ/hqdefault.jpg",
           "durationSeconds": 219,
           "durationFormatted": "03:39",
-          "views": 225,
+          "views": 237,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "9rY9LO5Gf3o",
           "title": "कारगिल में ईरान के समर्थन में हजारों लोगों का प्रदर्शन | #kargil #iransupport #protest #breakingnews",
           "description": "कारगिल में ईरान के समर्थन में हजारों लोगों का प्रदर्शन| #kargil #iransupport ...",
@@ -468,76 +453,67 @@
           "thumbnail": "https://i.ytimg.com/vi/9rY9LO5Gf3o/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 97,
-          "likes": 2,
+          "views": 120,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 4,
+          "videoId": "Uq5SczIxk2Y",
+          "title": "Chhattisgarh की खनिज विभाग ने गिनाई अपनी उपलब्धियां। 2015 से अब तक 61 खनिज ब्लॉक की नीलामी..",
+          "description": "IBC24, Chhattisgarh की खनिज विभाग ने गिनाई अपनी उपलब्धियां। 2015 से अब तक 61 ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-15T18:52:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/Uq5SczIxk2Y/hqdefault.jpg",
+          "durationSeconds": 138,
+          "durationFormatted": "02:18",
+          "views": 16,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
           "index": 5,
-          "videoId": "o5xe0FfLcR4",
-          "title": "Dhamtari Special Report: अटल आवास के रहवासियों का दर्द। जर्जर हो गए मकान..कौन लेगा सुध? देखिए..",
-          "description": "IBC24, Dhamtari Special Report: अटल आवास के रहवासियों का दर्द। जर्जर हो गए मकान.",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-15T17:42:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/o5xe0FfLcR4/hqdefault.jpg",
-          "durationSeconds": 172,
-          "durationFormatted": "02:52",
-          "views": 25,
-          "likes": 0,
+          "videoId": "6lI8gMQXA-g",
+          "title": "Rahul Gandhi In Indore: राहुल गांधी के इंदौरे दौरे से पहले क्यों मचा हंगामा? Indore Water Crisis",
+          "description": "Rahul Gandhi Indore: इंदौर के भागीरथपुरा इलाके में दूषित पानी से 23 लोगों की ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-15T17:32:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/6lI8gMQXA-g/hqdefault.jpg",
+          "durationSeconds": 171,
+          "durationFormatted": "02:51",
+          "views": 16,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
         }
       ],
-      "latestUpdateAt": "2026-01-15T17:49:11Z"
-    },
-    {
-      "clusterId": "traffic",
-      "topic": "Rewa Accident",
-      "videoCount": 1,
-      "trendScore": 16.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "klyXAdMy5hw",
-          "title": "Rewa Accident News: ट्रक ने मासूम को कुचला | हादसे में बच्चे की मौत | Madhya Pradesh",
-          "description": "IBC24, Rewa Accident News: ट्रक ने मासूम को कुचला | हादसे में बच्चे की मौत | Madhya ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-15T09:40:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/klyXAdMy5hw/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 20,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-01-15T09:40:31Z"
+      "latestUpdateAt": "2026-01-15T18:57:51Z"
     },
     {
       "clusterId": "live",
-      "topic": "Live",
+      "topic": "Seedhe Mudde",
       "videoCount": 1,
-      "trendScore": 16.1,
+      "trendScore": 25.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "AfNBTWndhUk",
-          "title": "कांग्रेस में SC-ST वर्ग से CM, उम्मीदवार बनाने की चर्चा तेज, दिग्गी के बयान पर Patwari का समर्थन |MP",
-          "description": "MP Politics: कांग्रेस ( Congress ) नेताओं के इन बयानों से संकेत मिल रहे हैं कि ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-15T17:58:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/AfNBTWndhUk/hqdefault_live.jpg",
+          "videoId": "G1fXnfk9UCI",
+          "title": "Seedhe Mudde Ki Baat LIVE : मुंबई नगर निगम चुनाव  की चर्चा देश में क्यों है? | BMC Election news",
+          "description": "Seedhe Mudde Ki Baat : मुंबई नगर निगम चुनाव की चर्चा देश में क्यों है? | BMC Election ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-15T16:01:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/G1fXnfk9UCI/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 0,
-          "likes": 0,
+          "views": 198,
+          "likes": 2,
           "videoType": "LIVE",
           "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-01-15T17:58:32Z"
+      "latestUpdateAt": "2026-01-15T16:01:55Z"
     }
   ]
 }
