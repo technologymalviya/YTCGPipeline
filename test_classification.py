@@ -10,6 +10,28 @@ import time
 import unittest
 from unittest.mock import Mock, patch, MagicMock
 from datetime import datetime, timedelta, timezone
+from typing import List, Dict, Optional
+
+# OpenAI integration (optional)
+try:
+    import openai
+    # Verify the module has the required OpenAI class
+    if hasattr(openai, 'OpenAI'):
+        OPENAI_AVAILABLE = True
+    else:
+        OPENAI_AVAILABLE = False
+        openai = None
+        print("[OpenAI] OpenAI module imported but missing OpenAI class")
+except ImportError as e:
+    OPENAI_AVAILABLE = False
+    openai = None
+    print(f"[OpenAI] OpenAI library import failed: {e}")
+except Exception as e:
+    OPENAI_AVAILABLE = False
+    openai = None
+    print(f"[OpenAI] Unexpected error importing OpenAI: {e}")
+
+ENV_OPENAI_API_KEY = "OPENAI_API_KEY"
 
 # Add current directory to path
 sys.path.insert(0, '.')
@@ -143,8 +165,10 @@ class TestOpenAIClassification(unittest.TestCase):
     
     def setUp(self):
         """Set up test environment."""
-        # Set a mock API key
-        os.environ['OPENAI_API_KEY'] = 'sk-test-mock-key-12345'
+        # Use actual environment variable if available, otherwise use test key
+        # Tests will use mocks, so the actual key value doesn't matter for API calls
+        if ENV_OPENAI_API_KEY not in os.environ:
+            os.environ[ENV_OPENAI_API_KEY] = 'sk-test-mock-key-for-testing'
         # Reset rate limit tracker
         from generate_json import _openai_rate_limit_tracker
         _openai_rate_limit_tracker["requests"] = []
@@ -153,8 +177,10 @@ class TestOpenAIClassification(unittest.TestCase):
     
     def tearDown(self):
         """Clean up after tests."""
-        if 'OPENAI_API_KEY' in os.environ:
-            del os.environ['OPENAI_API_KEY']
+        # Only remove if it was a test key we added
+        if os.environ.get(ENV_OPENAI_API_KEY) == 'sk-test-mock-key-for-testing':
+            if ENV_OPENAI_API_KEY in os.environ:
+                del os.environ[ENV_OPENAI_API_KEY]
     
     @patch('generate_json.openai')
     def test_openai_successful_classification(self, mock_openai):
@@ -214,12 +240,18 @@ class TestOpenAIClassification(unittest.TestCase):
     
     def test_openai_no_api_key(self):
         """Test OpenAI classification without API key."""
-        if 'OPENAI_API_KEY' in os.environ:
-            del os.environ['OPENAI_API_KEY']
+        # Save original value
+        original_key = os.environ.get(ENV_OPENAI_API_KEY)
+        if ENV_OPENAI_API_KEY in os.environ:
+            del os.environ[ENV_OPENAI_API_KEY]
         
-        result = classify_genre_with_openai("Test title", "Test description")
-        
-        self.assertIsNone(result)
+        try:
+            result = classify_genre_with_openai("Test title", "Test description")
+            self.assertIsNone(result)
+        finally:
+            # Restore original value if it existed
+            if original_key:
+                os.environ[ENV_OPENAI_API_KEY] = original_key
 
 
 class TestRateLimiting(unittest.TestCase):
@@ -273,8 +305,10 @@ class TestAddGenresToFeed(unittest.TestCase):
     
     def setUp(self):
         """Set up test environment."""
-        # Set a mock API key
-        os.environ['OPENAI_API_KEY'] = 'sk-test-mock-key-12345'
+        # Use actual environment variable if available, otherwise use test key
+        # Tests will use mocks, so the actual key value doesn't matter for API calls
+        if ENV_OPENAI_API_KEY not in os.environ:
+            os.environ[ENV_OPENAI_API_KEY] = 'sk-test-mock-key-for-testing'
         # Reset rate limit tracker
         from generate_json import _openai_rate_limit_tracker
         _openai_rate_limit_tracker["requests"] = []
@@ -283,8 +317,10 @@ class TestAddGenresToFeed(unittest.TestCase):
     
     def tearDown(self):
         """Clean up after tests."""
-        if 'OPENAI_API_KEY' in os.environ:
-            del os.environ['OPENAI_API_KEY']
+        # Only remove if it was a test key we added
+        if os.environ.get(ENV_OPENAI_API_KEY) == 'sk-test-mock-key-for-testing':
+            if ENV_OPENAI_API_KEY in os.environ:
+                del os.environ[ENV_OPENAI_API_KEY]
     
     def create_mock_video(self, video_id, title, description, published_at, video_type=VIDEO_TYPE_VOD):
         """Helper to create mock video data."""
