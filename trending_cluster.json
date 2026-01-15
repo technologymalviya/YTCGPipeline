@@ -1,45 +1,15 @@
 {
-  "generatedAt": "2026-01-15T04:13:17.784647Z",
+  "generatedAt": "2026-01-15T05:46:37.669755Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "general",
-      "topic": "War Iran",
-      "videoCount": 110,
-      "trendScore": 63.4,
+      "topic": "War Chhattisgarh",
+      "videoCount": 108,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "TuAf6qHK-nM",
-          "title": "Iran America War: ईरान की ओर उड़ा B-2 Bomber, Qatar Airbase से भागे अमेरिकी सेना? | Khamenei | Trump",
-          "description": "Iran America War : ईरान में युद्ध का सायरन बजते ही Qatar Al Udeid Air Base से भागे ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-14T20:02:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/TuAf6qHK-nM/hqdefault.jpg",
-          "durationSeconds": 799,
-          "durationFormatted": "13:19",
-          "views": 31316,
-          "likes": 601,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "xoP-PORp6ig",
-          "title": "जंबूरी कैंप में आये, युवती ने सुनाई राजकीय गीत  &quot;अरपा पैरी के धार...&quot;",
-          "description": "जंबूरी कैंप में आये, युवती ने सुनाई राजकीय गीत \"अरपा पैरी के धार.",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-01-14T05:30:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/xoP-PORp6ig/hqdefault.jpg",
-          "durationSeconds": 86,
-          "durationFormatted": "01:26",
-          "views": 23558,
-          "likes": 1068,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "ZyTCIbJNR1Q",
           "title": "Iran America War : ईरान ने अमेरिका को दी खुली चेतावनी, Khamenei ने Trump को दिखाई औकात? | N18G | War",
           "description": "Iran America War : ईरान ने अमेरिका को दी खुली चेतावनी, Khamenei ने Trump को दिखाई ...",
@@ -48,13 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/ZyTCIbJNR1Q/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 22826,
-          "likes": 278,
+          "views": 35176,
+          "likes": 332,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 2,
           "videoId": "c8Yzb0d8vcw",
           "title": "America Iran War Breaking News : 24 घंटे में अमेरिका करेगा ईरान पर अटैक?| Ali Khamenei | Trump |N18G",
           "description": "America Iran War Breaking News : 24 घंटे में अमेरिका करेगा ईरान पर अटैक?| Ali Khamenei | Trump ...",
@@ -63,13 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/c8Yzb0d8vcw/hqdefault.jpg",
           "durationSeconds": 287,
           "durationFormatted": "04:47",
-          "views": 14646,
-          "likes": 172,
+          "views": 23888,
+          "likes": 177,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
+          "videoId": "OKuryHcQwwU",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 15 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 15 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-01-14T23:30:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/OKuryHcQwwU/hqdefault.jpg",
+          "durationSeconds": 1517,
+          "durationFormatted": "25:17",
+          "views": 13354,
+          "likes": 241,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "653ZbfjoAsg",
           "title": "Amit Baghe l दोबारा क्यों अरेस्ट | Kranti Sena का रोल क्या था Balodabazar Case में | Yashwant Sahu",
           "description": "Amit Baghe l दोबारा क्यों अरेस्ट | Kranti Sena का रोल क्या था Balodabazar Case में ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/653ZbfjoAsg/hqdefault.jpg",
           "durationSeconds": 500,
           "durationFormatted": "08:20",
-          "views": 11046,
-          "likes": 394,
+          "views": 12798,
+          "likes": 419,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "dN6hOTfce8k",
+          "title": "नक्सलवाद फिर लौटने का डर | पहाड़ में माइनिंग से भड़के आदिवासी युवक की चेतावनी | Dantewada |@tirandaj",
+          "description": "bailadilamine #protestagainstmininginbastar #viralvideoofyouthfromdantewada #possibilityoftakinguparmsagain ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-01-14T10:30:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/dN6hOTfce8k/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 11028,
+          "likes": 502,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-15T03:42:15Z"
+      "latestUpdateAt": "2026-01-15T05:38:29Z"
     },
     {
       "clusterId": "politics",
       "topic": "Chhattisgarh January",
-      "videoCount": 42,
-      "trendScore": 59.0,
+      "videoCount": 44,
+      "trendScore": 59.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,13 +102,28 @@
           "thumbnail": "https://i.ytimg.com/vi/-KQR7HGtMCo/hqdefault.jpg",
           "durationSeconds": 1450,
           "durationFormatted": "24:10",
-          "views": 10178,
-          "likes": 231,
+          "views": 14218,
+          "likes": 253,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "APCaipR7D2c",
+          "title": "Maharashtra | क्रिकेटर सचिन तेंदुलकर BMC चुनावों के लिए वोट डालने मतदान केंद्र पहुंचे। shorts | N18S",
+          "description": "Maharashtra | दिग्गज क्रिकेटर सचिन तेंदुलकर BMC चुनावों के लिए वोट डालने ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T04:44:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/APCaipR7D2c/hqdefault.jpg",
+          "durationSeconds": 25,
+          "durationFormatted": "00:25",
+          "views": 12032,
+          "likes": 83,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "tgxquM9k3m8",
           "title": "बस्तर में धान खरीदी पर तंज, दीपक बैज ने पूछा: इन चूहों ने कितने का धान खाया? #bastar #congress #bjp",
           "description": "बस्तर में धान खरीदी पर तंज, दीपक बैज ने पूछा: इन चूहों ने कितने का धान ...",
@@ -117,23 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tgxquM9k3m8/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 4610,
-          "likes": 101,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "DEogSkMV0k0",
-          "title": "राज ठाकरे की रैली में अडानी का विस्तार | 2014 के बाद भारत में फैलाव दिखाया | @tirandaj",
-          "description": "adaniexpansion #gautamadani #adaniatrajthackerayrally #अडानीकाविस्तार #गौतमअडानी ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-01-14T11:45:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/DEogSkMV0k0/hqdefault.jpg",
-          "durationSeconds": 96,
-          "durationFormatted": "01:36",
-          "views": 1564,
-          "likes": 9,
+          "views": 4663,
+          "likes": 103,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -147,118 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/EFTyb1qkMKE/hqdefault.jpg",
           "durationSeconds": 652,
           "durationFormatted": "10:52",
-          "views": 1422,
-          "likes": 91,
+          "views": 1608,
+          "likes": 96,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "8GaKTTjq-Gw",
-          "title": "लाडली बहनों को बड़ी सौगात, CM Mohan Yadav ने जारी की 31वीं किस्त | India News",
-          "description": "छतरपुर में आयोजित लाड़ली बहना सम्मेलन में मुख्यमंत्री डॉ. मोहन ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-14T10:11:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/8GaKTTjq-Gw/hqdefault.jpg",
-          "durationSeconds": 14510,
-          "durationFormatted": "04:01:50",
-          "views": 1379,
+          "videoId": "DEogSkMV0k0",
+          "title": "राज ठाकरे की रैली में अडानी का विस्तार | 2014 के बाद भारत में फैलाव दिखाया | @tirandaj",
+          "description": "adaniexpansion #gautamadani #adaniatrajthackerayrally #अडानीकाविस्तार #गौतमअडानी ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-01-14T11:45:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/DEogSkMV0k0/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 1578,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-15T03:33:36Z"
-    },
-    {
-      "clusterId": "events",
-      "topic": "Yadav Bhopal",
-      "videoCount": 19,
-      "trendScore": 47.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "VsMopOvF3mc",
-          "title": "Bhopal से LIVE CM Mohan Yadav द्वारा कृषक कल्याण वर्ष-2026 का भव्य शुभारंभ| Indi",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव द्वारा कृषक कल्याण वर्ष-2026 का भव्य ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-14T10:08:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/VsMopOvF3mc/hqdefault.jpg",
-          "durationSeconds": 14414,
-          "durationFormatted": "04:00:14",
-          "views": 2593,
-          "likes": 16,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "DqimiJLEB5Q",
-          "title": "Vaishali Nagar में मकर संक्रांति के मौके पर शुरू हुआ 1रु में X-Ray,MLA रिकेश ने किया शुभारंभ",
-          "description": "Vaishali Nagar में मकर संक्रांति के मौके पर शुरू हुआ 1रु में X-Ray,MLA रिकेश ने ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-14T11:16:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/DqimiJLEB5Q/hqdefault.jpg",
-          "durationSeconds": 115,
-          "durationFormatted": "01:55",
-          "views": 1882,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "jsjuXQfmFmk",
-          "title": "Ujjain Bhasm Aarti : ज्योतिर्लिंग भगवान श्री महाकालेश्वर जी का भस्म आरती श्रृंगार दर्शन।shorts| N18S",
-          "description": "Ujjain Bhasm Aarti : ज्योतिर्लिंग भगवान श्री महाकालेश्वर जी का भस्म आरती ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-15T03:05:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/jsjuXQfmFmk/hqdefault.jpg",
-          "durationSeconds": 40,
-          "durationFormatted": "00:40",
-          "views": 1137,
-          "likes": 47,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "L5jn2YAM2j8",
-          "title": "Sabarimala Makaravilakku 2026 LIVE:  सबरीमाला में मकर विलक्कु का उत्सव LIVE | Makar Sankranti LIVE",
-          "description": "Sabarimala Makaravilakku 2026 LIVE: सबरीमाला में मकर विलक्कु का उत्सव LIVE | Makar Sankranti ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-14T20:35:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/L5jn2YAM2j8/hqdefault.jpg",
-          "durationSeconds": 24608,
-          "durationFormatted": "06:50:08",
-          "views": 957,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "tOaYqIBGGj4",
-          "title": "Bhopal से LIVE CM Mohan Yadav द्वारा कृषक कल्याण वर्ष 2026 का भव्य शुभारंभ  Indi",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव द्वारा कृषक कल्याण वर्ष-2026 का भव्य ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-14T10:17:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/tOaYqIBGGj4/hqdefault.jpg",
-          "durationSeconds": 14426,
-          "durationFormatted": "04:00:26",
-          "views": 957,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-01-15T03:50:06Z"
+      "latestUpdateAt": "2026-01-15T05:32:41Z"
     },
     {
       "clusterId": "crime",
       "topic": "Amit Baghel",
       "videoCount": 16,
-      "trendScore": 46.3,
+      "trendScore": 47.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/by1h-xBOCoo/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 7671,
-          "likes": 191,
+          "views": 8364,
+          "likes": 209,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -285,43 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/w6LwcYhJXgw/hqdefault.jpg",
           "durationSeconds": 700,
           "durationFormatted": "11:40",
-          "views": 5475,
-          "likes": 121,
+          "views": 6173,
+          "likes": 129,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "Fbgc5RGaFpk",
-          "title": "Gariaband Viral Dance Update : अश्लील डांस मामले में बड़ी कार्रवाई। ओडिशा की डांसर Arrest",
-          "description": "IBC24, Gariaband Viral Dance Update, अश्लील डांस मामले में बड़ी कार्रवाई, ओडिशा की ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-14T15:13:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/Fbgc5RGaFpk/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 2502,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "7EWWWGLQqIg",
-          "title": "India Pakistan Border Tension LIVE: बाज नहीं आ रहा पाकिस्तान, Indian Army ने की धड़ाधड Firing |N18 G",
-          "description": "India Pakistan Border Tension LIVE: बाज नहीं आ रहा पाकिस्तान, Indian Army ने की धड़ाधड Firing ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-14T20:40:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/7EWWWGLQqIg/hqdefault.jpg",
-          "durationSeconds": 25205,
-          "durationFormatted": "07:00:05",
-          "views": 2318,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
           "videoId": "mPgok9M9f5k",
           "title": "MISS YOU PAPA, स्टेटस लगाने के 21 घंटे बाद बेटे की सड़क हादसे में मौत #chhattisgarh #durg #cgnews",
           "description": "MISS YOU PAPA, स्टेटस लगाने के 21 घंटे बाद बेटे की सड़क हादसे में मौत ...",
@@ -330,19 +216,133 @@
           "thumbnail": "https://i.ytimg.com/vi/mPgok9M9f5k/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 967,
+          "views": 976,
           "likes": 14,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "n5w4VcQR3AE",
+          "title": "बलौदाबाजार हिंसा केस में अमित बघेल गिरफ्तार, कहा- यह बीजेपी-कांग्रेस की साजिश | CG Bhaskar",
+          "description": "बलौदाबाजार हिंसा केस में अमित बघेल गिरफ्तार, कहा- यह ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-14T11:27:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/n5w4VcQR3AE/hqdefault.jpg",
+          "durationSeconds": 321,
+          "durationFormatted": "05:21",
+          "views": 755,
+          "likes": 18,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "YVccz2HeIBs",
+          "title": "Naxal Surrender: बंदूकों से खेलने वाले नक्सलियों को अब क्यों सता रहा &#39;मौत&#39; का खौफ? | Naxalism | CG",
+          "description": "Naxal Surrender: बंदूकों से खेलने वाले नक्सलियों को अब क्यों सता रहा 'मौत' का ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-15T01:49:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/YVccz2HeIBs/hqdefault.jpg",
+          "durationSeconds": 359,
+          "durationFormatted": "05:59",
+          "views": 531,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-15T03:59:57Z"
+      "latestUpdateAt": "2026-01-15T05:44:43Z"
+    },
+    {
+      "clusterId": "events",
+      "topic": "Aarti Bhopal",
+      "videoCount": 15,
+      "trendScore": 44.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "qrqxftQvS4E",
+          "title": "Omkareshwar Aarti : देखिए भगवान ओंकारेश्वर जी की प्रातः कालीन श्रृंगार दर्शन | N18S #shorts",
+          "description": "Omkareshwar Aarti : देखिए भगवान ओंकारेश्वर जी की प्रातः कालीन श्रृंगार ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T04:31:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/qrqxftQvS4E/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 4431,
+          "likes": 34,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "VsMopOvF3mc",
+          "title": "Bhopal से LIVE CM Mohan Yadav द्वारा कृषक कल्याण वर्ष-2026 का भव्य शुभारंभ| Indi",
+          "description": "मुख्यमंत्री डॉ. मोहन यादव द्वारा कृषक कल्याण वर्ष-2026 का भव्य ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-14T10:08:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/VsMopOvF3mc/hqdefault.jpg",
+          "durationSeconds": 14414,
+          "durationFormatted": "04:00:14",
+          "views": 2594,
+          "likes": 16,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "jsjuXQfmFmk",
+          "title": "Ujjain Bhasm Aarti : ज्योतिर्लिंग भगवान श्री महाकालेश्वर जी का भस्म आरती श्रृंगार दर्शन।shorts| N18S",
+          "description": "Ujjain Bhasm Aarti : ज्योतिर्लिंग भगवान श्री महाकालेश्वर जी का भस्म आरती ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T03:05:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/jsjuXQfmFmk/hqdefault.jpg",
+          "durationSeconds": 40,
+          "durationFormatted": "00:40",
+          "views": 2152,
+          "likes": 71,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "DqimiJLEB5Q",
+          "title": "Vaishali Nagar में मकर संक्रांति के मौके पर शुरू हुआ 1रु में X-Ray,MLA रिकेश ने किया शुभारंभ",
+          "description": "Vaishali Nagar में मकर संक्रांति के मौके पर शुरू हुआ 1रु में X-Ray,MLA रिकेश ने ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-14T11:16:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/DqimiJLEB5Q/hqdefault.jpg",
+          "durationSeconds": 115,
+          "durationFormatted": "01:55",
+          "views": 1899,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "qRMMZqsD8dY",
+          "title": "Makar Sankranti 2026: देशभर में मकर संक्रांति की रौनक, संगम तटों पर श्रद्धालुओं की भीड़ | Festival",
+          "description": "Makar Sankranti 2026: देशभर में मकर संक्रांति की रौनक, संगम तटों पर ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-15T02:28:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/qRMMZqsD8dY/hqdefault.jpg",
+          "durationSeconds": 26,
+          "durationFormatted": "00:26",
+          "views": 1131,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-01-15T04:31:13Z"
     },
     {
       "clusterId": "jobs",
-      "topic": "गजनी बनी",
+      "topic": "EPFO EPF",
       "videoCount": 4,
-      "trendScore": 38.9,
+      "trendScore": 37.8,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n_mxk66hLB8/hqdefault.jpg",
           "durationSeconds": 37,
           "durationFormatted": "00:37",
-          "views": 9847,
-          "likes": 358,
+          "views": 10601,
+          "likes": 376,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PgyOQlTMmfI/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 567,
-          "likes": 6,
+          "views": 1350,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sj78qZ2ixFM/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 388,
-          "likes": 3,
+          "views": 909,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -409,9 +409,9 @@
     },
     {
       "clusterId": "traffic",
-      "topic": "Traffic",
-      "videoCount": 5,
-      "trendScore": 32.9,
+      "topic": "Jamul Road",
+      "videoCount": 6,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PIWUJW7Fuso/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 3289,
-          "likes": 47,
+          "views": 3333,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wvceTFwmaCg/hqdefault.jpg",
           "durationSeconds": 836,
           "durationFormatted": "13:56",
-          "views": 272,
-          "likes": 8,
+          "views": 325,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -453,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Res4mLimx0c/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 47,
-          "likes": 1,
+          "views": 93,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FZYUSHxmbj8/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 46,
+          "views": 50,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -489,13 +489,52 @@
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-15T02:18:24Z"
+      "latestUpdateAt": "2026-01-15T04:19:45Z"
+    },
+    {
+      "clusterId": "live",
+      "topic": "Bansal MPCG",
+      "videoCount": 2,
+      "trendScore": 27.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "jTIY1SSnZoU",
+          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
+          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-15T01:33:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/jTIY1SSnZoU/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 283,
+          "likes": 2,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 2,
+          "videoId": "GBOyUgLtBFk",
+          "title": "Maharashtra में 29 नगर निकायों के लिए चुनाव | BMC के लिए महायुति और ठाकरे बंधुओं के बीच टक्कर",
+          "description": "IBC24, Maharashtra में 29 नगर निकायों के लिए चुनाव | BMC के लिए महायुति और ठाकरे ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-15T05:41:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/GBOyUgLtBFk/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 15,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        }
+      ],
+      "latestUpdateAt": "2026-01-15T05:41:21Z"
     },
     {
       "clusterId": "civic",
       "topic": "Bhilai Nagar",
       "videoCount": 1,
-      "trendScore": 26.6,
+      "trendScore": 26.1,
       "topVideos": [
         {
           "index": 1,
@@ -514,30 +553,6 @@
         }
       ],
       "latestUpdateAt": "2026-01-14T10:22:13Z"
-    },
-    {
-      "clusterId": "scheduled",
-      "topic": "Scheduled",
-      "videoCount": 1,
-      "trendScore": 15.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "7SnyWT-q8Bc",
-          "title": "BMC Election 2026 LIVE: मुंबई का किंग कौन? Voting जारी |Mumbai Civic Elections |Maharashtra |Marathi",
-          "description": "BMC Election 2026 LIVE: मुंबई का किंग कौन? Voting जारी |Mumbai Civic Elections |Maharashtra |Marathi BMC ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-15T03:45:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/7SnyWT-q8Bc/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "SCHEDULED",
-          "views": 0,
-          "likes": 1,
-          "videoType": "SCHEDULED",
-          "genre": "Scheduled"
-        }
-      ],
-      "latestUpdateAt": "2026-01-15T03:45:50Z"
     }
   ]
 }
