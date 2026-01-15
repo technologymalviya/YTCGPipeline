@@ -647,11 +647,13 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "shoot", "shot", "firing", "gunfire", "bullets",
         "stab", "knife attack", "weapon",
         "jail", "prison", "court case", "trial", "investigation",
+        "kidnapping", "abduction", "abducted",
         # Hindi/Devanagari - specific crime terms
         "हत्या", "कत्ल", "लाश", "शव", "मौत", "अपराध", "अपराधी",
         "गिरफ्तार", "गिरफ्तारी", "संदिग्ध", "आरोपी",
         "पुलिस", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
         "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग",
+        "अपहरण",  # Kidnapping
         # Context-specific: जांच only when combined with crime terms
         "अपराध जांच", "पुलिस जांच", "हत्या जांच", "मुकदमा जांच"
     ]
@@ -663,23 +665,21 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "traffic jam", "road jam",
         "head-on collision", "rear-end collision",
         "fatal accident", "deadly accident",
-        "traffic crash", "car crash", "road crash", "vehicle crash",
         # Hindi/Devanagari - multi-word phrases (check first)
         "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
         "ट्रैफिक जाम", "सड़क जाम",
         # English - strong single-word indicators (context-specific)
-        "accident", "collision", "traffic", "jam",
+        "accident", "collision", "crash", "traffic", "jam",
         "ambulance", "rescue", "highway", "expressway",
         # Hindi/Devanagari - strong single-word indicators (context-specific)
         "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस"
-        # Note: "crash" removed from single-word - only matches in multi-word context to avoid false positives like "Share Market Crash"
         # Note: "घायल" (injured) removed - too generic, appears in non-traffic contexts
     ]
     
     # Jobs keywords - specific employment/job terms
     jobs_keywords = [
         # English - strong single-word indicators
-        "job", "jobs", "recruitment", "vacancy", "hiring", "employment",
+        "job", "jobs", "recruitment", "vacancy", "hiring", "employment", "bharti", "bharte",
         "career", "opportunity", "post", "application", "opening",
         "admit card", "merit", "salary", "wage", "exam",
         # English - multi-word phrases for stronger matching
@@ -694,9 +694,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "रिजल्ट", "मेरिट", "परीक्षा", "वेतन",
         # Hindi/Devanagari - multi-word phrases (context-specific)
         "सरकारी नौकरी", "नौकरी सूचना",
-        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू",
-        "भर्ती सूचना", "रोजगार मेला", "भर्ती परीक्षा"
-        # Note: "bharti" removed from single-word - only matches in multi-word context to avoid false positives like "Bharti Media Network"
+        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू"
     ]
 
     # Events keywords - specific event/festival terms
@@ -705,6 +703,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "event", "events", "festival", "celebration", "ceremony", "fair", "mela", "exhibition",
         "inauguration", "wedding", "anniversary", "birthday",
         "kumbh", "jatra", "yatra", "puja", "aarti", "pooja",
+        "republic day", "independence day", "26 january", "15 august",
         # English - multi-word phrases for stronger matching
         "cultural event", "religious event",
         "launch ceremony", "marriage ceremony",
@@ -712,7 +711,8 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # Hindi/Devanagari - strong single-word indicators
         "त्योहार", "उत्सव", "समारोह", "मेला", "प्रदर्शनी",
         "उद्घाटन", "शुभारंभ", "शादी", "विवाह", "जन्मदिन",
-        "यात्रा", "पूजा", "आरती", "जुलूस"
+        "यात्रा", "पूजा", "आरती", "जुलूस",
+        "गणतंत्र दिवस", "26 जनवरी", "स्वतंत्रता दिवस", "15 अगस्त"
     ]
 
     # Civic keywords - specific civic/municipal service terms
@@ -722,6 +722,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "water supply", "electricity supply", "power supply",
         "garbage collection", "waste management", "cleanliness drive",
         "pothole repair", "road repair", "street repair",
+        "road construction", "road not built", "infrastructure",
         "public health", "sanitation", "swachh bharat",
         "property tax", "house tax", "municipal tax",
         "birth certificate", "death certificate", "marriage certificate",
@@ -729,11 +730,14 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "driving license", "passport",
         "csc", "common service center",
         "mayor", "commissioner", "councilor",
+        "nrda",  # NRDA - Raipur Development Authority
         # Hindi/Devanagari - specific civic terms
         "नगर निगम", "नगर पालिका",
         "पानी की समस्या", "बिजली की समस्या",
         "कचरा", "सफाई", "स्वच्छता", "गड्ढा",
         "मरम्मत", "शिकायत", "संपत्ति कर",
+        "अतिक्रमण", "अतिक्रमण हटाने",  # Encroachment removal
+        "सड़क नहीं बनी", "सड़क निर्माण",  # Road construction
         "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र",
         "आधार", "पैन कार्ड", "मतदाता पहचान",
         "ड्राइविंग लाइसेंस", "पासपोर्ट",
@@ -747,6 +751,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # English - specific political terms
         "election", "voting", "vote", "election campaign",
         "minister", "chief minister", "cm", "mla", "mp",
+        "prime minister", "pm modi", "narendra modi", "modi",
         "government", "govt", "political party",
         "political rally", "political speech", "political news",
         "budget", "assembly session", "parliament",
@@ -754,12 +759,19 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "councilor", "councillor", "alderman",
         # Major political parties (common in Indian news)
         "congress", "bjp", "aap", "sp", "bsp", "dmk", "aiadmk", "tmc", "cpi", "cpm",
+        # Political leaders and figures
+        "owaisi", "asaduddin owaisi",
+        # Political issues and terms
+        "land jihad", "jihad",
         # Hindi/Devanagari - specific political terms
         "चुनाव", "मतदान", "वोट",
         "मंत्री", "मुख्यमंत्री", "विधायक", "सांसद",
-        "सरकार", "पार्टी", "राजनीति", "सियासी", "राजनीतिक",
+        "प्रधानमंत्री", "पीएम मोदी", "मोदी",
+        "सरकार", "पार्टी", "राजनीति", "राजनीतिक", "सियासी",
         "रैली", "भाषण", "अभियान",
         "बजट", "विधानसभा", "संसद", "नेता",
+        "ओवैसी",  # Owaisi - political leader
+        "लैंड जिहाद", "जिहाद",  # Land jihad - political issue
         "पार्षद"  # Councilor - political position
     ]
 
@@ -987,11 +999,11 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
     special_count = 0
     recent_count = 0
     openai_failed = False  # Circuit breaker flag
-    
+
     print(f"[Classification] Starting genre classification for {total_videos} videos...")
     print(f"[Classification] Strategy: OpenAI for videos published in last 1 hour, keyword-based for others")
     print(f"[Classification] Circuit breaker: Will stop using OpenAI after first failure")
-    
+
     for i, v in enumerate(feed, 1):
         video_type = (v.get("videoType") or "").strip().upper()
         
@@ -1005,7 +1017,7 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
             title = v.get("title", "")
             description = v.get("description", "")
             published_at = v.get("publishedAt", "")
-            
+
             # Check if video is recent (within last 1 hour)
             is_recent = is_recent_video(published_at, hours=1)
             if is_recent:
