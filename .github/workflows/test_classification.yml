@@ -42,9 +42,6 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          # Set default test key if not provided (tests use mocks anyway)
-          export OPENAI_API_KEY=${OPENAI_API_KEY:-sk-test-mock-key-for-testing}
-          echo "=========================================="
           echo "Running Classification Tests"
           echo "=========================================="
           python3 test_classification.py
