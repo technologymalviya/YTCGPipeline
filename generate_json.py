@@ -655,12 +655,18 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "stab", "knife attack", "weapon",
         "jail", "prison", "court case", "trial", "investigation",
         "kidnapping", "abduction", "abducted",
+        "naxal", "naxalite", "naxal surrender",  # Naxal-related crimes
+        "gas cylinder", "cylinder blast", "explode", "explosion",  # Explosions
+        "fire incident", "arson",  # Fire-related crimes
         # Hindi/Devanagari - specific crime terms
         "हत्या", "कत्ल", "लाश", "शव", "मौत", "अपराध", "अपराधी",
         "गिरफ्तार", "गिरफ्तारी", "संदिग्ध", "आरोपी",
         "पुलिस", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
         "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग",
         "अपहरण",  # Kidnapping
+        "नक्सली", "नक्सल", "सरेंडर",  # Naxal surrender
+        "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट",  # Explosions
+        "अग्निकांड", "आग",  # Fire incident
         # Context-specific: जांच only when combined with crime terms
         "अपराध जांच", "पुलिस जांच", "हत्या जांच", "मुकदमा जांच"
     ]
@@ -689,6 +695,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "job", "jobs", "recruitment", "vacancy", "hiring", "employment", "bharti", "bharte",
         "career", "opportunity", "post", "application", "opening",
         "admit card", "merit", "salary", "wage", "exam",
+        "police recruitment", "police bharti",  # Police recruitment (specific)
         # English - multi-word phrases for stronger matching
         "job notification", "job vacancy", "job opening", "job opportunity",
         "government job", "sarkari naukri", "govt job",
@@ -699,6 +706,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # Hindi/Devanagari - strong single-word indicators
         "नौकरी", "रोजगार", "भर्ती", "आवेदन", "एडमिट कार्ड",
         "रिजल्ट", "मेरिट", "परीक्षा", "वेतन",
+        "पुलिस भर्ती",  # Police recruitment (specific)
         # Hindi/Devanagari - multi-word phrases (context-specific)
         "सरकारी नौकरी", "नौकरी सूचना",
         "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू"
@@ -711,6 +719,9 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "inauguration", "wedding", "anniversary", "birthday",
         "kumbh", "jatra", "yatra", "puja", "aarti", "pooja",
         "republic day", "independence day", "26 january", "15 august",
+        # Sports/Cricket events
+        "cricket match", "t20", "odi", "test match", "ipl", "cricket",
+        "match", "sports event", "tournament", "championship",
         # English - multi-word phrases for stronger matching
         "cultural event", "religious event",
         "launch ceremony", "marriage ceremony",
@@ -719,7 +730,8 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "त्योहार", "उत्सव", "समारोह", "मेला", "प्रदर्शनी",
         "उद्घाटन", "शुभारंभ", "शादी", "विवाह", "जन्मदिन",
         "यात्रा", "पूजा", "आरती", "जुलूस",
-        "गणतंत्र दिवस", "26 जनवरी", "स्वतंत्रता दिवस", "15 अगस्त"
+        "गणतंत्र दिवस", "26 जनवरी", "स्वतंत्रता दिवस", "15 अगस्त",
+        "मैच", "क्रिकेट", "टी20", "वनडे", "टेस्ट मैच"  # Cricket/sports
     ]
 
     # Civic keywords - specific civic/municipal service terms
@@ -727,6 +739,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # English - specific civic terms
         "municipal corporation", "municipality", "municipal",
         "water supply", "electricity supply", "power supply",
+        "contaminated water", "water crisis", "water problem",  # Water issues
         "garbage collection", "waste management", "cleanliness drive",
         "pothole repair", "road repair", "street repair",
         "road construction", "road not built", "infrastructure",
@@ -738,9 +751,12 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "csc", "common service center",
         "mayor", "commissioner", "councilor",
         "nrda",  # NRDA - Raipur Development Authority
+        "student protest", "protest", "demonstration",  # Protests
         # Hindi/Devanagari - specific civic terms
         "नगर निगम", "नगर पालिका",
         "पानी की समस्या", "बिजली की समस्या",
+        "प्रदूषित पानी", "सीवरेज का पानी", "गंदा पानी",  # Contaminated water
+        "पानी संकट", "जल संकट",  # Water crisis
         "कचरा", "सफाई", "स्वच्छता", "गड्ढा",
         "मरम्मत", "शिकायत", "संपत्ति कर",
         "अतिक्रमण", "अतिक्रमण हटाने",  # Encroachment removal
@@ -749,6 +765,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "आधार", "पैन कार्ड", "मतदाता पहचान",
         "ड्राइविंग लाइसेंस", "पासपोर्ट",
         "मेयर", "कमिश्नर", "पार्षद",
+        "छात्र प्रदर्शन", "उग्र प्रदर्शन", "प्रदर्शन",  # Student protest
         # Safety inspections and administrative checks
         "सुरक्षा जांच", "स्कूल बस जांच", "वाहन जांच", "सार्वजनिक जांच"
     ]
@@ -794,17 +811,17 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     # Traffic - check BEFORE Crime (road accidents can have deaths but should be Traffic)
     for pattern in traffic_patterns:
         if pattern.search(text):
-            return GENRE_TRAFFIC
+        return GENRE_TRAFFIC
 
-    # Crime - specific crime terms (check after Traffic to avoid false positives)
-    for pattern in crime_patterns:
-        if pattern.search(text):
-            return GENRE_CRIME
-
-    # Jobs - employment opportunities
+    # Jobs - employment opportunities (check BEFORE Crime to catch "police recruitment" etc.)
     for pattern in jobs_patterns:
         if pattern.search(text):
             return GENRE_JOBS
+
+    # Crime - specific crime terms (check after Traffic and Jobs to avoid false positives)
+    for pattern in crime_patterns:
+        if pattern.search(text):
+            return GENRE_CRIME
 
     # Events - festivals/ceremonies
     for pattern in events_patterns:
@@ -819,7 +836,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     # Politics - political activities (check last to avoid overlap)
     for pattern in politics_patterns:
         if pattern.search(text):
-            return GENRE_POLITICS
+        return GENRE_POLITICS
     
     return GENRE_GENERAL
 
