@@ -811,7 +811,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     # Traffic - check BEFORE Crime (road accidents can have deaths but should be Traffic)
     for pattern in traffic_patterns:
         if pattern.search(text):
-        return GENRE_TRAFFIC
+           return GENRE_TRAFFIC
 
     # Jobs - employment opportunities (check BEFORE Crime to catch "police recruitment" etc.)
     for pattern in jobs_patterns:
@@ -836,7 +836,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     # Politics - political activities (check last to avoid overlap)
     for pattern in politics_patterns:
         if pattern.search(text):
-        return GENRE_POLITICS
+           return GENRE_POLITICS
     
     return GENRE_GENERAL
 
