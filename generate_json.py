@@ -50,14 +50,17 @@ ENV_BHILAI_CHANNELS = "BHILAI_CHANNELS"
 ENV_OPENAI_API_KEY = "OPENAI_API_KEY"
 
 # OpenAI Configuration
-OPENAI_MODEL = "gpt-4.1-mini" #"gpt-4o-mini"  # Cost-effective model
+OPENAI_MODEL = "gpt-4o-mini"  # Cost-effective model
 OPENAI_MAX_TOKENS = 10  # Just need genre name
 OPENAI_TEMPERATURE = 0.1  # Low temperature for consistent classification
 OPENAI_RATE_LIMIT_RPM = 500  # Requests per minute limit
 OPENAI_RATE_LIMIT_TPM = 50000  # Tokens per minute limit
-OPENAI_MAX_RETRIES = 3
-OPENAI_RETRY_DELAY_BASE = 1  # Base delay in seconds for exponential backoff
-OPENAI_REQUEST_TIMEOUT = 30  # Timeout in seconds
+OPENAI_MAX_RETRIES = 1  # Reduced to 1 retry for faster execution
+OPENAI_RETRY_DELAY_BASE = 0.5  # Reduced delay for faster execution
+OPENAI_REQUEST_TIMEOUT = 5  # Reduced timeout to 5 seconds per request
+OPENAI_SAFETY_MARGIN_RPM = 0.8  # Use only 80% of rate limit to avoid hitting threshold
+OPENAI_SAFETY_MARGIN_TPM = 0.8  # Use only 80% of token limit to avoid hitting threshold
+OPENAI_MAX_EXECUTION_TIME = 50  # Maximum time in seconds for OpenAI classification (leave 10s buffer for other operations)
 
 # Rate limiting tracking
 _openai_rate_limit_tracker = {
@@ -382,11 +385,16 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
             print(f"[OpenAI] Token limit check failed (estimated: {estimated_tokens} tokens), using keyword-based classification")
             return None
         
-        # Make API call with retry logic
+        # Make API call with minimal retry logic (fast fail)
         response = None
-        for attempt in range(OPENAI_MAX_RETRIES):
+        for attempt in range(OPENAI_MAX_RETRIES + 1):  # +1 for initial attempt
             try:
-                print(f"[OpenAI] API call attempt {attempt + 1}/{OPENAI_MAX_RETRIES} (model: {OPENAI_MODEL})")
+                if attempt > 0:
+                    print(f"[OpenAI] API call retry {attempt}/{OPENAI_MAX_RETRIES} (model: {OPENAI_MODEL})")
+                else:
+                    print(f"[OpenAI] API call (model: {OPENAI_MODEL})")
+                
+                # Use shorter timeout for faster execution
                 response = client.chat.completions.create(
                     model=OPENAI_MODEL,
                     messages=[
@@ -395,18 +403,15 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
                     ],
                     max_tokens=OPENAI_MAX_TOKENS,
                     temperature=OPENAI_TEMPERATURE,
+                    timeout=OPENAI_REQUEST_TIMEOUT,
                 )
-                print(f"[OpenAI] API call successful (attempt {attempt + 1})")
+                if attempt > 0:
+                    print(f"[OpenAI] API call successful (retry {attempt})")
                 break
             except openai.RateLimitError as e:
-                if attempt < OPENAI_MAX_RETRIES - 1:
-                    # Exponential backoff
-                    wait_time = OPENAI_RETRY_DELAY_BASE * (2 ** attempt)
-                    print(f"[OpenAI] Rate limit hit, waiting {wait_time}s before retry {attempt + 1}/{OPENAI_MAX_RETRIES}")
-                    time.sleep(wait_time)
-                else:
-                    print(f"[OpenAI] Rate limit exceeded after {OPENAI_MAX_RETRIES} retries, falling back to keyword-based classification")
-                    return None
+                # Rate limit hit - fail fast, don't retry
+                print(f"[OpenAI] Rate limit hit, falling back to keyword-based classification immediately")
+                return None
             except openai.AuthenticationError as e:
                 # Invalid API key (401 error) - don't expose the key in logs
                 if not hasattr(classify_genre_with_openai, '_logged_invalid_key'):
@@ -436,8 +441,8 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
                     classify_genre_with_openai._logged_invalid_key = True
                 return None
             except openai.APIConnectionError as e:
-                if attempt < OPENAI_MAX_RETRIES - 1:
-                    wait_time = OPENAI_RETRY_DELAY_BASE * (2 ** attempt)
+                if attempt < OPENAI_MAX_RETRIES:
+                    wait_time = OPENAI_RETRY_DELAY_BASE
                     print(f"[OpenAI] Connection error, waiting {wait_time}s before retry {attempt + 1}/{OPENAI_MAX_RETRIES}")
                     time.sleep(wait_time)
                 else:
@@ -512,7 +517,7 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
 
 
 def _check_openai_rate_limits() -> bool:
-    """Check if we're within rate limits for requests per minute."""
+    """Check if we're within rate limits for requests per minute (with safety margin)."""
     current_time = time.time()
     
     # Reset tracking if a minute has passed
@@ -521,21 +526,22 @@ def _check_openai_rate_limits() -> bool:
         _openai_rate_limit_tracker["tokens"] = []
         _openai_rate_limit_tracker["last_reset"] = current_time
     
-    # Check requests per minute
+    # Check requests per minute with safety margin
     recent_requests = [
         req_time for req_time in _openai_rate_limit_tracker["requests"]
         if current_time - req_time < 60
     ]
     
-    if len(recent_requests) >= OPENAI_RATE_LIMIT_RPM:
-        print(f"[OpenAI] Rate limit reached ({OPENAI_RATE_LIMIT_RPM} RPM), falling back to keyword-based classification")
+    safe_limit = int(OPENAI_RATE_LIMIT_RPM * OPENAI_SAFETY_MARGIN_RPM)
+    if len(recent_requests) >= safe_limit:
+        print(f"[OpenAI] Rate limit safety threshold reached ({len(recent_requests)}/{safe_limit} RPM), falling back to keyword-based classification")
         return False
     
     return True
 
 
 def _check_openai_token_limit(estimated_tokens: int) -> bool:
-    """Check if we're within token rate limits."""
+    """Check if we're within token rate limits (with safety margin)."""
     current_time = time.time()
     
     # Reset tracking if a minute has passed
@@ -544,16 +550,17 @@ def _check_openai_token_limit(estimated_tokens: int) -> bool:
         _openai_rate_limit_tracker["tokens"] = []
         _openai_rate_limit_tracker["last_reset"] = current_time
     
-    # Check tokens per minute
+    # Check tokens per minute with safety margin
     recent_tokens = [
         token_count for token_count in _openai_rate_limit_tracker["tokens"]
         if current_time - token_count["time"] < 60
     ]
     
     total_tokens = sum(token_count["tokens"] for token_count in recent_tokens)
+    safe_limit = int(OPENAI_RATE_LIMIT_TPM * OPENAI_SAFETY_MARGIN_TPM)
     
-    if total_tokens + estimated_tokens > OPENAI_RATE_LIMIT_TPM:
-        print(f"[OpenAI] Token limit reached ({total_tokens}/{OPENAI_RATE_LIMIT_TPM} TPM), falling back to keyword-based classification")
+    if total_tokens + estimated_tokens > safe_limit:
+        print(f"[OpenAI] Token limit safety threshold reached ({total_tokens + estimated_tokens}/{safe_limit} TPM), falling back to keyword-based classification")
         return False
     
     return True
@@ -992,19 +999,31 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
     Add genre classification to each video.
     Only videos published in the last 1 hour use OpenAI; others use keyword-based classification.
     Circuit breaker: Once OpenAI fails, stops trying OpenAI for rest of batch.
+    Optimized for fast execution (< 1 minute) and rate limit safety.
     """
+    start_time = time.time()
+    
     total_videos = len(feed)
     openai_count = 0
     keyword_count = 0
     special_count = 0
     recent_count = 0
     openai_failed = False  # Circuit breaker flag
+    execution_time_exceeded = False  # Time limit flag
 
     print(f"[Classification] Starting genre classification for {total_videos} videos...")
     print(f"[Classification] Strategy: OpenAI for videos published in last 1 hour, keyword-based for others")
     print(f"[Classification] Circuit breaker: Will stop using OpenAI after first failure")
+    print(f"[Classification] Time limit: {OPENAI_MAX_EXECUTION_TIME}s for OpenAI classification")
 
     for i, v in enumerate(feed, 1):
+        # Check execution time - if exceeded, use keyword-based for all remaining
+        elapsed_time = time.time() - start_time
+        if elapsed_time > OPENAI_MAX_EXECUTION_TIME:
+            if not execution_time_exceeded:
+                print(f"[Classification] Execution time limit reached ({elapsed_time:.1f}s), using keyword-based for remaining {total_videos - i + 1} videos")
+                execution_time_exceeded = True
+            openai_failed = True  # Treat as failure to use keyword-based
         video_type = (v.get("videoType") or "").strip().upper()
         
         if video_type == VIDEO_TYPE_LIVE:
@@ -1024,18 +1043,26 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                 recent_count += 1
             
             # Only use OpenAI for recent videos (published in last 1 hour) and if circuit breaker hasn't tripped
-            if is_recent and not openai_failed:
-                openai_result = classify_genre_with_openai(title, description)
-                if openai_result:
-                    v["genre"] = openai_result
-                    openai_count += 1
-                else:
-                    # OpenAI failed - set circuit breaker and use keyword-based
+            if is_recent and not openai_failed and not execution_time_exceeded:
+                # Quick rate limit check before attempting
+                if not _check_openai_rate_limits():
                     if not openai_failed:
-                        print(f"[Classification] OpenAI failed, circuit breaker activated - using keyword-based for remaining {total_videos - i} videos")
+                        print(f"[Classification] Rate limit safety threshold reached, circuit breaker activated - using keyword-based for remaining {total_videos - i} videos")
                         openai_failed = True
                     v["genre"] = classify_genre_keyword_based(title, description)
                     keyword_count += 1
+                else:
+                    openai_result = classify_genre_with_openai(title, description)
+                    if openai_result:
+                        v["genre"] = openai_result
+                        openai_count += 1
+                    else:
+                        # OpenAI failed - set circuit breaker and use keyword-based
+                        if not openai_failed:
+                            print(f"[Classification] OpenAI failed, circuit breaker activated - using keyword-based for remaining {total_videos - i} videos")
+                            openai_failed = True
+                        v["genre"] = classify_genre_keyword_based(title, description)
+                        keyword_count += 1
             else:
                 # Use keyword-based directly for older videos or if circuit breaker is active
                 v["genre"] = classify_genre_keyword_based(title, description)
@@ -1046,9 +1073,14 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
             status = " (Circuit breaker active)" if openai_failed else ""
             print(f"[Classification] Progress: {i}/{total_videos} videos classified (Recent: {recent_count}, OpenAI: {openai_count}, Keyword: {keyword_count}, Special: {special_count}){status}")
     
+    elapsed_time = time.time() - start_time
     print(f"[Classification] Complete: {recent_count} recent videos, {openai_count} OpenAI, {keyword_count} keyword-based, {special_count} special types (Live/Scheduled)")
+    print(f"[Classification] Execution time: {elapsed_time:.2f}s")
     if openai_failed:
-        print(f"[Classification] Circuit breaker was activated - OpenAI stopped after first failure")
+        if execution_time_exceeded:
+            print(f"[Classification] Time limit exceeded - OpenAI stopped after {OPENAI_MAX_EXECUTION_TIME}s")
+        else:
+            print(f"[Classification] Circuit breaker was activated - OpenAI stopped after first failure")
     if (total_videos - special_count) > 0:
         recent_percent = (recent_count / (total_videos - special_count)) * 100 if (total_videos - special_count) > 0 else 0
         openai_percent = (openai_count / recent_count) * 100 if recent_count > 0 else 0
