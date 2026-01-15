@@ -1,34 +1,20 @@
 {
-  "generatedAt": "2026-01-15T12:53:39.150211Z",
+  "generatedAt": "2026-01-15T13:05:43.788547Z",
   "sections": [
     {
       "section": "Live",
-      "count": 2,
+      "count": 1,
       "items": [
         {
-          "videoId": "x6D5IIicvhE",
-          "title": "MP Workers Protest: सरकार के खिलाफ कर्मचारियों ने खोला मोर्चा। DA समेत कई मांगों को लेकर प्रदर्शन",
-          "description": "IBC24, MP Workers Protest: सरकार के खिलाफ कर्मचारियों ने खोला मोर्चा। DA समेत कई ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-15T12:52:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/x6D5IIicvhE/hqdefault_live.jpg",
+          "videoId": "l2CI3iw6CKc",
+          "title": "Maihar News: नाली का पानी पीने को ग्रामीण मजबूर |समस्या को नजरअंदाज कर रहे जिम्मेदार |Madhya Pradesh",
+          "description": "IBC24, Maihar News: नाली का पानी पीने को ग्रामीण मजबूर |समस्या को नजरअंदाज कर ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-15T12:59:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/l2CI3iw6CKc/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 0,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "videoId": "vRasjH2eouM",
-          "title": "MP News: भारतीय रेलवे की साख पर खड़े हुए सवाल! रिटायर्ड कर्मचारियों को बांटे गए नकली चांदी के सिक्के",
-          "description": "IBC24, MP News: भारतीय रेलवे की साख पर खड़े हुए सवाल! रिटायर्ड ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-15T12:47:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/vRasjH2eouM/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 10,
+          "views": 2,
           "likes": 0,
           "videoType": "LIVE",
           "genre": "Live"
@@ -44,8 +30,22 @@
     },
     {
       "section": "General",
-      "count": 79,
+      "count": 80,
       "items": [
+        {
+          "videoId": "T-tJ5OFaXSg",
+          "title": "छोटी बच्ची का फल बेचते हुए वीडियो वायरल #cutebaby #arunachalpradeshviral #viralbaby",
+          "description": "छोटी बच्ची का फल बेचते हुए वीडियो वायरल #cutebaby #arunachalpradeshviral #viralbaby ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-15T13:02:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/T-tJ5OFaXSg/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
         {
           "videoId": "PWPXt85go-Y",
           "title": "Manendragarh News: दो प्रदेशों का एक बाजार,दोनों राज्यों के विक्रेता और खरीदार आते हैं |Chhattisgarh",
@@ -55,7 +55,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PWPXt85go-Y/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 1,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -69,7 +69,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iPxKDamHcvQ/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 12,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -83,8 +83,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wsr-U9I53N8/hqdefault.jpg",
           "durationSeconds": 819,
           "durationFormatted": "13:39",
-          "views": 8,
-          "likes": 0,
+          "views": 15,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -97,7 +97,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cJ9j7cuPpVc/hqdefault.jpg",
           "durationSeconds": 660,
           "durationFormatted": "11:00",
-          "views": 63,
+          "views": 82,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -111,7 +111,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nrw7J8J1B3M/hqdefault.jpg",
           "durationSeconds": 340,
           "durationFormatted": "05:40",
-          "views": 132,
+          "views": 240,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -125,8 +125,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tWVkkPdcIUI/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 104,
-          "likes": 0,
+          "views": 329,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -139,7 +139,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vxNa3wUVm8U/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 23,
+          "views": 33,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -153,7 +153,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TEagcYvs5Yg/hqdefault.jpg",
           "durationSeconds": 34899,
           "durationFormatted": "09:41:39",
-          "views": 4437,
+          "views": 4462,
           "likes": 29,
           "videoType": "VOD",
           "genre": "General"
@@ -167,7 +167,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FlQ71g2WnUM/hqdefault.jpg",
           "durationSeconds": 26626,
           "durationFormatted": "07:23:46",
-          "views": 41430,
+          "views": 41547,
           "likes": 151,
           "videoType": "VOD",
           "genre": "General"
@@ -181,8 +181,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1A3RhXOXnKM/hqdefault.jpg",
           "durationSeconds": 5,
           "durationFormatted": "00:05",
-          "views": 9570,
-          "likes": 44,
+          "views": 13987,
+          "likes": 58,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -195,7 +195,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hQh0jVuEX2E/hqdefault.jpg",
           "durationSeconds": 168,
           "durationFormatted": "02:48",
-          "views": 72,
+          "views": 96,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -209,7 +209,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lDOMd58ndJ4/hqdefault.jpg",
           "durationSeconds": 11401,
           "durationFormatted": "03:10:01",
-          "views": 981,
+          "views": 998,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -223,8 +223,22 @@
           "thumbnail": "https://i.ytimg.com/vi/oF4fhGxiEuo/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 1040,
+          "views": 1154,
           "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "cAgvncrCwsk",
+          "title": "Stipend राशि समेत 3 सूत्रीय मांगों को लेकर Raipur Dental College के छात्रों ने खोला मोर्चा | CG News",
+          "description": "IBC24, Stipend राशि समेत 3 सूत्रीय मांगों को लेकर Raipur Dental College के छात्रों ने ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-15T12:04:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/cAgvncrCwsk/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "00:00",
+          "views": 1,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -251,8 +265,8 @@
           "thumbnail": "https://i.ytimg.com/vi/p8igwA8EHgg/hqdefault.jpg",
           "durationSeconds": 794,
           "durationFormatted": "13:14",
-          "views": 4708,
-          "likes": 78,
+          "views": 4833,
+          "likes": 80,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -265,8 +279,22 @@
           "thumbnail": "https://i.ytimg.com/vi/Q9tCtr2OabI/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 54,
-          "likes": 2,
+          "views": 63,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "3s1wSUy-Alw",
+          "title": "Budh Gochar Effect : 17 जनवरी को बुध का गोचर, इन राशियों के लोग हो जाएंगे मालमाल ? | Top News",
+          "description": "Budh Gochar Effect : 17 जनवरी को बुध का गोचर, इन राशियों के लोग हो जाएंगे मालमाल ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T11:49:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/3s1wSUy-Alw/hqdefault.jpg",
+          "durationSeconds": 536,
+          "durationFormatted": "08:56",
+          "views": 28,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -307,7 +335,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XYni52hLzos/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 50,
+          "views": 53,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -321,7 +349,7 @@
           "thumbnail": "https://i.ytimg.com/vi/wDGs9AoCalM/hqdefault.jpg",
           "durationSeconds": 1445,
           "durationFormatted": "24:05",
-          "views": 129,
+          "views": 148,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -335,8 +363,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WauJoHUTIfk/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 28,
-          "likes": 2,
+          "views": 30,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -363,7 +391,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vXiJi9YOT8E/hqdefault.jpg",
           "durationSeconds": 240,
           "durationFormatted": "04:00",
-          "views": 79,
+          "views": 87,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -391,7 +419,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4eJZ5rqgtp0/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 271,
+          "views": 277,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -411,6 +439,20 @@
           "genre": "General"
         },
         {
+          "videoId": "C8CAniRphMM",
+          "title": "Tiger Viral Video : बाघिन का बच्चों को ट्रेनिंग देने का वीडियो वायरल! | N18S | Shorts",
+          "description": "Tiger Viral Video : बाघिन का बच्चों को ट्रेनिंग देने का वीडियो वायरल! | N18S | Shorts ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T11:16:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/C8CAniRphMM/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 3792,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
           "videoId": "AALC6qnS0Jg",
           "title": "बिना सबूत ससुराल वालों को फंसाना दहेज उत्पीड़न बना साधन- HC | CG Bhaskar",
           "description": "बिना सबूत ससुराल वालों को फंसाना दहेज उत्पीड़न बना साधन- HC | CG Bhaskar ...",
@@ -419,7 +461,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AALC6qnS0Jg/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 289,
+          "views": 314,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -433,7 +475,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jAarBRTKarI/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 851,
+          "views": 861,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -467,20 +509,6 @@
           "genre": "General"
         },
         {
-          "videoId": "JXNfBxQTrc4",
-          "title": "Shyopur Water Tanki: &#39;Jal Jeevan Mission&#39; से बनी 2 करोड़ 86 लाख की पानी टंकी में रिसाव हो रहा है",
-          "description": "Shyopur Water Tanki: 'Jal Jeevan Mission' से बनी 2 करोड़ 86 लाख की पानी टंकी में रिसाव हो ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-15T10:38:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/JXNfBxQTrc4/hqdefault.jpg",
-          "durationSeconds": 111,
-          "durationFormatted": "01:51",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "videoId": "DRZy8Oid6F4",
           "title": "Grok Update: AI Power या AI Abuse? | Mohit | CG Bhaskar",
           "description": "Grok Update: AI Power या AI Abuse? | Mohit | CG Bhaskar Join our Whatsapp Group ...",
@@ -489,8 +517,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DRZy8Oid6F4/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 144,
-          "likes": 4,
+          "views": 147,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -517,7 +545,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VqxziF4TPtQ/hqdefault.jpg",
           "durationSeconds": 895,
           "durationFormatted": "14:55",
-          "views": 120,
+          "views": 123,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -531,7 +559,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y9yXi_gWfbU/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 50,
+          "views": 52,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -587,7 +615,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eaJVFZxuh84/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 238,
+          "views": 245,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -643,7 +671,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H606kt5vN5I/hqdefault.jpg",
           "durationSeconds": 20,
           "durationFormatted": "00:20",
-          "views": 212,
+          "views": 215,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -657,8 +685,8 @@
           "thumbnail": "https://i.ytimg.com/vi/G9pUKS-nT-M/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 433,
-          "likes": 15,
+          "views": 471,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -685,7 +713,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D9R3mBkMV_M/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 447,
+          "views": 451,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -713,7 +741,7 @@
           "thumbnail": "https://i.ytimg.com/vi/__P4QYQPbcA/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 923,
+          "views": 936,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -727,7 +755,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JUBBgI1acsM/hqdefault.jpg",
           "durationSeconds": 237,
           "durationFormatted": "03:57",
-          "views": 92,
+          "views": 91,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -741,7 +769,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5fReBXfryX8/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 597,
+          "views": 602,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -755,8 +783,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fUwdavtGEZw/hqdefault.jpg",
           "durationSeconds": 665,
           "durationFormatted": "11:05",
-          "views": 2818,
-          "likes": 51,
+          "views": 3146,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -769,7 +797,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rbBAqT7TOkU/hqdefault.jpg",
           "durationSeconds": 201,
           "durationFormatted": "03:21",
-          "views": 38,
+          "views": 39,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -784,34 +812,6 @@
           "durationSeconds": 93,
           "durationFormatted": "01:33",
           "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "rgpn57P9i74",
-          "title": "Gwalior News: शौर्य दिवस पर पुष्पांजलि कार्यक्रम | पानीपत युद्ध के वीर योद्धाओं को किया नमन",
-          "description": "IBC24, Gwalior News: शौर्य दिवस पर पुष्पांजलि कार्यक्रम | पानीपत युद्ध के ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-15T07:33:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/rgpn57P9i74/hqdefault.jpg",
-          "durationSeconds": 49,
-          "durationFormatted": "00:49",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "cLhdUa4xOS0",
-          "title": "Bilaspur News: दहेज प्रताड़ना के मामले में HC का फैसला | याचिकाकर्ता पर लगे सभी आरोप किए खारिज",
-          "description": "IBC24, Bilaspur News: दहेज प्रताड़ना के मामले में HC का फैसला | याचिकाकर्ता पर ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-15T07:28:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/cLhdUa4xOS0/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -839,7 +839,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Zk-MoDUAEDk/hqdefault.jpg",
           "durationSeconds": 137,
           "durationFormatted": "02:17",
-          "views": 8,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -853,8 +853,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9YsQV9nQ6UA/hqdefault.jpg",
           "durationSeconds": 238,
           "durationFormatted": "03:58",
-          "views": 91,
-          "likes": 1,
+          "views": 97,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -881,8 +881,8 @@
           "thumbnail": "https://i.ytimg.com/vi/e7FsUrMnuts/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 520,
-          "likes": 6,
+          "views": 578,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -895,8 +895,8 @@
           "thumbnail": "https://i.ytimg.com/vi/yr2wvrfMObE/hqdefault.jpg",
           "durationSeconds": 908,
           "durationFormatted": "15:08",
-          "views": 3052,
-          "likes": 84,
+          "views": 3059,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -909,8 +909,8 @@
           "thumbnail": "https://i.ytimg.com/vi/T99R1ZaZdgs/hqdefault.jpg",
           "durationSeconds": 828,
           "durationFormatted": "13:48",
-          "views": 4779,
-          "likes": 44,
+          "views": 4810,
+          "likes": 47,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -923,7 +923,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nka_Xwf3xZc/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 380,
+          "views": 383,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -937,7 +937,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nw8s51el2Fc/hqdefault.jpg",
           "durationSeconds": 949,
           "durationFormatted": "15:49",
-          "views": 2178,
+          "views": 2184,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -951,8 +951,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OKuryHcQwwU/hqdefault.jpg",
           "durationSeconds": 1517,
           "durationFormatted": "25:17",
-          "views": 24760,
-          "likes": 291,
+          "views": 24801,
+          "likes": 292,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -965,7 +965,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BHTkSYSbtM4/hqdefault.jpg",
           "durationSeconds": 923,
           "durationFormatted": "15:23",
-          "views": 3353,
+          "views": 3361,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -979,8 +979,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bY6ClgFbZn0/hqdefault.jpg",
           "durationSeconds": 1053,
           "durationFormatted": "17:33",
-          "views": 10924,
-          "likes": 270,
+          "views": 10953,
+          "likes": 271,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1007,7 +1007,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XIMXsXdLS5k/hqdefault.jpg",
           "durationSeconds": 424,
           "durationFormatted": "07:04",
-          "views": 1406,
+          "views": 1459,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -1021,8 +1021,8 @@
           "thumbnail": "https://i.ytimg.com/vi/653ZbfjoAsg/hqdefault.jpg",
           "durationSeconds": 500,
           "durationFormatted": "08:20",
-          "views": 17517,
-          "likes": 508,
+          "views": 17545,
+          "likes": 511,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1063,8 +1063,8 @@
           "thumbnail": "https://i.ytimg.com/vi/T2alYa5552E/hqdefault.jpg",
           "durationSeconds": 717,
           "durationFormatted": "11:57",
-          "views": 28614,
-          "likes": 674,
+          "views": 28750,
+          "likes": 682,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1077,8 +1077,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mNBXGC98Xk4/hqdefault.jpg",
           "durationSeconds": 659,
           "durationFormatted": "10:59",
-          "views": 866,
-          "likes": 52,
+          "views": 867,
+          "likes": 53,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1091,7 +1091,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kgKtzizhsRk/hqdefault.jpg",
           "durationSeconds": 1098,
           "durationFormatted": "18:18",
-          "views": 5241,
+          "views": 5243,
           "likes": 24,
           "videoType": "VOD",
           "genre": "General"
@@ -1105,7 +1105,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z1C9ukCo77o/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 3388,
+          "views": 3421,
           "likes": 141,
           "videoType": "VOD",
           "genre": "General"
@@ -1119,7 +1119,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Lv_AtxIx24w/hqdefault.jpg",
           "durationSeconds": 398,
           "durationFormatted": "06:38",
-          "views": 617,
+          "views": 607,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1168,8 +1168,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WFXPHN-1RvA/hqdefault.jpg",
           "durationSeconds": 594,
           "durationFormatted": "09:54",
-          "views": 1036,
-          "likes": 11,
+          "views": 1922,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -1182,8 +1182,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eLGBVTdQqGc/hqdefault.jpg",
           "durationSeconds": 561,
           "durationFormatted": "09:21",
-          "views": 553,
-          "likes": 62,
+          "views": 644,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -1196,8 +1196,8 @@
           "thumbnail": "https://i.ytimg.com/vi/iDz2ku7fJ-w/hqdefault.jpg",
           "durationSeconds": 225,
           "durationFormatted": "03:45",
-          "views": 99,
-          "likes": 9,
+          "views": 105,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Jobs"
         }
@@ -1206,8 +1206,22 @@
     },
     {
       "section": "Politics",
-      "count": 48,
+      "count": 50,
       "items": [
+        {
+          "videoId": "uAB7-F_CopY",
+          "title": "BMC Election Voting 2026 Updates: Maharashtra में वोटिंग के बाद आमनेसामने शिंदे और BJP | BMC TResult",
+          "description": "BMC Election Voting 2026 Updates: Maharashtra में वोटिंग के बाद आमनेसामने शिंदे और BJP ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T12:56:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/uAB7-F_CopY/hqdefault.jpg",
+          "durationSeconds": 247,
+          "durationFormatted": "04:07",
+          "views": 16,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
         {
           "videoId": "J6s07INGZ98",
           "title": "वोट डालने पहुंचे जॉनी लीवर ने अपने अंदाज में की अपील #johnnylever #bmcelections2026",
@@ -1217,7 +1231,21 @@
           "thumbnail": "https://i.ytimg.com/vi/J6s07INGZ98/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 0,
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "vRasjH2eouM",
+          "title": "MP News: भारतीय रेलवे की साख पर खड़े हुए सवाल! रिटायर्ड कर्मचारियों को बांटे गए नकली चांदी के सिक्के",
+          "description": "IBC24, MP News: भारतीय रेलवे की साख पर खड़े हुए सवाल! रिटायर्ड ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-15T12:47:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/vRasjH2eouM/hqdefault.jpg",
+          "durationSeconds": 216,
+          "durationFormatted": "03:36",
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1231,8 +1259,8 @@
           "thumbnail": "https://i.ytimg.com/vi/U9GO0CAx-qw/hqdefault.jpg",
           "durationSeconds": 1531,
           "durationFormatted": "25:31",
-          "views": 12,
-          "likes": 2,
+          "views": 31,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1245,7 +1273,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7U3_B7YZOCM/hqdefault.jpg",
           "durationSeconds": 15,
           "durationFormatted": "00:15",
-          "views": 8,
+          "views": 22,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1259,7 +1287,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vdjNr-1j9Pk/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 2,
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1273,8 +1301,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zkbNVkOQd3s/hqdefault.jpg",
           "durationSeconds": 10,
           "durationFormatted": "00:10",
-          "views": 382,
-          "likes": 10,
+          "views": 4854,
+          "likes": 88,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1287,8 +1315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/h8DNXdynuio/hqdefault.jpg",
           "durationSeconds": 34883,
           "durationFormatted": "09:41:23",
-          "views": 20350,
-          "likes": 120,
+          "views": 20405,
+          "likes": 121,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1301,8 +1329,8 @@
           "thumbnail": "https://i.ytimg.com/vi/R8Pm7kbgIXc/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 13,
-          "likes": 1,
+          "views": 23,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1315,7 +1343,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SrUlScNqgRA/hqdefault.jpg",
           "durationSeconds": 23334,
           "durationFormatted": "06:28:54",
-          "views": 435,
+          "views": 436,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1329,8 +1357,8 @@
           "thumbnail": "https://i.ytimg.com/vi/M8Gmq6txttM/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 25,
-          "likes": 0,
+          "views": 42,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1343,8 +1371,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4_WNVIeCuZc/hqdefault.jpg",
           "durationSeconds": 189,
           "durationFormatted": "03:09",
-          "views": 12,
-          "likes": 0,
+          "views": 16,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1357,7 +1385,7 @@
           "thumbnail": "https://i.ytimg.com/vi/h9GIJZ90QZA/hqdefault.jpg",
           "durationSeconds": 25629,
           "durationFormatted": "07:07:09",
-          "views": 7931,
+          "views": 7944,
           "likes": 38,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1371,7 +1399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7sjkVIFZuFg/hqdefault.jpg",
           "durationSeconds": 22377,
           "durationFormatted": "06:12:57",
-          "views": 2989,
+          "views": 2990,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1413,7 +1441,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_uc2xqFcspc/hqdefault.jpg",
           "durationSeconds": 21973,
           "durationFormatted": "06:06:13",
-          "views": 5772,
+          "views": 5776,
           "likes": 26,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1427,7 +1455,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hm6E6UN383Q/hqdefault.jpg",
           "durationSeconds": 19535,
           "durationFormatted": "05:25:35",
-          "views": 2582,
+          "views": 2595,
           "likes": 37,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1441,8 +1469,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TfIvzP3e9yo/hqdefault.jpg",
           "durationSeconds": 10431,
           "durationFormatted": "02:53:51",
-          "views": 3109,
-          "likes": 11,
+          "views": 3143,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1455,7 +1483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XivzU79mgVE/hqdefault.jpg",
           "durationSeconds": 620,
           "durationFormatted": "10:20",
-          "views": 88,
+          "views": 89,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1469,7 +1497,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TM26dmoIflc/hqdefault.jpg",
           "durationSeconds": 23,
           "durationFormatted": "00:23",
-          "views": 121,
+          "views": 142,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1503,6 +1531,20 @@
           "genre": "Politics"
         },
         {
+          "videoId": "ZWLHrv1MnSo",
+          "title": "Makar Sankranti 2026: बिहार में फिर से शुरु हुआ सियासी विवाद | Tej Pratap Yadav | Bihar | Lalu Yadav",
+          "description": "Makar Sankranti 2026: बिहार में फिर से शुरु हुआ सियासी विवाद | Tej Pratap Yadav | Bihar | Lalu ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T11:38:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZWLHrv1MnSo/hqdefault.jpg",
+          "durationSeconds": 196,
+          "durationFormatted": "03:16",
+          "views": 2000,
+          "likes": 12,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
           "videoId": "hN0tPv-P1GI",
           "title": "MP Budget Session 2026: 16 फरवरी से MP Vidhansabha का बजट सत्र। 19 दिन के सत्र में होगी 12 बैठकें",
           "description": "IBC24, MP Budget Session 2026: 16 फरवरी से MP Vidhansabha का बजट सत्र। 19 दिन के सत्र में ...",
@@ -1525,8 +1567,22 @@
           "thumbnail": "https://i.ytimg.com/vi/Lt2DHiaNljc/hqdefault.jpg",
           "durationSeconds": 25220,
           "durationFormatted": "07:00:20",
-          "views": 1245,
+          "views": 1253,
           "likes": 6,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "tU0KUIPHgiQ",
+          "title": "LIVE : RSS पर Baba Bageshwar का बड़ा बयान, बोले - आरएसएस न होता तो हिंदू नहीं बचता | Congress",
+          "description": "LIVE : RSS पर Baba Bageshwar का बड़ा बयान, बोले - आरएसएस न होता तो हिंदू नहीं ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-15T11:03:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/tU0KUIPHgiQ/hqdefault.jpg",
+          "durationSeconds": 17946,
+          "durationFormatted": "04:59:06",
+          "views": 528,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1539,7 +1595,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ynp0nECHJ04/hqdefault.jpg",
           "durationSeconds": 136,
           "durationFormatted": "02:16",
-          "views": 66,
+          "views": 72,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1553,22 +1609,8 @@
           "thumbnail": "https://i.ytimg.com/vi/om1h2EMpTEs/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 75,
+          "views": 121,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "R1ga32JBpx0",
-          "title": "&#39;MP के सभी कांग्रेस पार्षदों से मिलेंगे राहुल गांधी&#39; #rahulgandhi #indorenews #IndoreWaterCrisis",
-          "description": "'MP के सभी कांग्रेस पार्षदों से मिलेंगे राहुल गांधी' #rahulgandhi #indorenews ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-15T10:30:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/R1ga32JBpx0/hqdefault.jpg",
-          "durationSeconds": 166,
-          "durationFormatted": "02:46",
-          "views": 188,
-          "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1601,6 +1643,20 @@
           "genre": "Politics"
         },
         {
+          "videoId": "f2cuMtmmN4Q",
+          "title": "MLA Baraiya ने SC-ST विधायक, सांसदों की तुलना कुत्ते से की | अब पूरे मामले पर फिर दिया बड़ा बयान",
+          "description": "IBC24, Phool Singh Baraiya ने SC-ST विधायक, सांसदों की तुलना कुत्ते से की | अब पूरे ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-15T09:45:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/f2cuMtmmN4Q/hqdefault.jpg",
+          "durationSeconds": 304,
+          "durationFormatted": "05:04",
+          "views": 67,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
           "videoId": "phqJQ94O5J8",
           "title": "Jabalpur Land Jihad News: लैंड जिहाद का मामला फिर आया सामने | शासकीय भूमि पर कब्जा कर बना दी मस्जिद",
           "description": "IBC24, Jabalpur Land Jihad News: लैंड जिहाद का मामला फिर आया सामने | शासकीय भूमि पर ...",
@@ -1609,21 +1665,7 @@
           "thumbnail": "https://i.ytimg.com/vi/phqJQ94O5J8/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 152,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "ay0RDTFs6Sg",
-          "title": "Maharashtra BMC Election : 29 नगर निकायों के लिए चुनाव | नेता, अभिनेता, आम लोग वोट डालने पहुंचे",
-          "description": "IBC24, Maharashtra BMC Election : 29 नगर निकायों के लिए चुनाव | नेता, अभिनेता, आम लोग ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-15T09:22:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/ay0RDTFs6Sg/hqdefault.jpg",
-          "durationSeconds": 119,
-          "durationFormatted": "01:59",
-          "views": 695,
+          "views": 157,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1637,7 +1679,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4tG8otSRAwk/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 277,
+          "views": 290,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1651,7 +1693,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aqWf5nH0R14/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 222,
+          "views": 236,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1665,7 +1707,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DUF9j3TivI0/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 1262,
+          "views": 1272,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1693,7 +1735,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z_dyhY2O-zc/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 308,
+          "views": 316,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1721,7 +1763,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QwoYe28qa2E/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 4,
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1749,7 +1791,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3iRxpH3SDqo/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 19,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1763,7 +1805,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WC8NaehG2dA/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 35,
+          "views": 31,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1777,22 +1819,8 @@
           "thumbnail": "https://i.ytimg.com/vi/l_u5mml0V3s/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 19,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "jq6wFL2Qz1w",
-          "title": "Bhopal : दिग्विजय के बयान के बाद गरमाई सियासत,राजा साहब बहुत अनुभवी नेता हैं: पटवारी",
-          "description": "भोपाल: राज्यसभा सीट को लेकर कांग्रेस में घमासान दिग्विजय के बयान के ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-15T06:01:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/jq6wFL2Qz1w/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 764,
-          "likes": 17,
+          "views": 23,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1805,8 +1833,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2fwNE64IrEo/hqdefault.jpg",
           "durationSeconds": 351,
           "durationFormatted": "05:51",
-          "views": 2294,
-          "likes": 65,
+          "views": 2326,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1819,7 +1847,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ddrAocUm6fk/hqdefault.jpg",
           "durationSeconds": 616,
           "durationFormatted": "10:16",
-          "views": 1362,
+          "views": 1367,
           "likes": 44,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1833,7 +1861,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-KQR7HGtMCo/hqdefault.jpg",
           "durationSeconds": 1450,
           "durationFormatted": "24:10",
-          "views": 20517,
+          "views": 20545,
           "likes": 293,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1861,7 +1889,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-6hD476uYZU/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 1444,
+          "views": 1448,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1875,7 +1903,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EFTyb1qkMKE/hqdefault.jpg",
           "durationSeconds": 652,
           "durationFormatted": "10:52",
-          "views": 2588,
+          "views": 2593,
           "likes": 121,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1885,7 +1913,7 @@
     },
     {
       "section": "Events",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "videoId": "l3-9MsnlXRA",
@@ -1896,7 +1924,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l3-9MsnlXRA/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -1910,7 +1938,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rapbpuTM1ak/hqdefault.jpg",
           "durationSeconds": 196,
           "durationFormatted": "03:16",
-          "views": 60,
+          "views": 92,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -1924,7 +1952,7 @@
           "thumbnail": "https://i.ytimg.com/vi/G6RKKtg2dy0/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 34,
+          "views": 40,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -1952,7 +1980,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MNZSW8rjAwM/hqdefault.jpg",
           "durationSeconds": 372,
           "durationFormatted": "06:12",
-          "views": 151,
+          "views": 180,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -1980,7 +2008,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IVj88AVjyYU/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 309,
+          "views": 351,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -1994,7 +2022,7 @@
           "thumbnail": "https://i.ytimg.com/vi/M1A4i9Vk104/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 178,
+          "views": 187,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
@@ -2008,7 +2036,7 @@
           "thumbnail": "https://i.ytimg.com/vi/U4aSbory_fg/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 60,
+          "views": 64,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
@@ -2022,22 +2050,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VvXIL76RNkE/hqdefault.jpg",
           "durationSeconds": 446,
           "durationFormatted": "07:26",
-          "views": 143,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "videoId": "fk0Jj4aRPzk",
-          "title": "Ind vs NZ: 23 जनवरी को रायपुर में दूसरा T20 मैच, आज से टिकटों की बिक्री शुरू",
-          "description": "Ind vs NZ: 23 जनवरी को रायपुर में दूसरा T20 मैच, आज से टिकटों की बिक्री शुरू ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-15T10:35:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/fk0Jj4aRPzk/hqdefault.jpg",
-          "durationSeconds": 126,
-          "durationFormatted": "02:06",
-          "views": 32,
-          "likes": 0,
+          "views": 156,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -2050,8 +2064,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pGBow3GOonk/hqdefault.jpg",
           "durationSeconds": 1956,
           "durationFormatted": "32:36",
-          "views": 64,
-          "likes": 1,
+          "views": 108,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -2116,8 +2130,50 @@
     },
     {
       "section": "Civic",
-      "count": 7,
+      "count": 10,
       "items": [
+        {
+          "videoId": "QmikyuCXtBw",
+          "title": "Ambikapur News: अब छात्रों को नदी पारकर 10KM दूर School नहीं जाना पड़ेगा! | Education System",
+          "description": "Ambikapur News: अब छात्रों को नदी पारकर 10KM दूर School नहीं जाना पड़ेगा! | Education ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-15T13:01:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/QmikyuCXtBw/hqdefault.jpg",
+          "durationSeconds": 128,
+          "durationFormatted": "02:08",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "videoId": "5lApGMZVh9M",
+          "title": "Bilaspur News: गाय के ऊपर गिरा हाइटेंशन तार, मौत |घंटों बाद भी बिजली विभाग के नहीं पहुंचने से आक्रोश",
+          "description": "IBC24, Bilaspur News: गाय के ऊपर गिरा हाइटेंशन तार, मौत |घंटों बाद भी बिजली ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-15T12:53:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/5lApGMZVh9M/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 2,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "videoId": "x6D5IIicvhE",
+          "title": "MP Workers Protest: सरकार के खिलाफ कर्मचारियों ने खोला मोर्चा। DA समेत कई मांगों को लेकर प्रदर्शन",
+          "description": "IBC24, MP Workers Protest: सरकार के खिलाफ कर्मचारियों ने खोला मोर्चा। DA समेत कई ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-15T12:52:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/x6D5IIicvhE/hqdefault.jpg",
+          "durationSeconds": 135,
+          "durationFormatted": "02:15",
+          "views": 27,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
         {
           "videoId": "1kBRkzTly8s",
           "title": "Khapri village NRDA notice : NRDA ने अतिक्रमण हटाने 4 PM आवास समेत 7 घरों को भेजा नोटिस",
@@ -2127,7 +2183,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1kBRkzTly8s/hqdefault.jpg",
           "durationSeconds": 545,
           "durationFormatted": "09:05",
-          "views": 29,
+          "views": 36,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Civic"
@@ -2141,7 +2197,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gUY6RRzIYnQ/hqdefault.jpg",
           "durationSeconds": 248,
           "durationFormatted": "04:08",
-          "views": 89,
+          "views": 99,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -2155,7 +2211,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hMupvaEHG8c/hqdefault.jpg",
           "durationSeconds": 263,
           "durationFormatted": "04:23",
-          "views": 240,
+          "views": 252,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -2169,7 +2225,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NyFEsY-hNf8/hqdefault.jpg",
           "durationSeconds": 127,
           "durationFormatted": "02:07",
-          "views": 1024,
+          "views": 1144,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -2211,7 +2267,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-DSTmhojL6k/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 1351,
+          "views": 1361,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Civic"
@@ -2246,7 +2302,7 @@
           "thumbnail": "https://i.ytimg.com/vi/wvceTFwmaCg/hqdefault.jpg",
           "durationSeconds": 836,
           "durationFormatted": "13:56",
-          "views": 1703,
+          "views": 1713,
           "likes": 28,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -2256,8 +2312,64 @@
     },
     {
       "section": "Crime",
-      "count": 24,
+      "count": 25,
       "items": [
+        {
+          "videoId": "qOQ9cySzr1A",
+          "title": "कुत्ते का आतंक, 4 साल के मासूम समेत 10 ग्रामीणों को काटा #balod #straydogs #chhattisgarh #cgnews",
+          "description": "कुत्ते का आतंक, 4 साल के मासूम समेत 10 ग्रामीणों को काटा #Balod #StrayDogs ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-01-15T13:01:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/qOQ9cySzr1A/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "videoId": "Iql0hsoihEs",
+          "title": "Viral Video : बलिया में &#39;कंबल लूट&#39; ! | N18S | Shorts",
+          "description": "Viral Video : बलिया में 'कंबल लूट' ! | N18S | Shorts For all the latest news from Madhya Pradesh and Chattisgarh, ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-15T12:58:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/Iql0hsoihEs/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "videoId": "ub0BYAMytxY",
+          "title": "Bilaspur News: जमीन बेचने का झांसा देकर बिल्डर से 64 लाख की ठगी, 3 लोगों के खिलाफ केस दर्ज",
+          "description": "IBC24, Bilaspur News: जमीन बेचने का झांसा देकर बिल्डर से 64 लाख की ठगी, 3 लोगों ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-15T12:57:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/ub0BYAMytxY/hqdefault.jpg",
+          "durationSeconds": 50,
+          "durationFormatted": "00:50",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "videoId": "GxlPzuTAAvk",
+          "title": "बीजापुरः 52 नक्सलियों का सरेंडर , इन नक्सलियों पर था 1.41 करोड़ का इनाम",
+          "description": "छत्तीसगढ़ के बीजापुर जिले में 52 नक्सलियों ने सरेंडर किया है।",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-15T12:54:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/GxlPzuTAAvk/hqdefault.jpg",
+          "durationSeconds": 243,
+          "durationFormatted": "04:03",
+          "views": 7,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
         {
           "videoId": "BFA4CVDTIJo",
           "title": "Naxalites Surrender In Bijapur: 52 खूंखार नक्सलियों का सरेंडर, खोलेंगे जंगल के दबे राज! Naxlism | CG",
@@ -2267,8 +2379,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BFA4CVDTIJo/hqdefault.jpg",
           "durationSeconds": 463,
           "durationFormatted": "07:43",
-          "views": 44,
-          "likes": 1,
+          "views": 139,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2281,8 +2393,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fCt40HZXhOc/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 313,
-          "likes": 6,
+          "views": 518,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2295,7 +2407,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MO7hhQA_9YU/hqdefault.jpg",
           "durationSeconds": 18010,
           "durationFormatted": "05:00:10",
-          "views": 10978,
+          "views": 11001,
           "likes": 101,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2309,7 +2421,7 @@
           "thumbnail": "https://i.ytimg.com/vi/o2HrcvojOoU/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 329,
+          "views": 411,
           "likes": 15,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2323,8 +2435,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VPid-cIBCMo/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 956,
-          "likes": 25,
+          "views": 1222,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2337,7 +2449,7 @@
           "thumbnail": "https://i.ytimg.com/vi/14IyN6P3xnE/hqdefault.jpg",
           "durationSeconds": 164,
           "durationFormatted": "02:44",
-          "views": 124,
+          "views": 146,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2351,7 +2463,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y9QG79vsVF0/hqdefault.jpg",
           "durationSeconds": 8,
           "durationFormatted": "00:08",
-          "views": 4506,
+          "views": 4738,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2407,7 +2519,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bFIEDMN1_Cw/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 107,
+          "views": 109,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2435,7 +2547,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yrDwlT1bLMc/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 92,
+          "views": 93,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2463,7 +2575,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oDei1YkfzSA/hqdefault.jpg",
           "durationSeconds": 420,
           "durationFormatted": "07:00",
-          "views": 209,
+          "views": 212,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2477,8 +2589,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Gjx9JZYwJgc/hqdefault.jpg",
           "durationSeconds": 801,
           "durationFormatted": "13:21",
-          "views": 719,
-          "likes": 41,
+          "views": 742,
+          "likes": 42,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2497,34 +2609,6 @@
           "genre": "Crime"
         },
         {
-          "videoId": "A6wpx5W-k6M",
-          "title": "Durg News: मां-बेटे की सड़क हादसे में मौत | पुणे से दोपहिया वाहन से लौट रहे थे",
-          "description": "IBC24, Durg News: मां-बेटे की सड़क हादसे में मौत | पुणे से दोपहिया वाहन से लौट ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-15T07:25:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/A6wpx5W-k6M/hqdefault.jpg",
-          "durationSeconds": 54,
-          "durationFormatted": "00:54",
-          "views": 13,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "videoId": "Asy18d96RsM",
-          "title": "Indore News: सीनियर्स ने सिगरेट न लाने पर छात्र को पीटा | पुलिस ने 3 छात्रों के खिलाफ दर्ज किया केस",
-          "description": "IBC24, Indore News: सीनियर्स ने सिगरेट न लाने पर छात्र को पीटा | पुलिस ने 3 ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-15T07:22:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/Asy18d96RsM/hqdefault.jpg",
-          "durationSeconds": 54,
-          "durationFormatted": "00:54",
-          "views": 41,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
           "videoId": "xvKHjNufB5U",
           "title": "कोरबा से बेहद दुखद खबर अनियंत्रित कार 30 फीट गहरी खाई में गिरते ही आग का गोला बन गई।",
           "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #korba #roadaccident #caraccident #fire #fatalcrash #emergency #rip ...",
@@ -2533,7 +2617,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xvKHjNufB5U/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 584,
+          "views": 587,
           "likes": 12,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2547,7 +2631,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ye-_3Ocn0D4/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 25,
+          "views": 20,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2575,22 +2659,8 @@
           "thumbnail": "https://i.ytimg.com/vi/by1h-xBOCoo/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 10330,
-          "likes": 251,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "videoId": "mPgok9M9f5k",
-          "title": "MISS YOU PAPA, स्टेटस लगाने के 21 घंटे बाद बेटे की सड़क हादसे में मौत #chhattisgarh #durg #cgnews",
-          "description": "MISS YOU PAPA, स्टेटस लगाने के 21 घंटे बाद बेटे की सड़क हादसे में मौत ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-01-14T13:01:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/mPgok9M9f5k/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 1414,
-          "likes": 27,
+          "views": 10343,
+          "likes": 252,
           "videoType": "VOD",
           "genre": "Crime"
         }
