@@ -648,44 +648,63 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # English - specific crime terms
         "murder", "killed", "killing", "homicide", "assassination",
         "robbery", "loot", "theft", "steal", "stolen",
-        "assault", "rape", "sexual assault",
+        "assault", "rape", "sexual assault", "sexual violence",
         "arrest", "arrested", "suspect", "accused", "criminal",
         "gang", "mob", "violence", "rioting",
         "shoot", "shot", "firing", "gunfire", "bullets",
         "stab", "knife attack", "weapon",
         "jail", "prison", "court case", "trial", "investigation",
         "kidnapping", "abduction", "abducted",
-        "naxal", "naxalite", "naxal surrender",  # Naxal-related crimes
+        "naxal attack", "naxal violence", "naxalite attack", "naxal surrender",  # Naxal-related crimes (only when crime-related)
         "gas cylinder", "cylinder blast", "explode", "explosion",  # Explosions
         "fire incident", "arson",  # Fire-related crimes
+        "chain snatching", "snatching",  # Chain snatching
+        "fraud case", "scam case", "cheat", "swindle", "dupe",  # Fraud/scam (only when clearly crime, not political discussions)
+        "corruption scam", "financial scam", "bank scam",  # Specific scams
+        "cyber fraud", "cyber theft", "cyber crime", "online scam", "telegram scam",  # Cyber crimes
+        "dog attack", "dog bite", "stray dog",  # Dog attacks
+        "food poisoning", "death from food", "contaminated food",  # Food-related deaths
+        "it raid", "income tax raid", "raid", "search",  # IT raids and searches
         # Hindi/Devanagari - specific crime terms
-        "हत्या", "कत्ल", "लाश", "शव", "मौत", "अपराध", "अपराधी",
-        "गिरफ्तार", "गिरफ्तारी", "संदिग्ध", "आरोपी",
-        "पुलिस", "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा",
+        "हत्या","कत्ल", "लाश", "शव", "अपराध", "अपराधी",
+        # "मौत" only when combined with crime terms (not medical deaths)
+        "हत्या में मौत", "कत्ल में मौत", "अपराध में मौत", "गोली से मौत", "चाकू से मौत",
+        "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा","मौत",
+        "पुलिस गिरफ्तार", "पुलिस ने गिरफ्तार", "पुलिस जांच",  # Police action (crime-related)
         "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग",
         "अपहरण",  # Kidnapping
-        "नक्सली", "नक्सल", "सरेंडर",  # Naxal surrender
+        "नक्सली हमला", "नक्सल हिंसा", "नक्सल सरेंडर",  # Naxal-related crimes (only when crime-related)
         "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट",  # Explosions
         "अग्निकांड", "आग",  # Fire incident
+        "चेन छीन", "चेन स्नैचिंग", "स्नैचिंग",  # Chain snatching
+        "ठग", "धोखाधड़ी", "फ्रॉड",  # Fraud/scam
+        "स्कैम केस", "धोखाधड़ी केस", "भ्रष्टाचार स्कैम",  # Specific scams (not political discussions)
+        "सायबर चोरी", "सायबर फ्रॉड", "ऑनलाइन स्कैम", "टेलीग्राम स्कैम",  # Cyber crimes
+        "कुत्ते का आतंक", "कुत्ते ने काटा", "कुत्ता काटा", "कुत्ता",  # Dog attack
+        "मिठाई से मौत", "खाने से मौत", "जहर",  # Food-related deaths
+        "दुष्कर्म", "बलात्कार",  # Rape/sexual assault
+        "आईटी रेड", "आयकर रेड", "रेड", "छापा", "दबिश",  # IT raids
         # Context-specific: जांच only when combined with crime terms
         "अपराध जांच", "पुलिस जांच", "हत्या जांच", "मुकदमा जांच"
     ]
     
-    # Traffic keywords - specific traffic/accident terms
+        # Traffic keywords - specific traffic/accident terms
     traffic_keywords = [
         # English - multi-word phrases for stronger matching (check first)
         "traffic accident", "road accident", "car accident", "vehicle accident",
         "traffic jam", "road jam",
         "head-on collision", "rear-end collision",
         "fatal accident", "deadly accident",
+        "vehicle overturned", "truck overturned", "bus overturned", "tractor overturned",  # Vehicle overturning
         # Hindi/Devanagari - multi-word phrases (check first)
         "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
+        "ट्रैक्टर पलटी", "ट्रॉली पलटी", "गाड़ी पलटी", "वाहन पलटी",  # Vehicle overturned
         "ट्रैफिक जाम", "सड़क जाम",
         # English - strong single-word indicators (context-specific)
         "accident", "collision", "crash", "traffic", "jam",
         "ambulance", "rescue", "highway", "expressway",
         # Hindi/Devanagari - strong single-word indicators (context-specific)
-        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस"
+        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस", "पलटी"  # पलटी = overturned
         # Note: "घायल" (injured) removed - too generic, appears in non-traffic contexts
     ]
     
@@ -696,20 +715,24 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "career", "opportunity", "post", "application", "opening",
         "admit card", "merit", "salary", "wage", "exam",
         "police recruitment", "police bharti",  # Police recruitment (specific)
+        "appointment", "appointments", "नियुक्ति",  # Appointments
         # English - multi-word phrases for stronger matching
         "job notification", "job vacancy", "job opening", "job opportunity",
         "government job", "sarkari naukri", "govt job",
         "job application", "apply for job",
-        "exam result", "merit list",
+        "exam result", "merit list", "job result",  # Job/exam results (not election results)
         "walk-in interview", "job interview", "employment interview",
         "pay scale", "vacancy notification",
         # Hindi/Devanagari - strong single-word indicators
         "नौकरी", "रोजगार", "भर्ती", "आवेदन", "एडमिट कार्ड",
-        "रिजल्ट", "मेरिट", "परीक्षा", "वेतन",
+        "मेरिट", "परीक्षा", "वेतन",
         "पुलिस भर्ती",  # Police recruitment (specific)
+        "नियुक्ति",  # Appointments
         # Hindi/Devanagari - multi-word phrases (context-specific)
         "सरकारी नौकरी", "नौकरी सूचना",
-        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू"
+        "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू",
+        "निगम मंडल", "मंडल में नियुक्ति",  # Corporation board appointments
+        "परीक्षा रिजल्ट", "भर्ती रिजल्ट", "नौकरी रिजल्ट", "मेरिट रिजल्ट"  # Job/exam results (not election)
     ]
 
     # Events keywords - specific event/festival terms
@@ -721,7 +744,11 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "republic day", "independence day", "26 january", "15 august",
         # Sports/Cricket events
         "cricket match", "t20", "odi", "test match", "ipl", "cricket",
+        "wpl", "women premier league", "women's premier league",  # Women's Premier League
         "match", "sports event", "tournament", "championship",
+        "conference", "summit", "ai conference", "tech conference",  # Conferences
+        "launch", "launched", "launching",  # Launch events
+        "शुरुआत", "उद्घाटन", "लॉन्च",  # Launch/inauguration (when not political)
         # English - multi-word phrases for stronger matching
         "cultural event", "religious event",
         "launch ceremony", "marriage ceremony",
@@ -731,7 +758,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "उद्घाटन", "शुभारंभ", "शादी", "विवाह", "जन्मदिन",
         "यात्रा", "पूजा", "आरती", "जुलूस",
         "गणतंत्र दिवस", "26 जनवरी", "स्वतंत्रता दिवस", "15 अगस्त",
-        "मैच", "क्रिकेट", "टी20", "वनडे", "टेस्ट मैच"  # Cricket/sports
+        "मैच", "क्रिकेट", "टी20", "वनडे", "टेस्ट मैच", "डब्ल्यूपीएल"  # Cricket/sports
     ]
 
     # Civic keywords - specific civic/municipal service terms
@@ -740,31 +767,40 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "municipal corporation", "municipality", "municipal",
         "water supply", "electricity supply", "power supply",
         "contaminated water", "water crisis", "water problem",  # Water issues
+        "water supply improvement", "drinking water", "पेयजल",  # Water supply improvements
         "garbage collection", "waste management", "cleanliness drive",
         "pothole repair", "road repair", "street repair",
         "road construction", "road not built", "infrastructure",
+        "road quality", "road collapse", "underbridge", "अंडरब्रिज",  # Road quality issues
+        "corruption", "negligence", "भ्रष्टाचार", "लापरवाही",  # Corruption/negligence in infrastructure
         "public health", "sanitation", "swachh bharat",
         "property tax", "house tax", "municipal tax",
         "birth certificate", "death certificate", "marriage certificate",
         "aadhaar card", "pan card", "voter id card",
         "driving license", "passport",
         "csc", "common service center",
-        "mayor", "commissioner", "councilor",
+        "mayor", "councilor",
+        # Note: "commissioner" removed - too generic, appears in police commissioner (general news) and municipal commissioner (civic)
         "nrda",  # NRDA - Raipur Development Authority
         "student protest", "protest", "demonstration",  # Protests
         # Hindi/Devanagari - specific civic terms
         "नगर निगम", "नगर पालिका",
         "पानी की समस्या", "बिजली की समस्या",
         "प्रदूषित पानी", "सीवरेज का पानी", "गंदा पानी",  # Contaminated water
+        "नाली का पानी", "नाले का पानी",  # Drain water
+        "पानी पीने को मजबूर", "पानी नहीं मिल रहा",  # Water shortage
         "पानी संकट", "जल संकट",  # Water crisis
+        "पेयजल व्यवस्था", "पेयजल",  # Drinking water supply
         "कचरा", "सफाई", "स्वच्छता", "गड्ढा",
         "मरम्मत", "शिकायत", "संपत्ति कर",
         "अतिक्रमण", "अतिक्रमण हटाने",  # Encroachment removal
         "सड़क नहीं बनी", "सड़क निर्माण",  # Road construction
+        "सड़क धंसी", "सड़क खराब", "सड़क की गुणवत्ता",  # Road quality
         "जन्म प्रमाणपत्र", "मृत्यु प्रमाणपत्र", "विवाह प्रमाणपत्र",
         "आधार", "पैन कार्ड", "मतदाता पहचान",
         "ड्राइविंग लाइसेंस", "पासपोर्ट",
-        "मेयर", "कमिश्नर", "पार्षद",
+        "मेयर", "पार्षद",
+        # Note: "कमिश्नर" removed - too generic, appears in police commissioner (general) and municipal commissioner (civic)
         "छात्र प्रदर्शन", "उग्र प्रदर्शन", "प्रदर्शन",  # Student protest
         # Safety inspections and administrative checks
         "सुरक्षा जांच", "स्कूल बस जांच", "वाहन जांच", "सार्वजनिक जांच"
@@ -774,13 +810,17 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     politics_keywords = [
         # English - specific political terms
         "election", "voting", "vote", "election campaign",
-        "minister", "chief minister", "cm", "mla", "mp",
+        "minister", "chief minister", "cm", "mla",
+        "mp",  # Member of Parliament (but check context - not weather "MP Weather")
         "prime minister", "pm modi", "narendra modi", "modi",
         "government", "govt", "political party",
         "political rally", "political speech", "political news",
         "budget", "assembly session", "parliament",
         "political leader", "politician",
         "councilor", "councillor", "alderman",
+        "government scheme", "yojana", "scheme",  # Government schemes
+        "paddy procurement", "dhan kharidi", "rice procurement",  # Paddy procurement
+        "election result", "election results", "vote counting", "poll results",  # Election results
         # Major political parties (common in Indian news)
         "congress", "bjp", "aap", "sp", "bsp", "dmk", "aiadmk", "tmc", "cpi", "cpm",
         # Political leaders and figures
@@ -790,15 +830,31 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # Hindi/Devanagari - specific political terms
         "चुनाव", "मतदान", "वोट",
         "मंत्री", "मुख्यमंत्री", "विधायक", "सांसद",
+        # Note: "MP" in English matches "mp" but should not match "MP Weather" - handled by weather check
         "प्रधानमंत्री", "पीएम मोदी", "मोदी",
         "सरकार", "पार्टी", "राजनीति", "राजनीतिक", "सियासी",
         "रैली", "भाषण", "अभियान",
         "बजट", "विधानसभा", "संसद", "नेता",
         "ओवैसी",  # Owaisi - political leader
         "लैंड जिहाद", "जिहाद",  # Land jihad - political issue
-        "पार्षद"  # Councilor - political position
+        "पार्षद",  # Councilor - political position
+        "योजना", "सरकारी योजना", "लाडली बहना योजना",  # Government schemes
+        "धान खरीदी", "धान खरीद", "धान",  # Paddy procurement
+        "चुनाव का रिजल्ट", "चुनाव रिजल्ट", "मतगणना", "वोट गिनती"  # Election results
     ]
 
+    # Weather keywords - check BEFORE Politics to avoid "MP Weather" matching "MP" (Member of Parliament)
+    weather_keywords = [
+        "weather", "weather alert", "weather update", "weather forecast",
+        "cold wave", "heat wave", "rain", "rainfall", "monsoon",
+        "temperature", "humidity", "fog", "foggy", "winter", "summer",
+        "snow", "snowfall", "storm", "cyclone", "typhoon",
+        "मौसम", "मौसम की जानकारी", "मौसम अपडेट", "मौसम चेतावनी",
+        "ठंड", "सर्दी", "गर्मी", "बारिश", "वर्षा", "बारिश",
+        "तापमान", "पारा", "कोहरा", "सर्द हवाएं", "बर्फीली हवाएं",
+        "शीतलहर", "गर्मी की लहर", "बारिश के आसार", "मावठा"
+    ]
+    
     # Create patterns and check in order of specificity
     crime_patterns = create_patterns(crime_keywords)
     traffic_patterns = create_patterns(traffic_keywords)
@@ -806,27 +862,45 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     events_patterns = create_patterns(events_keywords)
     civic_patterns = create_patterns(civic_keywords)
     politics_patterns = create_patterns(politics_keywords)
+    weather_patterns = create_patterns(weather_keywords)
 
     # Check each category - order matters (most specific first)
+    # Weather - check BEFORE Politics to avoid "MP Weather" matching "MP" (Member of Parliament)
+    for pattern in weather_patterns:
+        if pattern.search(text):
+            return GENRE_GENERAL  # Weather news is General
+    
     # Traffic - check BEFORE Crime (road accidents can have deaths but should be Traffic)
     for pattern in traffic_patterns:
         if pattern.search(text):
-           return GENRE_TRAFFIC
+            return GENRE_TRAFFIC
 
     # Jobs - employment opportunities (check BEFORE Crime to catch "police recruitment" etc.)
     for pattern in jobs_patterns:
         if pattern.search(text):
             return GENRE_JOBS
 
-    # Crime - specific crime terms (check after Traffic and Jobs to avoid false positives)
+    # Crime - check BEFORE Events to catch crimes at events (e.g., "मेला में दुष्कर्म")
     for pattern in crime_patterns:
         if pattern.search(text):
             return GENRE_CRIME
-
-    # Events - festivals/ceremonies
+    
+    # Events - check BEFORE Politics to catch conferences/events/launches (not political discussions)
     for pattern in events_patterns:
         if pattern.search(text):
-            return GENRE_EVENTS
+            # But exclude if it's clearly a political discussion (e.g., "CM meets PM", "political rally")
+            # Policy launches and inaugurations are Events, not Politics
+            if not any(pol_term in text for pol_term in ["meets", "मुलाकात", "रैली", "भाषण", "चुनाव"]):
+                return GENRE_EVENTS
+    
+    # Politics - check AFTER Events and Crime to catch political discussions/scams (not criminal cases)
+    for pattern in politics_patterns:
+        if pattern.search(text):
+            # But exclude if it's clearly a crime (e.g., "fraud case", "scam case")
+            # And exclude if it's a launch/inauguration event (those are Events)
+            if not any(crime_term in text for crime_term in ["fraud case", "scam case", "स्कैम केस", "धोखाधड़ी केस"]):
+                if not any(event_term in text for event_term in ["launch", "लॉन्च", "शुरुआत", "उद्घाटन", "conference"]):
+                    return GENRE_POLITICS
 
     # Civic - municipal services
     for pattern in civic_patterns:
@@ -836,7 +910,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     # Politics - political activities (check last to avoid overlap)
     for pattern in politics_patterns:
         if pattern.search(text):
-           return GENRE_POLITICS
+            return GENRE_POLITICS
     
     return GENRE_GENERAL
 
