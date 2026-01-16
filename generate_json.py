@@ -319,8 +319,8 @@ def create_patterns(keywords):
     for kw in keywords:
         # Use word boundaries for English, space boundaries for Hindi
         if re.search(r'[\u0900-\u097F]', kw):
-            # Hindi/Devanagari - use space or start/end of string
-            pattern = r'(?:^|\s)' + re.escape(kw) + r'(?:\s|$)'
+            # Hindi/Devanagari - use space or start/end of string, also allow punctuation (।, ,, .)
+            pattern = r'(?:^|\s)' + re.escape(kw) + r'(?:\s|$|।|,|\.|!|\?)'
         else:
             # English - use word boundaries
             pattern = r'\b' + re.escape(kw) + r'\b'
@@ -665,12 +665,20 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "dog attack", "dog bite", "stray dog",  # Dog attacks
         "food poisoning", "death from food", "contaminated food",  # Food-related deaths
         "it raid", "income tax raid", "raid", "search",  # IT raids and searches
+        "acb raid", "anti corruption bureau", "acb",  # ACB raids
+        "food department raid", "food dept raid",  # Food department raids
         # Hindi/Devanagari - specific crime terms
         "हत्या","कत्ल", "लाश", "शव", "अपराध", "अपराधी",
         # "मौत" only when combined with crime terms (not medical deaths)
         "हत्या में मौत", "कत्ल में मौत", "अपराध में मौत", "गोली से मौत", "चाकू से मौत",
+        # Medical negligence death (crime)
+        "इलाज के दौरान मरीज की मौत", "इलाज के दौरान मौत", "डॉक्टर लापरवाही", "मेडिकल नेग्लिजेंस",
         "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा","मौत",
         "पुलिस गिरफ्तार", "पुलिस ने गिरफ्तार", "पुलिस जांच",  # Police action (crime-related)
+        "गिरोह", "संगठित गिरोह", "गिरोह का पर्दाफाश",  # Gang/exposure
+        "पर्दाफाश", "किया पर्दाफाश",  # Exposure/revelation (crime-related)
+        "खाद्य विभाग का छापा", "एसीबी की दबिश", "एसीबी रेड",  # ACB/Food dept raids
+        "दबिश",  # Raid (crime-related)
         "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग",
         "अपहरण",  # Kidnapping
         "नक्सली हमला", "नक्सल हिंसा", "नक्सल सरेंडर",  # Naxal-related crimes (only when crime-related)
@@ -696,9 +704,12 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "head-on collision", "rear-end collision",
         "fatal accident", "deadly accident",
         "vehicle overturned", "truck overturned", "bus overturned", "tractor overturned",  # Vehicle overturning
+        "thar accident", "speed havoc",  # Specific vehicle/accident types
         # Hindi/Devanagari - multi-word phrases (check first)
         "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
         "ट्रैक्टर पलटी", "ट्रॉली पलटी", "गाड़ी पलटी", "वाहन पलटी",  # Vehicle overturned
+        "रफ्तार का कहर", "थार का कहर",  # Speed/Thar vehicle accident
+        "एनएच", "NH-", "हाइवे पर",  # Highway accidents
         "ट्रैफिक जाम", "सड़क जाम",
         # English - strong single-word indicators (context-specific)
         "accident", "collision", "crash", "traffic", "jam",
@@ -748,7 +759,8 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "match", "sports event", "tournament", "championship",
         "conference", "summit", "ai conference", "tech conference",  # Conferences
         "launch", "launched", "launching",  # Launch events
-        "शुरुआत", "उद्घाटन", "लॉन्च",  # Launch/inauguration (when not political)
+        "competition", "contest", "जसगीत", "झांकी प्रतियोगिता",  # Competitions
+        "शुरुआत", "उद्घाटन", "लॉन्च", "प्रतियोगिता",  # Launch/inauguration/competition (when not political)
         # English - multi-word phrases for stronger matching
         "cultural event", "religious event",
         "launch ceremony", "marriage ceremony",
@@ -774,6 +786,8 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "road quality", "road collapse", "underbridge", "अंडरब्रिज",  # Road quality issues
         "corruption", "negligence", "भ्रष्टाचार", "लापरवाही",  # Corruption/negligence in infrastructure
         "public health", "sanitation", "swachh bharat",
+        "air pollution", "aqi", "air quality index", "pm2.5", "pm10",  # Air quality issues
+        "हवा खतरनाक", "प्रदूषित हवा", "वायु प्रदूषण",  # Dangerous air/air pollution
         "property tax", "house tax", "municipal tax",
         "birth certificate", "death certificate", "marriage certificate",
         "aadhaar card", "pan card", "voter id card",
@@ -821,6 +835,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "government scheme", "yojana", "scheme",  # Government schemes
         "paddy procurement", "dhan kharidi", "rice procurement",  # Paddy procurement
         "election result", "election results", "vote counting", "poll results",  # Election results
+        "सियासत", "सियासी", "कांड पर सियासत",  # Politics/controversy + politics
         # Major political parties (common in Indian news)
         "congress", "bjp", "aap", "sp", "bsp", "dmk", "aiadmk", "tmc", "cpi", "cpm",
         # Political leaders and figures
