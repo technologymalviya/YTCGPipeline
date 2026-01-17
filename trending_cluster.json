@@ -1,12 +1,96 @@
 {
-  "generatedAt": "2026-01-17T03:49:42.172432Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-01-17T05:00:52.844672Z",
+  "clusterCount": 8,
   "clusters": [
+    {
+      "clusterId": "ujjain-n18s",
+      "topic": "Ujjain N18S",
+      "videoCount": 5,
+      "trendScore": 47.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "DadAOyEd68Y",
+          "title": "Ujjain: विराट कोहली के साथ कुलदीप यादव बाबा महाकाल की अलौकिक भस्म आरती में शामिल हुए।shorts | N18S",
+          "description": "Ujjain: विराट कोहली के साथ कुलदीप यादव बाबा महाकाल की अलौकिक भस्म आरती ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-17T02:08:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/DadAOyEd68Y/hqdefault.jpg",
+          "durationSeconds": 15,
+          "durationFormatted": "00:15",
+          "views": 7871,
+          "likes": 243,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "UIusWKJLRCs",
+          "title": "Ujjain : ज्योतिर्लिंग भगवान श्री महाकालेश्वर जी का भस्म आरती श्रृंगार दर्शन | shorts | N18S | #viral",
+          "description": "Ujjain : ज्योतिर्लिंग भगवान श्री महाकालेश्वर जी का भस्म आरती श्रृंगार ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-17T02:36:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/UIusWKJLRCs/hqdefault.jpg",
+          "durationSeconds": 71,
+          "durationFormatted": "01:11",
+          "views": 5194,
+          "likes": 714,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "XR4RPfUbRD0",
+          "title": "Ujjain: बाबा महाकाल की भारतीय टीम के विराट कोहली और कुलदीप यादव भस्मारती में शामिल हुए।shorts | N18S",
+          "description": "Ujjain: बाबा महाकाल की भारतीय टीम के विराट कोहली और कुलदीप यादव ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-17T02:06:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/XR4RPfUbRD0/hqdefault.jpg",
+          "durationSeconds": 14,
+          "durationFormatted": "00:14",
+          "views": 4415,
+          "likes": 62,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "sBhOtmy7Cnc",
+          "title": "Minister Viral Video: ललितपुर में कमिश्नर के पैर छूने झुके मंत्री! Lalitpur | UP News | N18S #shorts",
+          "description": "Minister Viral Video: ललितपुर में कमिश्नर के पैर छूने झुके मंत्री! Lalitpur | UP News ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-17T04:31:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/sBhOtmy7Cnc/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 3987,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "1bScCL-YHMU",
+          "title": "Baba Bageshwar Viral Dance : गुरू रामभद्राचार्य के सामने नाचे बाबा बागेश्वर | N18S #shorts",
+          "description": "Baba Bageshwar Viral Dance : गुरू रामभद्राचार्य के सामने नाचे बाबा बागेश्वर ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-17T04:53:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/1bScCL-YHMU/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-01-17T04:53:52Z"
+    },
     {
       "clusterId": "raipur-chhattisgarh",
       "topic": "RAIPUR Chhattisgarh",
       "videoCount": 15,
-      "trendScore": 45.4,
+      "trendScore": 45.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IyJ3gHKskW8/hqdefault.jpg",
           "durationSeconds": 1542,
           "durationFormatted": "25:42",
-          "views": 6678,
-          "likes": 164,
+          "views": 9530,
+          "likes": 202,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7myGOzgfVBg/hqdefault.jpg",
           "durationSeconds": 988,
           "durationFormatted": "16:28",
-          "views": 2027,
-          "likes": 32,
+          "views": 2993,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Du74h8CQxow/hqdefault.jpg",
           "durationSeconds": 948,
           "durationFormatted": "15:48",
-          "views": 1890,
-          "likes": 20,
+          "views": 2785,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ywur4HjwOCI/hqdefault.jpg",
           "durationSeconds": 948,
           "durationFormatted": "15:48",
-          "views": 1277,
+          "views": 2006,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -89,8 +173,8 @@
     {
       "clusterId": "bmc-seedhe",
       "topic": "BMC Seedhe",
-      "videoCount": 13,
-      "trendScore": 44.4,
+      "videoCount": 12,
+      "trendScore": 42.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pLIJVl9tNgY/hqdefault.jpg",
           "durationSeconds": 336,
           "durationFormatted": "05:36",
-          "views": 3649,
-          "likes": 81,
+          "views": 4455,
+          "likes": 88,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -117,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HpQbsGyuFyw/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 3638,
-          "likes": 26,
+          "views": 4192,
+          "likes": 30,
           "videoType": "LIVE",
           "genre": "Live"
         },
@@ -132,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H2wIuxlXcL0/hqdefault.jpg",
           "durationSeconds": 42673,
           "durationFormatted": "11:51:13",
-          "views": 2829,
+          "views": 3386,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,23 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/S0EqXkQH18k/hqdefault.jpg",
           "durationSeconds": 340,
           "durationFormatted": "05:40",
-          "views": 1744,
-          "likes": 45,
+          "views": 2907,
+          "likes": 58,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "-Z56q39gkFc",
-          "title": "Mumbai BMC Election 2026: Maharashtra में BJP का डंका, ठाकरे की वो गलती, जिसने छीन ली BMC की गद्दी।",
-          "description": "Mumbai BMC Election 2026: Maharashtra में बजा BJP का डंका, उद्धव ठाकरे की वो गलती, ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-17T02:29:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/-Z56q39gkFc/hqdefault.jpg",
-          "durationSeconds": 141,
-          "durationFormatted": "02:21",
-          "views": 1612,
-          "likes": 15,
+          "videoId": "UXQACeD2bCs",
+          "title": "Seedhe Mudde Ki Baat: मुंबई नगर निगम चुनाव कैसे जीती BJP ? | Mumbai BMC Election Results 2026",
+          "description": "Seedhe Mudde Ki Baat: मुंबई नगर निगम चुनाव कैसे जीती BJP ? | Mumbai BMC Election Results 2026 ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-16T15:02:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/UXQACeD2bCs/hqdefault.jpg",
+          "durationSeconds": 403,
+          "durationFormatted": "06:43",
+          "views": 1799,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -174,7 +258,7 @@
       "clusterId": "toilet-digital",
       "topic": "Toilet Digital",
       "videoCount": 6,
-      "trendScore": 36.8,
+      "trendScore": 36.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7CtnAGu-cFU/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 3275,
-          "likes": 149,
+          "views": 3439,
+          "likes": 159,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6CUV42p0OHU/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 1703,
-          "likes": 52,
+          "views": 1770,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -257,8 +341,8 @@
     {
       "clusterId": "behna-yojana",
       "topic": "Behna Yojana",
-      "videoCount": 9,
-      "trendScore": 34.9,
+      "videoCount": 8,
+      "trendScore": 33.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uPvTLerM6fI/hqdefault.jpg",
           "durationSeconds": 1313,
           "durationFormatted": "21:53",
-          "views": 3402,
-          "likes": 37,
+          "views": 3685,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -285,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CddEuO6PaD0/hqdefault.jpg",
           "durationSeconds": 243,
           "durationFormatted": "04:03",
-          "views": 1698,
-          "likes": 34,
+          "views": 2069,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -300,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GMRBX4ObQ6Q/hqdefault.jpg",
           "durationSeconds": 26161,
           "durationFormatted": "07:16:01",
-          "views": 1368,
+          "views": 1406,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,23 +399,23 @@
           "thumbnail": "https://i.ytimg.com/vi/c-C7tGTe2HE/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 756,
+          "views": 1060,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "x495M8bs0I8",
-          "title": "Ladli Behna Yojana 32 Installment: लाडली बहना योजना की 32वीं क‍िस्‍त CM Mohan ने की जारी | Breakin",
-          "description": "Ladli Behna Yojana 32 Installment: मुख्यमंत्री लाडली बहना योजना की 32वीं किस्त का ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-16T10:57:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/x495M8bs0I8/hqdefault.jpg",
-          "durationSeconds": 213,
-          "durationFormatted": "03:33",
-          "views": 401,
-          "likes": 4,
+          "videoId": "a1bkXsYMlV8",
+          "title": "Ladli Behna Yojana 32 Installment : CM Mohan लाडली बहना योजना की 32वीं क‍िस्‍त बस थोड़ी देर में |",
+          "description": "लाडली बहना योजना के पैसों में 250 रुपये की बढ़ोतरी की जा चुकी है और ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-16T09:10:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/a1bkXsYMlV8/hqdefault.jpg",
+          "durationSeconds": 475,
+          "durationFormatted": "07:55",
+          "views": 194,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -339,79 +423,10 @@
       "latestUpdateAt": "2026-01-16T20:18:44Z"
     },
     {
-      "clusterId": "rjn-धरमतरण",
-      "topic": "Rjn धर्मांतरण",
-      "videoCount": 4,
-      "trendScore": 34.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "xTXoPYzqLMM",
-          "title": "अवैध चर्च की आड़ में धर्मांतरण की होती थी प्लानिंग, आश्रम में नाबालिग भी, बच्चों को लेकर खुलासा। Rjn",
-          "description": "अवैध चर्च की आड़ में धर्मांतरण की होती थी प्लानिंग, आश्रम में ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-01-16T17:01:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/xTXoPYzqLMM/hqdefault.jpg",
-          "durationSeconds": 758,
-          "durationFormatted": "12:38",
-          "views": 2105,
-          "likes": 88,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "eWpLLeWNCPY",
-          "title": "धर्मांतरण गतिविधियों पर पुलिस का  शिकंजा #chhattisgarh #rajnandgaon #cgnews #ips #ankitasharma",
-          "description": "राजनांदगांव: धर्मांतरण गतिविधियों पर पुलिस का शिकंजा, धर्मापुर में ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-01-16T13:30:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/eWpLLeWNCPY/hqdefault.jpg",
-          "durationSeconds": 112,
-          "durationFormatted": "01:52",
-          "views": 322,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "dR-1p2J-JvM",
-          "title": "Rajnandgaon News: धर्मापुर कथित धर्मांतरण पर बड़ी कार्रवाई। Police ने संगठित गिरोह का किया पर्दाफाश",
-          "description": "IBC24, Rajnandgaon News, धर्मापुर कथित धर्मांतरण पर बड़ी कार्रवाई, Police ने ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-16T13:49:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/dR-1p2J-JvM/hqdefault.jpg",
-          "durationSeconds": 63,
-          "durationFormatted": "01:03",
-          "views": 119,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "zU5PNP6vQHQ",
-          "title": "Rajnandgaon News: धर्मापुर कथित धर्मांतरण पर बड़ी कार्रवाई। पुलिस ने संगठित गिरोह का किया पर्दाफाश",
-          "description": "IBC24, Rajnandgaon News: धर्मापुर कथित धर्मांतरण पर बड़ी कार्रवाई। पुलिस ने ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-16T18:29:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/zU5PNP6vQHQ/hqdefault.jpg",
-          "durationSeconds": 250,
-          "durationFormatted": "04:10",
-          "views": 87,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-01-16T18:29:11Z"
-    },
-    {
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
       "videoCount": 11,
-      "trendScore": 32.1,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -438,13 +453,28 @@
           "thumbnail": "https://i.ytimg.com/vi/OYedBsJR124/hqdefault.jpg",
           "durationSeconds": 14555,
           "durationFormatted": "04:02:35",
-          "views": 156,
+          "views": 158,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "QK4OEKXPae4",
+          "title": "अब 62 वर्ष की आयु में रिटायर होंगे सचिव। पंचायत सचिवों को CM Mohan Yadav की बड़ी सौगात। MP News",
+          "description": "IBC24, अब 62 वर्ष की आयु में रिटायर होंगे सचिव। पंचायत सचिवों को CM Mohan ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-16T19:31:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/QK4OEKXPae4/hqdefault.jpg",
+          "durationSeconds": 106,
+          "durationFormatted": "01:46",
+          "views": 93,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "nSkonSjG1yc",
           "title": "Bhopal से LIVE IPS सर्विस मीट में CM Mohan Yadav का संबोधन | India News MPCG",
           "description": "भोपाल में IPS सर्विस मीट का शुभारंभ किया गया, जहां मुख्यमंत्री डॉ.",
@@ -459,7 +489,7 @@
           "genre": "Events"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "2SfEp7F6nhg",
           "title": "MP Breaking: प्रदेश स्तरीय पंचायत सचिव सम्मेलन में CM Mohan Yadav का संबोधन | India News MPCG",
           "description": "भोपाल से LIVE प्रदेश स्तरीय पंचायत सचिव सम्मेलन का आयोजन दशहरा मैदान, ...",
@@ -472,21 +502,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "QK4OEKXPae4",
-          "title": "अब 62 वर्ष की आयु में रिटायर होंगे सचिव। पंचायत सचिवों को CM Mohan Yadav की बड़ी सौगात। MP News",
-          "description": "IBC24, अब 62 वर्ष की आयु में रिटायर होंगे सचिव। पंचायत सचिवों को CM Mohan ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-16T19:31:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/QK4OEKXPae4/hqdefault.jpg",
-          "durationSeconds": 106,
-          "durationFormatted": "01:46",
-          "views": 75,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-01-16T19:31:03Z"
@@ -495,7 +510,7 @@
       "clusterId": "bhilai-faizan",
       "topic": "Bhilai Faizan",
       "videoCount": 4,
-      "trendScore": 29.9,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WjPgJlVicnk/hqdefault.jpg",
           "durationSeconds": 354,
           "durationFormatted": "05:54",
-          "views": 7325,
+          "views": 7534,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ebARMJcvhAs/hqdefault.jpg",
           "durationSeconds": 720,
           "durationFormatted": "12:00",
-          "views": 874,
+          "views": 948,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3dGw82b7hmM/hqdefault.jpg",
           "durationSeconds": 642,
           "durationFormatted": "10:42",
-          "views": 749,
+          "views": 756,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,13 +567,82 @@
           "thumbnail": "https://i.ytimg.com/vi/ROiS6jGOQQc/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 170,
+          "views": 711,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Civic"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-01-17T03:30:32Z"
+    },
+    {
+      "clusterId": "gandhi-rahul",
+      "topic": "Gandhi Rahul",
+      "videoCount": 4,
+      "trendScore": 24.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "kZUIHfty_68",
+          "title": "Rahul Gandhi Indore Visit: आज Bhagirathpura में पीड़ितों से मिलेंगे राहुल | BJP ने बताया अनावश्यक",
+          "description": "IBC24, Rahul Gandhi Indore Visit: आज Bhagirathpura में पीड़ितों से मिलेंगे राहुल | BJP ने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-17T03:58:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/kZUIHfty_68/hqdefault.jpg",
+          "durationSeconds": 308,
+          "durationFormatted": "05:08",
+          "views": 210,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "fdq6VyXfVC0",
+          "title": "Rahul Gandhi Indore Visit:&#39;लाडली बहनों को कितना राशि दे रहे&#39;, Rahul Gandhi के इंदौर दौरे पर CM Mohan",
+          "description": "Rahul Gandhi Indore Visit:'लाडली बहनों को कितना राशि दे रहे', Rahul Gandhi के इंदौर दौरे ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-16T11:28:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/fdq6VyXfVC0/hqdefault.jpg",
+          "durationSeconds": 281,
+          "durationFormatted": "04:41",
+          "views": 174,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "SnrSdiv_3ic",
+          "title": "CM Mohan Yadav on Congress: Rahul Gandhi के Indore दौरे पर जमकर बरसे CM मोहन",
+          "description": "CM Mohan Yadav on Congress: Rahul Gandhi के Indore दौरे पर जमकर बरसे CM मोहन #cmmohanyadav ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-16T14:35:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/SnrSdiv_3ic/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 112,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "EAB2szMiMhY",
+          "title": "Rahul Gandhi Indore Visit: दूषित पानी कांड पर सियासत जारी, कल पीड़ित परिवारों से मिलेंगे राहुल Gandhi",
+          "description": "Rahul Gandhi Indore Visit: मध्य प्रदेश कांग्रेस प्रदेश अध्यक्ष जीतू पटवारी (Jitu ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-16T17:45:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/EAB2szMiMhY/hqdefault.jpg",
+          "durationSeconds": 392,
+          "durationFormatted": "06:32",
+          "views": 35,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-01-17T03:58:51Z"
     }
   ]
 }
