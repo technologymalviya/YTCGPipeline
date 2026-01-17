@@ -8,11 +8,13 @@ import json
 import os
 import logging
 import math
+import re
 import requests
 from datetime import datetime, timezone
-from typing import Dict, List, Any, Optional
+from typing import Dict, List, Any, Optional, Set, Tuple
 from functools import wraps
 from urllib.parse import urljoin
+from collections import defaultdict
 
 from flask import Flask, jsonify, request, send_file
 from flask_cors import CORS
@@ -291,34 +293,192 @@ def generate_cluster_title(videos: List[Dict[str, Any]], default_title: str = "U
     return default_title
 
 
+def normalize_text_for_clustering(text: str) -> str:
+    """Normalize text for similarity comparison."""
+    if not text:
+        return ""
+    # Convert to lowercase
+    text = text.lower()
+    # Remove special characters but keep spaces
+    text = re.sub(r'[^\w\s]', ' ', text)
+    # Remove extra whitespace
+    text = ' '.join(text.split())
+    return text
+
+
+def extract_significant_words(text: str) -> Set[str]:
+    """
+    Extract significant words from text for similarity comparison.
+    Filters out stop words and short words.
+    """
+    if not text:
+        return set()
+    
+    normalized = normalize_text_for_clustering(text)
+    
+    # Common stop words to filter out
+    stop_words = {
+        'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
+        'of', 'with', 'by', 'from', 'up', 'about', 'into', 'through', 'during',
+        'video', 'news', 'live', 'latest', 'breaking', 'today', 'update', 'hindi',
+        'exclusive', 'full', 'new', 'big', 'mp', 'cg', 'india', 'news18', 'ndtv',
+        'ibc24', 'breaking', 'top', 'news', 'latest', 'update', 'live', 'today',
+        'में', 'को', 'की', 'का', 'के', 'से', 'ने', 'है', 'हैं', 'था', 'थी',
+        'पर', 'और', 'या', 'बड़ा', 'मध्य', 'प्रदेश', 'madhya', 'pradesh'
+    }
+    
+    words = normalized.split()
+    # Filter: min 3 chars, not stop word, not all digits
+    significant = {
+        word for word in words
+        if len(word) >= 3 and word not in stop_words and not word.isdigit()
+    }
+    
+    return significant
+
+
+def calculate_text_similarity(text1: str, text2: str) -> float:
+    """
+    Calculate Jaccard similarity between two texts based on significant words.
+    Returns a value between 0.0 (no similarity) and 1.0 (identical).
+    """
+    words1 = extract_significant_words(text1)
+    words2 = extract_significant_words(text2)
+    
+    if not words1 or not words2:
+        return 0.0
+    
+    # Jaccard similarity: intersection / union
+    intersection = len(words1 & words2)
+    union = len(words1 | words2)
+    
+    if union == 0:
+        return 0.0
+    
+    return intersection / union
+
+
+def group_similar_videos(videos: List[Dict[str, Any]], similarity_threshold: float = 0.3, min_cluster_size: int = 4) -> List[List[Dict[str, Any]]]:
+    """
+    Group videos into clusters based on content similarity.
+    
+    Uses a greedy clustering approach with transitive similarity:
+    1. For each video, find all videos with similarity >= threshold
+    2. Merge clusters that have overlapping videos (transitive closure)
+    3. Only keep clusters with at least min_cluster_size videos
+    
+    Args:
+        videos: List of video dictionaries with 'title' and optionally 'description'
+        similarity_threshold: Minimum similarity (0.0-1.0) to consider videos similar
+        min_cluster_size: Minimum number of videos required to form a cluster
+    
+    Returns:
+        List of video clusters (each cluster is a list of videos)
+    """
+    if not videos:
+        return []
+    
+    logger.info(f"Grouping {len(videos)} videos into similar clusters (threshold={similarity_threshold}, min_size={min_cluster_size})")
+    
+    # Combine title and description for comparison
+    video_texts = []
+    for video in videos:
+        title = video.get('title', '')
+        description = video.get('description', '')
+        combined_text = f"{title} {description}".strip()
+        video_texts.append(combined_text)
+    
+    # Build similarity graph: for each video, find all similar videos
+    similarity_graph = defaultdict(set)
+    for i in range(len(videos)):
+        for j in range(i + 1, len(videos)):
+            similarity = calculate_text_similarity(video_texts[i], video_texts[j])
+            if similarity >= similarity_threshold:
+                similarity_graph[i].add(j)
+                similarity_graph[j].add(i)
+    
+    # Find connected components using BFS (transitive similarity)
+    visited = set()
+    components = []
+    
+    def bfs(start_idx):
+        """Find all connected videos starting from start_idx."""
+        component = set()
+        queue = [start_idx]
+        visited.add(start_idx)
+        component.add(start_idx)
+        
+        while queue:
+            current = queue.pop(0)
+            for neighbor in similarity_graph.get(current, set()):
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    component.add(neighbor)
+                    queue.append(neighbor)
+        
+        return component
+    
+    # Find all connected components
+    for i in range(len(videos)):
+        if i not in visited:
+            component = bfs(i)
+            if len(component) >= min_cluster_size:
+                cluster_videos = [videos[idx] for idx in component]
+                components.append(cluster_videos)
+                logger.debug(f"Created cluster with {len(cluster_videos)} similar videos (similarity >= {similarity_threshold})")
+    
+    logger.info(f"Created {len(components)} clusters from {len(videos)} videos (min_size={min_cluster_size})")
+    return components
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
-    Extract clusters from output.json and calculate trending metrics.
+    Extract clusters from output.json based on content similarity.
     
-    Each section in the output.json represents a cluster/topic.
+    Groups similar videos across all sections and only creates clusters
+    with 4+ similar videos.
     """
     if cache['clusters'] and cache['data'] == data:
         logger.debug("Returning cached clusters")
         return cache['clusters']
     
     clusters = []
+    
+    # Collect all videos from all sections
+    all_videos = []
     sections = data.get('sections', [])
     
     for section in sections:
-        section_name = section.get('section', 'Unknown')
         items = section.get('items', [])
-        
-        if not items:  # Skip empty sections
+        all_videos.extend(items)
+    
+    if not all_videos:
+        logger.info("No videos found in data")
+        return []
+    
+    logger.info(f"Processing {len(all_videos)} total videos for content-based clustering")
+    
+    # Group similar videos (only clusters with 4+ videos)
+    video_clusters = group_similar_videos(all_videos, similarity_threshold=0.3, min_cluster_size=4)
+    
+    # Create cluster objects for each similar video group
+    for cluster_idx, items in enumerate(video_clusters):
+        if len(items) < 4:  # Skip clusters with less than 4 videos
             continue
         
-        # Generate cluster ID from section name
-        cluster_id = section_name.lower().replace(' ', '-')
-        
         # Auto-generate cluster title from video content
-        generated_title = generate_cluster_title(items, section_name)
+        generated_title = generate_cluster_title(items, "Unknown")
+        
+        # Generate cluster ID from title
+        cluster_id = re.sub(r'[^\w\s-]', '', generated_title.lower())
+        cluster_id = re.sub(r'[-\s]+', '-', cluster_id).strip('-')
+        if not cluster_id:
+            cluster_id = f"cluster-{cluster_idx + 1}"
         
         # Calculate trend score
-        trend_score = calculate_trend_score(section, items)
+        # Create a dummy section for compatibility
+        dummy_section = {'section': generated_title}
+        trend_score = calculate_trend_score(dummy_section, items)
         
         # Find latest update time
         latest_update = None
@@ -340,10 +500,14 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
         trending_velocity = round(total_views / len(items), 1) if items else 0
         
+        # Determine most common genre from items
+        genres = [v.get('genre', 'General') for v in items]
+        most_common_genre = max(set(genres), key=genres.count) if genres else 'General'
+        
         cluster = {
             'clusterId': cluster_id,
             'topic': generated_title,
-            'originalCategory': section_name,
+            'originalCategory': most_common_genre,
             'videoCount': len(items),
             'trendScore': trend_score,
             'latestUpdateAt': latest_update_str,
@@ -359,7 +523,7 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     # Cache the clusters
     cache['clusters'] = clusters
     
-    logger.info(f"Extracted {len(clusters)} clusters")
+    logger.info(f"Extracted {len(clusters)} clusters (all with 4+ similar videos)")
     return clusters
 
 
