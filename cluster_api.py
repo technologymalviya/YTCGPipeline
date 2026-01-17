@@ -213,8 +213,10 @@ def generate_cluster_title(videos: List[Dict[str, Any]], default_title: str = "U
         words = title.replace('|', ' ').replace(':', ' ').replace('-', ' ').replace('...', ' ').split()
         
         for word in words:
-            # Remove punctuation but keep the word
+            # Remove punctuation and hashtags but keep the word
             cleaned = word.strip('.,!?;()[]{}"\'-')
+            # Remove # from beginning of word (hashtags)
+            cleaned = cleaned.lstrip('#')
             if not cleaned:
                 continue
             
@@ -287,6 +289,8 @@ def generate_cluster_title(videos: List[Dict[str, Any]], default_title: str = "U
     if top_words:
         # Create short, news-style headline (2-3 words max)
         generated_title = ' '.join(top_words[:3])
+        # Remove any remaining # characters (shouldn't happen, but safety check)
+        generated_title = generated_title.replace('#', '')
         logger.debug(f"Generated headline: '{generated_title}' from {len(videos)} videos")
         return generated_title
     
