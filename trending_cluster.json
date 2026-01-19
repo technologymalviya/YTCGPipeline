@@ -1,12 +1,96 @@
 {
-  "generatedAt": "2026-01-19T09:58:36.946267Z",
+  "generatedAt": "2026-01-19T11:03:24.413659Z",
   "clusterCount": 8,
   "clusters": [
+    {
+      "clusterId": "naxal-surrender",
+      "topic": "Naxal Surrender",
+      "videoCount": 9,
+      "trendScore": 42.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "YqK1RvNX7-k",
+          "title": "Naxalites Surrender : Gariyaband में 9 नक्सलियों ने किया सरेंडर | Naxal | Bastar | CG News",
+          "description": "Naxalites Surrender : Gariyaband में 9 नक्सलियों ने किया सरेंडर | Naxal | Bastar | CG News NDTV ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-19T09:26:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/YqK1RvNX7-k/hqdefault.jpg",
+          "durationSeconds": 21,
+          "durationFormatted": "00:21",
+          "views": 3488,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "UwLwoD2Zivs",
+          "title": "Naxalites Surrender : Jagdalpur में चार इनामी नक्सलियों ने किया सरेंडर | Naxal | Breaking News",
+          "description": "Naxalites Surrender : Jagdalpur में चार इनामी नक्सलियों ने किया सरेंडर | Naxal | Breaking ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-19T08:58:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/UwLwoD2Zivs/hqdefault.jpg",
+          "durationSeconds": 44,
+          "durationFormatted": "00:44",
+          "views": 1719,
+          "likes": 25,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "zoQChfcvawc",
+          "title": "Naxalites Surrender : Gariyaband में 6 महिला नक्सलियों समेत 9 का सरेंडर | Naxal | Bastar | CG News",
+          "description": "Naxalites Surrender : Gariyaband में 6 महिला नक्सलियों समेत 9 का सरेंडर | Naxal | Bastar | CG ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-19T08:24:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/zoQChfcvawc/hqdefault.jpg",
+          "durationSeconds": 244,
+          "durationFormatted": "04:04",
+          "views": 1344,
+          "likes": 33,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "QCZYhzUxGoM",
+          "title": "Naxalites Surrender: Gariyaband में नक्सलियों का बड़ा सरेंडर 6 महिलाओं समेत 9 ने डाले हथियार | Naxal",
+          "description": "Naxalites Surrender: Gariyaband में नक्सलियों का बड़ा सरेंडर 6 महिलाओं समेत 9 ने ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-19T09:33:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/QCZYhzUxGoM/hqdefault.jpg",
+          "durationSeconds": 220,
+          "durationFormatted": "03:40",
+          "views": 465,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "RoBYfqQyFUk",
+          "title": "Gariyaband Naxal Surrender : गरियाबंद में 6 महिला और 3 पुरुष समेत 9 नक्सलियों ने किया सरेंडर | Top",
+          "description": "Gariyaband Naxal Surrender : गरियाबंद में 6 महिला और 3 पुरुष समेत 9 नक्सलियों ने ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-19T08:23:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/RoBYfqQyFUk/hqdefault.jpg",
+          "durationSeconds": 166,
+          "durationFormatted": "02:46",
+          "views": 336,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-01-19T10:34:22Z"
+    },
     {
       "clusterId": "shorts-viral",
       "topic": "Shorts Viral",
       "videoCount": 6,
-      "trendScore": 40.4,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0_3Z3D23-tM/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 30999,
-          "likes": 126,
+          "views": 46001,
+          "likes": 153,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/SCcnCIGqmCQ/hqdefault.jpg",
           "durationSeconds": 5,
           "durationFormatted": "00:05",
-          "views": 11025,
-          "likes": 84,
+          "views": 15400,
+          "likes": 100,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "E5yTeT6_blM",
-          "title": "CM Yogi Viral Video: इस छोटे बच्चे को क्या हुई समस्या, पहुंचा CM योगी के &#39;जनता दर्शन&#39; ?shorts | N18S",
-          "description": "CM Yogi Viral Video : इस छोटे बच्चे को क्या हुई समस्या, पहुंचा CM योगी के 'जनता ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-19T07:05:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/E5yTeT6_blM/hqdefault.jpg",
-          "durationSeconds": 173,
-          "durationFormatted": "02:53",
-          "views": 2173,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "hePeTxDWIzU",
           "title": "Gariyaband में सुरक्षाबलों को मिली सफलता, 9 नक्सलियों ने हथियारों के साथ किया सरेंडर shorts | N18S",
           "description": "Gariyaband में सुरक्षाबलों को मिली बड़ी सफलता, 9 नक्सलियों ने हथियारों ...",
@@ -63,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/hePeTxDWIzU/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 1835,
-          "likes": 7,
+          "views": 3012,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "tyXyzqkTGWg",
+          "title": "Bhopal Viral Video :  पूर्व विधायक आरडी प्रजापति का कथावाचकों को लेकर विवादित बोल | shorts | N18S",
+          "description": "Bhopal Viral Video : पूर्व विधायक आरडी प्रजापति का कथावाचकों को लेकर विवादित ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-19T09:33:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/tyXyzqkTGWg/hqdefault.jpg",
+          "durationSeconds": 97,
+          "durationFormatted": "01:37",
+          "views": 1668,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -78,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/d0HSo_vq94I/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 1029,
+          "views": 1087,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-19T09:33:36Z"
+      "latestUpdateAt": "2026-01-19T10:53:20Z"
     },
     {
       "clusterId": "raipur-chhattisgarh",
       "topic": "Raipur Chhattisgarh",
       "videoCount": 9,
-      "trendScore": 39.6,
+      "trendScore": 39.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/i-fzVZjmEWg/hqdefault.jpg",
           "durationSeconds": 844,
           "durationFormatted": "14:04",
-          "views": 13872,
-          "likes": 112,
+          "views": 15355,
+          "likes": 116,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/x-VvnU5RZ8Q/hqdefault.jpg",
           "durationSeconds": 1559,
           "durationFormatted": "25:59",
-          "views": 12919,
-          "likes": 250,
+          "views": 13858,
+          "likes": 252,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bD2wZleBjyg/hqdefault.jpg",
           "durationSeconds": 1098,
           "durationFormatted": "18:18",
-          "views": 9236,
+          "views": 9450,
           "likes": 39,
           "videoType": "VOD",
           "genre": "General"
@@ -147,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IOqXVpCcG6w/hqdefault.jpg",
           "durationSeconds": 947,
           "durationFormatted": "15:47",
-          "views": 3677,
-          "likes": 13,
+          "views": 4002,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LlaI6mrj81U/hqdefault.jpg",
           "durationSeconds": 871,
           "durationFormatted": "14:31",
-          "views": 1661,
+          "views": 1762,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -171,127 +255,28 @@
       "latestUpdateAt": "2026-01-19T09:09:18Z"
     },
     {
-      "clusterId": "surrender-naxal",
-      "topic": "Surrender Naxal",
-      "videoCount": 7,
-      "trendScore": 39.3,
+      "clusterId": "bjp-nitin",
+      "topic": "BJP Nitin",
+      "videoCount": 10,
+      "trendScore": 39.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "YqK1RvNX7-k",
-          "title": "Naxalites Surrender : Gariyaband में 9 नक्सलियों ने किया सरेंडर | Naxal | Bastar | CG News",
-          "description": "Naxalites Surrender : Gariyaband में 9 नक्सलियों ने किया सरेंडर | Naxal | Bastar | CG News NDTV ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-19T09:26:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/YqK1RvNX7-k/hqdefault.jpg",
-          "durationSeconds": 21,
-          "durationFormatted": "00:21",
-          "views": 3387,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "UwLwoD2Zivs",
-          "title": "Naxalites Surrender : Jagdalpur में चार इनामी नक्सलियों ने किया सरेंडर | Naxal | Breaking News",
-          "description": "Naxalites Surrender : Jagdalpur में चार इनामी नक्सलियों ने किया सरेंडर | Naxal | Breaking ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-19T08:58:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/UwLwoD2Zivs/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 1160,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "zoQChfcvawc",
-          "title": "Naxalites Surrender : Gariyaband में 6 महिला नक्सलियों समेत 9 का सरेंडर | Naxal | Bastar | CG News",
-          "description": "Naxalites Surrender : Gariyaband में 6 महिला नक्सलियों समेत 9 का सरेंडर | Naxal | Bastar | CG ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-19T08:24:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/zoQChfcvawc/hqdefault.jpg",
-          "durationSeconds": 244,
-          "durationFormatted": "04:04",
-          "views": 775,
-          "likes": 29,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "OFrNT2z8Auc",
-          "title": "Naxalites Surrender : Jagdalpur में 55 Lakh के चार इनामी नक्सलियों ने किया समर्पण | Naxal | CG News",
-          "description": "Bastar News: छत्तीसगढ़ के जगदलपुर में नक्सल मोर्चे पर बड़ी सफलता सामने ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-19T09:09:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/OFrNT2z8Auc/hqdefault.jpg",
-          "durationSeconds": 181,
-          "durationFormatted": "03:01",
-          "views": 223,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "RoBYfqQyFUk",
-          "title": "Gariyaband Naxal Surrender : गरियाबंद में 6 महिला और 3 पुरुष समेत 9 नक्सलियों ने किया सरेंडर | Top",
-          "description": "Gariyaband Naxal Surrender : गरियाबंद में 6 महिला और 3 पुरुष समेत 9 नक्सलियों ने ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-19T08:23:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/RoBYfqQyFUk/hqdefault.jpg",
-          "durationSeconds": 166,
-          "durationFormatted": "02:46",
-          "views": 206,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-01-19T09:33:30Z"
-    },
-    {
-      "clusterId": "bjp-national",
-      "topic": "BJP National",
-      "videoCount": 9,
-      "trendScore": 39.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "KYI1rdnUjmo",
-          "title": "BJP National President Election: MP के CM समेत ये 20 BJP नेता बनेंगे अध्यक्ष के समर्थक प्रस्तावक|Top",
-          "description": "BJP National President Election : नितिन नबीन आज करेंगे नामांकन, 20 जनवरी को होगा ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-19T07:42:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/KYI1rdnUjmo/hqdefault.jpg",
-          "durationSeconds": 210,
-          "durationFormatted": "03:30",
-          "views": 751,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "tNdY4i_yvTU",
           "title": "BJP National President Election : नितिन नबीन के हाथ में BJP की बागडोर! आज नामांकन..कल ऐलान |Top news",
           "description": "BJP National President Election : नितिन नबीन आज करेंगे नामांकन, 20 जनवरी को होगा ...",
           "channelTitle": "News18 MP Chhattisgarh",
           "publishedAt": "2026-01-19T09:38:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/tNdY4i_yvTU/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 465,
-          "likes": 6,
-          "videoType": "LIVE",
-          "genre": "Live"
+          "thumbnail": "https://i.ytimg.com/vi/tNdY4i_yvTU/hqdefault.jpg",
+          "durationSeconds": 1450,
+          "durationFormatted": "24:10",
+          "views": 1087,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "YKLpMIbj7Cg",
           "title": "BJP National President Election : Nitin Nabin का नामांकन LIVE  | BJP शासित राज्यों के CM मौजूद",
           "description": "IBC24, BJP National President Election : Nitin Nabin का नामांकन LIVE | BJP शासित राज्यों के CM ...",
@@ -300,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/YKLpMIbj7Cg/hqdefault.jpg",
           "durationSeconds": 369,
           "durationFormatted": "06:09",
-          "views": 313,
+          "views": 783,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "tCu2uuQLjDQ",
           "title": "Nitin Nabin Nomination : नितिन नबीन के नामांकन के लिए MP-CG के CM पहुंचे BJP Headquarter | Delhi",
           "description": "Nitin Nabin Nomination : नितिन नबीन के नामांकन के लिए MP-CG के CM पहुंचे BJP Headquarter ...",
@@ -315,13 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tCu2uuQLjDQ/hqdefault.jpg",
           "durationSeconds": 262,
           "durationFormatted": "04:22",
-          "views": 71,
+          "views": 112,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "56qJEVxewrM",
           "title": "Nitin Nabin Nomination : नितिन नबीन अध्यक्ष होंगे, क्या बदलेगा BJP में? | Delhi | Political Update",
           "description": "Nitin Nabin Nomination : नितिन नबीन अध्यक्ष होंगे, क्या बदलेगा BJP में? | Delhi | Political ...",
@@ -330,19 +315,34 @@
           "thumbnail": "https://i.ytimg.com/vi/56qJEVxewrM/hqdefault.jpg",
           "durationSeconds": 676,
           "durationFormatted": "11:16",
-          "views": 35,
+          "views": 88,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "XXeul1solPQ",
+          "title": "BJP President LIVE: ताजपोशी का काउंटडाउन शुरू राष्ट्रीय अध्यक्ष बनेंगे Nitin Nabin! | JP Nadda | PM",
+          "description": "BJP President LIVE: ताजपोशी का काउंटडाउन शुरू राष्ट्रीय अध्यक्ष बनेंगे Nitin ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-19T09:13:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/XXeul1solPQ/hqdefault.jpg",
+          "durationSeconds": 19035,
+          "durationFormatted": "05:17:15",
+          "views": 84,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-19T09:38:06Z"
+      "latestUpdateAt": "2026-01-19T10:18:43Z"
     },
     {
       "clusterId": "bhaskar-dog",
       "topic": "Bhaskar Dog",
-      "videoCount": 10,
-      "trendScore": 38.6,
+      "videoCount": 9,
+      "trendScore": 38.2,
       "topVideos": [
         {
           "index": 1,
@@ -376,21 +376,6 @@
         },
         {
           "index": 3,
-          "videoId": "1u6FYFtc9dI",
-          "title": "रायपुर की सबसे साफ सड़क!",
-          "description": "रायपुर की सबसे साफ सड़क! Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-18T13:03:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/1u6FYFtc9dI/hqdefault.jpg",
-          "durationSeconds": 98,
-          "durationFormatted": "01:38",
-          "views": 1132,
-          "likes": 33,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "xUtD97kId4E",
           "title": "छत्तीसगढ़िया अंगाकर रोटी भिलाई में भी? | CG Bhaskar",
           "description": "छत्तीसगढ़िया अंगाकर रोटी भिलाई में भी? | CG Bhaskar Join our Whatsapp Group ...",
@@ -399,34 +384,49 @@
           "thumbnail": "https://i.ytimg.com/vi/xUtD97kId4E/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 1018,
-          "likes": 63,
+          "views": 1182,
+          "likes": 64,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "1u6FYFtc9dI",
+          "title": "रायपुर की सबसे साफ सड़क!",
+          "description": "रायपुर की सबसे साफ सड़क! Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-18T13:03:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/1u6FYFtc9dI/hqdefault.jpg",
+          "durationSeconds": 98,
+          "durationFormatted": "01:38",
+          "views": 1141,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "db1kcf2A-rg",
-          "title": "नुक्कड़ नाटक कर महिलाओं ने बताए ट्रैफिक नियम",
-          "description": "नुक्कड़ नाटक कर महिलाओं ने बताए ट्रैफिक नियम Join our Whatsapp Group ...",
+          "videoId": "tHek7IFUIqQ",
+          "title": "मिलिए Cute Bruno से | CG Bhaskar",
+          "description": "मिलिए Cute Bruno से | CG Bhaskar Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-18T10:00:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/db1kcf2A-rg/hqdefault.jpg",
-          "durationSeconds": 166,
-          "durationFormatted": "02:46",
-          "views": 835,
-          "likes": 31,
+          "publishedAt": "2026-01-18T13:31:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/tHek7IFUIqQ/hqdefault.jpg",
+          "durationSeconds": 153,
+          "durationFormatted": "02:33",
+          "views": 371,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-19T09:15:03Z"
+      "latestUpdateAt": "2026-01-19T10:42:12Z"
     },
     {
       "clusterId": "shorts-ytshorts",
       "topic": "shorts ytshorts",
       "videoCount": 5,
-      "trendScore": 35.5,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/i5WoxCT2Zn0/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 4119,
+          "views": 5129,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fK-N2bTaY5o/hqdefault.jpg",
           "durationSeconds": 17,
           "durationFormatted": "00:17",
-          "views": 1845,
+          "views": 2179,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YaQIS8Ek_wc/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 1395,
+          "views": 1967,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f590fe9e7PE/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 713,
+          "views": 921,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "bjp-bjppresident",
       "topic": "BJP bjppresident",
       "videoCount": 5,
-      "trendScore": 34.0,
+      "trendScore": 33.9,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aQtRix-29uA/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 1219,
+          "views": 1524,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -552,8 +552,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OEOH5QJsDis/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 128,
-          "likes": 0,
+          "views": 226,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -567,8 +567,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CCU_ijjwnyU/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 72,
-          "likes": 0,
+          "views": 208,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -582,8 +582,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wJ53eMvZDZo/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 6,
-          "likes": 0,
+          "views": 92,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -593,41 +593,11 @@
     {
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
-      "videoCount": 9,
-      "trendScore": 32.6,
+      "videoCount": 10,
+      "trendScore": 33.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "_E8-BAesJCs",
-          "title": "Vidisha News : गड्ढे वाली सड़कों को लेकर Shivraj परेशान, CM Mohan से मांगी राशि | India News MPCG",
-          "description": "विदिशा के खराब सड़कों को लेकर केंद्रीय मंत्री शिवराज सिंह चौहान का ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-18T11:36:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/_E8-BAesJCs/hqdefault.jpg",
-          "durationSeconds": 146,
-          "durationFormatted": "02:26",
-          "views": 84,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "QCA38JrW8Pw",
-          "title": "CM Dr Mohan Yadav का दिल्ली विश्वविद्यालय में LIVE संबोधन | India News MPCG",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव दिल्ली विश्वविद्यालय में आयोजित ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-19T08:39:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/QCA38JrW8Pw/hqdefault.jpg",
-          "durationSeconds": 1066,
-          "durationFormatted": "17:46",
-          "views": 76,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "YqMddm4qP9Q",
           "title": "CM Mohan Yadav Delhi Visit : दिल्ली दौरे पर CM Mohan Yadav ने कर दिया एक और बड़ा ऐलान | Top News |MP",
           "description": "CM Mohan Yadav Delhi Visit : दिल्ली दौरे पर CM Mohan Yadav ने कर दिया एक और बड़ा ऐलान ...",
@@ -636,7 +606,37 @@
           "thumbnail": "https://i.ytimg.com/vi/YqMddm4qP9Q/hqdefault.jpg",
           "durationSeconds": 209,
           "durationFormatted": "03:29",
-          "views": 49,
+          "views": 113,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "_E8-BAesJCs",
+          "title": "Vidisha News : गड्ढे वाली सड़कों को लेकर Shivraj परेशान, CM Mohan से मांगी राशि | India News MPCG",
+          "description": "विदिशा के खराब सड़कों को लेकर केंद्रीय मंत्री शिवराज सिंह चौहान का ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-18T11:36:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/_E8-BAesJCs/hqdefault.jpg",
+          "durationSeconds": 146,
+          "durationFormatted": "02:26",
+          "views": 97,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "QCA38JrW8Pw",
+          "title": "CM Dr Mohan Yadav का दिल्ली विश्वविद्यालय में LIVE संबोधन | India News MPCG",
+          "description": "मुख्यमंत्री डॉ. मोहन यादव दिल्ली विश्वविद्यालय में आयोजित ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-19T08:39:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/QCA38JrW8Pw/hqdefault.jpg",
+          "durationSeconds": 1066,
+          "durationFormatted": "17:46",
+          "views": 78,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -651,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jOuADR9oUec/hqdefault.jpg",
           "durationSeconds": 563,
           "durationFormatted": "09:23",
-          "views": 47,
+          "views": 55,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -666,13 +666,13 @@
           "thumbnail": "https://i.ytimg.com/vi/PwYb2vSjQc0/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 27,
+          "views": 34,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-19T09:22:37Z"
+      "latestUpdateAt": "2026-01-19T10:48:07Z"
     }
   ]
 }
