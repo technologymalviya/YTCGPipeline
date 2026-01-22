@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-22T17:52:55.131862Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-01-22T19:37:21.033906Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
-      "videoCount": 16,
-      "trendScore": 50.3,
+      "videoCount": 19,
+      "trendScore": 53.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_kfRWW_8bP8/hqdefault.jpg",
           "durationSeconds": 1509,
           "durationFormatted": "25:09",
-          "views": 20741,
+          "views": 21487,
           "likes": 257,
           "videoType": "VOD",
           "genre": "General"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-dioD6bXUG8/hqdefault.jpg",
           "durationSeconds": 936,
           "durationFormatted": "15:36",
-          "views": 14792,
+          "views": 15078,
           "likes": 252,
           "videoType": "VOD",
           "genre": "General"
@@ -41,14 +41,14 @@
         {
           "index": 3,
           "videoId": "awfR47l9GV0",
-          "title": "22 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "23 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "22 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-01-21T23:30:02Z",
           "thumbnail": "https://i.ytimg.com/vi/awfR47l9GV0/hqdefault.jpg",
           "durationSeconds": 947,
           "durationFormatted": "15:47",
-          "views": 10780,
+          "views": 11144,
           "likes": 43,
           "videoType": "VOD",
           "genre": "General"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4ZDYKIRR1qk/hqdefault.jpg",
           "durationSeconds": 216,
           "durationFormatted": "03:36",
-          "views": 6732,
-          "likes": 137,
+          "views": 8045,
+          "likes": 138,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,88 @@
           "thumbnail": "https://i.ytimg.com/vi/r3gLXAqTRoE/hqdefault.jpg",
           "durationSeconds": 186,
           "durationFormatted": "03:06",
-          "views": 3696,
-          "likes": 67,
+          "views": 5663,
+          "likes": 68,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-01-22T17:36:46Z"
+      "latestUpdateAt": "2026-01-22T19:28:52Z"
+    },
+    {
+      "clusterId": "viral-n18s",
+      "topic": "Viral N18S",
+      "videoCount": 4,
+      "trendScore": 39.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "TMieos1hK9U",
+          "title": "Nishant Kumar Viral Video : नीतीश के बेटे निशांत की राजनीति में एंट्री! | N18S | Shorts",
+          "description": "Nishant Kumar Viral Video : नीतीश के बेटे निशांत की राजनीति में एंट्री! | N18S | Shorts For ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T15:22:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/TMieos1hK9U/hqdefault.jpg",
+          "durationSeconds": 11,
+          "durationFormatted": "00:11",
+          "views": 14902,
+          "likes": 69,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "L5iMbr3ihzk",
+          "title": "Viral Video : शिवलिंग से लिपटकर बैठा रहा सांप | N18S | Shorts",
+          "description": "Viral Video : शिवलिंग से लिपटकर बैठा रहा सांप | N18S | Shorts For all the latest news from Madhya ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T15:43:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/L5iMbr3ihzk/hqdefault.jpg",
+          "durationSeconds": 39,
+          "durationFormatted": "00:39",
+          "views": 12735,
+          "likes": 167,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "10_rK02CBAw",
+          "title": "Baba Mahakal Viral Video : भगवान श्री महाकालेश्वर जी का संध्या काल आरती श्रृंगार दर्शन | N18S",
+          "description": "Baba Mahakal Viral Video : भगवान श्री महाकालेश्वर जी का संध्या काल आरती ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T15:00:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/10_rK02CBAw/hqdefault.jpg",
+          "durationSeconds": 33,
+          "durationFormatted": "00:33",
+          "views": 7837,
+          "likes": 213,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "5c8CiZENuag",
+          "title": "Omkareshwar Viral Video : ओंकारेश्वर भगवान के सायंकालीन दर्शन | N18S",
+          "description": "Omkareshwar Viral Video : ओंकारेश्वर भगवान के सायंकालीन दर्शन | N18S For all the latest news ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T18:00:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/5c8CiZENuag/hqdefault.jpg",
+          "durationSeconds": 91,
+          "durationFormatted": "01:31",
+          "views": 1592,
+          "likes": 61,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-22T18:00:46Z"
     },
     {
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
-      "videoCount": 13,
-      "trendScore": 48.5,
+      "videoCount": 4,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +171,13 @@
           "thumbnail": "https://i.ytimg.com/vi/nA6SpIEPZFs/hqdefault.jpg",
           "durationSeconds": 274,
           "durationFormatted": "04:34",
-          "views": 717,
-          "likes": 41,
+          "views": 1292,
+          "likes": 59,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "_IYT88IVWhg",
-          "title": "Seedhe Mudde Ki Baat : भोजशाला में नमाज और पूजा एकसाथ कैसे होगी ? | Dhar Bhojshala Controversy | MP",
-          "description": "Seedhe Mudde Ki Baat : भोजशाला में नमाज और पूजा एकसाथ कैसे होगी ? | Dhar Bhojshala ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-22T15:13:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/_IYT88IVWhg/hqdefault.jpg",
-          "durationSeconds": 646,
-          "durationFormatted": "10:46",
-          "views": 578,
-          "likes": 18,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
           "videoId": "4rktfGwp0aE",
           "title": "Seedhe Mudde Ki Baat: Chhattisgarh में 5000 शिक्षकों को नौकरी मिलेगी, आदेश जारी | Breaking News",
           "description": "Seedhe Mudde Ki Baat: Chhattisgarh में 5000 शिक्षकों को नौकरी मिलेगी, आदेश जारी | Breaking ...",
@@ -132,28 +186,28 @@
           "thumbnail": "https://i.ytimg.com/vi/4rktfGwp0aE/hqdefault.jpg",
           "durationSeconds": 221,
           "durationFormatted": "03:41",
-          "views": 317,
-          "likes": 13,
+          "views": 478,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
-          "index": 4,
-          "videoId": "OJmjODrSWUY",
-          "title": "Seedhe Mudde Ki Baat: भारत को आंख दिखाने वाले बांग्लादेश को बाहर कर दिया | T20 World Cup| Bangladesh",
-          "description": "Seedhe Mudde Ki Baat: भारत को आंख दिखाने वाले बांग्लादेश को बाहर कर दिया | T20 ...",
+          "index": 3,
+          "videoId": "MvH1ibKpGcA",
+          "title": "Seedhe Mudde Ki Baat : रायपुर में मैच से पहले क्या माहौल है? | India Vs New Zealand | T-20 Match",
+          "description": "Seedhe Mudde Ki Baat : रायपुर में मैच से पहले क्या माहौल है? | India Vs New Zealand | T-20 ...",
           "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-22T15:04:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/OJmjODrSWUY/hqdefault.jpg",
-          "durationSeconds": 461,
-          "durationFormatted": "07:41",
-          "views": 184,
-          "likes": 7,
+          "publishedAt": "2026-01-22T16:06:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/MvH1ibKpGcA/hqdefault.jpg",
+          "durationSeconds": 132,
+          "durationFormatted": "02:12",
+          "views": 152,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "U0Iz8BoVpY0",
           "title": "Seedhe Mudde Ki Baat : जिसकी मौत हुई उसे मंडल अध्यक्ष क्यों बनाया? | CG Politics",
           "description": "Seedhe Mudde Ki Baat : जिसकी मौत हुई उसे मंडल अध्यक्ष क्यों बनाया? | CG Politics ...",
@@ -162,19 +216,103 @@
           "thumbnail": "https://i.ytimg.com/vi/U0Iz8BoVpY0/hqdefault.jpg",
           "durationSeconds": 281,
           "durationFormatted": "04:41",
-          "views": 114,
+          "views": 135,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-22T17:22:51Z"
+      "latestUpdateAt": "2026-01-22T16:06:34Z"
+    },
+    {
+      "clusterId": "dhar-bhojshala",
+      "topic": "Dhar Bhojshala",
+      "videoCount": 5,
+      "trendScore": 37.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "KKJhVp-YHfg",
+          "title": "LIVE : भोजशाला में नमाज या पूजा? फैसला आ गया! | Dhar Bhojshala Controversy",
+          "description": "LIVE : भोजशाला में नमाज या पूजा? फैसला आ गया! | Dhar Bhojshala Controversy #bhojshala ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-22T18:10:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/KKJhVp-YHfg/hqdefault.jpg",
+          "durationSeconds": 38568,
+          "durationFormatted": "10:42:48",
+          "views": 16304,
+          "likes": 77,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "QmpEEkjMJV4",
+          "title": "Bhojshala Controversy : भोजशाला में पूजा-नमाज की होगी टाइमिंग? Vasant Panchami",
+          "description": "IBC24, Bhojshala Controversy : भोजशाला में पूजा-नमाज की होगी टाइमिंग? Vasant Panchami ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-22T17:13:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/QmpEEkjMJV4/hqdefault.jpg",
+          "durationSeconds": 211,
+          "durationFormatted": "03:31",
+          "views": 140,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "yStP512GSWY",
+          "title": "The Editor&#39;s Show: Vasant Panchami और नमाज साथ-साथ, Dhar में उतरे 8000 जवान | Bhojshala",
+          "description": "The Editor's Show: Vasant Panchami और नमाज साथ-साथ, Dhar में उतरे 8000 जवान | Bhojshala #dharnews ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-22T16:33:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/yStP512GSWY/hqdefault.jpg",
+          "durationSeconds": 342,
+          "durationFormatted": "05:42",
+          "views": 37,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "s0ByJYkfy04",
+          "title": "NDTV Exclusive Reports: Bhojshala में पूजा भी होगी&#39; &#39;नमाज भी, देखिए, कैसी है तैयारी? Basant Panchami",
+          "description": "NDTV Exclusive Reports: Bhojshala में पूजा भी होगी' 'नमाज भी, देखिए, कैसी है तैयारी?",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-22T17:10:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/s0ByJYkfy04/hqdefault.jpg",
+          "durationSeconds": 878,
+          "durationFormatted": "14:38",
+          "views": 14,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "VtEPIYh5DQY",
+          "title": "Dhar Bhojshala Controversy: भोजशाला में बसंत पंचमी पर पूजा और नमाज, SC ने तय की Timing | Breaking",
+          "description": "Dhar Bhojshala Controversy: भोजशाला में बसंत पंचमी पर पूजा और नमाज, SC ने तय की Timing ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-22T17:53:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/VtEPIYh5DQY/hqdefault.jpg",
+          "durationSeconds": 514,
+          "durationFormatted": "08:34",
+          "views": 11,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-01-22T18:10:00Z"
     },
     {
       "clusterId": "bhaskar-mla",
       "topic": "Bhaskar MLA",
       "videoCount": 5,
-      "trendScore": 36.5,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +324,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Vy3Xn93BSKU/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 937,
+          "views": 1089,
           "likes": 18,
           "videoType": "VOD",
           "genre": "Politics"
@@ -201,28 +339,13 @@
           "thumbnail": "https://i.ytimg.com/vi/OLv96EBJlQs/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 915,
+          "views": 1059,
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "JhxQA4TY0uU",
-          "title": "लाल बहादुर शास्त्री में MLA सेन ने किया नए OPD का शुभारंभ | CG Bhaskar",
-          "description": "लाल बहादुर शास्त्री में MLA सेन ने किया नए OPD का शुभारंभ | CG Bhaskar Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-22T11:30:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/JhxQA4TY0uU/hqdefault.jpg",
-          "durationSeconds": 170,
-          "durationFormatted": "02:50",
-          "views": 594,
-          "likes": 18,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
           "videoId": "xoOGod2JlZU",
           "title": "कांग्रेस ने मृत व्यक्ति को बना दिया मंडल अध्यक्ष | CG Bhaskar",
           "description": "कांग्रेस ने मृत व्यक्ति को बना दिया मंडल अध्यक्ष | CG Bhaskar Join our Whatsapp ...",
@@ -231,10 +354,25 @@
           "thumbnail": "https://i.ytimg.com/vi/xoOGod2JlZU/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 425,
-          "likes": 4,
+          "views": 815,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "JhxQA4TY0uU",
+          "title": "लाल बहादुर शास्त्री में MLA सेन ने किया नए OPD का शुभारंभ | CG Bhaskar",
+          "description": "लाल बहादुर शास्त्री में MLA सेन ने किया नए OPD का शुभारंभ | CG Bhaskar Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-22T11:30:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/JhxQA4TY0uU/hqdefault.jpg",
+          "durationSeconds": 170,
+          "durationFormatted": "02:50",
+          "views": 636,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "Events"
         },
         {
           "index": 5,
@@ -246,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Gf5BVHC6Jls/hqdefault.jpg",
           "durationSeconds": 39,
           "durationFormatted": "00:39",
-          "views": 281,
-          "likes": 6,
+          "views": 376,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,10 +393,10 @@
       "latestUpdateAt": "2026-01-22T15:20:01Z"
     },
     {
-      "clusterId": "indian-army",
-      "topic": "Indian Army",
+      "clusterId": "army-accident",
+      "topic": "Army Accident",
       "videoCount": 4,
-      "trendScore": 35.2,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bX2nNb5Y6L4/hqdefault.jpg",
           "durationSeconds": 10326,
           "durationFormatted": "02:52:06",
-          "views": 6841,
-          "likes": 54,
+          "views": 7973,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -285,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5I_xHJnc_vg/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 3690,
+          "views": 5732,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -300,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z_8SLtwnA0E/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 311,
+          "views": 409,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -327,7 +465,7 @@
       "clusterId": "umang-singhar",
       "topic": "Umang Singhar",
       "videoCount": 6,
-      "trendScore": 33.4,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/L5WLJnM4cBU/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 375,
+          "views": 393,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
@@ -369,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/11EpHYgWhTQ/hqdefault.jpg",
           "durationSeconds": 184,
           "durationFormatted": "03:04",
-          "views": 16,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qIsn3e-jCWQ/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 10,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -411,7 +549,7 @@
       "clusterId": "xpress-लग",
       "topic": "Xpress लोग",
       "videoCount": 4,
-      "trendScore": 32.5,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -445,21 +583,6 @@
         },
         {
           "index": 3,
-          "videoId": "KM8h3aK3BMc",
-          "title": "बलरामपुर - ट्रैक्टर ट्राली से गांजा तस्करी मामले में 2 लोग और गिरफ्तारChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-01-22T04:30:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/KM8h3aK3BMc/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 70,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "w8pG1_cqWBg",
           "title": "बीजापुर - नदी में नाव पलटने से 4 लोग लापता, 2 बच्चे, 2 महिलाएं शामिलChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -472,84 +595,30 @@
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "KM8h3aK3BMc",
+          "title": "बलरामपुर - ट्रैक्टर ट्राली से गांजा तस्करी मामले में 2 लोग और गिरफ्तारChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-01-22T04:30:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/KM8h3aK3BMc/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 70,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-01-22T11:12:31Z"
     },
     {
-      "clusterId": "raipur-commissioner",
-      "topic": "Raipur Commissioner",
-      "videoCount": 4,
-      "trendScore": 30.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "7bFTGKOKZQk",
-          "title": "Raipur Commissioner System Notification: रायपुर के 21 थानों की कमान संभालेंगे कमिश्नर। अधिसूचना जारी",
-          "description": "IBC24, Raipur Commissioner System Notification: रायपुर के 21 थानों की कमान संभालेंगे ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-22T16:57:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/7bFTGKOKZQk/hqdefault.jpg",
-          "durationSeconds": 42896,
-          "durationFormatted": "11:54:56",
-          "views": 887,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "P_OlDQ8C0Ic",
-          "title": "Police Commissioner System Raipur: Sanjeev Shukla होंगे रायपुर के पहले कमिश्नर। Bilaspur IG थे संजीव",
-          "description": "IBC24, Police Commissioner System Raipur: Sanjeev Shukla होंगे रायपुर के पहले कमिश्नर। Bilaspur ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-22T17:13:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/P_OlDQ8C0Ic/hqdefault.jpg",
-          "durationSeconds": 417,
-          "durationFormatted": "06:57",
-          "views": 81,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "cipYXpjEgjo",
-          "title": "Raipur New Police Commissioner News : पुलिस कमिश्नर सिस्टम लागू | शहर और ग्रामीण क्षेत्र अलग-अलग",
-          "description": "IBC24, Raipur New Police Commissioner News, रायपुर में पुलिस कमिश्नर सिस्टम लागू, शहर ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-22T11:09:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/cipYXpjEgjo/hqdefault.jpg",
-          "durationSeconds": 232,
-          "durationFormatted": "03:52",
-          "views": 31,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Dpxt44a6KCM",
-          "title": "Raipur News: रायपुर में पुलिस कमिश्नर सिस्टम, जानिए क्या-क्या होंगे बदलाव?  New Police Commissioner",
-          "description": "Raipur News: रायपुर में पुलिस कमिश्नर सिस्टम, जानिए क्या-क्या होंगे ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-22T17:35:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/Dpxt44a6KCM/hqdefault.jpg",
-          "durationSeconds": 207,
-          "durationFormatted": "03:27",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-01-22T17:35:39Z"
-    },
-    {
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
       "videoCount": 5,
-      "trendScore": 29.6,
+      "trendScore": 29.0,
       "topVideos": [
         {
           "index": 1,
@@ -561,8 +630,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tRcQpC7Vf-4/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 788,
-          "likes": 3,
+          "views": 828,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -576,7 +645,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-Cbqqnp-61U/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 48,
+          "views": 58,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -591,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/t7qhyJpjpAA/hqdefault.jpg",
           "durationSeconds": 521,
           "durationFormatted": "08:41",
-          "views": 41,
+          "views": 45,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -628,6 +697,75 @@
         }
       ],
       "latestUpdateAt": "2026-01-22T16:53:40Z"
+    },
+    {
+      "clusterId": "gwalior-bhopal",
+      "topic": "Gwalior Bhopal",
+      "videoCount": 4,
+      "trendScore": 24.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "hht7rYvkUpU",
+          "title": "Gwalior के बाद Bhopal की सड़कें भी खस्ताहाल। सड़क पर 5 फीट चौड़ा-15 फीट लंबा-7 फीट गहरा गड्ढा..",
+          "description": "IBC24, Gwalior के बाद Bhopal की सड़कें भी खस्ताहाल। सड़क पर 5 फीट चौड़ा-15 फीट ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-22T17:28:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/hht7rYvkUpU/hqdefault.jpg",
+          "durationSeconds": 197,
+          "durationFormatted": "03:17",
+          "views": 36,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "DYIBGRvkRbA",
+          "title": "Gwalior के मध्य भारत खादी संघ ने तैयार किए 60 लाख तिरंगे। डेढ़ महीने से दिन-रात काम कर रहे कर्मचारी",
+          "description": "IBC24, Gwalior के मध्य भारत खादी संघ ने तैयार किए 60 लाख तिरंगे। डेढ़ महीने ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-22T19:12:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/DYIBGRvkRbA/hqdefault.jpg",
+          "durationSeconds": 103,
+          "durationFormatted": "01:43",
+          "views": 2,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "QTQd2i93q9c",
+          "title": "Gwalior : डेढ़ महीने से दिन-रात काम कर रहे हैं कर्मचारी | लाल किले में लहराएगा खादी संघ में बना झंडा",
+          "description": "IBC24, Gwalior News, डेढ़ महीने से दिन-रात काम कर रहे हैं कर्मचारी, लाल किले ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-22T18:53:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/QTQd2i93q9c/hqdefault.jpg",
+          "durationSeconds": 103,
+          "durationFormatted": "01:43",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "12o1Sh7GXWA",
+          "title": "Gwalior : 2011 में 2.18 लाख वाहन, 2026 में 11 लाख पार | 8 गुना बढ़े वाहन, पार्किंग में इजाफा नहीं",
+          "description": "IBC24, Gwalior News, 2011 में 2.18 लाख वाहन, 2026 में 11 लाख पार, 8 गुना बढ़े वाहन, ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-22T18:50:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/12o1Sh7GXWA/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-22T19:12:21Z"
     }
   ]
 }
