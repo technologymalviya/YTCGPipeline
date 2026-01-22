@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-01-22T09:55:11.860398Z",
-  "clusterCount": 6,
+  "generatedAt": "2026-01-22T11:02:59.769682Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "bhojshala-dhar",
       "topic": "Bhojshala Dhar",
-      "videoCount": 11,
-      "trendScore": 40.1,
+      "videoCount": 13,
+      "trendScore": 44.7,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "wjT0H0XFGbg",
+          "title": "SC Verdict On Dhar Bhojshala : SC में बनी बात, होगी पूजा और नमाज | MP News | Top News",
+          "description": "SC Verdict On Dhar Bhojshala : सुबह में पूजा..दोपहर में नमाज, बसंत पंचमी पर भोजशाला ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T09:59:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/wjT0H0XFGbg/hqdefault.jpg",
+          "durationSeconds": 489,
+          "durationFormatted": "08:09",
+          "views": 4280,
+          "likes": 69,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
           "videoId": "wxAVXV31D0s",
           "title": "Dhar Bhojshala Controvery: पूजा या नमाजभोजशाला में क्या होगा? | Breaking #shorts",
           "description": "Dhar Bhojshala Controvery: पूजा या नमाजभोजशाला में क्या होगा? | Breaking #shorts NDTV Madhya ...",
@@ -18,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/wxAVXV31D0s/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 913,
-          "likes": 1,
+          "views": 2132,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 2,
+          "index": 3,
           "videoId": "p-_bB9lx6UI",
           "title": "SC Verdict On Dhar Bhojshala : सुबह में पूजा..दोपहर में नमाज, बसंत पंचमी पर भोजशाला पर सुप्रीम फैसला",
           "description": "SC Verdict On Dhar Bhojshala : सुबह में पूजा..दोपहर में नमाज, बसंत पंचमी पर भोजशाला ...",
@@ -33,28 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/p-_bB9lx6UI/hqdefault.jpg",
           "durationSeconds": 461,
           "durationFormatted": "07:41",
-          "views": 875,
-          "likes": 8,
+          "views": 912,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "lxcJ9By6e_Y",
-          "title": "Supreme Court Verdict on Bhojshala: भोजशाला में बसंत पंचमी पर पूजा, नमाज पर SC का बड़ा आदेश",
-          "description": "IBC24, Supreme Court Verdict on Bhojshala : भोजशाला में बसंत पंचमी पर पूजा, नमाज पर ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-22T08:20:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/lxcJ9By6e_Y/hqdefault.jpg",
-          "durationSeconds": 486,
-          "durationFormatted": "08:06",
-          "views": 273,
-          "likes": 0,
+          "index": 4,
+          "videoId": "lIosXkJ3jss",
+          "title": "Dhar Bhojshala Controversy: Basant Panchami पर पूजा या नमाज़? दिग्विजय के पोस्ट पर BJP का बड़ा पलटवार!",
+          "description": "Dhar Bhojshala Controversy: Basant Panchami पर पूजा या नमाज़? दिग्विजय के पोस्ट पर BJP का ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-22T01:27:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/lIosXkJ3jss/hqdefault.jpg",
+          "durationSeconds": 376,
+          "durationFormatted": "06:16",
+          "views": 751,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "J1XeJgrzTmI",
           "title": "Dhar Bhojshala Controversy : धार भोजशाला का विवाद Supreme Court ने सुलझा दिया! | MP News | Breaking",
           "description": "Dhar Bhojshala Controversy : धार भोजशाला का विवाद Supreme Court ने सुलझा दिया! | MP News ...",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/J1XeJgrzTmI/hqdefault.jpg",
           "durationSeconds": 843,
           "durationFormatted": "14:03",
-          "views": 253,
+          "views": 467,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "q-06cDDD8_g",
-          "title": "धार :भोजशाला मामले में Supreme Court का बड़ा फैसला&#39;, बसंत पंचमी पर पूजा और नमाज दोनों होंगी&#39;",
-          "description": "धार :भोजशाला मामले में SC का बड़ा फैसला, 'बसंत पंचमी पर पूजा और नमाज ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-22T08:01:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/q-06cDDD8_g/hqdefault.jpg",
-          "durationSeconds": 579,
-          "durationFormatted": "09:39",
-          "views": 74,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-01-22T09:19:30Z"
+      "latestUpdateAt": "2026-01-22T09:59:03Z"
     },
     {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 8,
-      "trendScore": 39.0,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_kfRWW_8bP8/hqdefault.jpg",
           "durationSeconds": 1509,
           "durationFormatted": "25:09",
-          "views": 14143,
-          "likes": 221,
+          "views": 15229,
+          "likes": 224,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-dioD6bXUG8/hqdefault.jpg",
           "durationSeconds": 936,
           "durationFormatted": "15:36",
-          "views": 11986,
-          "likes": 236,
+          "views": 12425,
+          "likes": 240,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/c3ifiOG0GJo/hqdefault.jpg",
           "durationSeconds": 818,
           "durationFormatted": "13:38",
-          "views": 10922,
-          "likes": 115,
+          "views": 11254,
+          "likes": 117,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/awfR47l9GV0/hqdefault.jpg",
           "durationSeconds": 947,
           "durationFormatted": "15:47",
-          "views": 6007,
-          "likes": 31,
+          "views": 6850,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/64tJoJmxTmo/hqdefault.jpg",
           "durationSeconds": 836,
           "durationFormatted": "13:56",
-          "views": 2314,
-          "likes": 73,
+          "views": 2414,
+          "likes": 74,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -171,28 +171,97 @@
       "latestUpdateAt": "2026-01-22T02:15:06Z"
     },
     {
-      "clusterId": "xpress-सरजपर",
-      "topic": "Xpress सूरजपुर",
-      "videoCount": 7,
-      "trendScore": 33.4,
+      "clusterId": "umang-singhar",
+      "topic": "Umang Singhar",
+      "videoCount": 9,
+      "trendScore": 35.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "b7cVhYPKPgo",
-          "title": "सिमगा - 5 दिवसीय रामायण कार्यक्रम का हुआ आयोजनChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-01-21T10:30:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/b7cVhYPKPgo/hqdefault.jpg",
-          "durationSeconds": 48,
-          "durationFormatted": "00:48",
-          "views": 153,
+          "videoId": "bTFGJD-aEpQ",
+          "title": "Umang Singhar Controversy : &#39;हनुमान जी आदिवासी थे&#39;, नेता प्रतिपक्ष Umang Singhar का बड़ा बयान |Top",
+          "description": "Umang Singhar Controversy : नेता प्रतिपक्ष Umang Singhar ने आदिवासियों को लेकर बड़ा ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T08:18:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/bTFGJD-aEpQ/hqdefault.jpg",
+          "durationSeconds": 166,
+          "durationFormatted": "02:46",
+          "views": 287,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "L5WLJnM4cBU",
+          "title": "हनुमानजी को लेकर नेता प्रतिपक्ष का बड़ा दावा, Umang Singhar ने बताया हनुमानजी को आदिवासी",
+          "description": "भोपाल: हनुमानजी को लेकर नेता प्रतिपक्ष का बड़ा दावा , उमंग सिंघार ने ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-22T08:15:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/L5WLJnM4cBU/hqdefault.jpg",
+          "durationSeconds": 178,
+          "durationFormatted": "02:58",
+          "views": 130,
           "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "vuTdJni9pMA",
+          "title": "Congress Leader Umang Singhar Statement: हनुमान जी को लेकर कांग्रेस नेता का बयान,मचा सियासी घमासान",
+          "description": "Congress Leader Umang Singhar Statement: हनुमान जी को लेकर कांग्रेस नेता का बयान,मचा ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-22T10:19:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/vuTdJni9pMA/hqdefault.jpg",
+          "durationSeconds": 522,
+          "durationFormatted": "08:42",
+          "views": 55,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "VVBn8OVYft0",
+          "title": "आदिवासी संस्कृति पर Umang Singhar का बड़ा बयान | #ytshorts",
+          "description": "आदिवासी संस्कृति पर Umang Singhar का बड़ा बयान | #ytshorts #UmangSinghar #HanumanAdivasi ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-22T10:26:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/VVBn8OVYft0/hqdefault.jpg",
+          "durationSeconds": 168,
+          "durationFormatted": "02:48",
+          "views": 24,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
+          "index": 5,
+          "videoId": "h-iIC6xNFG8",
+          "title": "Congress नेता Umang Singhar ने बताई Bhagavan Hanuman की जाती | कहा- &#39;वो आदिवासी है&#39; | MP News",
+          "description": "IBC24, Congress नेता Umang Singhar ने बताई Bhagavan Hanuman की जाती | कहा- 'वो आदिवासी है' ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-22T10:22:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/h-iIC6xNFG8/hqdefault.jpg",
+          "durationSeconds": 77,
+          "durationFormatted": "01:17",
+          "views": 23,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-01-22T10:40:06Z"
+    },
+    {
+      "clusterId": "xpress-सरजपर",
+      "topic": "Xpress सूरजपुर",
+      "videoCount": 5,
+      "trendScore": 33.9,
+      "topVideos": [
+        {
+          "index": 1,
           "videoId": "smhAuEeDDKM",
           "title": "सूरजपुर - खदान से ट्रक में भर भर कर कोयला की चोरीChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -207,22 +276,7 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "v9lT2elNxWA",
-          "title": "सूरजपुर - झाड़ियों में मिला चोरी का ट्रैक्टर, चोरों की तलाशChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-01-21T10:51:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/v9lT2elNxWA/hqdefault.jpg",
-          "durationSeconds": 133,
-          "durationFormatted": "02:13",
-          "views": 87,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
+          "index": 2,
           "videoId": "2ebvrZAYra8",
           "title": "जगदलपुर - बाबा रामदेव मंदिर में माघ मेला का शुभारंभChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -231,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2ebvrZAYra8/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 38,
+          "views": 42,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "CD9119rZy4E",
           "title": "भटगांव -  बड़े धूमधाम से संपन्न हुआ 3 दिवसीय जयंती कार्यक्रमChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -246,8 +300,38 @@
           "thumbnail": "https://i.ytimg.com/vi/CD9119rZy4E/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 36,
-          "likes": 6,
+          "views": 30,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "w8pG1_cqWBg",
+          "title": "बीजापुर - नदी में नाव पलटने से 4 लोग लापता, 2 बच्चे, 2 महिलाएं शामिलChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-01-22T05:44:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/w8pG1_cqWBg/hqdefault.jpg",
+          "durationSeconds": 84,
+          "durationFormatted": "01:24",
+          "views": 27,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "KM8h3aK3BMc",
+          "title": "बलरामपुर - ट्रैक्टर ट्राली से गांजा तस्करी मामले में 2 लोग और गिरफ्तारChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-01-22T04:30:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/KM8h3aK3BMc/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 24,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -257,8 +341,8 @@
     {
       "clusterId": "bhaskar-bsp",
       "topic": "Bhaskar BSP",
-      "videoCount": 5,
-      "trendScore": 33.2,
+      "videoCount": 4,
+      "trendScore": 32.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BeWQAbfV0B8/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 1773,
-          "likes": 50,
+          "views": 1783,
+          "likes": 53,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,28 +369,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sChMi1pBbWI/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 1092,
-          "likes": 38,
+          "views": 1127,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "c8Aup6LNv2k",
-          "title": "छत्तीसगढ़ में नई आबकारी नीति‌ पर लगी मुहर",
-          "description": "छत्तीसगढ़ में नई आबकारी नीति‌ पर लगी मुहर Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-21T10:37:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/c8Aup6LNv2k/hqdefault.jpg",
-          "durationSeconds": 77,
-          "durationFormatted": "01:17",
-          "views": 704,
-          "likes": 17,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "8O-FR6b02Gg",
           "title": "रो रहे BSP रिटायर्ड कर्मचारी... | CG Bhaskar",
           "description": "रो रहे BSP रिटायर्ड कर्मचारी... | CG Bhaskar Join our Whatsapp Group ...",
@@ -321,7 +390,7 @@
           "genre": "Politics"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "OLv96EBJlQs",
           "title": "रायपुर में कमिश्नरी सिस्टम लागू, जानें क्या बदलेगा? | CG Bhaskar",
           "description": "रायपुर में कमिश्नरी सिस्टम लागू, जानें क्या बदलेगा? | CG Bhaskar Join our ...",
@@ -330,10 +399,10 @@
           "thumbnail": "https://i.ytimg.com/vi/OLv96EBJlQs/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 31,
-          "likes": 0,
+          "views": 266,
+          "likes": 11,
           "videoType": "VOD",
-          "genre": "Civic"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-01-22T09:40:31Z"
@@ -341,8 +410,8 @@
     {
       "clusterId": "bci-सकल",
       "topic": "BCI स्कूल",
-      "videoCount": 4,
-      "trendScore": 27.9,
+      "videoCount": 5,
+      "trendScore": 30.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TqVhXoOjJWk/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 644,
+          "views": 661,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -369,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZmgI-RCgC-s/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 602,
-          "likes": 6,
+          "views": 619,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/y6cm__t5x1I/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 327,
+          "views": 378,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -399,37 +468,37 @@
           "thumbnail": "https://i.ytimg.com/vi/OBqRbFDMh3E/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 254,
-          "likes": 3,
+          "views": 304,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "d6_8Ktu78qI",
+          "title": "भिलाई : MGM स्कूल मेंहेलमेट नियम की उड़ी धज्जियां !                        #walkietalkienews",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #mgmschool #mgm #helmet #trafficrules #safetyfirst #roadsafety ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-22T10:58:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/d6_8Ktu78qI/hqdefault.jpg",
+          "durationSeconds": 81,
+          "durationFormatted": "01:21",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-22T09:10:52Z"
+      "latestUpdateAt": "2026-01-22T10:58:49Z"
     },
     {
       "clusterId": "bhopal-सड़क",
       "topic": "Bhopal सड़क",
       "videoCount": 4,
-      "trendScore": 27.3,
+      "trendScore": 26.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "Fph_yUgNRlc",
-          "title": "Bhopal News: मंत्री विश्वास सारंग का सख्त एक्शन, औचक निरीक्षण में गायब मिले वार्ड प्रभारी, सस्पेंड",
-          "description": "भोपाल: मंत्री विश्वास सारंग का सख्त एक्शन, वार्ड क्रमांक 71 में किया ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-21T18:47:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/Fph_yUgNRlc/hqdefault.jpg",
-          "durationSeconds": 79,
-          "durationFormatted": "01:19",
-          "views": 142,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "mUxvw543OHE",
           "title": "Bhopal News: RKDF ग्रुप के मालिक के घर राजस्थान पुलिस की दबिश | फर्जी मार्कशीट मामले में कार्रवाई",
           "description": "IBC24, Bhopal News: RKDF ग्रुप के मालिक के घर राजस्थान पुलिस की दबिश | फर्जी ...",
@@ -438,13 +507,13 @@
           "thumbnail": "https://i.ytimg.com/vi/mUxvw543OHE/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 58,
+          "views": 73,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "Xvjh_sMRZGk",
           "title": "Bhopal Road Collapse :  भोपाल में सड़क हादसे को न्योता! 3 महीने से धंसी हुई है सड़क | MP News",
           "description": "IBC24, Bhopal Road Collapse : भोपाल में सड़क हादसे को न्योता! 3 महीने से धंसी हुई ...",
@@ -453,13 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Xvjh_sMRZGk/hqdefault.jpg",
           "durationSeconds": 300,
           "durationFormatted": "05:00",
-          "views": 44,
+          "views": 45,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "vJ_Fhe1wNlw",
           "title": "Bhopal News : सड़क हादसे को न्योता! सड़क पर करीब 15 फीट चौड़ा, 15 फीट लंबा गड्ढा | MP News",
           "description": "IBC24, Bhopal News : सड़क हादसे को न्योता! सड़क पर करीब 15 फीट चौड़ा, 15 फीट लंबा ...",
@@ -472,9 +541,24 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "GBAMfrix9zE",
+          "title": "Bhopal Traffic News: ट्रैफिक नियमों की खुलेआम धज्जियां उड़ा रहे युवक | एक ही बाइक पर 7 लोग सवार",
+          "description": "IBC24, Bhopal Traffic News: ट्रैफिक नियमों की खुलेआम धज्जियां उड़ा रहे युवक | एक ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-22T10:33:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/GBAMfrix9zE/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 34,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-22T08:47:06Z"
+      "latestUpdateAt": "2026-01-22T10:33:31Z"
     }
   ]
 }
