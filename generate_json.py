@@ -302,12 +302,19 @@ def normalize(text: str) -> str:
         "durghatna": "दुर्घटना",
         "hadsa": "हादसा",
         "mout": "मौत",
-        "lash": "लाश",
-        "hatya": "हत्या",
+        " hatya": " हत्या",
     }
     
+    # Use word boundaries for replacements to avoid breaking words like "clash" -> "cलाश"
     for k, v in replacements.items():
-        text = text.replace(k, v)
+        # Use word boundary regex for English words, simple replace for Hindi/Devanagari
+        if re.search(r'[a-zA-Z]', k):
+            # English word - use word boundary
+            pattern = r'\b' + re.escape(k) + r'\b'
+            text = re.sub(pattern, v, text)
+        else:
+            # Hindi/Devanagari or special chars - simple replace
+            text = text.replace(k, v)
     
     return text
 
@@ -650,20 +657,25 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "robbery", "loot", "theft", "steal", "stolen",
         "assault", "rape", "sexual assault", "sexual violence",
         "arrest", "arrested", "suspect", "accused", "criminal",
-        "gang", "mob", "violence", "rioting",
+        "gang", "mob", "violence", "rioting", "clash", "clashes",  # Clashes/violence
         "shoot", "shot", "firing", "gunfire", "bullets",
-        "stab", "knife attack", "weapon",
+        "stab", "knife attack", "weapon", "knife fight",
         "jail", "prison", "court case", "trial", "investigation",
         "kidnapping", "abduction", "abducted",
         "naxal attack", "naxal violence", "naxalite attack", "naxal surrender",  # Naxal-related crimes (only when crime-related)
         "gas cylinder", "cylinder blast", "explode", "explosion",  # Explosions
+        "ied blast", "ied", "bomb blast", "bomb explosion",  # IED/Bomb explosions
         "fire incident", "arson",  # Fire-related crimes
         "chain snatching", "snatching",  # Chain snatching
         "fraud case", "scam case", "cheat", "swindle", "dupe",  # Fraud/scam (only when clearly crime, not political discussions)
         "corruption scam", "financial scam", "bank scam",  # Specific scams
         "cyber fraud", "cyber theft", "cyber crime", "online scam", "telegram scam",  # Cyber crimes
         "dog attack", "dog bite", "stray dog",  # Dog attacks
+        "monkey attack", "leopard attack", "animal attack", "wild animal attack",  # Animal attacks
         "food poisoning", "death from food", "contaminated food",  # Food-related deaths
+        "mid-day meal", "midday meal", "school meal",  # Mid-day meal food poisoning
+        "harassment", "eve teasing", "molestation", "sexual harassment",  # Harassment
+        "stunt", "illegal stunt", "dangerous stunt", "stunt video",  # Illegal stunts
         "it raid", "income tax raid", "raid", "search",  # IT raids and searches
         "acb raid", "anti corruption bureau", "acb",  # ACB raids
         "food department raid", "food dept raid",  # Food department raids
@@ -679,17 +691,22 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "पर्दाफाश", "किया पर्दाफाश",  # Exposure/revelation (crime-related)
         "खाद्य विभाग का छापा", "एसीबी की दबिश", "एसीबी रेड",  # ACB/Food dept raids
         "दबिश",  # Raid (crime-related)
-        "हिंसा", "दंगा", "चाकू", "बंदूक", "गोली", "फायरिंग",
+        "हिंसा", "दंगा", "चाकू", "चाकूबाजी", "बंदूक", "गोली", "फायरिंग",  # Violence/knife attack
+        "हंगामा", "हंगामा किया", "उपद्रव",  # Riot/commotion
         "अपहरण",  # Kidnapping
         "नक्सली हमला", "नक्सल हिंसा", "नक्सल सरेंडर",  # Naxal-related crimes (only when crime-related)
-        "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट",  # Explosions
+        "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट", "आईईडी ब्लास्ट", "बम ब्लास्ट",  # Explosions
         "अग्निकांड", "आग",  # Fire incident
         "चेन छीन", "चेन स्नैचिंग", "स्नैचिंग",  # Chain snatching
         "ठग", "धोखाधड़ी", "फ्रॉड",  # Fraud/scam
         "स्कैम केस", "धोखाधड़ी केस", "भ्रष्टाचार स्कैम",  # Specific scams (not political discussions)
         "सायबर चोरी", "सायबर फ्रॉड", "ऑनलाइन स्कैम", "टेलीग्राम स्कैम",  # Cyber crimes
         "कुत्ते का आतंक", "कुत्ते ने काटा", "कुत्ता काटा", "कुत्ता",  # Dog attack
+        "बंदर", "तेंदुआ", "तेंदुए", "तेंदुए ने", "जंगली जानवर", "जानवर का हमला", "जानवर ने काटा", "शिकार",  # Animal attacks
         "मिठाई से मौत", "खाने से मौत", "जहर",  # Food-related deaths
+        "मध्यान भोजन", "मिड डे मील", "स्कूल भोजन",  # Mid-day meal
+        "छेड़छाड़", "परेशानी", "यौन उत्पीड़न", "मनचले",  # Harassment
+        "स्टंट", "अवैध स्टंट", "खतरनाक स्टंट", "स्टंट का अड्डा",  # Illegal stunts
         "दुष्कर्म", "बलात्कार",  # Rape/sexual assault
         "आईटी रेड", "आयकर रेड", "रेड", "छापा", "दबिश",  # IT raids
         # Context-specific: जांच only when combined with crime terms
@@ -759,8 +776,10 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "match", "sports event", "tournament", "championship",
         "conference", "summit", "ai conference", "tech conference",  # Conferences
         "launch", "launched", "launching",  # Launch events
+        "police commissioner system", "commissioner system", "police commissioner",  # Police commissioner system launch
         "competition", "contest", "जसगीत", "झांकी प्रतियोगिता",  # Competitions
         "शुरुआत", "उद्घाटन", "लॉन्च", "प्रतियोगिता",  # Launch/inauguration/competition (when not political)
+        "पुलिस कमिश्नर सिस्टम", "कमिश्नर प्रणाली", "पुलिस कमिश्नर प्रणाली", "पुलिस कमिश्नर",  # Police commissioner system
         # English - multi-word phrases for stronger matching
         "cultural event", "religious event",
         "launch ceremony", "marriage ceremony",
@@ -778,8 +797,9 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         # English - specific civic terms
         "municipal corporation", "municipality", "municipal",
         "water supply", "electricity supply", "power supply",
-        "contaminated water", "water crisis", "water problem",  # Water issues
+        "contaminated water", "water crisis", "water problem", "water contamination",  # Water issues
         "water supply improvement", "drinking water", "पेयजल",  # Water supply improvements
+        "mid-day meal food poisoning", "school meal poisoning", "midday meal poisoning",  # School meal food poisoning
         "garbage collection", "waste management", "cleanliness drive",
         "pothole repair", "road repair", "street repair",
         "road construction", "road not built", "infrastructure",
@@ -802,6 +822,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "पानी की समस्या", "बिजली की समस्या",
         "प्रदूषित पानी", "सीवरेज का पानी", "गंदा पानी",  # Contaminated water
         "नाली का पानी", "नाले का पानी",  # Drain water
+        "मध्यान भोजन से बीमारी", "स्कूल भोजन से बीमारी", "मिड डे मील से बीमारी",  # Mid-day meal food poisoning
         "पानी पीने को मजबूर", "पानी नहीं मिल रहा",  # Water shortage
         "पानी संकट", "जल संकट",  # Water crisis
         "पेयजल व्यवस्था", "पेयजल",  # Drinking water supply
@@ -921,11 +942,6 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     for pattern in civic_patterns:
         if pattern.search(text):
             return GENRE_CIVIC
-
-    # Politics - political activities (check last to avoid overlap)
-    for pattern in politics_patterns:
-        if pattern.search(text):
-            return GENRE_POLITICS
     
     return GENRE_GENERAL
 
