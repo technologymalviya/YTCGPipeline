@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-24T04:03:48.365383Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-01-24T05:01:38.360997Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "agrawal-basant",
       "topic": "Agrawal Basant",
       "videoCount": 7,
-      "trendScore": 46.9,
+      "trendScore": 46.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/weaiE7-Jcg0/hqdefault.jpg",
           "durationSeconds": 136,
           "durationFormatted": "02:16",
-          "views": 65014,
-          "likes": 3196,
+          "views": 75612,
+          "likes": 3435,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "QxbV7pVcPm4",
-          "title": "एक ज़मीन माफिया गुंडे से सरकार डर रही है",
-          "description": "bageshwardhamsarkar #pradeepmishra #chhattisgarh #cgbox #bjp #bjpchhattisgarh #bjpparty #bjpnews #bjpindia ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-01-23T08:42:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/QxbV7pVcPm4/hqdefault.jpg",
-          "durationSeconds": 145,
-          "durationFormatted": "02:25",
-          "views": 14345,
-          "likes": 859,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "P7K2IeH8yRU",
           "title": "भू-माफिया Basant Agrawal किस प्रकार लोगों को परेशान करते हैं ?",
           "description": "bageshwardhamsarkar #pradeepmishra #chhattisgarh #cgbox #bjp #bjpchhattisgarh #bjpparty #bjpnews #bjpindia ...",
@@ -48,8 +33,23 @@
           "thumbnail": "https://i.ytimg.com/vi/P7K2IeH8yRU/hqdefault.jpg",
           "durationSeconds": 164,
           "durationFormatted": "02:44",
-          "views": 13964,
-          "likes": 788,
+          "views": 15378,
+          "likes": 824,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "QxbV7pVcPm4",
+          "title": "एक ज़मीन माफिया गुंडे से सरकार डर रही है",
+          "description": "bageshwardhamsarkar #pradeepmishra #chhattisgarh #cgbox #bjp #bjpchhattisgarh #bjpparty #bjpnews #bjpindia ...",
+          "channelTitle": "CG BOX",
+          "publishedAt": "2026-01-23T08:42:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/QxbV7pVcPm4/hqdefault.jpg",
+          "durationSeconds": 145,
+          "durationFormatted": "02:25",
+          "views": 14730,
+          "likes": 878,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MFNQ7qolqIw/hqdefault.jpg",
           "durationSeconds": 172,
           "durationFormatted": "02:52",
-          "views": 13803,
-          "likes": 971,
+          "views": 14421,
+          "likes": 1004,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vNFt_Hfu8ik/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 6895,
-          "likes": 340,
+          "views": 7295,
+          "likes": 359,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -90,7 +90,7 @@
       "clusterId": "chhattisgarh-january",
       "topic": "Chhattisgarh January",
       "videoCount": 13,
-      "trendScore": 45.4,
+      "trendScore": 44.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NnOS3EZzm0o/hqdefault.jpg",
           "durationSeconds": 1509,
           "durationFormatted": "25:09",
-          "views": 5563,
-          "likes": 163,
+          "views": 7147,
+          "likes": 189,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tI0CnKLjM_c/hqdefault.jpg",
           "durationSeconds": 927,
           "durationFormatted": "15:27",
-          "views": 2022,
+          "views": 2541,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "XuI3thLKjQM",
-          "title": "24 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "23 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
-          "channelTitle": "Chhattisgarh News Hindi ",
-          "publishedAt": "2026-01-23T14:39:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/XuI3thLKjQM/hqdefault.jpg",
-          "durationSeconds": 1098,
-          "durationFormatted": "18:18",
-          "views": 1737,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "bH1VMGZ8MDo",
           "title": "24 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi",
           "description": "24 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi ...",
@@ -147,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/bH1VMGZ8MDo/hqdefault.jpg",
           "durationSeconds": 546,
           "durationFormatted": "09:06",
-          "views": 1558,
-          "likes": 67,
+          "views": 1914,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "XuI3thLKjQM",
+          "title": "24 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "23 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
+          "channelTitle": "Chhattisgarh News Hindi ",
+          "publishedAt": "2026-01-23T14:39:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/XuI3thLKjQM/hqdefault.jpg",
+          "durationSeconds": 1098,
+          "durationFormatted": "18:18",
+          "views": 1911,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GEa0ZlBS9YU/hqdefault.jpg",
           "durationSeconds": 871,
           "durationFormatted": "14:31",
-          "views": 1505,
-          "likes": 36,
+          "views": 1777,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -173,8 +173,8 @@
     {
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
-      "videoCount": 16,
-      "trendScore": 38.8,
+      "videoCount": 15,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SxdxDxIRemI/hqdefault.jpg",
           "durationSeconds": 14549,
           "durationFormatted": "04:02:29",
-          "views": 891,
+          "views": 895,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -216,38 +216,38 @@
           "thumbnail": "https://i.ytimg.com/vi/y7jN0ia3sXk/hqdefault.jpg",
           "durationSeconds": 14503,
           "durationFormatted": "04:01:43",
-          "views": 122,
+          "views": 128,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "cc1o_qDrgYo",
-          "title": "Jabalpur News : Gwarighat में Narmada Aarti कर रहे CM Mohan Yadav | Breaking News | Latest News",
-          "description": "Jabalpur News : Gwarighat में Narmada Aarti कर रहे CM Mohan Yadav | Breaking News | Latest News #jabalpurnews ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-23T16:00:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/cc1o_qDrgYo/hqdefault.jpg",
-          "durationSeconds": 273,
-          "durationFormatted": "04:33",
-          "views": 45,
-          "likes": 1,
+          "videoId": "zeRiRNFBktU",
+          "title": "Jabalpur में CM कन्या विवाह सम्मेलन का आयोजन। CM Dr. Mohan और केंद्रीय मंत्री नड्डा ने दिया आशीर्वाद",
+          "description": "IBC24, Jabalpur में CM कन्या विवाह सम्मेलन का आयोजन, CM Dr. Mohan Yadav और केंद्रीय ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-23T19:06:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/zeRiRNFBktU/hqdefault.jpg",
+          "durationSeconds": 86,
+          "durationFormatted": "01:26",
+          "views": 55,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "n0uWW-HJ7QY",
-          "title": "वर्ल्ड इकोनॉमिक फोरम Davos से भारत लौटे CM Mohan Yadav  |India News MPCG",
-          "description": "र्ल्ड इकोनॉमिक फोरम दावोस में भाग लेने के बादमाननीय मुख्यमंत्री डॉ ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-23T06:44:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/n0uWW-HJ7QY/hqdefault.jpg",
-          "durationSeconds": 200,
-          "durationFormatted": "03:20",
-          "views": 36,
-          "likes": 2,
+          "videoId": "gjaKvYgW1_I",
+          "title": "Jabalpur News: CM Dr. Mohan और मंत्री नड्डा पहुंचे जलमंदिर। बावड़ियों के जीर्णोंद्धार का लिया जायजा",
+          "description": "IBC24, Jabalpur News, CM Dr. Mohan और केंद्रीय मंत्री नड्डा पहुंचे जलमंदिर, ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-23T19:12:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/gjaKvYgW1_I/hqdefault.jpg",
+          "durationSeconds": 36,
+          "durationFormatted": "00:36",
+          "views": 51,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-tet",
       "topic": "Bhaskar TET",
       "videoCount": 8,
-      "trendScore": 35.8,
+      "trendScore": 35.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,13 +270,28 @@
           "thumbnail": "https://i.ytimg.com/vi/IZnNZw_XQ0E/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1860,
+          "views": 1897,
           "likes": 33,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "y7PgDduuVhw",
+          "title": "सिगरेट, बीड़ी, गुटखा, तंबाकू सब बैन  | CG Bhaskar",
+          "description": "सिगरेट, बीड़ी, गुटखा, तंबाकू सब बैन | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-23T14:01:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/y7PgDduuVhw/hqdefault.jpg",
+          "durationSeconds": 66,
+          "durationFormatted": "01:06",
+          "views": 1058,
+          "likes": 60,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "KDEZW1F36fE",
           "title": "साहू समाज के प्री-वेडिंग शूट बैन पर क्या बोले लोग?",
           "description": "साहू समाज के प्री-वेडिंग शूट बैन पर क्या बोले लोग? Join our Whatsapp Group ...",
@@ -287,21 +302,6 @@
           "durationFormatted": "01:48",
           "views": 985,
           "likes": 22,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "y7PgDduuVhw",
-          "title": "सिगरेट, बीड़ी, गुटखा, तंबाकू सब बैन  | CG Bhaskar",
-          "description": "सिगरेट, बीड़ी, गुटखा, तंबाकू सब बैन | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-23T14:01:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/y7PgDduuVhw/hqdefault.jpg",
-          "durationSeconds": 66,
-          "durationFormatted": "01:06",
-          "views": 959,
-          "likes": 59,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4jdObPw40JQ/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 779,
+          "views": 783,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
@@ -339,94 +339,10 @@
       "latestUpdateAt": "2026-01-23T14:01:36Z"
     },
     {
-      "clusterId": "bhojshala-namaz",
-      "topic": "Bhojshala Namaz",
-      "videoCount": 7,
-      "trendScore": 35.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "F2TklvDJhoQ",
-          "title": "Bhojshala Mosque Namaz Live: भोजशाला में नमाज-पूजा साथ-साथ, अब होगा एक्शन | MP News | Bhojshala Puja",
-          "description": "Bhojshala Mosque Namaz Live: भोजशाला में नमाज-पूजा साथ-साथ, अब होगा एक्शन | MP News ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-24T03:11:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/F2TklvDJhoQ/hqdefault.jpg",
-          "durationSeconds": 42896,
-          "durationFormatted": "11:54:56",
-          "views": 2852,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "w6xMyp_EOdk",
-          "title": "Dhar Bhojshala Controversy LIVE: भोजशाला में Puja और Namaz एक साथ | Breaking News | Madhya Pradesh",
-          "description": "Dhar Bhojshala Controversy LIVE: भोजशाला में Puja और Namaz एक साथ | Breaking News | Madhya Pradesh ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-24T02:03:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/w6xMyp_EOdk/hqdefault.jpg",
-          "durationSeconds": 42898,
-          "durationFormatted": "11:54:58",
-          "views": 1938,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "OjogjT1uwlo",
-          "title": "Bhojshala Masjid Namaz in Dhar Live : भोजशाला में नमाज खत्म होते ही बढ़ाई गई पुलिस फोर्स | MP News",
-          "description": "Bhojshala Masjid Namaz in Dhar Live : भोजशाला में नमाज खत्म होते ही बढ़ाई गई पुलिस ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-24T03:06:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/OjogjT1uwlo/hqdefault.jpg",
-          "durationSeconds": 42898,
-          "durationFormatted": "11:54:58",
-          "views": 1924,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "cA8Ms7zRhsc",
-          "title": "The Editor&#39;s Show: वही रिवाज... भोजशाला में साथ-साथ पूजा-नमाज ! | Dhar Bhojshala Controversy",
-          "description": "The Editor's Show: वही रिवाज... भोजशाला में साथ-साथ पूजा-नमाज ! | Dhar Bhojshala Controversy ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-23T16:27:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/cA8Ms7zRhsc/hqdefault.jpg",
-          "durationSeconds": 323,
-          "durationFormatted": "05:23",
-          "views": 144,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "mE3ZTDcmH1A",
-          "title": "Dhar Bhojshala News: CM Mohan ने बताया कैसे प्रशासन ने शांतिपूर्ण तरीके से संपन्न कराई पूजा और नमाज",
-          "description": "Dhar Bhojshala News: CM Mohan ने बताया कैसे प्रशासन ने शांतिपूर्ण तरीके से ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-23T15:41:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/mE3ZTDcmH1A/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 31,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-01-24T03:11:20Z"
-    },
-    {
       "clusterId": "ujjain-violence",
       "topic": "Ujjain Violence",
-      "videoCount": 6,
-      "trendScore": 34.1,
+      "videoCount": 7,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
@@ -438,28 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Lls3deHedyI/hqdefault.jpg",
           "durationSeconds": 363,
           "durationFormatted": "06:03",
-          "views": 2294,
-          "likes": 26,
+          "views": 2387,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "Nb-2q1RsHCk",
-          "title": "Ujjain Violence Live Updates : रिपोर्टर से समझिए उज्जैन बवाल की पूरी सच्चाई | Tarana | Hindu-Muslim",
-          "description": "Ujjain Violence LIVE Updates : रिपोर्टर से समझिए उज्जैन बवाल की पूरी सच्चाई | Tarana ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-24T02:23:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/Nb-2q1RsHCk/hqdefault.jpg",
-          "durationSeconds": 35255,
-          "durationFormatted": "09:47:35",
-          "views": 672,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "5R32nqEhrew",
           "title": "🔴LIVE : Ujjain में हिंसक झड़प, विश्व हिंदू परिषद के प्रचारक समेत कई घायल | MP Police",
           "description": "LIVE : Ujjain में हिंसक झड़प, विश्व हिंदू परिषद के प्रचारक समेत कई घायल | MP ...",
@@ -474,7 +375,7 @@
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "LBiE6s-1Ba8",
           "title": "Ujjain Violence: उज्जैन में हिंसा को लेकर बहुत बड़ी खबर, उपद्रवियों पर Police का बड़ा एक्शन",
           "description": "Ujjain Violence: उज्जैन में हिंसा को लेकर बहुत बड़ी खबर, उपद्रवियों पर Police का ...",
@@ -483,8 +384,23 @@
           "thumbnail": "https://i.ytimg.com/vi/LBiE6s-1Ba8/hqdefault.jpg",
           "durationSeconds": 736,
           "durationFormatted": "12:16",
-          "views": 289,
+          "views": 390,
           "likes": 2,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "tsF4Plt9MHw",
+          "title": "Ujjain Tarana Violence: उज्जैन में कल बवाल के बाद आज शांति |तराना में भारी संख्या में Policeबल तैनात",
+          "description": "IBC24, Ujjain Tarana Violence Update : उज्जैन में कल बवाल के बाद आज शांति | तराना में ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-24T03:41:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/tsF4Plt9MHw/hqdefault.jpg",
+          "durationSeconds": 245,
+          "durationFormatted": "04:05",
+          "views": 259,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -498,19 +414,172 @@
           "thumbnail": "https://i.ytimg.com/vi/ibyhLuhrj5o/hqdefault.jpg",
           "durationSeconds": 466,
           "durationFormatted": "07:46",
-          "views": 187,
+          "views": 191,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-24T03:41:01Z"
+      "latestUpdateAt": "2026-01-24T04:36:56Z"
+    },
+    {
+      "clusterId": "bhojshala-namaz",
+      "topic": "Bhojshala Namaz",
+      "videoCount": 4,
+      "trendScore": 33.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "F2TklvDJhoQ",
+          "title": "Bhojshala Mosque Namaz Live: भोजशाला में नमाज-पूजा साथ-साथ, अब होगा एक्शन | MP News | Bhojshala Puja",
+          "description": "Bhojshala Mosque Namaz Live: भोजशाला में नमाज-पूजा साथ-साथ, अब होगा एक्शन | MP News ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-24T03:11:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/F2TklvDJhoQ/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 2923,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "OjogjT1uwlo",
+          "title": "Bhojshala Masjid Namaz in Dhar Live : भोजशाला में नमाज खत्म होते ही बढ़ाई गई पुलिस फोर्स | MP News",
+          "description": "Bhojshala Masjid Namaz in Dhar Live : भोजशाला में नमाज खत्म होते ही बढ़ाई गई पुलिस ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-24T03:06:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/OjogjT1uwlo/hqdefault.jpg",
+          "durationSeconds": 42898,
+          "durationFormatted": "11:54:58",
+          "views": 2082,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "w6xMyp_EOdk",
+          "title": "Dhar Bhojshala Controversy LIVE: भोजशाला में Puja और Namaz एक साथ | Breaking News | Madhya Pradesh",
+          "description": "Dhar Bhojshala Controversy LIVE: भोजशाला में Puja और Namaz एक साथ | Breaking News | Madhya Pradesh ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-24T02:03:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/w6xMyp_EOdk/hqdefault.jpg",
+          "durationSeconds": 42898,
+          "durationFormatted": "11:54:58",
+          "views": 1958,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "cA8Ms7zRhsc",
+          "title": "The Editor&#39;s Show: वही रिवाज... भोजशाला में साथ-साथ पूजा-नमाज ! | Dhar Bhojshala Controversy",
+          "description": "The Editor's Show: वही रिवाज... भोजशाला में साथ-साथ पूजा-नमाज ! | Dhar Bhojshala Controversy ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-23T16:27:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/cA8Ms7zRhsc/hqdefault.jpg",
+          "durationSeconds": 323,
+          "durationFormatted": "05:23",
+          "views": 167,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-24T03:11:20Z"
+    },
+    {
+      "clusterId": "mudde-baat",
+      "topic": "Mudde Baat",
+      "videoCount": 5,
+      "trendScore": 32.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "TiyowN1AjhM",
+          "title": "🔴Seedhe Mudde Ki Baat : बस्तर से नक्सली गए तो विदेशी आने लगे | Bastar Tourism | Home Stay | CG News",
+          "description": "Seedhe Mudde Ki Baat : बस्तर से नक्सली गए तो विदेशी आने लगे | Bastar Tourism | Home Stay | CG ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-23T16:25:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/TiyowN1AjhM/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 1882,
+          "likes": 18,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 2,
+          "videoId": "1cODFvrGpCU",
+          "title": "Seedhe Mudde Ki Baat : गोदाम में चावल नहीं है, जनता को कैसे बांटेंगे? | Paddy Crisis | Chhattisgarh",
+          "description": "Seedhe Mudde Ki Baat : गोदाम में चावल नहीं है, जनता को कैसे बांटेंगे? | Paddy Crisis ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-23T16:04:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/1cODFvrGpCU/hqdefault.jpg",
+          "durationSeconds": 287,
+          "durationFormatted": "04:47",
+          "views": 1664,
+          "likes": 32,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "O4Xi5VtaVaM",
+          "title": "Seedhe Mudde Ki Baat : बस्तर से नक्सली गए तो विदेशी आने लगे | Bastar Tourism | Home Stay | CG News",
+          "description": "Seedhe Mudde Ki Baat : बस्तर से नक्सली गए तो विदेशी आने लगे | Bastar Tourism | Home Stay | CG ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-23T16:26:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/O4Xi5VtaVaM/hqdefault.jpg",
+          "durationSeconds": 288,
+          "durationFormatted": "04:48",
+          "views": 1361,
+          "likes": 45,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "-_nA2tGAsWo",
+          "title": "Seedhe Mudde Ki Baat : India-New Zealand का मैच देखने हजारों लोग पहुंचे | IND Vs NZ | T20 Match",
+          "description": "Seedhe Mudde Ki Baat : India-New Zealand का मैच देखने हजारों लोग पहुंचे | IND Vs NZ | T20 Match ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-23T16:18:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/-_nA2tGAsWo/hqdefault.jpg",
+          "durationSeconds": 228,
+          "durationFormatted": "03:48",
+          "views": 266,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "_k3UDvNFNvE",
+          "title": "Seedhe Mudde Ki Baat : Gwalior के लोगों सड़क पर गाड़ी मत खड़ी करिए, जाम लग जाता है | Traffic Issue",
+          "description": "Seedhe Mudde Ki Baat : Gwalior के लोगों सड़क पर गाड़ी मत खड़ी करिए, जाम लग जाता है ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-23T15:57:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/_k3UDvNFNvE/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 21,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-01-23T16:26:37Z"
     },
     {
       "clusterId": "xpress-secl",
       "topic": "Xpress SECL",
-      "videoCount": 6,
-      "trendScore": 30.8,
+      "videoCount": 7,
+      "trendScore": 32.5,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oDY8K8junsk/hqdefault.jpg",
           "durationSeconds": 183,
           "durationFormatted": "03:03",
-          "views": 467,
+          "views": 470,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UsZy-pDjG4E/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 439,
-          "likes": 7,
+          "views": 423,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -552,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9kwnbo7Sff8/hqdefault.jpg",
           "durationSeconds": 312,
           "durationFormatted": "05:12",
-          "views": 159,
+          "views": 158,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -582,13 +651,13 @@
           "thumbnail": "https://i.ytimg.com/vi/yAO6w1X0pmk/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 33,
-          "likes": 3,
+          "views": 32,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-01-24T03:54:56Z"
+      "latestUpdateAt": "2026-01-24T04:51:29Z"
     }
   ]
 }
