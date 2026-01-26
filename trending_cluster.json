@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-01-26T19:04:40.564019Z",
+  "generatedAt": "2026-01-26T20:53:23.208552Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "day-republic",
       "topic": "Day Republic",
       "videoCount": 58,
-      "trendScore": 61.7,
+      "trendScore": 59.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "i0oJ2pIaPRs",
-          "title": "Republic Day Parade Live : कर्तव्य पथ से खूबसूरत झांकी LIVE | 26 January 2026 Republic Day | PM Modi",
-          "description": "Republic Day Parade Live : कर्तव्य पथ से खूबसूरत झांकी LIVE | 26 January 2026 Republic Day | PM ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-26T12:17:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/i0oJ2pIaPRs/hqdefault.jpg",
-          "durationSeconds": 42899,
-          "durationFormatted": "11:54:59",
-          "views": 58318,
-          "likes": 428,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
           "videoId": "dcoqEI5vE0c",
           "title": "🔴Republic Day 2026 Chhattisgarh LIVE : गणतंत्र दिवस लाइव | 77th Republic Day 2026 Parade | CM Sai",
           "description": "IBC24, Republic Day 2026 Chhattisgarh LIVE : गणतंत्र दिवस लाइव | 77th Republic Day 2026 Parade | CM Sai ...",
@@ -33,13 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/dcoqEI5vE0c/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 23620,
+          "views": 23827,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "IIaZi0bXKoY",
           "title": "Republic Day Celebration 2026 : कर्त्तव्य पथ पर शानदार 30 झांकियां, देशवासियों में जबरदस्त उत्साह",
           "description": "Republic Day Celebration 2026 : कर्त्तव्य पथ पर शानदार 30 झांकियां, देशवासियों में ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/IIaZi0bXKoY/hqdefault.jpg",
           "durationSeconds": 687,
           "durationFormatted": "11:27",
-          "views": 13279,
-          "likes": 123,
+          "views": 15474,
+          "likes": 124,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "4YB54KZcXnY",
           "title": "77th Republic Day 2026 Highlights: पूरी दुनिया ने देखा भारतीय सेना के शौर्य का प्रदर्शन! देखिए..",
           "description": "IBC24, 77th Republic Day 2026 Highlights: पूरी दुनिया ने देखा भारतीय सेना के शौर्य का ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/4YB54KZcXnY/hqdefault.jpg",
           "durationSeconds": 1283,
           "durationFormatted": "21:23",
-          "views": 5000,
+          "views": 5287,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "iE3cgr7mAD0",
           "title": "Padma Awards 2026 : पिता धर्मेंद्र को पद्म विभूषण, याद कर भावुक हुए सनी देओल! | Top News",
           "description": "Padma Awards 2026 : पिता धर्मेंद्र को पद्म विभूषण, याद कर भावुक हुए सनी देओल!",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/iE3cgr7mAD0/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 4534,
+          "views": 5072,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Xt5HpHumrn4",
+          "title": "Republic Day 2026: Coast Guard का दमदार मार्च, निशी शर्मा ने किया नेतृत्व #shorts #IndianCoastGuard",
+          "description": "IBC24, Republic Day 2026: Coast Guard का दमदार मार्च, निशी शर्मा ने किया नेतृत्व ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-26T16:42:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xt5HpHumrn4/hqdefault.jpg",
+          "durationSeconds": 38,
+          "durationFormatted": "00:38",
+          "views": 3931,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-01-26T18:56:19Z"
+      "latestUpdateAt": "2026-01-26T19:29:41Z"
     },
     {
       "clusterId": "chhattisgarh-january",
       "topic": "Chhattisgarh January",
       "videoCount": 10,
-      "trendScore": 40.8,
+      "trendScore": 40.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,22 +102,22 @@
           "thumbnail": "https://i.ytimg.com/vi/7_5FPO0DQgU/hqdefault.jpg",
           "durationSeconds": 933,
           "durationFormatted": "15:33",
-          "views": 14896,
-          "likes": 227,
+          "views": 15155,
+          "likes": 229,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
           "videoId": "s04gKcwbh-4",
-          "title": "26 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "27 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "26 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-01-25T23:30:20Z",
           "thumbnail": "https://i.ytimg.com/vi/s04gKcwbh-4/hqdefault.jpg",
           "durationSeconds": 948,
           "durationFormatted": "15:48",
-          "views": 14009,
+          "views": 14084,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Events"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9o3O0X4ttiU/hqdefault.jpg",
           "durationSeconds": 918,
           "durationFormatted": "15:18",
-          "views": 2951,
+          "views": 2943,
           "likes": 28,
           "videoType": "VOD",
           "genre": "Events"
@@ -171,10 +171,94 @@
       "latestUpdateAt": "2026-01-26T18:22:51Z"
     },
     {
+      "clusterId": "दरग-walkietalkienews",
+      "topic": "दुर्ग walkietalkienews",
+      "videoCount": 6,
+      "trendScore": 36.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "C3fRlyJ52rY",
+          "title": "दुर्ग जिले के हनौदा गांव में आधी रात मंदिर में तोड़फोड़,हनुमान प्रतिमा क्षतिग्रस्त #walkietalkienews",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #padmanabhpur #hanauda #hanumantemple #religioussentiments ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-26T06:11:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/C3fRlyJ52rY/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 2447,
+          "likes": 41,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "DXd-SjeJ7CE",
+          "title": "दुर्ग: ध्वजारोहण व सांस्कृतिक रंग सेसजा गणतंत्र उत्सव.!",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #happyrepublicday2026 #cultureprogram.",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-26T07:16:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/DXd-SjeJ7CE/hqdefault.jpg",
+          "durationSeconds": 75,
+          "durationFormatted": "01:15",
+          "views": 936,
+          "likes": 44,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "xEudcctdvbs",
+          "title": "रैली में पिटाई, थाने में बवालइलाके में तनाव का माहौल.!",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #rallyviolence #bhilainagar #durgpolice #karnisena #bikestunt #traffic ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-26T12:33:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/xEudcctdvbs/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 407,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "_jgm-1lSG8c",
+          "title": "भू माफिया बसंत अग्रवाल मामले पर पत्रकार देवेश तिवारी का बड़ा खुलासा। वॉकी-टॉकी से खास बातचीत,",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #basantagrwal #landmafia #basantlanddealer #bjp #congress #bjpindia ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-26T18:45:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/_jgm-1lSG8c/hqdefault.jpg",
+          "durationSeconds": 77,
+          "durationFormatted": "01:17",
+          "views": 389,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "9aMdrh3SW04",
+          "title": "छत्तीसगढ़ में आबकारी नीति बदली, शराब अब प्लास्टिक बोतलों में बिकेगी। 2026-27 से लागू फैसला,",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #kohka #liquorpolicy #plasticbottle #cabinetdecisions #liquor ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-26T16:15:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/9aMdrh3SW04/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 176,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-26T18:45:11Z"
+    },
+    {
       "clusterId": "xpress-जगदलपर",
       "topic": "Xpress जगदलपुर",
       "videoCount": 10,
-      "trendScore": 37.7,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -201,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ILqGtfbS8K8/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 184,
+          "views": 193,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WRXqN-TehOo/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 120,
+          "views": 174,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/q_L0Koffwx8/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 95,
+          "views": 96,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
@@ -246,97 +330,13 @@
           "thumbnail": "https://i.ytimg.com/vi/1mz2XJM1LN4/hqdefault.jpg",
           "durationSeconds": 213,
           "durationFormatted": "03:33",
-          "views": 66,
+          "views": 68,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-01-26T13:13:05Z"
-    },
-    {
-      "clusterId": "दरग-walkietalkienews",
-      "topic": "दुर्ग walkietalkienews",
-      "videoCount": 5,
-      "trendScore": 36.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "C3fRlyJ52rY",
-          "title": "दुर्ग जिले के हनौदा गांव में आधी रात मंदिर में तोड़फोड़,हनुमान प्रतिमा क्षतिग्रस्त #walkietalkienews",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #padmanabhpur #hanauda #hanumantemple #religioussentiments ...",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-01-26T06:11:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/C3fRlyJ52rY/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 2241,
-          "likes": 41,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "DXd-SjeJ7CE",
-          "title": "दुर्ग: ध्वजारोहण व सांस्कृतिक रंग सेसजा गणतंत्र उत्सव.!",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #happyrepublicday2026 #cultureprogram.",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-01-26T07:16:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/DXd-SjeJ7CE/hqdefault.jpg",
-          "durationSeconds": 75,
-          "durationFormatted": "01:15",
-          "views": 911,
-          "likes": 43,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "xEudcctdvbs",
-          "title": "रैली में पिटाई, थाने में बवालइलाके में तनाव का माहौल.!",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #rallyviolence #bhilainagar #durgpolice #karnisena #bikestunt #traffic ...",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-01-26T12:33:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/xEudcctdvbs/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 356,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "9aMdrh3SW04",
-          "title": "छत्तीसगढ़ में आबकारी नीति बदली, शराब अब प्लास्टिक बोतलों में बिकेगी। 2026-27 से लागू फैसला,",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #kohka #liquorpolicy #plasticbottle #cabinetdecisions #liquor ...",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-01-26T16:15:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/9aMdrh3SW04/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 188,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "_jgm-1lSG8c",
-          "title": "भू माफिया बसंत अग्रवाल मामले पर पत्रकार देवेश तिवारी का बड़ा खुलासा। वॉकी-टॉकी से खास बातचीत,",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #basantagrwal #landmafia #basantlanddealer #bjp #congress #bjpindia ...",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-01-26T18:45:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/_jgm-1lSG8c/hqdefault.jpg",
-          "durationSeconds": 77,
-          "durationFormatted": "01:17",
-          "views": 105,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-01-26T18:45:11Z"
     }
   ]
 }
