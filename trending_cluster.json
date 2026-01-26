@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-26T14:02:14.966152Z",
-  "clusterCount": 3,
+  "generatedAt": "2026-01-26T15:49:32.954235Z",
+  "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "day-republic",
       "topic": "Day Republic",
-      "videoCount": 98,
-      "trendScore": 62.1,
+      "videoCount": 87,
+      "trendScore": 62.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/i0oJ2pIaPRs/hqdefault.jpg",
           "durationSeconds": 42899,
           "durationFormatted": "11:54:59",
-          "views": 47576,
-          "likes": 373,
+          "views": 50741,
+          "likes": 400,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/NYMwxcI-uQo/hqdefault.jpg",
           "durationSeconds": 33099,
           "durationFormatted": "09:11:39",
-          "views": 16617,
+          "views": 16952,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
-          "videoId": "7_5FPO0DQgU",
-          "title": "Chhattisgarh Samachar Today: CG News 26 January 2026 | CG Breaking News | Media CG News",
-          "description": "Chhattisgarh Samachar Today: CG News 26 January 2026 | CG Breaking News | Media CG News Instagram ...",
-          "channelTitle": "Media Chhattisgarh",
-          "publishedAt": "2026-01-25T23:15:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/7_5FPO0DQgU/hqdefault.jpg",
-          "durationSeconds": 933,
-          "durationFormatted": "15:33",
-          "views": 11824,
-          "likes": 208,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
           "videoId": "h8Enxxyf3Zw",
           "title": "🔴Republic Day Parade Delhi LIVE : गणतंत्र दिवस परेड लाइव | 77th Republic Day 2026 Parade | PM Modi",
           "description": "IBC24, Republic Day Parade Delhi LIVE : गणतंत्र दिवस परेड लाइव | 77th Republic Day 2026 Parade | PM ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/h8Enxxyf3Zw/hqdefault.jpg",
           "durationSeconds": 26474,
           "durationFormatted": "07:21:14",
-          "views": 11038,
+          "views": 11890,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "wKSA_w_SL_U",
           "title": "🔴77th Republic Day Parade LIVE : 26 January 2026 Parade LIVE | Kartavya Path | गणतंत्र दिवस लाइव",
           "description": "IBC24, 77th Republic Day Parade LIVE : 26 January 2026 Parade LIVE | Kartavya Path | गणतंत्र दिवस लाइव ...",
@@ -78,22 +63,136 @@
           "thumbnail": "https://i.ytimg.com/vi/wKSA_w_SL_U/hqdefault.jpg",
           "durationSeconds": 33396,
           "durationFormatted": "09:16:36",
-          "views": 9806,
+          "views": 10120,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "IgYYaB_ajzM",
+          "title": "Republic Day Jhanki LIVE: गणतंत्र दिवस पर सेना की ताकत देख कांप गया पाकिस्तान! | Modi | India Vs Pak",
+          "description": "Republic Day 2026 LIVE : देश में Gantantra Diwas की धूम | PM Modi | Draupadi Murmu । Latest News Republic Day ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-26T11:58:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/IgYYaB_ajzM/hqdefault.jpg",
+          "durationSeconds": 18485,
+          "durationFormatted": "05:08:05",
+          "views": 9637,
+          "likes": 58,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-01-26T15:46:22Z"
+    },
+    {
+      "clusterId": "chhattisgarh-january",
+      "topic": "Chhattisgarh January",
+      "videoCount": 8,
+      "trendScore": 38.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "7_5FPO0DQgU",
+          "title": "Chhattisgarh Samachar Today: CG News 26 January 2026 | CG Breaking News | Media CG News",
+          "description": "Chhattisgarh Samachar Today: CG News 26 January 2026 | CG Breaking News | Media CG News Instagram ...",
+          "channelTitle": "Media Chhattisgarh",
+          "publishedAt": "2026-01-25T23:15:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/7_5FPO0DQgU/hqdefault.jpg",
+          "durationSeconds": 933,
+          "durationFormatted": "15:33",
+          "views": 12774,
+          "likes": 220,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "s04gKcwbh-4",
+          "title": "26 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "26 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-01-25T23:30:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/s04gKcwbh-4/hqdefault.jpg",
+          "durationSeconds": 948,
+          "durationFormatted": "15:48",
+          "views": 11415,
+          "likes": 45,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "9o3O0X4ttiU",
+          "title": "26 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
+          "description": "26 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today ...",
+          "channelTitle": "द छत्तीसगढ़ समाचार",
+          "publishedAt": "2026-01-26T00:22:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/9o3O0X4ttiU/hqdefault.jpg",
+          "durationSeconds": 918,
+          "durationFormatted": "15:18",
+          "views": 2647,
+          "likes": 28,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "s8CxHaKbayQ",
+          "title": "26 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi",
+          "description": "26 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-01-25T23:26:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/s8CxHaKbayQ/hqdefault.jpg",
+          "durationSeconds": 560,
+          "durationFormatted": "09:20",
+          "views": 2384,
+          "likes": 67,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "bKSNRjgIZCs",
+          "title": "26 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "26 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
+          "channelTitle": "SR Chhattisgarh",
+          "publishedAt": "2026-01-26T00:40:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/bKSNRjgIZCs/hqdefault.jpg",
+          "durationSeconds": 913,
+          "durationFormatted": "15:13",
+          "views": 1569,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-01-26T13:58:34Z"
+      "latestUpdateAt": "2026-01-26T13:43:30Z"
     },
     {
-      "clusterId": "retreat-republic",
-      "topic": "Retreat Republic",
-      "videoCount": 4,
-      "trendScore": 34.3,
+      "clusterId": "retreat-border",
+      "topic": "Retreat Border",
+      "videoCount": 5,
+      "trendScore": 36.5,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "H6LPaK17_xs",
+          "title": "Attari Wagah Border Retreat Ceremony : अटारी-वाघा बॉर्डर पर देशभक्ति का जज्बा | N18S",
+          "description": "Attari Wagah Border Retreat Ceremony : अटारी-वाघा बॉर्डर पर देशभक्ति का जज्बा | N18S ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-26T14:22:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/H6LPaK17_xs/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 2609,
+          "likes": 29,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
           "videoId": "SF_Lm4leOQY",
           "title": "Republic Day पर Atari Wagha Border से भव्य Beating Retreat Ceremony देखिए",
           "description": "Republic Day पर Atari Wagha Border से भव्य Beating Retreat Ceremony देखिए #republicday #republicday2026 ...",
@@ -102,23 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SF_Lm4leOQY/hqdefault.jpg",
           "durationSeconds": 545,
           "durationFormatted": "09:05",
-          "views": 970,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "FU-YVswxDGI",
-          "title": "Republic Day 2026: भारत माता की जय से गूंजा अटारी-वाघा बॉर्डर | Attari Wagah Border Retreat Ceremony",
-          "description": "Republic Day 2026: भारत माता की जय से गूंजा अटारी-वाघा बॉर्डर | Attari Wagah Border ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-26T13:13:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/FU-YVswxDGI/hqdefault.jpg",
-          "durationSeconds": 683,
-          "durationFormatted": "11:23",
-          "views": 129,
-          "likes": 1,
+          "views": 1561,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -132,28 +216,43 @@
           "thumbnail": "https://i.ytimg.com/vi/eCvTiNhrHqU/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 60,
+          "views": 1196,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "FU-YVswxDGI",
+          "title": "Republic Day 2026: भारत माता की जय से गूंजा अटारी-वाघा बॉर्डर | Attari Wagah Border Retreat Ceremony",
+          "description": "Republic Day 2026: भारत माता की जय से गूंजा अटारी-वाघा बॉर्डर | Attari Wagah Border ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-26T13:13:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/FU-YVswxDGI/hqdefault.jpg",
+          "durationSeconds": 683,
+          "durationFormatted": "11:23",
+          "views": 340,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
           "videoId": "AExLcPAAAdk",
           "title": "Republic Day 2026: Attari-Wagah Border पर जवानों ने दुश्मन देश को दिखाया शौर्य | Beating Retreat",
           "description": "Republic Day 2026: Attari-Wagah Border पर जवानों ने दुश्मन देश को दिखाया शौर्य | Beating ...",
           "channelTitle": "NDTV MP Chhattisgarh",
           "publishedAt": "2026-01-26T14:00:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/AExLcPAAAdk/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 0,
+          "thumbnail": "https://i.ytimg.com/vi/AExLcPAAAdk/hqdefault.jpg",
+          "durationSeconds": 2056,
+          "durationFormatted": "34:16",
+          "views": 64,
           "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-01-26T14:00:31Z"
+      "latestUpdateAt": "2026-01-26T14:22:22Z"
     },
     {
       "clusterId": "दरग-walkietalkienews",
@@ -171,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/C3fRlyJ52rY/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 838,
-          "likes": 26,
+          "views": 1227,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -186,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DXd-SjeJ7CE/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 472,
-          "likes": 21,
+          "views": 613,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -201,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pToLxyYojuA/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 299,
-          "likes": 8,
+          "views": 325,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,13 +315,82 @@
           "thumbnail": "https://i.ytimg.com/vi/xEudcctdvbs/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 224,
-          "likes": 1,
+          "views": 271,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-01-26T12:33:27Z"
+    },
+    {
+      "clusterId": "ratlam-मरज",
+      "topic": "Ratlam मैरिज",
+      "videoCount": 4,
+      "trendScore": 32.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "OFoFp6-gG1k",
+          "title": "Ratlam में लाइसेंसी आर्म्स दुकान में ब्लास्ट, 3 लोग झुलसे, लोगों ने दौड़कर जान बचाई",
+          "description": "रतलाम में एक बंदूक की दुकान में सोमवार को हुए धमाके में तीन लोग गंभीर ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-26T12:11:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/OFoFp6-gG1k/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 755,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "8SGbURwzUIg",
+          "title": "रतलाम के गांव में तालिबानी फरमान, लव मैरिज पर पूरे परिवार का बहिष्कार!",
+          "description": "रतलाम के गांव में तालिबानी फरमान, लव मैरिज पर पूरे परिवार का ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-26T06:30:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/8SGbURwzUIg/hqdefault.jpg",
+          "durationSeconds": 248,
+          "durationFormatted": "04:08",
+          "views": 239,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "q7v53Jup1eM",
+          "title": "Ratlam News: पंचेवा गांव में लव मैरिज पर तालिबानी फरमान। लव मैरिज पर परिवारों को बहिष्कार की चेतावनी",
+          "description": "IBC24, Ratlam News: पंचेवा गांव में लव मैरिज पर तालिबानी फरमान। लव मैरिज पर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-26T14:11:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/q7v53Jup1eM/hqdefault.jpg",
+          "durationSeconds": 111,
+          "durationFormatted": "01:51",
+          "views": 120,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "64WFUoKtVfY",
+          "title": "Ratlam News: लाइसेंसी आर्म्स की दुकान में ब्लास्ट। हादसे में 3 लोग झुलसे, इलाज जारी",
+          "description": "IBC24, Ratlam News, लाइसेंसी आर्म्स की दुकान में ब्लास्ट, हादसे में 3 लोग ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-26T13:06:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/64WFUoKtVfY/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 116,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-26T14:11:51Z"
     }
   ]
 }
