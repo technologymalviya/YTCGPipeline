@@ -14,8 +14,8 @@ on:
     # 8 PM IST = 14:30 UTC
     # 10 PM IST = 16:30 UTC
     # 12 AM IST (midnight) = 18:30 UTC
-    # Cron: minute 30, every 2 hours from 0 to 18 UTC
-    - cron: '30 0-18/2 * * *'
+    # Cron: minute 0, every 2 hours UTC
+   - cron: "0 */2 * * *"  
   workflow_dispatch:
 
 permissions:
