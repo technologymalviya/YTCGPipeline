@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-26T20:53:23.208552Z",
+  "generatedAt": "2026-01-26T22:49:31.228915Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "day-republic",
       "topic": "Day Republic",
-      "videoCount": 58,
-      "trendScore": 59.2,
+      "videoCount": 62,
+      "trendScore": 58.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dcoqEI5vE0c/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 23827,
+          "views": 23919,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -33,13 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/IIaZi0bXKoY/hqdefault.jpg",
           "durationSeconds": 687,
           "durationFormatted": "11:27",
-          "views": 15474,
-          "likes": 124,
+          "views": 16521,
+          "likes": 125,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "q7f2pd3Gq1k",
+          "title": "Republic Day 2026: कर्तव्य पथ के ऊपर गरजी भारतीय वायुसेना। 29 विमानों ने दिया भारत की ताकत का संदेश",
+          "description": "IBC24, Republic Day 2026: कर्तव्य पथ के ऊपर गरजी भारतीय वायुसेना। 29 विमानों ने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-26T15:17:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/q7f2pd3Gq1k/hqdefault.jpg",
+          "durationSeconds": 715,
+          "durationFormatted": "11:55",
+          "views": 9747,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
           "videoId": "4YB54KZcXnY",
           "title": "77th Republic Day 2026 Highlights: पूरी दुनिया ने देखा भारतीय सेना के शौर्य का प्रदर्शन! देखिए..",
           "description": "IBC24, 77th Republic Day 2026 Highlights: पूरी दुनिया ने देखा भारतीय सेना के शौर्य का ...",
@@ -48,13 +63,13 @@
           "thumbnail": "https://i.ytimg.com/vi/4YB54KZcXnY/hqdefault.jpg",
           "durationSeconds": 1283,
           "durationFormatted": "21:23",
-          "views": 5287,
+          "views": 5305,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "iE3cgr7mAD0",
           "title": "Padma Awards 2026 : पिता धर्मेंद्र को पद्म विभूषण, याद कर भावुक हुए सनी देओल! | Top News",
           "description": "Padma Awards 2026 : पिता धर्मेंद्र को पद्म विभूषण, याद कर भावुक हुए सनी देओल!",
@@ -63,25 +78,10 @@
           "thumbnail": "https://i.ytimg.com/vi/iE3cgr7mAD0/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 5072,
+          "views": 5203,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "Xt5HpHumrn4",
-          "title": "Republic Day 2026: Coast Guard का दमदार मार्च, निशी शर्मा ने किया नेतृत्व #shorts #IndianCoastGuard",
-          "description": "IBC24, Republic Day 2026: Coast Guard का दमदार मार्च, निशी शर्मा ने किया नेतृत्व ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-26T16:42:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/Xt5HpHumrn4/hqdefault.jpg",
-          "durationSeconds": 38,
-          "durationFormatted": "00:38",
-          "views": 3931,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-01-26T19:29:41Z"
@@ -90,7 +90,7 @@
       "clusterId": "chhattisgarh-january",
       "topic": "Chhattisgarh January",
       "videoCount": 10,
-      "trendScore": 40.0,
+      "trendScore": 39.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7_5FPO0DQgU/hqdefault.jpg",
           "durationSeconds": 933,
           "durationFormatted": "15:33",
-          "views": 15155,
+          "views": 15173,
           "likes": 229,
           "videoType": "VOD",
           "genre": "Events"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/s04gKcwbh-4/hqdefault.jpg",
           "durationSeconds": 948,
           "durationFormatted": "15:48",
-          "views": 14084,
+          "views": 14085,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Events"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9o3O0X4ttiU/hqdefault.jpg",
           "durationSeconds": 918,
           "durationFormatted": "15:18",
-          "views": 2943,
+          "views": 2973,
           "likes": 28,
           "videoType": "VOD",
           "genre": "Events"
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/s8CxHaKbayQ/hqdefault.jpg",
           "durationSeconds": 560,
           "durationFormatted": "09:20",
-          "views": 2593,
-          "likes": 69,
+          "views": 2633,
+          "likes": 70,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bKSNRjgIZCs/hqdefault.jpg",
           "durationSeconds": 913,
           "durationFormatted": "15:13",
-          "views": 1765,
+          "views": 1779,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -174,7 +174,7 @@
       "clusterId": "दरग-walkietalkienews",
       "topic": "दुर्ग walkietalkienews",
       "videoCount": 6,
-      "trendScore": 36.6,
+      "trendScore": 35.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/C3fRlyJ52rY/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 2447,
-          "likes": 41,
+          "views": 2464,
+          "likes": 42,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,28 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/DXd-SjeJ7CE/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 936,
+          "views": 971,
           "likes": 44,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
-          "videoId": "xEudcctdvbs",
-          "title": "रैली में पिटाई, थाने में बवालइलाके में तनाव का माहौल.!",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #rallyviolence #bhilainagar #durgpolice #karnisena #bikestunt #traffic ...",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-01-26T12:33:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/xEudcctdvbs/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 407,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
           "videoId": "_jgm-1lSG8c",
           "title": "भू माफिया बसंत अग्रवाल मामले पर पत्रकार देवेश तिवारी का बड़ा खुलासा। वॉकी-टॉकी से खास बातचीत,",
           "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #basantagrwal #landmafia #basantlanddealer #bjp #congress #bjpindia ...",
@@ -231,10 +216,25 @@
           "thumbnail": "https://i.ytimg.com/vi/_jgm-1lSG8c/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 389,
+          "views": 552,
           "likes": 24,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "xEudcctdvbs",
+          "title": "रैली में पिटाई, थाने में बवालइलाके में तनाव का माहौल.!",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #rallyviolence #bhilainagar #durgpolice #karnisena #bikestunt #traffic ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-01-26T12:33:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/xEudcctdvbs/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 420,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Traffic"
         },
         {
           "index": 5,
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9aMdrh3SW04/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 176,
-          "likes": 1,
+          "views": 260,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +258,7 @@
       "clusterId": "xpress-जगदलपर",
       "topic": "Xpress जगदलपुर",
       "videoCount": 10,
-      "trendScore": 36.6,
+      "trendScore": 35.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Wt50UHWj5G8/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 239,
+          "views": 262,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ILqGtfbS8K8/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 193,
+          "views": 196,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WRXqN-TehOo/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 174,
+          "views": 179,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/q_L0Koffwx8/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 96,
+          "views": 105,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1mz2XJM1LN4/hqdefault.jpg",
           "durationSeconds": 213,
           "durationFormatted": "03:33",
-          "views": 68,
+          "views": 82,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
