@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-27T20:46:51.416339Z",
+  "generatedAt": "2026-01-27T22:44:03.342397Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "मफय-बसत",
       "topic": "माफिया बसंत",
       "videoCount": 5,
-      "trendScore": 45.0,
+      "trendScore": 43.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qRqEorvq7pE/hqdefault.jpg",
           "durationSeconds": 1419,
           "durationFormatted": "23:39",
-          "views": 15109,
-          "likes": 903,
+          "views": 16407,
+          "likes": 931,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BBCCzh1o214/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 1175,
+          "views": 1494,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Yn1q3OWniFw/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 664,
-          "likes": 23,
+          "views": 698,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5zO3Ets68hU/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 52,
+          "views": 65,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -89,8 +89,8 @@
     {
       "clusterId": "iran-america",
       "topic": "Iran America",
-      "videoCount": 4,
-      "trendScore": 41.0,
+      "videoCount": 5,
+      "trendScore": 40.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KgN0yw-8Iic/hqdefault.jpg",
           "durationSeconds": 503,
           "durationFormatted": "08:23",
-          "views": 35005,
-          "likes": 537,
+          "views": 37074,
+          "likes": 549,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/a9KGmtOXxWo/hqdefault.jpg",
           "durationSeconds": 1050,
           "durationFormatted": "17:30",
-          "views": 17956,
-          "likes": 614,
+          "views": 36213,
+          "likes": 761,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/YZgQm_xCU3k/hqdefault.jpg",
           "durationSeconds": 682,
           "durationFormatted": "11:22",
-          "views": 15558,
-          "likes": 569,
+          "views": 21451,
+          "likes": 629,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,10 +147,25 @@
           "thumbnail": "https://i.ytimg.com/vi/pfvJAFxjmG4/hqdefault.jpg",
           "durationSeconds": 1175,
           "durationFormatted": "19:35",
-          "views": 89,
+          "views": 102,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "JkSzuQPcENY",
+          "title": "Iran America War: एयरस्पेस से इनकार! ट्रंप का ईरान प्लान क्यों फेल हुआ?",
+          "description": "UAE ने अमेरिका और ट्रंप को एयरस्पेस देने से इनकार कर ईरान को बड़ी राहत ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-27T13:44:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/JkSzuQPcENY/hqdefault.jpg",
+          "durationSeconds": 14547,
+          "durationFormatted": "04:02:27",
+          "views": 51,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-01-27T18:02:31Z"
@@ -159,7 +174,7 @@
       "clusterId": "bhaskar-बक",
       "topic": "Bhaskar बैंक",
       "videoCount": 11,
-      "trendScore": 41.0,
+      "trendScore": 40.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/w095zeUrA5c/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 1690,
-          "likes": 33,
+          "views": 1797,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/obXREkF_UOk/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 897,
-          "likes": 19,
+          "views": 922,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8bXuKfy8bYE/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 717,
-          "likes": 17,
+          "views": 758,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -243,7 +258,7 @@
       "clusterId": "chhattisgarh-sahu",
       "topic": "Chhattisgarh Sahu",
       "videoCount": 4,
-      "trendScore": 40.0,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -255,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/phBoueZVdxc/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 38467,
-          "likes": 835,
+          "views": 41212,
+          "likes": 838,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -270,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OegU_P91acg/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 30021,
-          "likes": 1099,
+          "views": 31231,
+          "likes": 1110,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MEUBKakAfnI/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 7355,
-          "likes": 247,
+          "views": 7791,
+          "likes": 249,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ikPWhDqm1y4/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 5451,
-          "likes": 228,
+          "views": 5632,
+          "likes": 230,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -312,7 +327,7 @@
       "clusterId": "ugc-protest",
       "topic": "UGC Protest",
       "videoCount": 9,
-      "trendScore": 39.9,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
@@ -324,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/je9nHW_r57I/hqdefault.jpg",
           "durationSeconds": 707,
           "durationFormatted": "11:47",
-          "views": 4742,
-          "likes": 62,
+          "views": 4792,
+          "likes": 63,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -339,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BRtW7_IdYN4/hqdefault.jpg",
           "durationSeconds": 10274,
           "durationFormatted": "02:51:14",
-          "views": 3140,
-          "likes": 25,
+          "views": 3158,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -396,7 +411,7 @@
       "clusterId": "raipur-january",
       "topic": "Raipur January",
       "videoCount": 9,
-      "trendScore": 36.7,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
@@ -408,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nWDGlAzK6pQ/hqdefault.jpg",
           "durationSeconds": 953,
           "durationFormatted": "15:53",
-          "views": 10612,
+          "views": 10651,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -430,6 +445,21 @@
         },
         {
           "index": 3,
+          "videoId": "3nZ7SMOezm0",
+          "title": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi",
+          "description": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-01-26T23:32:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/3nZ7SMOezm0/hqdefault.jpg",
+          "durationSeconds": 546,
+          "durationFormatted": "09:06",
+          "views": 3331,
+          "likes": 85,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "vvO_3Ngdnao",
           "title": "27 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "27 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
@@ -442,21 +472,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "3nZ7SMOezm0",
-          "title": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi",
-          "description": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-01-26T23:32:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/3nZ7SMOezm0/hqdefault.jpg",
-          "durationSeconds": 546,
-          "durationFormatted": "09:06",
-          "views": 3267,
-          "likes": 85,
-          "videoType": "VOD",
-          "genre": "Politics"
         },
         {
           "index": 5,
@@ -480,7 +495,7 @@
       "clusterId": "trade-deal",
       "topic": "Trade Deal",
       "videoCount": 5,
-      "trendScore": 36.1,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7oA1mL10aO4/hqdefault.jpg",
           "durationSeconds": 209,
           "durationFormatted": "03:29",
-          "views": 7066,
+          "views": 7068,
           "likes": 62,
           "videoType": "VOD",
           "genre": "General"
@@ -507,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Jdtguv82-fc/hqdefault.jpg",
           "durationSeconds": 38744,
           "durationFormatted": "10:45:44",
-          "views": 1497,
+          "views": 1548,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vO2GhsDTaH4/hqdefault.jpg",
           "durationSeconds": 240,
           "durationFormatted": "04:00",
-          "views": 767,
+          "views": 935,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9ZRkbC3Ng-A/hqdefault.jpg",
           "durationSeconds": 371,
           "durationFormatted": "06:11",
-          "views": 346,
+          "views": 363,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tuKRIjyiCc4/hqdefault.jpg",
           "durationSeconds": 380,
           "durationFormatted": "06:20",
-          "views": 29,
+          "views": 76,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -564,7 +579,7 @@
       "clusterId": "mamta-kulkarni",
       "topic": "Mamta Kulkarni",
       "videoCount": 4,
-      "trendScore": 32.4,
+      "trendScore": 31.4,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7O9t2sUs-xA/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 6576,
+          "views": 6768,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -591,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9Vx63GOenX0/hqdefault.jpg",
           "durationSeconds": 678,
           "durationFormatted": "11:18",
-          "views": 2194,
-          "likes": 21,
+          "views": 2300,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -606,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7SPMszNaJYE/hqdefault.jpg",
           "durationSeconds": 650,
           "durationFormatted": "10:50",
-          "views": 269,
+          "views": 266,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NQNWvnQ1xZQ/hqdefault.jpg",
           "durationSeconds": 193,
           "durationFormatted": "03:13",
-          "views": 212,
+          "views": 263,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -630,10 +645,10 @@
       "latestUpdateAt": "2026-01-27T16:35:21Z"
     },
     {
-      "clusterId": "bhilai-bank",
-      "topic": "Bhilai Bank",
+      "clusterId": "bank-employee",
+      "topic": "Bank Employee",
       "videoCount": 4,
-      "trendScore": 27.6,
+      "trendScore": 26.7,
       "topVideos": [
         {
           "index": 1,
@@ -645,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6xqljf7JNJ8/hqdefault.jpg",
           "durationSeconds": 732,
           "durationFormatted": "12:12",
-          "views": 1042,
+          "views": 1066,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -660,28 +675,13 @@
           "thumbnail": "https://i.ytimg.com/vi/FqbdP2X62KA/hqdefault.jpg",
           "durationSeconds": 229,
           "durationFormatted": "03:49",
-          "views": 35,
+          "views": 54,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "SHbBseWni7M",
-          "title": "Bank Strike News: आखिर किस मांग को लेकर सड़कों पर उतरे Bank Employee, जानिए मामला | Breaking News",
-          "description": "Bank Strike News: आखिर किस मांग को लेकर सड़कों पर उतरे Bank Employee, जानिए मामला ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-27T17:00:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/SHbBseWni7M/hqdefault.jpg",
-          "durationSeconds": 405,
-          "durationFormatted": "06:45",
-          "views": 35,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "vBBQOz84Ivs",
           "title": "Bank Strike  :UFBU के आह्वान पर बैंक कर्मचारियों का प्रदर्शन, 5-डे वर्किंग की मांग India News Mp/Cg",
           "description": "यूनाइटेड फोरम ऑफ बैंक यूनियंस (UFBU) के आह्वान पर बैंक कर्मचारी 5-डे ...",
@@ -690,10 +690,25 @@
           "thumbnail": "https://i.ytimg.com/vi/vBBQOz84Ivs/hqdefault.jpg",
           "durationSeconds": 731,
           "durationFormatted": "12:11",
-          "views": 30,
+          "views": 36,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 4,
+          "videoId": "SHbBseWni7M",
+          "title": "Bank Strike News: आखिर किस मांग को लेकर सड़कों पर उतरे Bank Employee, जानिए मामला | Breaking News",
+          "description": "Bank Strike News: आखिर किस मांग को लेकर सड़कों पर उतरे Bank Employee, जानिए मामला ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-27T17:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/SHbBseWni7M/hqdefault.jpg",
+          "durationSeconds": 405,
+          "durationFormatted": "06:45",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-01-27T17:00:44Z"
