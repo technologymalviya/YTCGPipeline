@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-27T19:17:21.598299Z",
+  "generatedAt": "2026-01-27T20:46:51.416339Z",
   "clusterCount": 9,
   "clusters": [
     {
-      "clusterId": "बसत-अगरवल",
-      "topic": "बसंत अग्रवाल",
+      "clusterId": "मफय-बसत",
+      "topic": "माफिया बसंत",
       "videoCount": 5,
-      "trendScore": 48.5,
+      "trendScore": 45.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qRqEorvq7pE/hqdefault.jpg",
           "durationSeconds": 1419,
           "durationFormatted": "23:39",
-          "views": 10944,
-          "likes": 875,
+          "views": 15109,
+          "likes": 903,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Yn1q3OWniFw/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 575,
-          "likes": 22,
+          "views": 664,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/iMCj9jcI-J4/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 113,
-          "likes": 2,
+          "views": 160,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5zO3Ets68hU/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 46,
-          "likes": 1,
+          "views": 52,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -89,8 +89,8 @@
     {
       "clusterId": "iran-america",
       "topic": "Iran America",
-      "videoCount": 5,
-      "trendScore": 43.3,
+      "videoCount": 4,
+      "trendScore": 41.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,23 +102,23 @@
           "thumbnail": "https://i.ytimg.com/vi/KgN0yw-8Iic/hqdefault.jpg",
           "durationSeconds": 503,
           "durationFormatted": "08:23",
-          "views": 26434,
-          "likes": 521,
+          "views": 35005,
+          "likes": 537,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "hQivR3k18To",
-          "title": "Iran America War Update: ट्रंप ने अगर ईरान पर किया हमला तो होगा बहुत बड़ा नुकसान? Trump | Khamenei",
-          "description": "Iran America War Update: ट्रंप ने अगर ईरान पर किया हमला तो होगा बहुत बड़ा ...",
+          "videoId": "a9KGmtOXxWo",
+          "title": "Iran America War Update: ईरान के 5000 मिसाइलें एक्टिव, अब्राहम लिंकन भेजकर फंस गए Trump ! | Khamenei",
+          "description": "Iran America War Update : ईरान के 5000 मिसाइलें एक्टिव, USS अब्राहम लिंकन भेजकर ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T14:13:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/hQivR3k18To/hqdefault.jpg",
-          "durationSeconds": 725,
-          "durationFormatted": "12:05",
-          "views": 19709,
-          "likes": 541,
+          "publishedAt": "2026-01-27T18:02:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/a9KGmtOXxWo/hqdefault.jpg",
+          "durationSeconds": 1050,
+          "durationFormatted": "17:30",
+          "views": 17956,
+          "likes": 614,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,28 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/YZgQm_xCU3k/hqdefault.jpg",
           "durationSeconds": 682,
           "durationFormatted": "11:22",
-          "views": 9857,
-          "likes": 482,
+          "views": 15558,
+          "likes": 569,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "a9KGmtOXxWo",
-          "title": "Iran America War Update: ईरान के 5000 मिसाइलें एक्टिव, अब्राहम लिंकन भेजकर फंस गए Trump ! | Khamenei",
-          "description": "Iran America War Update : ईरान के 5000 मिसाइलें एक्टिव, USS अब्राहम लिंकन भेजकर ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T18:02:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/a9KGmtOXxWo/hqdefault.jpg",
-          "durationSeconds": 1050,
-          "durationFormatted": "17:30",
-          "views": 9301,
-          "likes": 313,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "pfvJAFxjmG4",
           "title": "Iran America War: एयरस्पेस से इनकार! ट्रंप का ईरान प्लान क्यों फेल हुआ? India News MP",
           "description": "UAE ने अमेरिका और ट्रंप को एयरस्पेस देने से इनकार कर ईरान को बड़ी राहत ...",
@@ -171,94 +156,10 @@
       "latestUpdateAt": "2026-01-27T18:02:31Z"
     },
     {
-      "clusterId": "ugc-protest",
-      "topic": "UGC Protest",
-      "videoCount": 10,
-      "trendScore": 42.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "je9nHW_r57I",
-          "title": "UGC Controversy News : UGC के नए नियमों पर भड़का सवर्ण समाज, लाखों छात्रों ने दी आखिरी चेतावनी?",
-          "description": "UGC Controversy News : UGC के नए नियमों पर भड़का सवर्ण समाज, लाखों छात्रों ने ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T15:58:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/je9nHW_r57I/hqdefault.jpg",
-          "durationSeconds": 707,
-          "durationFormatted": "11:47",
-          "views": 4238,
-          "likes": 61,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "HcQrz35LW-A",
-          "title": "UGC Controversy : UGC के नए नियम को लेकर सीनियर प्रोफेसर ने दी अपनी राय | Student Protest | N18V",
-          "description": "UGC Controversy : UGC के नए नियम को लेकर सीनियर प्रोफेसर ने दी अपनी राय | Student ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T13:45:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/HcQrz35LW-A/hqdefault.jpg",
-          "durationSeconds": 307,
-          "durationFormatted": "05:07",
-          "views": 3819,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 3,
-          "videoId": "BRtW7_IdYN4",
-          "title": "Alankar Agnihotri Protest Against UGC Live : निलंबित सिटी मजिस्ट्रेट अलंकार अग्निहोत्री धरने पर बैठे",
-          "description": "Alankar Agnihotri Protest Against UGC Live : निलंबित सिटी मजिस्ट्रेट अलंकार ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T15:45:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/BRtW7_IdYN4/hqdefault.jpg",
-          "durationSeconds": 10274,
-          "durationFormatted": "02:51:14",
-          "views": 3083,
-          "likes": 25,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
-          "videoId": "RnaK__Ghb3s",
-          "title": "Student Protest Against UGC Live: UGC के खिलाफ सड़कों पर उतरे छात्र, भयंकर प्रोटेस्ट शुरू | Top News",
-          "description": "Students Protest Against UGC Live: UGC के खिलाफ सड़कों पर उतरे छात्र, भयंकर ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T15:51:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/RnaK__Ghb3s/hqdefault.jpg",
-          "durationSeconds": 16983,
-          "durationFormatted": "04:43:03",
-          "views": 1829,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "3b4gbOG_wtQ",
-          "title": "UGC Controversy LIVE : UGC के नए नियम पर सड़क पर आए लाखों छात्र, पूरा भारत बंद? Students Protest",
-          "description": "UGC Controversy LIVE : UGC के नए नियम पर सड़क पर आए लाखों छात्र, पूरा भारत बंद?",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-27T15:46:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/3b4gbOG_wtQ/hqdefault.jpg",
-          "durationSeconds": 12880,
-          "durationFormatted": "03:34:40",
-          "views": 1362,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Civic"
-        }
-      ],
-      "latestUpdateAt": "2026-01-27T16:57:54Z"
-    },
-    {
-      "clusterId": "bhaskar-सरकर",
-      "topic": "Bhaskar सरकारी",
+      "clusterId": "bhaskar-बक",
+      "topic": "Bhaskar बैंक",
       "videoCount": 11,
-      "trendScore": 41.9,
+      "trendScore": 41.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +171,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dgnbmvlsx9o/hqdefault.jpg",
           "durationSeconds": 136,
           "durationFormatted": "02:16",
-          "views": 2304,
+          "views": 2488,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZzcMT2G97N0/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 1287,
+          "views": 1327,
           "likes": 24,
           "videoType": "VOD",
           "genre": "General"
@@ -315,23 +216,23 @@
           "thumbnail": "https://i.ytimg.com/vi/obXREkF_UOk/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 823,
-          "likes": 18,
+          "views": 897,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "5bUrv-izZkM",
-          "title": "गंगोत्री धाम में गैर-हिन्दुओं के प्रवेश पर बैन! | CG Bhaskar",
-          "description": "गंगोत्री धाम में गैर-हिन्दुओं के प्रवेश पर बैन! | CG Bhaskar Join our Whatsapp Group ...",
+          "videoId": "8bXuKfy8bYE",
+          "title": "क्या मासूमों संग ग़लत काम करने वालों के घर चलेगा बुलडोजर | CG Bhaskar",
+          "description": "क्या मासूमों संगग़लत काम करने वालों केघर चलेगा बुलडोजर | CG Bhaskar Join our ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-27T09:00:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/5bUrv-izZkM/hqdefault.jpg",
-          "durationSeconds": 55,
-          "durationFormatted": "00:55",
-          "views": 594,
-          "likes": 24,
+          "publishedAt": "2026-01-27T16:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/8bXuKfy8bYE/hqdefault.jpg",
+          "durationSeconds": 158,
+          "durationFormatted": "02:38",
+          "views": 717,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +243,7 @@
       "clusterId": "chhattisgarh-sahu",
       "topic": "Chhattisgarh Sahu",
       "videoCount": 4,
-      "trendScore": 41.4,
+      "trendScore": 40.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/phBoueZVdxc/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 31754,
-          "likes": 820,
+          "views": 38467,
+          "likes": 835,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OegU_P91acg/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 25374,
-          "likes": 1072,
+          "views": 30021,
+          "likes": 1099,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MEUBKakAfnI/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 6101,
-          "likes": 240,
+          "views": 7355,
+          "likes": 247,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ikPWhDqm1y4/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 4666,
-          "likes": 227,
+          "views": 5451,
+          "likes": 228,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -408,10 +309,94 @@
       "latestUpdateAt": "2026-01-27T12:17:49Z"
     },
     {
+      "clusterId": "ugc-protest",
+      "topic": "UGC Protest",
+      "videoCount": 9,
+      "trendScore": 39.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "je9nHW_r57I",
+          "title": "UGC Controversy News : UGC के नए नियमों पर भड़का सवर्ण समाज, लाखों छात्रों ने दी आखिरी चेतावनी?",
+          "description": "UGC Controversy News : UGC के नए नियमों पर भड़का सवर्ण समाज, लाखों छात्रों ने ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-27T15:58:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/je9nHW_r57I/hqdefault.jpg",
+          "durationSeconds": 707,
+          "durationFormatted": "11:47",
+          "views": 4742,
+          "likes": 62,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "BRtW7_IdYN4",
+          "title": "Alankar Agnihotri Protest Against UGC Live : निलंबित सिटी मजिस्ट्रेट अलंकार अग्निहोत्री धरने पर बैठे",
+          "description": "Alankar Agnihotri Protest Against UGC Live : निलंबित सिटी मजिस्ट्रेट अलंकार ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-27T15:45:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/BRtW7_IdYN4/hqdefault.jpg",
+          "durationSeconds": 10274,
+          "durationFormatted": "02:51:14",
+          "views": 3140,
+          "likes": 25,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "RnaK__Ghb3s",
+          "title": "Student Protest Against UGC Live: UGC के खिलाफ सड़कों पर उतरे छात्र, भयंकर प्रोटेस्ट शुरू | Top News",
+          "description": "Students Protest Against UGC Live: UGC के खिलाफ सड़कों पर उतरे छात्र, भयंकर ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-27T15:51:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/RnaK__Ghb3s/hqdefault.jpg",
+          "durationSeconds": 16983,
+          "durationFormatted": "04:43:03",
+          "views": 1861,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 4,
+          "videoId": "3b4gbOG_wtQ",
+          "title": "UGC Controversy LIVE : UGC के नए नियम पर सड़क पर आए लाखों छात्र, पूरा भारत बंद? Students Protest",
+          "description": "UGC Controversy LIVE : UGC के नए नियम पर सड़क पर आए लाखों छात्र, पूरा भारत बंद?",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-27T15:46:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/3b4gbOG_wtQ/hqdefault.jpg",
+          "durationSeconds": 12880,
+          "durationFormatted": "03:34:40",
+          "views": 1419,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 5,
+          "videoId": "5TsVW00aLuQ",
+          "title": "UGC Controversy Update LIVE : UGC को लेकर दिल्ली में छात्रों का जोरदार हंगामा जारी! Student Protest",
+          "description": "UGC Controversy Update LIVE : UGC को लेकर दिल्ली में छात्रों का जोरदार हंगामा ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-27T15:45:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/5TsVW00aLuQ/hqdefault.jpg",
+          "durationSeconds": 10850,
+          "durationFormatted": "03:00:50",
+          "views": 920,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-01-27T16:57:54Z"
+    },
+    {
       "clusterId": "raipur-january",
       "topic": "Raipur January",
       "videoCount": 9,
-      "trendScore": 37.3,
+      "trendScore": 36.7,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +408,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nWDGlAzK6pQ/hqdefault.jpg",
           "durationSeconds": 953,
           "durationFormatted": "15:53",
-          "views": 10556,
+          "views": 10612,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -438,28 +423,13 @@
           "thumbnail": "https://i.ytimg.com/vi/piP3darwSWo/hqdefault.jpg",
           "durationSeconds": 1106,
           "durationFormatted": "18:26",
-          "views": 3927,
+          "views": 3984,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "3nZ7SMOezm0",
-          "title": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi",
-          "description": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-01-26T23:32:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/3nZ7SMOezm0/hqdefault.jpg",
-          "durationSeconds": 546,
-          "durationFormatted": "09:06",
-          "views": 3285,
-          "likes": 85,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "vvO_3Ngdnao",
           "title": "27 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "27 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
@@ -468,10 +438,25 @@
           "thumbnail": "https://i.ytimg.com/vi/vvO_3Ngdnao/hqdefault.jpg",
           "durationSeconds": 935,
           "durationFormatted": "15:35",
-          "views": 3252,
+          "views": 3268,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "3nZ7SMOezm0",
+          "title": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi",
+          "description": "27 January 2026 | छत्तीसगढ़ फटाफट खबरें Chhattisgarh Breaking News | Cg Samachar Today, Vishnu, Modi ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-01-26T23:32:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/3nZ7SMOezm0/hqdefault.jpg",
+          "durationSeconds": 546,
+          "durationFormatted": "09:06",
+          "views": 3267,
+          "likes": 85,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -483,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Frw5d20YQgk/hqdefault.jpg",
           "durationSeconds": 1023,
           "durationFormatted": "17:03",
-          "views": 2285,
+          "views": 2298,
           "likes": 25,
           "videoType": "VOD",
           "genre": "General"
@@ -494,8 +479,8 @@
     {
       "clusterId": "trade-deal",
       "topic": "Trade Deal",
-      "videoCount": 4,
-      "trendScore": 35.7,
+      "videoCount": 5,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
@@ -507,13 +492,28 @@
           "thumbnail": "https://i.ytimg.com/vi/7oA1mL10aO4/hqdefault.jpg",
           "durationSeconds": 209,
           "durationFormatted": "03:29",
-          "views": 6850,
+          "views": 7066,
           "likes": 62,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "Jdtguv82-fc",
+          "title": "India-EU Trade Deal : मदर ऑफ ऑल डील्स पर मुहर! भारतीय कपड़ा, फुटवियर उद्योग को मिलेगा नया बाजार",
+          "description": "IBC24, India-EU Trade Deal : मदर ऑफ ऑल डील्स पर मुहर! भारतीय कपड़ा, फुटवियर उद्योग ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-27T19:33:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/Jdtguv82-fc/hqdefault.jpg",
+          "durationSeconds": 38744,
+          "durationFormatted": "10:45:44",
+          "views": 1497,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "vO2GhsDTaH4",
           "title": "EU-India Trade Deal: ट्रंप के टैरिफ से भारत बना &#39;किंगमेकर&#39;, यूरोप की दोस्ती देख बौखलाया अमेरिका !",
           "description": "EU-India Trade Deal: ट्रंप के टैरिफ से भारत बना 'किंगमेकर', यूरोप की दोस्ती देख ...",
@@ -522,13 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/vO2GhsDTaH4/hqdefault.jpg",
           "durationSeconds": 240,
           "durationFormatted": "04:00",
-          "views": 483,
-          "likes": 8,
+          "views": 767,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "9ZRkbC3Ng-A",
           "title": "India-EU Trade Deal: ट्रंप टैरिफ के दौर में भारत-EU की बड़ी बाजी! जानिए समझौते से भारत क्या फायदा?",
           "description": "IBC24, India-EU Trade Deal: ट्रंप टैरिफ के दौर में भारत-EU की बड़ी बाजी! जानिए ...",
@@ -537,13 +537,13 @@
           "thumbnail": "https://i.ytimg.com/vi/9ZRkbC3Ng-A/hqdefault.jpg",
           "durationSeconds": 371,
           "durationFormatted": "06:11",
-          "views": 310,
+          "views": 346,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "tuKRIjyiCc4",
           "title": "The Big Picture With RKM: India-EU Trade Deal से भारत को मिलेगा बड़ा फायदा! समझिए पूरा गणित..",
           "description": "IBC24, The Big Picture With RKM: India-EU Trade Deal से भारत को मिलेगा बड़ा फायदा! समझिए ...",
@@ -558,13 +558,13 @@
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-27T17:57:52Z"
+      "latestUpdateAt": "2026-01-27T19:33:46Z"
     },
     {
       "clusterId": "mamta-kulkarni",
       "topic": "Mamta Kulkarni",
       "videoCount": 4,
-      "trendScore": 32.8,
+      "trendScore": 32.4,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7O9t2sUs-xA/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 4564,
+          "views": 6576,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -591,13 +591,28 @@
           "thumbnail": "https://i.ytimg.com/vi/9Vx63GOenX0/hqdefault.jpg",
           "durationSeconds": 678,
           "durationFormatted": "11:18",
-          "views": 1891,
-          "likes": 20,
+          "views": 2194,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "7SPMszNaJYE",
+          "title": "Mamta Kulkarni Exclusive: &#39;बस एक शंकराचार्य को आत्मज्ञान है&#39;, ममता कुलकर्णी का बयान वायरल | Viral",
+          "description": "Mamta Kulkarni Exclusive: 'बस एक शंकराचार्य को आत्मज्ञान है', ममता कुलकर्णी का ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-01-27T14:21:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/7SPMszNaJYE/hqdefault.jpg",
+          "durationSeconds": 650,
+          "durationFormatted": "10:50",
+          "views": 269,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "NQNWvnQ1xZQ",
           "title": "Exclusive :&#39;Shankaracharya अहंकार में...&#39;, Avimukteshwarananda पर Mamta Kulkarni का बड़ा बयान",
           "description": "Exclusive :'Shankaracharya अहंकार में...', Avimukteshwarananda पर Mamta Kulkarni का बड़ा बयान ...",
@@ -610,21 +625,6 @@
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "7SPMszNaJYE",
-          "title": "Mamta Kulkarni Exclusive: &#39;बस एक शंकराचार्य को आत्मज्ञान है&#39;, ममता कुलकर्णी का बयान वायरल | Viral",
-          "description": "Mamta Kulkarni Exclusive: 'बस एक शंकराचार्य को आत्मज्ञान है', ममता कुलकर्णी का ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-01-27T14:21:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/7SPMszNaJYE/hqdefault.jpg",
-          "durationSeconds": 650,
-          "durationFormatted": "10:50",
-          "views": 205,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-01-27T16:35:21Z"
@@ -633,7 +633,7 @@
       "clusterId": "bhilai-bank",
       "topic": "Bhilai Bank",
       "videoCount": 4,
-      "trendScore": 28.3,
+      "trendScore": 27.6,
       "topVideos": [
         {
           "index": 1,
@@ -645,7 +645,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6xqljf7JNJ8/hqdefault.jpg",
           "durationSeconds": 732,
           "durationFormatted": "12:12",
-          "views": 993,
+          "views": 1042,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -667,21 +667,6 @@
         },
         {
           "index": 3,
-          "videoId": "vBBQOz84Ivs",
-          "title": "Bank Strike  :UFBU के आह्वान पर बैंक कर्मचारियों का प्रदर्शन, 5-डे वर्किंग की मांग India News Mp/Cg",
-          "description": "यूनाइटेड फोरम ऑफ बैंक यूनियंस (UFBU) के आह्वान पर बैंक कर्मचारी 5-डे ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-27T08:57:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/vBBQOz84Ivs/hqdefault.jpg",
-          "durationSeconds": 731,
-          "durationFormatted": "12:11",
-          "views": 28,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
           "videoId": "SHbBseWni7M",
           "title": "Bank Strike News: आखिर किस मांग को लेकर सड़कों पर उतरे Bank Employee, जानिए मामला | Breaking News",
           "description": "Bank Strike News: आखिर किस मांग को लेकर सड़कों पर उतरे Bank Employee, जानिए मामला ...",
@@ -690,10 +675,25 @@
           "thumbnail": "https://i.ytimg.com/vi/SHbBseWni7M/hqdefault.jpg",
           "durationSeconds": 405,
           "durationFormatted": "06:45",
-          "views": 15,
+          "views": 35,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "vBBQOz84Ivs",
+          "title": "Bank Strike  :UFBU के आह्वान पर बैंक कर्मचारियों का प्रदर्शन, 5-डे वर्किंग की मांग India News Mp/Cg",
+          "description": "यूनाइटेड फोरम ऑफ बैंक यूनियंस (UFBU) के आह्वान पर बैंक कर्मचारी 5-डे ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-27T08:57:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/vBBQOz84Ivs/hqdefault.jpg",
+          "durationSeconds": 731,
+          "durationFormatted": "12:11",
+          "views": 30,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Civic"
         }
       ],
       "latestUpdateAt": "2026-01-27T17:00:44Z"
