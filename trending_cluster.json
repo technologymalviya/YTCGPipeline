@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-28T19:04:33.227458Z",
-  "clusterCount": 4,
+  "generatedAt": "2026-01-28T21:01:45.522668Z",
+  "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "ajit-pawar",
       "topic": "Ajit Pawar",
-      "videoCount": 27,
-      "trendScore": 64.1,
+      "videoCount": 32,
+      "trendScore": 63.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,23 +18,23 @@
           "thumbnail": "https://i.ytimg.com/vi/xcC3ap9unj8/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 71574,
-          "likes": 190,
+          "views": 73689,
+          "likes": 191,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 2,
-          "videoId": "rp_R5k_LFfw",
-          "title": "Ajit Pawar Antim Yatra : अस्पताल से निकला अजित पवार का पार्थिव शरीर | Ajit Pawar Plane Crash | N18S",
-          "description": "Ajit Pawar Antim Yatra : अस्पताल से निकला अजित पवार का पार्थिव शरीर | Ajit Pawar Plane ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-28T14:48:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/rp_R5k_LFfw/hqdefault.jpg",
-          "durationSeconds": 21,
-          "durationFormatted": "00:21",
-          "views": 28676,
-          "likes": 152,
+          "videoId": "UUqfR-xk81w",
+          "title": "Ajit Pawar Died In Plane Crash: अजित पवार के निधन पर शोक, अस्पताल के बाहर भारी जनसैलाब | Maharashtra",
+          "description": "IBC24, Ajit Pawar Died In Plane Crash: अजित पवार के निधन पर शोक, अस्पताल के बाहर भारी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-28T19:01:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/UUqfR-xk81w/hqdefault.jpg",
+          "durationSeconds": 41291,
+          "durationFormatted": "11:28:11",
+          "views": 44130,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ISoe3SSISmE/hqdefault.jpg",
           "durationSeconds": 304,
           "durationFormatted": "05:04",
-          "views": 27259,
+          "views": 29186,
           "likes": 101,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nvTiRG0PWRU/hqdefault.jpg",
           "durationSeconds": 2856,
           "durationFormatted": "47:36",
-          "views": 21844,
-          "likes": 83,
+          "views": 23798,
+          "likes": 82,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/KsKWiHsh_FM/hqdefault.jpg",
           "durationSeconds": 20,
           "durationFormatted": "00:20",
-          "views": 15472,
-          "likes": 71,
+          "views": 20376,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-01-28T19:00:11Z"
+      "latestUpdateAt": "2026-01-28T20:41:44Z"
     },
     {
       "clusterId": "chhattisgarh-january",
       "topic": "Chhattisgarh January",
-      "videoCount": 9,
-      "trendScore": 41.2,
+      "videoCount": 10,
+      "trendScore": 41.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1q6nnBCROhY/hqdefault.jpg",
           "durationSeconds": 954,
           "durationFormatted": "15:54",
-          "views": 24812,
+          "views": 24956,
           "likes": 302,
           "videoType": "VOD",
           "genre": "General"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pEp_HCuvHhA/hqdefault.jpg",
           "durationSeconds": 884,
           "durationFormatted": "14:44",
-          "views": 20797,
-          "likes": 138,
+          "views": 21029,
+          "likes": 140,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SN_Y_xJpSI8/hqdefault.jpg",
           "durationSeconds": 644,
           "durationFormatted": "10:44",
-          "views": 2781,
+          "views": 2854,
           "likes": 72,
           "videoType": "VOD",
           "genre": "Politics"
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/_5IatnFfKOY/hqdefault.jpg",
           "durationSeconds": 944,
           "durationFormatted": "15:44",
-          "views": 2468,
+          "views": 2488,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-01-28T18:45:31Z"
+      "latestUpdateAt": "2026-01-28T19:16:51Z"
     },
     {
       "clusterId": "ओलवषट-लकर",
       "topic": "ओलावृष्टि लेकर",
       "videoCount": 4,
-      "trendScore": 35.5,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QwVTij37GOQ/hqdefault.jpg",
           "durationSeconds": 280,
           "durationFormatted": "04:40",
-          "views": 11530,
+          "views": 11664,
           "likes": 155,
           "videoType": "VOD",
           "genre": "Politics"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/j7YtIB20HgA/hqdefault.jpg",
           "durationSeconds": 208,
           "durationFormatted": "03:28",
-          "views": 709,
-          "likes": 10,
+          "views": 868,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pOPQYdaDv1E/hqdefault.jpg",
           "durationSeconds": 36630,
           "durationFormatted": "10:10:30",
-          "views": 134,
+          "views": 136,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -240,10 +240,79 @@
       "latestUpdateAt": "2026-01-28T14:55:46Z"
     },
     {
+      "clusterId": "bhilai-trending",
+      "topic": "bhilai trending",
+      "videoCount": 4,
+      "trendScore": 29.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "vfTaXGouD30",
+          "title": "#bhilai #trending #shortsfeed #viral",
+          "description": "",
+          "channelTitle": "CG JANMAT ",
+          "publishedAt": "2026-01-28T06:24:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/vfTaXGouD30/hqdefault.jpg",
+          "durationSeconds": 15,
+          "durationFormatted": "00:15",
+          "views": 3052,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "ewDUlC3pT-I",
+          "title": "bhupesh baghel #bhilai #trending #news #latestnews #shortsfeed",
+          "description": "",
+          "channelTitle": "CG JANMAT ",
+          "publishedAt": "2026-01-28T13:26:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/ewDUlC3pT-I/hqdefault.jpg",
+          "durationSeconds": 9,
+          "durationFormatted": "00:09",
+          "views": 1603,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "7noji7hkX00",
+          "title": "#bhilai #news #trending #latestnews #shortsfeed",
+          "description": "",
+          "channelTitle": "CG JANMAT ",
+          "publishedAt": "2026-01-28T06:18:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/7noji7hkX00/hqdefault.jpg",
+          "durationSeconds": 31,
+          "durationFormatted": "00:31",
+          "views": 944,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "-xOi9JNcxUA",
+          "title": "उग्र आंदोलन #bhilai #news #trending #shortsfeed #latestnews",
+          "description": "",
+          "channelTitle": "CG JANMAT ",
+          "publishedAt": "2026-01-28T07:24:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/-xOi9JNcxUA/hqdefault.jpg",
+          "durationSeconds": 25,
+          "durationFormatted": "00:25",
+          "views": 432,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-28T13:26:13Z"
+    },
+    {
       "clusterId": "xpress-ललग",
       "topic": "Xpress लैलूंगा",
       "videoCount": 4,
-      "trendScore": 30.3,
+      "trendScore": 29.0,
       "topVideos": [
         {
           "index": 1,
@@ -255,7 +324,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GR2_jCpVDKs/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 139,
+          "views": 183,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
