@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-29T20:56:35.123999Z",
-  "clusterCount": 10,
+  "generatedAt": "2026-01-29T22:58:40.961115Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "ugc-supreme",
       "topic": "UGC Supreme",
-      "videoCount": 12,
-      "trendScore": 49.5,
+      "videoCount": 11,
+      "trendScore": 47.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oXObBr2utXw/hqdefault.jpg",
           "durationSeconds": 500,
           "durationFormatted": "08:20",
-          "views": 17253,
-          "likes": 730,
+          "views": 17711,
+          "likes": 738,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/r9bHn8wg664/hqdefault.jpg",
           "durationSeconds": 34313,
           "durationFormatted": "09:31:53",
-          "views": 1474,
+          "views": 1507,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/HAvm0VjWmng/hqdefault.jpg",
           "durationSeconds": 605,
           "durationFormatted": "10:05",
-          "views": 1023,
+          "views": 1298,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "Ug9Sd-OiCyo",
-          "title": "UGC Act Controversy: UGC के नए नियम देशभर में विरोध। UGC पर SC ने लगाया विराम! देखिए रिपोर्ट..",
-          "description": "IBC24, UGC Act Controversy: UGC के नए नियम देशभर में विरोध। UGC पर SC ने लगाया विराम ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-29T16:20:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ug9Sd-OiCyo/hqdefault.jpg",
-          "durationSeconds": 360,
-          "durationFormatted": "06:00",
-          "views": 950,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "44VGcJuHP9Q",
           "title": "LIVE : UGC के नए नियमों पर Supreme Court की रोक, क्या बोल रहे छात्र? | UGC act 2026",
           "description": "LIVE : UGC के नए नियमों पर Supreme Court की रोक, क्या बोल रहे छात्र? | UGC act 2026 ...",
@@ -78,8 +63,23 @@
           "thumbnail": "https://i.ytimg.com/vi/44VGcJuHP9Q/hqdefault.jpg",
           "durationSeconds": 22451,
           "durationFormatted": "06:14:11",
-          "views": 656,
+          "views": 658,
           "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "XusNGwLNBl4",
+          "title": "UGC Regulations 2026 Controversy: UGC पर Supreme Court ने लगाई रोक | 2012 वाला नियम लागू रहेगा- SC",
+          "description": "IBC24, UGC Regulations 2026 Controversy: UGC पर Supreme Court ने लगाई रोक | 2012 वाला नियम लागू ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-29T19:10:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/XusNGwLNBl4/hqdefault.jpg",
+          "durationSeconds": 36656,
+          "durationFormatted": "10:10:56",
+          "views": 461,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -89,26 +89,11 @@
     {
       "clusterId": "pawar-ajit",
       "topic": "Pawar Ajit",
-      "videoCount": 14,
-      "trendScore": 48.7,
+      "videoCount": 12,
+      "trendScore": 45.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "wK-Cg9C49mE",
-          "title": "Ajit Pawar Last Rites : अजित पवार के अंतिम संस्कार में पत्नी ने छुए पैर | #AjitPawarFuneral #shorts",
-          "description": "अजित पवार के अंतिम संस्कार में पत्नी ने छुए पैर | #AjitPawarFuneral ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-29T15:35:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/wK-Cg9C49mE/hqdefault.jpg",
-          "durationSeconds": 12,
-          "durationFormatted": "00:12",
-          "views": 44771,
-          "likes": 220,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "mNNFQNTt3FA",
           "title": "अजित पवार को रितेश देशमुख ने दी श्रद्धांजलि | Ajit Pawar Funeral #ajitpawarplanecrash #ajitpawar",
           "description": "अजित पवार को रितेश देशमुख ने दी श्रद्धांजलि | Ajit Pawar Funeral #ajitpawarplanecrash ...",
@@ -117,8 +102,23 @@
           "thumbnail": "https://i.ytimg.com/vi/mNNFQNTt3FA/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 42408,
-          "likes": 109,
+          "views": 49698,
+          "likes": 119,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "wK-Cg9C49mE",
+          "title": "Ajit Pawar Last Rites : अजित पवार के अंतिम संस्कार में पत्नी ने छुए पैर | #AjitPawarFuneral #shorts",
+          "description": "अजित पवार के अंतिम संस्कार में पत्नी ने छुए पैर | #AjitPawarFuneral ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-29T15:35:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/wK-Cg9C49mE/hqdefault.jpg",
+          "durationSeconds": 12,
+          "durationFormatted": "00:12",
+          "views": 47400,
+          "likes": 222,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,40 +132,40 @@
           "thumbnail": "https://i.ytimg.com/vi/WK9G6gfYmN4/hqdefault.jpg",
           "durationSeconds": 21,
           "durationFormatted": "00:21",
-          "views": 23308,
-          "likes": 129,
+          "views": 28189,
+          "likes": 138,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "mQSz5SsUPho",
-          "title": "Ajit Pawar Death: महाराष्ट्र में खाली हुई उपमुख्यमंत्री की कुर्सी। सुनेत्रा पवार को मिल सकती है कमान",
-          "description": "IBC24, Ajit Pawar Death: महाराष्ट्र में खाली हुई उपमुख्यमंत्री की कुर्सी।",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-29T16:26:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/mQSz5SsUPho/hqdefault.jpg",
-          "durationSeconds": 211,
-          "durationFormatted": "03:31",
-          "views": 15787,
-          "likes": 0,
+          "videoId": "s3G5YBT3jyo",
+          "title": "Ajit Pawar Funeral में चाचा Sharad Pawar से Amit Shah की हुई मुलाकात | Antim Sanskar | Last Rites",
+          "description": "Ajit Pawar Funeral में चाचा Sharad Pawar से Amit Shah की हुई मुलाकात | Antim Sanskar | Last Rites The ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-29T15:10:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/s3G5YBT3jyo/hqdefault.jpg",
+          "durationSeconds": 669,
+          "durationFormatted": "11:09",
+          "views": 7339,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "vZJTE-tR-ss",
-          "title": "Ajit Pawar Funeral LIVE : &#39;अजित दादा&#39; के अंतिम संस्कार में रो पड़ा पूरा महाराष्ट्र! Antim Sanskar",
-          "description": "Ajit Pawar Funeral LIVE : 'अजित दादा' के अंतिम संस्कार में रो पड़ा पूरा ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-29T14:43:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/vZJTE-tR-ss/hqdefault.jpg",
-          "durationSeconds": 13961,
-          "durationFormatted": "03:52:41",
-          "views": 13816,
-          "likes": 55,
+          "videoId": "CbwFBNBHGJI",
+          "title": "🔴 The Big Picture With RKM: महाराष्ट्र की राजनीति में Ajit Pawar कैसे रहें हैं गेमचेंजर? Plane Crash",
+          "description": "IBC24, The Big Picture With RKM: महाराष्ट्र की राजनीति में Ajit Pawar कैसे रहें हैं ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-29T19:11:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/CbwFBNBHGJI/hqdefault.jpg",
+          "durationSeconds": 34597,
+          "durationFormatted": "09:36:37",
+          "views": 3686,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-01-29T19:21:03Z"
@@ -173,8 +173,8 @@
     {
       "clusterId": "budget-बजट",
       "topic": "Budget बजट",
-      "videoCount": 11,
-      "trendScore": 42.7,
+      "videoCount": 12,
+      "trendScore": 43.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KwH96IL75J8/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 12768,
-          "likes": 211,
+          "views": 13263,
+          "likes": 214,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8ZAKBK2p4Bw/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 3265,
+          "views": 3315,
           "likes": 24,
           "videoType": "VOD",
           "genre": "Politics"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/j92Q9t_eETw/hqdefault.jpg",
           "durationSeconds": 127,
           "durationFormatted": "02:07",
-          "views": 1956,
+          "views": 2552,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Rb8y1f-RrvI/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 1436,
+          "views": 2107,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -252,13 +252,97 @@
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-29T19:17:28Z"
+      "latestUpdateAt": "2026-01-29T20:56:55Z"
+    },
+    {
+      "clusterId": "chhattisgarh-january",
+      "topic": "Chhattisgarh January",
+      "videoCount": 11,
+      "trendScore": 41.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "r4JgTcROFPE",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 29 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 29 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-01-28T23:29:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/r4JgTcROFPE/hqdefault.jpg",
+          "durationSeconds": 1551,
+          "durationFormatted": "25:51",
+          "views": 19138,
+          "likes": 245,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "0P7Q2xJrQO0",
+          "title": "Chhattisgarh Samachar Today: CG News 29 January 2026 | CG Breaking News | Media CG News",
+          "description": "Chhattisgarh Samachar Today: CG News 29 January 2026 | CG Breaking News | Media CG News Instagram ...",
+          "channelTitle": "Media Chhattisgarh",
+          "publishedAt": "2026-01-28T23:15:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/0P7Q2xJrQO0/hqdefault.jpg",
+          "durationSeconds": 891,
+          "durationFormatted": "14:51",
+          "views": 12281,
+          "likes": 242,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "8XruVDGzDQQ",
+          "title": "30 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "29 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-01-28T23:30:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/8XruVDGzDQQ/hqdefault.jpg",
+          "durationSeconds": 951,
+          "durationFormatted": "15:51",
+          "views": 9374,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "NdyK4rIEyjA",
+          "title": "30 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Breaking News Chhattisgarh",
+          "description": "29 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today ...",
+          "channelTitle": "द छत्तीसगढ़ समाचार",
+          "publishedAt": "2026-01-28T23:00:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/NdyK4rIEyjA/hqdefault.jpg",
+          "durationSeconds": 1009,
+          "durationFormatted": "16:49",
+          "views": 7017,
+          "likes": 58,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "ZNRLGQAUdhE",
+          "title": "30 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "29 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
+          "channelTitle": "SR Chhattisgarh",
+          "publishedAt": "2026-01-29T00:31:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZNRLGQAUdhE/hqdefault.jpg",
+          "durationSeconds": 935,
+          "durationFormatted": "15:35",
+          "views": 5354,
+          "likes": 26,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-01-29T18:42:46Z"
     },
     {
       "clusterId": "bhaskar-kanha",
       "topic": "Bhaskar Kanha",
       "videoCount": 6,
-      "trendScore": 41.8,
+      "trendScore": 40.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LEKH9IcrPKE/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 4431,
-          "likes": 276,
+          "views": 4499,
+          "likes": 280,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FAmpGdpvI_8/hqdefault.jpg",
           "durationSeconds": 718,
           "durationFormatted": "11:58",
-          "views": 938,
-          "likes": 20,
+          "views": 980,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6Z18YZd6A3c/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 620,
+          "views": 645,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -339,94 +423,10 @@
       "latestUpdateAt": "2026-01-29T15:30:35Z"
     },
     {
-      "clusterId": "chhattisgarh-january",
-      "topic": "Chhattisgarh January",
-      "videoCount": 11,
-      "trendScore": 41.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "r4JgTcROFPE",
-          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 29 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
-          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 29 जनवरी 2026 छत्तीसगढ़ की फटाफट ताजा ...",
-          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
-          "publishedAt": "2026-01-28T23:29:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/r4JgTcROFPE/hqdefault.jpg",
-          "durationSeconds": 1551,
-          "durationFormatted": "25:51",
-          "views": 19085,
-          "likes": 243,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "0P7Q2xJrQO0",
-          "title": "Chhattisgarh Samachar Today: CG News 29 January 2026 | CG Breaking News | Media CG News",
-          "description": "Chhattisgarh Samachar Today: CG News 29 January 2026 | CG Breaking News | Media CG News Instagram ...",
-          "channelTitle": "Media Chhattisgarh",
-          "publishedAt": "2026-01-28T23:15:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/0P7Q2xJrQO0/hqdefault.jpg",
-          "durationSeconds": 891,
-          "durationFormatted": "14:51",
-          "views": 12281,
-          "likes": 242,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "8XruVDGzDQQ",
-          "title": "30 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "29 जनवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-01-28T23:30:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/8XruVDGzDQQ/hqdefault.jpg",
-          "durationSeconds": 951,
-          "durationFormatted": "15:51",
-          "views": 9373,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "NdyK4rIEyjA",
-          "title": "29 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
-          "description": "29 january 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today ...",
-          "channelTitle": "द छत्तीसगढ़ समाचार",
-          "publishedAt": "2026-01-28T23:00:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/NdyK4rIEyjA/hqdefault.jpg",
-          "durationSeconds": 1009,
-          "durationFormatted": "16:49",
-          "views": 6973,
-          "likes": 56,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "ZNRLGQAUdhE",
-          "title": "29 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "29 January 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
-          "channelTitle": "SR Chhattisgarh",
-          "publishedAt": "2026-01-29T00:31:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZNRLGQAUdhE/hqdefault.jpg",
-          "durationSeconds": 935,
-          "durationFormatted": "15:35",
-          "views": 5303,
-          "likes": 25,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-01-29T18:42:46Z"
-    },
-    {
       "clusterId": "rasoiya-protest",
       "topic": "Rasoiya Protest",
       "videoCount": 5,
-      "trendScore": 39.6,
+      "trendScore": 38.7,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zAGHpzt3Abw/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 11302,
-          "likes": 438,
+          "views": 11603,
+          "likes": 444,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RD3QpdzoMrs/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 4504,
+          "views": 4535,
           "likes": 77,
           "videoType": "VOD",
           "genre": "General"
@@ -468,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IXKnatqG6x4/hqdefault.jpg",
           "durationSeconds": 747,
           "durationFormatted": "12:27",
-          "views": 3489,
-          "likes": 154,
+          "views": 3539,
+          "likes": 156,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -483,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3-wvAwuLLD8/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 2050,
-          "likes": 43,
+          "views": 2108,
+          "likes": 44,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -498,8 +498,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2VIVKYlJ9u8/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 1389,
-          "likes": 41,
+          "views": 1430,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -507,79 +507,10 @@
       "latestUpdateAt": "2026-01-29T14:30:01Z"
     },
     {
-      "clusterId": "seedhe-mudde",
-      "topic": "Seedhe Mudde",
-      "videoCount": 4,
-      "trendScore": 33.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "2ibng237PsY",
-          "title": "Seedhe Mudde Ki Baat : छत्तीसगढ़ कांग्रेस नेताओं को Rahul Gandhi ने समझा दिया है | CG Congress",
-          "description": "Seedhe Mudde Ki Baat : छत्तीसगढ़ कांग्रेस नेताओं को Rahul Gandhi ने समझा दिया है ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-29T15:39:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/2ibng237PsY/hqdefault.jpg",
-          "durationSeconds": 297,
-          "durationFormatted": "04:57",
-          "views": 1265,
-          "likes": 24,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "yEGiEV_DX90",
-          "title": "Seedhe Mudde Ki Baat : नक्सलियों के गढ़ में कलेक्टर पैदल पहुंचे | Dantewada | Naxalism | CG News",
-          "description": "Seedhe Mudde Ki Baat : नक्सलियों के गढ़ में कलेक्टर पैदल पहुंचे | Dantewada | Naxalism ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-29T15:53:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/yEGiEV_DX90/hqdefault.jpg",
-          "durationSeconds": 347,
-          "durationFormatted": "05:47",
-          "views": 593,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "PMJmDmIRmnw",
-          "title": "Seedhe Mudde Ki Baat : Mandsaur का पशुपतिनाथ लोक कैसा बना है? | Pashupatinath Corridor | MP News",
-          "description": "Seedhe Mudde Ki Baat : Mandsaur का पशुपतिनाथ लोक कैसा बना है? | Pashupatinath Corridor | MP News ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-29T15:25:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/PMJmDmIRmnw/hqdefault.jpg",
-          "durationSeconds": 265,
-          "durationFormatted": "04:25",
-          "views": 83,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "hLDMJa8Wilg",
-          "title": "Seedhe Mudde Ki Baat : Shivpuri के दिव्यांग को ट्रायसाइकिल मिल गई | Disable Rights | MP News",
-          "description": "Seedhe Mudde Ki Baat : Shivpuri के दिव्यांग को ट्रायसाइकिल मिल गई | Disable Rights | MP News ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-29T15:32:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/hLDMJa8Wilg/hqdefault.jpg",
-          "durationSeconds": 215,
-          "durationFormatted": "03:35",
-          "views": 14,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-01-29T15:53:45Z"
-    },
-    {
       "clusterId": "shorts-viral",
       "topic": "Shorts Viral",
       "videoCount": 4,
-      "trendScore": 32.5,
+      "trendScore": 31.5,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7hfdP7B8u78/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 3398,
+          "views": 3424,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -606,8 +537,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1WyYP9ITF70/hqdefault.jpg",
           "durationSeconds": 37,
           "durationFormatted": "00:37",
-          "views": 647,
-          "likes": 4,
+          "views": 1086,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -621,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nLxJGoSzrcM/hqdefault.jpg",
           "durationSeconds": 19,
           "durationFormatted": "00:19",
-          "views": 481,
+          "views": 554,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -645,10 +576,10 @@
       "latestUpdateAt": "2026-01-29T18:24:41Z"
     },
     {
-      "clusterId": "mohan-farmers",
-      "topic": "Mohan Farmers",
-      "videoCount": 4,
-      "trendScore": 29.9,
+      "clusterId": "mohan-yadav",
+      "topic": "Mohan Yadav",
+      "videoCount": 6,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/us3Qia5Vv2E/hqdefault.jpg",
           "durationSeconds": 825,
           "durationFormatted": "13:45",
-          "views": 1321,
+          "views": 1338,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
@@ -682,6 +613,21 @@
         },
         {
           "index": 3,
+          "videoId": "XRoNzGJrnmo",
+          "title": "आज का CM Mohan Yadav Schedule | किसानों को 210 करोड़ की सौगात | MP",
+          "description": "मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज प्रदेश के लिए एक व्यस्त ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-29T04:10:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/XRoNzGJrnmo/hqdefault.jpg",
+          "durationSeconds": 175,
+          "durationFormatted": "02:55",
+          "views": 159,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "NZhFJ_JeeA4",
           "title": "Mandsaur को मिली बड़ी सौगात, CM Mohan Yadav ने किया &#39;पशुपतिनाथ लोक&#39; का लोकार्पण | MP News | Latest",
           "description": "Mandsaur को मिली बड़ी सौगात, CM Mohan Yadav ने किया 'पशुपतिनाथ लोक' का ...",
@@ -690,34 +636,34 @@
           "thumbnail": "https://i.ytimg.com/vi/NZhFJ_JeeA4/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 28,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
-          "videoId": "8INOoQfTS1I",
-          "title": "MP News: CM Mohan Yadav ने सम्मानित विभूतियों से किया मुलाकात, उज्ज्वल भविष्य की दी शुभकामनाएँ।",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव ने कैलाश चंद्र पंत और मोहन नागर का जोरदार ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-29T13:02:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/8INOoQfTS1I/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 8,
+          "index": 5,
+          "videoId": "dPQ2mZnFPJ0",
+          "title": "Bhavantar Yojana 4th Kist: किसानों को CM Mohan Yadav की सौगात। भावांतर योजना की चौथी किस्त जारी..",
+          "description": "IBC24, Bhavantar Yojana 4th Kist: किसानों को CM Mohan Yadav की सौगात। भावांतर योजना की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-29T18:36:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/dPQ2mZnFPJ0/hqdefault.jpg",
+          "durationSeconds": 94,
+          "durationFormatted": "01:34",
+          "views": 22,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-29T16:53:44Z"
+      "latestUpdateAt": "2026-01-29T18:36:51Z"
     },
     {
       "clusterId": "xpress-कय",
       "topic": "Xpress किया",
       "videoCount": 5,
-      "trendScore": 29.4,
+      "trendScore": 28.6,
       "topVideos": [
         {
           "index": 1,
@@ -729,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KOnYBtBg_Es/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 279,
+          "views": 291,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -744,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kzY-zqa7qs4/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 143,
+          "views": 144,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -774,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/p_fOnonYbMs/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 47,
+          "views": 51,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -789,7 +735,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rA40SdiTgNw/hqdefault.jpg",
           "durationSeconds": 229,
           "durationFormatted": "03:49",
-          "views": 38,
+          "views": 43,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
