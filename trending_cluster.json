@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-30T20:59:45.878958Z",
-  "clusterCount": 6,
+  "generatedAt": "2026-01-30T22:57:50.765812Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "chhattisgarh-january",
       "topic": "Chhattisgarh January",
-      "videoCount": 12,
-      "trendScore": 42.7,
+      "videoCount": 13,
+      "trendScore": 43.0,
       "topVideos": [
         {
           "index": 1,
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/trmQlQopD2E/hqdefault.jpg",
           "durationSeconds": 956,
           "durationFormatted": "15:56",
-          "views": 18135,
+          "views": 18237,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rizzvlqbDLs/hqdefault.jpg",
           "durationSeconds": 977,
           "durationFormatted": "16:17",
-          "views": 8338,
-          "likes": 67,
+          "views": 8427,
+          "likes": 70,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FPAFXHTBN04/hqdefault.jpg",
           "durationSeconds": 627,
           "durationFormatted": "10:27",
-          "views": 4051,
+          "views": 4064,
           "likes": 79,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_O10maUUT3w/hqdefault.jpg",
           "durationSeconds": 843,
           "durationFormatted": "14:03",
-          "views": 3079,
+          "views": 3098,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -90,7 +90,7 @@
       "clusterId": "silver-gold",
       "topic": "Silver Gold",
       "videoCount": 7,
-      "trendScore": 40.8,
+      "trendScore": 39.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xufNfYJ1bpw/hqdefault.jpg",
           "durationSeconds": 707,
           "durationFormatted": "11:47",
-          "views": 42266,
-          "likes": 218,
+          "views": 42611,
+          "likes": 217,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NFvZpE10eCk/hqdefault.jpg",
           "durationSeconds": 787,
           "durationFormatted": "13:07",
-          "views": 40889,
+          "views": 41038,
           "likes": 266,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ND7rLtwFh_I/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 11758,
-          "likes": 70,
+          "views": 12130,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zMPC1oCfyi4/hqdefault.jpg",
           "durationSeconds": 208,
           "durationFormatted": "03:28",
-          "views": 1423,
+          "views": 1595,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c1G8wOsv_eE/hqdefault.jpg",
           "durationSeconds": 1335,
           "durationFormatted": "22:15",
-          "views": 635,
+          "views": 694,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-bharat",
       "topic": "Bhaskar Bharat",
       "videoCount": 8,
-      "trendScore": 38.0,
+      "trendScore": 37.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3oowremyliM/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 1859,
-          "likes": 51,
+          "views": 1902,
+          "likes": 52,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KNegun4jUl8/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 875,
-          "likes": 14,
+          "views": 985,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,13 +216,28 @@
           "thumbnail": "https://i.ytimg.com/vi/MI60AN_O4J8/hqdefault.jpg",
           "durationSeconds": 654,
           "durationFormatted": "10:54",
-          "views": 694,
+          "views": 738,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "CUE4jfVrq4s",
+          "title": "बिलासपुर में सानू खान की हTया, थाने में जमकर हुआ बवाल। ज़िया | CG Bhaskar",
+          "description": "बिलासपुर में सानू खान की हत्या, थाने में जमकर हुआ बवाल। ज़िया | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-01-30T18:10:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/CUE4jfVrq4s/hqdefault.jpg",
+          "durationSeconds": 842,
+          "durationFormatted": "14:02",
+          "views": 736,
+          "likes": 18,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "sZ4EE3phvPY",
           "title": "नया रायपुर में झुग्गी-झोपड़ियों में रहने वालों के घर टूटे, जानिए पूरा मामला ।कान्हा | CG Bhaskar",
           "description": "नया रायपुर में झुग्गी-झोपड़ियों में रहने वालों के घर टूटे, जानिए ...",
@@ -235,21 +250,6 @@
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "CUE4jfVrq4s",
-          "title": "बिलासपुर में सानू खान की हTया, थाने में जमकर हुआ बवाल। ज़िया | CG Bhaskar",
-          "description": "बिलासपुर में सानू खान की हत्या, थाने में जमकर हुआ बवाल। ज़िया | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-30T18:10:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/CUE4jfVrq4s/hqdefault.jpg",
-          "durationSeconds": 842,
-          "durationFormatted": "14:02",
-          "views": 437,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-01-30T18:31:05Z"
@@ -258,7 +258,7 @@
       "clusterId": "pawar-sunetra",
       "topic": "Pawar Sunetra",
       "videoCount": 7,
-      "trendScore": 35.7,
+      "trendScore": 34.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AvdqQBcGRwM/hqdefault.jpg",
           "durationSeconds": 498,
           "durationFormatted": "08:18",
-          "views": 2191,
+          "views": 2755,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Events"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4EXc1cFVXNo/hqdefault.jpg",
           "durationSeconds": 409,
           "durationFormatted": "06:49",
-          "views": 1018,
+          "views": 1055,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2_ouSvB3slQ/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 572,
+          "views": 599,
           "likes": 4,
           "videoType": "LIVE",
           "genre": "Live"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Jgcf8rYBjWs/hqdefault.jpg",
           "durationSeconds": 42900,
           "durationFormatted": "11:55:00",
-          "views": 473,
+          "views": 534,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SkFeQfIIRrM/hqdefault.jpg",
           "durationSeconds": 286,
           "durationFormatted": "04:46",
-          "views": 346,
+          "views": 514,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -339,10 +339,178 @@
       "latestUpdateAt": "2026-01-30T20:02:59Z"
     },
     {
+      "clusterId": "mudde-baat",
+      "topic": "Mudde Baat",
+      "videoCount": 5,
+      "trendScore": 31.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "PNyp6XLPnU4",
+          "title": "🔴Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG",
+          "description": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:53:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/PNyp6XLPnU4/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 1053,
+          "likes": 9,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 2,
+          "videoId": "O_ZAyVqZld8",
+          "title": "Seedhe Mudde Ki Baat : दंतेश्वरी माई के पास शादी और नौकरी का आवेदन | Dantewada | Danteshwari Temple",
+          "description": "Seedhe Mudde Ki Baat : दंतेश्वरी माई के पास शादी और नौकरी का आवेदन | Dantewada ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:59:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/O_ZAyVqZld8/hqdefault.jpg",
+          "durationSeconds": 355,
+          "durationFormatted": "05:55",
+          "views": 427,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 3,
+          "videoId": "yal7bzYFLJA",
+          "title": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG",
+          "description": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:56:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/yal7bzYFLJA/hqdefault.jpg",
+          "durationSeconds": 261,
+          "durationFormatted": "04:21",
+          "views": 190,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "me3utrSmouQ",
+          "title": "Seedhe Mudde Ki Baat :  आयुष्मान कार्ड से इलाज बंद! सरकार बोली &quot;भुगतान होगा&quot; | Ayushman Card News",
+          "description": "Seedhe Mudde Ki Baat : आयुष्मान कार्ड से इलाज बंद! सरकार बोली \"भुगतान होगा\" ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:40:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/me3utrSmouQ/hqdefault.jpg",
+          "durationSeconds": 285,
+          "durationFormatted": "04:45",
+          "views": 66,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "6dZhpukqhfw",
+          "title": "Seedhe Mudde Ki Baat : भैया विधायक हैं हमारे, हम तो पुलिस से भी लड़ेंगे | MLA Brother Viral Video",
+          "description": "Seedhe Mudde Ki Baat : भैया विधायक हैं हमारे, हम तो पुलिस से भी लड़ेंगे | MLA Brother ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:35:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/6dZhpukqhfw/hqdefault.jpg",
+          "durationSeconds": 223,
+          "durationFormatted": "03:43",
+          "views": 59,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-01-30T15:59:51Z"
+    },
+    {
+      "clusterId": "bhopal-ifs",
+      "topic": "Bhopal IFS",
+      "videoCount": 6,
+      "trendScore": 27.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "BuT5N-hmeSQ",
+          "title": "Bhopal News: सिरफिरे युवक ने राह चलती 3 युवतियों को मारा चाकू। तीनों युवती गंभीर घायल",
+          "description": "IBC24, Bhopal News: सिरफिरे युवक ने राह चलती 3 युवतियों को मारा चाकू। तीनों ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-30T14:06:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/BuT5N-hmeSQ/hqdefault.jpg",
+          "durationSeconds": 114,
+          "durationFormatted": "01:54",
+          "views": 238,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "OX5bPwRhhYE",
+          "title": "Bhopal:  IFS सर्विस मीट में CM मोहन यादव, वन विभाग की उपलब्धियों को बताया ऐतिहासिक",
+          "description": "मुख्यमंत्री डॉ. मोहन यादव ने आईएफएस सर्विस मीट में शिरकत की...और वन ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-30T14:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/OX5bPwRhhYE/hqdefault.jpg",
+          "durationSeconds": 208,
+          "durationFormatted": "03:28",
+          "views": 219,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "kGeZvPcLdtM",
+          "title": "Bhopal : उज्जैन सिंहस्थ में बढ़ेगी फूलों की खेती,उद्यान विभाग ने बनाई योजना..",
+          "description": "भोपाल : सिंहस्थ में बनेगा फूल क्लस्टर उज्जैन में बढ़ेगी फूलों की ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-30T16:02:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/kGeZvPcLdtM/hqdefault.jpg",
+          "durationSeconds": 169,
+          "durationFormatted": "02:49",
+          "views": 81,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "jaSv8jyhbAU",
+          "title": "Bhopal : गुलाबों की लगी भव्य प्रदर्शनी,कई वैराइटी के गुलाब एक साथ,रंग-बिरंगे गुलाबों ने मोहा सबका मन",
+          "description": "राजधानी भोपाल में गुलाबों की भव्य प्रदर्शनी लगाई गई है, जहां ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-30T14:06:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/jaSv8jyhbAU/hqdefault.jpg",
+          "durationSeconds": 163,
+          "durationFormatted": "02:43",
+          "views": 76,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "lM1TZXfC0G0",
+          "title": "MP News: CM डॉ. मोहन यादव ने वानिकी सम्मेलन एवं IFS मीट-2026 का किया शुभारंभ।",
+          "description": "भोपाल से मुख्यमंत्री डॉ. मोहन यादव ने आरसीवीपी नरोन्हा प्रशासन ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-30T07:52:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/lM1TZXfC0G0/hqdefault.jpg",
+          "durationSeconds": 391,
+          "durationFormatted": "06:31",
+          "views": 13,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-01-30T16:02:41Z"
+    },
+    {
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
-      "videoCount": 11,
-      "trendScore": 34.8,
+      "videoCount": 4,
+      "trendScore": 25.6,
       "topVideos": [
         {
           "index": 1,
@@ -361,21 +529,6 @@
         },
         {
           "index": 2,
-          "videoId": "OX5bPwRhhYE",
-          "title": "Bhopal:  IFS सर्विस मीट में CM मोहन यादव, वन विभाग की उपलब्धियों को बताया ऐतिहासिक",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव ने आईएफएस सर्विस मीट में शिरकत की...और वन ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-30T14:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/OX5bPwRhhYE/hqdefault.jpg",
-          "durationSeconds": 208,
-          "durationFormatted": "03:28",
-          "views": 184,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "sxS9wf3aQWY",
           "title": "CM Round UP : रोजगार की बात प्रकृति के साथ | Dr Mohan Yadav | MP News | Employment",
           "description": "CM Round UP : रोजगार की बात प्रकृति के साथ | Dr Mohan Yadav | MP News | Employment #mpnews ...",
@@ -384,28 +537,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sxS9wf3aQWY/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 169,
+          "views": 207,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
-          "index": 4,
-          "videoId": "BuT5N-hmeSQ",
-          "title": "Bhopal News: सिरफिरे युवक ने राह चलती 3 युवतियों को मारा चाकू। तीनों युवती गंभीर घायल",
-          "description": "IBC24, Bhopal News: सिरफिरे युवक ने राह चलती 3 युवतियों को मारा चाकू। तीनों ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-30T14:06:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/BuT5N-hmeSQ/hqdefault.jpg",
-          "durationSeconds": 114,
-          "durationFormatted": "01:54",
-          "views": 163,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
+          "index": 3,
           "videoId": "dMQ5OFLdeF4",
           "title": "Madhya Pradesh: के मुख्यमंत्री का आज का कार्यक्रम जारी | Mohan Yadav",
           "description": "मध्यप्रदेश के मुख्यमंत्री डॉ. मोहन यादव का आज का शेड्यूल काफी ...",
@@ -418,78 +556,24 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-01-30T17:28:17Z"
-    },
-    {
-      "clusterId": "seedhe-mudde",
-      "topic": "Seedhe Mudde",
-      "videoCount": 4,
-      "trendScore": 31.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "O_ZAyVqZld8",
-          "title": "Seedhe Mudde Ki Baat : दंतेश्वरी माई के पास शादी और नौकरी का आवेदन | Dantewada | Danteshwari Temple",
-          "description": "Seedhe Mudde Ki Baat : दंतेश्वरी माई के पास शादी और नौकरी का आवेदन | Dantewada ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-30T15:59:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/O_ZAyVqZld8/hqdefault.jpg",
-          "durationSeconds": 355,
-          "durationFormatted": "05:55",
-          "views": 303,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 2,
-          "videoId": "yal7bzYFLJA",
-          "title": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG",
-          "description": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-30T15:56:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/yal7bzYFLJA/hqdefault.jpg",
-          "durationSeconds": 261,
-          "durationFormatted": "04:21",
-          "views": 132,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "6dZhpukqhfw",
-          "title": "Seedhe Mudde Ki Baat : भैया विधायक हैं हमारे, हम तो पुलिस से भी लड़ेंगे | MLA Brother Viral Video",
-          "description": "Seedhe Mudde Ki Baat : भैया विधायक हैं हमारे, हम तो पुलिस से भी लड़ेंगे | MLA Brother ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-30T15:35:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/6dZhpukqhfw/hqdefault.jpg",
-          "durationSeconds": 223,
-          "durationFormatted": "03:43",
-          "views": 47,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "me3utrSmouQ",
-          "title": "Seedhe Mudde Ki Baat :  आयुष्मान कार्ड से इलाज बंद! सरकार बोली &quot;भुगतान होगा&quot; | Ayushman Card News",
-          "description": "Seedhe Mudde Ki Baat : आयुष्मान कार्ड से इलाज बंद! सरकार बोली \"भुगतान होगा\" ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-30T15:40:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/me3utrSmouQ/hqdefault.jpg",
-          "durationSeconds": 285,
-          "durationFormatted": "04:45",
-          "views": 45,
-          "likes": 0,
+          "videoId": "vzTAro4cZ7U",
+          "title": "दशहरा मैदान में उमड़ा सैलाब, CM Mohan Yadav के सामने रखी नियमितीकरण की मांग। India News",
+          "description": "आज भोपाल के टीटी नगर दशहरा मैदान में संविदा कर्मचारियों का विशाल ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-01-30T15:38:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/vzTAro4cZ7U/hqdefault.jpg",
+          "durationSeconds": 1588,
+          "durationFormatted": "26:28",
+          "views": 29,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-30T15:59:51Z"
+      "latestUpdateAt": "2026-01-30T17:28:17Z"
     }
   ]
 }
