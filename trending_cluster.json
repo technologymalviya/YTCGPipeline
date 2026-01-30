@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-30T19:45:57.751790Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-01-30T20:59:45.878958Z",
+  "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "chhattisgarh-january",
       "topic": "Chhattisgarh January",
-      "videoCount": 13,
-      "trendScore": 44.3,
+      "videoCount": 12,
+      "trendScore": 42.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DA-CZBlf6LU/hqdefault.jpg",
           "durationSeconds": 966,
           "durationFormatted": "16:06",
-          "views": 18733,
-          "likes": 314,
+          "views": 18777,
+          "likes": 315,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/trmQlQopD2E/hqdefault.jpg",
           "durationSeconds": 956,
           "durationFormatted": "15:56",
-          "views": 18055,
+          "views": 18135,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FPAFXHTBN04/hqdefault.jpg",
           "durationSeconds": 627,
           "durationFormatted": "10:27",
-          "views": 4040,
+          "views": 4051,
           "likes": 79,
           "videoType": "VOD",
           "genre": "Politics"
@@ -89,8 +89,8 @@
     {
       "clusterId": "silver-gold",
       "topic": "Silver Gold",
-      "videoCount": 9,
-      "trendScore": 43.5,
+      "videoCount": 7,
+      "trendScore": 40.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xufNfYJ1bpw/hqdefault.jpg",
           "durationSeconds": 707,
           "durationFormatted": "11:47",
-          "views": 41251,
+          "views": 42266,
           "likes": 218,
           "videoType": "VOD",
           "genre": "General"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NFvZpE10eCk/hqdefault.jpg",
           "durationSeconds": 787,
           "durationFormatted": "13:07",
-          "views": 40453,
+          "views": 40889,
           "likes": 266,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ND7rLtwFh_I/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 10941,
-          "likes": 67,
+          "views": 11758,
+          "likes": 70,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -154,16 +154,16 @@
         },
         {
           "index": 5,
-          "videoId": "IN0Gg1jnnZc",
-          "title": "Gold Silver Rate Today: सोना-चांदी के दाम में तेज गिरावट। चांदी के भाव करीब 67 हजार रुपए गिरे",
-          "description": "IBC24, Gold Silver Rate Today: सोना-चांदी के दाम में तेज गिरावट। चांदी के भाव करीब ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-30T16:25:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/IN0Gg1jnnZc/hqdefault.jpg",
-          "durationSeconds": 88,
-          "durationFormatted": "01:28",
-          "views": 942,
-          "likes": 0,
+          "videoId": "c1G8wOsv_eE",
+          "title": "Gold Silver Price Today: क्या निवेश करें या बिकवाली? सोने-चांदी के भाव पर Expert Analysis | Top News",
+          "description": "Gold Silver Price Today: क्या निवेश करें या बिकवाली? सोने-चांदी के भाव पर Expert ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-30T16:48:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/c1G8wOsv_eE/hqdefault.jpg",
+          "durationSeconds": 1335,
+          "durationFormatted": "22:15",
+          "views": 635,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-bharat",
       "topic": "Bhaskar Bharat",
       "videoCount": 8,
-      "trendScore": 38.7,
+      "trendScore": 38.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3oowremyliM/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 1787,
+          "views": 1859,
           "likes": 51,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KNegun4jUl8/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 915,
+          "views": 875,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MI60AN_O4J8/hqdefault.jpg",
           "durationSeconds": 654,
           "durationFormatted": "10:54",
-          "views": 653,
+          "views": 694,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -231,34 +231,34 @@
           "thumbnail": "https://i.ytimg.com/vi/sZ4EE3phvPY/hqdefault.jpg",
           "durationSeconds": 794,
           "durationFormatted": "13:14",
-          "views": 476,
+          "views": 501,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "1_dXkbhxix8",
-          "title": "निगम की कार्रवाई से न्यायधानी में हड़कंप,,कई दुकानें सिल,विवाद के बीच कार्यवाही! | CG Bhaskar",
-          "description": "निगम की कार्रवाई से न्यायधानी में हड़कंप,,कई दुकानें सिल,विवाद के ...",
+          "videoId": "CUE4jfVrq4s",
+          "title": "बिलासपुर में सानू खान की हTया, थाने में जमकर हुआ बवाल। ज़िया | CG Bhaskar",
+          "description": "बिलासपुर में सानू खान की हत्या, थाने में जमकर हुआ बवाल। ज़िया | CG Bhaskar ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-01-30T10:19:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/1_dXkbhxix8/hqdefault.jpg",
-          "durationSeconds": 255,
-          "durationFormatted": "04:15",
-          "views": 357,
-          "likes": 6,
+          "publishedAt": "2026-01-30T18:10:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/CUE4jfVrq4s/hqdefault.jpg",
+          "durationSeconds": 842,
+          "durationFormatted": "14:02",
+          "views": 437,
+          "likes": 14,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-01-30T18:31:05Z"
     },
     {
-      "clusterId": "pawar-deputy",
-      "topic": "Pawar Deputy",
-      "videoCount": 6,
-      "trendScore": 34.8,
+      "clusterId": "pawar-sunetra",
+      "topic": "Pawar Sunetra",
+      "videoCount": 7,
+      "trendScore": 35.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AvdqQBcGRwM/hqdefault.jpg",
           "durationSeconds": 498,
           "durationFormatted": "08:18",
-          "views": 1430,
+          "views": 2191,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Events"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4EXc1cFVXNo/hqdefault.jpg",
           "durationSeconds": 409,
           "durationFormatted": "06:49",
-          "views": 910,
+          "views": 1018,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/2_ouSvB3slQ/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 520,
-          "likes": 3,
+          "views": 572,
+          "likes": 4,
           "videoType": "LIVE",
           "genre": "Live"
         },
         {
           "index": 4,
+          "videoId": "Jgcf8rYBjWs",
+          "title": "🔴Maharashtra Politics News : Ajit Pawar की जगह लेंगी Sunetra Pawar! बनेंगी महाराष्ट्र की डिप्टी CM?",
+          "description": "IBC24, Maharashtra Politics News : Ajit Pawar की जगह लेंगी Sunetra Pawar! बनेंगी महाराष्ट्र की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-01-30T20:02:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/Jgcf8rYBjWs/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 473,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "SkFeQfIIRrM",
           "title": "Sunetra Pawar News : अजित दादा की NCP को अब सुनेत्रा पवार संभालेंगीं! Deputy CM | Ajit Pawar | Oath",
           "description": "Sunetra Pawar News : अजित दादा की NCP को अब सुनेत्रा पवार संभालेंगीं! Deputy CM | Ajit ...",
@@ -319,102 +334,63 @@
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "WuM8PQGZmWM",
-          "title": "Seedhe Mudde Ki Baat : Ajit Pawar की पत्नी बनेंगी Deputy CM #ajitpawar #sunetrapawar #shorts",
-          "description": "ytshorts #planecrash #ajitpawardeath #maharashtrapolitics #sunetrapawar #maharashtra #deputycm #politicalnews ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-30T16:36:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/WuM8PQGZmWM/hqdefault.jpg",
-          "durationSeconds": 114,
-          "durationFormatted": "01:54",
-          "views": 166,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-01-30T16:51:02Z"
+      "latestUpdateAt": "2026-01-30T20:02:59Z"
     },
     {
-      "clusterId": "chandkhuri-ram",
-      "topic": "Chandkhuri Ram",
-      "videoCount": 4,
-      "trendScore": 33.0,
+      "clusterId": "mohan-yadav",
+      "topic": "Mohan Yadav",
+      "videoCount": 11,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "uz_Uc9wz088",
-          "title": "भगवान राम की कोमल स्वरुप वाली प्रतिमा की स्थापना हो तो क्या ये अनुचित है? Chandkhuri Ram Murti",
-          "description": "IBC24, मूर्ति को स्थापित करने के बाद उसे वहां से हटाना कितना धर्मसम्मत ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-30T17:04:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/uz_Uc9wz088/hqdefault.jpg",
-          "durationSeconds": 178,
-          "durationFormatted": "02:58",
-          "views": 2280,
+          "videoId": "L6qDxfsJT4A",
+          "title": "CM Mohan Yadav ने कांग्रेस पर साधा निशाना, कांग्रेस सिर्फ झूठ बोलती है: सीएम | MP News | Congress",
+          "description": "CM Mohan Yadav ने कांग्रेस पर साधा निशाना, कांग्रेस सिर्फ झूठ बोलती है: ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-30T15:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/L6qDxfsJT4A/hqdefault.jpg",
+          "durationSeconds": 78,
+          "durationFormatted": "01:18",
+          "views": 345,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "ezUtqGZZ2XE",
-          "title": "मूर्ति को स्थापित करने के बाद उसे वहां से हटाना कितना धर्मसम्मत है? Chandkhuri Ram Murti Controversy",
-          "description": "IBC24, मूर्ति को स्थापित करने के बाद उसे वहां से हटाना कितना धर्मसम्मत ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-30T16:35:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/ezUtqGZZ2XE/hqdefault.jpg",
-          "durationSeconds": 146,
-          "durationFormatted": "02:26",
-          "views": 1916,
-          "likes": 0,
+          "videoId": "OX5bPwRhhYE",
+          "title": "Bhopal:  IFS सर्विस मीट में CM मोहन यादव, वन विभाग की उपलब्धियों को बताया ऐतिहासिक",
+          "description": "मुख्यमंत्री डॉ. मोहन यादव ने आईएफएस सर्विस मीट में शिरकत की...और वन ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-01-30T14:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/OX5bPwRhhYE/hqdefault.jpg",
+          "durationSeconds": 208,
+          "durationFormatted": "03:28",
+          "views": 184,
+          "likes": 2,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "bM6Ed5i5T0w",
-          "title": "BJP-कांग्रेस के प्रवक्ता के बीच जबरदस्त बहस ...Chandkhuri Ram Murti Controversy #shorts #cgpolitics",
-          "description": "IBC24, BJP-कांग्रेस के प्रवक्ता के बीच जबरदस्त बहस ...Chandkhuri Ram Murti Controversy ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-30T17:39:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/bM6Ed5i5T0w/hqdefault.jpg",
-          "durationSeconds": 105,
-          "durationFormatted": "01:45",
-          "views": 978,
+          "videoId": "sxS9wf3aQWY",
+          "title": "CM Round UP : रोजगार की बात प्रकृति के साथ | Dr Mohan Yadav | MP News | Employment",
+          "description": "CM Round UP : रोजगार की बात प्रकृति के साथ | Dr Mohan Yadav | MP News | Employment #mpnews ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-30T17:28:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/sxS9wf3aQWY/hqdefault.jpg",
+          "durationSeconds": 161,
+          "durationFormatted": "02:41",
+          "views": 169,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Jobs"
         },
         {
           "index": 4,
-          "videoId": "muDnd0-q0OY",
-          "title": "Chandkhuri Ram Murti Controversy: राम की मूर्ति पर विवाद। मूर्ति हटाने पर कांग्रेस ने उठाए सवाल",
-          "description": "IBC24, Chandkhuri Ram Murti Controversy: राम की मूर्ति पर विवाद। मूर्ति हटाने पर ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-01-30T16:16:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/muDnd0-q0OY/hqdefault.jpg",
-          "durationSeconds": 2575,
-          "durationFormatted": "42:55",
-          "views": 140,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-01-30T17:39:12Z"
-    },
-    {
-      "clusterId": "bhopal-ifs",
-      "topic": "Bhopal IFS",
-      "videoCount": 6,
-      "trendScore": 29.1,
-      "topVideos": [
-        {
-          "index": 1,
           "videoId": "BuT5N-hmeSQ",
           "title": "Bhopal News: सिरफिरे युवक ने राह चलती 3 युवतियों को मारा चाकू। तीनों युवती गंभीर घायल",
           "description": "IBC24, Bhopal News: सिरफिरे युवक ने राह चलती 3 युवतियों को मारा चाकू। तीनों ...",
@@ -429,91 +405,7 @@
           "genre": "Crime"
         },
         {
-          "index": 2,
-          "videoId": "OX5bPwRhhYE",
-          "title": "Bhopal:  IFS सर्विस मीट में CM मोहन यादव, वन विभाग की उपलब्धियों को बताया ऐतिहासिक",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव ने आईएफएस सर्विस मीट में शिरकत की...और वन ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-30T14:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/OX5bPwRhhYE/hqdefault.jpg",
-          "durationSeconds": 208,
-          "durationFormatted": "03:28",
-          "views": 129,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "kGeZvPcLdtM",
-          "title": "Bhopal : उज्जैन सिंहस्थ में बढ़ेगी फूलों की खेती,उद्यान विभाग ने बनाई योजना..",
-          "description": "भोपाल : सिंहस्थ में बनेगा फूल क्लस्टर उज्जैन में बढ़ेगी फूलों की ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-30T16:02:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/kGeZvPcLdtM/hqdefault.jpg",
-          "durationSeconds": 169,
-          "durationFormatted": "02:49",
-          "views": 73,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "jaSv8jyhbAU",
-          "title": "Bhopal : गुलाबों की लगी भव्य प्रदर्शनी,कई वैराइटी के गुलाब एक साथ,रंग-बिरंगे गुलाबों ने मोहा सबका मन",
-          "description": "राजधानी भोपाल में गुलाबों की भव्य प्रदर्शनी लगाई गई है, जहां ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-01-30T14:06:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/jaSv8jyhbAU/hqdefault.jpg",
-          "durationSeconds": 163,
-          "durationFormatted": "02:43",
-          "views": 42,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
           "index": 5,
-          "videoId": "lM1TZXfC0G0",
-          "title": "MP News: CM डॉ. मोहन यादव ने वानिकी सम्मेलन एवं IFS मीट-2026 का किया शुभारंभ।",
-          "description": "भोपाल से मुख्यमंत्री डॉ. मोहन यादव ने आरसीवीपी नरोन्हा प्रशासन ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-30T07:52:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/lM1TZXfC0G0/hqdefault.jpg",
-          "durationSeconds": 391,
-          "durationFormatted": "06:31",
-          "views": 11,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-01-30T16:02:41Z"
-    },
-    {
-      "clusterId": "mohan-yadav",
-      "topic": "Mohan Yadav",
-      "videoCount": 4,
-      "trendScore": 26.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "L6qDxfsJT4A",
-          "title": "CM Mohan Yadav ने कांग्रेस पर साधा निशाना, कांग्रेस सिर्फ झूठ बोलती है: सीएम | MP News | Congress",
-          "description": "CM Mohan Yadav ने कांग्रेस पर साधा निशाना, कांग्रेस सिर्फ झूठ बोलती है: ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-30T15:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/L6qDxfsJT4A/hqdefault.jpg",
-          "durationSeconds": 78,
-          "durationFormatted": "01:18",
-          "views": 330,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "dMQ5OFLdeF4",
           "title": "Madhya Pradesh: के मुख्यमंत्री का आज का कार्यक्रम जारी | Mohan Yadav",
           "description": "मध्यप्रदेश के मुख्यमंत्री डॉ. मोहन यादव का आज का शेड्यूल काफी ...",
@@ -522,43 +414,82 @@
           "thumbnail": "https://i.ytimg.com/vi/dMQ5OFLdeF4/hqdefault.jpg",
           "durationSeconds": 326,
           "durationFormatted": "05:26",
-          "views": 86,
+          "views": 90,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "sxS9wf3aQWY",
-          "title": "CM Round UP : रोजगार की बात प्रकृति के साथ | Dr Mohan Yadav | MP News | Employment",
-          "description": "CM Round UP : रोजगार की बात प्रकृति के साथ | Dr Mohan Yadav | MP News | Employment #mpnews ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-30T17:28:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/sxS9wf3aQWY/hqdefault.jpg",
-          "durationSeconds": 161,
-          "durationFormatted": "02:41",
-          "views": 62,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 4,
-          "videoId": "vzTAro4cZ7U",
-          "title": "दशहरा मैदान में उमड़ा सैलाब, CM Mohan Yadav के सामने रखी नियमितीकरण की मांग। India News",
-          "description": "आज भोपाल के टीटी नगर दशहरा मैदान में संविदा कर्मचारियों का विशाल ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-01-30T15:38:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/vzTAro4cZ7U/hqdefault.jpg",
-          "durationSeconds": 1588,
-          "durationFormatted": "26:28",
-          "views": 21,
-          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-01-30T17:28:17Z"
+    },
+    {
+      "clusterId": "seedhe-mudde",
+      "topic": "Seedhe Mudde",
+      "videoCount": 4,
+      "trendScore": 31.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "O_ZAyVqZld8",
+          "title": "Seedhe Mudde Ki Baat : दंतेश्वरी माई के पास शादी और नौकरी का आवेदन | Dantewada | Danteshwari Temple",
+          "description": "Seedhe Mudde Ki Baat : दंतेश्वरी माई के पास शादी और नौकरी का आवेदन | Dantewada ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:59:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/O_ZAyVqZld8/hqdefault.jpg",
+          "durationSeconds": 355,
+          "durationFormatted": "05:55",
+          "views": 303,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "yal7bzYFLJA",
+          "title": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG",
+          "description": "Seedhe Mudde Ki Baat : Surrender के बाद शादी कर रहे हैं नक्सली | Dantewada | Naxalites Wedding | CG ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:56:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/yal7bzYFLJA/hqdefault.jpg",
+          "durationSeconds": 261,
+          "durationFormatted": "04:21",
+          "views": 132,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "6dZhpukqhfw",
+          "title": "Seedhe Mudde Ki Baat : भैया विधायक हैं हमारे, हम तो पुलिस से भी लड़ेंगे | MLA Brother Viral Video",
+          "description": "Seedhe Mudde Ki Baat : भैया विधायक हैं हमारे, हम तो पुलिस से भी लड़ेंगे | MLA Brother ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:35:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/6dZhpukqhfw/hqdefault.jpg",
+          "durationSeconds": 223,
+          "durationFormatted": "03:43",
+          "views": 47,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "me3utrSmouQ",
+          "title": "Seedhe Mudde Ki Baat :  आयुष्मान कार्ड से इलाज बंद! सरकार बोली &quot;भुगतान होगा&quot; | Ayushman Card News",
+          "description": "Seedhe Mudde Ki Baat : आयुष्मान कार्ड से इलाज बंद! सरकार बोली \"भुगतान होगा\" ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-01-30T15:40:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/me3utrSmouQ/hqdefault.jpg",
+          "durationSeconds": 285,
+          "durationFormatted": "04:45",
+          "views": 45,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-01-30T15:59:51Z"
     }
   ]
 }
