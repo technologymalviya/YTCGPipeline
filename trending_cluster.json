@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-01-31T20:50:04.373971Z",
+  "generatedAt": "2026-01-31T22:50:13.616950Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "silver-gold",
       "topic": "Silver Gold",
       "videoCount": 8,
-      "trendScore": 44.0,
+      "trendScore": 42.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,43 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/t-4KHQzTbdA/hqdefault.jpg",
           "durationSeconds": 399,
           "durationFormatted": "06:39",
-          "views": 75078,
-          "likes": 400,
+          "views": 82846,
+          "likes": 404,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "y8zddaC53w4",
-          "title": "Silver Rate Today : रिपोर्ट से बड़ा खुलासा, 24 घंटे में गिरेगी चांदी? | Gold Silver Price | Top News",
-          "description": "Silver Rate Today : रिपोर्ट से बड़ा खुलासा, 24 घंटे में गिरेगी चांदी? | Gold Silver Price ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-31T15:33:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/y8zddaC53w4/hqdefault.jpg",
-          "durationSeconds": 532,
-          "durationFormatted": "08:52",
-          "views": 12443,
-          "likes": 115,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "MGx8EKJ6ILA",
-          "title": "Gold Silver Price Falls Updates Live : चांदी में ₹1.28 लाख और सोना ₹40,000 की गिरावट | Nitin Kedia",
-          "description": "Gold Silver Price Falls Updates Live : चांदी में ₹1.28 लाख और सोना ₹40000 की गिरावट | Nitin Kedia ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-31T18:49:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/MGx8EKJ6ILA/hqdefault.jpg",
-          "durationSeconds": 16456,
-          "durationFormatted": "04:34:16",
-          "views": 12364,
-          "likes": 55,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "kb3e8oRwcIE",
           "title": "Gold Silver Price Today: चांदी का फूटा बुलबुला.. 1.5 लाख सस्ती? दुकानों पर मची लूट! Gold Silver Rate",
           "description": "Gold Silver Price Today: चांदी का फूटा बुलबुला.. 1.5 लाख सस्ती? दुकानों पर मची लूट!",
@@ -63,8 +33,38 @@
           "thumbnail": "https://i.ytimg.com/vi/kb3e8oRwcIE/hqdefault.jpg",
           "durationSeconds": 202,
           "durationFormatted": "03:22",
-          "views": 11206,
-          "likes": 60,
+          "views": 15927,
+          "likes": 66,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "y8zddaC53w4",
+          "title": "Silver Rate Today : रिपोर्ट से बड़ा खुलासा, 24 घंटे में गिरेगी चांदी? | Gold Silver Price | Top News",
+          "description": "Silver Rate Today : रिपोर्ट से बड़ा खुलासा, 24 घंटे में गिरेगी चांदी? | Gold Silver Price ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-31T15:33:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/y8zddaC53w4/hqdefault.jpg",
+          "durationSeconds": 532,
+          "durationFormatted": "08:52",
+          "views": 15523,
+          "likes": 123,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "MGx8EKJ6ILA",
+          "title": "Gold Silver Price Falls Updates Live : चांदी में ₹1.28 लाख और सोना ₹40,000 की गिरावट | Nitin Kedia",
+          "description": "Gold Silver Price Falls Updates Live : चांदी में ₹1.28 लाख और सोना ₹40000 की गिरावट | Nitin Kedia ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-31T18:49:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/MGx8EKJ6ILA/hqdefault.jpg",
+          "durationSeconds": 16456,
+          "durationFormatted": "04:34:16",
+          "views": 12591,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UAAdn5bDIPY/hqdefault.jpg",
           "durationSeconds": 37143,
           "durationFormatted": "10:19:03",
-          "views": 10246,
-          "likes": 43,
+          "views": 10753,
+          "likes": 44,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -89,8 +89,8 @@
     {
       "clusterId": "mudde-baat",
       "topic": "Mudde Baat",
-      "videoCount": 9,
-      "trendScore": 41.1,
+      "videoCount": 10,
+      "trendScore": 40.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6sG7LiI5-x4/hqdefault.jpg",
           "durationSeconds": 290,
           "durationFormatted": "04:50",
-          "views": 1887,
-          "likes": 52,
+          "views": 2378,
+          "likes": 59,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FCS51rKm3o4/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 424,
+          "views": 496,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/K0Thrizyu1o/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 412,
+          "views": 484,
           "likes": 2,
           "videoType": "LIVE",
           "genre": "Live"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cS6OKc5Oleo/hqdefault.jpg",
           "durationSeconds": 415,
           "durationFormatted": "06:55",
-          "views": 235,
+          "views": 269,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Events"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/X_qfbc6xu8U/hqdefault.jpg",
           "durationSeconds": 1164,
           "durationFormatted": "19:24",
-          "views": 187,
+          "views": 192,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 9,
-      "trendScore": 40.3,
+      "trendScore": 39.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kwB-MJtCJ6U/hqdefault.jpg",
           "durationSeconds": 1536,
           "durationFormatted": "25:36",
-          "views": 23785,
-          "likes": 282,
+          "views": 23844,
+          "likes": 284,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_XbDK72CSUk/hqdefault.jpg",
           "durationSeconds": 945,
           "durationFormatted": "15:45",
-          "views": 6861,
+          "views": 6920,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "सवधन-दन",
       "topic": "सावधान दिनों",
       "videoCount": 6,
-      "trendScore": 40.2,
+      "trendScore": 39.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mnnCATstNL8/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 57280,
-          "likes": 929,
+          "views": 58133,
+          "likes": 935,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ozIdSQRcBRs/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 16473,
-          "likes": 460,
+          "views": 17251,
+          "likes": 472,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qLYeu4Pe0HI/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 5331,
-          "likes": 131,
+          "views": 5395,
+          "likes": 132,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ekDseXJZr2E/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 3393,
-          "likes": 75,
+          "views": 3575,
+          "likes": 77,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -341,8 +341,8 @@
     {
       "clusterId": "budget-nirmala",
       "topic": "Budget Nirmala",
-      "videoCount": 5,
-      "trendScore": 34.3,
+      "videoCount": 7,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Tr8MdfkJA9s/hqdefault.jpg",
           "durationSeconds": 18255,
           "durationFormatted": "05:04:15",
-          "views": 1855,
+          "views": 1955,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -369,13 +369,43 @@
           "thumbnail": "https://i.ytimg.com/vi/tI4pKv9XYL8/hqdefault.jpg",
           "durationSeconds": 17431,
           "durationFormatted": "04:50:31",
-          "views": 1849,
+          "views": 1936,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
+          "videoId": "1YLllRHp9jI",
+          "title": "🔴Union Budget 2026 live : Nirmala Sitharaman | Budget Explained in hindi | income tax slab | GST",
+          "description": "Union Budget 2026 live : Nirmala Sitharaman | Budget Explained in hindi | income tax slab | GST Union Budget 2026 live ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-31T18:45:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/1YLllRHp9jI/hqdefault.jpg",
+          "durationSeconds": 18101,
+          "durationFormatted": "05:01:41",
+          "views": 1477,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "QEqVlkwVSsQ",
+          "title": "Nirmala Sitharaman Speech Union Budget 2026 Live: Budget in hindi | Income Tax Slab | GST | MSP MSME",
+          "description": "Nirmala Sitharaman Speech Union Budget 2026 Live: Budget in hindi | Income Tax Slab | GST | MSP MSME | lok sabha budget ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-01-31T18:38:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/QEqVlkwVSsQ/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 426,
+          "likes": 4,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 5,
           "videoId": "VDjWPgG8fbU",
           "title": "Budget 2026 : इस बार सरकारी स्कूलों को कोडिंग का मिलेगा फंड? Education | Nirmala Sitharaman | N18V",
           "description": "Budget 2026 : इस बार सरकारी स्कूलों को कोडिंग का मिलेगा फंड? Education | Nirmala ...",
@@ -384,40 +414,10 @@
           "thumbnail": "https://i.ytimg.com/vi/VDjWPgG8fbU/hqdefault.jpg",
           "durationSeconds": 223,
           "durationFormatted": "03:43",
-          "views": 363,
+          "views": 380,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "Tnpmsr1ZLTo",
-          "title": "Nirmala Sitharaman Saree: &#39;8 साड़ी, आठ राज्य&#39; इस बजट में किस राज्य की चमकेगी किस्मत? | Budget 2026",
-          "description": "Nirmala Sitharaman Saree: '8 साड़ी, आठ राज्य' इस बजट में किस राज्य की चमकेगी ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-01-31T17:31:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/Tnpmsr1ZLTo/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 43,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "4us4qiM2uKM",
-          "title": "Budget 2026 Live: लोकसभा बजट सत्र लाइव | Union Finance Minister Nirmala Sitharaman | Tax | GST | MSP",
-          "description": "Budget 2026 Live: लोकसभा बजट सत्र लाइव | Union Finance Minister Nirmala Sitharaman | Tax | GST | MSP ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-01-31T19:42:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/4us4qiM2uKM/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "SCHEDULED",
-          "views": 0,
-          "likes": 0,
-          "videoType": "SCHEDULED",
-          "genre": "Scheduled"
         }
       ],
       "latestUpdateAt": "2026-01-31T19:42:16Z"
@@ -426,7 +426,7 @@
       "clusterId": "bilaspur-viralvideo",
       "topic": "Bilaspur viralvideo",
       "videoCount": 5,
-      "trendScore": 34.1,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4iBgXWBnqb0/hqdefault.jpg",
           "durationSeconds": 16,
           "durationFormatted": "00:16",
-          "views": 5629,
+          "views": 7921,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/toMPRTRys88/hqdefault.jpg",
           "durationSeconds": 4,
           "durationFormatted": "00:04",
-          "views": 2869,
+          "views": 3262,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/o3Sp5gJ6RDQ/hqdefault.jpg",
           "durationSeconds": 311,
           "durationFormatted": "05:11",
-          "views": 1919,
+          "views": 1953,
           "likes": 26,
           "videoType": "VOD",
           "genre": "Crime"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WOww-0XKLv8/hqdefault.jpg",
           "durationSeconds": 281,
           "durationFormatted": "04:41",
-          "views": 315,
+          "views": 397,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -498,7 +498,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Jh5qhIztABA/hqdefault.jpg",
           "durationSeconds": 308,
           "durationFormatted": "05:08",
-          "views": 168,
+          "views": 183,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "xpress-हआ",
       "topic": "Xpress हुआ",
       "videoCount": 6,
-      "trendScore": 34.0,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_JXc64z8LQw/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 306,
+          "views": 356,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -537,8 +537,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LEw9HAjytWI/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 158,
-          "likes": 11,
+          "views": 184,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/C_vQ2s6nTgs/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 62,
+          "views": 100,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -567,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qgDJdP6UqS0/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 58,
+          "views": 62,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -594,7 +594,7 @@
       "clusterId": "raipur-chhattisgarh",
       "topic": "Raipur Chhattisgarh",
       "videoCount": 5,
-      "trendScore": 33.3,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oBErWPdH6Yw/hqdefault.jpg",
           "durationSeconds": 989,
           "durationFormatted": "16:29",
-          "views": 3102,
+          "views": 3128,
           "likes": 26,
           "videoType": "VOD",
           "genre": "General"
@@ -621,8 +621,8 @@
           "thumbnail": "https://i.ytimg.com/vi/m_8GYqv0Hlw/hqdefault.jpg",
           "durationSeconds": 1097,
           "durationFormatted": "18:17",
-          "views": 1428,
-          "likes": 10,
+          "views": 1645,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -636,28 +636,13 @@
           "thumbnail": "https://i.ytimg.com/vi/0pUO6clRV90/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 561,
+          "views": 587,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "_1zKGCf4Jx0",
-          "title": "Raipur मध्य क्षेत्र पुलिस की बड़ी लापरवाही। 8 दिन से एक्सप्रेस-वे पर खड़ी है क्षतिग्रस्त कार",
-          "description": "IBC24, Raipur मध्य क्षेत्र पुलिस की बड़ी लापरवाही। 8 दिन से एक्सप्रेस-वे ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-01-31T18:47:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/_1zKGCf4Jx0/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 5,
           "videoId": "MK9MmNOs3j0",
           "title": "Raipur News:&#39;सिद्धि शक्ति का महाआशीर्वाद&#39; कार्यक्रम। भक्ति के रंग में स्वर्णभूमि रेसिडेंशियल सोसायटी",
           "description": "IBC24, Raipur News: विश्व धर्म चेतना मंच का आयोजन। दिव्य संत सिद्धेश्वर ...",
@@ -666,10 +651,25 @@
           "thumbnail": "https://i.ytimg.com/vi/MK9MmNOs3j0/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 9,
+          "views": 22,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "_1zKGCf4Jx0",
+          "title": "Raipur मध्य क्षेत्र पुलिस की बड़ी लापरवाही। 8 दिन से एक्सप्रेस-वे पर खड़ी है क्षतिग्रस्त कार",
+          "description": "IBC24, Raipur मध्य क्षेत्र पुलिस की बड़ी लापरवाही। 8 दिन से एक्सप्रेस-वे ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-01-31T18:47:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/_1zKGCf4Jx0/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 21,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
         }
       ],
       "latestUpdateAt": "2026-01-31T18:47:36Z"
@@ -678,7 +678,7 @@
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
       "videoCount": 7,
-      "trendScore": 32.2,
+      "trendScore": 31.0,
       "topVideos": [
         {
           "index": 1,
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D_1ouJrYoso/hqdefault.jpg",
           "durationSeconds": 621,
           "durationFormatted": "10:21",
-          "views": 345,
+          "views": 364,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/T0X3-h4vhBs/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 208,
+          "views": 213,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -762,7 +762,7 @@
       "clusterId": "bhilai-shortsfeed",
       "topic": "bhilai shortsfeed",
       "videoCount": 4,
-      "trendScore": 31.2,
+      "trendScore": 30.4,
       "topVideos": [
         {
           "index": 1,
@@ -774,8 +774,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-t8w3NwiIJY/hqdefault.jpg",
           "durationSeconds": 13,
           "durationFormatted": "00:13",
-          "views": 1705,
-          "likes": 15,
+          "views": 1726,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -819,8 +819,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uAKnb718r7c/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 468,
-          "likes": 6,
+          "views": 718,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -831,7 +831,7 @@
       "clusterId": "bhaskar-abhujmad",
       "topic": "Bhaskar Abhujmad",
       "videoCount": 4,
-      "trendScore": 30.4,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -843,7 +843,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HHIv9K5etaY/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 4864,
+          "views": 5075,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -858,7 +858,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Smf_eS7cPg8/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 901,
+          "views": 903,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
@@ -873,7 +873,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ceuqwYkx8uA/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 709,
+          "views": 718,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
@@ -888,7 +888,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8YaoCQ0OJFM/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 594,
+          "views": 558,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
