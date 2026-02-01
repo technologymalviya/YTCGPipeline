@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-01T20:53:16.716730Z",
+  "generatedAt": "2026-02-01T22:54:58.172115Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "silver-gold",
       "topic": "Silver Gold",
-      "videoCount": 66,
-      "trendScore": 63.6,
+      "videoCount": 64,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/knMIo0C2-Ww/hqdefault.jpg",
           "durationSeconds": 245,
           "durationFormatted": "04:05",
-          "views": 67207,
-          "likes": 475,
+          "views": 68558,
+          "likes": 476,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/8ePi3OgMR-8/hqdefault.jpg",
           "durationSeconds": 500,
           "durationFormatted": "08:20",
-          "views": 58688,
-          "likes": 394,
+          "views": 61974,
+          "likes": 397,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "Em7_L1s9vN8",
-          "title": "Gold Silver Price Live : बजट खत्म होते ही धड़ाधड़गिरने लगा भाव! | Budget | Gold Silver Latest Rate",
-          "description": "Gold Silver Price Live : बजट खत्म होते ही धड़ाधड़गिरने लगा भाव! | Budget | Gold Silver Latest Rate ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-01T13:38:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/Em7_L1s9vN8/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 30576,
-          "likes": 116,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "index": 4,
           "videoId": "w4KL9iDU5WY",
           "title": "🔴Gold Silver Price Today : भयंकर सस्ता हुआ सोना-चांदी! गिरावट ने सबको चौंकाया | Budget 2026",
           "description": "IBC24, Gold Silver Price Today : भयंकर सस्ता हुआ सोना-चांदी! गिरावट ने सबको चौंकाया ...",
@@ -63,34 +48,49 @@
           "thumbnail": "https://i.ytimg.com/vi/w4KL9iDU5WY/hqdefault.jpg",
           "durationSeconds": 29275,
           "durationFormatted": "08:07:55",
-          "views": 24133,
+          "views": 24443,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "T5krsaI7A1o",
+          "title": "Union Budget 2026: बजट में &#39;रेयर अर्थ&#39; कॉरिडोर का ऐलान। इन राज्यों पर रहेगा फोकस?",
+          "description": "IBC24, Union Budget 2026: बजट में 'रेयर अर्थ' कॉरिडोर का ऐलान। इन राज्यों पर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-01T17:31:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/T5krsaI7A1o/hqdefault.jpg",
+          "durationSeconds": 121,
+          "durationFormatted": "02:01",
+          "views": 17736,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "v_ZcwPwjIAA",
-          "title": "Gold Silver Price Today: एक झटके में लुढ़कीं सोना-चांदी की कीमतें । Breaking News । Top News ।",
-          "description": "Gold Silver Price Today: एक झटके में लुढ़कीं सोना-चांदी की कीमतें । Breaking News ।",
+          "videoId": "l-Q38zdp-tw",
+          "title": "Gold Silver Rate Today : बजट के बाद सोने चांदी की दुकानों में उमड़ी भीड़ | Gold Silver Price | N18V",
+          "description": "Gold Silver Rate Today : बजट के बाद सोने चांदी की दुकानों में उमड़ी भीड़ | Gold Silver ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-01T17:04:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/v_ZcwPwjIAA/hqdefault.jpg",
-          "durationSeconds": 194,
-          "durationFormatted": "03:14",
-          "views": 15185,
-          "likes": 111,
+          "publishedAt": "2026-02-01T17:41:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/l-Q38zdp-tw/hqdefault.jpg",
+          "durationSeconds": 803,
+          "durationFormatted": "13:23",
+          "views": 17447,
+          "likes": 120,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-01T20:50:25Z"
+      "latestUpdateAt": "2026-02-01T22:29:10Z"
     },
     {
       "clusterId": "bhaskar-budget",
       "topic": "Bhaskar Budget",
       "videoCount": 9,
-      "trendScore": 37.7,
+      "trendScore": 36.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GzO6cwJnC-E/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 995,
+          "views": 1021,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5-AtgDagsMs/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 956,
-          "likes": 8,
+          "views": 1002,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rHhNNWwNta4/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 777,
+          "views": 802,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AKKkckpMJVE/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 602,
+          "views": 613,
           "likes": 24,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "weather-cold",
       "topic": "Weather Cold",
       "videoCount": 5,
-      "trendScore": 37.1,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ynb94N4QU9U/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 15957,
-          "likes": 162,
+          "views": 16487,
+          "likes": 164,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SXS3jQ2JUrQ/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 7124,
-          "likes": 21,
+          "views": 7345,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lBmOKOOA3y4/hqdefault.jpg",
           "durationSeconds": 550,
           "durationFormatted": "09:10",
-          "views": 4342,
-          "likes": 87,
+          "views": 4750,
+          "likes": 91,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mw4QVrDz6n4/hqdefault.jpg",
           "durationSeconds": 14,
           "durationFormatted": "00:14",
-          "views": 968,
+          "views": 1328,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fcGeEuxoVHI/hqdefault.jpg",
           "durationSeconds": 650,
           "durationFormatted": "10:50",
-          "views": 116,
+          "views": 185,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "chhattisgarh-february",
       "topic": "Chhattisgarh February",
       "videoCount": 6,
-      "trendScore": 34.6,
+      "trendScore": 34.0,
       "topVideos": [
         {
           "index": 1,
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/__2HBOCzuo8/hqdefault.jpg",
           "durationSeconds": 918,
           "durationFormatted": "15:18",
-          "views": 21076,
+          "views": 21122,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HM0t89igOgI/hqdefault.jpg",
           "durationSeconds": 929,
           "durationFormatted": "15:29",
-          "views": 9400,
-          "likes": 82,
+          "views": 9440,
+          "likes": 83,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-FvJBKkhshE/hqdefault.jpg",
           "durationSeconds": 1002,
           "durationFormatted": "16:42",
-          "views": 4412,
+          "views": 4429,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -339,10 +339,10 @@
       "latestUpdateAt": "2026-02-01T14:50:21Z"
     },
     {
-      "clusterId": "gariaband-chhattisgarh",
-      "topic": "Gariaband Chhattisgarh",
+      "clusterId": "gariaband-hinsa",
+      "topic": "Gariaband Hinsa",
       "videoCount": 5,
-      "trendScore": 33.9,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/crhFfMITcpw/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 1545,
+          "views": 1927,
           "likes": 15,
           "videoType": "LIVE",
           "genre": "Live"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AXEasDF26O0/hqdefault.jpg",
           "durationSeconds": 1242,
           "durationFormatted": "20:42",
-          "views": 297,
+          "views": 389,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RB13j5SK64I/hqdefault.jpg",
           "durationSeconds": 484,
           "durationFormatted": "08:04",
-          "views": 83,
+          "views": 79,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -414,8 +414,8 @@
           "thumbnail": "https://i.ytimg.com/vi/c-lENw8r2w0/hqdefault.jpg",
           "durationSeconds": 1165,
           "durationFormatted": "19:25",
-          "views": 42,
-          "likes": 0,
+          "views": 58,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -426,7 +426,7 @@
       "clusterId": "rajim-violence",
       "topic": "Rajim Violence",
       "videoCount": 4,
-      "trendScore": 31.5,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hCxd8SVWOjQ/hqdefault.jpg",
           "durationSeconds": 5546,
           "durationFormatted": "01:32:26",
-          "views": 1555,
+          "views": 1750,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pKVQmDxtXeU/hqdefault.jpg",
           "durationSeconds": 549,
           "durationFormatted": "09:09",
-          "views": 755,
+          "views": 977,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sdjBod2bfas/hqdefault.jpg",
           "durationSeconds": 810,
           "durationFormatted": "13:30",
-          "views": 200,
+          "views": 400,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/37TEiTiM8zI/hqdefault.jpg",
           "durationSeconds": 163,
           "durationFormatted": "02:43",
-          "views": 7,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
