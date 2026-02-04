@@ -15,7 +15,7 @@ on:
     # 10 PM IST = 16:30 UTC
     # 12 AM IST (midnight) = 18:30 UTC
     # Cron: minute 0, every 2 hours UTC
-   - cron: "0 */2 * * *"  
+   - cron: '10 4-22/2 * * *'  
   workflow_dispatch:
 
 permissions:
