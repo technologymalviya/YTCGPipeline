@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-05T20:50:07.597808Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-02-05T22:47:35.644421Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "chhattisgarh-modi",
       "topic": "Chhattisgarh Modi",
-      "videoCount": 38,
-      "trendScore": 61.5,
+      "videoCount": 40,
+      "trendScore": 60.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XpjjuWFjCZs/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 31436,
-          "likes": 373,
+          "views": 31509,
+          "likes": 375,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZXmT9sbTDmE/hqdefault.jpg",
           "durationSeconds": 908,
           "durationFormatted": "15:08",
-          "views": 19193,
+          "views": 19198,
           "likes": 320,
           "videoType": "VOD",
           "genre": "General"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6Gi-H6t5IuE/hqdefault.jpg",
           "durationSeconds": 917,
           "durationFormatted": "15:17",
-          "views": 10589,
-          "likes": 78,
+          "views": 10689,
+          "likes": 81,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ftFlBsXkRBg/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 9347,
-          "likes": 55,
+          "views": 9662,
+          "likes": 57,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HfP80t-4wZc/hqdefault.jpg",
           "durationSeconds": 13,
           "durationFormatted": "00:13",
-          "views": 6237,
+          "views": 6413,
           "likes": 43,
           "videoType": "VOD",
           "genre": "Politics"
@@ -87,94 +87,10 @@
       "latestUpdateAt": "2026-02-05T18:41:30Z"
     },
     {
-      "clusterId": "delhi-kidnapping",
-      "topic": "Delhi Kidnapping",
-      "videoCount": 13,
-      "trendScore": 44.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Cu8Tbmfh7Uo",
-          "title": "Delhi Kidnapping Case : दिल्ली बनी &#39;लापतागंज&#39;? कहां गायब हो गईं दिल्ली की बच्चियां ? Zee MPCG",
-          "description": "Tarkash : दिल्ली बनी 'लापतागंज'? कहां गायब हो गईं दिल्ली की बच्चियां ?",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-05T13:36:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/Cu8Tbmfh7Uo/hqdefault.jpg",
-          "durationSeconds": 181,
-          "durationFormatted": "03:01",
-          "views": 15238,
-          "likes": 210,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "-jK_XWnpKPg",
-          "title": "Bijapur Naxal Surrender LIVE : 54 लाख के इनामी 12 नक्सलियों ने किया सरेंडर",
-          "description": "Bijapur Naxal Surrender LIVE : 54 लाख के इनामी 12 नक्सलियों ने किया सरेंडर #bijapur ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-05T14:54:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/-jK_XWnpKPg/hqdefault.jpg",
-          "durationSeconds": 18915,
-          "durationFormatted": "05:15:15",
-          "views": 551,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "Q2Wf3p3wto0",
-          "title": "🔴LIVE: The Breakfast Show : ट्रंप-जिनपिंग के बीच बातचीत | Latest News | Zee MPCG",
-          "description": "LIVE: The Breakfast Show : ट्रंप-जिनपिंग के बीच बातचीत | Latest News | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-05T16:08:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q2Wf3p3wto0/hqdefault.jpg",
-          "durationSeconds": 3515,
-          "durationFormatted": "58:35",
-          "views": 372,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "hddkuwNxugI",
-          "title": "🔴LIVE:  Aapki Aawaz : नई फिल्म पर सियासी संग्राम...घूसखोर एक वर्ग ही क्यों ? | Latest News |Zee MPCG",
-          "description": "LIVE: Aapki Aawaz : नई फिल्म पर सियासी संग्राम...घूसखोर एक वर्ग ही क्यों ? | Latest ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-05T14:25:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/hddkuwNxugI/hqdefault.jpg",
-          "durationSeconds": 1631,
-          "durationFormatted": "27:11",
-          "views": 270,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "Xq8aljbzOpo",
-          "title": "🔴LIVE :  Johar : बस्तर पर क्या बोले पीएम!! | Latest News  | Zee MPCG",
-          "description": "LIVE : Johar : बस्तर पर क्या बोले पीएम!! | Latest News | Zee MPCG #Live #Johar #MPNews #mpnews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-05T13:57:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/Xq8aljbzOpo/hqdefault.jpg",
-          "durationSeconds": 1379,
-          "durationFormatted": "22:59",
-          "views": 216,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-05T16:08:15Z"
-    },
-    {
       "clusterId": "februari",
       "topic": "Februari",
       "videoCount": 20,
-      "trendScore": 43.3,
+      "trendScore": 42.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/C-pv-nuPnRM/hqdefault.jpg",
           "durationSeconds": 718,
           "durationFormatted": "11:58",
-          "views": 845,
+          "views": 857,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "6rL0Ct_6-Vo",
-          "title": "अभनपुर: शासकीय जमीन से हटाया गया कब्जा,वार्ड 9-10 को जोड़ने वाली सड़क फिर शुरू, लोगों को राहत",
-          "description": "chhattisgarhnews #madhyapradehnews #abhanpur .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-05T07:02:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/6rL0Ct_6-Vo/hqdefault.jpg",
-          "durationSeconds": 171,
-          "durationFormatted": "02:51",
-          "views": 99,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "6eEfK4PVJjo",
           "title": "जांजगीर-चांपा: पामगढ़ तहसील में ACB की बड़ी कार्रवाई, अधिकारी रंगे हाथों पकड़े गए",
           "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
@@ -220,6 +121,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "GPjYU9prjDc",
+          "title": "तिल्दा नेवरा पुलिस की बड़ी कार्रवाई, अवैध शराब के साथ आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #tildanewra .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-05T07:08:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/GPjYU9prjDc/hqdefault.jpg",
+          "durationSeconds": 33,
+          "durationFormatted": "00:33",
+          "views": 13,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 4,
@@ -238,16 +154,16 @@
         },
         {
           "index": 5,
-          "videoId": "GPjYU9prjDc",
-          "title": "तिल्दा नेवरा पुलिस की बड़ी कार्रवाई, अवैध शराब के साथ आरोपी गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #tildanewra .",
+          "videoId": "_14Tyx69u9c",
+          "title": "दुर्ग में VVIP बैठक! छत्तीसगढ़ में बड़ी प्राधिकरण बैठक,मुख्यमंत्री करेंगे अध्यक्षता",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-05T07:08:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/GPjYU9prjDc/hqdefault.jpg",
-          "durationSeconds": 33,
-          "durationFormatted": "00:33",
-          "views": 10,
-          "likes": 1,
+          "publishedAt": "2026-02-05T13:30:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/_14Tyx69u9c/hqdefault.jpg",
+          "durationSeconds": 112,
+          "durationFormatted": "01:52",
+          "views": 7,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -257,8 +173,8 @@
     {
       "clusterId": "ससद-tmc",
       "topic": "संसद TMC",
-      "videoCount": 13,
-      "trendScore": 41.3,
+      "videoCount": 12,
+      "trendScore": 39.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/F8pORV3pMwI/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 2892,
+          "views": 2899,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_n5Hj3TH2LA/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 997,
+          "views": 1015,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/spTvkH-93sA/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 807,
+          "views": 826,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -330,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jMMga7njcKE/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 591,
+          "views": 628,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -341,8 +257,8 @@
     {
       "clusterId": "dsp-kalpana",
       "topic": "DSP Kalpana",
-      "videoCount": 5,
-      "trendScore": 38.0,
+      "videoCount": 6,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MWZcuu3jPA4/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 8282,
-          "likes": 206,
+          "views": 8970,
+          "likes": 216,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mSCLCQBXTb8/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 1669,
+          "views": 1807,
           "likes": 16,
           "videoType": "LIVE",
           "genre": "Live"
@@ -384,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/eEUGYFlq-x0/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 566,
+          "views": 692,
           "likes": 5,
           "videoType": "LIVE",
           "genre": "Live"
         },
         {
           "index": 4,
+          "videoId": "-0amDcV7T30",
+          "title": "Seedhe Mudde Ki Baat : मोदी बोले &quot;कांग्रेस मेरी कब्र क्यों खोदना चाहती है?&quot; | PM Modi Statement",
+          "description": "Seedhe Mudde Ki Baat : मोदी बोले \"कांग्रेस मेरी कब्र क्यों खोदना चाहती है?",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-05T15:25:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/-0amDcV7T30/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 88,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 5,
           "videoId": "VweEY_ZuQhw",
           "title": "रायपुर में #DSP #Kalpana #Verma निलंबित, वित्तीय आरोपों पर कार्रवाई",
           "description": "रायपुर में डीएसपी कल्पना वर्मा को वित्तीय लेनदेन और पद के दुरुपयोग ...",
@@ -403,30 +334,99 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "auxyw3A0KE8",
-          "title": "News Update || राज्यसभा में PM का भाषण | DSP Kalpana Verma निलंबित | सालभर बाद जेल से बाहर आए लखमा",
-          "description": "News Update || राज्यसभा में PM का भाषण | DSP Kalpana Verma निलंबित | सालभर बाद जेल से ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-05T16:43:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/auxyw3A0KE8/hqdefault.jpg",
-          "durationSeconds": 1479,
-          "durationFormatted": "24:39",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-02-05T16:43:10Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 9,
+      "trendScore": 34.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "Q2Wf3p3wto0",
+          "title": "🔴LIVE: The Breakfast Show : ट्रंप-जिनपिंग के बीच बातचीत | Latest News | Zee MPCG",
+          "description": "LIVE: The Breakfast Show : ट्रंप-जिनपिंग के बीच बातचीत | Latest News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-05T16:08:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q2Wf3p3wto0/hqdefault.jpg",
+          "durationSeconds": 3515,
+          "durationFormatted": "58:35",
+          "views": 389,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "hddkuwNxugI",
+          "title": "🔴LIVE:  Aapki Aawaz : नई फिल्म पर सियासी संग्राम...घूसखोर एक वर्ग ही क्यों ? | Latest News |Zee MPCG",
+          "description": "LIVE: Aapki Aawaz : नई फिल्म पर सियासी संग्राम...घूसखोर एक वर्ग ही क्यों ? | Latest ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-05T14:25:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/hddkuwNxugI/hqdefault.jpg",
+          "durationSeconds": 1631,
+          "durationFormatted": "27:11",
+          "views": 272,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "Xq8aljbzOpo",
+          "title": "🔴LIVE :  Johar : बस्तर पर क्या बोले पीएम!! | Latest News  | Zee MPCG",
+          "description": "LIVE : Johar : बस्तर पर क्या बोले पीएम!! | Latest News | Zee MPCG #Live #Johar #MPNews #mpnews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-05T13:57:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xq8aljbzOpo/hqdefault.jpg",
+          "durationSeconds": 1379,
+          "durationFormatted": "22:59",
+          "views": 217,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Zr0IPJajDGU",
+          "title": "🔴LIVE : MP - CG : Indore : हनीट्रैप का  जाल | Breaking | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : Indore : हनीट्रैप का जाल | Breaking | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-05T21:54:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/Zr0IPJajDGU/hqdefault.jpg",
+          "durationSeconds": 1556,
+          "durationFormatted": "25:56",
+          "views": 171,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "wYsvNrhefn8",
+          "title": "🔴LIVE :  Johar : नक्सलवाद का अंतिम अध्याय ?  | Latest News  | Zee MPCG",
+          "description": "LIVE : Johar : नक्सलवाद का अंतिम अध्याय ? | Latest News | Zee MPCG #Live #Johar #MPNews #mpnews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-05T12:35:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/wYsvNrhefn8/hqdefault.jpg",
+          "durationSeconds": 965,
+          "durationFormatted": "16:05",
+          "views": 166,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-05T21:54:04Z"
+    },
+    {
       "clusterId": "bhaskar-atm",
       "topic": "Bhaskar ATM",
       "videoCount": 4,
-      "trendScore": 31.5,
+      "trendScore": 30.6,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZJytgZp5NsU/hqdefault.jpg",
           "durationSeconds": 171,
           "durationFormatted": "02:51",
-          "views": 2511,
+          "views": 2544,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nS-azRNQpPA/hqdefault.jpg",
           "durationSeconds": 126,
           "durationFormatted": "02:06",
-          "views": 379,
+          "views": 424,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/omFu01ipOz8/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 287,
+          "views": 321,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Civic"
@@ -495,7 +495,7 @@
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
       "videoCount": 6,
-      "trendScore": 29.3,
+      "trendScore": 28.5,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Gj0uIigUdbE/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 339,
+          "views": 373,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9wpkcIgr0Sw/hqdefault.jpg",
           "durationSeconds": 141,
           "durationFormatted": "02:21",
-          "views": 202,
+          "views": 209,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/y5qsT-nq3sM/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 31,
+          "views": 78,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DojzAFqxhp4/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 8,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -578,11 +578,26 @@
     {
       "clusterId": "gwalior-dantewada",
       "topic": "Gwalior Dantewada",
-      "videoCount": 5,
-      "trendScore": 23.5,
+      "videoCount": 6,
+      "trendScore": 24.0,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "mOzOJKqAEnw",
+          "title": "Hatta News : ईंट से भरा ट्रक खाई में गिरा | मड़ियादो थाना क्षेत्र की घटना",
+          "description": "IBC24, Hatta News : ईंट से भरा ट्रक खाई में गिरा | मड़ियादो थाना क्षेत्र की ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-05T12:05:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/mOzOJKqAEnw/hqdefault.jpg",
+          "durationSeconds": 39,
+          "durationFormatted": "00:39",
+          "views": 26,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "uzjS9fjJJqA",
           "title": "Gwalior : 35 जगहों का सर्वे कर बना जोनल प्लान | संयुक्त दल के प्रतिवेदन के आधार पर होगी कार्रवाई",
           "description": "IBC24, Gwalior News : 35 जगहों का सर्वे कर बना जोनल प्लान | संयुक्त दल के ...",
@@ -597,7 +612,22 @@
           "genre": "Civic"
         },
         {
-          "index": 2,
+          "index": 3,
+          "videoId": "j6XKmSyG_VM",
+          "title": "Dantewada News : जादू-टोना के शक में चाचा की ह**, आरोपी 48 घंटे में गिरफ्तार",
+          "description": "दंतेवाड़ा में अंधविश्वास ने एक परिवार को तबाह कर दिया। जादू-टोना ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-02-05T12:11:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/j6XKmSyG_VM/hqdefault.jpg",
+          "durationSeconds": 44,
+          "durationFormatted": "00:44",
+          "views": 11,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "1KaTNKGLwR8",
           "title": "Dantewada News : जादू टोने के शक में चाचा की हत्या | कोतवाली थाने के पोंदुम गांव की घटना",
           "description": "IBC24, Dantewada News : जादू टोने के शक में चाचा की हत्या | कोतवाली थाने के ...",
@@ -612,7 +642,7 @@
           "genre": "Crime"
         },
         {
-          "index": 3,
+          "index": 5,
           "videoId": "YaY7zfdNCqI",
           "title": "Gwalior News : डिजिटल इश्क बना बुजुर्गों के लिए जाल | फेसबुक-वॉट्सऐप पर दोस्ती, बैंक अकाउंट खाली",
           "description": "IBC24, Gwalior News : डिजिटल इश्क बना बुजुर्गों के लिए जाल | फेसबुक-वॉट्सऐप पर ...",
@@ -625,39 +655,93 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-05T17:45:56Z"
+    },
+    {
+      "clusterId": "politics-नगम",
+      "topic": "Politics निगम",
+      "videoCount": 5,
+      "trendScore": 23.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "4YRpz9i4Mvs",
+          "title": "MP Politics | निगम मंडल में नियुक्ति को लेकर बड़ी खबर । संघ से जुड़े बाहरी नए चेहरे को मिलेगा मौका",
+          "description": "MP Politics | निगम मंडल में नियुक्ति को लेकर बड़ी खबर । संघ से जुड़े बाहरी ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-05T10:59:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/4YRpz9i4Mvs/hqdefault.jpg",
+          "durationSeconds": 116,
+          "durationFormatted": "01:56",
+          "views": 41,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "G-5jWvihQcI",
+          "title": "Politics News: विपक्ष के तेवर सख्त, आज भी सदन में बवाल के संकेत |",
+          "description": "संसद के मौजूदा सत्र के दौरान आज भी सदन में हंगामे के आसार बने हुए हैं ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-05T06:20:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/G-5jWvihQcI/hqdefault.jpg",
+          "durationSeconds": 146,
+          "durationFormatted": "02:26",
+          "views": 22,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "bHAh19d6FEU",
+          "title": "Uttarpradesh Special | उत्तरप्रदेश की दिनभर की सभी बड़ी खबरें..| UP Breaking News | UP Politics",
+          "description": "Uttarpradesh Special | उत्तरप्रदेश की दिनभर की सभी बड़ी खबरें..| UP Breaking News | UP ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-05T11:15:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/bHAh19d6FEU/hqdefault.jpg",
+          "durationSeconds": 247,
+          "durationFormatted": "04:07",
+          "views": 10,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "DEubnBqbr0g",
-          "title": "Gwalior News : रेलवे स्प्रिंग फैक्ट्री में लगी आग | झांसी रोड थाने के आंतरी की घटना",
-          "description": "IBC24, Gwalior News : रेलवे स्प्रिंग फैक्ट्री में लगी आग | झांसी रोड थाने के ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-02-05T17:45:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/DEubnBqbr0g/hqdefault.jpg",
-          "durationSeconds": 50,
-          "durationFormatted": "00:50",
-          "views": 8,
+          "videoId": "bJKOzcbBtqc",
+          "title": "2 प्रदेश खबर विशेष || कांग्रेस का मनरेगा बचाओ संग्राम | नक्सलियों की ऑर्डिनेंस फैक्ट्री ध्वस्त",
+          "description": "2 प्रदेश खबर विशेष || कांग्रेस का मनरेगा बचाओ संग्राम | नक्सलियों की ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-05T17:02:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/bJKOzcbBtqc/hqdefault.jpg",
+          "durationSeconds": 1083,
+          "durationFormatted": "18:03",
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "j6XKmSyG_VM",
-          "title": "Dantewada News : जादू-टोना के शक में चाचा की ह**, आरोपी 48 घंटे में गिरफ्तार",
-          "description": "दंतेवाड़ा में अंधविश्वास ने एक परिवार को तबाह कर दिया। जादू-टोना ...",
+          "videoId": "ws-6_X1FhGQ",
+          "title": "Dindori News : डिंडोरी में हेलमेट नहीं तो पेट्रोल नहीं आदेश का उल्लंघन",
+          "description": "मध्य प्रदेश के डिंडोरी जिले से एक चौंकाने वाली खबर सामने आई है।",
           "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-02-05T12:11:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/j6XKmSyG_VM/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 6,
+          "publishedAt": "2026-02-05T11:13:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/ws-6_X1FhGQ/hqdefault.jpg",
+          "durationSeconds": 39,
+          "durationFormatted": "00:39",
+          "views": 0,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-05T17:45:56Z"
+      "latestUpdateAt": "2026-02-05T17:02:13Z"
     }
   ]
 }
