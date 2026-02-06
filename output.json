@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T20:49:26.126422Z",
+  "generatedAt": "2026-02-06T22:41:21.012902Z",
   "sections": [
     {
       "section": "Live",
@@ -28,7 +28,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aY202uHOdYE/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 333,
+          "views": 371,
           "likes": 3,
           "videoType": "LIVE",
           "genre": "Live"
@@ -42,8 +42,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vGvoHHqed94/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 998,
-          "likes": 5,
+          "views": 1129,
+          "likes": 6,
           "videoType": "LIVE",
           "genre": "Live"
         },
@@ -56,7 +56,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VTCfNJW1yBg/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 571,
+          "views": 626,
           "likes": 4,
           "videoType": "LIVE",
           "genre": "Live"
@@ -72,7 +72,7 @@
     },
     {
       "section": "General",
-      "count": 135,
+      "count": 134,
       "items": [
         {
           "videoId": "1VO1T7OBRhM",
@@ -83,7 +83,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1VO1T7OBRhM/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 5541,
+          "views": 5587,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -97,7 +97,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cneAf2XsNDo/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 8,
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -111,21 +111,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7XX4qe-2rmc/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "bN9bJWZ4RN4",
-          "title": "CG News: Prabhat Mishra बनाए गए राजभाषा आयोग के अध्यक्ष। नवनियुक्त अध्यक्ष से IBC24 की खास बातचीत",
-          "description": "IBC24, CG News: Prabhat Mishra बनाए गए राजभाषा आयोग के अध्यक्ष। नवनियुक्त ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-06T18:47:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/bN9bJWZ4RN4/hqdefault.jpg",
-          "durationSeconds": 198,
-          "durationFormatted": "03:18",
-          "views": 14,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -153,21 +139,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vwKqO6U2G0M/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 474,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "M1T6BTeDMIA",
-          "title": "🔴DSP Kalpana Verma Suspended : होटल कारोबारी से लेनदेन केस | विभाग में मचा हड़कंप #kalpanaverma",
-          "description": "IBC24, DSP Kalpana Verma Suspended : होटल कारोबारी से लेनदेन केस: DSP कल्पना वर्मा ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-06T18:41:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/M1T6BTeDMIA/hqdefault.jpg",
-          "durationSeconds": 42896,
-          "durationFormatted": "11:54:56",
-          "views": 2103,
+          "views": 494,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -195,7 +167,7 @@
           "thumbnail": "https://i.ytimg.com/vi/clN8bU1SEmQ/hqdefault.jpg",
           "durationSeconds": 42900,
           "durationFormatted": "11:55:00",
-          "views": 1314,
+          "views": 1330,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -209,7 +181,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4tcRD4LJDdE/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 3,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -223,8 +195,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ykl6RrrRPGY/hqdefault.jpg",
           "durationSeconds": 230,
           "durationFormatted": "03:50",
-          "views": 73,
-          "likes": 0,
+          "views": 97,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -237,7 +209,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1cSedfMc5l4/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 37,
+          "views": 44,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -251,7 +223,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0T3SsUqbGFU/hqdefault.jpg",
           "durationSeconds": 335,
           "durationFormatted": "05:35",
-          "views": 4,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -265,7 +237,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A3GueG84v9Q/hqdefault.jpg",
           "durationSeconds": 34365,
           "durationFormatted": "09:32:45",
-          "views": 8000,
+          "views": 8052,
           "likes": 64,
           "videoType": "VOD",
           "genre": "General"
@@ -279,7 +251,7 @@
           "thumbnail": "https://i.ytimg.com/vi/F08ilD-R7qI/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 4,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -293,7 +265,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ICLtI3VOutQ/hqdefault.jpg",
           "durationSeconds": 316,
           "durationFormatted": "05:16",
-          "views": 338,
+          "views": 428,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -307,7 +279,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pB9OTq_bS8k/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 12,
+          "views": 21,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -335,8 +307,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4D1yjFsp9pk/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 1957,
-          "likes": 82,
+          "views": 2445,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -349,7 +321,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dkdHiLJUK98/hqdefault.jpg",
           "durationSeconds": 5766,
           "durationFormatted": "01:36:06",
-          "views": 109,
+          "views": 119,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -363,7 +335,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ms46pBCv2E4/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 37,
+          "views": 52,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -377,7 +349,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4ltTEZbu6cs/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 4,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -391,8 +363,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tg4wltwVClc/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 227,
-          "likes": 8,
+          "views": 300,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -405,7 +377,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UOOXT6dBBlY/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 2,
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -419,7 +391,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yC7dabpUqCc/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 220,
+          "views": 255,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -433,7 +405,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uNqa_615nyo/hqdefault.jpg",
           "durationSeconds": 11,
           "durationFormatted": "00:11",
-          "views": 4845,
+          "views": 5401,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -447,7 +419,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QOPScJbKXyM/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 198,
+          "views": 216,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -461,7 +433,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WZteVpZVx_w/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 2,
+          "views": 3,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -475,7 +447,7 @@
           "thumbnail": "https://i.ytimg.com/vi/keFH3NP6VdE/hqdefault.jpg",
           "durationSeconds": 255,
           "durationFormatted": "04:15",
-          "views": 2,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -489,7 +461,7 @@
           "thumbnail": "https://i.ytimg.com/vi/h8Kvo70ha8Q/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 684,
+          "views": 713,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -503,7 +475,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QqihWwjipgo/hqdefault.jpg",
           "durationSeconds": 614,
           "durationFormatted": "10:14",
-          "views": 18,
+          "views": 36,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -517,7 +489,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Cf-NfaDrCno/hqdefault.jpg",
           "durationSeconds": 289,
           "durationFormatted": "04:49",
-          "views": 33,
+          "views": 80,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -531,7 +503,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LTrxA1W0kCI/hqdefault.jpg",
           "durationSeconds": 126,
           "durationFormatted": "02:06",
-          "views": 72,
+          "views": 157,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -559,8 +531,8 @@
           "thumbnail": "https://i.ytimg.com/vi/B600EMU-_KA/hqdefault.jpg",
           "durationSeconds": 988,
           "durationFormatted": "16:28",
-          "views": 81373,
-          "likes": 1438,
+          "views": 96657,
+          "likes": 1511,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -573,7 +545,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2xIseW0ChLA/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 20,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -587,7 +559,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CCL8QYz1lGA/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 319,
+          "views": 329,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -601,7 +573,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q0DLSLDfuR4/hqdefault.jpg",
           "durationSeconds": 20,
           "durationFormatted": "00:20",
-          "views": 6715,
+          "views": 7141,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -615,7 +587,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0UlieXGOzvE/hqdefault.jpg",
           "durationSeconds": 315,
           "durationFormatted": "05:15",
-          "views": 22,
+          "views": 37,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -629,7 +601,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5yHySw57bHk/hqdefault.jpg",
           "durationSeconds": 377,
           "durationFormatted": "06:17",
-          "views": 586,
+          "views": 772,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -643,7 +615,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PWpii37TQhk/hqdefault.jpg",
           "durationSeconds": 1069,
           "durationFormatted": "17:49",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -671,7 +643,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Knpsow8hKMg/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 612,
+          "views": 775,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -685,7 +657,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yve3u5CXmb0/hqdefault.jpg",
           "durationSeconds": 588,
           "durationFormatted": "09:48",
-          "views": 35832,
+          "views": 54525,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -699,7 +671,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gB0k9LHsPo0/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 406,
+          "views": 412,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -727,8 +699,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nn0B6Cwspsk/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 9024,
-          "likes": 240,
+          "views": 9654,
+          "likes": 253,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -741,7 +713,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OH0T5-z_nnI/hqdefault.jpg",
           "durationSeconds": 460,
           "durationFormatted": "07:40",
-          "views": 796,
+          "views": 855,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -755,8 +727,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DSvtVC_o8Fk/hqdefault.jpg",
           "durationSeconds": 550,
           "durationFormatted": "09:10",
-          "views": 1980,
-          "likes": 72,
+          "views": 2082,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -769,8 +741,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2JNw--96tys/hqdefault.jpg",
           "durationSeconds": 512,
           "durationFormatted": "08:32",
-          "views": 1401,
-          "likes": 57,
+          "views": 1577,
+          "likes": 58,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -783,8 +755,8 @@
           "thumbnail": "https://i.ytimg.com/vi/E6ucrvEJ5bM/hqdefault.jpg",
           "durationSeconds": 17,
           "durationFormatted": "00:17",
-          "views": 19046,
-          "likes": 87,
+          "views": 20719,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -797,7 +769,7 @@
           "thumbnail": "https://i.ytimg.com/vi/V1jU7P-oLiI/hqdefault.jpg",
           "durationSeconds": 1581,
           "durationFormatted": "26:21",
-          "views": 807,
+          "views": 847,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -811,8 +783,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AUyYJZPvSaI/hqdefault.jpg",
           "durationSeconds": 287,
           "durationFormatted": "04:47",
-          "views": 1569,
-          "likes": 20,
+          "views": 1649,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -825,7 +797,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pBTIH3NK23Y/hqdefault.jpg",
           "durationSeconds": 466,
           "durationFormatted": "07:46",
-          "views": 1674,
+          "views": 1694,
           "likes": 26,
           "videoType": "VOD",
           "genre": "General"
@@ -839,8 +811,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KqxnEzIQe30/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 13329,
-          "likes": 263,
+          "views": 13932,
+          "likes": 265,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -853,8 +825,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZxfYek_s_jw/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 5941,
-          "likes": 179,
+          "views": 6288,
+          "likes": 183,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -867,8 +839,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XjcU07kdDt4/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 17834,
-          "likes": 1463,
+          "views": 18964,
+          "likes": 1509,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -923,7 +895,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uvlbdJNoFBs/hqdefault.jpg",
           "durationSeconds": 266,
           "durationFormatted": "04:26",
-          "views": 225,
+          "views": 278,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -951,8 +923,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZwEa-zurWWw/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 8,
-          "likes": 0,
+          "views": 9,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -965,7 +937,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Qh77ku573Fo/hqdefault.jpg",
           "durationSeconds": 662,
           "durationFormatted": "11:02",
-          "views": 29,
+          "views": 31,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -979,7 +951,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vGoQ6fLWcw8/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 6976,
+          "views": 7012,
           "likes": 88,
           "videoType": "VOD",
           "genre": "General"
@@ -993,7 +965,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-TzNrxVCyj8/hqdefault.jpg",
           "durationSeconds": 870,
           "durationFormatted": "14:30",
-          "views": 1333,
+          "views": 1456,
           "likes": 52,
           "videoType": "VOD",
           "genre": "General"
@@ -1021,8 +993,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NBTD552rhaU/hqdefault.jpg",
           "durationSeconds": 294,
           "durationFormatted": "04:54",
-          "views": 50634,
-          "likes": 341,
+          "views": 53634,
+          "likes": 346,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1035,7 +1007,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uKU2dxrZJS0/hqdefault.jpg",
           "durationSeconds": 1114,
           "durationFormatted": "18:34",
-          "views": 1032,
+          "views": 1069,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -1049,8 +1021,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K0mQdWeiJBs/hqdefault.jpg",
           "durationSeconds": 23010,
           "durationFormatted": "06:23:30",
-          "views": 1463,
-          "likes": 12,
+          "views": 1511,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1063,8 +1035,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XN5H-U9EvVg/hqdefault.jpg",
           "durationSeconds": 627,
           "durationFormatted": "10:27",
-          "views": 495,
-          "likes": 25,
+          "views": 501,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1091,7 +1063,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MRC1xNGmce4/hqdefault.jpg",
           "durationSeconds": 3897,
           "durationFormatted": "01:04:57",
-          "views": 961,
+          "views": 986,
           "likes": 24,
           "videoType": "VOD",
           "genre": "General"
@@ -1133,7 +1105,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cL9VmGPzC6o/hqdefault.jpg",
           "durationSeconds": 184,
           "durationFormatted": "03:04",
-          "views": 106,
+          "views": 112,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1147,7 +1119,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8itLIbMyoXE/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 111,
+          "views": 115,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -1161,8 +1133,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TFH1sCU45rc/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 73,
-          "likes": 2,
+          "views": 96,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1189,8 +1161,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LCk_IjhD3hI/hqdefault.jpg",
           "durationSeconds": 859,
           "durationFormatted": "14:19",
-          "views": 5016,
-          "likes": 65,
+          "views": 5186,
+          "likes": 69,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1259,8 +1231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WcK8QtBD7c4/hqdefault.jpg",
           "durationSeconds": 341,
           "durationFormatted": "05:41",
-          "views": 50,
-          "likes": 0,
+          "views": 61,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1279,6 +1251,20 @@
           "genre": "General"
         },
         {
+          "videoId": "z_NAAAu-hqo",
+          "title": "🔴LIVE, MPCG News 06 February 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। UNAMPCG News | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-02-06T13:08:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/z_NAAAu-hqo/hqdefault.jpg",
+          "durationSeconds": 26477,
+          "durationFormatted": "07:21:17",
+          "views": 24,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
           "videoId": "TBdwTP-b6O0",
           "title": "दुर्ग पुलिस का नशे पर वार ,एनडीपीएस एक्ट में कार्रवाई, 500 किलो गांजा नष्ट करने की तैयारी",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -1287,7 +1273,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TBdwTP-b6O0/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1329,8 +1315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-Ybta_lvcxE/hqdefault.jpg",
           "durationSeconds": 308,
           "durationFormatted": "05:08",
-          "views": 223,
-          "likes": 6,
+          "views": 275,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1357,7 +1343,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nkTLqzaTLEk/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 112,
+          "views": 184,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1399,7 +1385,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YeeYEfuoh6g/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 91,
+          "views": 89,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -1441,8 +1427,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2CU72xpQ-vY/hqdefault.jpg",
           "durationSeconds": 1321,
           "durationFormatted": "22:01",
-          "views": 378,
-          "likes": 27,
+          "views": 379,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1483,8 +1469,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZsvWkuam3vw/hqdefault.jpg",
           "durationSeconds": 218,
           "durationFormatted": "03:38",
-          "views": 153,
-          "likes": 3,
+          "views": 154,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1511,8 +1497,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Z2P8NBQECJs/hqdefault.jpg",
           "durationSeconds": 159,
           "durationFormatted": "02:39",
-          "views": 30975,
-          "likes": 1626,
+          "views": 32330,
+          "likes": 1657,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1525,7 +1511,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RbuU4zz4MR0/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 14,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1539,7 +1525,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nxRrrfkQxvU/hqdefault.jpg",
           "durationSeconds": 172,
           "durationFormatted": "02:52",
-          "views": 761,
+          "views": 765,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -1553,7 +1539,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fSMhtyJ020g/hqdefault.jpg",
           "durationSeconds": 691,
           "durationFormatted": "11:31",
-          "views": 56,
+          "views": 57,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -1581,7 +1567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pW5DbIxv94Q/hqdefault.jpg",
           "durationSeconds": 245,
           "durationFormatted": "04:05",
-          "views": 29,
+          "views": 27,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -1595,7 +1581,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vHc7-4NwD4E/hqdefault.jpg",
           "durationSeconds": 169,
           "durationFormatted": "02:49",
-          "views": 19,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1609,8 +1595,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JbwQGA4XgZQ/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 3060,
-          "likes": 112,
+          "views": 3129,
+          "likes": 114,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1651,7 +1637,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SZ36veHA3fM/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 60,
+          "views": 64,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1665,7 +1651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WfgdSmKmu1w/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 236,
+          "views": 237,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1707,8 +1693,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tbxY1R5hwZ4/hqdefault.jpg",
           "durationSeconds": 521,
           "durationFormatted": "08:41",
-          "views": 22500,
-          "likes": 296,
+          "views": 22895,
+          "likes": 298,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1721,8 +1707,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rgglxN0JEAw/hqdefault.jpg",
           "durationSeconds": 24,
           "durationFormatted": "00:24",
-          "views": 32952,
-          "likes": 255,
+          "views": 35258,
+          "likes": 265,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1735,7 +1721,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6HFE5GaJmNk/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 207,
+          "views": 203,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1749,7 +1735,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FNAO9uaaUGU/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 775,
+          "views": 772,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -1777,7 +1763,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xqppgXgLO4g/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 87,
+          "views": 92,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1805,7 +1791,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WelYEA-VzCs/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 131,
+          "views": 124,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -1819,7 +1805,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IMHTnZPPWOk/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 467,
+          "views": 468,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -1833,8 +1819,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Bd1WkpIX6HM/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 2241,
-          "likes": 39,
+          "views": 2262,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1861,21 +1847,21 @@
           "thumbnail": "https://i.ytimg.com/vi/mkVGSbtEzbw/hqdefault.jpg",
           "durationSeconds": 391,
           "durationFormatted": "06:31",
-          "views": 44457,
+          "views": 44690,
           "likes": 727,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "videoId": "Hs-27UsUYbo",
-          "title": "06 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "07 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "06 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
           "channelTitle": "SR Chhattisgarh",
           "publishedAt": "2026-02-06T00:33:52Z",
           "thumbnail": "https://i.ytimg.com/vi/Hs-27UsUYbo/hqdefault.jpg",
           "durationSeconds": 934,
           "durationFormatted": "15:34",
-          "views": 3508,
+          "views": 3612,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1889,7 +1875,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FpY8htJCD2Y/hqdefault.jpg",
           "durationSeconds": 958,
           "durationFormatted": "15:58",
-          "views": 8944,
+          "views": 8975,
           "likes": 42,
           "videoType": "VOD",
           "genre": "General"
@@ -1903,7 +1889,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Mp_FSB8Vaqw/hqdefault.jpg",
           "durationSeconds": 1506,
           "durationFormatted": "25:06",
-          "views": 18330,
+          "views": 18351,
           "likes": 283,
           "videoType": "VOD",
           "genre": "General"
@@ -1917,8 +1903,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BPRz5F0e9wM/hqdefault.jpg",
           "durationSeconds": 928,
           "durationFormatted": "15:28",
-          "views": 16121,
-          "likes": 265,
+          "views": 16213,
+          "likes": 266,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1931,8 +1917,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mnMAwBS17sQ/hqdefault.jpg",
           "durationSeconds": 893,
           "durationFormatted": "14:53",
-          "views": 8332,
-          "likes": 432,
+          "views": 8353,
+          "likes": 433,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1945,7 +1931,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BTOLO_F6xWU/hqdefault.jpg",
           "durationSeconds": 1030,
           "durationFormatted": "17:10",
-          "views": 3397,
+          "views": 3428,
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
@@ -1959,7 +1945,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BCwrW0nt39I/hqdefault.jpg",
           "durationSeconds": 1440,
           "durationFormatted": "24:00",
-          "views": 113,
+          "views": 117,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1980,7 +1966,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P4uvqIfraTY/hqdefault.jpg",
           "durationSeconds": 502,
           "durationFormatted": "08:22",
-          "views": 1704,
+          "views": 1956,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2008,7 +1994,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hx6d6x5FYQ8/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 9,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2022,7 +2008,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8JH-djTfwhk/hqdefault.jpg",
           "durationSeconds": 194,
           "durationFormatted": "03:14",
-          "views": 61,
+          "views": 63,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2036,8 +2022,8 @@
           "thumbnail": "https://i.ytimg.com/vi/M_hH6PtV97Q/hqdefault.jpg",
           "durationSeconds": 789,
           "durationFormatted": "13:09",
-          "views": 7471,
-          "likes": 518,
+          "views": 7896,
+          "likes": 530,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -2064,7 +2050,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ylaEml0rXqs/hqdefault.jpg",
           "durationSeconds": 39,
           "durationFormatted": "00:39",
-          "views": 305,
+          "views": 328,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2078,7 +2064,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VOsQV7nkWS0/hqdefault.jpg",
           "durationSeconds": 166,
           "durationFormatted": "02:46",
-          "views": 306,
+          "views": 309,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2092,7 +2078,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mMn04KVLb8c/hqdefault.jpg",
           "durationSeconds": 1197,
           "durationFormatted": "19:57",
-          "views": 1831,
+          "views": 1880,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2134,7 +2120,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DeLqYZ4kV5o/hqdefault.jpg",
           "durationSeconds": 243,
           "durationFormatted": "04:03",
-          "views": 2604,
+          "views": 2639,
           "likes": 40,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2148,7 +2134,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uSnh5iLyGuM/hqdefault.jpg",
           "durationSeconds": 3231,
           "durationFormatted": "53:51",
-          "views": 230,
+          "views": 235,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2162,8 +2148,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HXTOPzLU8LY/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 14389,
-          "likes": 669,
+          "views": 14590,
+          "likes": 675,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -2176,7 +2162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OVPQlraWHzk/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 956,
+          "views": 957,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2204,7 +2190,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KNGkOK12doU/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 712,
+          "views": 713,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -2214,8 +2200,22 @@
     },
     {
       "section": "Politics",
-      "count": 66,
+      "count": 65,
       "items": [
+        {
+          "videoId": "qrrbgrDb_EU",
+          "title": "🔴LIVE : MP - CG : Sehore : मंत्री का विवादित बयान...सियासी घमासन  |Breaking | Latest News |Zee MPCG",
+          "description": "LIVE : MP - CG : Sehore : मंत्री का विवादित बयान...सियासी घमासन | Breaking | Latest News | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-06T21:54:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/qrrbgrDb_EU/hqdefault.jpg",
+          "durationSeconds": 1501,
+          "durationFormatted": "25:01",
+          "views": 159,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
         {
           "videoId": "j3hrl_vNk_8",
           "title": "🔴LIVE : MP - CG : छत्तीसगढ़ में बेकाबू रफ्तार | Latest News | Zee MPCG",
@@ -2225,7 +2225,7 @@
           "thumbnail": "https://i.ytimg.com/vi/j3hrl_vNk_8/hqdefault.jpg",
           "durationSeconds": 1486,
           "durationFormatted": "24:46",
-          "views": 260,
+          "views": 264,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2239,7 +2239,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ctXjSeQXXrM/hqdefault.jpg",
           "durationSeconds": 14141,
           "durationFormatted": "03:55:41",
-          "views": 541,
+          "views": 553,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2253,7 +2253,7 @@
           "thumbnail": "https://i.ytimg.com/vi/No89QyC-h3Y/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 5,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2267,8 +2267,8 @@
           "thumbnail": "https://i.ytimg.com/vi/cQ5G4USgIao/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 660,
-          "likes": 7,
+          "views": 933,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2281,7 +2281,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mwMR3e1RwHU/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 105,
+          "views": 148,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2295,7 +2295,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OZin3Ai1VOw/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 28,
+          "views": 60,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2309,7 +2309,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Bn5MQpuvNHs/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 58,
+          "views": 59,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2323,7 +2323,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1UI2FJPukpk/hqdefault.jpg",
           "durationSeconds": 234,
           "durationFormatted": "03:54",
-          "views": 213,
+          "views": 251,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2337,7 +2337,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ezPD3wNfk58/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2365,7 +2365,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9tcW8IFTKhs/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 72,
+          "views": 197,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2379,7 +2379,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LxgzBmNTFII/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 272,
+          "views": 285,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2393,7 +2393,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7EwS9lsfrlM/hqdefault.jpg",
           "durationSeconds": 168,
           "durationFormatted": "02:48",
-          "views": 56,
+          "views": 55,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2407,7 +2407,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1usNGP-D_ig/hqdefault.jpg",
           "durationSeconds": 204,
           "durationFormatted": "03:24",
-          "views": 740,
+          "views": 809,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2449,8 +2449,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nBIjCAqhY4s/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 1050,
-          "likes": 10,
+          "views": 1067,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2463,7 +2463,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dAiMB_68I4E/hqdefault.jpg",
           "durationSeconds": 342,
           "durationFormatted": "05:42",
-          "views": 54,
+          "views": 73,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2477,7 +2477,7 @@
           "thumbnail": "https://i.ytimg.com/vi/p14eKEA7dI8/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 886,
+          "views": 900,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2491,7 +2491,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6bkuU5j2QX0/hqdefault.jpg",
           "durationSeconds": 1257,
           "durationFormatted": "20:57",
-          "views": 238,
+          "views": 256,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2505,8 +2505,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ILA2QCFoI74/hqdefault.jpg",
           "durationSeconds": 511,
           "durationFormatted": "08:31",
-          "views": 168,
-          "likes": 4,
+          "views": 240,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2519,7 +2519,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZT5ok13MEP4/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 829,
+          "views": 1139,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2533,7 +2533,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TsidiHn6U5U/hqdefault.jpg",
           "durationSeconds": 1390,
           "durationFormatted": "23:10",
-          "views": 23,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2547,8 +2547,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZaMACnIN6ck/hqdefault.jpg",
           "durationSeconds": 298,
           "durationFormatted": "04:58",
-          "views": 44,
-          "likes": 0,
+          "views": 53,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2561,8 +2561,8 @@
           "thumbnail": "https://i.ytimg.com/vi/cYCrF4BtfyY/hqdefault.jpg",
           "durationSeconds": 5,
           "durationFormatted": "00:05",
-          "views": 60957,
-          "likes": 177,
+          "views": 66762,
+          "likes": 200,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2575,8 +2575,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K57esGk6Mek/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 3755,
-          "likes": 22,
+          "views": 4025,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2589,7 +2589,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GuOLh--QN_I/hqdefault.jpg",
           "durationSeconds": 17,
           "durationFormatted": "00:17",
-          "views": 3330,
+          "views": 3563,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2617,7 +2617,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2Ec_jj8UJe0/hqdefault.jpg",
           "durationSeconds": 1588,
           "durationFormatted": "26:28",
-          "views": 80,
+          "views": 85,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2645,8 +2645,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LWol_H8owf8/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 34,
-          "likes": 0,
+          "views": 38,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2687,7 +2687,7 @@
           "thumbnail": "https://i.ytimg.com/vi/T4M777539oY/hqdefault.jpg",
           "durationSeconds": 801,
           "durationFormatted": "13:21",
-          "views": 107,
+          "views": 130,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2701,8 +2701,22 @@
           "thumbnail": "https://i.ytimg.com/vi/qfdbQc8VLWw/hqdefault.jpg",
           "durationSeconds": 1046,
           "durationFormatted": "17:26",
-          "views": 38074,
-          "likes": 1435,
+          "views": 39121,
+          "likes": 1446,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "nMicXPCbzzY",
+          "title": "Rajnandgaon News: नगर निगम का मवेशी धर-पकड़ अभियान तेज, 6 घुमंतु पशु पकड़े गए",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-06T13:53:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/nMicXPCbzzY/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 1,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2729,7 +2743,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TwG9nmB6yr4/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 35,
+          "views": 36,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2743,7 +2757,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YFOKJH1PDVo/hqdefault.jpg",
           "durationSeconds": 1630,
           "durationFormatted": "27:10",
-          "views": 17,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2799,7 +2813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fXCM4_xuOk0/hqdefault.jpg",
           "durationSeconds": 1263,
           "durationFormatted": "21:03",
-          "views": 76,
+          "views": 80,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2827,7 +2841,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Cn3Ijb3WwVQ/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 33,
+          "views": 43,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2875,20 +2889,6 @@
           "genre": "Politics"
         },
         {
-          "videoId": "gBhB_Ep7FtA",
-          "title": "Jobat में Congress की बड़ी बैठक | MGNREGA Bachao Campaign",
-          "description": "जोबट विधानसभा क्षेत्र में कांग्रेस पार्टी द्वारा “मनरेगा बचाओ ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-02-06T11:49:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/gBhB_Ep7FtA/hqdefault.jpg",
-          "durationSeconds": 185,
-          "durationFormatted": "03:05",
-          "views": 1,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
           "videoId": "NYQWALbw6kI",
           "title": "दुर्ग में मुख्यमंत्री की बड़ी बैठक, OBC विकास कार्यों के लिए 80 करोड़ स्वीकृत",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -2911,7 +2911,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zieYZDvIBnA/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 27,
+          "views": 29,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2931,20 +2931,6 @@
           "genre": "Politics"
         },
         {
-          "videoId": "8z19Y3i1NQ0",
-          "title": "Rajnandgaon News: छत्तीसगढ़ में धान खरीदी की समय सीमा बढ़ी, CM विष्णु देव साईं का बड़ा फैसला",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-06T10:36:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/8z19Y3i1NQ0/hqdefault.jpg",
-          "durationSeconds": 103,
-          "durationFormatted": "01:43",
-          "views": 21,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
           "videoId": "6Nq1ndBJDsA",
           "title": "Durg News : CM Vishnu Deo Sai की अध्यक्षता में Backward Classes Development Authority की बड़ी बैठक",
           "description": "मुख्यमंत्री विष्णुदेव साय आज दुर्ग के दौरे पर हैं, जहाँ उनकी ...",
@@ -2953,7 +2939,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6Nq1ndBJDsA/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 28,
+          "views": 31,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2967,22 +2953,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Fla33J7dxAw/hqdefault.jpg",
           "durationSeconds": 473,
           "durationFormatted": "07:53",
-          "views": 184,
+          "views": 221,
           "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "qrrbgrDb_EU",
-          "title": "🔴LIVE : MP - CG : Sehore : मंत्री का विवादित बयान...सियासी घमासन  |Breaking | Latest News |Zee MPCG",
-          "description": "LIVE : MP - CG : Sehore : मंत्री का विवादित बयान...सियासी घमासन | Breaking | Latest News | Zee ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-06T09:26:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/qrrbgrDb_EU/hqdefault.jpg",
-          "durationSeconds": 1508,
-          "durationFormatted": "25:08",
-          "views": 157,
-          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2995,7 +2967,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P6Tt4sYfem0/hqdefault.jpg",
           "durationSeconds": 713,
           "durationFormatted": "11:53",
-          "views": 66,
+          "views": 64,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -3051,7 +3023,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FZQTPAlNShg/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 310,
+          "views": 344,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -3079,7 +3051,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hddkuwNxugI/hqdefault.jpg",
           "durationSeconds": 1626,
           "durationFormatted": "27:06",
-          "views": 375,
+          "views": 380,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -3093,7 +3065,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9kBODuGmfCQ/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 989,
+          "views": 994,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -3107,8 +3079,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BblUaGyXNKA/hqdefault.jpg",
           "durationSeconds": 5833,
           "durationFormatted": "01:37:13",
-          "views": 1010,
-          "likes": 20,
+          "views": 1028,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -3121,7 +3093,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NlH5BZQJN90/hqdefault.jpg",
           "durationSeconds": 680,
           "durationFormatted": "11:20",
-          "views": 3294,
+          "views": 3314,
           "likes": 81,
           "videoType": "VOD",
           "genre": "Politics"
@@ -3156,7 +3128,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v1qbjnrT0AE/hqdefault.jpg",
           "durationSeconds": 14454,
           "durationFormatted": "04:00:54",
-          "views": 56,
+          "views": 66,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -3170,7 +3142,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Vz3vtLGaFbU/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 3,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -3212,7 +3184,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0OA1mUP0ZAA/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 21,
+          "views": 40,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -3226,7 +3198,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LEVqEZldYn4/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 8,
+          "views": 21,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -3254,7 +3226,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EAm4tWslR9Y/hqdefault.jpg",
           "durationSeconds": 290,
           "durationFormatted": "04:50",
-          "views": 88,
+          "views": 94,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -3282,7 +3254,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3y1rzpzhIow/hqdefault.jpg",
           "durationSeconds": 220,
           "durationFormatted": "03:40",
-          "views": 175,
+          "views": 178,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -3310,7 +3282,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EvbZNM9QKOk/hqdefault.jpg",
           "durationSeconds": 377,
           "durationFormatted": "06:17",
-          "views": 59,
+          "views": 60,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -3338,7 +3310,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CFD59fITo-k/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 682,
+          "views": 704,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Events"
@@ -3380,7 +3352,7 @@
           "thumbnail": "https://i.ytimg.com/vi/utuMeMICc3E/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 1901,
+          "views": 1919,
           "likes": 30,
           "videoType": "VOD",
           "genre": "Events"
@@ -3394,7 +3366,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N0ZOom0r4CQ/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 1398,
+          "views": 1414,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Events"
@@ -3418,8 +3390,22 @@
     },
     {
       "section": "Civic",
-      "count": 3,
+      "count": 4,
       "items": [
+        {
+          "videoId": "WJpHhJWKFzI",
+          "title": "🔴LIVE | Ghooskhor Pandat Controversy: घूसखोर पंडत पर नीरज पांडे का बड़ा बयान | Brahman Samaj Protest",
+          "description": "IBC24, LIVE | Ghooskhor Pandat Controversy: घूसखोर पंडत पर नीरज पांडे का बड़ा बयान ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-06T19:16:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/WJpHhJWKFzI/hqdefault.jpg",
+          "durationSeconds": 39491,
+          "durationFormatted": "10:58:11",
+          "views": 1138,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
         {
           "videoId": "bSjOptQYubU",
           "title": "Morena Railway Underbridge: 3 महीने में ही रिसने लगा 8 करोड़ का अंडरब्रिज। गुणवत्ता पर उठ रहे सवाल",
@@ -3429,7 +3415,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bSjOptQYubU/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 13,
+          "views": 20,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -3443,8 +3429,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VUpzcARrRrQ/hqdefault.jpg",
           "durationSeconds": 14,
           "durationFormatted": "00:14",
-          "views": 9611,
-          "likes": 31,
+          "views": 10000,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -3467,8 +3453,22 @@
     },
     {
       "section": "Traffic",
-      "count": 6,
+      "count": 7,
       "items": [
+        {
+          "videoId": "b6IvGKWEPSQ",
+          "title": "🔴‘भारत टैक्सी’ की एंट्री से OLA-Uber को टक्कर! अमित शाह ने लॉन्च किया देसी कैब ऐप",
+          "description": "IBC24, 'भारत टैक्सी' की एंट्री से OLA-Uber को टक्कर! अमित शाह ने लॉन्च किया ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-06T18:42:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/b6IvGKWEPSQ/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 586,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
         {
           "videoId": "ANg_oe4_XG4",
           "title": "Gold Silver Crash : 10 बजते ही अचानक से धड़ाम हुए सोने-चांदी के दाम! | Gold Silver Rate Today",
@@ -3478,8 +3478,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ANg_oe4_XG4/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 8293,
-          "likes": 44,
+          "views": 10093,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -3492,7 +3492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MART8mbvnZY/hqdefault.jpg",
           "durationSeconds": 268,
           "durationFormatted": "04:28",
-          "views": 168,
+          "views": 173,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -3520,7 +3520,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AX_w_vnkSSs/hqdefault.jpg",
           "durationSeconds": 722,
           "durationFormatted": "12:02",
-          "views": 864,
+          "views": 881,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -3534,8 +3534,8 @@
           "thumbnail": "https://i.ytimg.com/vi/O4y2Wr4FIRo/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 48438,
-          "likes": 885,
+          "views": 51035,
+          "likes": 905,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -3569,7 +3569,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-yll72ER2bY/hqdefault.jpg",
           "durationSeconds": 1390,
           "durationFormatted": "23:10",
-          "views": 117,
+          "views": 127,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3583,7 +3583,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A5G3-2xkWDs/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 96,
+          "views": 166,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3597,7 +3597,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lf4ZlbGFREs/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 18,
+          "views": 20,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3611,7 +3611,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_X6GLRwxAO0/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 3,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3625,8 +3625,8 @@
           "thumbnail": "https://i.ytimg.com/vi/J_X0MTKDZuc/hqdefault.jpg",
           "durationSeconds": 33206,
           "durationFormatted": "09:13:26",
-          "views": 10111,
-          "likes": 18,
+          "views": 10277,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -3639,7 +3639,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v7dvNljlW9I/hqdefault.jpg",
           "durationSeconds": 548,
           "durationFormatted": "09:08",
-          "views": 260,
+          "views": 279,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3653,7 +3653,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Udifz9VHzPw/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 48,
+          "views": 108,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3667,7 +3667,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_CVqFf9DiLg/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 23,
+          "views": 33,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3681,7 +3681,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1gcLlbez9ew/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 270,
+          "views": 330,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3695,7 +3695,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xztGoVHxdzc/hqdefault.jpg",
           "durationSeconds": 182,
           "durationFormatted": "03:02",
-          "views": 506,
+          "views": 524,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3723,7 +3723,7 @@
           "thumbnail": "https://i.ytimg.com/vi/smIVso2SW0Y/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 49,
+          "views": 67,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3737,8 +3737,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TJD6quqjIAQ/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 822,
-          "likes": 29,
+          "views": 848,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -3751,7 +3751,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rCyMyo0eeUc/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 80,
+          "views": 102,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3779,7 +3779,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tKKMomWjg98/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 81,
+          "views": 94,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3807,8 +3807,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ApUUGc2F_zE/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 7397,
-          "likes": 69,
+          "views": 7530,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -3821,7 +3821,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lJMs8o6Q_BM/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 58,
+          "views": 59,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3849,7 +3849,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pPdzTlKs_8M/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 1292,
+          "views": 1286,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3863,8 +3863,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AwpN-dL4PXU/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 4789,
-          "likes": 56,
+          "views": 5059,
+          "likes": 60,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -3877,7 +3877,7 @@
           "thumbnail": "https://i.ytimg.com/vi/joo68NOw_iI/hqdefault.jpg",
           "durationSeconds": 19110,
           "durationFormatted": "05:18:30",
-          "views": 1735,
+          "views": 1737,
           "likes": 15,
           "videoType": "VOD",
           "genre": "Crime"
@@ -3891,7 +3891,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OW46UNzTTlM/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 78,
+          "views": 90,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
