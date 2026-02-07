@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-07T18:53:12.557050Z",
+  "generatedAt": "2026-02-07T20:42:16.118920Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "surrender-naxalites",
       "topic": "Surrender Naxalites",
-      "videoCount": 60,
-      "trendScore": 60.2,
+      "videoCount": 65,
+      "trendScore": 59.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/CCEmh7zn8mE/hqdefault.jpg",
           "durationSeconds": 399,
           "durationFormatted": "06:39",
-          "views": 5695,
+          "views": 6304,
           "likes": 72,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "XMv6JwPppXc",
-          "title": "Pappu Yadav Arrested : आधी रात पप्पू यादव गिरफ्तार | Latest News | Hindi News | Zee MPCG",
-          "description": "Pappu Yadav Arrested : आधी रात पप्पू यादव गिरफ्तार | Latest News | Hindi News | Zee MPCG Tarkash ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-07T13:11:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/XMv6JwPppXc/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 3218,
-          "likes": 18,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "5j4pIDrBCGg",
           "title": "Owaisi vs Himanta : ओवैसी की बिगड़ी जुबान...मियां&#39; पर घमासान ! | Latest News | Hindi News | Zee MPCG",
           "description": "Owaisi vs Himanta : ओवैसी की बिगड़ी जुबान... मियां' पर घमासान ! | Latest News | Hindi News | Zee ...",
@@ -48,10 +33,25 @@
           "thumbnail": "https://i.ytimg.com/vi/5j4pIDrBCGg/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 2786,
-          "likes": 33,
+          "views": 4786,
+          "likes": 58,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "XMv6JwPppXc",
+          "title": "Pappu Yadav Arrested : आधी रात पप्पू यादव गिरफ्तार | Latest News | Hindi News | Zee MPCG",
+          "description": "Pappu Yadav Arrested : आधी रात पप्पू यादव गिरफ्तार | Latest News | Hindi News | Zee MPCG Tarkash ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-07T13:11:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/XMv6JwPppXc/hqdefault.jpg",
+          "durationSeconds": 90,
+          "durationFormatted": "01:30",
+          "views": 3360,
+          "likes": 18,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 4,
@@ -63,23 +63,23 @@
           "thumbnail": "https://i.ytimg.com/vi/CZLZR_FUsug/hqdefault.jpg",
           "durationSeconds": 40731,
           "durationFormatted": "11:18:51",
-          "views": 2719,
+          "views": 2761,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "fN1hXE9Irxs",
-          "title": "जगदलपुर : राष्ट्रपति द्रौपदी मुर्मू का ऐतिहासिक दौरा #jagdalpur #bastar #chhattisgarh #draupadimurmu",
-          "description": "जगदलपुर : राष्ट्रपति द्रौपदी मुर्मू का ऐतिहासिक दौरा #jagdalpur #bastar ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-02-07T07:00:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/fN1hXE9Irxs/hqdefault.jpg",
-          "durationSeconds": 27,
-          "durationFormatted": "00:27",
-          "views": 2084,
-          "likes": 53,
+          "videoId": "oVbwaPEIstg",
+          "title": "Naxalites Surrender: Sukma के बाद Bijapur में बड़ा एक्शन, 30 नक्सलियों ने पुलिस के सामने किया समर्पण.",
+          "description": "बीजापुर (Bijapur) में नक्सलियों के खिलाफ सुरक्षाबलों को बड़ी कामयाबी ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-07T12:41:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/oVbwaPEIstg/hqdefault.jpg",
+          "durationSeconds": 211,
+          "durationFormatted": "03:31",
+          "views": 2147,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -90,7 +90,7 @@
       "clusterId": "chhattisgarh-february",
       "topic": "Chhattisgarh February",
       "videoCount": 25,
-      "trendScore": 59.5,
+      "trendScore": 58.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/F_zujPSZ1Jc/hqdefault.jpg",
           "durationSeconds": 1662,
           "durationFormatted": "27:42",
-          "views": 30785,
+          "views": 30955,
           "likes": 361,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PS1y2nDZcRI/hqdefault.jpg",
           "durationSeconds": 1524,
           "durationFormatted": "25:24",
-          "views": 25661,
+          "views": 25864,
           "likes": 315,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mNjNTx4nyiM/hqdefault.jpg",
           "durationSeconds": 933,
           "durationFormatted": "15:33",
-          "views": 10768,
+          "views": 10882,
           "likes": 43,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/g44le1Vds7U/hqdefault.jpg",
           "durationSeconds": 869,
           "durationFormatted": "14:29",
-          "views": 10599,
+          "views": 10841,
           "likes": 85,
           "videoType": "VOD",
           "genre": "General"
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GKuYtkCp9mk/hqdefault.jpg",
           "durationSeconds": 37,
           "durationFormatted": "00:37",
-          "views": 9299,
-          "likes": 403,
+          "views": 10589,
+          "likes": 416,
           "videoType": "VOD",
           "genre": "Jobs"
         }
@@ -173,8 +173,8 @@
     {
       "clusterId": "raipur-fire",
       "topic": "Raipur Fire",
-      "videoCount": 14,
-      "trendScore": 49.3,
+      "videoCount": 17,
+      "trendScore": 51.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/soxMD9YTsH8/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 21709,
-          "likes": 477,
+          "views": 23970,
+          "likes": 478,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -201,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/eIUgLKuthmo/hqdefault.jpg",
           "durationSeconds": 798,
           "durationFormatted": "13:18",
-          "views": 15228,
-          "likes": 304,
+          "views": 19516,
+          "likes": 311,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
+          "videoId": "QwxYQPIabP4",
+          "title": "Raipur Fire News: Bhanpuri के तार फैक्ट्री में आग से हाहाकार! Rescue Operation जारी.. | Chhattisgarh",
+          "description": "IBC24, Raipur Fire News: Bhanpuri के तार फैक्ट्री में आग से हाहाकार! Rescue Operation जारी.",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-07T18:50:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/QwxYQPIabP4/hqdefault.jpg",
+          "durationSeconds": 32865,
+          "durationFormatted": "09:07:45",
+          "views": 8788,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
           "videoId": "PdueeSp55n8",
           "title": "Raipur Oil Factory Fire LIVE: रायपुर के ऑयल फैक्ट्री में इतनी भीषण आग कैसे लगी? | Ground Report",
           "description": "Raipur Oil Factory Fire LIVE: रायपुर के ऑयल फैक्ट्री में इतनी भीषण आग कैसे लगी?",
@@ -216,13 +231,13 @@
           "thumbnail": "https://i.ytimg.com/vi/PdueeSp55n8/hqdefault.jpg",
           "durationSeconds": 32236,
           "durationFormatted": "08:57:16",
-          "views": 2888,
+          "views": 3048,
           "likes": 23,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "NpnDiMkBZZU",
           "title": "Raipur Factory Fire Case : फैक्ट्री में एक के बाद एक हो रहे ब्लास्ट | Latest News | Zee MPCG",
           "description": "Raipur Factory Fire Case : फैक्ट्री में एक के बाद एक हो रहे ब्लास्ट | Latest News | Hindi News ...",
@@ -231,34 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/NpnDiMkBZZU/hqdefault.jpg",
           "durationSeconds": 375,
           "durationFormatted": "06:15",
-          "views": 1830,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "A4W7HFcu0b8",
-          "title": "Raipur Oil Factory Fire: फैक्ट्री में तेल टैंकर Blast, आसमान में छाया काले धुएं का गुबार | Breaking",
-          "description": "Raipur Oil Factory Fire: फैक्ट्री में तेल टैंकर Blast, आसमान में छाया काले धुएं का ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-07T10:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/A4W7HFcu0b8/hqdefault.jpg",
-          "durationSeconds": 1369,
-          "durationFormatted": "22:49",
-          "views": 484,
-          "likes": 5,
+          "views": 2398,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-07T18:11:20Z"
+      "latestUpdateAt": "2026-02-07T18:54:51Z"
     },
     {
       "clusterId": "bhaskar-bilaspur",
       "topic": "Bhaskar Bilaspur",
       "videoCount": 13,
-      "trendScore": 45.3,
+      "trendScore": 44.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mHt6GdcnccQ/hqdefault.jpg",
           "durationSeconds": 577,
           "durationFormatted": "09:37",
-          "views": 2981,
-          "likes": 67,
+          "views": 3383,
+          "likes": 68,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EL6QLU9BOag/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 1917,
+          "views": 2143,
           "likes": 83,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9Dq8Auw58hg/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 960,
+          "views": 1046,
           "likes": 19,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HLDHeUDtfdw/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 789,
+          "views": 898,
           "likes": 18,
           "videoType": "VOD",
           "genre": "Crime"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yvWE8ZLg8vk/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 731,
+          "views": 730,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -339,10 +339,94 @@
       "latestUpdateAt": "2026-02-07T15:04:37Z"
     },
     {
+      "clusterId": "world-cup",
+      "topic": "World Cup",
+      "videoCount": 7,
+      "trendScore": 35.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "eRFh5OdGQEA",
+          "title": "IND vs USA Live Score Update | IND vs USA Match Live | India vs America | ICC | T20 World Cup 2026",
+          "description": "IND vs USA T20 World Cup 2026 Live Score Update | IND vs USA Match Live Update | India vs America | ICC | T20 World Cup ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-07T13:53:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/eRFh5OdGQEA/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 2761,
+          "likes": 15,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 2,
+          "videoId": "ZNbPeVcHeJ0",
+          "title": "Breaking News: ICC की सख्ती के आगे झुका Pakistan! T20 World Cup 2026 ।",
+          "description": "Breaking News: ICC की सख्ती के आगे झुका Pakistan! T20 World Cup 2026 । Breaking News: Pakistan bows to ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-07T15:15:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZNbPeVcHeJ0/hqdefault.jpg",
+          "durationSeconds": 25,
+          "durationFormatted": "00:25",
+          "views": 2359,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "qKCOyU16y1c",
+          "title": "INDIA vs USA Match Highlights: T20 World Cup 2026। Suryakumar Yadav Stars As India Win By 29 Runs",
+          "description": "IBC24, INDIA vs USA Match Highlights: T20 World Cup 2026। Suryakumar Yadav Stars As India Win By 29 Runs #indvsusa ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-07T18:07:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/qKCOyU16y1c/hqdefault.jpg",
+          "durationSeconds": 71,
+          "durationFormatted": "01:11",
+          "views": 931,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "TEn-6apLYdY",
+          "title": "T20 World Cup 2026 : T20 WC से पहले क्रिकेटर्स का खुलासा! पाकिस्तानी क्रिकेटरों के खुले राज?",
+          "description": "T20 World Cup 2026 : T20 WC से पहले क्रिकेटर्स का खुलासा! पाकिस्तानी ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-07T15:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/TEn-6apLYdY/hqdefault.jpg",
+          "durationSeconds": 2492,
+          "durationFormatted": "41:32",
+          "views": 436,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "Lu3xiWqpWsM",
+          "title": "T20 World Cup: T20 वर्ल्ड कप में America से India की भिड़ंत, कौन मारेगा बाजी ? | Breaking News | Top",
+          "description": "T20 World Cup: T20 वर्ल्ड कप में America से India की भिड़ंत, कौन मारेगा बाजी ? | Breaking ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-07T13:25:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/Lu3xiWqpWsM/hqdefault.jpg",
+          "durationSeconds": 1596,
+          "durationFormatted": "26:36",
+          "views": 75,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-02-07T18:35:32Z"
+    },
+    {
       "clusterId": "bhilai-shortsfeed",
       "topic": "bhilai shortsfeed",
       "videoCount": 8,
-      "trendScore": 35.9,
+      "trendScore": 35.1,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ptnQan5CyUk/hqdefault.jpg",
           "durationSeconds": 18,
           "durationFormatted": "00:18",
-          "views": 1733,
-          "likes": 15,
+          "views": 1885,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -369,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/e22pCeJXPac/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 1589,
-          "likes": 31,
+          "views": 1714,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -384,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PXUMXprZI3w/hqdefault.jpg",
           "durationSeconds": 32,
           "durationFormatted": "00:32",
-          "views": 909,
-          "likes": 9,
+          "views": 1035,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -414,7 +498,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I-hAdhNfcU8/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 339,
+          "views": 401,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -423,94 +507,10 @@
       "latestUpdateAt": "2026-02-07T17:15:37Z"
     },
     {
-      "clusterId": "world-cup",
-      "topic": "World Cup",
-      "videoCount": 6,
-      "trendScore": 34.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "ZNbPeVcHeJ0",
-          "title": "Breaking News: ICC की सख्ती के आगे झुका Pakistan! T20 World Cup 2026 ।",
-          "description": "Breaking News: ICC की सख्ती के आगे झुका Pakistan! T20 World Cup 2026 । Breaking News: Pakistan bows to ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-07T15:15:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZNbPeVcHeJ0/hqdefault.jpg",
-          "durationSeconds": 25,
-          "durationFormatted": "00:25",
-          "views": 1493,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "qKCOyU16y1c",
-          "title": "INDIA vs USA Match Highlights: T20 World Cup 2026। Suryakumar Yadav Stars As India Win By 29 Runs",
-          "description": "IBC24, INDIA vs USA Match Highlights: T20 World Cup 2026। Suryakumar Yadav Stars As India Win By 29 Runs #indvsusa ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-07T18:07:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/qKCOyU16y1c/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 921,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "TEn-6apLYdY",
-          "title": "T20 World Cup 2026 : T20 WC से पहले क्रिकेटर्स का खुलासा! पाकिस्तानी क्रिकेटरों के खुले राज?",
-          "description": "T20 World Cup 2026 : T20 WC से पहले क्रिकेटर्स का खुलासा! पाकिस्तानी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-07T15:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/TEn-6apLYdY/hqdefault.jpg",
-          "durationSeconds": 2492,
-          "durationFormatted": "41:32",
-          "views": 436,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "Lu3xiWqpWsM",
-          "title": "T20 World Cup: T20 वर्ल्ड कप में America से India की भिड़ंत, कौन मारेगा बाजी ? | Breaking News | Top",
-          "description": "T20 World Cup: T20 वर्ल्ड कप में America से India की भिड़ंत, कौन मारेगा बाजी ? | Breaking ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-07T13:25:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/Lu3xiWqpWsM/hqdefault.jpg",
-          "durationSeconds": 1596,
-          "durationFormatted": "26:36",
-          "views": 57,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "5sx_GX1s5zc",
-          "title": "T20 World Cup 2026: भारत ने जीता पहला मैच, USA को 29 रनों से दी मात | Breaking News",
-          "description": "T20 World Cup 2026: भारत ने जीता पहला मैच, USA को 29 रनों से दी मात | Breaking News ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-07T17:34:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/5sx_GX1s5zc/hqdefault.jpg",
-          "durationSeconds": 86,
-          "durationFormatted": "01:26",
-          "views": 16,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-02-07T18:35:32Z"
-    },
-    {
       "clusterId": "बजट-कय",
       "topic": "बजट क्या",
       "videoCount": 5,
-      "trendScore": 32.4,
+      "trendScore": 31.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/piUvOjAsSGQ/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 272,
+          "views": 364,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GqaiuhrztJY/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 247,
+          "views": 252,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -552,28 +552,13 @@
           "thumbnail": "https://i.ytimg.com/vi/A_aM3IS6yUE/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 207,
+          "views": 204,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "DqggHdOdsQI",
-          "title": "इस बजट में शिक्षा और स्वास्थ्य के लिए क्या है?",
-          "description": "इस बजट में शिक्षा और स्वास्थ्य के लिए क्या है? #unionbudget #unionbudget2026 ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-07T16:49:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/DqggHdOdsQI/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 171,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "0TzMmUfZJxo",
           "title": "बजट को लेकर क्या बोले पूर्व वित्त मंत्री ?",
           "description": "बजट को लेकर क्या बोले पूर्व वित्त मंत्री ? #unionbudget #unionbudget2026 #cgnews ...",
@@ -582,8 +567,23 @@
           "thumbnail": "https://i.ytimg.com/vi/0TzMmUfZJxo/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 130,
+          "views": 179,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "DqggHdOdsQI",
+          "title": "इस बजट में शिक्षा और स्वास्थ्य के लिए क्या है?",
+          "description": "इस बजट में शिक्षा और स्वास्थ्य के लिए क्या है? #unionbudget #unionbudget2026 ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-07T16:49:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/DqggHdOdsQI/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 170,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -591,10 +591,10 @@
       "latestUpdateAt": "2026-02-07T17:06:03Z"
     },
     {
-      "clusterId": "bjp-chhattisgarh",
-      "topic": "BJP Chhattisgarh",
+      "clusterId": "bjp-political",
+      "topic": "BJP Political",
       "videoCount": 4,
-      "trendScore": 32.0,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -606,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6peSHDmu8Us/hqdefault.jpg",
           "durationSeconds": 515,
           "durationFormatted": "08:35",
-          "views": 823,
-          "likes": 5,
+          "views": 1264,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uCfz02TJnE8/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 693,
+          "views": 697,
           "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
@@ -636,8 +636,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Th2gTzz6qjg/hqdefault.jpg",
           "durationSeconds": 409,
           "durationFormatted": "06:49",
-          "views": 397,
-          "likes": 10,
+          "views": 625,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -651,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6ZAgWRBYOq8/hqdefault.jpg",
           "durationSeconds": 1555,
           "durationFormatted": "25:55",
-          "views": 13,
+          "views": 80,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -663,7 +663,7 @@
       "clusterId": "vijay-shah",
       "topic": "Vijay Shah",
       "videoCount": 5,
-      "trendScore": 27.8,
+      "trendScore": 28.0,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FVjXQ1upNa0/hqdefault.jpg",
           "durationSeconds": 229,
           "durationFormatted": "03:49",
-          "views": 56,
+          "views": 108,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -690,13 +690,28 @@
           "thumbnail": "https://i.ytimg.com/vi/t8ahmnNzuH0/hqdefault.jpg",
           "durationSeconds": 1479,
           "durationFormatted": "24:39",
-          "views": 17,
+          "views": 30,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "D5YUVrMzP8U",
+          "title": "Vijay Shah Controversy:क्या जाएगी Minister की कुर्सी? SC की फटकार के बाद Vijay Shah ने फिर जोड़े हाथ",
+          "description": "Vijay Shah Controversy:क्या जाएगी Minister की कुर्सी? SC की फटकार के बाद Vijay Shah ने फिर ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-07T18:17:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/D5YUVrMzP8U/hqdefault.jpg",
+          "durationSeconds": 299,
+          "durationFormatted": "04:59",
+          "views": 16,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "Q2eHwJO5Co0",
           "title": "Vijay Shah Controversy: कर्नल सोफिया पर दिए बयान पर Minister Vijay Shah ने फिर मांगी माफी | MP News",
           "description": "Vijay Shah Controversy: कर्नल सोफिया पर दिए बयान पर Minister Vijay Shah ने फिर मांगी माफी ...",
@@ -711,7 +726,7 @@
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "7NY4ffeDRCU",
           "title": "मीडिया के सवालों से बचते नजर आए Vijay Shah। Congress पहले ही कर चुकी है मंत्री को हटाने की मांग",
           "description": "मीडिया के सवालों से बचते नजर आए Vijay Shah। Congress पहले ही कर चुकी है ...",
@@ -720,22 +735,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7NY4ffeDRCU/hqdefault.jpg",
           "durationSeconds": 210,
           "durationFormatted": "03:30",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "D5YUVrMzP8U",
-          "title": "Vijay Shah Controversy:क्या जाएगी Minister की कुर्सी? SC की फटकार के बाद Vijay Shah ने फिर जोड़े हाथ",
-          "description": "Vijay Shah Controversy:क्या जाएगी Minister की कुर्सी? SC की फटकार के बाद Vijay Shah ने फिर ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-07T18:17:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/D5YUVrMzP8U/hqdefault.jpg",
-          "durationSeconds": 299,
-          "durationFormatted": "04:59",
-          "views": 3,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
