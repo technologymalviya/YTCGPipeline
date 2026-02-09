@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-09T19:38:37.110072Z",
-  "clusterCount": 14,
+  "generatedAt": "2026-02-09T20:56:40.728938Z",
+  "clusterCount": 13,
   "clusters": [
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
-      "videoCount": 17,
-      "trendScore": 49.6,
+      "videoCount": 37,
+      "trendScore": 61.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VpmrsquLIcg/hqdefault.jpg",
           "durationSeconds": 1541,
           "durationFormatted": "25:41",
-          "views": 27773,
+          "views": 27847,
           "likes": 308,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1O6AUTAuH2Y/hqdefault.jpg",
           "durationSeconds": 913,
           "durationFormatted": "15:13",
-          "views": 26540,
+          "views": 26567,
           "likes": 190,
           "videoType": "VOD",
           "genre": "General"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3zMEwRXrwEk/hqdefault.jpg",
           "durationSeconds": 1538,
           "durationFormatted": "25:38",
-          "views": 24000,
+          "views": 24098,
           "likes": 294,
           "videoType": "VOD",
           "genre": "General"
@@ -84,13 +84,13 @@
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-09T17:20:07Z"
+      "latestUpdateAt": "2026-02-09T20:24:12Z"
     },
     {
       "clusterId": "bhilai-mla",
       "topic": "Bhilai MLA",
       "videoCount": 23,
-      "trendScore": 48.7,
+      "trendScore": 47.7,
       "topVideos": [
         {
           "index": 1,
@@ -117,25 +117,25 @@
           "thumbnail": "https://i.ytimg.com/vi/EV_dwg5kT-w/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 43,
+          "views": 44,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "Q6TFZkn1NwM",
-          "title": "गरियाबंद ब्रेकिंग: राजिम कुंभ कल्प मेले में हंगामा, विधायक ने जिला प्रशासन को लगाई फटकार",
-          "description": "chhattisgarhnews #madhyapradehnews #gariyabandnews .",
+          "videoId": "r2surxbddno",
+          "title": "Rajnandgaon News: SP अंकिता शर्मा के निर्देश पर शहर में सघन पुलिस अभियान",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-09T14:12:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q6TFZkn1NwM/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 13,
+          "publishedAt": "2026-02-09T11:09:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/r2surxbddno/hqdefault.jpg",
+          "durationSeconds": 51,
+          "durationFormatted": "00:51",
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Politics"
         },
         {
           "index": 4,
@@ -147,25 +147,25 @@
           "thumbnail": "https://i.ytimg.com/vi/BteqbtFmeAc/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 12,
+          "views": 15,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "r2surxbddno",
-          "title": "Rajnandgaon News: SP अंकिता शर्मा के निर्देश पर शहर में सघन पुलिस अभियान",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "videoId": "Q6TFZkn1NwM",
+          "title": "गरियाबंद ब्रेकिंग: राजिम कुंभ कल्प मेले में हंगामा, विधायक ने जिला प्रशासन को लगाई फटकार",
+          "description": "chhattisgarhnews #madhyapradehnews #gariyabandnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-09T11:09:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/r2surxbddno/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 11,
+          "publishedAt": "2026-02-09T14:12:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q6TFZkn1NwM/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-02-09T14:12:35Z"
@@ -174,7 +174,7 @@
       "clusterId": "bhopal-टचर",
       "topic": "Bhopal टीचर",
       "videoCount": 4,
-      "trendScore": 47.2,
+      "trendScore": 44.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zFV1N0OdRr0/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 2645,
-          "likes": 253,
+          "views": 3030,
+          "likes": 257,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/avYIWV3gcLM/hqdefault.jpg",
           "durationSeconds": 379,
           "durationFormatted": "06:19",
-          "views": 120,
+          "views": 131,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -240,28 +240,13 @@
       "latestUpdateAt": "2026-02-09T14:19:41Z"
     },
     {
-      "clusterId": "america-iran",
-      "topic": "America Iran",
+      "clusterId": "iran-america",
+      "topic": "Iran America",
       "videoCount": 6,
       "trendScore": 41.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "ABX_e4l33PA",
-          "title": "America Iran War : किम जोंग स्टाइल में ईरान ने अमेरिका-इजराइल को खदेड़ा ? | Top News | N18G",
-          "description": "America Iran War : किम जोंग स्टाइल में ईरान ने अमेरिका-इजराइल को खदेड़ा ?",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-09T16:30:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/ABX_e4l33PA/hqdefault.jpg",
-          "durationSeconds": 438,
-          "durationFormatted": "07:18",
-          "views": 5170,
-          "likes": 112,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "AK1bfTqBp8U",
           "title": "Iran America War Update : China और अरब देशों का US पर बड़ा एक्शन, Khamenei का Trump को आखिरी ऑफर!",
           "description": "Iran America War Update : China और अरब देशों का US पर बड़ा एक्शन, Khamenei का Trump को ...",
@@ -270,8 +255,23 @@
           "thumbnail": "https://i.ytimg.com/vi/AK1bfTqBp8U/hqdefault.jpg",
           "durationSeconds": 667,
           "durationFormatted": "11:07",
-          "views": 4772,
-          "likes": 209,
+          "views": 10148,
+          "likes": 436,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "ABX_e4l33PA",
+          "title": "America Iran War : किम जोंग स्टाइल में ईरान ने अमेरिका-इजराइल को खदेड़ा ? | Top News | N18G",
+          "description": "America Iran War : किम जोंग स्टाइल में ईरान ने अमेरिका-इजराइल को खदेड़ा ?",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-09T16:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/ABX_e4l33PA/hqdefault.jpg",
+          "durationSeconds": 438,
+          "durationFormatted": "07:18",
+          "views": 7116,
+          "likes": 114,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,28 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/QOWQp8JYeQ4/hqdefault.jpg",
           "durationSeconds": 357,
           "durationFormatted": "05:57",
-          "views": 4082,
-          "likes": 83,
+          "views": 4777,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "OY3_c-yRei4",
-          "title": "America Iran Nuclear Talks के बीच होगा बड़ा अटैक? | Trump | Khamenei | Oman | N18G",
-          "description": "America Iran Nuclear Talks के बाद Trump ने फोड़ दिया सैंक्शन बम, Khamenei का पारा हाई!",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-09T15:12:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/OY3_c-yRei4/hqdefault.jpg",
-          "durationSeconds": 148,
-          "durationFormatted": "02:28",
-          "views": 2131,
-          "likes": 31,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "aKHlLBY1yZc",
           "title": "Iran America War Update LIVE : ईरान का uss abraham lincoln पर बड़ा हमला? Trump | Khamenei | N18G",
           "description": "Iran America War Update LIVE : ईरान का USS Abraham Lincoln पर बड़ा हमला? Trump | Khamenei | N18G The ...",
@@ -315,103 +300,34 @@
           "thumbnail": "https://i.ytimg.com/vi/aKHlLBY1yZc/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 2093,
-          "likes": 17,
+          "views": 2960,
+          "likes": 18,
           "videoType": "LIVE",
           "genre": "Live"
+        },
+        {
+          "index": 5,
+          "videoId": "OY3_c-yRei4",
+          "title": "America Iran Nuclear Talks के बीच होगा बड़ा अटैक? | Trump | Khamenei | Oman | N18G",
+          "description": "America Iran Nuclear Talks के बाद Trump ने फोड़ दिया सैंक्शन बम, Khamenei का पारा हाई!",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-09T15:12:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/OY3_c-yRei4/hqdefault.jpg",
+          "durationSeconds": 148,
+          "durationFormatted": "02:28",
+          "views": 2385,
+          "likes": 31,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-09T18:36:11Z"
     },
     {
-      "clusterId": "shah-chhattisgarh",
-      "topic": "Shah Chhattisgarh",
-      "videoCount": 13,
-      "trendScore": 41.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "TnRomCQTuJY",
-          "title": "🔴Amit Shah In Chhattisgarh LIVE : आज Bastar Pandum में शामिल होंगे शाह, पूरा कार्यक्रम जान लीजिए",
-          "description": "Amit Shah In Chhattisgarh LIVE : आज Bastar Pandum में शामिल होंगे शाह, पूरा कार्यक्रम जान ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-09T15:35:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/TnRomCQTuJY/hqdefault.jpg",
-          "durationSeconds": 36692,
-          "durationFormatted": "10:11:32",
-          "views": 2099,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "pqVu9Hawqe8",
-          "title": "बस्तर पंडुम का समापन समारोह, केंद्रीय गृहमंत्री अमित शाह ने जनता को संबोधित करते हुए कही ये बातें...",
-          "description": "जगदलपुर:बस्तर पंडुम का समापन केंद्रीय गृहमंत्री अमित शाह शामिल ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-09T08:38:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/pqVu9Hawqe8/hqdefault.jpg",
-          "durationSeconds": 3824,
-          "durationFormatted": "01:03:44",
-          "views": 240,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "VUZfgTKY9pU",
-          "title": "CM विष्णुदेव साय की अध्यक्षता में हुआ बस्तर पंडुम का समापन, गृहमंत्री अमित शाह हुए शामिल...",
-          "description": "जगदलपुर:बस्तर पंडुम का समापन केंद्रीय गृहमंत्री अमित शाह शामिल ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-09T08:40:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/VUZfgTKY9pU/hqdefault.jpg",
-          "durationSeconds": 2824,
-          "durationFormatted": "47:04",
-          "views": 160,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "3mpD1ROZcJA",
-          "title": "&#39;नक्सलवाद के खात्मे की डेडलाइन 31 मार्च..., &#39;Bastar Pandum समापन समारोह में Amit Shah का बड़ा ऐलान",
-          "description": "Amit Shah Bastar Visit: बस्तर की जनजातीय पहचान, परंपरा और संस्कृति को समर्पित ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-09T16:34:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/3mpD1ROZcJA/hqdefault.jpg",
-          "durationSeconds": 241,
-          "durationFormatted": "04:01",
-          "views": 103,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "Q9bGcMBpmYw",
-          "title": "Amit shah |  नक्सलवाद का मूल कारण  क्या था  ? अब तक बताया  गया झूठ |",
-          "description": "Amit Shah | नक्सलवाद का मूल कारण क्या था? अब तक बताया गया झूठ | Short नक्सलवाद ...",
-          "channelTitle": "THE CG KHABAR",
-          "publishedAt": "2026-02-09T11:40:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q9bGcMBpmYw/hqdefault.jpg",
-          "durationSeconds": 168,
-          "durationFormatted": "02:48",
-          "views": 66,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-09T18:30:02Z"
-    },
-    {
       "clusterId": "फस-शद",
       "topic": "फैंसी शादी",
       "videoCount": 5,
-      "trendScore": 41.2,
+      "trendScore": 40.3,
       "topVideos": [
         {
           "index": 1,
@@ -423,13 +339,28 @@
           "thumbnail": "https://i.ytimg.com/vi/UoUkeIo-7MI/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 18840,
-          "likes": 567,
+          "views": 19605,
+          "likes": 569,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
+          "videoId": "LE0pIWvcgh8",
+          "title": "क्या इस ट्रेड डील के बाद रूस से तेल नहीं खरीदेगा भारत?",
+          "description": "क्या इस ट्रेड डील के बाद रूस से तेल नहीं खरीदेगा भारत? #IndiaUSATradeDeal ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-09T16:26:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/LE0pIWvcgh8/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 784,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "-KQNMK6tB4M",
           "title": "क्या देश के हितों के साथ समझौता हुआ है? कांग्रेस ने उठाए सवाल",
           "description": "क्या देश के हितों के साथ समझौता हुआ है? कांग्रेस ने उठाए सवाल ...",
@@ -444,21 +375,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "LE0pIWvcgh8",
-          "title": "क्या इस ट्रेड डील के बाद रूस से तेल नहीं खरीदेगा भारत?",
-          "description": "क्या इस ट्रेड डील के बाद रूस से तेल नहीं खरीदेगा भारत? #IndiaUSATradeDeal ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-09T16:26:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/LE0pIWvcgh8/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 562,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 4,
           "videoId": "kZitqVUOvmE",
           "title": "इस समझौते का असर गांव तक देखने को मिलेगा : राकेश टिकैत",
@@ -468,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kZitqVUOvmE/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 247,
+          "views": 324,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -483,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K-Wz08NNcrI/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 172,
-          "likes": 2,
+          "views": 198,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -495,7 +411,7 @@
       "clusterId": "mohan-yadav",
       "topic": "Mohan Yadav",
       "videoCount": 11,
-      "trendScore": 41.1,
+      "trendScore": 40.2,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ky5QfnajN0I/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 1998,
+          "views": 2273,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Politics"
@@ -522,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-sy4VxvsT3w/hqdefault.jpg",
           "durationSeconds": 227,
           "durationFormatted": "03:47",
-          "views": 659,
+          "views": 705,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TNax11cmRnI/hqdefault.jpg",
           "durationSeconds": 214,
           "durationFormatted": "03:34",
-          "views": 503,
+          "views": 531,
           "likes": 13,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -552,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/G9yGw-jyigQ/hqdefault.jpg",
           "durationSeconds": 169,
           "durationFormatted": "02:49",
-          "views": 240,
+          "views": 397,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -567,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dk2C0Q1Sxnw/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 84,
+          "views": 194,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -579,7 +495,7 @@
       "clusterId": "bhaskar-viral",
       "topic": "Bhaskar Viral",
       "videoCount": 7,
-      "trendScore": 37.3,
+      "trendScore": 36.8,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FGBqZmgfR_c/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 1245,
-          "likes": 54,
+          "views": 1301,
+          "likes": 57,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -606,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iFXB2p9I_xo/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 803,
+          "views": 798,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -621,8 +537,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DuYLZ_Ih0pE/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 663,
-          "likes": 24,
+          "views": 713,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -636,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xcdWP3InI7s/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 579,
+          "views": 653,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -663,7 +579,7 @@
       "clusterId": "hudco-रयपर",
       "topic": "HUDCO रायपुर",
       "videoCount": 8,
-      "trendScore": 37.0,
+      "trendScore": 36.3,
       "topVideos": [
         {
           "index": 1,
@@ -705,13 +621,28 @@
           "thumbnail": "https://i.ytimg.com/vi/-cCZyQ7-XE4/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 871,
-          "likes": 16,
+          "views": 897,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
           "index": 4,
+          "videoId": "-0oTDuMdR2s",
+          "title": "गरियाबंद में सड़क पर उतरे 400 स्कूली छात्र, प्राचार्य को हटाने की कर रहे मांग.  #walkietalkienews",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #gariyaband #studentprotest #educationmatters #educationsystem ...",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-02-09T14:25:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/-0oTDuMdR2s/hqdefault.jpg",
+          "durationSeconds": 64,
+          "durationFormatted": "01:04",
+          "views": 540,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "gmuhqJEE8Ec",
           "title": "भिलाई HUDCO मिलन चौक पर नगर निगम का बुलडोजर चला, अवैध कब्जे हटे, सड़क और सार्वजनिक जमीन मुक्त..",
           "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #milanchowk #hudco #nagarnigam #municipalcorruption #buldozeraction ...",
@@ -724,21 +655,6 @@
           "likes": 16,
           "videoType": "VOD",
           "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "-0oTDuMdR2s",
-          "title": "गरियाबंद में सड़क पर उतरे 400 स्कूली छात्र, प्राचार्य को हटाने की कर रहे मांग.  #walkietalkienews",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #gariyaband #studentprotest #educationmatters #educationsystem ...",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-02-09T14:25:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/-0oTDuMdR2s/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 420,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-09T18:14:06Z"
@@ -746,8 +662,8 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 9,
-      "trendScore": 35.7,
+      "videoCount": 8,
+      "trendScore": 34.2,
       "topVideos": [
         {
           "index": 1,
@@ -759,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/g-nGuK-lsNQ/hqdefault.jpg",
           "durationSeconds": 20,
           "durationFormatted": "00:20",
-          "views": 1166,
+          "views": 1245,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -774,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/taKz6cpL4iU/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 832,
+          "views": 938,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
@@ -831,7 +747,7 @@
       "clusterId": "xpress-लग",
       "topic": "Xpress लगी",
       "videoCount": 8,
-      "trendScore": 34.9,
+      "trendScore": 34.2,
       "topVideos": [
         {
           "index": 1,
@@ -858,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VSn7n2lapIU/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 623,
+          "views": 633,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Crime"
@@ -873,28 +789,13 @@
           "thumbnail": "https://i.ytimg.com/vi/1RwjQqH3gEg/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 374,
+          "views": 421,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "Ne5bJtelSlo",
-          "title": "सिमगा - सुने मकान में चोरी करने वाले दोनों चोर भेजे गए जेलChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-02-09T03:43:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ne5bJtelSlo/hqdefault.jpg",
-          "durationSeconds": 128,
-          "durationFormatted": "02:08",
-          "views": 174,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "DiRhhutJ0No",
           "title": "CG- कार के बोनट में चढ़कर स्टंट, युवक युवतियों को लगा तगड़ा झटकाChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -903,10 +804,25 @@
           "thumbnail": "https://i.ytimg.com/vi/DiRhhutJ0No/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 92,
+          "views": 190,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "Ne5bJtelSlo",
+          "title": "सिमगा - सुने मकान में चोरी करने वाले दोनों चोर भेजे गए जेलChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-02-09T03:43:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ne5bJtelSlo/hqdefault.jpg",
+          "durationSeconds": 128,
+          "durationFormatted": "02:08",
+          "views": 180,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-09T15:03:59Z"
@@ -915,7 +831,7 @@
       "clusterId": "bhaskar-bilaspur",
       "topic": "Bhaskar Bilaspur",
       "videoCount": 5,
-      "trendScore": 32.3,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
@@ -934,21 +850,6 @@
         },
         {
           "index": 2,
-          "videoId": "5f799YLiViU",
-          "title": "US के साथ ट्रेड डील में क्या फैसला हुआ? भारत को क्या मिला, क्या बदला?",
-          "description": "US के साथ ट्रेड डील में क्या फैसला हुआ? भारत को क्या मिला, क्या बदला?",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-09T16:13:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/5f799YLiViU/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 194,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "BVInd8daYXA",
           "title": "Bilaspur में मुस्लिम समाज ने बांग्लादेश के खिलाफ किया प्रदर्शन, उठाए गंभीर सवाल | CG Bhaskar",
           "description": "Bilaspur में मुस्लिम समाज ने बांग्लादेश के खिलाफ किया प्रदर्शन, उठाए ...",
@@ -957,10 +858,25 @@
           "thumbnail": "https://i.ytimg.com/vi/BVInd8daYXA/hqdefault.jpg",
           "durationSeconds": 322,
           "durationFormatted": "05:22",
-          "views": 192,
-          "likes": 5,
+          "views": 254,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "5f799YLiViU",
+          "title": "US के साथ ट्रेड डील में क्या फैसला हुआ? भारत को क्या मिला, क्या बदला?",
+          "description": "US के साथ ट्रेड डील में क्या फैसला हुआ? भारत को क्या मिला, क्या बदला?",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-09T16:13:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/5f799YLiViU/hqdefault.jpg",
+          "durationSeconds": 152,
+          "durationFormatted": "02:32",
+          "views": 247,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 4,
@@ -972,7 +888,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Uu5hYPVhqL0/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 169,
+          "views": 173,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -999,7 +915,7 @@
       "clusterId": "महन-यदव",
       "topic": "मोहन यादव",
       "videoCount": 4,
-      "trendScore": 28.0,
+      "trendScore": 26.5,
       "topVideos": [
         {
           "index": 1,
@@ -1011,13 +927,28 @@
           "thumbnail": "https://i.ytimg.com/vi/Co-1BoRHmhU/hqdefault.jpg",
           "durationSeconds": 230,
           "durationFormatted": "03:50",
-          "views": 65,
+          "views": 141,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "Qus2O5B9ml0",
+          "title": "MP NEWS: बालाघाट में अमर जवान ज्योति कार्यक्रम, CM मोहन यादव बोले ,अब नक्सलियों की वापसी नामुमकिन।",
+          "description": "CM मोहन यादव ने कहा कि मध्य प्रदेश से नक्सलवाद का पूरी तरह सफाया हो ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-09T10:38:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/Qus2O5B9ml0/hqdefault.jpg",
+          "durationSeconds": 880,
+          "durationFormatted": "14:40",
+          "views": 15,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "-a4HAT9r6Fc",
           "title": "MP News: CM मोहन यादव के बालाघाट दौरे की खास बातें | शिक्षा, सुरक्षा और प्रशासनिक विकास पर चर्चा ।",
           "description": "बालाघाट दौरे के दौरान CM मोहन यादव ने अमर जवान ज्योति शहीद स्मारक का ...",
@@ -1032,21 +963,6 @@
           "genre": "Politics"
         },
         {
-          "index": 3,
-          "videoId": "Qus2O5B9ml0",
-          "title": "MP NEWS: बालाघाट में अमर जवान ज्योति कार्यक्रम, CM मोहन यादव बोले ,अब नक्सलियों की वापसी नामुमकिन।",
-          "description": "CM मोहन यादव ने कहा कि मध्य प्रदेश से नक्सलवाद का पूरी तरह सफाया हो ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-09T10:38:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/Qus2O5B9ml0/hqdefault.jpg",
-          "durationSeconds": 880,
-          "durationFormatted": "14:40",
-          "views": 10,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
           "index": 4,
           "videoId": "36_DDDa5mfI",
           "title": "News Update: नक्सलवाद के नाम पर सियासी संग्राम| बाबा बागेश्वर का अनोखा अंदाज| SC के आदेश पर कार्रवाई",
@@ -1056,7 +972,7 @@
           "thumbnail": "https://i.ytimg.com/vi/36_DDDa5mfI/hqdefault.jpg",
           "durationSeconds": 1381,
           "durationFormatted": "23:01",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1068,7 +984,7 @@
       "clusterId": "balrampur-लकर",
       "topic": "Balrampur लेकर",
       "videoCount": 4,
-      "trendScore": 16.1,
+      "trendScore": 15.5,
       "topVideos": [
         {
           "index": 1,
@@ -1102,21 +1018,6 @@
         },
         {
           "index": 3,
-          "videoId": "OhuPTCNjG_Q",
-          "title": "Balrampur News : रामचंद्रपुर में पुलिस कार्रवाई को लेकर गरमाया राजनीतिक माहौल",
-          "description": "बलरामपुर जिले के रामचंद्रपुर क्षेत्र से पुलिस कार्रवाई को लेकर ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-02-09T09:41:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/OhuPTCNjG_Q/hqdefault.jpg",
-          "durationSeconds": 183,
-          "durationFormatted": "03:03",
-          "views": 1,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "c-7Ox7NRMSU",
           "title": "Balrampur News : प्रशासनिक आश्वासन के बाद NH-343 पर किया गया चक्का जाम समाप्त",
           "description": "बलरामपुर जिले में सर्व आदिवासी समाज द्वारा भूमि सीमांकन की मांग को ...",
@@ -1129,6 +1030,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "OhuPTCNjG_Q",
+          "title": "Balrampur News : रामचंद्रपुर में पुलिस कार्रवाई को लेकर गरमाया राजनीतिक माहौल",
+          "description": "बलरामपुर जिले के रामचंद्रपुर क्षेत्र से पुलिस कार्रवाई को लेकर ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-02-09T09:41:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/OhuPTCNjG_Q/hqdefault.jpg",
+          "durationSeconds": 183,
+          "durationFormatted": "03:03",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-09T13:32:58Z"
