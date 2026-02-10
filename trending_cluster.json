@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-10T20:59:48.141415Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-02-10T22:58:10.310146Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "chhattisgarh-february",
       "topic": "Chhattisgarh February",
       "videoCount": 16,
-      "trendScore": 48.8,
+      "trendScore": 47.9,
       "topVideos": [
         {
           "index": 1,
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KxiqXBSCATg/hqdefault.jpg",
           "durationSeconds": 1404,
           "durationFormatted": "23:24",
-          "views": 13798,
+          "views": 13806,
           "likes": 238,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2PmDr_22u-8/hqdefault.jpg",
           "durationSeconds": 919,
           "durationFormatted": "15:19",
-          "views": 5794,
+          "views": 5819,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-FyOn666JPQ/hqdefault.jpg",
           "durationSeconds": 36769,
           "durationFormatted": "10:12:49",
-          "views": 4901,
+          "views": 4938,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9cU4fLoCoho/hqdefault.jpg",
           "durationSeconds": 700,
           "durationFormatted": "11:40",
-          "views": 3009,
+          "views": 3036,
           "likes": 68,
           "videoType": "VOD",
           "genre": "Politics"
@@ -87,28 +87,13 @@
       "latestUpdateAt": "2026-02-10T19:04:38Z"
     },
     {
-      "clusterId": "ववह-february",
-      "topic": "विवाह February",
+      "clusterId": "ववह-rajnandgaon",
+      "topic": "विवाह Rajnandgaon",
       "videoCount": 20,
-      "trendScore": 45.8,
+      "trendScore": 43.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "c43XSrciA68",
-          "title": "10 February 2026 |  | Madhya Pradesh News | News from Madhya Pradesh",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-10T14:23:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/c43XSrciA68/hqdefault.jpg",
-          "durationSeconds": 1561,
-          "durationFormatted": "26:01",
-          "views": 80,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "ifwqtaDBkg0",
           "title": "Rajnandgaon News: चिखली से गठुला तक होगा सड़क चौड़ीकरण, नगर निगम का फैसला",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -117,10 +102,25 @@
           "thumbnail": "https://i.ytimg.com/vi/ifwqtaDBkg0/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 36,
+          "views": 139,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "c43XSrciA68",
+          "title": "10 February 2026 |  | Madhya Pradesh News | News from Madhya Pradesh",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-10T14:23:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/c43XSrciA68/hqdefault.jpg",
+          "durationSeconds": 1561,
+          "durationFormatted": "26:01",
+          "views": 111,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 3,
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DDpouNkznwU/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 18,
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -171,94 +171,10 @@
       "latestUpdateAt": "2026-02-10T14:27:35Z"
     },
     {
-      "clusterId": "cabinet-mohan",
-      "topic": "Cabinet Mohan",
-      "videoCount": 6,
-      "trendScore": 37.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "h_dadGiKt0Q",
-          "title": "Mohan Cabinet के अहम फैसले!  मंत्री चैतन्य कश्यप ने कैबिनेट फैसलों की दी जानकारी",
-          "description": "Mohan Cabinet के अहम फैसले! मंत्री चैतन्य कश्यप ने कैबिनेट फैसलों की दी ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-10T09:05:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/h_dadGiKt0Q/hqdefault.jpg",
-          "durationSeconds": 216,
-          "durationFormatted": "03:36",
-          "views": 12249,
-          "likes": 117,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "D0DjAIXNv5U",
-          "title": "Mohan Cabinet: मोहन कैबिनेट की बैठक खत्म, कई बड़े फैसलों पर लगी मुहर",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव की अध्यक्षता में बजट सत्र से पहले मोहन ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-10T09:39:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/D0DjAIXNv5U/hqdefault.jpg",
-          "durationSeconds": 261,
-          "durationFormatted": "04:21",
-          "views": 5387,
-          "likes": 62,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "ONpSASYRoyo",
-          "title": "Breaking News:  MP-पेंशन योजना में बड़ा बदलाव। MP Cabinet Meeting Decisions ।",
-          "description": "Breaking News: MP-पेंशन योजना में बड़ा बदलाव। MP Cabinet Meeting Decisions । MP Cabinet Meeting ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-10T14:12:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/ONpSASYRoyo/hqdefault.jpg",
-          "durationSeconds": 536,
-          "durationFormatted": "08:56",
-          "views": 3533,
-          "likes": 17,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "ot_QNhDAjk4",
-          "title": "MP Cabinet Meeting : कई अहम प्रस्तावों को मिली हरी झंडी | न्यू पेंशन स्कीम 2026 पर अहम फैसला",
-          "description": "MP Cabinet Meeting : एमपी कैबिनेट में कई फैसलों पर मुहर बालाघाट में कृषि ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-10T15:59:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/ot_QNhDAjk4/hqdefault.jpg",
-          "durationSeconds": 168,
-          "durationFormatted": "02:48",
-          "views": 306,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "5d_NbQCPYU0",
-          "title": "Breaking News: विकास की गति, कैबिनेट फैसले में दिखी । MP Cabinet Meeting Decisions ।",
-          "description": "Breaking News: विकास की गति, कैबिनेट फैसले में दिखी । MP Cabinet Meeting Decisions ।",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-10T16:55:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/5d_NbQCPYU0/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 114,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-02-10T18:20:11Z"
-    },
-    {
       "clusterId": "bhaskar-arrest",
       "topic": "Bhaskar Arrest",
       "videoCount": 7,
-      "trendScore": 36.8,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I4eei4KFRvo/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 3618,
+          "views": 3758,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -285,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/W2c6xB9IrQk/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 1331,
-          "likes": 56,
+          "views": 1372,
+          "likes": 58,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,28 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/6RSxFx3v5Z8/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1006,
-          "likes": 36,
+          "views": 1024,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "7KkZMS9rW90",
-          "title": "रोज बिस्किट खाना पड़ेगा महंगा! | CG Bhaskar",
-          "description": "रोज बिस्किट खाना पड़ेगा महंगा! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-10T14:16:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/7KkZMS9rW90/hqdefault.jpg",
-          "durationSeconds": 68,
-          "durationFormatted": "01:08",
-          "views": 744,
-          "likes": 24,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "_e6A4qgvgpo",
           "title": "3 स्टार होटल में देह व्यापार का भांडाफोड़",
           "description": "3 स्टार होटल में देह व्यापार का भांडाफोड़ Join our Whatsapp Group ...",
@@ -334,99 +235,114 @@
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "7KkZMS9rW90",
+          "title": "रोज बिस्किट खाना पड़ेगा महंगा! | CG Bhaskar",
+          "description": "रोज बिस्किट खाना पड़ेगा महंगा! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-10T14:16:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/7KkZMS9rW90/hqdefault.jpg",
+          "durationSeconds": 68,
+          "durationFormatted": "01:08",
+          "views": 732,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-10T15:47:01Z"
     },
     {
-      "clusterId": "kinnar-jihad",
-      "topic": "Kinnar Jihad",
-      "videoCount": 7,
-      "trendScore": 34.1,
+      "clusterId": "mohan-cabinet",
+      "topic": "Mohan Cabinet",
+      "videoCount": 5,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "IXpslatcCS4",
-          "title": "🔴Bhopal Kinnar Jihad: भोपाल में किन्नरों को जबरदस्ती मुस्लिम कौन बना रहा है? | Dharmantaran",
-          "description": "Bhopal Kinnar Jihad: भोपाल में किन्नरों को जबरदस्ती मुस्लिम कौन बना रहा है?",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-10T18:06:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/IXpslatcCS4/hqdefault.jpg",
-          "durationSeconds": 42895,
-          "durationFormatted": "11:54:55",
-          "views": 1529,
-          "likes": 13,
+          "videoId": "h_dadGiKt0Q",
+          "title": "Mohan Cabinet के अहम फैसले!  मंत्री चैतन्य कश्यप ने कैबिनेट फैसलों की दी जानकारी",
+          "description": "Mohan Cabinet के अहम फैसले! मंत्री चैतन्य कश्यप ने कैबिनेट फैसलों की दी ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-10T09:05:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/h_dadGiKt0Q/hqdefault.jpg",
+          "durationSeconds": 216,
+          "durationFormatted": "03:36",
+          "views": 12387,
+          "likes": 117,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "zXokZKT7obg",
-          "title": "Kinnar Jihad in Bhopal: किन्नर गुटों में भी हिंदू-मुसलमान। राजधानी में दो गुट खुलेआम आमने-सामने",
-          "description": "IBC24, Kinnar Jihad in Bhopal: किन्नर गुटों में भी हिंदू-मुसलमान। राजधानी में दो ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-10T16:14:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/zXokZKT7obg/hqdefault.jpg",
-          "durationSeconds": 183,
-          "durationFormatted": "03:03",
-          "views": 106,
-          "likes": 0,
+          "videoId": "D0DjAIXNv5U",
+          "title": "Mohan Cabinet: मोहन कैबिनेट की बैठक खत्म, कई बड़े फैसलों पर लगी मुहर",
+          "description": "मुख्यमंत्री डॉ. मोहन यादव की अध्यक्षता में बजट सत्र से पहले मोहन ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-10T09:39:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/D0DjAIXNv5U/hqdefault.jpg",
+          "durationSeconds": 261,
+          "durationFormatted": "04:21",
+          "views": 5445,
+          "likes": 62,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "FtOoaOeU_Jw",
-          "title": "Bhopal में किन्नर समुदाय के दो गुट आमने-सामने: धर्मांतरण के आरोप-प्रत्यारोप से बढ़ा विवाद",
-          "description": "राजधानी भोपाल में किन्नर समुदाय के दो गुटों के बीच एक नया विवाद ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-10T12:02:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/FtOoaOeU_Jw/hqdefault.jpg",
-          "durationSeconds": 321,
-          "durationFormatted": "05:21",
-          "views": 67,
-          "likes": 0,
+          "videoId": "ot_QNhDAjk4",
+          "title": "MP Cabinet Meeting : कई अहम प्रस्तावों को मिली हरी झंडी | न्यू पेंशन स्कीम 2026 पर अहम फैसला",
+          "description": "MP Cabinet Meeting : एमपी कैबिनेट में कई फैसलों पर मुहर बालाघाट में कृषि ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-10T15:59:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/ot_QNhDAjk4/hqdefault.jpg",
+          "durationSeconds": 168,
+          "durationFormatted": "02:48",
+          "views": 381,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "MM_xs7wgRJI",
-          "title": "Bhopal Kinnar Controversy: MP में &quot;Love Jihad&quot; के बाद अब &quot;किन्नर जिहाद! या गद्दी का विवाद? MP News",
-          "description": "Bhopal Kinnar Controversy: भोपाल में किन्नर समुदाय के बीच किन्नर जिहाद का विवाद ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-10T17:29:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/MM_xs7wgRJI/hqdefault.jpg",
-          "durationSeconds": 1347,
-          "durationFormatted": "22:27",
-          "views": 48,
-          "likes": 3,
+          "videoId": "5d_NbQCPYU0",
+          "title": "Breaking News: विकास की गति, कैबिनेट फैसले में दिखी । MP Cabinet Meeting Decisions ।",
+          "description": "Breaking News: विकास की गति, कैबिनेट फैसले में दिखी । MP Cabinet Meeting Decisions ।",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-10T16:55:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/5d_NbQCPYU0/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 242,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "O8LLoO-wLvQ",
-          "title": "Love Jihad Controversy :कथित लव जिहाद मामले में कार्रवाई ,आरोपी गिरफ्तार | Latest News | Zee MPCG",
-          "description": "Love Jihad Controversy :कथित लव जिहाद मामले में कार्रवाई ,आरोपी गिरफ्तार | Latest ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-10T13:34:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/O8LLoO-wLvQ/hqdefault.jpg",
-          "durationSeconds": 116,
-          "durationFormatted": "01:56",
-          "views": 42,
+          "videoId": "w4jsSJJXzu8",
+          "title": "Mohan Cabinet Decision: अविवाहित-विधवा-तलाकशुदा बेटियों को मिलेगा पेंशन। कैबिनेट बैठक में अहम फैसला",
+          "description": "IBC24, Mohan Cabinet Decision: अविवाहित-विधवा-तलाकशुदा बेटियों को मिलेगा पेंशन ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-10T18:20:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/w4jsSJJXzu8/hqdefault.jpg",
+          "durationSeconds": 84,
+          "durationFormatted": "01:24",
+          "views": 70,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-10T18:06:18Z"
+      "latestUpdateAt": "2026-02-10T18:20:11Z"
     },
     {
       "clusterId": "बरल-वपकष",
       "topic": "बिरला विपक्ष",
       "videoCount": 5,
-      "trendScore": 33.8,
+      "trendScore": 32.5,
       "topVideos": [
         {
           "index": 1,
@@ -453,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IoChAphx02A/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 416,
+          "views": 524,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -498,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HPgRtSmUanU/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 14,
+          "views": 21,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -510,7 +426,7 @@
       "clusterId": "bjp-जल",
       "topic": "BJP जिला",
       "videoCount": 5,
-      "trendScore": 32.0,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tIK0OXQb_IY/hqdefault.jpg",
           "durationSeconds": 240,
           "durationFormatted": "04:00",
-          "views": 453,
+          "views": 449,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LTOKBth4Zxk/hqdefault.jpg",
           "durationSeconds": 1533,
           "durationFormatted": "25:33",
-          "views": 204,
+          "views": 314,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -552,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RFR7fzuQRBg/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 58,
+          "views": 60,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -567,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/q6N-rDLWV7w/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 16,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -594,7 +510,7 @@
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
       "videoCount": 4,
-      "trendScore": 31.5,
+      "trendScore": 30.2,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q08N5XFXph8/hqdefault.jpg",
           "durationSeconds": 343,
           "durationFormatted": "05:43",
-          "views": 604,
+          "views": 949,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Events"
@@ -621,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MDA42ViUtQc/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 336,
+          "views": 365,
           "likes": 3,
           "videoType": "LIVE",
           "genre": "Live"
@@ -636,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iNb2Lr3VXSc/hqdefault.jpg",
           "durationSeconds": 227,
           "durationFormatted": "03:47",
-          "views": 65,
+          "views": 95,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -651,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mk8DKN-uGWE/hqdefault.jpg",
           "durationSeconds": 228,
           "durationFormatted": "03:48",
-          "views": 59,
+          "views": 76,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -663,25 +579,10 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 4,
-      "trendScore": 27.5,
+      "trendScore": 29.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "gNzSK2tldtk",
-          "title": "🔴LIVE : Khabar Apne MP Ki : भगवान के घर पर सेंधमारी  | Zee  MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : भगवान के घर पर सेंधमारी | Zee MPCG #Live #MadhyaPradesh #HindiNews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-10T13:29:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/gNzSK2tldtk/hqdefault.jpg",
-          "durationSeconds": 1445,
-          "durationFormatted": "24:05",
-          "views": 207,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "QQV9mbXT1F0",
           "title": "India vs Pakistan Match : भारत से मैच खेलने को राज़ी पाकिस्तान, फिर लिया यू-टर्न  | Zee MPCG",
           "description": "India vs Pakistan Match : भारत से मैच खेलने को राज़ी पाकिस्तान, फिर लिया यू-टर्न ...",
@@ -690,13 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/QQV9mbXT1F0/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 198,
+          "views": 218,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "gKijGUPaNX4",
           "title": "🔴LIVE :  Johar : जांजगीर चांपा में बड़ा हादसा !  | Latest News  | Zee MPCG",
           "description": "LIVE : Johar : जांजगीर चांपा में बड़ा हादसा ! | Latest News | Zee MPCG #Live #Johar #cgNews ...",
@@ -711,6 +612,21 @@
           "genre": "Traffic"
         },
         {
+          "index": 3,
+          "videoId": "O0dE45g1JRk",
+          "title": "🔴LIVE : MP - CG : भोपाल में चयनित शिक्षक अभ्यर्थियों का प्रदर्शन जारी | Latest News |Zee MPCG",
+          "description": "LIVE : MP - CG : भोपाल में चयनित शिक्षक अभ्यर्थियों का प्रदर्शन जारी | Latest ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-10T21:51:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/O0dE45g1JRk/hqdefault.jpg",
+          "durationSeconds": 1401,
+          "durationFormatted": "23:21",
+          "views": 121,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
           "index": 4,
           "videoId": "Vutta-ivE_s",
           "title": "🔴LIVE: Khabar Dinbhar Ki : मैहर में 4 करोड़ का घोटाला उजागर | Latest News  | Zee MPCG",
@@ -720,13 +636,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Vutta-ivE_s/hqdefault.jpg",
           "durationSeconds": 1688,
           "durationFormatted": "28:08",
-          "views": 27,
+          "views": 78,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-10T17:55:44Z"
+      "latestUpdateAt": "2026-02-10T21:51:09Z"
     }
   ]
 }
