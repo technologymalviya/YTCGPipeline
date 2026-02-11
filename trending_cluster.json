@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-11T20:54:04.495773Z",
+  "generatedAt": "2026-02-11T22:48:39.929367Z",
   "clusterCount": 13,
   "clusters": [
     {
       "clusterId": "chhattisgarh-sai",
       "topic": "Chhattisgarh Sai",
-      "videoCount": 15,
-      "trendScore": 47.7,
+      "videoCount": 14,
+      "trendScore": 45.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZK-XzT3G4-k/hqdefault.jpg",
           "durationSeconds": 1542,
           "durationFormatted": "25:42",
-          "views": 27762,
+          "views": 27802,
           "likes": 322,
           "videoType": "VOD",
           "genre": "General"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ofR5T4m3yVw/hqdefault.jpg",
           "durationSeconds": 1744,
           "durationFormatted": "29:04",
-          "views": 21593,
-          "likes": 262,
+          "views": 21631,
+          "likes": 263,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6KehLQeMO24/hqdefault.jpg",
           "durationSeconds": 42901,
           "durationFormatted": "11:55:01",
-          "views": 4525,
+          "views": 4538,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hZC38BD_Bts/hqdefault.jpg",
           "durationSeconds": 639,
           "durationFormatted": "10:39",
-          "views": 3944,
+          "views": 3972,
           "likes": 92,
           "videoType": "VOD",
           "genre": "Politics"
@@ -87,94 +87,10 @@
       "latestUpdateAt": "2026-02-11T19:16:04Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 12,
-      "trendScore": 42.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Yp_nnDmP8jY",
-          "title": "Vande Mataram New Guidelines: अभी-अभी वंदे मातरम पर सरकार का बड़ा फैसला ।  Breaking News । Top News।",
-          "description": "Vande Mataram New Guidelines: अभी-अभी वंदे मातरम पर सरकार का बड़ा फैसला । Breaking ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-11T14:35:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/Yp_nnDmP8jY/hqdefault.jpg",
-          "durationSeconds": 285,
-          "durationFormatted": "04:45",
-          "views": 9065,
-          "likes": 66,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "aSZAJOaECV4",
-          "title": "Vande Mataram Controversy : वंदे मातरम पर सरकार के नए दिशा-निर्देश | Latest News | Zee MPCG",
-          "description": "Vande Mataram Controversy : वंदे मातरम पर सरकार के नए दिशा-निर्देश | Latest News | Hindi ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-11T13:15:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/aSZAJOaECV4/hqdefault.jpg",
-          "durationSeconds": 194,
-          "durationFormatted": "03:14",
-          "views": 1281,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "DOdLHxhChqk",
-          "title": "#shorts : 35 लाख की शराब, 1 ट्रक, और पुलिस का बड़ा एक्शन! | Breaking | Latest News  | Zee MPCG",
-          "description": "नरसिंहपुर के करेली थाना पुलिस ने देर रात बड़ी कार्रवाई करते हुए बहर ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-11T12:42:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/DOdLHxhChqk/hqdefault.jpg",
-          "durationSeconds": 14,
-          "durationFormatted": "00:14",
-          "views": 898,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "-5b_g-9yEGg",
-          "title": "Babri Masjid Controversy : &#39;बाबरी&#39; पर आज &#39;कयामत&#39; का दिन | Latest News | Hindi News | Zee MPCG",
-          "description": "Babri Masjid Controversy : 'बाबरी' पर आज 'कयामत' का दिन | Latest News | Hindi News | Zee MPCG Tarkash ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-11T15:15:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/-5b_g-9yEGg/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 897,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "S-sEfGIgps0",
-          "title": "#Shorts : 10 करोड़ दो…’ MP में लॉरेंस गैंग के नाम पर खौफ का खेल ? | Zee MPCG",
-          "description": "Shorts : 10 करोड़ दो…' MP में लॉरेंस गैंग के नाम पर खौफ का खेल ? | Zee MPCG मध्य ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-11T18:16:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/S-sEfGIgps0/hqdefault.jpg",
-          "durationSeconds": 43,
-          "durationFormatted": "00:43",
-          "views": 752,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-02-11T19:55:50Z"
-    },
-    {
       "clusterId": "raipur-रजनदगव",
       "topic": "Raipur राजनांदगांव",
       "videoCount": 20,
-      "trendScore": 41.8,
+      "trendScore": 41.1,
       "topVideos": [
         {
           "index": 1,
@@ -193,21 +109,6 @@
         },
         {
           "index": 2,
-          "videoId": "LCWl_a2hAvA",
-          "title": "राजनांदगांव: महंगाई के बीच 10वीं-12वीं फीस बढ़ी, कांग्रेस ने गुल्लक फोड़कर जताई नाराजगी",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-11T09:45:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/LCWl_a2hAvA/hqdefault.jpg",
-          "durationSeconds": 357,
-          "durationFormatted": "05:57",
-          "views": 32,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "Ranayw8Ub-4",
           "title": "राजनांदगांव में रिलीज हुई बाबा साहब की जीवन गाथा, महापौर ने सराहा",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -222,7 +123,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "xMB5bE0w3Ms",
           "title": "राजनांदगांव जिले के सभी मध्यान्ह भोजन कर्मियों ने 11 फरवरी से सात दिन की हड़ताल शुरू कर दी है",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -237,7 +138,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "rFvAoMUYjvQ",
           "title": "Raipur News: मोदी-शाह ने दिया था BJP में आने का ऑफर, भूपेश बघेल का सनसनीखेज आरोप",
           "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
@@ -250,6 +151,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "pONaVqZVRPw",
+          "title": "राजनांदगांव: छह करोड़ की राशि के बावजूद आयोजन टला, खेल विभाग पर सवाल",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-11T12:41:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/pONaVqZVRPw/hqdefault.jpg",
+          "durationSeconds": 168,
+          "durationFormatted": "02:48",
+          "views": 9,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-11T14:18:03Z"
@@ -257,11 +173,26 @@
     {
       "clusterId": "bhaskar-bilaspur",
       "topic": "Bhaskar Bilaspur",
-      "videoCount": 8,
-      "trendScore": 36.5,
+      "videoCount": 9,
+      "trendScore": 37.6,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "Ytz9e6Inw94",
+          "title": "लोकसभा में राहुल गांधी का बड़ा बयान बोले आपने भारत बेच दिया!",
+          "description": "लोकसभा में राहुल गांधी का बड़ा बयान बोले आपने भारत बेच दिया! #LokSabha ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-11T08:44:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ytz9e6Inw94/hqdefault.jpg",
+          "durationSeconds": 24,
+          "durationFormatted": "00:24",
+          "views": 3219,
+          "likes": 54,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "aMCcmAvQgzE",
           "title": "ओम बिरला ने क्या गलती कर दी जिस वजह से विपक्ष अविश्वास प्रस्ताव लाया ?",
           "description": "ओम बिरला ने क्या गलती कर दी जिस वजह से विपक्ष अविश्वास प्रस्ताव लाया ...",
@@ -270,13 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/aMCcmAvQgzE/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 624,
-          "likes": 7,
+          "views": 644,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
+          "index": 3,
           "videoId": "m77BmSuvur0",
           "title": "बासीन गांव के जमीन विवाद को लेकर जोरावर सिंह का पक्ष | कौन सही , कौन गलत बड़ा सवाल ?  | CG Bhaskar",
           "description": "बासीन गांव के जमीन विवाद को लेकर जोरावर सिंह का पक्ष | कौन सही , कौन गलत ...",
@@ -285,23 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/m77BmSuvur0/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 515,
+          "views": 538,
           "likes": 15,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "bMOAAg1lDRM",
-          "title": "Bilaspur में ईसाई और मुस्लिम समाज के लोग पहुंचे कलेक्टर के पास, जानिए पूरा मामला | CG Bhaskar",
-          "description": "Bilaspur में ईसाई और मुस्लिम समाज के लोग पहुंचे कलेक्टर के पास, जानिए ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-11T09:15:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/bMOAAg1lDRM/hqdefault.jpg",
-          "durationSeconds": 448,
-          "durationFormatted": "07:28",
-          "views": 480,
-          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,25 +231,25 @@
           "thumbnail": "https://i.ytimg.com/vi/jgUd6fjjhks/hqdefault.jpg",
           "durationSeconds": 159,
           "durationFormatted": "02:39",
-          "views": 479,
-          "likes": 20,
+          "views": 524,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 5,
-          "videoId": "mPAujpx0G6Y",
-          "title": "&#39;PM मोदी ने भारत माता को बेच दिया&#39;, लोकसभा में राहुल गांधी का बड़ा आरोप",
-          "description": "'PM मोदी ने भारत माता को बेच दिया', लोकसभा में राहुल गांधी का बड़ा आरोप ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-11T15:38:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/mPAujpx0G6Y/hqdefault.jpg",
-          "durationSeconds": 159,
-          "durationFormatted": "02:39",
-          "views": 97,
-          "likes": 2,
+          "videoId": "bMOAAg1lDRM",
+          "title": "Bilaspur में ईसाई और मुस्लिम समाज के लोग पहुंचे कलेक्टर के पास, जानिए पूरा मामला | CG Bhaskar",
+          "description": "Bilaspur में ईसाई और मुस्लिम समाज के लोग पहुंचे कलेक्टर के पास, जानिए ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-11T09:15:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/bMOAAg1lDRM/hqdefault.jpg",
+          "durationSeconds": 448,
+          "durationFormatted": "07:28",
+          "views": 484,
+          "likes": 8,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-11T19:14:26Z"
@@ -342,7 +258,7 @@
       "clusterId": "gold-price",
       "topic": "Gold Price",
       "videoCount": 4,
-      "trendScore": 36.1,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/DM_5IbZWoRI/hqdefault.jpg",
           "durationSeconds": 182,
           "durationFormatted": "03:02",
-          "views": 14483,
-          "likes": 59,
+          "views": 15651,
+          "likes": 61,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "vKrm6IdWHLw",
-          "title": "Gold Silver Latest Price : फिर धड़ाम हुआ चांदी, ताजा भाव से निवेशक खुश!| Share Market | Breaking",
-          "description": "Gold Silver Latest Price: फिर धड़ाम हुआ चांदी, ताजा भाव से निवेशक खुश! | Share Market Crash ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-11T14:16:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/vKrm6IdWHLw/hqdefault.jpg",
-          "durationSeconds": 109,
-          "durationFormatted": "01:49",
-          "views": 11848,
-          "likes": 47,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
           "videoId": "m9DFf2jOOAI",
           "title": "Gold Silver Latest Price : 9 बजते ही 30000 हजार रुपये लुढ़का सोना? | Top News | Breaking News",
           "description": "Gold Silver Latest Price : 9 बजते ही 30000 हजार रुपये लुढ़का सोना? | Top News | Breaking News ...",
@@ -384,10 +285,25 @@
           "thumbnail": "https://i.ytimg.com/vi/m9DFf2jOOAI/hqdefault.jpg",
           "durationSeconds": 182,
           "durationFormatted": "03:02",
-          "views": 10544,
-          "likes": 117,
+          "views": 12527,
+          "likes": 119,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "vKrm6IdWHLw",
+          "title": "Gold Silver Latest Price : फिर धड़ाम हुआ चांदी, ताजा भाव से निवेशक खुश!| Share Market | Breaking",
+          "description": "Gold Silver Latest Price: फिर धड़ाम हुआ चांदी, ताजा भाव से निवेशक खुश! | Share Market Crash ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-11T14:16:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/vKrm6IdWHLw/hqdefault.jpg",
+          "durationSeconds": 109,
+          "durationFormatted": "01:49",
+          "views": 12425,
+          "likes": 47,
+          "videoType": "VOD",
+          "genre": "Traffic"
         },
         {
           "index": 4,
@@ -399,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QhvolFngBCc/hqdefault.jpg",
           "durationSeconds": 293,
           "durationFormatted": "04:53",
-          "views": 1201,
+          "views": 1327,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -408,10 +324,94 @@
       "latestUpdateAt": "2026-02-11T15:48:11Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 9,
+      "trendScore": 34.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "S-sEfGIgps0",
+          "title": "#Shorts : 10 करोड़ दो…’ MP में लॉरेंस गैंग के नाम पर खौफ का खेल ? | Zee MPCG",
+          "description": "Shorts : 10 करोड़ दो…' MP में लॉरेंस गैंग के नाम पर खौफ का खेल ? | Zee MPCG मध्य ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-11T18:16:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/S-sEfGIgps0/hqdefault.jpg",
+          "durationSeconds": 43,
+          "durationFormatted": "00:43",
+          "views": 807,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "D6-8vDdLcxA",
+          "title": "🔴LIVE : Khabar Apne MP Ki : ग्वालियर में भर्ती फर्जीवाड़े में एक्शन | Zee  MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : ग्वालियर में भर्ती फर्जीवाड़े में एक्शन | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-11T13:56:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/D6-8vDdLcxA/hqdefault.jpg",
+          "durationSeconds": 790,
+          "durationFormatted": "13:10",
+          "views": 228,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 3,
+          "videoId": "-GZjn45HR1M",
+          "title": "🔴LIVE :  Johar : छत्तीसगढ़ के किसानों को होली गिफ्ट  | Latest News  | Zee MPCG",
+          "description": "LIVE : Johar : छत्तीसगढ़ के किसानों को होली गिफ्ट | Latest News | Zee MPCG #Live #Johar ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-11T13:56:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/-GZjn45HR1M/hqdefault.jpg",
+          "durationSeconds": 1542,
+          "durationFormatted": "25:42",
+          "views": 213,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "6mlUromRzqY",
+          "title": "🔴LIVE : MP - CG : वन्दे मातरम् को राष्ट्र गान का सम्मान  | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : वन्दे मातरम् को राष्ट्र गान का सम्मान | Latest News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-11T19:55:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/6mlUromRzqY/hqdefault.jpg",
+          "durationSeconds": 1526,
+          "durationFormatted": "25:26",
+          "views": 185,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "aBQxtPsG6OU",
+          "title": "Chhatarpur Mass Wedding : 300 कन्याओं के सामूहिक विवाह की तैयारी पूरी | CG News | Zee MPCG",
+          "description": "Chhatarpur Mass Wedding : बाबा बागेश्वर करेंगे सामुहिक विवाह का आयोजन *300 ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-11T15:37:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/aBQxtPsG6OU/hqdefault.jpg",
+          "durationSeconds": 199,
+          "durationFormatted": "03:19",
+          "views": 72,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-02-11T19:55:50Z"
+    },
+    {
       "clusterId": "कसन-पहल",
       "topic": "किसानों पहले",
       "videoCount": 6,
-      "trendScore": 34.6,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/L39uLYOfGr0/hqdefault.jpg",
           "durationSeconds": 138,
           "durationFormatted": "02:18",
-          "views": 6101,
+          "views": 6146,
           "likes": 44,
           "videoType": "VOD",
           "genre": "Politics"
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lSHD6N913EI/hqdefault.jpg",
           "durationSeconds": 387,
           "durationFormatted": "06:27",
-          "views": 785,
-          "likes": 8,
+          "views": 799,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Wqwx_moT0WQ/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 538,
+          "views": 514,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MLtCRzugnFg/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 89,
+          "views": 88,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -495,7 +495,7 @@
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
       "videoCount": 4,
-      "trendScore": 34.4,
+      "trendScore": 33.6,
       "topVideos": [
         {
           "index": 1,
@@ -507,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1R4dLGeN4eM/hqdefault.jpg",
           "durationSeconds": 274,
           "durationFormatted": "04:34",
-          "views": 1968,
-          "likes": 20,
+          "views": 2293,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -522,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/w1xVVnHaO_M/hqdefault.jpg",
           "durationSeconds": 358,
           "durationFormatted": "05:58",
-          "views": 914,
-          "likes": 31,
+          "views": 1368,
+          "likes": 41,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MZUl_LKAT9U/hqdefault.jpg",
           "durationSeconds": 259,
           "durationFormatted": "04:19",
-          "views": 425,
+          "views": 499,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -552,8 +552,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eqyog1_T6vc/hqdefault.jpg",
           "durationSeconds": 257,
           "durationFormatted": "04:17",
-          "views": 188,
-          "likes": 4,
+          "views": 227,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Jobs"
         }
@@ -564,7 +564,7 @@
       "clusterId": "bhilai-seemant",
       "topic": "Bhilai Seemant",
       "videoCount": 5,
-      "trendScore": 31.8,
+      "trendScore": 30.9,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5cTsQkSMhHA/hqdefault.jpg",
           "durationSeconds": 448,
           "durationFormatted": "07:28",
-          "views": 3050,
+          "views": 3115,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dJ0wySpW2aQ/hqdefault.jpg",
           "durationSeconds": 409,
           "durationFormatted": "06:49",
-          "views": 1311,
+          "views": 1342,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5uMlPIg1-T4/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 380,
+          "views": 569,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/b-Vv2BeLEpU/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 168,
+          "views": 201,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UrL9ezewHoY/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 134,
+          "views": 135,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -648,7 +648,7 @@
       "clusterId": "madhyapradesh-hindinews",
       "topic": "madhyapradesh hindinews",
       "videoCount": 5,
-      "trendScore": 31.2,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/q2QtFLmWYWk/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 1018,
+          "views": 1304,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RtYIpYLrsOs/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 851,
+          "views": 1097,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vSVssrEwDrk/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 472,
+          "views": 477,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-ty_pY-iQvg/hqdefault.jpg",
           "durationSeconds": 211,
           "durationFormatted": "03:31",
-          "views": 61,
+          "views": 80,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iSf_Z4a5Ikk/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 32,
+          "views": 41,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -732,7 +732,7 @@
       "clusterId": "session-rahul",
       "topic": "Session Rahul",
       "videoCount": 4,
-      "trendScore": 31.0,
+      "trendScore": 30.0,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/72O0XHwdTl0/hqdefault.jpg",
           "durationSeconds": 42899,
           "durationFormatted": "11:54:59",
-          "views": 1061,
+          "views": 1087,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -774,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gnvUX-4zwts/hqdefault.jpg",
           "durationSeconds": 19039,
           "durationFormatted": "05:17:19",
-          "views": 372,
+          "views": 387,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -789,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4hxyXL5x3x0/hqdefault.jpg",
           "durationSeconds": 302,
           "durationFormatted": "05:02",
-          "views": 60,
+          "views": 88,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -801,7 +801,7 @@
       "clusterId": "ujjain-mohan",
       "topic": "Ujjain Mohan",
       "videoCount": 4,
-      "trendScore": 28.1,
+      "trendScore": 27.0,
       "topVideos": [
         {
           "index": 1,
@@ -813,7 +813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/meifbI30wq0/hqdefault.jpg",
           "durationSeconds": 216,
           "durationFormatted": "03:36",
-          "views": 194,
+          "views": 260,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -835,6 +835,21 @@
         },
         {
           "index": 3,
+          "videoId": "6zfOceL6Npg",
+          "title": "CM Ujjain Visit: उज्जैन को CM Mohan Yadav ने दी करोड़ों की सौगात | Breaking | Top News | MP News",
+          "description": "CM Ujjain Visit: उज्जैन को CM Mohan Yadav ने दी करोड़ों की सौगात | Breaking | Top News | MP News ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-11T18:26:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/6zfOceL6Npg/hqdefault.jpg",
+          "durationSeconds": 98,
+          "durationFormatted": "01:38",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "grOtQSjxSKY",
           "title": "सीएम राउंडअप || उज्जैन में जल आवर्धन परियोजना का CM Mohan Yadav ने किया भूमिपूजन",
           "description": "सीएम राउंडअप || उज्जैन में जल आवर्धन परियोजना का CM Mohan Yadav ने किया ...",
@@ -847,21 +862,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "6zfOceL6Npg",
-          "title": "CM Ujjain Visit: उज्जैन को CM Mohan Yadav ने दी करोड़ों की सौगात | Breaking | Top News | MP News",
-          "description": "CM Ujjain Visit: उज्जैन को CM Mohan Yadav ने दी करोड़ों की सौगात | Breaking | Top News | MP News ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-11T18:26:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/6zfOceL6Npg/hqdefault.jpg",
-          "durationSeconds": 98,
-          "durationFormatted": "01:38",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-11T18:26:10Z"
@@ -870,7 +870,7 @@
       "clusterId": "raipur-नकसल",
       "topic": "Raipur नक्सल",
       "videoCount": 4,
-      "trendScore": 22.9,
+      "trendScore": 22.0,
       "topVideos": [
         {
           "index": 1,
@@ -897,7 +897,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cxwkOSWUtLc/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 14,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -927,7 +927,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2YzQTYqtZPc/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -939,7 +939,7 @@
       "clusterId": "ambikapur-viral",
       "topic": "Ambikapur Viral",
       "videoCount": 4,
-      "trendScore": 18.7,
+      "trendScore": 18.0,
       "topVideos": [
         {
           "index": 1,
@@ -951,7 +951,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BZA-_jY7RhE/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 14,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
