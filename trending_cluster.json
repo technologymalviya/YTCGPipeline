@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-12T20:49:38.127344Z",
+  "generatedAt": "2026-02-12T22:48:16.098849Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "chhattisgarh-february",
       "topic": "Chhattisgarh February",
-      "videoCount": 20,
-      "trendScore": 53.3,
+      "videoCount": 21,
+      "trendScore": 53.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eAIvfTMukNc/hqdefault.jpg",
           "durationSeconds": 1724,
           "durationFormatted": "28:44",
-          "views": 36323,
-          "likes": 361,
+          "views": 36345,
+          "likes": 360,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PN7cGTS_jh0/hqdefault.jpg",
           "durationSeconds": 1557,
           "durationFormatted": "25:57",
-          "views": 23507,
+          "views": 23516,
           "likes": 293,
           "videoType": "VOD",
           "genre": "General"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hsnbYvHTFU4/hqdefault.jpg",
           "durationSeconds": 954,
           "durationFormatted": "15:54",
-          "views": 6422,
-          "likes": 17,
+          "views": 6429,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5eM4Br9YVjc/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 6122,
+          "views": 6235,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4snjFqZzC0k/hqdefault.jpg",
           "durationSeconds": 867,
           "durationFormatted": "14:27",
-          "views": 5196,
-          "likes": 60,
+          "views": 5233,
+          "likes": 59,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -90,7 +90,7 @@
       "clusterId": "february-rajnandgaon",
       "topic": "February Rajnandgaon",
       "videoCount": 26,
-      "trendScore": 50.9,
+      "trendScore": 49.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/LsWH9PWTngY/hqdefault.jpg",
           "durationSeconds": 1018,
           "durationFormatted": "16:58",
-          "views": 170,
+          "views": 192,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "196pcQ7QCdQ",
-          "title": "राजनांदगांव के दो छात्रों ने PM मोदी से की मुलाकात, शहर का बढ़ाया मान",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-12T11:33:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/196pcQ7QCdQ/hqdefault.jpg",
-          "durationSeconds": 263,
-          "durationFormatted": "04:23",
-          "views": 70,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "5spLfn4NeC0",
           "title": "Rajnandgaon: डॉ.रमन सिंह ने संतोष अग्रवाल को किया विधायक प्रतिनिधि नियुक्त, जारी हुआ आदेश",
           "description": "chhattisgarhnews #madhyapradehnews #breakingnews .",
@@ -132,8 +117,23 @@
           "thumbnail": "https://i.ytimg.com/vi/5spLfn4NeC0/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 38,
+          "views": 82,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "196pcQ7QCdQ",
+          "title": "राजनांदगांव के दो छात्रों ने PM मोदी से की मुलाकात, शहर का बढ़ाया मान",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-12T11:33:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/196pcQ7QCdQ/hqdefault.jpg",
+          "durationSeconds": 263,
+          "durationFormatted": "04:23",
+          "views": 72,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -147,25 +147,25 @@
           "thumbnail": "https://i.ytimg.com/vi/WkotBuMC4tA/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 27,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "pR_xyXi3fL0",
-          "title": "रायपुर में 10 लाख का गुटखा जब्त, खमतराई के यार्ड में डंप था माल, नॉर्थ जोन–ACCU की रेड से मचा हड़कंप",
-          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
+          "videoId": "2i7uVpJ5nnw",
+          "title": "Durg News: मतदाता सूची से नाम हटाने की कोशिश! नागरिकों ने प्रशासन से कार्रवाई की मांग",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-12T12:23:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/pR_xyXi3fL0/hqdefault.jpg",
-          "durationSeconds": 49,
-          "durationFormatted": "00:49",
-          "views": 14,
+          "publishedAt": "2026-02-12T12:49:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/2i7uVpJ5nnw/hqdefault.jpg",
+          "durationSeconds": 157,
+          "durationFormatted": "02:37",
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-12T14:02:57Z"
@@ -174,7 +174,7 @@
       "clusterId": "kharsia-chhattisgarh",
       "topic": "Kharsia Chhattisgarh",
       "videoCount": 4,
-      "trendScore": 47.1,
+      "trendScore": 45.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xlx0Eg6qlq4/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 16554,
-          "likes": 906,
+          "views": 17270,
+          "likes": 916,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uGR1OWaURnM/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 8512,
-          "likes": 859,
+          "views": 8834,
+          "likes": 874,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wRhAgAAyaj4/hqdefault.jpg",
           "durationSeconds": 244,
           "durationFormatted": "04:04",
-          "views": 959,
-          "likes": 69,
+          "views": 1130,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_xw0Goh50nk/hqdefault.jpg",
           "durationSeconds": 758,
           "durationFormatted": "12:38",
-          "views": 292,
-          "likes": 25,
+          "views": 321,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -243,7 +243,7 @@
       "clusterId": "bhaskar-abis",
       "topic": "Bhaskar ABIS",
       "videoCount": 8,
-      "trendScore": 39.7,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -255,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0u6F2VBWsUA/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 1141,
-          "likes": 55,
+          "views": 1196,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Zw8h7MD_CuE/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 547,
-          "likes": 14,
+          "views": 570,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/o4qp7JsaLHw/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 527,
+          "views": 509,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nZlZXa7nFPU/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 380,
-          "likes": 14,
+          "views": 413,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qgVQFyCAnIk/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 320,
+          "views": 323,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "iran-america",
       "topic": "Iran America",
       "videoCount": 4,
-      "trendScore": 37.7,
+      "trendScore": 36.4,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/geinbBpn4Vw/hqdefault.jpg",
           "durationSeconds": 237,
           "durationFormatted": "03:57",
-          "views": 7319,
-          "likes": 109,
+          "views": 7740,
+          "likes": 113,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xPfxZM4qSgo/hqdefault.jpg",
           "durationSeconds": 292,
           "durationFormatted": "04:52",
-          "views": 2792,
-          "likes": 55,
+          "views": 3980,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/d4cEpLs1Pjg/hqdefault.jpg",
           "durationSeconds": 686,
           "durationFormatted": "11:26",
-          "views": 1862,
-          "likes": 81,
+          "views": 2165,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rM-o_TiV2F4/hqdefault.jpg",
           "durationSeconds": 199,
           "durationFormatted": "03:19",
-          "views": 1703,
+          "views": 1779,
           "likes": 26,
           "videoType": "VOD",
           "genre": "General"
@@ -396,7 +396,7 @@
       "clusterId": "bangladesh-election",
       "topic": "Bangladesh Election",
       "videoCount": 5,
-      "trendScore": 37.1,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
@@ -408,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1XQqOA_V-7w/hqdefault.jpg",
           "durationSeconds": 483,
           "durationFormatted": "08:03",
-          "views": 17615,
-          "likes": 163,
+          "views": 20496,
+          "likes": 171,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/a0hVACt7EXo/hqdefault.jpg",
           "durationSeconds": 275,
           "durationFormatted": "04:35",
-          "views": 6840,
+          "views": 7020,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Politics"
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uLQ7AdOEPR0/hqdefault.jpg",
           "durationSeconds": 321,
           "durationFormatted": "05:21",
-          "views": 266,
+          "views": 308,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CwS7z0PFPJc/hqdefault.jpg",
           "durationSeconds": 830,
           "durationFormatted": "13:50",
-          "views": 266,
+          "views": 298,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AtaGf1inDDA/hqdefault.jpg",
           "durationSeconds": 1396,
           "durationFormatted": "23:16",
-          "views": 37,
+          "views": 71,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -477,10 +477,79 @@
       "latestUpdateAt": "2026-02-12T16:23:28Z"
     },
     {
+      "clusterId": "viral-shorts",
+      "topic": "Viral Shorts",
+      "videoCount": 4,
+      "trendScore": 33.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "HUNgfkBEYD8",
+          "title": "Viral Video : बाघ कोबरा के डर से भागा! | N18S | Shorts",
+          "description": "Viral Video : बाघ कोबरा के डर से भागा! | N18S | Shorts For all the latest news from Madhya Pradesh and ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-12T16:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/HUNgfkBEYD8/hqdefault.jpg",
+          "durationSeconds": 13,
+          "durationFormatted": "00:13",
+          "views": 20689,
+          "likes": 107,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "X1xq4UbPwHE",
+          "title": "Omkareshwar Viral Video : ओंकारेश्वर जी की आरती श्रृंगार दर्शन | N18S",
+          "description": "Omkareshwar Viral Video : ओंकारेश्वर जी की आरती श्रृंगार दर्शन | N18S For all the latest news ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-12T17:50:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/X1xq4UbPwHE/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 1886,
+          "likes": 42,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "CWtYh9b8b5g",
+          "title": "Gwalior News : नशे में धुत्त युवक ने सांड की पीठ पर  मचाया धमाल, Video Viral | #shorts",
+          "description": "Gwalior News : नशे में धुत्त युवक ने सांड की पीठ पर मचाया धमाल, Video Viral | #shorts ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-12T09:00:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/CWtYh9b8b5g/hqdefault.jpg",
+          "durationSeconds": 57,
+          "durationFormatted": "00:57",
+          "views": 1262,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "161iwwrb0ik",
+          "title": "Panther Viral Video: Kotputli में Panther मूवमेंट से दहशत | Breaking #shorts",
+          "description": "Panther Viral Video: Kotputli में Panther मूवमेंट से दहशत | Breaking #shorts NDTV Madhya Pradesh and ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-12T09:13:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/161iwwrb0ik/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 784,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-12T17:50:55Z"
+    },
+    {
       "clusterId": "bhilai-seemant",
       "topic": "Bhilai Seemant",
       "videoCount": 6,
-      "trendScore": 33.4,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sZGWSNMQV_M/hqdefault.jpg",
           "durationSeconds": 393,
           "durationFormatted": "06:33",
-          "views": 10806,
+          "views": 10923,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -507,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FNP3zej98o0/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 3130,
+          "views": 3215,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xsivmDkWyh4/hqdefault.jpg",
           "durationSeconds": 292,
           "durationFormatted": "04:52",
-          "views": 2980,
+          "views": 3131,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3cDJLPjJqAs/hqdefault.jpg",
           "durationSeconds": 254,
           "durationFormatted": "04:14",
-          "views": 974,
+          "views": 1097,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iIRM-IEx4Rs/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 824,
+          "views": 793,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -564,7 +633,7 @@
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
       "videoCount": 4,
-      "trendScore": 33.0,
+      "trendScore": 32.0,
       "topVideos": [
         {
           "index": 1,
@@ -576,8 +645,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Za9TPWSwJ-0/hqdefault.jpg",
           "durationSeconds": 405,
           "durationFormatted": "06:45",
-          "views": 1378,
-          "likes": 23,
+          "views": 1702,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -591,8 +660,8 @@
           "thumbnail": "https://i.ytimg.com/vi/J6TdeyhrTU4/hqdefault.jpg",
           "durationSeconds": 1134,
           "durationFormatted": "18:54",
-          "views": 421,
-          "likes": 11,
+          "views": 468,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -606,8 +675,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KPIHUWNFwEw/hqdefault.jpg",
           "durationSeconds": 244,
           "durationFormatted": "04:04",
-          "views": 90,
-          "likes": 1,
+          "views": 131,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -621,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GrsLuSz56oI/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 48,
+          "views": 105,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
@@ -633,7 +702,7 @@
       "clusterId": "ujjain-mahashivratri",
       "topic": "Ujjain Mahashivratri",
       "videoCount": 5,
-      "trendScore": 30.8,
+      "trendScore": 29.7,
       "topVideos": [
         {
           "index": 1,
@@ -645,7 +714,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nsxtIqv0cP0/hqdefault.jpg",
           "durationSeconds": 1352,
           "durationFormatted": "22:32",
-          "views": 317,
+          "views": 316,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -660,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xvjSBQyAyz8/hqdefault.jpg",
           "durationSeconds": 207,
           "durationFormatted": "03:27",
-          "views": 182,
+          "views": 197,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -675,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ognq-Y6_hDM/hqdefault.jpg",
           "durationSeconds": 219,
           "durationFormatted": "03:39",
-          "views": 140,
+          "views": 142,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0-APv7k1oh8/hqdefault.jpg",
           "durationSeconds": 144,
           "durationFormatted": "02:24",
-          "views": 30,
+          "views": 49,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AoykqiruTRk/hqdefault.jpg",
           "durationSeconds": 349,
           "durationFormatted": "05:49",
-          "views": 9,
+          "views": 23,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -717,7 +786,7 @@
       "clusterId": "मखयमतर-महन",
       "topic": "मुख्यमंत्री मोहन",
       "videoCount": 4,
-      "trendScore": 30.4,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -759,7 +828,7 @@
           "thumbnail": "https://i.ytimg.com/vi/We4svrnwydc/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -781,75 +850,6 @@
         }
       ],
       "latestUpdateAt": "2026-02-12T18:48:21Z"
-    },
-    {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 4,
-      "trendScore": 28.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "719Ef_ZyGR8",
-          "title": "🔴LIVE : MP - CG : खाट पर सिस्टम | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : खाट पर सिस्टम | Latest News | Zee MPCG #live #MPNews #MadhyaPradesh #Chhattisgarh #CGNews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-12T20:24:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/719Ef_ZyGR8/hqdefault.jpg",
-          "durationSeconds": 1376,
-          "durationFormatted": "22:56",
-          "views": 153,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "E_s3yGlTi30",
-          "title": "🔴LIVE : Khabar Apne MP Ki : भोपाल : निवेश के नाम पर ठगी  | Zee  MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : भोपाल : निवेश के नाम पर ठगी | Zee MPCG #Live #MadhyaPradesh #HindiNews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-12T13:29:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/E_s3yGlTi30/hqdefault.jpg",
-          "durationSeconds": 1184,
-          "durationFormatted": "19:44",
-          "views": 115,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "8IIW-17UJyU",
-          "title": "🔴LIVE : Prime Time @9 : मुशायरे में फंस गये मिया भाई | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : मुशायरे में फंस गये मिया भाई | Latest News | Zee MPCG #primetime@9 #mpnews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-12T15:26:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/8IIW-17UJyU/hqdefault.jpg",
-          "durationSeconds": 1283,
-          "durationFormatted": "21:23",
-          "views": 110,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Y2LS0vAziEM",
-          "title": "🔴LIVE: Khabar Dinbhar Ki : ऑनलाइन सट्टा पर पुलिस का एक्शन | Latest News  | Zee MPCG",
-          "description": "LIVE: Khabar Dinbhar Ki : ऑनलाइन सट्टा पर पुलिस का एक्शन | Latest News | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-12T17:57:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/Y2LS0vAziEM/hqdefault.jpg",
-          "durationSeconds": 1391,
-          "durationFormatted": "23:11",
-          "views": 28,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-12T20:24:49Z"
     }
   ]
 }
