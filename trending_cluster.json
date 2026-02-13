@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-13T19:06:59.514505Z",
-  "clusterCount": 12,
+  "generatedAt": "2026-02-13T20:54:38.665109Z",
+  "clusterCount": 13,
   "clusters": [
     {
       "clusterId": "chhattisgarh-february",
       "topic": "Chhattisgarh February",
-      "videoCount": 28,
-      "trendScore": 60.7,
+      "videoCount": 32,
+      "trendScore": 60.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nAv__YGjXGY/hqdefault.jpg",
           "durationSeconds": 1747,
           "durationFormatted": "29:07",
-          "views": 26501,
+          "views": 26578,
           "likes": 345,
           "videoType": "VOD",
           "genre": "Politics"
@@ -40,6 +40,21 @@
         },
         {
           "index": 3,
+          "videoId": "sVzXnZGBEp4",
+          "title": "🔴LIVE, Chhattisgarh News 13 February 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh Baghel",
+          "description": "IBC24, LIVE, Chhattisgarh News 13 February 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-13T19:40:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/sVzXnZGBEp4/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 4011,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "XBuZSm-l7j8",
           "title": "13 फरवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें  | CG News | Chhattisgarh Breaking News | Cm Vishnu Deo",
           "description": "13 फरवरी 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | CG News | Chhattisgarh Breaking News | Cm ...",
@@ -48,13 +63,13 @@
           "thumbnail": "https://i.ytimg.com/vi/XBuZSm-l7j8/hqdefault.jpg",
           "durationSeconds": 705,
           "durationFormatted": "11:45",
-          "views": 3994,
+          "views": 4000,
           "likes": 98,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "fQLVrF7vPqQ",
           "title": "13 February 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
           "description": "दोस्तों आप देख रहे हैं छत्तीसगढ़ की आज की 25 बड़ी खबरें.",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/fQLVrF7vPqQ/hqdefault.jpg",
           "durationSeconds": 881,
           "durationFormatted": "14:41",
-          "views": 3744,
+          "views": 3830,
           "likes": 58,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "LxLt4kODCLU",
-          "title": "13 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "13 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-02-12T23:30:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/LxLt4kODCLU/hqdefault.jpg",
-          "durationSeconds": 942,
-          "durationFormatted": "15:42",
-          "views": 2503,
-          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-13T19:04:47Z"
+      "latestUpdateAt": "2026-02-13T19:43:09Z"
     },
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 14,
-      "trendScore": 47.5,
+      "videoCount": 20,
+      "trendScore": 52.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/q2IsdRBfrSo/hqdefault.jpg",
           "durationSeconds": 297,
           "durationFormatted": "04:57",
-          "views": 2294,
-          "likes": 83,
+          "views": 2939,
+          "likes": 84,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Bed7xYA1D84/hqdefault.jpg",
           "durationSeconds": 1476,
           "durationFormatted": "24:36",
-          "views": 471,
+          "views": 486,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -132,13 +132,28 @@
           "thumbnail": "https://i.ytimg.com/vi/KLtVulq6eYQ/hqdefault.jpg",
           "durationSeconds": 1408,
           "durationFormatted": "23:28",
-          "views": 220,
+          "views": 236,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "9cFOqQuqhRM",
+          "title": "MP News: जनभावना के साथ बढ़े विकास का कारवां- CM Mohan Yadav",
+          "description": "MP News: जनभावना के साथ बढ़े विकास का कारवां- CM Mohan Yadav #mpnews #mohanyadav ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-13T17:17:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/9cFOqQuqhRM/hqdefault.jpg",
+          "durationSeconds": 210,
+          "durationFormatted": "03:30",
+          "views": 192,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "KULMgeVye5s",
           "title": "सामूहिक विवाहों में हर बेटी को देंगे 51 हजार। Bageshwar Dham के मंच से CM Mohan Yadav की बड़ी घोषणा",
           "description": "IBC24, सामूहिक विवाहों में हर बेटी को देंगे 51 हजार। Bageshwar Dham के मंच से ...",
@@ -151,30 +166,15 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "5fiiDwNQzS8",
-          "title": "🔴LIVE :  Johar : छत्तीसगढ़ से अब तक चौंतीस ..... !  | Latest News  | Zee MPCG",
-          "description": "LIVE : Johar : छत्तीसगढ़ से अब तक चौंतीस ..... ! | Latest News | Zee MPCG #Live #Johar #cgNews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-13T11:54:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/5fiiDwNQzS8/hqdefault.jpg",
-          "durationSeconds": 1491,
-          "durationFormatted": "24:51",
-          "views": 93,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-13T18:59:01Z"
+      "latestUpdateAt": "2026-02-13T19:15:41Z"
     },
     {
-      "clusterId": "february",
-      "topic": "February",
+      "clusterId": "february-rajnandgaon",
+      "topic": "February Rajnandgaon",
       "videoCount": 18,
-      "trendScore": 44.9,
+      "trendScore": 43.3,
       "topVideos": [
         {
           "index": 1,
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TiXqebmfxu4/hqdefault.jpg",
           "durationSeconds": 186,
           "durationFormatted": "03:06",
-          "views": 37,
+          "views": 128,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
@@ -223,21 +223,6 @@
         },
         {
           "index": 4,
-          "videoId": "Tvv5hIGWW1c",
-          "title": "दुर्ग में ऑनलाइन ठगी का खुलासा, म्यूल अकाउंट में 3 लाख से अधिक जमा",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-13T13:05:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/Tvv5hIGWW1c/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "PL3PN2nofBI",
           "title": "दुर्ग: किसान संगठन ने किया जोरदार प्रदर्शन, अमेरिका ट्रेड डील पर असहमति-किसान बोले ‘रद्द करो डील",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -246,10 +231,25 @@
           "thumbnail": "https://i.ytimg.com/vi/PL3PN2nofBI/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 3,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 5,
+          "videoId": "KRhcRvMTOqs",
+          "title": "रायपुर: हादसों के बाद बड़ा फैसला! रायपुर अब Zero Fatality District प्रदेश में सड़क सुरक्षा मिशन तेज",
+          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-13T14:18:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/KRhcRvMTOqs/hqdefault.jpg",
+          "durationSeconds": 71,
+          "durationFormatted": "01:11",
+          "views": 4,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-13T14:59:06Z"
@@ -258,7 +258,7 @@
       "clusterId": "world-radio",
       "topic": "World Radio",
       "videoCount": 6,
-      "trendScore": 37.2,
+      "trendScore": 36.4,
       "topVideos": [
         {
           "index": 1,
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rX4UUj9kUpo/hqdefault.jpg",
           "durationSeconds": 826,
           "durationFormatted": "13:46",
-          "views": 84,
+          "views": 87,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -300,28 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/EeS1BcWo1tE/hqdefault.jpg",
           "durationSeconds": 1722,
           "durationFormatted": "28:42",
-          "views": 52,
-          "likes": 6,
+          "views": 61,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "P8xR_3q1lUs",
-          "title": "WORLD RADIO DAY 2026",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-02-13T13:13:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/P8xR_3q1lUs/hqdefault.jpg",
-          "durationSeconds": 1456,
-          "durationFormatted": "24:16",
-          "views": 37,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "ALb7nGx-EkY",
           "title": "World Radio Day Conclave 2026- LIVE from Raipur , chhattisgarh, India",
           "description": "Radio that connects the world! We're going LIVE for World Radio Day with Akashvani Raipur & UNESCO 🎙️   Tune in and ...",
@@ -330,8 +315,23 @@
           "thumbnail": "https://i.ytimg.com/vi/ALb7nGx-EkY/hqdefault.jpg",
           "durationSeconds": 10,
           "durationFormatted": "00:10",
-          "views": 33,
+          "views": 39,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "P8xR_3q1lUs",
+          "title": "WORLD RADIO DAY 2026",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-02-13T13:13:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/P8xR_3q1lUs/hqdefault.jpg",
+          "durationSeconds": 1456,
+          "durationFormatted": "24:16",
+          "views": 39,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "bangladesh-election",
       "topic": "Bangladesh Election",
       "videoCount": 6,
-      "trendScore": 36.7,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z7M7Yny19gA/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 3526,
+          "views": 6618,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gBdG57kEwaI/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 3475,
-          "likes": 33,
+          "views": 6019,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MCyJr5YdKaE/hqdefault.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 1530,
-          "likes": 8,
+          "views": 2038,
+          "likes": 9,
           "videoType": "LIVE",
           "genre": "Live"
         },
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YXQAXLSkJmA/hqdefault.jpg",
           "durationSeconds": 7970,
           "durationFormatted": "02:12:50",
-          "views": 1385,
+          "views": 1996,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hp0u1Iv5Rls/hqdefault.jpg",
           "durationSeconds": 249,
           "durationFormatted": "04:09",
-          "views": 794,
+          "views": 1215,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -426,7 +426,7 @@
       "clusterId": "रहल-गध",
       "topic": "राहुल गांधी",
       "videoCount": 6,
-      "trendScore": 36.2,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,43 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/yB6XhbAhJFc/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 3623,
+          "views": 3713,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "bjrnMawLJt0",
-          "title": "सत्ता पक्ष के निशाने पर राहुल गांधी !",
-          "description": "सत्ता पक्ष के निशाने पर राहुल गांधी ! #RahulGandhi #NishikantDubey #ParliamentNews ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-13T15:53:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/bjrnMawLJt0/hqdefault.jpg",
-          "durationSeconds": 109,
-          "durationFormatted": "01:49",
-          "views": 852,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "MgUvFgczqpI",
-          "title": "राहुल गांधी पर देश विरोधी होने का आरोप",
-          "description": "राहुल गांधी पर देश विरोधी होने का आरोप #RahulGandhi #NishikantDubey #ParliamentNews ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-13T15:58:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/MgUvFgczqpI/hqdefault.jpg",
-          "durationSeconds": 105,
-          "durationFormatted": "01:45",
-          "views": 792,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "GH5CJ4qdswM",
           "title": "क्या वाकई मर्यादा लांघ रहे राहुल गांधी ?",
           "description": "क्या वाकई मर्यादा लांघ रहे राहुल गांधी ? #RahulGandhi #NishikantDubey #ParliamentNews ...",
@@ -483,8 +453,38 @@
           "thumbnail": "https://i.ytimg.com/vi/GH5CJ4qdswM/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 730,
+          "views": 1004,
           "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "bjrnMawLJt0",
+          "title": "सत्ता पक्ष के निशाने पर राहुल गांधी !",
+          "description": "सत्ता पक्ष के निशाने पर राहुल गांधी ! #RahulGandhi #NishikantDubey #ParliamentNews ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-13T15:53:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/bjrnMawLJt0/hqdefault.jpg",
+          "durationSeconds": 109,
+          "durationFormatted": "01:49",
+          "views": 910,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "MgUvFgczqpI",
+          "title": "राहुल गांधी पर देश विरोधी होने का आरोप",
+          "description": "राहुल गांधी पर देश विरोधी होने का आरोप #RahulGandhi #NishikantDubey #ParliamentNews ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-13T15:58:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/MgUvFgczqpI/hqdefault.jpg",
+          "durationSeconds": 105,
+          "durationFormatted": "01:45",
+          "views": 762,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -498,8 +498,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K3ALXLOfTmI/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 551,
-          "likes": 6,
+          "views": 749,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -509,8 +509,8 @@
     {
       "clusterId": "modi-seva",
       "topic": "Modi Seva",
-      "videoCount": 5,
-      "trendScore": 36.1,
+      "videoCount": 4,
+      "trendScore": 34.0,
       "topVideos": [
         {
           "index": 1,
@@ -522,28 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/mpJwL9zLPv0/hqdefault.jpg",
           "durationSeconds": 4597,
           "durationFormatted": "01:16:37",
-          "views": 4358,
+          "views": 4532,
           "likes": 54,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
-          "videoId": "4Kp__niO6yc",
-          "title": "Seva Teerth :  &#39;पुरानी इमारतें गुलामी की प्रतीक&#39;, सेवा तीर्थ से PM Modi की पहली स्पीच ।",
-          "description": "Seva Teerth : 'पुरानी इमारतें गुलामी की प्रतीक', सेवा तीर्थ से PM Modi की पहली ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-13T14:21:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/4Kp__niO6yc/hqdefault.jpg",
-          "durationSeconds": 1556,
-          "durationFormatted": "25:56",
-          "views": 2705,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "EUfuo3HNd9I",
           "title": "Seva Teerth :  सेवातीर्थ, भारत का नया पावर सेंटर ! PM Modi । Top News । Latest News",
           "description": "Seva Teerth : सेवातीर्थ, भारत का नया पावर सेंटर ! PM Modi । Top News । Latest News ...",
@@ -552,13 +537,13 @@
           "thumbnail": "https://i.ytimg.com/vi/EUfuo3HNd9I/hqdefault.jpg",
           "durationSeconds": 948,
           "durationFormatted": "15:48",
-          "views": 112,
+          "views": 236,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "EU52Fq3_a1I",
           "title": "PM Modi Speech: ‘गुलामी की जंजीरें तोड़ीं’: पीएम मोदी ने ‘सेवा तीर्थ’ और कर्तव्य भवन का किया उद्घाटन",
           "description": "PM Modi Speech: 'गुलामी की जंजीरें तोड़ीं': पीएम मोदी ने 'सेवा तीर्थ' और ...",
@@ -567,13 +552,13 @@
           "thumbnail": "https://i.ytimg.com/vi/EU52Fq3_a1I/hqdefault.jpg",
           "durationSeconds": 908,
           "durationFormatted": "15:08",
-          "views": 15,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "8DRvUYmxsKs",
           "title": "PM Modi Seva Teerth Speech: &#39;ये भारत की विकास यात्रा में नई शुरुआत है&#39;- सेवा तीर्थ से बोले पीएम मोदी",
           "description": "PM Modi Seva Teerth Speech: प्रधानमंत्री नरेंद्र मोदी ने शुक्रवार को नए ...",
@@ -582,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8DRvUYmxsKs/hqdefault.jpg",
           "durationSeconds": 907,
           "durationFormatted": "15:07",
-          "views": 9,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -593,8 +578,8 @@
     {
       "clusterId": "bhopal-फलम",
       "topic": "Bhopal फिल्म",
-      "videoCount": 6,
-      "trendScore": 35.8,
+      "videoCount": 5,
+      "trendScore": 33.6,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JcJW-vGej0k/hqdefault.jpg",
           "durationSeconds": 197,
           "durationFormatted": "03:17",
-          "views": 3620,
+          "views": 3703,
           "likes": 62,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/STIVRmqVY0Y/hqdefault.jpg",
           "durationSeconds": 302,
           "durationFormatted": "05:02",
-          "views": 56,
+          "views": 70,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -643,21 +628,6 @@
         },
         {
           "index": 4,
-          "videoId": "ry4ksJZEmHY",
-          "title": "Bhopal News: फैशन शो में बजरंग दल के कार्यकर्ताओं ने की नारेबाजी। आयोजकों पर लगाए गंभीर आरोप",
-          "description": "IBC24, Bhopal News: फैशन शो में बजरंग दल के कार्यकर्ताओं ने की नारेबाजी।",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-02-13T15:30:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/ry4ksJZEmHY/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 30,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "6jHxXk1oIHk",
           "title": "Bhopal: किन्नर समाज के दो गुटों में बढ़ा तनाव। काजल ठाकुर का पट्टाभिषेक..सुरैया गुट ने किया विरोध",
           "description": "IBC24, Bhopal: किन्नर समाज के दो गुटों में बढ़ा तनाव। काजल ठाकुर का ...",
@@ -670,6 +640,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "tg_EFNtnhPU",
+          "title": "Bhopal News : MP में 2027 जनगणना की तैयारी तेज। राज्य स्तरीय प्रशिक्षण शिविर का किया गया आयोजन",
+          "description": "IBC24, Bhopal News : MP में 2027 जनगणना की तैयारी तेज। राज्य स्तरीय प्रशिक्षण ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-13T18:55:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/tg_EFNtnhPU/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 11,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-13T18:55:16Z"
@@ -678,7 +663,7 @@
       "clusterId": "xpress-बलईगढ",
       "topic": "Xpress बिलाईगढ़",
       "videoCount": 6,
-      "trendScore": 33.5,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -690,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Mo54bCjXmFU/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 1015,
+          "views": 1018,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -705,28 +690,13 @@
           "thumbnail": "https://i.ytimg.com/vi/N0Bnve8gbls/hqdefault.jpg",
           "durationSeconds": 259,
           "durationFormatted": "04:19",
-          "views": 520,
+          "views": 572,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "8wjb4vSVK5A",
-          "title": "जगदलपुर - भूमकाल रैली में हिड़मा का गाना, सर्व आदिवासी समाज ने जताया खेदChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-02-13T04:44:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/8wjb4vSVK5A/hqdefault.jpg",
-          "durationSeconds": 157,
-          "durationFormatted": "02:37",
-          "views": 151,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "zep8N5dorLQ",
           "title": "शिवमहापुराण कथा में अनोखी मिसाल: दो अनाथ बच्चों का विवाहChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -735,10 +705,25 @@
           "thumbnail": "https://i.ytimg.com/vi/zep8N5dorLQ/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 127,
+          "views": 174,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "8wjb4vSVK5A",
+          "title": "जगदलपुर - भूमकाल रैली में हिड़मा का गाना, सर्व आदिवासी समाज ने जताया खेदChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-02-13T04:44:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/8wjb4vSVK5A/hqdefault.jpg",
+          "durationSeconds": 157,
+          "durationFormatted": "02:37",
+          "views": 157,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -762,7 +747,7 @@
       "clusterId": "bhaskar-ipl",
       "topic": "Bhaskar IPL",
       "videoCount": 4,
-      "trendScore": 32.9,
+      "trendScore": 32.0,
       "topVideos": [
         {
           "index": 1,
@@ -774,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tI286pUK70o/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 1264,
+          "views": 1411,
           "likes": 27,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -789,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jmYsYN1DBMU/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 825,
+          "views": 833,
           "likes": 24,
           "videoType": "VOD",
           "genre": "General"
@@ -804,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nbViZRL7gcU/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 641,
+          "views": 669,
           "likes": 18,
           "videoType": "VOD",
           "genre": "Events"
@@ -828,79 +813,79 @@
       "latestUpdateAt": "2026-02-13T11:23:03Z"
     },
     {
-      "clusterId": "show-editor39s",
-      "topic": "Show Editor&39;s",
+      "clusterId": "bilaspur-मयर",
+      "topic": "Bilaspur मेयर",
       "videoCount": 4,
-      "trendScore": 30.4,
+      "trendScore": 31.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "zWDVNbJDE04",
-          "title": "The Editor&#39;s Show: भोपाल का 1.5 करोड़ वाला ये तलाक बहुत चर्चा में है | Bhopal Viral News",
-          "description": "The Editor's Show: भोपाल का 1.5 करोड़ वाला ये तलाक बहुत चर्चा में है | Bhopal Viral News ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-13T16:49:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/zWDVNbJDE04/hqdefault.jpg",
-          "durationSeconds": 262,
-          "durationFormatted": "04:22",
-          "views": 102,
-          "likes": 1,
+          "videoId": "PgRee65AznA",
+          "title": "Bilaspur मेयर का बड़ा बयान,कहा- गरीबों के घरों में चलेगा बुलडोजर,कई दिनों के आंदोलन पर मंडराया खतरा!",
+          "description": "Bilaspur मेयर का बड़ा बयान,कहा- गरीबों के घरों में चलेगा बुलडोजर, कई दिनों ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-13T12:30:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/PgRee65AznA/hqdefault.jpg",
+          "durationSeconds": 221,
+          "durationFormatted": "03:41",
+          "views": 588,
+          "likes": 17,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Civic"
         },
         {
           "index": 2,
-          "videoId": "sLPmdwP710c",
-          "title": "The Editor&#39;s Show: Madhya Pradesh Congress ने क्यों भंग की चार जिलों की कार्यकारिणी? | Politics",
-          "description": "The Editor's Show: Madhya Pradesh Congress ने क्यों भंग की चार जिलों की कार्यकारिणी?",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-13T16:23:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/sLPmdwP710c/hqdefault.jpg",
-          "durationSeconds": 265,
-          "durationFormatted": "04:25",
-          "views": 68,
-          "likes": 2,
+          "videoId": "pIMiA2JzXvs",
+          "title": "Bilaspur News: नगर निगम के सामान्य सभा म हंगामा। कांग्रेस पार्षद दल ह करिस धरना प्रदर्सन",
+          "description": "IBC24, Bilaspur News: नगर निगम के सामान्य सभा म हंगामा। कांग्रेस पार्षद दल ह ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-13T15:35:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/pIMiA2JzXvs/hqdefault.jpg",
+          "durationSeconds": 139,
+          "durationFormatted": "02:19",
+          "views": 48,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "maq8lA806dE",
-          "title": "The Editor&#39;s Show: Valentine&#39;s Day पर हिंदू संगठनों की इतनी चर्चा क्यों है? | Bajrang Dal",
-          "description": "The Editor's Show: Valentine's Day पर हिंदू संगठनों की इतनी चर्चा क्यों है? | Bajrang Dal ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-13T16:32:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/maq8lA806dE/hqdefault.jpg",
-          "durationSeconds": 293,
-          "durationFormatted": "04:53",
-          "views": 23,
+          "videoId": "1vIVpzS4CVI",
+          "title": "Nagri के भालूझलून गांव में फूड पार्क के विरोध में ग्रामीणों का धरना, प्रशासन के खिलाफ प्रदर्शन तेज",
+          "description": "Nagri के भालूझलून गांव में फूड पार्क के विरोध में ग्रामीणों का धरना, ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-13T11:03:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/1vIVpzS4CVI/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Civic"
         },
         {
           "index": 4,
-          "videoId": "I9TpqMv_EFk",
-          "title": "The Editor&#39;s Show LIVE: Bangladesh Elections 2026 | MP Congress | Valentine&#39;s Day | Kondagaon",
-          "description": "The Editor's Show LIVE: Bangladesh Elections 2026 | MP Congress | Valentine's Day | Kondagaon #bangladeshelection2026 ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-13T15:18:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/I9TpqMv_EFk/hqdefault.jpg",
-          "durationSeconds": 1571,
-          "durationFormatted": "26:11",
-          "views": 21,
-          "likes": 1,
+          "videoId": "LmdQaqad_cI",
+          "title": "Bilaspur News : बिलासपुर निगम सामान्य सभा में पुनर्वास पर हंगामा",
+          "description": "बिलासपुर नगर पालिक निगम की सामान्य सभा में पुनर्वास के मुद्दे पर ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-02-13T13:46:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/LmdQaqad_cI/hqdefault.jpg",
+          "durationSeconds": 37,
+          "durationFormatted": "00:37",
+          "views": 1,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-02-13T16:49:24Z"
+      "latestUpdateAt": "2026-02-13T15:35:04Z"
     },
     {
       "clusterId": "bhilai-monument",
       "topic": "Bhilai Monument",
       "videoCount": 4,
-      "trendScore": 30.2,
+      "trendScore": 29.5,
       "topVideos": [
         {
           "index": 1,
@@ -912,7 +897,7 @@
           "thumbnail": "https://i.ytimg.com/vi/auGZtb1xH-U/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 5432,
+          "views": 5557,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -927,7 +912,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rD0pNbVfRDo/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 2463,
+          "views": 2609,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -942,7 +927,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KYklG8OGwSM/hqdefault.jpg",
           "durationSeconds": 183,
           "durationFormatted": "03:03",
-          "views": 1075,
+          "views": 1170,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -957,13 +942,82 @@
           "thumbnail": "https://i.ytimg.com/vi/rPT6kMg4ST4/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 176,
+          "views": 268,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-13T14:03:47Z"
+    },
+    {
+      "clusterId": "show-editor39s",
+      "topic": "Show Editor&39;s",
+      "videoCount": 4,
+      "trendScore": 29.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "zWDVNbJDE04",
+          "title": "The Editor&#39;s Show: भोपाल का 1.5 करोड़ वाला ये तलाक बहुत चर्चा में है | Bhopal Viral News",
+          "description": "The Editor's Show: भोपाल का 1.5 करोड़ वाला ये तलाक बहुत चर्चा में है | Bhopal Viral News ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-13T16:49:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/zWDVNbJDE04/hqdefault.jpg",
+          "durationSeconds": 262,
+          "durationFormatted": "04:22",
+          "views": 138,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "sLPmdwP710c",
+          "title": "The Editor&#39;s Show: Madhya Pradesh Congress ने क्यों भंग की चार जिलों की कार्यकारिणी? | Politics",
+          "description": "The Editor's Show: Madhya Pradesh Congress ने क्यों भंग की चार जिलों की कार्यकारिणी?",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-13T16:23:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/sLPmdwP710c/hqdefault.jpg",
+          "durationSeconds": 265,
+          "durationFormatted": "04:25",
+          "views": 126,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "I9TpqMv_EFk",
+          "title": "The Editor&#39;s Show LIVE: Bangladesh Elections 2026 | MP Congress | Valentine&#39;s Day | Kondagaon",
+          "description": "The Editor's Show LIVE: Bangladesh Elections 2026 | MP Congress | Valentine's Day | Kondagaon #bangladeshelection2026 ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-13T15:18:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/I9TpqMv_EFk/hqdefault.jpg",
+          "durationSeconds": 1571,
+          "durationFormatted": "26:11",
+          "views": 81,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "maq8lA806dE",
+          "title": "The Editor&#39;s Show: Valentine&#39;s Day पर हिंदू संगठनों की इतनी चर्चा क्यों है? | Bajrang Dal",
+          "description": "The Editor's Show: Valentine's Day पर हिंदू संगठनों की इतनी चर्चा क्यों है? | Bajrang Dal ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-13T16:32:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/maq8lA806dE/hqdefault.jpg",
+          "durationSeconds": 293,
+          "durationFormatted": "04:53",
+          "views": 74,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-13T16:49:24Z"
     }
   ]
 }
