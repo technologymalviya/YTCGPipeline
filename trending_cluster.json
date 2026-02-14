@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-14T20:39:43.907406Z",
+  "generatedAt": "2026-02-14T22:39:38.835438Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 74,
-      "trendScore": 62.5,
+      "videoCount": 75,
+      "trendScore": 61.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TdSj3Fp564w/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 27162,
-          "likes": 789,
+          "views": 28330,
+          "likes": 806,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YKx7bRTlCQ4/hqdefault.jpg",
           "durationSeconds": 535,
           "durationFormatted": "08:55",
-          "views": 26935,
+          "views": 27034,
           "likes": 206,
           "videoType": "VOD",
           "genre": "General"
@@ -63,25 +63,25 @@
           "thumbnail": "https://i.ytimg.com/vi/NegfzsQf4xM/hqdefault.jpg",
           "durationSeconds": 211,
           "durationFormatted": "03:31",
-          "views": 8011,
-          "likes": 49,
+          "views": 10193,
+          "likes": 52,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "txQAmAO-nTY",
-          "title": "ये है गरीबों का हाल | सिस्टम का बस चले तो साँसें भी छीन ले | बिलासपुर में सड़क पर महिलाएं|@tirandaj",
-          "description": "bulldozersonhomes #chaosinbilaspur #bilaspurnews #घरोंपरबुलडोजर #बिलासपुरमेंबवाल ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-02-14T05:27:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/txQAmAO-nTY/hqdefault.jpg",
-          "durationSeconds": 41,
-          "durationFormatted": "00:41",
-          "views": 7738,
-          "likes": 100,
+          "videoId": "du6kRIxbIms",
+          "title": "Chhattisgarh Congress में घमासान, T. S. Singh Deo समर्थकों के सामूहिक Resignations से मचा बवाल | CG",
+          "description": "Chhattisgarh Congress में घमासान, T. S. Singh Deo समर्थकों के सामूहिक Resignations से मचा ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-14T09:00:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/du6kRIxbIms/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 8111,
+          "likes": 34,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-14T18:46:07Z"
@@ -89,8 +89,8 @@
     {
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
-      "videoCount": 11,
-      "trendScore": 37.9,
+      "videoCount": 27,
+      "trendScore": 55.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iHHxaA0niNw/hqdefault.jpg",
           "durationSeconds": 1084,
           "durationFormatted": "18:04",
-          "views": 5633,
+          "views": 6052,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2-Dx2N3PIf4/hqdefault.jpg",
           "durationSeconds": 936,
           "durationFormatted": "15:36",
-          "views": 5304,
+          "views": 5322,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -139,6 +139,21 @@
         },
         {
           "index": 4,
+          "videoId": "L7usKxGpyMA",
+          "title": "Raipur : विरोध के बाद सनी लियोनी का 22 फरवरी का कार्यक्रम रद्द",
+          "description": "रायपुर: सनी लियोनी का कार्यक्रम रद्द हिंदूवादी संगठनों ने किया था ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-14T07:26:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/L7usKxGpyMA/hqdefault.jpg",
+          "durationSeconds": 115,
+          "durationFormatted": "01:55",
+          "views": 259,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "77a2CPYZUFA",
           "title": "Raipur के भाटागांव में क्या है दुरुस्त सड़क की डामरीकरण का सच ? | CG Bhaskar",
           "description": "Raipur के भाटागांव में क्या है दुरुस्त सड़क की डामरीकरण का सच ? | CG Bhaskar ...",
@@ -151,114 +166,99 @@
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "NUKx0e32hM0",
-          "title": "UP News: खबर विशेष, उत्तर प्रदेश में देखें UP की बड़ी खबरें | 14 February 2026 | UP Politics",
-          "description": "UP News: खबर विशेष, उत्तर प्रदेश में देखें UP की बड़ी खबरें | 14 February 2026 | UP ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-14T11:17:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/NUKx0e32hM0/hqdefault.jpg",
-          "durationSeconds": 266,
-          "durationFormatted": "04:26",
-          "views": 25,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-14T15:32:10Z"
     },
     {
-      "clusterId": "durg-नगम",
-      "topic": "Durg निगम",
-      "videoCount": 15,
-      "trendScore": 37.6,
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 6,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "j9Mfyp3cNOc",
-          "title": "दुर्ग आईटी पार्क जल्द होगा शुरू , कलेक्टर अभिजीत सिंह ने किया निरीक्षण",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T12:38:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/j9Mfyp3cNOc/hqdefault.jpg",
-          "durationSeconds": 67,
-          "durationFormatted": "01:07",
-          "views": 25,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "_WbwkAgCCow",
-          "title": "दुर्ग नगर निगम की पहल , 14 फरवरी को रंग-बिरंगे फूलों की शानदार प्रदर्शनी",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T12:37:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/_WbwkAgCCow/hqdefault.jpg",
-          "durationSeconds": 207,
-          "durationFormatted": "03:27",
-          "views": 21,
-          "likes": 1,
+          "videoId": "9bf4kBvhYXQ",
+          "title": "Kanwar Yatra News : बुर्के में महिला ने निकाली कांवड़ | Latest News | Hindi News | Zee MPCG",
+          "description": "Kanwar Yatra News : बुर्के में महिला ने निकाली कांवड़ | Latest News | Hindi News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T14:45:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/9bf4kBvhYXQ/hqdefault.jpg",
+          "durationSeconds": 114,
+          "durationFormatted": "01:54",
+          "views": 4617,
+          "likes": 52,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 3,
-          "videoId": "Ac2uQx0wc3I",
-          "title": "भिलाई में निगम आयुक्त का औचक निरीक्षण , दीक्षित कॉलोनी और कोसा नाला पर सख्त निर्देश",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T12:36:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ac2uQx0wc3I/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 18,
-          "likes": 0,
+          "index": 2,
+          "videoId": "yZIrrdFFS6w",
+          "title": "🔴LIVE : Khabar Apne MP Ki : गैंगस्टर का वीआईपी अंदाज    | Zee  MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : गैंगस्टर का वीआईपी अंदाज | Zee MPCG #Live #MadhyaPradesh #ValentineDay ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T13:27:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/yZIrrdFFS6w/hqdefault.jpg",
+          "durationSeconds": 1387,
+          "durationFormatted": "23:07",
+          "views": 307,
+          "likes": 2,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "ygblHbWMlos",
+          "title": "🔴LIVE : MP - CG : वैलेंटाइन पर शहर - शहर विरोध | Latest News |Zee MPCG",
+          "description": "LIVE : MP - CG : वैलेंटाइन पर शहर - शहर विरोध | Latest News |Zee MPCG #Live #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T21:57:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/ygblHbWMlos/hqdefault.jpg",
+          "durationSeconds": 1646,
+          "durationFormatted": "27:26",
+          "views": 192,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "FkLlGKbcWN8",
-          "title": "Durg: पुलिस कर्मियों के लिए स्वास्थ्य जागरूकता सत्र, 112 अधिकारियों ने सीखी फिटनेस और हेल्थ टिप्स",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T14:54:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/FkLlGKbcWN8/hqdefault.jpg",
-          "durationSeconds": 48,
-          "durationFormatted": "00:48",
-          "views": 14,
-          "likes": 0,
+          "videoId": "XfGsK2scVYc",
+          "title": "🔴LIVE: MP Dastak : महाशिवरात्रि की धूम | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : महाशिवरात्रि की धूम | Latest News | Zee MPCG #MPDastak #MadhyaPradesh #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T16:27:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/XfGsK2scVYc/hqdefault.jpg",
+          "durationSeconds": 1359,
+          "durationFormatted": "22:39",
+          "views": 138,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "v660N4iLLws",
-          "title": "Raipur News: टीईटी अनिवार्यता और बीएड कोर्स की मांग, शिक्षक संघ ने शिक्षा विभाग को ज्ञापन सौंपा",
-          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T14:06:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/v660N4iLLws/hqdefault.jpg",
-          "durationSeconds": 68,
-          "durationFormatted": "01:08",
-          "views": 9,
-          "likes": 0,
+          "videoId": "xjuAnFGHCoA",
+          "title": "🔴LIVE : Prime Time @9 :  &#39;ब्राह्मण&#39; पर सवाल ... दिल्ली में &#39;बवाल&#39; !  | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : 'ब्राह्मण' पर सवाल ... दिल्ली में 'बवाल' ! | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T15:27:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/xjuAnFGHCoA/hqdefault.jpg",
+          "durationSeconds": 1348,
+          "durationFormatted": "22:28",
+          "views": 104,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-14T14:54:53Z"
+      "latestUpdateAt": "2026-02-14T21:57:16Z"
     },
     {
       "clusterId": "modi-assam",
       "topic": "Modi Assam",
       "videoCount": 6,
-      "trendScore": 33.7,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x1hFEvtpI5k/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 4336,
+          "views": 4346,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9KWxWEcYZgo/hqdefault.jpg",
           "durationSeconds": 264,
           "durationFormatted": "04:24",
-          "views": 2939,
+          "views": 3001,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xI_r0VOd5Lk/hqdefault.jpg",
           "durationSeconds": 247,
           "durationFormatted": "04:07",
-          "views": 1684,
+          "views": 1765,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -342,7 +342,7 @@
       "clusterId": "vandemataram-वद",
       "topic": "vandemataram वंदे",
       "videoCount": 4,
-      "trendScore": 32.2,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YsTSfV79bhE/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 3352,
+          "views": 3466,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iBioJJfE3ck/hqdefault.jpg",
           "durationSeconds": 157,
           "durationFormatted": "02:37",
-          "views": 1499,
+          "views": 1556,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bCWcZyPEIWw/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 248,
+          "views": 284,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -411,7 +411,7 @@
       "clusterId": "mudde-baat",
       "topic": "Mudde Baat",
       "videoCount": 4,
-      "trendScore": 31.2,
+      "trendScore": 30.2,
       "topVideos": [
         {
           "index": 1,
@@ -423,13 +423,28 @@
           "thumbnail": "https://i.ytimg.com/vi/iG82YPa6vM4/hqdefault.jpg",
           "durationSeconds": 406,
           "durationFormatted": "06:46",
-          "views": 1043,
-          "likes": 14,
+          "views": 1258,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "Dr-_dVt4E_g",
+          "title": "Vande Mataram Controversy : &#39;वंदे मातरम&#39; से परहेज क्यों ? | Latest News | Hindi News | Zee MPCG",
+          "description": "Vande Mataram Controversy : 'वंदे मातरम' से परहेज क्यों ? | Latest News | Hindi News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T14:30:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/Dr-_dVt4E_g/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 187,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "McmpFgmtTO4",
           "title": "Seedhe Mudde Ki Baat: हम खबर दिखाते हैं तो 24 घंटे में असर होता है... | CG | Surguja",
           "description": "Seedhe Mudde Ki Baat: हम खबर दिखाते हैं तो 24 घंटे में असर होता है... | CG | Surguja ...",
@@ -444,21 +459,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "Dr-_dVt4E_g",
-          "title": "Vande Mataram Controversy : &#39;वंदे मातरम&#39; से परहेज क्यों ? | Latest News | Hindi News | Zee MPCG",
-          "description": "Vande Mataram Controversy : 'वंदे मातरम' से परहेज क्यों ? | Latest News | Hindi News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-14T14:30:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/Dr-_dVt4E_g/hqdefault.jpg",
-          "durationSeconds": 133,
-          "durationFormatted": "02:13",
-          "views": 116,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 4,
           "videoId": "PMfIZfOASUM",
           "title": "🔴Seedhe Mudde Ki Baat LIVE: वंदे मातरम् गाने से किसे दिक्कत हो रही है ?  | Vande Mataram controversy",
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PMfIZfOASUM/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 80,
+          "views": 89,
           "likes": 0,
           "videoType": "LIVE",
           "genre": "Live"
@@ -480,7 +480,7 @@
       "clusterId": "chhattisgarh-xpress",
       "topic": "Chhattisgarh Xpress",
       "videoCount": 4,
-      "trendScore": 29.6,
+      "trendScore": 28.9,
       "topVideos": [
         {
           "index": 1,
@@ -499,6 +499,21 @@
         },
         {
           "index": 2,
+          "videoId": "RwVaZf9heoM",
+          "title": "पामगढ़ - छात्र-छात्राओं ने विभिन्न स्थानों पर किया साफ सफाई का कार्यChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-02-14T07:01:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/RwVaZf9heoM/hqdefault.jpg",
+          "durationSeconds": 118,
+          "durationFormatted": "01:58",
+          "views": 218,
+          "likes": 12,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
           "videoId": "1keSesDBaOQ",
           "title": "बलौदाबाजार पुलिस ने मालखाना मुंशी व CCTNS ऑपरेटरों को दिया विशेष प्रशिक्षणChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -513,21 +528,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "RwVaZf9heoM",
-          "title": "पामगढ़ - छात्र-छात्राओं ने विभिन्न स्थानों पर किया साफ सफाई का कार्यChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-02-14T07:01:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/RwVaZf9heoM/hqdefault.jpg",
-          "durationSeconds": 118,
-          "durationFormatted": "01:58",
-          "views": 163,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
           "index": 4,
           "videoId": "QZZf_b30nUI",
           "title": "PRESS CONFRENCE ; से 1100 हथियार बरामद, 2700 ने किया सरेंडरChhattisgarh Xpress News",
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QZZf_b30nUI/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 107,
+          "views": 113,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -549,7 +549,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 25.6,
+      "trendScore": 24.2,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yHwkzYa4wq4/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 9,
+          "views": 52,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
