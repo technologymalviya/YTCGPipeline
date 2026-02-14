@@ -641,12 +641,77 @@ def is_pse_related_video(video: Dict[str, Any]) -> bool:
     return False
 
 
+def is_movie_related_video(video: Dict[str, Any]) -> bool:
+    """
+    Check if a video is related to upcoming movies, movie releases, or movie news.
+    
+    Identifies videos about:
+    - Movie releases, trailers, teasers
+    - Movie announcements, launch events
+    - Movie reviews, ratings
+    - Movie songs, music videos
+    - Movie promotions, interviews
+    - Film industry news
+    - Upcoming movies, release dates
+    """
+    title = video.get('title', '').lower()
+    description = video.get('description', '').lower()
+    text = f"{title} {description}"
+    
+    # Movie-related keywords (English and Hindi)
+    movie_keywords = [
+        # Movie release and announcements
+        'movie release', 'film release', 'upcoming movie', 'new movie',
+        'movie launch', 'film launch', 'movie announcement', 'film announcement',
+        'movie trailer', 'film trailer', 'trailer launch', 'teaser',
+        'movie teaser', 'film teaser', 'first look', 'poster launch',
+        'release date', 'movie release date', 'film release date',
+        # Movie content
+        'movie song', 'film song', 'song release', 'music video',
+        'movie review', 'film review', 'movie rating', 'film rating',
+        'box office', 'movie collection', 'film collection',
+        # Movie promotions
+        'movie promotion', 'film promotion', 'movie interview',
+        'film interview', 'movie press conference', 'film press conference',
+        # Hindi keywords
+        'फिल्म रिलीज', 'मूवी रिलीज', 'नई फिल्म', 'आगामी फिल्म',
+        'फिल्म लॉन्च', 'मूवी लॉन्च', 'फिल्म की घोषणा', 'मूवी की घोषणा',
+        'फिल्म ट्रेलर', 'मूवी ट्रेलर', 'ट्रेलर लॉन्च', 'टीजर',
+        'फिल्म टीजर', 'फर्स्ट लुक', 'पोस्टर लॉन्च',
+        'रिलीज डेट', 'फिल्म रिलीज डेट', 'मूवी रिलीज डेट',
+        'फिल्म सॉन्ग', 'मूवी सॉन्ग', 'सॉन्ग रिलीज', 'म्यूजिक वीडियो',
+        'फिल्म रिव्यू', 'मूवी रिव्यू', 'फिल्म रेटिंग', 'मूवी रेटिंग',
+        'बॉक्स ऑफिस', 'फिल्म कलेक्शन', 'मूवी कलेक्शन',
+        'फिल्म प्रमोशन', 'मूवी प्रमोशन', 'फिल्म इंटरव्यू', 'मूवी इंटरव्यू',
+        # Bollywood/Hollywood terms
+        'bollywood', 'hollywood', 'tollywood', 'kollywood',
+        'बॉलीवुड', 'हॉलीवुड',
+        # Film industry terms
+        'cinema', 'film industry', 'movie industry',
+        'actor', 'actress', 'director', 'producer',
+        'अभिनेता', 'अभिनेत्री', 'निर्देशक', 'निर्माता',
+        # Specific movie terms
+        'sequel', 'prequel', 'remake', 'reboot',
+        'blockbuster', 'hit movie', 'superhit',
+        'ब्लॉकबस्टर', 'हिट फिल्म', 'सुपरहिट'
+    ]
+    
+    # Check if any movie keyword is present
+    for keyword in movie_keywords:
+        if keyword in text:
+            return True
+    
+    return False
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
     
     Groups similar videos across all sections and only creates clusters
-    with 4+ similar videos. Also creates a dedicated Public Sector Exam (PSE) cluster.
+    with 4+ similar videos. Also creates dedicated clusters for:
+    - Public Sector Exam (PSE)
+    - Movie (upcoming movies, releases, trailers)
     """
     if cache['clusters'] and cache['data'] == data:
         logger.debug("Returning cached clusters")
@@ -668,17 +733,20 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     
     logger.info(f"Processing {len(all_videos)} total videos for content-based clustering")
     
-    # Separate PSE-related videos from other videos
+    # Separate PSE, Movie, and other videos
     pse_videos = []
-    non_pse_videos = []
+    movie_videos = []
+    other_videos = []
     
     for video in all_videos:
         if is_pse_related_video(video):
             pse_videos.append(video)
+        elif is_movie_related_video(video):
+            movie_videos.append(video)
         else:
-            non_pse_videos.append(video)
+            other_videos.append(video)
     
-    logger.info(f"Found {len(pse_videos)} PSE-related videos, {len(non_pse_videos)} other videos")
+    logger.info(f"Found {len(pse_videos)} PSE-related videos, {len(movie_videos)} Movie-related videos, {len(other_videos)} other videos")
     
     # Create PSE cluster if there are any PSE videos (no minimum size requirement)
     if pse_videos:
@@ -730,8 +798,58 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(pse_cluster)
         logger.info(f"Created PSE cluster with {len(pse_videos)} videos")
     
-    # Group similar videos from non-PSE videos (only clusters with 4+ videos)
-    video_clusters = group_similar_videos(non_pse_videos, similarity_threshold=0.3, min_cluster_size=4)
+    # Create Movie cluster if there are any movie videos (no minimum size requirement)
+    if movie_videos:
+        # Sort movie videos by views to get top ones
+        movie_videos_sorted = sorted(movie_videos, key=lambda v: v.get('views', 0), reverse=True)
+        
+        # Calculate trend score for Movie cluster
+        dummy_section = {'section': 'Movie'}
+        trend_score = calculate_trend_score(dummy_section, movie_videos)
+        
+        # Find latest update time
+        latest_update = None
+        for item in movie_videos:
+            published_at = item.get('publishedAt')
+            if published_at:
+                try:
+                    pub_date = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+                    if not latest_update or pub_date > latest_update:
+                        latest_update = pub_date
+                except (ValueError, AttributeError):
+                    pass
+        
+        latest_update_str = latest_update.isoformat().replace('+00:00', 'Z') if latest_update else None
+        
+        # Calculate derived metrics
+        total_views = sum(v.get('views', 0) for v in movie_videos)
+        total_likes = sum(v.get('likes', 0) for v in movie_videos)
+        engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
+        trending_velocity = round(total_views / len(movie_videos), 1) if movie_videos else 0
+        
+        # Determine most common genre from movie videos
+        genres = [v.get('genre', 'General') for v in movie_videos]
+        most_common_genre = max(set(genres), key=genres.count) if genres else 'General'
+        
+        movie_cluster = {
+            'clusterId': 'movie',
+            'topic': 'Movie',
+            'originalCategory': most_common_genre,
+            'videoCount': len(movie_videos),
+            'trendScore': trend_score,
+            'latestUpdateAt': latest_update_str,
+            'totalViews': total_views,
+            'totalLikes': total_likes,
+            'engagementRate': engagement_rate,
+            'trendingVelocity': trending_velocity,
+            'videos': movie_videos  # Include full video data
+        }
+        
+        clusters.append(movie_cluster)
+        logger.info(f"Created Movie cluster with {len(movie_videos)} videos")
+    
+    # Group similar videos from other videos (only clusters with 4+ videos)
+    video_clusters = group_similar_videos(other_videos, similarity_threshold=0.3, min_cluster_size=4)
     
     # Create cluster objects for each similar video group
     for cluster_idx, items in enumerate(video_clusters):
@@ -795,7 +913,11 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     # Cache the clusters
     cache['clusters'] = clusters
     
-    logger.info(f"Extracted {len(clusters)} clusters ({len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])}) PSE cluster + {len([c for c in clusters if c.get('clusterId') != 'public-sector-exam'])} content-based clusters)")
+    pse_count = len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])
+    movie_count = len([c for c in clusters if c.get('clusterId') == 'movie'])
+    content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie']])
+    
+    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {content_count} content-based clusters)")
     return clusters
 
 
