@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-02-14T18:52:56.995034Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-02-14T20:39:43.907406Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 74,
-      "trendScore": 63.5,
+      "trendScore": 62.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "YKx7bRTlCQ4",
-          "title": "DA Hike News : अभी-अभी कर्मचारियों की बल्ले-बल्ले? | 8th Pay Commission | Top News",
-          "description": "DA Hike News : अभी-अभी कर्मचारियों की बल्ले-बल्ले? | 8th Pay Commission | Top News The ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-14T14:49:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/YKx7bRTlCQ4/hqdefault.jpg",
-          "durationSeconds": 535,
-          "durationFormatted": "08:55",
-          "views": 26216,
-          "likes": 205,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "TdSj3Fp564w",
           "title": "CGPSC: TOPPERS से जानिए इंटरव्यू में उनसे क्या पूछा गया ?",
           "description": "CGPSC: TOPPERS से जानिए इंटरव्यू में उनसे क्या पूछा गया ? Join this channel to get ...",
@@ -33,8 +18,23 @@
           "thumbnail": "https://i.ytimg.com/vi/TdSj3Fp564w/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 22770,
-          "likes": 762,
+          "views": 27162,
+          "likes": 789,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "YKx7bRTlCQ4",
+          "title": "DA Hike News : अभी-अभी कर्मचारियों की बल्ले-बल्ले? | 8th Pay Commission | Top News",
+          "description": "DA Hike News : अभी-अभी कर्मचारियों की बल्ले-बल्ले? | 8th Pay Commission | Top News The ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-14T14:49:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/YKx7bRTlCQ4/hqdefault.jpg",
+          "durationSeconds": 535,
+          "durationFormatted": "08:55",
+          "views": 26935,
+          "likes": 206,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,13 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/Qx_PTFNBXr0/hqdefault.jpg",
           "durationSeconds": 1489,
           "durationFormatted": "24:49",
-          "views": 20871,
+          "views": 21043,
           "likes": 275,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "NegfzsQf4xM",
+          "title": "Rs100-500 Note Changes : 100 और 500 के नोटों में होने जा रहा बहुत बड़ा बदलाव... जानिए? RBI | N18V",
+          "description": "Rs100-500 Note Changes : 100 और 500 के नोटों में होने जा रहा बहुत बड़ा बदलाव.",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-14T15:01:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/NegfzsQf4xM/hqdefault.jpg",
+          "durationSeconds": 211,
+          "durationFormatted": "03:31",
+          "views": 8011,
+          "likes": 49,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "txQAmAO-nTY",
           "title": "ये है गरीबों का हाल | सिस्टम का बस चले तो साँसें भी छीन ले | बिलासपुर में सड़क पर महिलाएं|@tirandaj",
           "description": "bulldozersonhomes #chaosinbilaspur #bilaspurnews #घरोंपरबुलडोजर #बिलासपुरमेंबवाल ...",
@@ -63,118 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/txQAmAO-nTY/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 7498,
-          "likes": 101,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "du6kRIxbIms",
-          "title": "Chhattisgarh Congress में घमासान, T. S. Singh Deo समर्थकों के सामूहिक Resignations से मचा बवाल | CG",
-          "description": "Chhattisgarh Congress में घमासान, T. S. Singh Deo समर्थकों के सामूहिक Resignations से मचा ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-14T09:00:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/du6kRIxbIms/hqdefault.jpg",
-          "durationSeconds": 150,
-          "durationFormatted": "02:30",
-          "views": 6296,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-02-14T18:36:20Z"
-    },
-    {
-      "clusterId": "नगम-दरग",
-      "topic": "निगम दुर्ग",
-      "videoCount": 15,
-      "trendScore": 38.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "j9Mfyp3cNOc",
-          "title": "दुर्ग आईटी पार्क जल्द होगा शुरू , कलेक्टर अभिजीत सिंह ने किया निरीक्षण",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T12:38:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/j9Mfyp3cNOc/hqdefault.jpg",
-          "durationSeconds": 67,
-          "durationFormatted": "01:07",
-          "views": 24,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "_WbwkAgCCow",
-          "title": "दुर्ग नगर निगम की पहल , 14 फरवरी को रंग-बिरंगे फूलों की शानदार प्रदर्शनी",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T12:37:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/_WbwkAgCCow/hqdefault.jpg",
-          "durationSeconds": 207,
-          "durationFormatted": "03:27",
-          "views": 22,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "Ac2uQx0wc3I",
-          "title": "भिलाई में निगम आयुक्त का औचक निरीक्षण , दीक्षित कॉलोनी और कोसा नाला पर सख्त निर्देश",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T12:36:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ac2uQx0wc3I/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 16,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "v660N4iLLws",
-          "title": "Raipur News: टीईटी अनिवार्यता और बीएड कोर्स की मांग, शिक्षक संघ ने शिक्षा विभाग को ज्ञापन सौंपा",
-          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T14:06:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/v660N4iLLws/hqdefault.jpg",
-          "durationSeconds": 68,
-          "durationFormatted": "01:08",
-          "views": 9,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "IcWJx48NdfY",
-          "title": "भिलाई में आबादी भूमि पर सर्वे ,निगम आयुक्त राजीव कुमार पांडेय ने परीक्षण समिति का गठन किया",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-14T14:54:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/IcWJx48NdfY/hqdefault.jpg",
-          "durationSeconds": 77,
-          "durationFormatted": "01:17",
-          "views": 5,
-          "likes": 0,
+          "views": 7738,
+          "likes": 100,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-14T14:54:53Z"
+      "latestUpdateAt": "2026-02-14T18:46:07Z"
     },
     {
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
       "videoCount": 11,
-      "trendScore": 38.7,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iHHxaA0niNw/hqdefault.jpg",
           "durationSeconds": 1084,
           "durationFormatted": "18:04",
-          "views": 5948,
+          "views": 5633,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -194,14 +110,14 @@
         {
           "index": 2,
           "videoId": "2-Dx2N3PIf4",
-          "title": "14 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "15 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "14 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-02-13T23:30:01Z",
           "thumbnail": "https://i.ytimg.com/vi/2-Dx2N3PIf4/hqdefault.jpg",
           "durationSeconds": 936,
           "durationFormatted": "15:36",
-          "views": 5291,
+          "views": 5304,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ceziY8_Qz_I/hqdefault.jpg",
           "durationSeconds": 946,
           "durationFormatted": "15:46",
-          "views": 2077,
+          "views": 2124,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/77a2CPYZUFA/hqdefault.jpg",
           "durationSeconds": 664,
           "durationFormatted": "11:04",
-          "views": 39,
-          "likes": 5,
+          "views": 129,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NUKx0e32hM0/hqdefault.jpg",
           "durationSeconds": 266,
           "durationFormatted": "04:26",
-          "views": 22,
+          "views": 25,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -255,10 +171,94 @@
       "latestUpdateAt": "2026-02-14T15:32:10Z"
     },
     {
+      "clusterId": "durg-नगम",
+      "topic": "Durg निगम",
+      "videoCount": 15,
+      "trendScore": 37.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "j9Mfyp3cNOc",
+          "title": "दुर्ग आईटी पार्क जल्द होगा शुरू , कलेक्टर अभिजीत सिंह ने किया निरीक्षण",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-14T12:38:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/j9Mfyp3cNOc/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 25,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "_WbwkAgCCow",
+          "title": "दुर्ग नगर निगम की पहल , 14 फरवरी को रंग-बिरंगे फूलों की शानदार प्रदर्शनी",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-14T12:37:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/_WbwkAgCCow/hqdefault.jpg",
+          "durationSeconds": 207,
+          "durationFormatted": "03:27",
+          "views": 21,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "Ac2uQx0wc3I",
+          "title": "भिलाई में निगम आयुक्त का औचक निरीक्षण , दीक्षित कॉलोनी और कोसा नाला पर सख्त निर्देश",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-14T12:36:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ac2uQx0wc3I/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 18,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "FkLlGKbcWN8",
+          "title": "Durg: पुलिस कर्मियों के लिए स्वास्थ्य जागरूकता सत्र, 112 अधिकारियों ने सीखी फिटनेस और हेल्थ टिप्स",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-14T14:54:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/FkLlGKbcWN8/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 14,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "v660N4iLLws",
+          "title": "Raipur News: टीईटी अनिवार्यता और बीएड कोर्स की मांग, शिक्षक संघ ने शिक्षा विभाग को ज्ञापन सौंपा",
+          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-14T14:06:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/v660N4iLLws/hqdefault.jpg",
+          "durationSeconds": 68,
+          "durationFormatted": "01:08",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-14T14:54:53Z"
+    },
+    {
       "clusterId": "modi-assam",
       "topic": "Modi Assam",
       "videoCount": 6,
-      "trendScore": 34.6,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x1hFEvtpI5k/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 4325,
+          "views": 4336,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9KWxWEcYZgo/hqdefault.jpg",
           "durationSeconds": 264,
           "durationFormatted": "04:24",
-          "views": 2121,
+          "views": 2939,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xI_r0VOd5Lk/hqdefault.jpg",
           "durationSeconds": 247,
           "durationFormatted": "04:07",
-          "views": 1619,
+          "views": 1684,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dPv1gXumCt4/hqdefault.jpg",
           "durationSeconds": 172,
           "durationFormatted": "02:52",
-          "views": 14,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aGzT1QMMMz4/hqdefault.jpg",
           "durationSeconds": 951,
           "durationFormatted": "15:51",
-          "views": 9,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -342,7 +342,7 @@
       "clusterId": "vandemataram-वद",
       "topic": "vandemataram वंदे",
       "videoCount": 4,
-      "trendScore": 32.9,
+      "trendScore": 32.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YsTSfV79bhE/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 2615,
+          "views": 3352,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iBioJJfE3ck/hqdefault.jpg",
           "durationSeconds": 157,
           "durationFormatted": "02:37",
-          "views": 1159,
+          "views": 1499,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bCWcZyPEIWw/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 197,
-          "likes": 2,
+          "views": 248,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IaaXQoqBbb8/hqdefault.jpg",
           "durationSeconds": 162,
           "durationFormatted": "02:42",
-          "views": 88,
+          "views": 102,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -408,10 +408,79 @@
       "latestUpdateAt": "2026-02-14T17:28:54Z"
     },
     {
+      "clusterId": "mudde-baat",
+      "topic": "Mudde Baat",
+      "videoCount": 4,
+      "trendScore": 31.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "iG82YPa6vM4",
+          "title": "Seedhe Mudde Ki Baat: छत्तीसगढ़ के कौन-कौन से नेता Assam और Bengal जा रहे हैं?",
+          "description": "Seedhe Mudde Ki Baat: छत्तीसगढ़ के कौन-कौन से नेता Assam और Bengal जा रहे हैं?",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-14T15:46:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/iG82YPa6vM4/hqdefault.jpg",
+          "durationSeconds": 406,
+          "durationFormatted": "06:46",
+          "views": 1043,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "McmpFgmtTO4",
+          "title": "Seedhe Mudde Ki Baat: हम खबर दिखाते हैं तो 24 घंटे में असर होता है... | CG | Surguja",
+          "description": "Seedhe Mudde Ki Baat: हम खबर दिखाते हैं तो 24 घंटे में असर होता है... | CG | Surguja ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-14T15:57:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/McmpFgmtTO4/hqdefault.jpg",
+          "durationSeconds": 475,
+          "durationFormatted": "07:55",
+          "views": 117,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "Dr-_dVt4E_g",
+          "title": "Vande Mataram Controversy : &#39;वंदे मातरम&#39; से परहेज क्यों ? | Latest News | Hindi News | Zee MPCG",
+          "description": "Vande Mataram Controversy : 'वंदे मातरम' से परहेज क्यों ? | Latest News | Hindi News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-14T14:30:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/Dr-_dVt4E_g/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 116,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "PMfIZfOASUM",
+          "title": "🔴Seedhe Mudde Ki Baat LIVE: वंदे मातरम् गाने से किसे दिक्कत हो रही है ?  | Vande Mataram controversy",
+          "description": "Seedhe Mudde Ki Baat LIVE : वंदे मातरम् गाने से किसे दिक्कत हो रही है ? | Vande Mataram ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-14T15:57:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/PMfIZfOASUM/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 80,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        }
+      ],
+      "latestUpdateAt": "2026-02-14T15:57:58Z"
+    },
+    {
       "clusterId": "chhattisgarh-xpress",
       "topic": "Chhattisgarh Xpress",
       "videoCount": 4,
-      "trendScore": 30.3,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +492,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZsCxt8uxA4g/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 4923,
-          "likes": 54,
+          "views": 5033,
+          "likes": 53,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -438,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1keSesDBaOQ/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 165,
+          "views": 173,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QZZf_b30nUI/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 101,
+          "views": 107,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -480,7 +549,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 25.0,
+      "trendScore": 25.6,
       "topVideos": [
         {
           "index": 1,
@@ -492,8 +561,8 @@
           "thumbnail": "https://i.ytimg.com/vi/b7OOrHb7reo/hqdefault.jpg",
           "durationSeconds": 1481,
           "durationFormatted": "24:41",
-          "views": 107,
-          "likes": 1,
+          "views": 111,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
