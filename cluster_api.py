@@ -435,12 +435,218 @@ def group_similar_videos(videos: List[Dict[str, Any]], similarity_threshold: flo
     return components
 
 
+def is_pse_related_video(video: Dict[str, Any]) -> bool:
+    """
+    Check if a video is related to Public Sector Exams (PSE).
+    
+    As a Public Sector Exam expert, identifies videos about:
+    
+    1. **Exams**: Government job exams (UPSC, SSC, Bank PO, Railway, Police, Teacher, etc.)
+       - Exam notifications, admit cards, results, recruitment
+       - Exam preparation, syllabus, dates
+    
+    2. **Policy**: New rules, schemes, bills, acts
+       - Education policy, new schemes, government bills
+    
+    3. **Person**: Appointments, resignations of key officials
+       - RBI Governor, Chief Ministers, Secretaries, IAS/IPS officers
+    
+    4. **Place**: Summits, international visits, meetings
+       - G20, BRICS, international conferences
+    
+    5. **Program**: Government missions, campaigns
+       - PM Gati Shakti, Swachh Bharat, Digital India
+    
+    6. **Performance**: Rankings, indices, reports
+       - GDP growth, economic reports, state rankings
+    
+    Excludes false positives like traffic accidents with "train" keyword.
+    """
+    title = video.get('title', '').lower()
+    description = video.get('description', '').lower()
+    text = f"{title} {description}"
+    
+    # Exclusion keywords - if these appear, it's likely NOT a PSE video
+    exclusion_keywords = [
+        'accident', 'हादसा', 'दुर्घटना', 'crash', 'collision',
+        'train accident', 'ट्रेन हादसा', 'railway accident',
+        'crime', 'murder', 'हत्या', 'अपराध',  # Crime news (unless related to policy/person)
+        'viral video', 'dance performance', 'music video', 'entertainment'  # Entertainment content
+    ]
+    
+    # Check exclusions first
+    for exclusion in exclusion_keywords:
+        if exclusion in text:
+            # Only exclude if it's clearly a traffic/accident/crime/entertainment context
+            # Allow if it's clearly about policy/person/exam/performance report
+            if any(keyword in text for keyword in ['policy', 'scheme', 'appointment', 'exam', 'recruitment', 'gdp', 'economic', 'report', 'नीति', 'योजना', 'नियुक्ति', 'परीक्षा', 'भर्ती', 'रिपोर्ट']):
+                continue  # It's about policy/person/exam/performance, not accident/crime/entertainment
+            return False  # It's an accident/crime/entertainment, not PSE
+    
+    # ========== 1. EXAM-RELATED KEYWORDS ==========
+    # Strong indicators - exam names and specific terms
+    exam_keywords = [
+        # Major exam names
+        'upsc', 'ssc cgl', 'ssc chsl', 'ssc mts', 'ssc gd',
+        'bank po', 'bank clerk', 'ibps', 'sbi po', 'sbi clerk', 'rbi',
+        'rrb ntpc', 'rrb je', 'rrb alp', 'rrb exam',
+        'police recruitment', 'police bharti', 'police exam',
+        'teacher recruitment', 'teacher bharti', 'teacher exam',
+        'vyapam', 'mppsc', 'cgpsc', 'uppsc', 'bpsc', 'jpsc',
+        'nda', 'cds', 'afcat',
+        'lic exam', 'nicl', 'gicl', 'uiicl',
+        'post office exam', 'postal exam', 'gds exam',
+        'judiciary exam', 'judge exam', 'civil judge exam',
+        'aai exam', 'airport authority exam',
+        # Exam-specific terms
+        'exam notification', 'exam result', 'exam admit card', 'exam date',
+        'recruitment notification', 'vacancy notification',
+        'admit card', 'hall ticket', 'call letter',
+        'merit list', 'cut off', 'cutoff',
+        'syllabus', 'exam pattern',
+        # Hindi exam indicators
+        'सरकारी परीक्षा', 'परीक्षा नोटिफिकेशन', 'परीक्षा रिजल्ट',
+        'परीक्षा एडमिट कार्ड', 'परीक्षा तिथि',
+        'यूपीएससी', 'एसएससी', 'बैंक पीओ', 'रेलवे भर्ती', 'रेलवे परीक्षा',
+        'पुलिस भर्ती', 'पुलिस परीक्षा',
+        'शिक्षक भर्ती', 'शिक्षक परीक्षा',
+        'व्यापम', 'एमपीपीएससी', 'सीजीपीएससी',
+        'मेरिट लिस्ट', 'कट ऑफ', 'सिलेबस'
+    ]
+    
+    # ========== 2. POLICY KEYWORDS ==========
+    policy_keywords = [
+        # English
+        'new policy', 'government policy', 'national policy',
+        'education policy', 'health policy', 'agriculture policy',
+        'scheme', 'government scheme', 'new scheme', 'central scheme',
+        'bill', 'government bill', 'new bill', 'parliament bill',
+        'act', 'new act', 'amendment', 'law', 'legislation',
+        'yojana', 'pradhan mantri', 'pm scheme',
+        # Hindi
+        'नीति', 'नई नीति', 'सरकारी नीति', 'राष्ट्रीय नीति',
+        'शिक्षा नीति', 'स्वास्थ्य नीति', 'कृषि नीति',
+        'योजना', 'सरकारी योजना', 'नई योजना', 'केंद्रीय योजना',
+        'बिल', 'सरकारी बिल', 'नया बिल', 'संसद बिल',
+        'अधिनियम', 'नया अधिनियम', 'संशोधन', 'कानून', 'विधान',
+        'प्रधानमंत्री योजना', 'पीएम योजना'
+    ]
+    
+    # ========== 3. PERSON KEYWORDS (Appointments/Resignations) ==========
+    person_keywords = [
+        # English
+        'appointment', 'new appointment', 'appointed', 'appointed as',
+        'resignation', 'resigned', 'resigns',
+        'governor', 'rbi governor', 'new governor',
+        'chief minister', 'cm', 'new cm',
+        'secretary', 'chief secretary', 'new secretary',
+        'ias', 'ips', 'ifs', 'irs', 'officer',
+        'cabinet minister', 'union minister', 'minister',
+        'chairman', 'director', 'ceo',
+        # Hindi
+        'नियुक्ति', 'नई नियुक्ति', 'नियुक्त', 'नियुक्त किया',
+        'इस्तीफा', 'इस्तीफा दिया', 'इस्तीफा दे दिया',
+        'गवर्नर', 'आरबीआई गवर्नर', 'नया गवर्नर',
+        'मुख्यमंत्री', 'सीएम', 'नया सीएम',
+        'सचिव', 'मुख्य सचिव', 'नया सचिव',
+        'आईएएस', 'आईपीएस', 'आईएफएस', 'आईआरएस', 'अधिकारी',
+        'कैबिनेट मंत्री', 'केंद्रीय मंत्री', 'मंत्री',
+        'अध्यक्ष', 'निदेशक'
+    ]
+    
+    # ========== 4. PLACE KEYWORDS (Summits/International Visits) ==========
+    place_keywords = [
+        # English
+        'summit', 'g20', 'g-20', 'brics', 'saarc',
+        'international summit', 'global summit',
+        'international visit', 'state visit', 'official visit',
+        'conference', 'international conference', 'global conference',
+        'meeting', 'bilateral meeting', 'multilateral meeting',
+        'dialogue', 'strategic dialogue',
+        # Hindi
+        'शिखर सम्मेलन', 'सम्मेलन', 'अंतर्राष्ट्रीय सम्मेलन',
+        'अंतर्राष्ट्रीय यात्रा', 'राजकीय यात्रा',
+        'बैठक', 'द्विपक्षीय बैठक', 'बहुपक्षीय बैठक',
+        'संवाद', 'रणनीतिक संवाद'
+    ]
+    
+    # ========== 5. PROGRAM KEYWORDS (Govt Missions/Campaigns) ==========
+    program_keywords = [
+        # English
+        'mission', 'government mission', 'national mission',
+        'campaign', 'government campaign', 'national campaign',
+        'abhiyan', 'yojana',
+        'gati shakti', 'pm gati shakti',
+        'swachh bharat', 'clean india',
+        'digital india', 'make in india',
+        'atmanirbhar bharat', 'self-reliant india',
+        'smart city', 'amrut',
+        # Hindi
+        'मिशन', 'सरकारी मिशन', 'राष्ट्रीय मिशन',
+        'अभियान', 'सरकारी अभियान', 'राष्ट्रीय अभियान',
+        'गति शक्ति', 'पीएम गति शक्ति',
+        'स्वच्छ भारत', 'डिजिटल इंडिया',
+        'आत्मनिर्भर भारत', 'स्मार्ट सिटी'
+    ]
+    
+    # ========== 6. PERFORMANCE KEYWORDS (Rankings/Reports) ==========
+    performance_keywords = [
+        # English
+        'ranking', 'rank', 'ranked', 'global ranking',
+        'index', 'gdp', 'gdp growth', 'economic growth',
+        'report', 'government report', 'annual report',
+        'survey', 'government survey', 'economic survey',
+        'growth rate', 'development index', 'human development',
+        'ease of doing business', 'corruption index',
+        'performance', 'economic performance',
+        # Hindi
+        'रैंकिंग', 'रैंक', 'वैश्विक रैंकिंग',
+        'सूचकांक', 'जीडीपी', 'जीडीपी वृद्धि', 'आर्थिक वृद्धि',
+        'रिपोर्ट', 'सरकारी रिपोर्ट', 'वार्षिक रिपोर्ट',
+        'सर्वेक्षण', 'सरकारी सर्वेक्षण', 'आर्थिक सर्वेक्षण',
+        'वृद्धि दर', 'विकास सूचकांक', 'मानव विकास',
+        'आर्थिक प्रदर्शन'
+    ]
+    
+    # Combine all PSE-related keywords
+    all_pse_keywords = exam_keywords + policy_keywords + person_keywords + place_keywords + program_keywords + performance_keywords
+    
+    # Check if any PSE keyword is present
+    for keyword in all_pse_keywords:
+        if keyword in text:
+            return True
+    
+    # Medium indicators - need context
+    medium_pse_keywords = [
+        'government job', 'sarkari naukri', 'govt job',
+        'सरकारी नौकरी', 'सरकारी भर्ती',
+        'भर्ती सूचना', 'रिक्तियां', 'वैकेंसी',
+        'railway', 'rrb'  # Railway/RRB - but exclude if accident context
+    ]
+    
+    # Check medium indicators - require additional context
+    for keyword in medium_pse_keywords:
+        if keyword in text:
+            # Additional context words that confirm it's PSE-related
+            context_words = [
+                'exam', 'notification', 'result', 'admit', 'recruitment',
+                'vacancy', 'syllabus', 'merit', 'cutoff',
+                'परीक्षा', 'नोटिफिकेशन', 'रिजल्ट', 'एडमिट', 'भर्ती',
+                'वैकेंसी', 'सिलेबस', 'मेरिट'
+            ]
+            # If any context word is present, it's PSE-related
+            if any(ctx in text for ctx in context_words):
+                return True
+    
+    return False
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
     
     Groups similar videos across all sections and only creates clusters
-    with 4+ similar videos.
+    with 4+ similar videos. Also creates a dedicated Public Sector Exam (PSE) cluster.
     """
     if cache['clusters'] and cache['data'] == data:
         logger.debug("Returning cached clusters")
@@ -462,8 +668,70 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     
     logger.info(f"Processing {len(all_videos)} total videos for content-based clustering")
     
-    # Group similar videos (only clusters with 4+ videos)
-    video_clusters = group_similar_videos(all_videos, similarity_threshold=0.3, min_cluster_size=4)
+    # Separate PSE-related videos from other videos
+    pse_videos = []
+    non_pse_videos = []
+    
+    for video in all_videos:
+        if is_pse_related_video(video):
+            pse_videos.append(video)
+        else:
+            non_pse_videos.append(video)
+    
+    logger.info(f"Found {len(pse_videos)} PSE-related videos, {len(non_pse_videos)} other videos")
+    
+    # Create PSE cluster if there are any PSE videos (no minimum size requirement)
+    if pse_videos:
+        # Sort PSE videos by views to get top ones
+        pse_videos_sorted = sorted(pse_videos, key=lambda v: v.get('views', 0), reverse=True)
+        
+        # Calculate trend score for PSE cluster
+        dummy_section = {'section': 'Public Sector Exam'}
+        trend_score = calculate_trend_score(dummy_section, pse_videos)
+        
+        # Find latest update time
+        latest_update = None
+        for item in pse_videos:
+            published_at = item.get('publishedAt')
+            if published_at:
+                try:
+                    pub_date = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+                    if not latest_update or pub_date > latest_update:
+                        latest_update = pub_date
+                except (ValueError, AttributeError):
+                    pass
+        
+        latest_update_str = latest_update.isoformat().replace('+00:00', 'Z') if latest_update else None
+        
+        # Calculate derived metrics
+        total_views = sum(v.get('views', 0) for v in pse_videos)
+        total_likes = sum(v.get('likes', 0) for v in pse_videos)
+        engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
+        trending_velocity = round(total_views / len(pse_videos), 1) if pse_videos else 0
+        
+        # Determine most common genre from PSE videos
+        genres = [v.get('genre', 'General') for v in pse_videos]
+        most_common_genre = max(set(genres), key=genres.count) if genres else 'Jobs'
+        
+        pse_cluster = {
+            'clusterId': 'public-sector-exam',
+            'topic': 'Public Sector Exam',
+            'originalCategory': most_common_genre,
+            'videoCount': len(pse_videos),
+            'trendScore': trend_score,
+            'latestUpdateAt': latest_update_str,
+            'totalViews': total_views,
+            'totalLikes': total_likes,
+            'engagementRate': engagement_rate,
+            'trendingVelocity': trending_velocity,
+            'videos': pse_videos  # Include full video data
+        }
+        
+        clusters.append(pse_cluster)
+        logger.info(f"Created PSE cluster with {len(pse_videos)} videos")
+    
+    # Group similar videos from non-PSE videos (only clusters with 4+ videos)
+    video_clusters = group_similar_videos(non_pse_videos, similarity_threshold=0.3, min_cluster_size=4)
     
     # Create cluster objects for each similar video group
     for cluster_idx, items in enumerate(video_clusters):
@@ -527,7 +795,7 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     # Cache the clusters
     cache['clusters'] = clusters
     
-    logger.info(f"Extracted {len(clusters)} clusters (all with 4+ similar videos)")
+    logger.info(f"Extracted {len(clusters)} clusters ({len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])}) PSE cluster + {len([c for c in clusters if c.get('clusterId') != 'public-sector-exam'])} content-based clusters)")
     return clusters
 
 
