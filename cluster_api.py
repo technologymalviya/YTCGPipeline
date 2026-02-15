@@ -643,63 +643,93 @@ def is_pse_related_video(video: Dict[str, Any]) -> bool:
 
 def is_movie_related_video(video: Dict[str, Any]) -> bool:
     """
-    Check if a video is related to upcoming movies, movie releases, or movie news.
+    Check if a video is explicitly about movies (releases, trailers, movie news).
     
-    Identifies videos about:
-    - Movie releases, trailers, teasers
-    - Movie announcements, launch events
-    - Movie reviews, ratings
-    - Movie songs, music videos
-    - Movie promotions, interviews
-    - Film industry news
-    - Upcoming movies, release dates
+    Only includes videos that explicitly talk about movies, such as:
+    - "Chhattisgarh movie", "new movie trailer", "movie release"
+    - Movie-specific content: trailers, teasers, songs, reviews
+    - Movie announcements and promotions
+    
+    Excludes casual mentions of movie-related terms in non-movie contexts.
     """
     title = video.get('title', '').lower()
     description = video.get('description', '').lower()
     text = f"{title} {description}"
     
-    # Movie-related keywords (English and Hindi)
-    movie_keywords = [
-        # Movie release and announcements
-        'movie release', 'film release', 'upcoming movie', 'new movie',
-        'movie launch', 'film launch', 'movie announcement', 'film announcement',
-        'movie trailer', 'film trailer', 'trailer launch', 'teaser',
-        'movie teaser', 'film teaser', 'first look', 'poster launch',
-        'release date', 'movie release date', 'film release date',
-        # Movie content
-        'movie song', 'film song', 'song release', 'music video',
-        'movie review', 'film review', 'movie rating', 'film rating',
-        'box office', 'movie collection', 'film collection',
-        # Movie promotions
-        'movie promotion', 'film promotion', 'movie interview',
-        'film interview', 'movie press conference', 'film press conference',
-        # Hindi keywords
-        'फिल्म रिलीज', 'मूवी रिलीज', 'नई फिल्म', 'आगामी फिल्म',
-        'फिल्म लॉन्च', 'मूवी लॉन्च', 'फिल्म की घोषणा', 'मूवी की घोषणा',
-        'फिल्म ट्रेलर', 'मूवी ट्रेलर', 'ट्रेलर लॉन्च', 'टीजर',
-        'फिल्म टीजर', 'फर्स्ट लुक', 'पोस्टर लॉन्च',
-        'रिलीज डेट', 'फिल्म रिलीज डेट', 'मूवी रिलीज डेट',
-        'फिल्म सॉन्ग', 'मूवी सॉन्ग', 'सॉन्ग रिलीज', 'म्यूजिक वीडियो',
-        'फिल्म रिव्यू', 'मूवी रिव्यू', 'फिल्म रेटिंग', 'मूवी रेटिंग',
-        'बॉक्स ऑफिस', 'फिल्म कलेक्शन', 'मूवी कलेक्शन',
-        'फिल्म प्रमोशन', 'मूवी प्रमोशन', 'फिल्म इंटरव्यू', 'मूवी इंटरव्यू',
-        # Bollywood/Hollywood terms
-        'bollywood', 'hollywood', 'tollywood', 'kollywood',
-        'बॉलीवुड', 'हॉलीवुड',
-        # Film industry terms
-        'cinema', 'film industry', 'movie industry',
-        'actor', 'actress', 'director', 'producer',
-        'अभिनेता', 'अभिनेत्री', 'निर्देशक', 'निर्माता',
-        # Specific movie terms
-        'sequel', 'prequel', 'remake', 'reboot',
-        'blockbuster', 'hit movie', 'superhit',
-        'ब्लॉकबस्टर', 'हिट फिल्म', 'सुपरहिट'
+    # Exclusion keywords - if these appear without movie context, exclude
+    exclusion_keywords = [
+        'accident', 'crime', 'murder', 'traffic', 'weather', 'news update',
+        'exam', 'recruitment', 'job', 'government', 'policy', 'scheme'
     ]
     
-    # Check if any movie keyword is present
-    for keyword in movie_keywords:
-        if keyword in text:
-            return True
+    # Check exclusions first (unless there's strong movie context)
+    has_strong_movie_context = False
+    
+    # Strong movie indicators - these must be present
+    strong_movie_phrases = [
+        # Explicit movie release/announcement phrases
+        'movie release', 'film release', 'movie launch', 'film launch',
+        'movie announcement', 'film announcement', 'new movie', 'upcoming movie',
+        # Movie content phrases
+        'movie trailer', 'film trailer', 'trailer launch', 'movie teaser', 'film teaser',
+        'teaser launch', 'first look', 'poster launch', 'movie poster', 'film poster',
+        'movie song', 'film song', 'movie music', 'film music',
+        'movie review', 'film review', 'movie rating', 'film rating',
+        'box office', 'movie collection', 'film collection',
+        # Movie promotion phrases
+        'movie promotion', 'film promotion', 'movie interview', 'film interview',
+        'movie press conference', 'film press conference',
+        # Release date phrases
+        'movie release date', 'film release date', 'release date announced',
+        # Hindi explicit movie phrases
+        'फिल्म रिलीज', 'मूवी रिलीज', 'नई फिल्म', 'आगामी फिल्म',
+        'फिल्म लॉन्च', 'मूवी लॉन्च', 'फिल्म की घोषणा', 'मूवी की घोषणा',
+        'फिल्म ट्रेलर', 'मूवी ट्रेलर', 'ट्रेलर लॉन्च', 'फिल्म टीजर', 'मूवी टीजर',
+        'फर्स्ट लुक', 'पोस्टर लॉन्च', 'फिल्म पोस्टर', 'मूवी पोस्टर',
+        'फिल्म सॉन्ग', 'मूवी सॉन्ग', 'फिल्म रिव्यू', 'मूवी रिव्यू',
+        'बॉक्स ऑफिस', 'फिल्म कलेक्शन', 'मूवी कलेक्शन',
+        'फिल्म प्रमोशन', 'मूवी प्रमोशन', 'फिल्म इंटरव्यू', 'मूवी इंटरव्यू',
+        'रिलीज डेट', 'फिल्म रिलीज डेट', 'मूवी रिलीज डेट',
+        # Industry-specific terms (only when clearly about movies)
+        'bollywood movie', 'hollywood movie', 'tollywood movie', 'kollywood movie',
+        'बॉलीवुड फिल्म', 'हॉलीवुड फिल्म',
+        # Movie-specific terms
+        'sequel', 'prequel', 'remake', 'reboot', 'blockbuster movie', 'hit movie',
+        'ब्लॉकबस्टर फिल्म', 'हिट फिल्म', 'सुपरहिट फिल्म'
+    ]
+    
+    # Check for strong movie phrases
+    for phrase in strong_movie_phrases:
+        if phrase in text:
+            has_strong_movie_context = True
+            break
+    
+    # Pattern: "[Place/Name] movie" or "[Place/Name] film" (e.g., "Chhattisgarh movie")
+    import re
+    place_movie_patterns = [
+        r'\w+\s+movie',  # e.g., "chhattisgarh movie", "new movie"
+        r'\w+\s+film',   # e.g., "bollywood film"
+        r'मूवी',         # Hindi "movie"
+        r'फिल्म'         # Hindi "film"
+    ]
+    
+    for pattern in place_movie_patterns:
+        if re.search(pattern, text):
+            # Make sure it's not just a casual mention
+            # Check if it's part of a movie-related phrase
+            if any(movie_word in text for movie_word in ['movie', 'film', 'फिल्म', 'मूवी', 'trailer', 'ट्रेलर', 'release', 'रिलीज']):
+                has_strong_movie_context = True
+                break
+    
+    # If we have strong movie context, return True
+    if has_strong_movie_context:
+        # Double-check: exclude if it's clearly about something else
+        for exclusion in exclusion_keywords:
+            if exclusion in text:
+                # Only exclude if there's no movie-specific context
+                if not any(movie_word in text for movie_word in ['trailer', 'teaser', 'release', 'ट्रेलर', 'रिलीज', 'फिल्म', 'मूवी']):
+                    return False
+        return True
     
     return False
 
