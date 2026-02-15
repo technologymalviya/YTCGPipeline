@@ -734,6 +734,116 @@ def is_movie_related_video(video: Dict[str, Any]) -> bool:
     return False
 
 
+def is_festival_related_video(video: Dict[str, Any]) -> bool:
+    """
+    Check if a video is related to festivals (religious, cultural, regional).
+    
+    Identifies videos about:
+    - Festival celebrations (Diwali, Holi, Eid, Christmas, Dussehra, Navratri, etc.)
+    - Festival preparations, decorations, events
+    - Festival-related news and updates
+    - Regional and cultural festivals
+    """
+    title = video.get('title', '').lower()
+    description = video.get('description', '').lower()
+    text = f"{title} {description}"
+    
+    # Exclusion keywords - if these appear without festival context, exclude
+    exclusion_keywords = [
+        'accident', 'crime', 'murder', 'traffic', 'exam', 'recruitment',
+        'job', 'government policy', 'movie trailer', 'film release'
+    ]
+    
+    # Strong festival indicators (specific festival names)
+    specific_festival_keywords = [
+        # Major festivals (English)
+        'diwali', 'deepavali', 'holi', 'eid', 'eid-ul-fitr', 'eid-ul-adha',
+        'christmas', 'dussehra', 'navratri',
+        'durga puja', 'ram navami', 'janmashtami', 'krishna janmashtami',
+        'ganesh chaturthi', 'ganpati', 'raksha bandhan', 'rakhi',
+        'karva chauth', 'karwa chauth', 'bhai dooj', 'bhai phota',
+        'onam', 'pongal', 'baisakhi', 'vaisakhi', 'lohri',
+        'makara sankranti', 'sankranti', 'ugadi', 'gudi padwa',
+        'mahashivratri', 'shivratri', 'ramzan', 'ramadan',
+        'easter', 'good friday', 'new year', 'republic day', 'independence day',
+        'chhath puja', 'chhath', 'teej', 'gangaur',
+        'basant panchami', 'saraswati puja', 'guru nanak jayanti', 'gurpurab',
+        # Hindi festival names
+        'दिवाली', 'दीपावली', 'होली', 'ईद', 'ईद-उल-फित्र', 'ईद-उल-अज़हा',
+        'क्रिसमस', 'दशहरा', 'दुर्गा पूजा', 'नवरात्रि', 'राम नवमी',
+        'जन्माष्टमी', 'कृष्ण जन्माष्टमी', 'गणेश चतुर्थी', 'गणपति',
+        'रक्षा बंधन', 'राखी', 'करवा चौथ', 'भाई दूज', 'भाई फोटा',
+        'ओणम', 'पोंगल', 'बैसाखी', 'वैसाखी', 'लोहड़ी',
+        'मकर संक्रांति', 'संक्रांति', 'उगादि', 'गुड़ी पड़वा',
+        'महाशिवरात्रि', 'शिवरात्रि', 'रमजान', 'रमदान',
+        'छठ पूजा', 'छठ', 'तीज', 'गणगौर',
+        'बसंत पंचमी', 'सरस्वती पूजा', 'गुरु नानक जयंती', 'गुरुपर्व'
+    ]
+    
+    # Festival-related activity terms (must be combined with festival context)
+    festival_activity_keywords = [
+        'festival celebration', 'festival preparation',
+        'festival decoration', 'festival event', 'festival news',
+        'festival update', 'festival special', 'festival wishes',
+        'festival greeting', 'festival message',
+        'त्योहार समारोह', 'त्योहार तैयारी',
+        'त्योहार सजावट', 'त्योहार कार्यक्रम', 'त्योहार समाचार',
+        'त्योहार अपडेट', 'त्योहार विशेष', 'त्योहार शुभकामनाएं',
+        'त्योहार बधाई', 'त्योहार संदेश'
+    ]
+    
+    # Festival activities
+    festival_activity_terms = [
+        'puja', 'aarti', 'prayer', 'worship', 'celebration',
+        'decoration', 'rangoli', 'diya', 'lamp', 'candle',
+        'fireworks', 'crackers', 'sweets', 'sweet', 'mithai',
+        'पूजा', 'आरती', 'प्रार्थना', 'समारोह',
+        'सजावट', 'रंगोली', 'दीया', 'दीप', 'मोमबत्ती',
+        'आतिशबाजी', 'पटाखे', 'मिठाई'
+    ]
+    
+    # Check for specific festival names first (strongest indicator)
+    has_specific_festival = False
+    for keyword in specific_festival_keywords:
+        if keyword in text:
+            has_specific_festival = True
+            break
+    
+    # Check for festival activity phrases
+    has_festival_activity = False
+    for keyword in festival_activity_keywords:
+        if keyword in text:
+            has_festival_activity = True
+            break
+    
+    # Check for standalone "festival" word (but exclude building/road names)
+    has_festival_word = 'festival' in text or 'त्योहार' in text
+    # Exclude if it's likely a building/road name (followed by hall, road, street, etc.)
+    if has_festival_word:
+        import re
+        # Pattern: "festival" followed by hall/road/street/building (not a real festival)
+        if re.search(r'festival\s+(hall|road|street|building|complex|center|centre)', text):
+            has_festival_word = False
+        # Also check if it's combined with activity terms
+        if has_festival_word and any(activity in text for activity in festival_activity_terms):
+            has_festival_activity = True
+    
+    # Check if we have festival context
+    has_festival_context = has_specific_festival or has_festival_activity or (has_festival_word and any(activity in text for activity in festival_activity_terms))
+    
+    # If we have festival context, return True (unless it's clearly excluded)
+    if has_festival_context:
+        # Double-check: exclude if it's clearly about something else
+        for exclusion in exclusion_keywords:
+            if exclusion in text:
+                # Only exclude if there's no festival-specific context
+                if not any(fest_word in text for fest_word in ['festival', 'त्योहार', 'celebration', 'समारोह', 'puja', 'पूजा']):
+                    return False
+        return True
+    
+    return False
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
@@ -742,6 +852,7 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     with 4+ similar videos. Also creates dedicated clusters for:
     - Public Sector Exam (PSE)
     - Movie (upcoming movies, releases, trailers)
+    - Festival (festival celebrations, preparations, events)
     """
     if cache['clusters'] and cache['data'] == data:
         logger.debug("Returning cached clusters")
@@ -763,9 +874,10 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     
     logger.info(f"Processing {len(all_videos)} total videos for content-based clustering")
     
-    # Separate PSE, Movie, and other videos
+    # Separate PSE, Movie, Festival, and other videos
     pse_videos = []
     movie_videos = []
+    festival_videos = []
     other_videos = []
     
     for video in all_videos:
@@ -773,10 +885,12 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
             pse_videos.append(video)
         elif is_movie_related_video(video):
             movie_videos.append(video)
+        elif is_festival_related_video(video):
+            festival_videos.append(video)
         else:
             other_videos.append(video)
     
-    logger.info(f"Found {len(pse_videos)} PSE-related videos, {len(movie_videos)} Movie-related videos, {len(other_videos)} other videos")
+    logger.info(f"Found {len(pse_videos)} PSE-related videos, {len(movie_videos)} Movie-related videos, {len(festival_videos)} Festival-related videos, {len(other_videos)} other videos")
     
     # Create PSE cluster if there are any PSE videos (no minimum size requirement)
     if pse_videos:
@@ -878,6 +992,56 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(movie_cluster)
         logger.info(f"Created Movie cluster with {len(movie_videos)} videos")
     
+    # Create Festival cluster if there are any festival videos (no minimum size requirement)
+    if festival_videos:
+        # Sort festival videos by views to get top ones
+        festival_videos_sorted = sorted(festival_videos, key=lambda v: v.get('views', 0), reverse=True)
+        
+        # Calculate trend score for Festival cluster
+        dummy_section = {'section': 'Festival'}
+        trend_score = calculate_trend_score(dummy_section, festival_videos)
+        
+        # Find latest update time
+        latest_update = None
+        for item in festival_videos:
+            published_at = item.get('publishedAt')
+            if published_at:
+                try:
+                    pub_date = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+                    if not latest_update or pub_date > latest_update:
+                        latest_update = pub_date
+                except (ValueError, AttributeError):
+                    pass
+        
+        latest_update_str = latest_update.isoformat().replace('+00:00', 'Z') if latest_update else None
+        
+        # Calculate derived metrics
+        total_views = sum(v.get('views', 0) for v in festival_videos)
+        total_likes = sum(v.get('likes', 0) for v in festival_videos)
+        engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
+        trending_velocity = round(total_views / len(festival_videos), 1) if festival_videos else 0
+        
+        # Determine most common genre from festival videos
+        genres = [v.get('genre', 'General') for v in festival_videos]
+        most_common_genre = max(set(genres), key=genres.count) if genres else 'General'
+        
+        festival_cluster = {
+            'clusterId': 'festival',
+            'topic': 'Festival',
+            'originalCategory': most_common_genre,
+            'videoCount': len(festival_videos),
+            'trendScore': trend_score,
+            'latestUpdateAt': latest_update_str,
+            'totalViews': total_views,
+            'totalLikes': total_likes,
+            'engagementRate': engagement_rate,
+            'trendingVelocity': trending_velocity,
+            'videos': festival_videos  # Include full video data
+        }
+        
+        clusters.append(festival_cluster)
+        logger.info(f"Created Festival cluster with {len(festival_videos)} videos")
+    
     # Group similar videos from other videos (only clusters with 4+ videos)
     video_clusters = group_similar_videos(other_videos, similarity_threshold=0.3, min_cluster_size=4)
     
@@ -945,9 +1109,10 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     
     pse_count = len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])
     movie_count = len([c for c in clusters if c.get('clusterId') == 'movie'])
-    content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie']])
+    festival_count = len([c for c in clusters if c.get('clusterId') == 'festival'])
+    content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie', 'festival']])
     
-    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {content_count} content-based clusters)")
+    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {festival_count} Festival + {content_count} content-based clusters)")
     return clusters
 
 
