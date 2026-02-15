@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-15T20:40:48.202885Z",
+  "generatedAt": "2026-02-15T22:41:05.883727Z",
   "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "pakistan-match",
       "topic": "Pakistan Match",
       "videoCount": 34,
-      "trendScore": 61.0,
+      "trendScore": 60.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6nxRXBMdCT8/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 18551,
+          "views": 18642,
           "likes": 73,
           "videoType": "LIVE",
           "genre": "Live"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JwILEcyY32M/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 7172,
+          "views": 7226,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Events"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ekjI8CzvUMc/hqdefault.jpg",
           "durationSeconds": 543,
           "durationFormatted": "09:03",
-          "views": 5184,
-          "likes": 38,
+          "views": 5246,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/piwjTkiHAes/hqdefault.jpg",
           "durationSeconds": 646,
           "durationFormatted": "10:46",
-          "views": 3515,
-          "likes": 22,
+          "views": 4335,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/upnDNy_qIpc/hqdefault.jpg",
           "durationSeconds": 488,
           "durationFormatted": "08:08",
-          "views": 3483,
-          "likes": 8,
+          "views": 3708,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-02-15T18:18:51Z"
+      "latestUpdateAt": "2026-02-15T21:51:57Z"
     },
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 71,
-      "trendScore": 60.7,
+      "trendScore": 59.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z3clCRDcjhA/hqdefault.jpg",
           "durationSeconds": 1631,
           "durationFormatted": "27:11",
-          "views": 34862,
+          "views": 34887,
           "likes": 321,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LbulgHtsAxU/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 17401,
-          "likes": 90,
+          "views": 18457,
+          "likes": 93,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D75X3-EFoXI/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 5153,
+          "views": 5206,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ShlDNDD7-Xc/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 2267,
-          "likes": 78,
+          "views": 2368,
+          "likes": 79,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,22 +162,37 @@
           "thumbnail": "https://i.ytimg.com/vi/mXDIz0b622Q/hqdefault.jpg",
           "durationSeconds": 19,
           "durationFormatted": "00:19",
-          "views": 2207,
-          "likes": 9,
+          "views": 2303,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-02-15T19:48:21Z"
+      "latestUpdateAt": "2026-02-15T21:14:54Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 48,
-      "trendScore": 57.8,
+      "videoCount": 49,
+      "trendScore": 57.7,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "SFH6nh8J_04",
+          "title": "Har Har Mahadev: महाशिवरात्रि के मौके पर बाबा महाकाल की विशेष पूजा-अर्चना",
+          "description": "आज महाशिवरात्रि के पावन अवसर पर देशभर के मंदिरों में आस्था का ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-15T04:42:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/SFH6nh8J_04/hqdefault.jpg",
+          "durationSeconds": 143,
+          "durationFormatted": "02:23",
+          "views": 9983,
+          "likes": 105,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "4n4d6YSrUmE",
           "title": "🔴Mahashivratri 2026 LIVE: शिवालयों में लगा भक्तों का तांता! Har Har Mahadev",
           "description": "IBC24, Mahashivratri 2026 LIVE: शिवालयों में लगा भक्तों का तांता! Har Har Mahadev ...",
@@ -186,13 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/4n4d6YSrUmE/hqdefault.jpg",
           "durationSeconds": 42898,
           "durationFormatted": "11:54:58",
-          "views": 2839,
+          "views": 2879,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
+          "index": 3,
           "videoId": "Eti-Xzr3bL8",
           "title": "🔴Mahashivratri 2026 LIVE: महाशिवरात्रि के महापर्व |Chhattisgarh के शिव मंदिर म श्रद्धालु मन के भीड़",
           "description": "IBC24, Mahashivratri 2026 LIVE: महाशिवरात्रि के महापर्व |Chhattisgarh के शिव मंदिर म ...",
@@ -201,13 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Eti-Xzr3bL8/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 1900,
+          "views": 1929,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "gWcPAqvA9tQ",
           "title": "Ind vs Pak मुकाबले पर Shivraj Singh Chouhan ने कही बड़ी बात",
           "description": "महाशिवरात्रि के अवसर पर शिवराज सिंह चौहान ने भारत-पाक मुकाबले को ...",
@@ -216,23 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gWcPAqvA9tQ/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 1752,
+          "views": 1755,
           "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "wtqKYh49rPg",
-          "title": "महाशिवरात्रि पर सुदर्शन पटनायक का कमाल, रुद्राक्षों से उकेरी महादेव की मूरत#MahaShivratri2026",
-          "description": "मशहूर रेत कलाकार सुदर्शन पटनायक ने महाशिवरात्रि पर अपनी कला से ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-15T05:26:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/wtqKYh49rPg/hqdefault.jpg",
-          "durationSeconds": 27,
-          "durationFormatted": "00:27",
-          "views": 1111,
-          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pfWww6OTawA/hqdefault.jpg",
           "durationSeconds": 360,
           "durationFormatted": "06:00",
-          "views": 1099,
+          "views": 1238,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 33.1,
+      "trendScore": 32.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Sou4iRI_isY/hqdefault.jpg",
           "durationSeconds": 1554,
           "durationFormatted": "25:54",
-          "views": 16481,
+          "views": 16521,
           "likes": 220,
           "videoType": "VOD",
           "genre": "General"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bHDMUz_EmIY/hqdefault.jpg",
           "durationSeconds": 929,
           "durationFormatted": "15:29",
-          "views": 2406,
+          "views": 2444,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DNsoShhrCSs/hqdefault.jpg",
           "durationSeconds": 609,
           "durationFormatted": "10:09",
-          "views": 430,
+          "views": 478,
           "likes": 26,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lCa_HA3JqQY/hqdefault.jpg",
           "durationSeconds": 551,
           "durationFormatted": "09:11",
-          "views": 154,
+          "views": 153,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "रजनदगव-नरमद",
       "topic": "राजनांदगांव नर्मदा",
       "videoCount": 8,
-      "trendScore": 29.4,
+      "trendScore": 28.4,
       "topVideos": [
         {
           "index": 1,
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7fgWp9GYBH4/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 19,
+          "views": 23,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1MgqSncxw0I/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 18,
+          "views": 21,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
