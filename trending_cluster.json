@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-16T20:47:30.330507Z",
+  "generatedAt": "2026-02-16T22:47:18.931161Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 75,
-      "trendScore": 61.4,
+      "videoCount": 74,
+      "trendScore": 60.4,
       "topVideos": [
         {
           "index": 1,
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/B9v8MTAn9Xo/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 16995,
-          "likes": 108,
+          "views": 17553,
+          "likes": 111,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/30_2h00Y5ko/hqdefault.jpg",
           "durationSeconds": 277,
           "durationFormatted": "04:37",
-          "views": 11052,
+          "views": 11234,
           "likes": 68,
           "videoType": "VOD",
           "genre": "Events"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ehH5OGgPNJo/hqdefault.jpg",
           "durationSeconds": 565,
           "durationFormatted": "09:25",
-          "views": 3976,
-          "likes": 24,
+          "views": 5875,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WI0BqKyEv3Q/hqdefault.jpg",
           "durationSeconds": 14405,
           "durationFormatted": "04:00:05",
-          "views": 3787,
+          "views": 3805,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -90,7 +90,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 15,
-      "trendScore": 42.4,
+      "trendScore": 41.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,43 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/zlHDmhnUArU/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 1292,
+          "views": 1386,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "4sgGjsAoDco",
-          "title": "Baba Ki Baarat organised by Daya Sing,BJP Leader,bhilai,Mahashivratri#shortsfeed#news#mahashivratri",
-          "description": "Baba Ki Baarat organised by Daya Sing,BJP Leader,bhilai,Mahashivratri#shortsfeed#news#mahashivratri.",
-          "channelTitle": "Awaaz Hind 24",
-          "publishedAt": "2026-02-16T13:20:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/4sgGjsAoDco/hqdefault.jpg",
-          "durationSeconds": 78,
-          "durationFormatted": "01:18",
-          "views": 373,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "A2zHB4-rEao",
-          "title": "Mahashivratri में Baba ki Baraat ne बनाया नया Record । India की सबसे बड़ी बारात । Daya Singh Bhilai ",
-          "description": "Mahashivratri में Baba ki Baraat ne बनाया नया Record । India की सबसे बड़ी बारात । Daya Singh ...",
-          "channelTitle": "N24news",
-          "publishedAt": "2026-02-16T13:01:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/A2zHB4-rEao/hqdefault.jpg",
-          "durationSeconds": 1018,
-          "durationFormatted": "16:58",
-          "views": 317,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "z5COdIInPYU",
           "title": "Jai Mahakal Sewa Samiti organised Baba Ki Baarat, Mahashivratri At Bhilai, Chhattisgarh#shortsfeed",
           "description": "Jai Mahakal Sewa Samiti organised Baba Ki Baarat, Mahashivratri At Bhilai, Chhattisgarh#shortsfeed l#news#mahashivratri.",
@@ -147,8 +117,38 @@
           "thumbnail": "https://i.ytimg.com/vi/z5COdIInPYU/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 285,
-          "likes": 5,
+          "views": 588,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "4sgGjsAoDco",
+          "title": "Baba Ki Baarat organised by Daya Sing,BJP Leader,bhilai,Mahashivratri#shortsfeed#news#mahashivratri",
+          "description": "Baba Ki Baarat organised by Daya Sing,BJP Leader,bhilai,Mahashivratri#shortsfeed#news#mahashivratri.",
+          "channelTitle": "Awaaz Hind 24",
+          "publishedAt": "2026-02-16T13:20:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/4sgGjsAoDco/hqdefault.jpg",
+          "durationSeconds": 78,
+          "durationFormatted": "01:18",
+          "views": 382,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "A2zHB4-rEao",
+          "title": "Mahashivratri में Baba ki Baraat ne बनाया नया Record । India की सबसे बड़ी बारात । Daya Singh Bhilai ",
+          "description": "Mahashivratri में Baba ki Baraat ne बनाया नया Record । India की सबसे बड़ी बारात । Daya Singh ...",
+          "channelTitle": "N24news",
+          "publishedAt": "2026-02-16T13:01:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/A2zHB4-rEao/hqdefault.jpg",
+          "durationSeconds": 1018,
+          "durationFormatted": "16:58",
+          "views": 306,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fzqx1KeURd0/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 204,
+          "views": 202,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "iran-america",
       "topic": "Iran America",
       "videoCount": 4,
-      "trendScore": 41.1,
+      "trendScore": 39.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ni7oT7dlnpA/hqdefault.jpg",
           "durationSeconds": 1229,
           "durationFormatted": "20:29",
-          "views": 19665,
-          "likes": 497,
+          "views": 24181,
+          "likes": 529,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kGegJnj0eAI/hqdefault.jpg",
           "durationSeconds": 639,
           "durationFormatted": "10:39",
-          "views": 4030,
-          "likes": 214,
+          "views": 8050,
+          "likes": 262,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tKBtou1GpFI/hqdefault.jpg",
           "durationSeconds": 600,
           "durationFormatted": "10:00",
-          "views": 3808,
-          "likes": 99,
+          "views": 4002,
+          "likes": 101,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MOBSZCy8Gpw/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 1827,
-          "likes": 21,
+          "views": 1941,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -242,8 +242,8 @@
     {
       "clusterId": "जजगर-चप",
       "topic": "जांजगीर चांपा",
-      "videoCount": 10,
-      "trendScore": 38.1,
+      "videoCount": 8,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -262,21 +262,6 @@
         },
         {
           "index": 2,
-          "videoId": "eKPF4v3o4gA",
-          "title": "जांजगीर-चांपा को चुनौतीपूर्ण जिला क्यों माना जाता है?",
-          "description": "जांजगीर-चांपा को चुनौतीपूर्ण जिला क्यों माना जाता है? #INHHaribhoomi ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-16T13:27:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/eKPF4v3o4gA/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 682,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "WsjWoF16JmU",
           "title": "जांजगीर-चांपा लोकसभा सीट कांग्रेस क्यों नहीं जीत पाई ?",
           "description": "जांजगीर-चांपा लोकसभा सीट कांग्रेस क्यों नहीं जीत पाई ? #INHHaribhoomi ...",
@@ -291,7 +276,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "9fgTR8-95I4",
           "title": "जांजगीर-चांपा में बीजेपी के साथ आखिर क्या हुआ था?",
           "description": "जांजगीर-चांपा में बीजेपी के साथ आखिर क्या हुआ था? #INHHaribhoomi #JilaSamvad2026 ...",
@@ -300,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/9fgTR8-95I4/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 596,
+          "views": 623,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "wYwGgwFgXY4",
           "title": "जांजगीर-चांपा में दो साल में कितना विकास हुआ ?",
           "description": "जांजगीर-चांपा में दो साल में कितना विकास हुआ ? #INHHaribhoomi #JilaSamvad2026 ...",
@@ -315,8 +300,23 @@
           "thumbnail": "https://i.ytimg.com/vi/wYwGgwFgXY4/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 537,
+          "views": 552,
           "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "uuUhQRq_m58",
+          "title": "अनुसूचित जाति विभाग में क्या काम हो रहा है?",
+          "description": "अनुसूचित जाति विभाग में क्या काम हो रहा है? #INHHaribhoomi #JilaSamvad2026 ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-16T16:50:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/uuUhQRq_m58/hqdefault.jpg",
+          "durationSeconds": 151,
+          "durationFormatted": "02:31",
+          "views": 35,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -324,13 +324,28 @@
       "latestUpdateAt": "2026-02-16T16:54:39Z"
     },
     {
-      "clusterId": "परकष-ind",
-      "topic": "परीक्षा IND",
+      "clusterId": "ind-pak",
+      "topic": "IND PAK",
       "videoCount": 13,
-      "trendScore": 35.1,
+      "trendScore": 34.0,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "VjHxERtey-M",
+          "title": "IND vs PAK भारत ने पाकिस्तान को 61 रन से हराया ,छत्तीसगढ़ में जश्न टी-20 वर्ल्डकप में भारत की जीत",
+          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-16T12:00:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/VjHxERtey-M/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
           "videoId": "imOo_0Pb8qs",
           "title": "जांजगीर:धान खरीदी में अव्यवस्था,किसानों ने बढ़ाई अपनी मांग कृषक चेतना मंच के किसानों ने जताई नाराजगी",
           "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
@@ -343,21 +358,6 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "VjHxERtey-M",
-          "title": "IND vs PAK भारत ने पाकिस्तान को 61 रन से हराया ,छत्तीसगढ़ में जश्न टी-20 वर्ल्डकप में भारत की जीत",
-          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-16T12:00:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/VjHxERtey-M/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 21,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
         },
         {
           "index": 3,
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4vFGeYx_-T8/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 9,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TIOAjycM3PQ/hqdefault.jpg",
           "durationSeconds": 480,
           "durationFormatted": "08:00",
-          "views": 8,
+          "views": 10,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -411,7 +411,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 5,
-      "trendScore": 34.5,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/t-G1I1tlGQA/hqdefault.jpg",
           "durationSeconds": 934,
           "durationFormatted": "15:34",
-          "views": 6528,
+          "views": 6529,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bXwRkIYvQ1g/hqdefault.jpg",
           "durationSeconds": 607,
           "durationFormatted": "10:07",
-          "views": 365,
-          "likes": 27,
+          "views": 367,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HaY4UAMa4_I/hqdefault.jpg",
           "durationSeconds": 567,
           "durationFormatted": "09:27",
-          "views": 140,
+          "views": 186,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YlWPSytfxP0/hqdefault.jpg",
           "durationSeconds": 539,
           "durationFormatted": "08:59",
-          "views": 98,
+          "views": 105,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -495,7 +495,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 6,
-      "trendScore": 33.9,
+      "trendScore": 32.9,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bzCe2Bo8aFg/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 5038,
+          "views": 5116,
           "likes": 18,
           "videoType": "VOD",
           "genre": "Events"
@@ -537,13 +537,28 @@
           "thumbnail": "https://i.ytimg.com/vi/YnsA8m4hyVg/hqdefault.jpg",
           "durationSeconds": 909,
           "durationFormatted": "15:09",
-          "views": 242,
+          "views": 293,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "5VYu7Vhow3Q",
+          "title": "Iran US Tensions Update : &#39;कोम&#39; से खलीफा का ऐलान-ए-जंग ! | Latest News | Hindi News | Zee MPCG",
+          "description": "Iran US Tensions Update : 'कोम' से खलीफा का ऐलान-ए-जंग ! | Latest News | Hindi News | Zee MPCG Tarkash ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-16T16:00:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/5VYu7Vhow3Q/hqdefault.jpg",
+          "durationSeconds": 170,
+          "durationFormatted": "02:50",
+          "views": 99,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "1XgR0Aol3Eg",
           "title": "MP Budget : बजट सत्र का पहला दिन.. हंगामेदार शुरुआत | Latest News | Hindi News | Zee MPCG",
           "description": "MP Budget : बजट सत्र का पहला दिन.. हंगामेदार शुरुआत | Latest News | Hindi News | Zee MPCG ...",
@@ -552,25 +567,10 @@
           "thumbnail": "https://i.ytimg.com/vi/1XgR0Aol3Eg/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 45,
+          "views": 49,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "5EV_MY7U53U",
-          "title": "Anti Terrorism Operation : आतंकी टोली.. सेना मारेगी गोली ! | Latest News | Hindi News | Zee MPCG",
-          "description": "Anti Terrorism Operation : आतंकी टोली.. सेना मारेगी गोली ! | Latest News | Hindi News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-16T14:00:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/5EV_MY7U53U/hqdefault.jpg",
-          "durationSeconds": 248,
-          "durationFormatted": "04:08",
-          "views": 43,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-02-16T17:00:25Z"
@@ -579,7 +579,7 @@
       "clusterId": "naxal-naxalites",
       "topic": "Naxal Naxalites",
       "videoCount": 4,
-      "trendScore": 32.2,
+      "trendScore": 31.3,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +591,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jJpOgfqk18Q/hqdefault.jpg",
           "durationSeconds": 26,
           "durationFormatted": "00:26",
-          "views": 3295,
-          "likes": 33,
+          "views": 3390,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/X0yzMUyWx0U/hqdefault.jpg",
           "durationSeconds": 489,
           "durationFormatted": "08:09",
-          "views": 432,
+          "views": 530,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
@@ -648,25 +648,10 @@
       "clusterId": "bhaskar-mla",
       "topic": "Bhaskar MLA",
       "videoCount": 5,
-      "trendScore": 31.8,
+      "trendScore": 31.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "srt2wN2Ze4k",
-          "title": "अब 1 ₹ में सोनोग्राफी ; MLA रिकेश की पहल | CG Bhaskar",
-          "description": "अब 1 ₹ में सोनोग्राफी ; MLA रिकेश की पहल | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-16T06:14:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/srt2wN2Ze4k/hqdefault.jpg",
-          "durationSeconds": 154,
-          "durationFormatted": "02:34",
-          "views": 544,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "n13G3pL1_wg",
           "title": "पाक पर जीत का जश्न | CG Bhaskar",
           "description": "पाक पर जीत का जश्न | CG Bhaskar Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx ...",
@@ -675,10 +660,25 @@
           "thumbnail": "https://i.ytimg.com/vi/n13G3pL1_wg/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 531,
+          "views": 562,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "srt2wN2Ze4k",
+          "title": "अब 1 ₹ में सोनोग्राफी ; MLA रिकेश की पहल | CG Bhaskar",
+          "description": "अब 1 ₹ में सोनोग्राफी ; MLA रिकेश की पहल | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-16T06:14:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/srt2wN2Ze4k/hqdefault.jpg",
+          "durationSeconds": 154,
+          "durationFormatted": "02:34",
+          "views": 554,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eDfGnE7fBDQ/hqdefault.jpg",
           "durationSeconds": 156,
           "durationFormatted": "02:36",
-          "views": 480,
+          "views": 494,
           "likes": 20,
           "videoType": "VOD",
           "genre": "Crime"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/U5Vfs9F_a_0/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 284,
+          "views": 319,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rQyliti-sqQ/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 193,
+          "views": 196,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -732,7 +732,7 @@
       "clusterId": "rajnandgaon-ललपर",
       "topic": "Rajnandgaon लालपुर",
       "videoCount": 4,
-      "trendScore": 29.7,
+      "trendScore": 28.8,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/a05XTj-8TR4/hqdefault.jpg",
           "durationSeconds": 678,
           "durationFormatted": "11:18",
-          "views": 450,
+          "views": 475,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -801,7 +801,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 26.2,
+      "trendScore": 25.2,
       "topVideos": [
         {
           "index": 1,
@@ -813,7 +813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fKalhdLlKI4/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 565,
+          "views": 610,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
