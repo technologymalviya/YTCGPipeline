@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-17T20:54:19.728311Z",
-  "clusterCount": 11,
+  "generatedAt": "2026-02-17T22:54:19.160471Z",
+  "clusterCount": 12,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 79,
-      "trendScore": 62.7,
+      "trendScore": 61.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vDc-m8W4VsI/hqdefault.jpg",
           "durationSeconds": 480,
           "durationFormatted": "08:00",
-          "views": 33606,
-          "likes": 257,
+          "views": 33716,
+          "likes": 258,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HS26htQKU8E/hqdefault.jpg",
           "durationSeconds": 1639,
           "durationFormatted": "27:19",
-          "views": 26181,
+          "views": 26185,
           "likes": 296,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1HbT5EFbnLI/hqdefault.jpg",
           "durationSeconds": 531,
           "durationFormatted": "08:51",
-          "views": 19746,
+          "views": 19974,
           "likes": 114,
           "videoType": "VOD",
           "genre": "Events"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5caimxvKLQM/hqdefault.jpg",
           "durationSeconds": 706,
           "durationFormatted": "11:46",
-          "views": 16750,
-          "likes": 391,
+          "views": 17824,
+          "likes": 401,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -87,10 +87,94 @@
       "latestUpdateAt": "2026-02-17T20:22:51Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 13,
+      "trendScore": 43.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "qMZlTuzfByA",
+          "title": "Pakistan Political Crisis : इमरान खान के साथ जेल में ज्यादती | Latest News | Hindi News | Zee MPCG",
+          "description": "Pakistan Political Crisis : इमरान खान के साथ जेल में ज्यादती | Latest News | Hindi News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-17T14:30:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/qMZlTuzfByA/hqdefault.jpg",
+          "durationSeconds": 146,
+          "durationFormatted": "02:26",
+          "views": 16281,
+          "likes": 128,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "a55yYUwImVw",
+          "title": "Yadav Ji Ki Love Story Controversy : पंडत Vs यादव लव स्टोरी पर नया बवाल ! | Latest News | Zee MPCG",
+          "description": "Yadav Ji Ki Love Story Controversy : पंडत Vs यादव लव स्टोरी पर नया बवाल ! | Latest News | Hindi News ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-17T13:45:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/a55yYUwImVw/hqdefault.jpg",
+          "durationSeconds": 161,
+          "durationFormatted": "02:41",
+          "views": 4392,
+          "likes": 50,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "vnAEGBS1Wvg",
+          "title": "Shorts : कटनी में नशे पर बड़ी कार्रवाई: रेलवे स्टेशन से 16 किलो गांजा बरामद | Zee MPCG",
+          "description": "Shorts : कटनी में नशे पर बड़ी कार्रवाई: रेलवे स्टेशन से 16 किलो गांजा ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-17T14:13:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/vnAEGBS1Wvg/hqdefault.jpg",
+          "durationSeconds": 42,
+          "durationFormatted": "00:42",
+          "views": 897,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "iTGcEPTHhOY",
+          "title": "Meerut Pakistan Connection : पाकिस्तानी महिला की खुली पोल.. | Latest News | Hindi News | Zee MPCG",
+          "description": "Meerut Pakistan Connection : पाकिस्तानी महिला की खुली पोल.. | Latest News | Hindi News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-17T14:01:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/iTGcEPTHhOY/hqdefault.jpg",
+          "durationSeconds": 189,
+          "durationFormatted": "03:09",
+          "views": 773,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "NQ-k7MNP8cI",
+          "title": "🔴LIVE : MP - CG : दिल्ली- रील बनाना युवती को पड़ा भारी | Breaking  | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : दिल्ली- रील बनाना युवती को पड़ा भारी | Breaking | Latest News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-17T16:57:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/NQ-k7MNP8cI/hqdefault.jpg",
+          "durationSeconds": 871,
+          "durationFormatted": "14:31",
+          "views": 555,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-02-17T18:30:08Z"
+    },
+    {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
-      "videoCount": 27,
-      "trendScore": 61.0,
+      "videoCount": 13,
+      "trendScore": 43.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/928bbR4t1oI/hqdefault.jpg",
           "durationSeconds": 1553,
           "durationFormatted": "25:53",
-          "views": 32084,
-          "likes": 335,
+          "views": 32144,
+          "likes": 337,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "qMZlTuzfByA",
-          "title": "Pakistan Political Crisis : इमरान खान के साथ जेल में ज्यादती | Latest News | Hindi News | Zee MPCG",
-          "description": "Pakistan Political Crisis : इमरान खान के साथ जेल में ज्यादती | Latest News | Hindi News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-17T14:30:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/qMZlTuzfByA/hqdefault.jpg",
-          "durationSeconds": 146,
-          "durationFormatted": "02:26",
-          "views": 16149,
-          "likes": 127,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "3sP8-rXu6-U",
           "title": "18 February 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
           "description": "17 February 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today ...",
@@ -132,13 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/3sP8-rXu6-U/hqdefault.jpg",
           "durationSeconds": 929,
           "durationFormatted": "15:29",
-          "views": 7279,
+          "views": 7306,
           "likes": 66,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "vFbPMYtm5Js",
           "title": "17 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "17 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
@@ -147,13 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/vFbPMYtm5Js/hqdefault.jpg",
           "durationSeconds": 1076,
           "durationFormatted": "17:56",
-          "views": 6528,
+          "views": 6516,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "JW4QShOsntY",
           "title": "18 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "17 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
@@ -162,19 +231,34 @@
           "thumbnail": "https://i.ytimg.com/vi/JW4QShOsntY/hqdefault.jpg",
           "durationSeconds": 956,
           "durationFormatted": "15:56",
-          "views": 6178,
-          "likes": 40,
+          "views": 6227,
+          "likes": 41,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "YtOe_bMtPNM",
+          "title": "18 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "17 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
+          "channelTitle": "Chhattisgarh News Hindi ",
+          "publishedAt": "2026-02-17T13:30:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/YtOe_bMtPNM/hqdefault.jpg",
+          "durationSeconds": 1121,
+          "durationFormatted": "18:41",
+          "views": 2506,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-17T18:30:08Z"
+      "latestUpdateAt": "2026-02-17T17:47:46Z"
     },
     {
       "clusterId": "पलस-दरग",
       "topic": "पुलिस दुर्ग",
       "videoCount": 17,
-      "trendScore": 39.0,
+      "trendScore": 38.9,
       "topVideos": [
         {
           "index": 1,
@@ -193,6 +277,21 @@
         },
         {
           "index": 2,
+          "videoId": "uWJkVeZDkzM",
+          "title": "दुर्ग: महापौर ने शुरू किया पुलिस लाइन मार्ग डामरीकरण, जर्जर सड़क को मिलेगा नया रूप",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-17T13:53:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/uWJkVeZDkzM/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 51,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "OPhre1mH3HA",
           "title": "अभनपुर: जमीन बेचने का फर्जी मामला , पीड़िता ने पुलिस से की शिकायत",
           "description": "chhattisgarhnews #madhyapradehnews #abhanpur .",
@@ -205,21 +304,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
-        },
-        {
-          "index": 3,
-          "videoId": "uWJkVeZDkzM",
-          "title": "दुर्ग: महापौर ने शुरू किया पुलिस लाइन मार्ग डामरीकरण, जर्जर सड़क को मिलेगा नया रूप",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-17T13:53:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/uWJkVeZDkzM/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 44,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         },
         {
           "index": 4,
@@ -238,15 +322,15 @@
         },
         {
           "index": 5,
-          "videoId": "EqJSqvpHoEM",
-          "title": "मोहला मानपुर: 24 घंटे में सुलझा H.त्याकांड , निलेश कुमार यादव गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #mohlamanpurchowki .",
+          "videoId": "ko92FKDjraE",
+          "title": "सुकमा: शहीद आरक्षक के परिवार को 1 करोड़ की बीमा राशि ,पुलिस सैलरी पैकेज से मिली मदद",
+          "description": "chhattisgarhnews #madhyapradehnews #sukma .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-17T08:07:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/EqJSqvpHoEM/hqdefault.jpg",
-          "durationSeconds": 48,
-          "durationFormatted": "00:48",
-          "views": 27,
+          "publishedAt": "2026-02-17T08:12:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/ko92FKDjraE/hqdefault.jpg",
+          "durationSeconds": 35,
+          "durationFormatted": "00:35",
+          "views": 22,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +342,7 @@
       "clusterId": "oath-ceremony",
       "topic": "Oath Ceremony",
       "videoCount": 4,
-      "trendScore": 36.9,
+      "trendScore": 35.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aNrCSumaU3s/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 16438,
+          "views": 16710,
           "likes": 136,
           "videoType": "VOD",
           "genre": "Events"
@@ -285,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/Ce0JPFt-DsY/hqdefault.jpg",
           "durationSeconds": 271,
           "durationFormatted": "04:31",
-          "views": 10813,
+          "views": 12770,
           "likes": 86,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "d5RQQc1_frw",
+          "title": "Bangladesh PM Oath Ceremony LIVE: तारिक रहमान का शपथ ग्रहण लाइव | Tarique Rahman Oath Ceremony | BNP",
+          "description": "Bangladesh PM Oath Ceremony LIVE: तारिक रहमान का शपथ ग्रहण लाइव | Tarique Rahman Oath ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-17T15:43:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/d5RQQc1_frw/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 3550,
+          "likes": 11,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 4,
           "videoId": "_0qSTOe6agU",
           "title": "Bangladesh PM Oath Ceremony LIVE: तारिक रहमान का शपथ ग्रहण लाइव | Tarique Rahman Oath Ceremony | BNP",
           "description": "Bangladesh PM Oath Ceremony LIVE: तारिक रहमान का शपथ ग्रहण लाइव | Tarique Rahman Oath ...",
@@ -300,25 +399,10 @@
           "thumbnail": "https://i.ytimg.com/vi/_0qSTOe6agU/hqdefault.jpg",
           "durationSeconds": 5030,
           "durationFormatted": "01:23:50",
-          "views": 2824,
+          "views": 2859,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "t-rwt9j9Kdk",
-          "title": "Bangladesh Election Result: 9 बजते ही बांग्लादेश में होगा इस्लामी राज? | Tarique Rahman New PM",
-          "description": "Bangladesh Election Result: 9 बजते ही बांग्लादेश में होगा इस्लामी राज? | Tarique Rahman ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-17T15:33:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/t-rwt9j9Kdk/hqdefault.jpg",
-          "durationSeconds": 170,
-          "durationFormatted": "02:50",
-          "views": 272,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-17T18:00:21Z"
@@ -327,7 +411,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 4,
-      "trendScore": 34.5,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zPMD0m5gzl0/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 3733,
-          "likes": 131,
+          "views": 4098,
+          "likes": 141,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yJVI4-6vZjw/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 3172,
+          "views": 3248,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AMhC_TuSmng/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 1292,
+          "views": 1277,
           "likes": 47,
           "videoType": "VOD",
           "genre": "Crime"
@@ -384,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5ec7vkoY3Pc/hqdefault.jpg",
           "durationSeconds": 268,
           "durationFormatted": "04:28",
-          "views": 44,
+          "views": 73,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -396,7 +480,7 @@
       "clusterId": "bhaskar-digvijay",
       "topic": "Bhaskar Digvijay",
       "videoCount": 6,
-      "trendScore": 34.3,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -408,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9cAQM4VVCeg/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 1004,
+          "views": 1054,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -423,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N8bD5zxoYHI/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 818,
+          "views": 842,
           "likes": 19,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -438,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Sq9CI6FCK20/hqdefault.jpg",
           "durationSeconds": 313,
           "durationFormatted": "05:13",
-          "views": 359,
+          "views": 400,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tCYPV66kwm4/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 313,
+          "views": 382,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/K0UXDQCh7U4/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 281,
+          "views": 282,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
@@ -480,7 +564,7 @@
       "clusterId": "world-cup",
       "topic": "World Cup",
       "videoCount": 4,
-      "trendScore": 34.1,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -492,8 +576,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IVWj-aJpJKc/hqdefault.jpg",
           "durationSeconds": 155,
           "durationFormatted": "02:35",
-          "views": 3718,
-          "likes": 56,
+          "views": 5507,
+          "likes": 63,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -507,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Mrp8LiSgC8E/hqdefault.jpg",
           "durationSeconds": 545,
           "durationFormatted": "09:05",
-          "views": 1365,
+          "views": 1513,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
@@ -522,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cnSjGdC0Tug/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 580,
+          "views": 1379,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -549,7 +633,7 @@
       "clusterId": "bhaskar-कय",
       "topic": "Bhaskar क्या",
       "videoCount": 4,
-      "trendScore": 33.9,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -561,7 +645,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Vs0zdO-1Vmo/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 952,
+          "views": 1056,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
@@ -576,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WJCtUgEcUW0/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 500,
+          "views": 523,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
@@ -591,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3HG2IzlbdVs/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 321,
+          "views": 369,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iXVirgLjlbE/hqdefault.jpg",
           "durationSeconds": 846,
           "durationFormatted": "14:06",
-          "views": 138,
+          "views": 143,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -618,7 +702,7 @@
       "clusterId": "raipur-रह",
       "topic": "Raipur रहा",
       "videoCount": 4,
-      "trendScore": 30.7,
+      "trendScore": 29.8,
       "topVideos": [
         {
           "index": 1,
@@ -645,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LBMggtMygjA/hqdefault.jpg",
           "durationSeconds": 209,
           "durationFormatted": "03:29",
-          "views": 87,
+          "views": 95,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -660,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/70mkGxoMklo/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 55,
+          "views": 62,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -687,7 +771,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 27.3,
+      "trendScore": 26.7,
       "topVideos": [
         {
           "index": 1,
@@ -699,7 +783,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2Q5KtBhQe-A/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 924,
+          "views": 1326,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -711,19 +795,19 @@
       "clusterId": "budget-session",
       "topic": "Budget Session",
       "videoCount": 5,
-      "trendScore": 26.9,
+      "trendScore": 26.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "XFzLJnk0ab4",
-          "title": "MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में लिपटे व्यंग के रंग",
-          "description": "IBC24, MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में ...",
+          "videoId": "6IW1oCbKnTA",
+          "title": "MP Budget Session 2026: बुधवार को पेश होगा MP का बजट। पहली बार बजट होगा पूरी तरह डिजिटल",
+          "description": "IBC24, MP Budget Session 2026: बुधवार को पेश होगा MP का बजट। पहली बार बजट होगा पूरी ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-02-17T16:58:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/XFzLJnk0ab4/hqdefault.jpg",
-          "durationSeconds": 230,
-          "durationFormatted": "03:50",
-          "views": 64,
+          "publishedAt": "2026-02-17T16:52:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/6IW1oCbKnTA/hqdefault.jpg",
+          "durationSeconds": 149,
+          "durationFormatted": "02:29",
+          "views": 92,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -738,22 +822,22 @@
           "thumbnail": "https://i.ytimg.com/vi/eWU7LeGILU4/hqdefault.jpg",
           "durationSeconds": 290,
           "durationFormatted": "04:50",
-          "views": 52,
+          "views": 72,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "6IW1oCbKnTA",
-          "title": "MP Budget Session 2026: बुधवार को पेश होगा MP का बजट। पहली बार बजट होगा पूरी तरह डिजिटल",
-          "description": "IBC24, MP Budget Session 2026: बुधवार को पेश होगा MP का बजट। पहली बार बजट होगा पूरी ...",
+          "videoId": "XFzLJnk0ab4",
+          "title": "MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में लिपटे व्यंग के रंग",
+          "description": "IBC24, MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-02-17T16:52:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/6IW1oCbKnTA/hqdefault.jpg",
-          "durationSeconds": 149,
-          "durationFormatted": "02:29",
-          "views": 38,
+          "publishedAt": "2026-02-17T16:58:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/XFzLJnk0ab4/hqdefault.jpg",
+          "durationSeconds": 230,
+          "durationFormatted": "03:50",
+          "views": 64,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -783,7 +867,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jlybGHT-DQ0/hqdefault.jpg",
           "durationSeconds": 1478,
           "durationFormatted": "24:38",
-          "views": 18,
+          "views": 20,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
