@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-17T19:13:19.880965Z",
-  "clusterCount": 12,
+  "generatedAt": "2026-02-17T20:54:19.728311Z",
+  "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 78,
-      "trendScore": 63.8,
+      "videoCount": 79,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vDc-m8W4VsI/hqdefault.jpg",
           "durationSeconds": 480,
           "durationFormatted": "08:00",
-          "views": 32499,
-          "likes": 256,
+          "views": 33606,
+          "likes": 257,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/HS26htQKU8E/hqdefault.jpg",
           "durationSeconds": 1639,
           "durationFormatted": "27:19",
-          "views": 26055,
+          "views": 26181,
           "likes": 296,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "5caimxvKLQM",
-          "title": "Biranpur Case Big Update | 17 आरोपी बरी | सभी नौकरी मांग रहे | Bemetara | Yashwant Sahu |",
-          "description": "Biranpur Case Big Update | 17 आरोपी बरी | सभी नौकरी मांग रहे | Bemetara | Yashwant Sahu | Report/Story: ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-02-17T15:30:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/5caimxvKLQM/hqdefault.jpg",
-          "durationSeconds": 706,
-          "durationFormatted": "11:46",
-          "views": 12214,
-          "likes": 378,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 4,
           "videoId": "1HbT5EFbnLI",
           "title": "AI Impact Summit 2026: AI से नौकरियों पर खतरे को लेकर क्या बोले PM Modi? | Top News",
           "description": "AI Impact Summit 2026: AI से नौकरियों पर खतरे को लेकर क्या बोले PM Modi? | Top News ...",
@@ -63,10 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/1HbT5EFbnLI/hqdefault.jpg",
           "durationSeconds": 531,
           "durationFormatted": "08:51",
-          "views": 10874,
-          "likes": 112,
+          "views": 19746,
+          "likes": 114,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "5caimxvKLQM",
+          "title": "Biranpur Case Big Update | 17 आरोपी बरी | सभी नौकरी मांग रहे | Bemetara | Yashwant Sahu |",
+          "description": "Biranpur Case Big Update | 17 आरोपी बरी | सभी नौकरी मांग रहे | Bemetara | Yashwant Sahu | Report/Story: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-02-17T15:30:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/5caimxvKLQM/hqdefault.jpg",
+          "durationSeconds": 706,
+          "durationFormatted": "11:46",
+          "views": 16750,
+          "likes": 391,
+          "videoType": "VOD",
+          "genre": "Jobs"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/JLQOkH1hhkM/hqdefault.jpg",
           "durationSeconds": 852,
           "durationFormatted": "14:12",
-          "views": 6817,
+          "views": 6851,
           "likes": 313,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-17T19:09:31Z"
+      "latestUpdateAt": "2026-02-17T20:22:51Z"
     },
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
       "videoCount": 27,
-      "trendScore": 61.8,
+      "trendScore": 61.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/928bbR4t1oI/hqdefault.jpg",
           "durationSeconds": 1553,
           "durationFormatted": "25:53",
-          "views": 31846,
-          "likes": 334,
+          "views": 32084,
+          "likes": 335,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qMZlTuzfByA/hqdefault.jpg",
           "durationSeconds": 146,
           "durationFormatted": "02:26",
-          "views": 15656,
-          "likes": 123,
+          "views": 16149,
+          "likes": 127,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3sP8-rXu6-U/hqdefault.jpg",
           "durationSeconds": 929,
           "durationFormatted": "15:29",
-          "views": 7253,
+          "views": 7279,
           "likes": 66,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vFbPMYtm5Js/hqdefault.jpg",
           "durationSeconds": 1076,
           "durationFormatted": "17:56",
-          "views": 6473,
+          "views": 6528,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JW4QShOsntY/hqdefault.jpg",
           "durationSeconds": 956,
           "durationFormatted": "15:56",
-          "views": 6177,
+          "views": 6178,
           "likes": 40,
           "videoType": "VOD",
           "genre": "General"
@@ -171,10 +171,10 @@
       "latestUpdateAt": "2026-02-17T18:30:08Z"
     },
     {
-      "clusterId": "पलस-सकम",
-      "topic": "पुलिस सुकमा",
+      "clusterId": "पलस-दरग",
+      "topic": "पुलिस दुर्ग",
       "videoCount": 17,
-      "trendScore": 39.9,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H1kxIZjqGrk/hqdefault.jpg",
           "durationSeconds": 190,
           "durationFormatted": "03:10",
-          "views": 53,
+          "views": 60,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -216,22 +216,22 @@
           "thumbnail": "https://i.ytimg.com/vi/uWJkVeZDkzM/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 40,
+          "views": 44,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "ko92FKDjraE",
-          "title": "सुकमा: शहीद आरक्षक के परिवार को 1 करोड़ की बीमा राशि ,पुलिस सैलरी पैकेज से मिली मदद",
-          "description": "chhattisgarhnews #madhyapradehnews #sukma .",
+          "videoId": "pIYVnkEQkZs",
+          "title": "दुर्ग पुलिस ने ऑनलाइन सत्ता मामले में 5 आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-17T08:12:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/ko92FKDjraE/hqdefault.jpg",
-          "durationSeconds": 35,
-          "durationFormatted": "00:35",
-          "views": 22,
+          "publishedAt": "2026-02-17T13:52:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/pIYVnkEQkZs/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EqJSqvpHoEM/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 21,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "oath-ceremony",
       "topic": "Oath Ceremony",
       "videoCount": 4,
-      "trendScore": 37.8,
+      "trendScore": 36.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aNrCSumaU3s/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 15107,
-          "likes": 137,
+          "views": 16438,
+          "likes": 136,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ce0JPFt-DsY/hqdefault.jpg",
           "durationSeconds": 271,
           "durationFormatted": "04:31",
-          "views": 6600,
-          "likes": 79,
+          "views": 10813,
+          "likes": 86,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_0qSTOe6agU/hqdefault.jpg",
           "durationSeconds": 5030,
           "durationFormatted": "01:23:50",
-          "views": 2787,
+          "views": 2824,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Events"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/t-rwt9j9Kdk/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 265,
+          "views": 272,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -327,25 +327,10 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 4,
-      "trendScore": 35.5,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "yJVI4-6vZjw",
-          "title": "महाशिवरात्रि के मेले में मुसलमानों ने लगाया दुकान तो हो गया विवाद..#mahashivratri2026 #mahashivratri",
-          "description": "महाशिवरात्रि के मेले में मुसलमानों ने लगाया दुकान तो हो गया विवाद.",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-02-17T02:00:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/yJVI4-6vZjw/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 3050,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "zPMD0m5gzl0",
           "title": "होली के दिन खुले रहेंगे शराब दुकानें",
           "description": "होली के दिन खुले रहेंगे शराब दुकानें.",
@@ -354,8 +339,23 @@
           "thumbnail": "https://i.ytimg.com/vi/zPMD0m5gzl0/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 2977,
-          "likes": 125,
+          "views": 3733,
+          "likes": 131,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "yJVI4-6vZjw",
+          "title": "महाशिवरात्रि के मेले में मुसलमानों ने लगाया दुकान तो हो गया विवाद..#mahashivratri2026 #mahashivratri",
+          "description": "महाशिवरात्रि के मेले में मुसलमानों ने लगाया दुकान तो हो गया विवाद.",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-02-17T02:00:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/yJVI4-6vZjw/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 3172,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AMhC_TuSmng/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 1231,
-          "likes": 46,
+          "views": 1292,
+          "likes": 47,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -396,7 +396,7 @@
       "clusterId": "bhaskar-digvijay",
       "topic": "Bhaskar Digvijay",
       "videoCount": 6,
-      "trendScore": 35.2,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -408,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9cAQM4VVCeg/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 958,
-          "likes": 9,
+          "views": 1004,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N8bD5zxoYHI/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 813,
+          "views": 818,
           "likes": 19,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Sq9CI6FCK20/hqdefault.jpg",
           "durationSeconds": 313,
           "durationFormatted": "05:13",
-          "views": 333,
+          "views": 359,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tCYPV66kwm4/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 302,
+          "views": 313,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -468,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K0UXDQCh7U4/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 207,
-          "likes": 9,
+          "views": 281,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -477,79 +477,10 @@
       "latestUpdateAt": "2026-02-17T14:45:13Z"
     },
     {
-      "clusterId": "bhaskar-कय",
-      "topic": "Bhaskar क्या",
-      "videoCount": 4,
-      "trendScore": 34.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Vs0zdO-1Vmo",
-          "title": "छत्तीसगढ़ में गन्ने रस की दुकानों ने दी दस्तक, क्या इस बार गर्मी होगी रिकॉर्ड तोड़ | CG Bhaskar",
-          "description": "छत्तीसगढ़ में गन्ने रस की दुकानों ने दी दस्तक, क्या इस बार गर्मी होगी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-17T10:00:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/Vs0zdO-1Vmo/hqdefault.jpg",
-          "durationSeconds": 94,
-          "durationFormatted": "01:34",
-          "views": 958,
-          "likes": 27,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "WJCtUgEcUW0",
-          "title": "रजिस्ट्री के पैसे लेकर भागा दोस्त, पुलिस ने बरामद किए पूरे 36.5 लाख! | CG Bhaskar",
-          "description": "रजिस्ट्री के पैसे लेकर भागा दोस्त, पुलिस ने बरामद किए पूरे 36.5 लाख!",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-17T14:40:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/WJCtUgEcUW0/hqdefault.jpg",
-          "durationSeconds": 95,
-          "durationFormatted": "01:35",
-          "views": 387,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "3HG2IzlbdVs",
-          "title": "विश्वगुरु परमहंस प्रज्ञानानंद महाराज आएंगे दुर्ग, क्या होगा खास? | CG Bhaskar",
-          "description": "विश्वगुरु परमहंस प्रज्ञानानंद महाराज आएंगे दुर्ग, क्या होगा खास?",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-17T14:15:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/3HG2IzlbdVs/hqdefault.jpg",
-          "durationSeconds": 93,
-          "durationFormatted": "01:33",
-          "views": 321,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "iXVirgLjlbE",
-          "title": "Durg के वार्ड 19 का शौचालय बना वार्डवासियों के लिए मुसीबत, पार्षद ने झाड़ा पल्ला | CG Bhaskar",
-          "description": "Durg के वार्ड 19 का शौचालय बना वार्डवासियों के लिए मुसीबत, पार्षद ने ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-17T08:10:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/iXVirgLjlbE/hqdefault.jpg",
-          "durationSeconds": 846,
-          "durationFormatted": "14:06",
-          "views": 129,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-02-17T14:40:00Z"
-    },
-    {
       "clusterId": "world-cup",
       "topic": "World Cup",
       "videoCount": 4,
-      "trendScore": 33.6,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -561,8 +492,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IVWj-aJpJKc/hqdefault.jpg",
           "durationSeconds": 155,
           "durationFormatted": "02:35",
-          "views": 1933,
-          "likes": 22,
+          "views": 3718,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -576,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Mrp8LiSgC8E/hqdefault.jpg",
           "durationSeconds": 545,
           "durationFormatted": "09:05",
-          "views": 754,
+          "views": 1365,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
@@ -606,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3V_VQ_Rkb48/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 40,
+          "views": 41,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -615,10 +546,79 @@
       "latestUpdateAt": "2026-02-17T17:45:00Z"
     },
     {
+      "clusterId": "bhaskar-कय",
+      "topic": "Bhaskar क्या",
+      "videoCount": 4,
+      "trendScore": 33.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "Vs0zdO-1Vmo",
+          "title": "छत्तीसगढ़ में गन्ने रस की दुकानों ने दी दस्तक, क्या इस बार गर्मी होगी रिकॉर्ड तोड़ | CG Bhaskar",
+          "description": "छत्तीसगढ़ में गन्ने रस की दुकानों ने दी दस्तक, क्या इस बार गर्मी होगी ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-17T10:00:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/Vs0zdO-1Vmo/hqdefault.jpg",
+          "durationSeconds": 94,
+          "durationFormatted": "01:34",
+          "views": 952,
+          "likes": 27,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "WJCtUgEcUW0",
+          "title": "रजिस्ट्री के पैसे लेकर भागा दोस्त, पुलिस ने बरामद किए पूरे 36.5 लाख! | CG Bhaskar",
+          "description": "रजिस्ट्री के पैसे लेकर भागा दोस्त, पुलिस ने बरामद किए पूरे 36.5 लाख!",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-17T14:40:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/WJCtUgEcUW0/hqdefault.jpg",
+          "durationSeconds": 95,
+          "durationFormatted": "01:35",
+          "views": 500,
+          "likes": 23,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "3HG2IzlbdVs",
+          "title": "विश्वगुरु परमहंस प्रज्ञानानंद महाराज आएंगे दुर्ग, क्या होगा खास? | CG Bhaskar",
+          "description": "विश्वगुरु परमहंस प्रज्ञानानंद महाराज आएंगे दुर्ग, क्या होगा खास?",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-17T14:15:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/3HG2IzlbdVs/hqdefault.jpg",
+          "durationSeconds": 93,
+          "durationFormatted": "01:33",
+          "views": 321,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "iXVirgLjlbE",
+          "title": "Durg के वार्ड 19 का शौचालय बना वार्डवासियों के लिए मुसीबत, पार्षद ने झाड़ा पल्ला | CG Bhaskar",
+          "description": "Durg के वार्ड 19 का शौचालय बना वार्डवासियों के लिए मुसीबत, पार्षद ने ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-17T08:10:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/iXVirgLjlbE/hqdefault.jpg",
+          "durationSeconds": 846,
+          "durationFormatted": "14:06",
+          "views": 138,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-02-17T14:40:00Z"
+    },
+    {
       "clusterId": "raipur-रह",
       "topic": "Raipur रहा",
       "videoCount": 4,
-      "trendScore": 31.9,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -630,7 +630,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eniktZ4qthU/hqdefault.jpg",
           "durationSeconds": 704,
           "durationFormatted": "11:44",
-          "views": 852,
+          "views": 965,
           "likes": 24,
           "videoType": "VOD",
           "genre": "General"
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Wn0WPpwaFlQ/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 7,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -684,79 +684,10 @@
       "latestUpdateAt": "2026-02-17T12:30:59Z"
     },
     {
-      "clusterId": "कय-जजगर",
-      "topic": "क्या जांजगीर",
-      "videoCount": 4,
-      "trendScore": 28.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "b6DNkod4tc4",
-          "title": "जांजगीर चांपा में जिला अस्पताल की क्या स्थिति है ?",
-          "description": "जांजगीर-चांपा में जिला अस्पताल की क्या स्थिति है ? #INHHaribhoomi ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-17T11:54:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/b6DNkod4tc4/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 670,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "yxeBDldGd60",
-          "title": "अवैध कोयला व्यापार को लेकर क्या बोले कलेक्टर ?",
-          "description": "अवैध कोयला व्यापार को लेकर क्या बोले कलेक्टर ? #INHHaribhoomi #JilaSamvad2026 ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-17T11:18:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/yxeBDldGd60/hqdefault.jpg",
-          "durationSeconds": 43,
-          "durationFormatted": "00:43",
-          "views": 646,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "ByyQRHWMlBc",
-          "title": "क्या जांजगीर चांपा के आम लोग चाहते हैं कि इंडस्ट्री आए ?",
-          "description": "क्या जांजगीर-चांपा के आम लोग चाहते हैं कि इंडस्ट्री आए? #INHHaribhoomi ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-17T11:21:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/ByyQRHWMlBc/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 326,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Qlwx91RMnqU",
-          "title": "लोकसभा चुनाव में गुरु खुशवंत साहेब की क्या भूमिका रही ?",
-          "description": "लोकसभा चुनाव में गुरु खुशवंत साहेब की क्या भूमिका रही? #INHHaribhoomi ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-17T13:04:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/Qlwx91RMnqU/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 64,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-02-17T13:04:40Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 28.2,
+      "trendScore": 27.3,
       "topVideos": [
         {
           "index": 1,
@@ -768,7 +699,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2Q5KtBhQe-A/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 807,
+          "views": 924,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -780,10 +711,25 @@
       "clusterId": "budget-session",
       "topic": "Budget Session",
       "videoCount": 5,
-      "trendScore": 27.8,
+      "trendScore": 26.9,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "XFzLJnk0ab4",
+          "title": "MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में लिपटे व्यंग के रंग",
+          "description": "IBC24, MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-17T16:58:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/XFzLJnk0ab4/hqdefault.jpg",
+          "durationSeconds": 230,
+          "durationFormatted": "03:50",
+          "views": 64,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
           "videoId": "eWU7LeGILU4",
           "title": "The Editor&#39;s Show: गौमाता, कुत्ता और गंदे पानी पर सदन में बवाल! | MP Budget Session | Congress | BJP",
           "description": "The Editor's Show: गौमाता, कुत्ता और गंदे पानी पर सदन में बवाल! | MP Budget Session ...",
@@ -796,21 +742,6 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "XFzLJnk0ab4",
-          "title": "MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में लिपटे व्यंग के रंग",
-          "description": "IBC24, MP Budget Session 2026: कुत्तों के बहाने सदन में सियासी जंग। बयानों में ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-17T16:58:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/XFzLJnk0ab4/hqdefault.jpg",
-          "durationSeconds": 230,
-          "durationFormatted": "03:50",
-          "views": 48,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         },
         {
           "index": 3,
