@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-18T19:12:22.434835Z",
+  "generatedAt": "2026-02-18T20:54:48.527542Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 101,
-      "trendScore": 63.5,
+      "videoCount": 98,
+      "trendScore": 62.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Uv9bI73aI8E/hqdefault.jpg",
           "durationSeconds": 1537,
           "durationFormatted": "25:37",
-          "views": 27422,
+          "views": 27555,
           "likes": 351,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/crhgFeuWvfc/hqdefault.jpg",
           "durationSeconds": 850,
           "durationFormatted": "14:10",
-          "views": 6452,
+          "views": 6468,
           "likes": 284,
           "videoType": "VOD",
           "genre": "General"
@@ -48,13 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/1PD3YFtmwkg/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 6035,
+          "views": 6220,
           "likes": 100,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "x0uEO0gv0cE",
+          "title": "AI Impact Summit 2026: इंडिया के AI समिट में भारत का कमाल... | PM Modi | Top News | Breaking News",
+          "description": "AI Impact Summit 2026: इंडिया के AI समिट में भारत का कमाल... | PM Modi | Top News | Breaking News ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-18T17:35:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/x0uEO0gv0cE/hqdefault.jpg",
+          "durationSeconds": 531,
+          "durationFormatted": "08:51",
+          "views": 5670,
+          "likes": 37,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
           "videoId": "Re584SJ0qzI",
           "title": "Raipur कटोरा तालाब में  बुलडोज़र कारवाई ! तोड़ दिया गरीबो का घर |  Raipur News | Ground Report |",
           "description": "news #trending #latestnews #viralvideo #katoratalab #raipurnews #cg #groundreport #cgnews.",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/Re584SJ0qzI/hqdefault.jpg",
           "durationSeconds": 958,
           "durationFormatted": "15:58",
-          "views": 4673,
-          "likes": 103,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "gDonUBIlJws",
-          "title": "रात में घर जा रहे ज्वैलर पर गोलीबारी, हथौड़े बरसाए | करोड़ों की ज्वैलरी और गाड़ी लेकर भागे |@tirandaj",
-          "description": "majorrobberyinbilaspur #jewelerrobbedinbilaspur #jewelershotattackedwithhammer #robberyinbilaspur ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-02-18T02:11:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/gDonUBIlJws/hqdefault.jpg",
-          "durationSeconds": 577,
-          "durationFormatted": "09:37",
-          "views": 3698,
-          "likes": 54,
+          "views": 5440,
+          "likes": 105,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-18T18:47:18Z"
+      "latestUpdateAt": "2026-02-18T19:24:40Z"
     },
     {
       "clusterId": "budget-session",
       "topic": "Budget Session",
-      "videoCount": 25,
-      "trendScore": 57.2,
+      "videoCount": 27,
+      "trendScore": 59.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,23 +102,23 @@
           "thumbnail": "https://i.ytimg.com/vi/rPN28a_t4Ks/hqdefault.jpg",
           "durationSeconds": 251,
           "durationFormatted": "04:11",
-          "views": 4159,
-          "likes": 35,
+          "views": 7804,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "ynilHm2AN64",
-          "title": "🔴LIVE : MP Budget Session 2026 :  एमपी में आज पहला पेपरलेस मेगा बजट हुआ पेश. | Latest News | ZeeMPCG",
-          "description": "LIVE : MP Budget Session 2026 : एमपी में आज पहला पेपरलेस मेगा बजट हुआ पेश...गरीब ...",
+          "videoId": "xd6Sux7PV1s",
+          "title": "🔴LIVE : MP Budget Session 2026 : एमपी में पेश हो रहा बजट 2026 | Latest News | ZeeMPCG",
+          "description": "LIVE : MP Budget Session 2026 : एमपी में पेश हो रहा बजट 2026 | एमपी के बजट में आपके लिए ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-18T18:42:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/ynilHm2AN64/hqdefault.jpg",
-          "durationSeconds": 36767,
-          "durationFormatted": "10:12:47",
-          "views": 3561,
-          "likes": 21,
+          "publishedAt": "2026-02-18T20:19:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/xd6Sux7PV1s/hqdefault.jpg",
+          "durationSeconds": 7565,
+          "durationFormatted": "02:06:05",
+          "views": 6426,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -132,13 +132,28 @@
           "thumbnail": "https://i.ytimg.com/vi/U_1zxgBnBXI/hqdefault.jpg",
           "durationSeconds": 1082,
           "durationFormatted": "18:02",
-          "views": 3008,
+          "views": 5986,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "ynilHm2AN64",
+          "title": "🔴LIVE : MP Budget Session 2026 :  एमपी में आज पहला पेपरलेस मेगा बजट हुआ पेश. | Latest News | ZeeMPCG",
+          "description": "LIVE : MP Budget Session 2026 : एमपी में आज पहला पेपरलेस मेगा बजट हुआ पेश...गरीब ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-18T18:42:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/ynilHm2AN64/hqdefault.jpg",
+          "durationSeconds": 36767,
+          "durationFormatted": "10:12:47",
+          "views": 3743,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "HxIL-1mp-9Q",
           "title": "MP बजट पर कांग्रेस ने कहा- &#39;धरातल पर मिलेगी सच्चाई&#39; #madhyapradesh #budget #congress #bjp #ytshorts",
           "description": "IBC24, MP बजट पर कांग्रेस ने कहा- 'धरातल पर मिलेगी सच्चाई' #madhyapradesh #budget ...",
@@ -147,34 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/HxIL-1mp-9Q/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 1555,
+          "views": 2190,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "SO_E0YfZkNc",
-          "title": "🔴LIVE : MP Budget Session 2026 : एमपी में आज होगा बजट पेश  | Latest News | ZeeMPCG",
-          "description": "LIVE : MP Budget Session 2026 : एमपी में आज होगा बजट पेश | एमपी के बजट में आपके लिए ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-18T17:00:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/SO_E0YfZkNc/hqdefault.jpg",
-          "durationSeconds": 3266,
-          "durationFormatted": "54:26",
-          "views": 1134,
-          "likes": 22,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-18T18:42:27Z"
+      "latestUpdateAt": "2026-02-18T20:31:30Z"
     },
     {
-      "clusterId": "indore-mba",
-      "topic": "Indore MBA",
-      "videoCount": 5,
-      "trendScore": 43.1,
+      "clusterId": "mba-indore",
+      "topic": "MBA Indore",
+      "videoCount": 4,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/U58Q20Ujgu8/hqdefault.jpg",
           "durationSeconds": 18,
           "durationFormatted": "00:18",
-          "views": 134883,
-          "likes": 1293,
+          "views": 196218,
+          "likes": 1522,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "LESfPUI_IJE",
-          "title": "Indore MBA Student Murder Case : प्रेमिका की हत्या के बाद आरोपी का बयान वायरल | MP News | N18S",
-          "description": "Indore MBA Student Murder Case : प्रेमिका की हत्या के बाद आरोपी का बयान वायरल | MP ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-18T15:25:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/LESfPUI_IJE/hqdefault.jpg",
-          "durationSeconds": 18,
-          "durationFormatted": "00:18",
-          "views": 92951,
-          "likes": 1020,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "0Lpmn082vwY",
           "title": "Indore MBA Student Murder : गर्लफ्रेंड की हत्या के बाद आरोपी Piyush ने बोला &#39;आएगा टाइम...&#39; | MP News",
           "description": "Indore MBA Student Murder : गर्लफ्रेंड की हत्या के बाद आरोपी Piyush ने बोला 'आएगा ...",
@@ -216,13 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/0Lpmn082vwY/hqdefault.jpg",
           "durationSeconds": 8,
           "durationFormatted": "00:08",
-          "views": 78705,
-          "likes": 582,
+          "views": 111323,
+          "likes": 687,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "guwIOml47JQ",
           "title": "Indore MBA Student Murder Case: MBA छात्रा हत्याकांड पर हत्यारेपर भड़क गई इंदौर की लड़कियां! | News",
           "description": "Indore MBA Student Murder Case: MBA छात्रा हत्याकांड पर हत्यारेपर भड़क गई इंदौर ...",
@@ -231,13 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/guwIOml47JQ/hqdefault.jpg",
           "durationSeconds": 917,
           "durationFormatted": "15:17",
-          "views": 6245,
-          "likes": 132,
+          "views": 9846,
+          "likes": 162,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "SSHxl5LMJC8",
           "title": "Indore MBA Murder: MBA छात्रा हत्याकांड : कोर्ट में पेश होंगे आरोपी | घटनास्थल से कमरे की चाबी बरामद",
           "description": "IBC24, Indore MBA Murder Update : MBA छात्रा हत्याकांड : कोर्ट में पेश होंगे आरोपी ...",
@@ -246,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SSHxl5LMJC8/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 18,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -258,7 +243,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 6,
-      "trendScore": 41.9,
+      "trendScore": 40.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xo9r8Itn_QM/hqdefault.jpg",
           "durationSeconds": 852,
           "durationFormatted": "14:12",
-          "views": 8937,
-          "likes": 302,
+          "views": 11250,
+          "likes": 313,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hX0MQXX5kz0/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1177,
-          "likes": 46,
+          "views": 1713,
+          "likes": 54,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ntaUwdUW9XI/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 319,
-          "likes": 6,
+          "views": 408,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9-XIXAcx_RA/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 289,
+          "views": 364,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Events"
@@ -330,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vYqHeMq7lbI/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 142,
+          "views": 144,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +327,7 @@
       "clusterId": "दरग-परदरशन",
       "topic": "दुर्ग प्रदर्शन",
       "videoCount": 17,
-      "trendScore": 41.2,
+      "trendScore": 40.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +339,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CAgaME5Od-Y/hqdefault.jpg",
           "durationSeconds": 288,
           "durationFormatted": "04:48",
-          "views": 118,
+          "views": 112,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Civic"
@@ -384,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/5lsaBHLGk1g/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 44,
+          "views": 33,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "mhCcClZTk_U",
+          "title": "दुर्ग H.त्याकांड: सीसीटीवी और तकनीकी साक्ष्यों से 7 आरोपी पकड़े गए शांति नगर में सनसनी",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-18T13:10:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/mhCcClZTk_U/hqdefault.jpg",
+          "durationSeconds": 117,
+          "durationFormatted": "01:57",
+          "views": 29,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "s5mWXgqLOn4",
           "title": "भिलाई में अवैध अतिक्रमण पर सख्ती, हुडको गार्डन के पास 5500 रुपये का जुर्माना, निगम की चेतावनी",
           "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
@@ -399,25 +399,10 @@
           "thumbnail": "https://i.ytimg.com/vi/s5mWXgqLOn4/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 20,
+          "views": 18,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "SsR6TKjtyWM",
-          "title": "दुर्ग में नशे में स्कूल पहुंचे शिक्षक निलंबित, जांच में आरोप सही, शिक्षा विभाग की सख्त कार्रवाई",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-18T13:14:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/SsR6TKjtyWM/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 20,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-18T14:39:06Z"
@@ -425,8 +410,8 @@
     {
       "clusterId": "election-rajyasabha",
       "topic": "Election Rajyasabha",
-      "videoCount": 6,
-      "trendScore": 35.9,
+      "videoCount": 7,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,13 +423,28 @@
           "thumbnail": "https://i.ytimg.com/vi/l9OaYr5wR9Q/hqdefault.jpg",
           "durationSeconds": 466,
           "durationFormatted": "07:46",
-          "views": 1861,
-          "likes": 42,
+          "views": 2934,
+          "likes": 46,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "MQasWn80KYk",
+          "title": "🔴Seedhe Mudde Ki Baat:छत्तीसगढ़ से राज्यसभा कौन-कौन जा सकते हैं?| Rajyasabha Election | BJP Congress",
+          "description": "Seedhe Mudde Ki Baat:छत्तीसगढ़ से राज्यसभा कौन-कौन जा सकते हैं?| Rajyasabha Election ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-18T15:52:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/MQasWn80KYk/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 1301,
+          "likes": 10,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 3,
           "videoId": "LmOnnFvldhA",
           "title": "Rajya Sabha Election 2026: राज्यसभा चुनाव 2026 की तारीखों का ऐलान। 37 सीटों पर हाई-वोल्टेज मुकाबला!",
           "description": "IBC24, Rajya Sabha Election 2026: राज्यसभा चुनाव 2026 की तारीखों का ऐलान। 37 सीटों पर ...",
@@ -453,13 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/LmOnnFvldhA/hqdefault.jpg",
           "durationSeconds": 219,
           "durationFormatted": "03:39",
-          "views": 382,
+          "views": 664,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "mObn_luiPsQ",
           "title": "Chhattisgarh Rajya Sabha Elections 2026: KTS तुलसी या फूलोदेवी नेताम? कौन बनेगा नया सांसद?",
           "description": "Chhattisgarh Rajya Sabha Elections 2026: KTS तुलसी या फूलोदेवी नेताम? कौन बनेगा नया ...",
@@ -474,7 +474,7 @@
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "sIvCkPbwJws",
           "title": "राज्यसभा चुनाव 2026: छत्तीसगढ़ की दो सीटों पर मतदान की तारीख तय #chhattisgarh #rajyasabha #election",
           "description": "राज्यसभा चुनाव 2026: छत्तीसगढ़ की दो सीटों पर मतदान की तारीख तय ...",
@@ -483,23 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sIvCkPbwJws/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 190,
+          "views": 193,
           "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "jDL8W8vMwWc",
-          "title": "10 राज्यों की 37 सीटों के लिए Rajyasabha Election की तारीखों का ऐलान, किन सीटों पर होना है चुनाव..?",
-          "description": "10 राज्यों की 37 सीटों के लिए Rajyasabha Election की तारीखों का ऐलान, किन सीटों ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-18T13:13:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/jDL8W8vMwWc/hqdefault.jpg",
-          "durationSeconds": 213,
-          "durationFormatted": "03:33",
-          "views": 16,
-          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -510,7 +495,7 @@
       "clusterId": "bhaskar-mohit",
       "topic": "Bhaskar Mohit",
       "videoCount": 6,
-      "trendScore": 35.5,
+      "trendScore": 34.7,
       "topVideos": [
         {
           "index": 1,
@@ -522,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/x2Rv02bFZK0/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 926,
-          "likes": 27,
+          "views": 989,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -537,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wyH5tbs4UtE/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 661,
-          "likes": 18,
+          "views": 741,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/G_GaeTznJqo/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 645,
+          "views": 652,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -567,25 +552,25 @@
           "thumbnail": "https://i.ytimg.com/vi/ufCWhPfM2Tg/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 630,
+          "views": 632,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "3Fi8htG9tUs",
-          "title": "छत्तीसगढ़ राज्यसभा चुनाव 2026 का शेड्यूल जारी ! | CG Bhaskar",
-          "description": "छत्तीसगढ़ राज्यसभा चुनाव 2026 का शेड्यूल जारी ! | CG Bhaskar Join our Whatsapp Group ...",
+          "videoId": "-r7Temmsfu0",
+          "title": "सुराना कॉलेज में बिना हेलमेट प्रवेश पर बैन",
+          "description": "सुराना कॉलेज में बिना हेलमेट प्रवेश पर बैन Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-18T14:00:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/3Fi8htG9tUs/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 120,
-          "likes": 1,
+          "publishedAt": "2026-02-18T15:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/-r7Temmsfu0/hqdefault.jpg",
+          "durationSeconds": 134,
+          "durationFormatted": "02:14",
+          "views": 147,
+          "likes": 4,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-18T15:00:01Z"
@@ -594,25 +579,10 @@
       "clusterId": "nigeria-walkietalkienews",
       "topic": "Nigeria walkietalkienews",
       "videoCount": 4,
-      "trendScore": 32.9,
+      "trendScore": 31.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "V3KxU2do7ac",
-          "title": "हाईटेंशन लाइन की चपेट में आई ट्रॉली, चिंगारी से भड़की भीषण आग....   #walkietalkienews",
-          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #hightensionline #majorfire #electricalhazard #safetyalert #stayalert.",
-          "channelTitle": "Walkie Talkie News",
-          "publishedAt": "2026-02-18T05:23:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/V3KxU2do7ac/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 823,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "APNLDyvp-6E",
           "title": "Nigeria में उड़ते विमान का इंजन फटा, आसमान में धमाका, 80 यात्रियों में दहशत, कुछ पल के लिए हालात ...",
           "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #nigeria #flightemergency #enginefailure #emergencylanding ...",
@@ -621,10 +591,25 @@
           "thumbnail": "https://i.ytimg.com/vi/APNLDyvp-6E/hqdefault.jpg",
           "durationSeconds": 26,
           "durationFormatted": "00:26",
-          "views": 803,
-          "likes": 14,
+          "views": 824,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "V3KxU2do7ac",
+          "title": "हाईटेंशन लाइन की चपेट में आई ट्रॉली, चिंगारी से भड़की भीषण आग....   #walkietalkienews",
+          "description": "walkietalkienews #chhattisgarh #raipur #durg #bhilai #hightensionline #majorfire #electricalhazard #safetyalert #stayalert.",
+          "channelTitle": "Walkie Talkie News",
+          "publishedAt": "2026-02-18T05:23:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/V3KxU2do7ac/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 793,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 3,
@@ -651,8 +636,8 @@
           "thumbnail": "https://i.ytimg.com/vi/T4VJN92QtzQ/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 429,
-          "likes": 12,
+          "views": 545,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -663,19 +648,19 @@
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
       "videoCount": 5,
-      "trendScore": 31.6,
+      "trendScore": 30.9,
       "topVideos": [
         {
           "index": 1,
           "videoId": "rzkM_g_l2g4",
-          "title": "18 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "19 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "18 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-02-17T23:30:31Z",
           "thumbnail": "https://i.ytimg.com/vi/rzkM_g_l2g4/hqdefault.jpg",
           "durationSeconds": 961,
           "durationFormatted": "16:01",
-          "views": 6323,
+          "views": 6357,
           "likes": 33,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/d_ZnqdcjJ4o/hqdefault.jpg",
           "durationSeconds": 1107,
           "durationFormatted": "18:27",
-          "views": 917,
+          "views": 993,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -747,7 +732,7 @@
       "clusterId": "dmf-दतवड",
       "topic": "DMF दंतेवाड़ा",
       "videoCount": 5,
-      "trendScore": 31.2,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
@@ -774,8 +759,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2Qa3_ZjMSlk/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 353,
-          "likes": 4,
+          "views": 448,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -804,8 +789,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sH4f754JnyI/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 144,
-          "likes": 2,
+          "views": 171,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -831,7 +816,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 19.1,
+      "trendScore": 18.2,
       "topVideos": [
         {
           "index": 1,
@@ -843,7 +828,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v94sBlpFJXI/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 65,
+          "views": 63,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
