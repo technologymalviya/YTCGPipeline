@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-19T19:07:04.892202Z",
+  "generatedAt": "2026-02-19T20:48:22.640228Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 91,
-      "trendScore": 63.8,
+      "videoCount": 92,
+      "trendScore": 62.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2rMNxSA0jrE/hqdefault.jpg",
           "durationSeconds": 1672,
           "durationFormatted": "27:52",
-          "views": 42978,
+          "views": 43167,
           "likes": 427,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,43 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/8Jn6KfgE-70/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 19349,
-          "likes": 793,
+          "views": 21514,
+          "likes": 824,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "YuOISAsdbKs",
-          "title": "19 February 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "19 February 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai 1️⃣   Over 1400 Holi ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-02-19T00:25:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/YuOISAsdbKs/hqdefault.jpg",
-          "durationSeconds": 508,
-          "durationFormatted": "08:28",
-          "views": 4248,
-          "likes": 79,
+          "videoId": "SuvjRuTeyWI",
+          "title": "🔴PM Kisan Yojana 22nd Installment: किसानों के खाते में इस दिन आएगी किसान सम्मान निधि की 22वीं किस्त!",
+          "description": "IBC24, PM Kisan Yojana 22nd Installment: किसानों के खाते में इस दिन आएगी किसान सम्मान ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-19T18:55:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/SuvjRuTeyWI/hqdefault.jpg",
+          "durationSeconds": 42901,
+          "durationFormatted": "11:55:01",
+          "views": 12288,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "LAETlqr9XPk",
-          "title": "India AI Impact Summit |Content Creation में AI कैस बनेगा दोस्त? |PM Modi Inuagrated Expo | Labhesh|",
-          "description": "India AI Impact Summit |Content Creation में AI कैस बनेगा दोस्त? |PM Modi Inuagrated Expo | Labhesh| ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-02-19T02:00:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/LAETlqr9XPk/hqdefault.jpg",
-          "durationSeconds": 952,
-          "durationFormatted": "15:52",
-          "views": 4135,
-          "likes": 121,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
           "videoId": "FjO2QSJ6g_o",
           "title": "Mukesh Ambani in India AI Impact Summit 2026 : इंडिया विश्वगुरु..भारत का भविष्य AI",
           "description": "Mukesh Ambani in India AI Impact Summit 2026 : इंडिया विश्वगुरु..भारत का भविष्य AI, 10 लाख ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/FjO2QSJ6g_o/hqdefault.jpg",
           "durationSeconds": 224,
           "durationFormatted": "03:44",
-          "views": 3604,
+          "views": 6502,
           "likes": 56,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "iUZKF-Gnavw",
+          "title": "Bilaspur Case के आरोपियों का Half Encounter| मिर्जापुर की Full Story| Yashwant Sahu |",
+          "description": "Bilaspur Case के आरोपियों का Half Encounter| मिर्जापुर की Full Story| Yashwant Sahu | Report/Story: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-02-19T16:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/iUZKF-Gnavw/hqdefault.jpg",
+          "durationSeconds": 900,
+          "durationFormatted": "15:00",
+          "views": 4720,
+          "likes": 146,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-19T19:04:56Z"
+      "latestUpdateAt": "2026-02-19T19:41:41Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 6,
-      "trendScore": 45.1,
+      "trendScore": 43.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JSTJ4L96_Pc/hqdefault.jpg",
           "durationSeconds": 683,
           "durationFormatted": "11:23",
-          "views": 35346,
-          "likes": 1378,
+          "views": 49179,
+          "likes": 1468,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rp_bsRHTw8w/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 1236,
-          "likes": 29,
+          "views": 1385,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_eGYUwE9aZ8/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 259,
+          "views": 393,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H_Iox7PW-UI/hqdefault.jpg",
           "durationSeconds": 247,
           "durationFormatted": "04:07",
-          "views": 6,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -171,94 +171,10 @@
       "latestUpdateAt": "2026-02-19T17:58:52Z"
     },
     {
-      "clusterId": "obc-reservation",
-      "topic": "OBC Reservation",
-      "videoCount": 13,
-      "trendScore": 44.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "S-HoanKFNsI",
-          "title": "OBC Reservation Controversy:27% OBC आरक्षण पर बड़ा फैसला! SC ने दाखिल याचिकाओं को वापस हाईकोर्ट भेजा",
-          "description": "OBC Reservation Controversy : 27% ओबीसी आरक्षण पर 'सुप्रीम' आदेश , एमपी में ओबीसी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-19T09:28:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/S-HoanKFNsI/hqdefault.jpg",
-          "durationSeconds": 410,
-          "durationFormatted": "06:50",
-          "views": 3964,
-          "likes": 74,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "VIAKkYnVbOI",
-          "title": "Seedhe Mudde Ki Baat: मैडम जी ! बच्चों को गरीब मत कहिए ... | CG News | Bemetara",
-          "description": "Seedhe Mudde Ki Baat: मैडम जी ! बच्चों को गरीब मत कहिए ... | CG News | Bemetara #khilora ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-19T16:05:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/VIAKkYnVbOI/hqdefault.jpg",
-          "durationSeconds": 256,
-          "durationFormatted": "04:16",
-          "views": 467,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "TEjns_mHhGY",
-          "title": "MP OBC Reservation Case: 27% OBC आरक्षण पर SC का बड़ा फैसला। SC ने Jabalpur HC ट्रांसफर किया मामला",
-          "description": "IBC24, MP OBC Reservation Case: 27% OBC आरक्षण पर SC का बड़ा फैसला। SC ने Jabalpur HC ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-19T14:33:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/TEjns_mHhGY/hqdefault.jpg",
-          "durationSeconds": 129,
-          "durationFormatted": "02:09",
-          "views": 415,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "INVhf6T_XgU",
-          "title": "MP Reservation News : दाखिल याचिकाओं को Supreme Court ने वापस High Court भेजा | Zee MPCG",
-          "description": "MP Reservation News : मध्य प्रदेश में आरक्षण से जुड़े मामले को लेकर बड़ी खबर ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-19T15:18:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/INVhf6T_XgU/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 298,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "gOanTGOzYXM",
-          "title": "Seedhe Mudde Ki Baat: सेन समाज का फैसला शादी से पहले बातचीत नहीं...  | Sen Samaj",
-          "description": "Seedhe Mudde Ki Baat: सेन समाज का फैसला शादी से पहले बातचीत नहीं... | Sen Samaj ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-19T15:45:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/gOanTGOzYXM/hqdefault.jpg",
-          "durationSeconds": 338,
-          "durationFormatted": "05:38",
-          "views": 242,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-02-19T17:57:46Z"
-    },
-    {
-      "clusterId": "दरग-रजनदगव",
-      "topic": "दुर्ग राजनांदगांव",
+      "clusterId": "दरग-bhilai",
+      "topic": "दुर्ग Bhilai",
       "videoCount": 18,
-      "trendScore": 43.1,
+      "trendScore": 41.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/s8IjSpuqSZE/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 23,
+          "views": 26,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -285,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/IbkDGbPeFTg/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 18,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "QLYkiAQM7dE",
+          "title": "Bhilai News: दुर्ग पुलिस की बड़ी कार्रवाई ,7 किलो गांजा के साथ तीन आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-19T14:20:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/QLYkiAQM7dE/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 13,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "SvHWcVDihg4",
           "title": "राजनांदगांव: सिटी कोतवाली की बड़ी कार्रवाई,फर्जी सिम रैकेट का भंडाफोड़, 32 साइबर ठगी उजागर",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -300,13 +231,13 @@
           "thumbnail": "https://i.ytimg.com/vi/SvHWcVDihg4/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 10,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "3J3fpawR4Dk",
           "title": "भिलाई नगर निगम ने दिखाई सख्ती, जनता को मिलेगी बेहतर सफाई और नालियों की सुविधा",
           "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
@@ -319,21 +250,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "CtzCPLf0Izk",
-          "title": "दुर्ग में उतई–खोपली मार्ग पर चला बुलडोज़र ,अवैध दुकानों पर प्रशासन की सख्त कार्रवाई",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-19T14:32:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/CtzCPLf0Izk/hqdefault.jpg",
-          "durationSeconds": 166,
-          "durationFormatted": "02:46",
-          "views": 7,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-19T14:45:25Z"
@@ -342,7 +258,7 @@
       "clusterId": "rajya-sabha",
       "topic": "Rajya Sabha",
       "videoCount": 4,
-      "trendScore": 35.4,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LzDVFWUzu64/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 7066,
-          "likes": 96,
+          "views": 7410,
+          "likes": 97,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -369,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P9XT4KeJwSY/hqdefault.jpg",
           "durationSeconds": 42901,
           "durationFormatted": "11:55:01",
-          "views": 3005,
+          "views": 3023,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VF_iN0l8JR0/hqdefault.jpg",
           "durationSeconds": 578,
           "durationFormatted": "09:38",
-          "views": 931,
+          "views": 1243,
           "likes": 29,
           "videoType": "VOD",
           "genre": "Politics"
@@ -399,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uFlIeWNn8_M/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 245,
+          "views": 320,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -408,94 +324,10 @@
       "latestUpdateAt": "2026-02-19T18:57:56Z"
     },
     {
-      "clusterId": "bhaskar-models",
-      "topic": "Bhaskar Models",
-      "videoCount": 5,
-      "trendScore": 34.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "7wwOxzZmjQ8",
-          "title": "तस्वीर चढ़ाने से मिल जाती है प्रेमिका! | CG Bhaskar",
-          "description": "तस्वीर चढ़ाने से मिल जाती है प्रेमिका! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-19T10:37:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/7wwOxzZmjQ8/hqdefault.jpg",
-          "durationSeconds": 56,
-          "durationFormatted": "00:56",
-          "views": 971,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "rjNvCKXNJgk",
-          "title": "अंबागढ़ चौकी में तेंदुए का आतंक, किया दो कुत्तों का शिकार | CG Bhaskar",
-          "description": "अंबागढ़ चौकी में तेंदुए का आतंक, किया दो कुत्तों का शिकार | CG Bhaskar Join ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-19T13:15:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/rjNvCKXNJgk/hqdefault.jpg",
-          "durationSeconds": 66,
-          "durationFormatted": "01:06",
-          "views": 604,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "AhR2t2PHFE8",
-          "title": "अब कैंप की सड़के भी होगी चकाचक ! | CG Bhaskar",
-          "description": "अब कैंप की सड़के भी होगी चकाचक ! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-19T13:40:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/AhR2t2PHFE8/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 491,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "KyR24G8akZ4",
-          "title": "ये 11 AI Models बचाएंगी समय, बढ़ेगी काम की रफ्तार",
-          "description": "ये 11 AI Models बचाएंगी समय, बढ़ेगी काम की रफ्तार Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-19T08:00:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/KyR24G8akZ4/hqdefault.jpg",
-          "durationSeconds": 85,
-          "durationFormatted": "01:25",
-          "views": 224,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "1qGwOCVVEhc",
-          "title": "राजनांदगांव में गर्मी से पहले पानी की समस्या | CG Bhaskar",
-          "description": "राजनांदगांव में गर्मी से पहले पानी की समस्या | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-19T12:40:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/1qGwOCVVEhc/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 209,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-19T13:40:00Z"
-    },
-    {
       "clusterId": "vijayvargiya-kailash",
       "topic": "Vijayvargiya Kailash",
       "videoCount": 6,
-      "trendScore": 34.1,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -507,28 +339,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sizfwsTiEfs/hqdefault.jpg",
           "durationSeconds": 442,
           "durationFormatted": "07:22",
-          "views": 676,
+          "views": 921,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "_SUs2cm5ZP0",
-          "title": "MP Vidhansabha में &#39;औकात&#39; पर गरमाई सियासत! Kailash Vijayvargiya और नेता विपक्ष के बीच जमकर बहस..",
-          "description": "IBC24, MP Vidhansabha में 'औकात' पर गरमाई सियासत! Kailash Vijayvargiya और नेता विपक्ष के ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-19T16:07:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/_SUs2cm5ZP0/hqdefault.jpg",
-          "durationSeconds": 422,
-          "durationFormatted": "07:02",
-          "views": 389,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "X7TVOB3tZh8",
           "title": "MP VidhanSabha Debate: Kailash Vijayvargiya ने Umang Singhar को कहा &#39;औकात में रहो&#39; फिर &#39;बोले दुख है&#39;",
           "description": "MP VidhanSabha Debate: Kailash Vijayvargiya ने Umang Singhar को कहा 'औकात में रहो' फिर 'बोले ...",
@@ -537,8 +354,23 @@
           "thumbnail": "https://i.ytimg.com/vi/X7TVOB3tZh8/hqdefault.jpg",
           "durationSeconds": 250,
           "durationFormatted": "04:10",
-          "views": 329,
-          "likes": 5,
+          "views": 556,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "_SUs2cm5ZP0",
+          "title": "MP Vidhansabha में &#39;औकात&#39; पर गरमाई सियासत! Kailash Vijayvargiya और नेता विपक्ष के बीच जमकर बहस..",
+          "description": "IBC24, MP Vidhansabha में 'औकात' पर गरमाई सियासत! Kailash Vijayvargiya और नेता विपक्ष के ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-19T16:07:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/_SUs2cm5ZP0/hqdefault.jpg",
+          "durationSeconds": 422,
+          "durationFormatted": "07:02",
+          "views": 510,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -552,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Vdjd7USZlkI/hqdefault.jpg",
           "durationSeconds": 410,
           "durationFormatted": "06:50",
-          "views": 92,
+          "views": 97,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -576,10 +408,178 @@
       "latestUpdateAt": "2026-02-19T17:06:00Z"
     },
     {
+      "clusterId": "seedhe-mudde",
+      "topic": "Seedhe Mudde",
+      "videoCount": 5,
+      "trendScore": 33.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "VIAKkYnVbOI",
+          "title": "Seedhe Mudde Ki Baat: मैडम जी ! बच्चों को गरीब मत कहिए ... | CG News | Bemetara",
+          "description": "Seedhe Mudde Ki Baat: मैडम जी ! बच्चों को गरीब मत कहिए ... | CG News | Bemetara #khilora ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-19T16:05:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/VIAKkYnVbOI/hqdefault.jpg",
+          "durationSeconds": 256,
+          "durationFormatted": "04:16",
+          "views": 700,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "gOanTGOzYXM",
+          "title": "Seedhe Mudde Ki Baat: सेन समाज का फैसला शादी से पहले बातचीत नहीं...  | Sen Samaj",
+          "description": "Seedhe Mudde Ki Baat: सेन समाज का फैसला शादी से पहले बातचीत नहीं... | Sen Samaj ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-19T15:45:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/gOanTGOzYXM/hqdefault.jpg",
+          "durationSeconds": 338,
+          "durationFormatted": "05:38",
+          "views": 324,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "OMcAbhtHyM4",
+          "title": "Seedhe Mudde Ki Baat: पीपुल्स यूनिवर्सिटी को मिली बम से उड़ाने की धमकी...| Peoples University Threat",
+          "description": "Seedhe Mudde Ki Baat: पीपुल्स यूनिवर्सिटी को मिली बम से उड़ाने की धमकी...| Peoples ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-19T15:06:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/OMcAbhtHyM4/hqdefault.jpg",
+          "durationSeconds": 141,
+          "durationFormatted": "02:21",
+          "views": 236,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "X0Btp5Gh_gY",
+          "title": "Seedhe Mudde Ki Baat: आपकी सब्जी का मसाला मिलावटी तो नहीं?",
+          "description": "Seedhe Mudde Ki Baat: आपकी सब्जी का मसाला मिलावटी तो नहीं? #gwalior #fakespices #jeera ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-19T15:14:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/X0Btp5Gh_gY/hqdefault.jpg",
+          "durationSeconds": 298,
+          "durationFormatted": "04:58",
+          "views": 107,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "bwuE0-26ltE",
+          "title": "Peoples University Bomb Threat: पीपुल्स यूनिवर्सिटी को बम से उड़ाने की अफवाह, हड़कंप | Top News | MP",
+          "description": "Peoples University Bomb Threat: पीपुल्स यूनिवर्सिटी को बम से उड़ाने की अफवाह, ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-19T17:57:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/bwuE0-26ltE/hqdefault.jpg",
+          "durationSeconds": 235,
+          "durationFormatted": "03:55",
+          "views": 6,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-02-19T17:57:46Z"
+    },
+    {
+      "clusterId": "bhaskar-models",
+      "topic": "Bhaskar Models",
+      "videoCount": 5,
+      "trendScore": 33.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "7wwOxzZmjQ8",
+          "title": "तस्वीर चढ़ाने से मिल जाती है प्रेमिका! | CG Bhaskar",
+          "description": "तस्वीर चढ़ाने से मिल जाती है प्रेमिका! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-19T10:37:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/7wwOxzZmjQ8/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 1023,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "rjNvCKXNJgk",
+          "title": "अंबागढ़ चौकी में तेंदुए का आतंक, किया दो कुत्तों का शिकार | CG Bhaskar",
+          "description": "अंबागढ़ चौकी में तेंदुए का आतंक, किया दो कुत्तों का शिकार | CG Bhaskar Join ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-19T13:15:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/rjNvCKXNJgk/hqdefault.jpg",
+          "durationSeconds": 66,
+          "durationFormatted": "01:06",
+          "views": 699,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "AhR2t2PHFE8",
+          "title": "अब कैंप की सड़के भी होगी चकाचक ! | CG Bhaskar",
+          "description": "अब कैंप की सड़के भी होगी चकाचक ! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-19T13:40:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/AhR2t2PHFE8/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 614,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "KyR24G8akZ4",
+          "title": "ये 11 AI Models बचाएंगी समय, बढ़ेगी काम की रफ्तार",
+          "description": "ये 11 AI Models बचाएंगी समय, बढ़ेगी काम की रफ्तार Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-19T08:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/KyR24G8akZ4/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 227,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "1qGwOCVVEhc",
+          "title": "राजनांदगांव में गर्मी से पहले पानी की समस्या | CG Bhaskar",
+          "description": "राजनांदगांव में गर्मी से पहले पानी की समस्या | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-19T12:40:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/1qGwOCVVEhc/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 189,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-19T13:40:00Z"
+    },
+    {
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
       "videoCount": 5,
-      "trendScore": 33.4,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/955HSQcvS4o/hqdefault.jpg",
           "durationSeconds": 1088,
           "durationFormatted": "18:08",
-          "views": 23263,
+          "views": 23339,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YD4kSdDsvMg/hqdefault.jpg",
           "durationSeconds": 934,
           "durationFormatted": "15:34",
-          "views": 7129,
+          "views": 7156,
           "likes": 42,
           "videoType": "VOD",
           "genre": "General"
@@ -621,8 +621,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HWnODBsgHdE/hqdefault.jpg",
           "durationSeconds": 914,
           "durationFormatted": "15:14",
-          "views": 3397,
-          "likes": 28,
+          "views": 3407,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Bh-lbuencM0/hqdefault.jpg",
           "durationSeconds": 1109,
           "durationFormatted": "18:29",
-          "views": 1503,
+          "views": 1651,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -663,7 +663,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 4,
-      "trendScore": 33.3,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/J9pofA6Hnrg/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 1685,
+          "views": 2096,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MGG_93BlaI0/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 250,
+          "views": 420,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lwSXD9OuvRI/hqdefault.jpg",
           "durationSeconds": 950,
           "durationFormatted": "15:50",
-          "views": 33,
+          "views": 75,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -732,7 +732,7 @@
       "clusterId": "जगदलपर-कय",
       "topic": "जगदलपुर क्या",
       "videoCount": 6,
-      "trendScore": 33.1,
+      "trendScore": 32.2,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EfQGWKfr2Nc/hqdefault.jpg",
           "durationSeconds": 39,
           "durationFormatted": "00:39",
-          "views": 1610,
+          "views": 1615,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -759,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aEnhXKSVlFU/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 828,
+          "views": 854,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -789,25 +789,25 @@
           "thumbnail": "https://i.ytimg.com/vi/uVdQaZyHtVU/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 236,
+          "views": 247,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "2Hygoh_VOYE",
-          "title": "जगदलपुर शहर में विकास कार्य क्यों अटके?",
-          "description": "जगदलपुर शहर में विकास कार्य क्यों अटके? #SaiGovernment #ChhattisgarhPolitics #Jagdalpur ...",
+          "videoId": "YC_7hnHAtS8",
+          "title": "जगदलपुर में संभावनाओं को लेकर क्या बोले सांसद?",
+          "description": "जगदलपुर में संभावनाओं को लेकर क्या बोले सांसद? #SaiGovernment #ChhattisgarhPolitics ...",
           "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-19T12:53:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/2Hygoh_VOYE/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 148,
-          "likes": 2,
+          "publishedAt": "2026-02-19T12:51:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/YC_7hnHAtS8/hqdefault.jpg",
+          "durationSeconds": 112,
+          "durationFormatted": "01:52",
+          "views": 158,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-19T12:53:41Z"
@@ -816,7 +816,7 @@
       "clusterId": "durg-सकल",
       "topic": "Durg स्कूल",
       "videoCount": 4,
-      "trendScore": 31.6,
+      "trendScore": 30.4,
       "topVideos": [
         {
           "index": 1,
@@ -828,7 +828,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pW5FZtqDsk4/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 727,
+          "views": 833,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -843,7 +843,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JfPkox7ZY_s/hqdefault.jpg",
           "durationSeconds": 794,
           "durationFormatted": "13:14",
-          "views": 212,
+          "views": 288,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -873,7 +873,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QGa9-LB5Odg/hqdefault.jpg",
           "durationSeconds": 1011,
           "durationFormatted": "16:51",
-          "views": 3,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
