@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-20T19:03:49.476794Z",
+  "generatedAt": "2026-02-20T20:47:17.483234Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 99,
-      "trendScore": 63.2,
+      "videoCount": 98,
+      "trendScore": 62.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,13 +18,28 @@
           "thumbnail": "https://i.ytimg.com/vi/0_CUVV2oORY/hqdefault.jpg",
           "durationSeconds": 1712,
           "durationFormatted": "28:32",
-          "views": 27316,
+          "views": 27447,
           "likes": 309,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "jwaIUYFyryI",
+          "title": "Hyderabad Jama Masjid Violence : मस्जिद के पास बीती रात तनाव , यूट्यूबर को भीड़ ने घेरा! Zee MPCG",
+          "description": "DinDahade : अंबरपेट जामा मस्जिद के पास बीती रात तनाव। दोनों ओर से की गई ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-20T08:40:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/jwaIUYFyryI/hqdefault.jpg",
+          "durationSeconds": 190,
+          "durationFormatted": "03:10",
+          "views": 25920,
+          "likes": 174,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
           "videoId": "9AD4tCIUzyg",
           "title": "शादी समारोह में आतिशाबाजी, दूल्हे के घर में लगी आग...",
           "description": "Report/Story: Yashwant Sahu Labhesh Ghosh Yogesh Sahu Gaurav Yadav Harendra Sahu Camera: Aditya Ghosh Shubham ...",
@@ -33,40 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/9AD4tCIUzyg/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 7230,
-          "likes": 371,
+          "views": 13701,
+          "likes": 403,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 3,
-          "videoId": "oAXbFPz2ZMs",
-          "title": "AI Impact Summit में Galgotias Univ ने कटाया नाक | China Robo Dog | Gov ने भगाया | Ground Report |",
-          "description": "AI Impact Summit में Galgotias Univ ने कटाया नाक | China Robo Dog | Gov ने भगाया | Ground Report ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-02-20T02:00:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/oAXbFPz2ZMs/hqdefault.jpg",
-          "durationSeconds": 570,
-          "durationFormatted": "09:30",
-          "views": 4765,
-          "likes": 116,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
           "index": 4,
-          "videoId": "c6_kphpRzNs",
-          "title": "Breaking News: सीएम योगी की बड़ी घोषणा, शिक्षामित्रों को 18000 तो अनुदेशकों को 17000 मानदेय",
-          "description": "UP Shiksha Mitra Salary Hike: उत्तर प्रदेश सरकार ने शिक्षा मित्रों का मानदेय 10 ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-20T12:35:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/c6_kphpRzNs/hqdefault.jpg",
-          "durationSeconds": 32,
-          "durationFormatted": "00:32",
-          "views": 4570,
-          "likes": 55,
+          "videoId": "5_Go502Hmnc",
+          "title": "🔴LIVE, Chhattisgarh News 20 February 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh Baghel",
+          "description": "IBC24, LIVE, Chhattisgarh News 20 February 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-20T19:35:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/5_Go502Hmnc/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 9182,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "Jobs"
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/nj9qX48rjuo/hqdefault.jpg",
           "durationSeconds": 282,
           "durationFormatted": "04:42",
-          "views": 4236,
-          "likes": 70,
+          "views": 6159,
+          "likes": 74,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-20T18:56:26Z"
+      "latestUpdateAt": "2026-02-20T19:35:53Z"
     },
     {
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
       "videoCount": 14,
-      "trendScore": 44.4,
+      "trendScore": 43.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tqV2hvE0JOM/hqdefault.jpg",
           "durationSeconds": 942,
           "durationFormatted": "15:42",
-          "views": 9485,
+          "views": 9572,
           "likes": 43,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Gpbsn5jaAj8/hqdefault.jpg",
           "durationSeconds": 1109,
           "durationFormatted": "18:29",
-          "views": 2527,
+          "views": 2524,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -147,23 +147,23 @@
           "thumbnail": "https://i.ytimg.com/vi/Q1kFFCryTl8/hqdefault.jpg",
           "durationSeconds": 625,
           "durationFormatted": "10:25",
-          "views": 382,
+          "views": 402,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "WKbYJepiffU",
-          "title": "सूरजपुर - निजी भूमि में आंगनबाड़ी भवन का निर्माण, पीड़ित ने किया शिकायतChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-02-20T07:59:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/WKbYJepiffU/hqdefault.jpg",
-          "durationSeconds": 168,
-          "durationFormatted": "02:48",
-          "views": 240,
-          "likes": 6,
+          "videoId": "4G8RJQ4YLmY",
+          "title": "Chhattisgarh में लगेगा बिजली का झटका? क्या फिर होने वाली है जेब बेहाल? | CG Electricity Hike",
+          "description": "IBC24, Chhattisgarh में लगेगा बिजली का झटका? क्या फिर होने वाली है जेब बेहाल?",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-20T16:34:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/4G8RJQ4YLmY/hqdefault.jpg",
+          "durationSeconds": 196,
+          "durationFormatted": "03:16",
+          "views": 277,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-oxygen",
       "topic": "Bhaskar Oxygen",
       "videoCount": 8,
-      "trendScore": 41.5,
+      "trendScore": 40.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CYKtWGZqcZ8/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 1781,
+          "views": 1819,
           "likes": 53,
           "videoType": "VOD",
           "genre": "Politics"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NAkPBCD8QBM/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 1549,
-          "likes": 39,
+          "views": 1663,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-8bTBH7I9h8/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 1275,
+          "views": 1404,
           "likes": 86,
           "videoType": "VOD",
           "genre": "Civic"
@@ -231,23 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/LzThOff1Cv4/hqdefault.jpg",
           "durationSeconds": 834,
           "durationFormatted": "13:54",
-          "views": 686,
-          "likes": 26,
+          "views": 1132,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "qeELuk1w1tM",
-          "title": "RTO विभाग ने कॉलेज स्टूडेंट्स को बांटे हेलेमट | CG Bhaskar",
-          "description": "RTO विभाग ने कॉलेज स्टूडेंट्स को बांटे हेलेमट | CG Bhaskar Join our Whatsapp Group ...",
+          "videoId": "dL3DZinPs0Q",
+          "title": "बार-बार किसी की याद आना इस बात का है संकेत | CG Bhaskar",
+          "description": "बार-बार किसी की याद आना इस बात का है संकेत | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-20T09:01:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/qeELuk1w1tM/hqdefault.jpg",
-          "durationSeconds": 123,
-          "durationFormatted": "02:03",
-          "views": 500,
-          "likes": 4,
+          "publishedAt": "2026-02-20T11:57:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/dL3DZinPs0Q/hqdefault.jpg",
+          "durationSeconds": 44,
+          "durationFormatted": "00:44",
+          "views": 561,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,94 +255,10 @@
       "latestUpdateAt": "2026-02-20T15:30:26Z"
     },
     {
-      "clusterId": "उडन-दसत",
-      "topic": "उड़न दस्ते",
-      "videoCount": 16,
-      "trendScore": 39.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "ANJckXRHolg",
-          "title": "बेमेतरा: 10वीं और 12वीं की परीक्षा का नया शेड्यूल , सुरक्षा और उड़न दस्ते तैनात",
-          "description": "chhattisgarhnews #madhyapradehnews #bemetaranews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-20T10:22:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/ANJckXRHolg/hqdefault.jpg",
-          "durationSeconds": 165,
-          "durationFormatted": "02:45",
-          "views": 15,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 2,
-          "videoId": "fWmMM4Hv7Q4",
-          "title": "राजनांदगांव: पहला दिन शांतिपूर्ण रहा ,नकल रोकने 11 उड़न दस्ते सक्रिय,भूगोल और भौतिकी से हुई शुरुआत",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-20T08:41:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/fWmMM4Hv7Q4/hqdefault.jpg",
-          "durationSeconds": 167,
-          "durationFormatted": "02:47",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "GvQyf6VSUGI",
-          "title": "छुरिया में भक्ति का माहौल ,शाकंभरी महोत्सव में उमड़ी आस्था ,सामाजिक एकता की प्रेरणा",
-          "description": "chhattisgarhnews #madhyapradehnews #chhuriya .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-20T12:51:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/GvQyf6VSUGI/hqdefault.jpg",
-          "durationSeconds": 38,
-          "durationFormatted": "00:38",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "jPM9jcfYI_k",
-          "title": "भिलाई के निजी स्कूल पर गंभीर आरोप , फीस के कारण छात्रा की मार्कशीट रोकी",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-20T12:07:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/jPM9jcfYI_k/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "ryaHeMmKBAM",
-          "title": "अंबिकापुर: बोर्ड परीक्षा में पढ़ाई बनाए रखने के लिए पुलिस ने कड़ी चेतावनी दी ,डीजे संचालन पर सख्ती",
-          "description": "chhattisgarhnews #madhyapradehnews #ambikapur .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-20T10:20:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/ryaHeMmKBAM/hqdefault.jpg",
-          "durationSeconds": 92,
-          "durationFormatted": "01:32",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        }
-      ],
-      "latestUpdateAt": "2026-02-20T12:51:50Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 6,
-      "trendScore": 38.3,
+      "videoCount": 7,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ECBnpwgBGKI/hqdefault.jpg",
           "durationSeconds": 9,
           "durationFormatted": "00:09",
-          "views": 23613,
-          "likes": 195,
+          "views": 31363,
+          "likes": 198,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kQuAx2BESAM/hqdefault.jpg",
           "durationSeconds": 9,
           "durationFormatted": "00:09",
-          "views": 8557,
-          "likes": 69,
+          "views": 10839,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -384,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3zt8MwCnpas/hqdefault.jpg",
           "durationSeconds": 732,
           "durationFormatted": "12:12",
-          "views": 837,
+          "views": 1072,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -399,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SBrZs5XCMk0/hqdefault.jpg",
           "durationSeconds": 40026,
           "durationFormatted": "11:07:06",
-          "views": 734,
+          "views": 736,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -423,10 +339,94 @@
       "latestUpdateAt": "2026-02-20T15:42:22Z"
     },
     {
+      "clusterId": "उडन-दसत",
+      "topic": "उड़न दस्ते",
+      "videoCount": 16,
+      "trendScore": 37.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "ANJckXRHolg",
+          "title": "बेमेतरा: 10वीं और 12वीं की परीक्षा का नया शेड्यूल , सुरक्षा और उड़न दस्ते तैनात",
+          "description": "chhattisgarhnews #madhyapradehnews #bemetaranews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-20T10:22:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/ANJckXRHolg/hqdefault.jpg",
+          "durationSeconds": 165,
+          "durationFormatted": "02:45",
+          "views": 18,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "fWmMM4Hv7Q4",
+          "title": "राजनांदगांव: पहला दिन शांतिपूर्ण रहा ,नकल रोकने 11 उड़न दस्ते सक्रिय,भूगोल और भौतिकी से हुई शुरुआत",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-20T08:41:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/fWmMM4Hv7Q4/hqdefault.jpg",
+          "durationSeconds": 167,
+          "durationFormatted": "02:47",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "XYv-KoNuTfI",
+          "title": "दुर्ग - ग्राम कैशोखेरी में बिरसा मुंडा की प्रतिमा का अनावरण ,ललित चंद्राकर ने दी श्रद्धांजलि",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-20T12:07:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/XYv-KoNuTfI/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "z5OYfv-valw",
+          "title": "दुर्ग में साथी बाजार का भूमिपूजन किसानों को मिलेगी नई सुविधा,5000 टन क्षमता का कोल्ड स्टोरेज बनेगा",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-20T12:05:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/z5OYfv-valw/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 8,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Sl6ChNwO9v4",
+          "title": "भिलाई: जामुल पुलिस ने पकड़ा अंतरराज्यीय साइबर गिरोह , 4 आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-20T12:00:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sl6ChNwO9v4/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 7,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-02-20T12:51:50Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 34.5,
+      "trendScore": 33.1,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lyaQM_gkmyk/hqdefault.jpg",
           "durationSeconds": 190,
           "durationFormatted": "03:10",
-          "views": 1683,
-          "likes": 42,
+          "views": 2828,
+          "likes": 53,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -450,7 +450,7 @@
       "clusterId": "supreme-court",
       "topic": "Supreme Court",
       "videoCount": 4,
-      "trendScore": 33.2,
+      "trendScore": 31.6,
       "topVideos": [
         {
           "index": 1,
@@ -462,7 +462,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Aj6rgA1KZ4I/hqdefault.jpg",
           "durationSeconds": 187,
           "durationFormatted": "03:07",
-          "views": 551,
+          "views": 999,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -492,8 +492,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3IlIFagc0Qw/hqdefault.jpg",
           "durationSeconds": 191,
           "durationFormatted": "03:11",
-          "views": 14,
-          "likes": 0,
+          "views": 24,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Rf0EXCqMCP8/hqdefault.jpg",
           "durationSeconds": 349,
           "durationFormatted": "05:49",
-          "views": 11,
+          "views": 12,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -519,7 +519,7 @@
       "clusterId": "धमतर-bjp",
       "topic": "धमतरी BJP",
       "videoCount": 5,
-      "trendScore": 31.0,
+      "trendScore": 30.1,
       "topVideos": [
         {
           "index": 1,
@@ -531,7 +531,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zfTduRD1RCk/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 989,
+          "views": 1036,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
@@ -546,28 +546,13 @@
           "thumbnail": "https://i.ytimg.com/vi/oE8YtJ9dxMk/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 195,
+          "views": 219,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "Y4UhpsvzPVc",
-          "title": "धमतरी में भाजपा के लिए माहौल क्यों नहीं बनता ?",
-          "description": "धमतरी में भाजपा के लिए माहौल क्यों नहीं बनता ? #HaribhoomiINH #DistrictSamvad ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-20T12:23:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/Y4UhpsvzPVc/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 166,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "T5y12An4qRQ",
           "title": "धमतरी में अब तक ऑडिटोरियम क्यों नहीं बन पाया ?",
           "description": "धमतरी में अब तक ऑडिटोरियम क्यों नहीं बन पाया ? #HaribhoomiINH #DistrictSamvad ...",
@@ -582,7 +567,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "Sn92OhdCChk",
           "title": "क्या धमतरी में इंडस्ट्रियल एरिया डेवलप हो पाएगा ?",
           "description": "क्या धमतरी में इंडस्ट्रियल एरिया डेवलप हो पाएगा ? #HaribhoomiINH #DistrictSamvad ...",
@@ -591,7 +576,22 @@
           "thumbnail": "https://i.ytimg.com/vi/Sn92OhdCChk/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 151,
+          "views": 161,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Y4UhpsvzPVc",
+          "title": "धमतरी में भाजपा के लिए माहौल क्यों नहीं बनता ?",
+          "description": "धमतरी में भाजपा के लिए माहौल क्यों नहीं बनता ? #HaribhoomiINH #DistrictSamvad ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-20T12:23:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/Y4UhpsvzPVc/hqdefault.jpg",
+          "durationSeconds": 90,
+          "durationFormatted": "01:30",
+          "views": 157,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
