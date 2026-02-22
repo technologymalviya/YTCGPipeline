@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-22T20:40:16.199329Z",
+  "generatedAt": "2026-02-22T22:40:16.340808Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 96,
-      "trendScore": 63.7,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vPUbxQJLC7c/hqdefault.jpg",
           "durationSeconds": 1531,
           "durationFormatted": "25:31",
-          "views": 31114,
+          "views": 31129,
           "likes": 339,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QHYUuQgMa6U/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 21620,
-          "likes": 404,
+          "views": 22000,
+          "likes": 405,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nkI0tFwEh6w/hqdefault.jpg",
           "durationSeconds": 717,
           "durationFormatted": "11:57",
-          "views": 20918,
+          "views": 21133,
           "likes": 354,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PJaV3mayUp0/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 19126,
+          "views": 19300,
           "likes": 183,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JYjLwPFvaa4/hqdefault.jpg",
           "durationSeconds": 316,
           "durationFormatted": "05:16",
-          "views": 15052,
-          "likes": 687,
+          "views": 15104,
+          "likes": 688,
           "videoType": "VOD",
           "genre": "Jobs"
         }
@@ -90,7 +90,7 @@
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
       "videoCount": 14,
-      "trendScore": 46.2,
+      "trendScore": 45.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NEFACNusyl8/hqdefault.jpg",
           "durationSeconds": 901,
           "durationFormatted": "15:01",
-          "views": 38339,
-          "likes": 296,
+          "views": 38465,
+          "likes": 299,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RVXvKotOF34/hqdefault.jpg",
           "durationSeconds": 1522,
           "durationFormatted": "25:22",
-          "views": 16059,
+          "views": 16078,
           "likes": 262,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nwuQAec3zVA/hqdefault.jpg",
           "durationSeconds": 938,
           "durationFormatted": "15:38",
-          "views": 3727,
+          "views": 3739,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8pK-HFs8qWY/hqdefault.jpg",
           "durationSeconds": 1108,
           "durationFormatted": "18:28",
-          "views": 1033,
-          "likes": 2,
+          "views": 1099,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -171,10 +171,94 @@
       "latestUpdateAt": "2026-02-22T20:27:58Z"
     },
     {
+      "clusterId": "surrender-devji",
+      "topic": "Surrender Devji",
+      "videoCount": 9,
+      "trendScore": 40.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "SYYkA9XbJWg",
+          "title": "🔴 Naxali Surrender News LIVE: लाल आतंक का अंत! नक्सल संगठन के मुखिया देवजी ने किया सरेंडर-सूत्र",
+          "description": "IBC24, Naxali Surrender News LIVE: लाल आतंक का अंत! नक्सल संगठन के मुखिया देवजी ने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-22T18:48:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/SYYkA9XbJWg/hqdefault.jpg",
+          "durationSeconds": 42899,
+          "durationFormatted": "11:54:59",
+          "views": 5975,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "RQW7w9PHlc4",
+          "title": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram | Chhattisgarh News",
+          "description": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-22T13:14:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/RQW7w9PHlc4/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 2898,
+          "likes": 54,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "dySlNUfEbeU",
+          "title": "Naxalites Deviji Surrender Live: नक्सल संगठन के मुखिया देव जी ने साथियों के साथ किया सरेंडर..! Naxal",
+          "description": "Naxalites Deviji Surrender Live: नक्सल संगठन के मुखिया देव जी ने साथियों के साथ किया ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-22T16:00:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/dySlNUfEbeU/hqdefault.jpg",
+          "durationSeconds": 30376,
+          "durationFormatted": "08:26:16",
+          "views": 2845,
+          "likes": 22,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "egtHcngFuXI",
+          "title": "🔴Devji  का Surrender मतलब देश से नक्सलवाद खत्म ! | Devji Surrender | Naxalism | Naxal Encounter",
+          "description": "Devji का Surrender मतलब देश से नक्सलवाद खत्म ! | Devji Surrender | Naxalism | Naxal Encounter ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-22T18:01:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/egtHcngFuXI/hqdefault.jpg",
+          "durationSeconds": 35763,
+          "durationFormatted": "09:56:03",
+          "views": 1416,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "E4QEZSWzLjw",
+          "title": "🔴Naxalites को बहुत बड़ा झटका, सबसे बड़े लीडर Devji का Telangana में Surrender | Naxal Surrender",
+          "description": "Naxalites को बहुत बड़ा झटका, सबसे बड़े लीडर Devji का Telangana में Surrender | Naxal Surrender ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-22T17:59:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/E4QEZSWzLjw/hqdefault.jpg",
+          "durationSeconds": 40470,
+          "durationFormatted": "11:14:30",
+          "views": 1378,
+          "likes": 31,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-02-22T19:46:23Z"
+    },
+    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 6,
-      "trendScore": 42.3,
+      "trendScore": 39.8,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VV8DvqhDkAc/hqdefault.jpg",
           "durationSeconds": 761,
           "durationFormatted": "12:41",
-          "views": 4732,
-          "likes": 233,
+          "views": 8332,
+          "likes": 259,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4P0peBgHKsE/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 2100,
-          "likes": 66,
+          "views": 2164,
+          "likes": 65,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Kbg_AzVe3iE/hqdefault.jpg",
           "durationSeconds": 603,
           "durationFormatted": "10:03",
-          "views": 390,
+          "views": 400,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I-x1rdmsWn0/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 70,
+          "views": 80,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -255,94 +339,94 @@
       "latestUpdateAt": "2026-02-22T18:32:31Z"
     },
     {
-      "clusterId": "surrender-devji",
-      "topic": "Surrender Devji",
-      "videoCount": 8,
-      "trendScore": 40.2,
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 11,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "RQW7w9PHlc4",
-          "title": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram | Chhattisgarh News",
-          "description": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T13:14:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/RQW7w9PHlc4/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 2836,
-          "likes": 54,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "dySlNUfEbeU",
-          "title": "Naxalites Deviji Surrender Live: नक्सल संगठन के मुखिया देव जी ने साथियों के साथ किया सरेंडर..! Naxal",
-          "description": "Naxalites Deviji Surrender Live: नक्सल संगठन के मुखिया देव जी ने साथियों के साथ किया ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T16:00:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/dySlNUfEbeU/hqdefault.jpg",
-          "durationSeconds": 30376,
-          "durationFormatted": "08:26:16",
-          "views": 2772,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "egtHcngFuXI",
-          "title": "🔴Devji  का Surrender मतलब देश से नक्सलवाद खत्म ! | Devji Surrender | Naxalism | Naxal Encounter",
-          "description": "Devji का Surrender मतलब देश से नक्सलवाद खत्म ! | Devji Surrender | Naxalism | Naxal Encounter ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-22T18:01:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/egtHcngFuXI/hqdefault.jpg",
-          "durationSeconds": 35763,
-          "durationFormatted": "09:56:03",
-          "views": 1403,
-          "likes": 17,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "E4QEZSWzLjw",
-          "title": "🔴Naxalites को बहुत बड़ा झटका, सबसे बड़े लीडर Devji का Telangana में Surrender | Naxal Surrender",
-          "description": "Naxalites को बहुत बड़ा झटका, सबसे बड़े लीडर Devji का Telangana में Surrender | Naxal Surrender ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-22T17:59:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/E4QEZSWzLjw/hqdefault.jpg",
-          "durationSeconds": 40470,
-          "durationFormatted": "11:14:30",
-          "views": 1377,
-          "likes": 31,
+          "videoId": "5Zl9hQ5OKhY",
+          "title": "Nepal Religious Controversy : मुस्लिमों का जमकर हंगामा... नेपाल में तैनात हुई सेना | Zee  MPCG",
+          "description": "Nepal Religious Controversy : शादी में बजा गाना... भाईजान को पसंद नहीं आया ! शादी ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-22T15:08:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/5Zl9hQ5OKhY/hqdefault.jpg",
+          "durationSeconds": 120,
+          "durationFormatted": "02:00",
+          "views": 1082,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
+          "index": 2,
+          "videoId": "UlMH1kRCCk4",
+          "title": "🔴LIVE: PM Modi Mann Ki Baat :  &#39;मन की बात&#39; का 131 वां एपिसोड | PM Modi | Mann Ki Baat | Zee MPCG",
+          "description": "LIVE: PM Modi Mann Ki Baat : 'मन की बात' का 131 वां एपिसोड | PM Modi | Mann Ki Baat | Zee MPCG #live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-22T18:15:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/UlMH1kRCCk4/hqdefault.jpg",
+          "durationSeconds": 1815,
+          "durationFormatted": "30:15",
+          "views": 373,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "H5I_FfV6jcA",
+          "title": "🔴LIVE : MP - CG  : नक्सली कमांडर देवजी का सरेंडर  | Breaking  | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : नक्सली कमांडर देवजी का सरेंडर | Breaking | Latest News | Zee MPCG #Live #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-22T20:23:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/H5I_FfV6jcA/hqdefault.jpg",
+          "durationSeconds": 1500,
+          "durationFormatted": "25:00",
+          "views": 193,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "79ZbFfQXM68",
+          "title": "Bangladesh Terrorist conspiracy : बंगाल टू तमिलनाडु... मुनीर की साजिश फेल | Zee MPCG",
+          "description": "Bangladesh Terrorist conspiracy : हिंदुस्तान में मुनीर के कितने 'जासूस' ? देश को ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-22T17:16:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/79ZbFfQXM68/hqdefault.jpg",
+          "durationSeconds": 313,
+          "durationFormatted": "05:13",
+          "views": 160,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
           "index": 5,
-          "videoId": "Wg8W2Q-EUWQ",
-          "title": "Devji Surrender: देवजी के सरेंडर के क्या हैं मायने? Naxalite News | Chhattisgarh | Top News",
-          "description": "Naxalite Devji Surrender: देवजी के सरेंडर के क्या हैं मायने? खुलेगा नक्सलियों का ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T13:46:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/Wg8W2Q-EUWQ/hqdefault.jpg",
-          "durationSeconds": 2156,
-          "durationFormatted": "35:56",
-          "views": 516,
-          "likes": 12,
+          "videoId": "KMBZhvPeSe0",
+          "title": "🔴LIVE : Special  Story : &#39;नक्सलवाद डेडलाइन से पहलेखात्मा तय| Latest News | Zee MPCG",
+          "description": "LIVE : Special Story : 'नक्सलवाद डेडलाइन से पहले खात्मा तय| Latest News | Zee MPCG #MuddatoHai ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-22T14:58:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/KMBZhvPeSe0/hqdefault.jpg",
+          "durationSeconds": 1322,
+          "durationFormatted": "22:02",
+          "views": 132,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-22T19:46:23Z"
+      "latestUpdateAt": "2026-02-22T21:56:48Z"
     },
     {
       "clusterId": "viral-shorts",
       "topic": "Viral Shorts",
       "videoCount": 4,
-      "trendScore": 38.2,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2da48hDflGs/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 77332,
+          "views": 82785,
           "likes": 345,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D2lfvoay_40/hqdefault.jpg",
           "durationSeconds": 11,
           "durationFormatted": "00:11",
-          "views": 14130,
+          "views": 14904,
           "likes": 100,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZnQpz1XVPQc/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 12990,
+          "views": 14342,
           "likes": 41,
           "videoType": "VOD",
           "genre": "General"
@@ -399,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LE4d_zs-0WU/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 1833,
-          "likes": 13,
+          "views": 2286,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -410,8 +494,8 @@
     {
       "clusterId": "नलद-खरगढ",
       "topic": "नालंदा खैरागढ़",
-      "videoCount": 14,
-      "trendScore": 35.2,
+      "videoCount": 11,
+      "trendScore": 32.1,
       "topVideos": [
         {
           "index": 1,
@@ -475,18 +559,18 @@
         },
         {
           "index": 5,
-          "videoId": "cSgRaJRDMVA",
-          "title": "पाकिस्तान का अफगानिस्तान में एयरस्ट्राइक , 28 ठिकाने नष्ट, जवाबी कार्रवाई की चेतावनी",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "videoId": "oYEnyQDrGYU",
+          "title": "राजनांदगांव में RPF की साइकिल रैली, दिग्विजय स्टेडियम से निकली फिट इंडिया साइकिलिंग",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-22T05:41:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/cSgRaJRDMVA/hqdefault.jpg",
-          "durationSeconds": 83,
-          "durationFormatted": "01:23",
-          "views": 9,
+          "publishedAt": "2026-02-22T12:45:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/oYEnyQDrGYU/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-22T13:50:22Z"
@@ -495,7 +579,7 @@
       "clusterId": "madhyapradesh-ytshorts",
       "topic": "madhyapradesh ytshorts",
       "videoCount": 5,
-      "trendScore": 32.2,
+      "trendScore": 31.4,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8_Hz-b5cQlw/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 1765,
+          "views": 2299,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f2qA9Vqriq8/hqdefault.jpg",
           "durationSeconds": 17,
           "durationFormatted": "00:17",
-          "views": 1039,
+          "views": 1091,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -567,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eCaS1gsRkw4/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 240,
+          "views": 301,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -579,7 +663,7 @@
       "clusterId": "supela-underbridge",
       "topic": "Supela Underbridge",
       "videoCount": 4,
-      "trendScore": 30.4,
+      "trendScore": 29.4,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c9SebuuB1lI/hqdefault.jpg",
           "durationSeconds": 392,
           "durationFormatted": "06:32",
-          "views": 2015,
+          "views": 2076,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -606,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0LLkidIaz2M/hqdefault.jpg",
           "durationSeconds": 297,
           "durationFormatted": "04:57",
-          "views": 664,
+          "views": 661,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -621,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SlPxV3VJf_g/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 413,
+          "views": 541,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -636,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EqPAfCE-gXw/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 232,
+          "views": 282,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -645,79 +729,10 @@
       "latestUpdateAt": "2026-02-22T18:30:18Z"
     },
     {
-      "clusterId": "jabalpur-highway",
-      "topic": "Jabalpur Highway",
-      "videoCount": 4,
-      "trendScore": 29.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "4yXo64Dm7o8",
-          "title": "Jabalpur Highway Viral Video: जबलपुर में ब्रिज का गिरा हिस्सा! #shorts #shortsnews #jabalpur",
-          "description": "Jabalpur Highway Viral Video: जबलपुर में ब्रिज का गिरा हिस्सा! #shorts #shortsnews #jabalpur ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T17:33:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/4yXo64Dm7o8/hqdefault.jpg",
-          "durationSeconds": 21,
-          "durationFormatted": "00:21",
-          "views": 1039,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "kjLzSIojCxI",
-          "title": "Jabalpur Bridge Collapse: NH-45 में रेलवे क्रासिंग ब्रिज का हिस्सा धंसा। जबलपुर-भोपाल मार्ग हुआ बंद",
-          "description": "IBC24, Jabalpur Bridge Collapse: NH-45 में रेलवे क्रासिंग ब्रिज का हिस्सा धंसा।",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-22T15:02:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/kjLzSIojCxI/hqdefault.jpg",
-          "durationSeconds": 288,
-          "durationFormatted": "04:48",
-          "views": 363,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "J3W8cTEhMXg",
-          "title": "Jabalpur: बड़ा हादसा टला, अचानक गिरा पुल | जबलपुर–भोपाल हाईवे बंद, वाहनों की लगी लंबी कतारें...",
-          "description": "Jabalpur: बड़ा हादसा टला, अचानक गिरा पुल | जबलपुर–भोपाल हाईवे बंद, वाहनों ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-22T15:54:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/J3W8cTEhMXg/hqdefault.jpg",
-          "durationSeconds": 383,
-          "durationFormatted": "06:23",
-          "views": 13,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "Ky4y4CsLYIo",
-          "title": "Jabalpur: शहपुरा बायपास के पास बना पुल अचानक गिरा | जबलपुर–भोपाल हाईवे बंद, यातायात किया गया डायवर्ट",
-          "description": "Jabalpur: शहपुरा बायपास के पास बना पुल अचानक गिरा | जबलपुर–भोपाल हाईवे ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-22T13:54:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ky4y4CsLYIo/hqdefault.jpg",
-          "durationSeconds": 118,
-          "durationFormatted": "01:58",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-22T17:33:43Z"
-    },
-    {
       "clusterId": "south-africa",
       "topic": "South Africa",
       "videoCount": 4,
-      "trendScore": 29.1,
+      "trendScore": 28.1,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TEY_iHAgEW4/hqdefault.jpg",
           "durationSeconds": 1092,
           "durationFormatted": "18:12",
-          "views": 64,
+          "views": 82,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -759,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8WO5dgQOCAo/hqdefault.jpg",
           "durationSeconds": 13911,
           "durationFormatted": "03:51:51",
-          "views": 46,
+          "views": 59,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -774,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8afhbrzsP0Q/hqdefault.jpg",
           "durationSeconds": 1076,
           "durationFormatted": "17:56",
-          "views": 26,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -786,7 +801,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 14.7,
+      "trendScore": 13.6,
       "topVideos": [
         {
           "index": 1,
@@ -798,7 +813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I10un0982s0/hqdefault.jpg",
           "durationSeconds": 341,
           "durationFormatted": "05:41",
-          "views": 10,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
