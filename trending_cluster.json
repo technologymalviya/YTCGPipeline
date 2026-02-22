@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-22T18:53:23.189929Z",
+  "generatedAt": "2026-02-22T20:40:16.199329Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 98,
-      "trendScore": 64.6,
+      "videoCount": 96,
+      "trendScore": 63.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,43 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/vPUbxQJLC7c/hqdefault.jpg",
           "durationSeconds": 1531,
           "durationFormatted": "25:31",
-          "views": 30873,
+          "views": 31114,
           "likes": 339,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "nkI0tFwEh6w",
-          "title": "Cgpsc Prelims Exam के बाद Students क्या बोले? सख्त नियम में पहली पाली  की परीक्षा पूरी.. | Harendra",
-          "description": "Cgpsc Prelims Exam के बाद Students क्या बोले? सख्त नियम में पहली पाली की परीक्षा ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-02-22T08:45:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/nkI0tFwEh6w/hqdefault.jpg",
-          "durationSeconds": 717,
-          "durationFormatted": "11:57",
-          "views": 19969,
-          "likes": 352,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 3,
-          "videoId": "PJaV3mayUp0",
-          "title": "रसोइया दीदी का तगड़ा सवाल | चूहों को सात करोड़ का धान, रसोइयों पर नहीं दे रहे ध्यान |@tirandaj",
-          "description": "cheesemovement #chhattisgarhchefsmovement #viralchef #7croreworthrice #रसोइयाआंदोलन ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-02-22T02:30:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/PJaV3mayUp0/hqdefault.jpg",
-          "durationSeconds": 42,
-          "durationFormatted": "00:42",
-          "views": 18600,
-          "likes": 181,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "QHYUuQgMa6U",
           "title": "किरिश के बाद कका का गाना ट्रेंड में | छाए कका विडिओ हुआ वायरल। @tirandaj",
           "description": "कोरबामलूटजाहिकंगना #viralreel #chhattisgarh #cgsong छत्तीसगढ़ में इन दिनों एक नया ...",
@@ -63,10 +33,40 @@
           "thumbnail": "https://i.ytimg.com/vi/QHYUuQgMa6U/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 18218,
-          "likes": 400,
+          "views": 21620,
+          "likes": 404,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "nkI0tFwEh6w",
+          "title": "Cgpsc Prelims Exam के बाद Students क्या बोले? सख्त नियम में पहली पाली  की परीक्षा पूरी.. | Harendra",
+          "description": "Cgpsc Prelims Exam के बाद Students क्या बोले? सख्त नियम में पहली पाली की परीक्षा ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-02-22T08:45:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/nkI0tFwEh6w/hqdefault.jpg",
+          "durationSeconds": 717,
+          "durationFormatted": "11:57",
+          "views": 20918,
+          "likes": 354,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 4,
+          "videoId": "PJaV3mayUp0",
+          "title": "रसोइया दीदी का तगड़ा सवाल | चूहों को सात करोड़ का धान, रसोइयों पर नहीं दे रहे ध्यान |@tirandaj",
+          "description": "cheesemovement #chhattisgarhchefsmovement #viralchef #7croreworthrice #रसोइयाआंदोलन ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-02-22T02:30:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/PJaV3mayUp0/hqdefault.jpg",
+          "durationSeconds": 42,
+          "durationFormatted": "00:42",
+          "views": 19126,
+          "likes": 183,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -78,32 +78,32 @@
           "thumbnail": "https://i.ytimg.com/vi/JYjLwPFvaa4/hqdefault.jpg",
           "durationSeconds": 316,
           "durationFormatted": "05:16",
-          "views": 14798,
-          "likes": 686,
+          "views": 15052,
+          "likes": 687,
           "videoType": "VOD",
           "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-02-22T18:08:06Z"
+      "latestUpdateAt": "2026-02-22T18:56:44Z"
     },
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
-      "videoCount": 13,
-      "trendScore": 45.6,
+      "videoCount": 14,
+      "trendScore": 46.2,
       "topVideos": [
         {
           "index": 1,
           "videoId": "NEFACNusyl8",
-          "title": "22 February 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
+          "title": "23 February 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh Samachar",
           "description": "22 February 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today ...",
           "channelTitle": "द छत्तीसगढ़ समाचार",
           "publishedAt": "2026-02-21T23:00:32Z",
           "thumbnail": "https://i.ytimg.com/vi/NEFACNusyl8/hqdefault.jpg",
           "durationSeconds": 901,
           "durationFormatted": "15:01",
-          "views": 37718,
-          "likes": 295,
+          "views": 38339,
+          "likes": 296,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RVXvKotOF34/hqdefault.jpg",
           "durationSeconds": 1522,
           "durationFormatted": "25:22",
-          "views": 15831,
+          "views": 16059,
           "likes": 262,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qCCIrxw0xfI/hqdefault.jpg",
           "durationSeconds": 1102,
           "durationFormatted": "18:22",
-          "views": 8573,
+          "views": 8609,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nwuQAec3zVA/hqdefault.jpg",
           "durationSeconds": 938,
           "durationFormatted": "15:38",
-          "views": 3714,
+          "views": 3727,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -155,26 +155,26 @@
         {
           "index": 5,
           "videoId": "8pK-HFs8qWY",
-          "title": "22  February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "23 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "22 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
           "channelTitle": "Chhattisgarh News Hindi ",
           "publishedAt": "2026-02-22T13:30:16Z",
           "thumbnail": "https://i.ytimg.com/vi/8pK-HFs8qWY/hqdefault.jpg",
           "durationSeconds": 1108,
           "durationFormatted": "18:28",
-          "views": 930,
+          "views": 1033,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-22T17:45:06Z"
+      "latestUpdateAt": "2026-02-22T20:27:58Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 6,
-      "trendScore": 42.5,
+      "trendScore": 42.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VV8DvqhDkAc/hqdefault.jpg",
           "durationSeconds": 761,
           "durationFormatted": "12:41",
-          "views": 2097,
-          "likes": 106,
+          "views": 4732,
+          "likes": 233,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4P0peBgHKsE/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 1665,
-          "likes": 63,
+          "views": 2100,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6EbjhZjtkB4/hqdefault.jpg",
           "durationSeconds": 1001,
           "durationFormatted": "16:41",
-          "views": 461,
+          "views": 573,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Kbg_AzVe3iE/hqdefault.jpg",
           "durationSeconds": 603,
           "durationFormatted": "10:03",
-          "views": 281,
-          "likes": 5,
+          "views": 390,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I-x1rdmsWn0/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 30,
+          "views": 70,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -255,10 +255,94 @@
       "latestUpdateAt": "2026-02-22T18:32:31Z"
     },
     {
+      "clusterId": "surrender-devji",
+      "topic": "Surrender Devji",
+      "videoCount": 8,
+      "trendScore": 40.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "RQW7w9PHlc4",
+          "title": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram | Chhattisgarh News",
+          "description": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-22T13:14:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/RQW7w9PHlc4/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 2836,
+          "likes": 54,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "dySlNUfEbeU",
+          "title": "Naxalites Deviji Surrender Live: नक्सल संगठन के मुखिया देव जी ने साथियों के साथ किया सरेंडर..! Naxal",
+          "description": "Naxalites Deviji Surrender Live: नक्सल संगठन के मुखिया देव जी ने साथियों के साथ किया ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-22T16:00:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/dySlNUfEbeU/hqdefault.jpg",
+          "durationSeconds": 30376,
+          "durationFormatted": "08:26:16",
+          "views": 2772,
+          "likes": 22,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "egtHcngFuXI",
+          "title": "🔴Devji  का Surrender मतलब देश से नक्सलवाद खत्म ! | Devji Surrender | Naxalism | Naxal Encounter",
+          "description": "Devji का Surrender मतलब देश से नक्सलवाद खत्म ! | Devji Surrender | Naxalism | Naxal Encounter ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-22T18:01:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/egtHcngFuXI/hqdefault.jpg",
+          "durationSeconds": 35763,
+          "durationFormatted": "09:56:03",
+          "views": 1403,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "E4QEZSWzLjw",
+          "title": "🔴Naxalites को बहुत बड़ा झटका, सबसे बड़े लीडर Devji का Telangana में Surrender | Naxal Surrender",
+          "description": "Naxalites को बहुत बड़ा झटका, सबसे बड़े लीडर Devji का Telangana में Surrender | Naxal Surrender ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-22T17:59:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/E4QEZSWzLjw/hqdefault.jpg",
+          "durationSeconds": 40470,
+          "durationFormatted": "11:14:30",
+          "views": 1377,
+          "likes": 31,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "Wg8W2Q-EUWQ",
+          "title": "Devji Surrender: देवजी के सरेंडर के क्या हैं मायने? Naxalite News | Chhattisgarh | Top News",
+          "description": "Naxalite Devji Surrender: देवजी के सरेंडर के क्या हैं मायने? खुलेगा नक्सलियों का ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-22T13:46:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/Wg8W2Q-EUWQ/hqdefault.jpg",
+          "durationSeconds": 2156,
+          "durationFormatted": "35:56",
+          "views": 516,
+          "likes": 12,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-22T19:46:23Z"
+    },
+    {
       "clusterId": "viral-shorts",
       "topic": "Viral Shorts",
       "videoCount": 4,
-      "trendScore": 39.1,
+      "trendScore": 38.2,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2da48hDflGs/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 60405,
-          "likes": 328,
+          "views": 77332,
+          "likes": 345,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/D2lfvoay_40/hqdefault.jpg",
           "durationSeconds": 11,
           "durationFormatted": "00:11",
-          "views": 11333,
-          "likes": 99,
+          "views": 14130,
+          "likes": 100,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZnQpz1XVPQc/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 9235,
+          "views": 12990,
           "likes": 41,
           "videoType": "VOD",
           "genre": "General"
@@ -315,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LE4d_zs-0WU/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 1382,
-          "likes": 11,
+          "views": 1833,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -324,79 +408,10 @@
       "latestUpdateAt": "2026-02-22T17:38:08Z"
     },
     {
-      "clusterId": "devji-surrender",
-      "topic": "Devji Surrender",
-      "videoCount": 4,
-      "trendScore": 36.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "RQW7w9PHlc4",
-          "title": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram | Chhattisgarh News",
-          "description": "Devji Surrender: सबसे बड़े Naxalite देवजी के साथ और किसने डाले हथियार? | Sangram ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T13:14:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/RQW7w9PHlc4/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 2181,
-          "likes": 55,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "Wg8W2Q-EUWQ",
-          "title": "Devji Surrender: देवजी के सरेंडर के क्या हैं मायने? Naxalite News | Chhattisgarh | Top News",
-          "description": "Naxalite Devji Surrender: देवजी के सरेंडर के क्या हैं मायने? खुलेगा नक्सलियों का ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T13:46:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/Wg8W2Q-EUWQ/hqdefault.jpg",
-          "durationSeconds": 2156,
-          "durationFormatted": "35:56",
-          "views": 387,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "Bx7x6YvVG5Y",
-          "title": "Top Naxalite Devji Surrender News: नक्सल मोर्चे पर मिली बड़ी सफलता। देवजी और मल्ला ने डाले हथियार",
-          "description": "IBC24, Top Naxalite Devji Surrender News: नक्सल मोर्चे पर मिली बड़ी सफलता। देवजी और ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-22T16:37:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/Bx7x6YvVG5Y/hqdefault.jpg",
-          "durationSeconds": 314,
-          "durationFormatted": "05:14",
-          "views": 99,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Z-C5dzI779U",
-          "title": "Naxal Surrender: Devji-Malla Rajireddy सरेंडर के बाद अब कितने नक्सली बचे? Chhattisgarh | Top News",
-          "description": "Naxal Surrender 2026 के तहत 31 मार्च 2026 की डेडलाइन से पहले टॉप माओवादी नेता ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-02-22T17:22:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/Z-C5dzI779U/hqdefault.jpg",
-          "durationSeconds": 245,
-          "durationFormatted": "04:05",
-          "views": 78,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-02-22T17:22:21Z"
-    },
-    {
       "clusterId": "नलद-खरगढ",
       "topic": "नालंदा खैरागढ़",
-      "videoCount": 11,
-      "trendScore": 34.8,
+      "videoCount": 14,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -408,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A0HFhWjR_gY/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 20,
+          "views": 25,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -430,21 +445,6 @@
         },
         {
           "index": 3,
-          "videoId": "dYxZxixpRFc",
-          "title": "राजनांदगांव में नई मतदाता सूची जारी, 12,277 नए वोटर जुड़े, 55 हजार से ज्यादा नाम हटाए गए",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-22T12:45:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/dYxZxixpRFc/hqdefault.jpg",
-          "durationSeconds": 42,
-          "durationFormatted": "00:42",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "3MFYurVGW4o",
           "title": "खैरागढ़: रायपुर में भाजयुमो का राजीव भवन घेराव ,AI समिट विवाद पर कांग्रेस के खिलाफ प्रदर्शन",
           "description": "chhattisgarhnews #madhyapradehnews #khairagarh .",
@@ -453,25 +453,40 @@
           "thumbnail": "https://i.ytimg.com/vi/3MFYurVGW4o/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 7,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 5,
-          "videoId": "oYEnyQDrGYU",
-          "title": "राजनांदगांव में RPF की साइकिल रैली, दिग्विजय स्टेडियम से निकली फिट इंडिया साइकिलिंग",
+          "index": 4,
+          "videoId": "dYxZxixpRFc",
+          "title": "राजनांदगांव में नई मतदाता सूची जारी, 12,277 नए वोटर जुड़े, 55 हजार से ज्यादा नाम हटाए गए",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-22T12:45:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/oYEnyQDrGYU/hqdefault.jpg",
-          "durationSeconds": 41,
-          "durationFormatted": "00:41",
-          "views": 6,
+          "publishedAt": "2026-02-22T12:45:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/dYxZxixpRFc/hqdefault.jpg",
+          "durationSeconds": 42,
+          "durationFormatted": "00:42",
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "cSgRaJRDMVA",
+          "title": "पाकिस्तान का अफगानिस्तान में एयरस्ट्राइक , 28 ठिकाने नष्ट, जवाबी कार्रवाई की चेतावनी",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-22T05:41:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/cSgRaJRDMVA/hqdefault.jpg",
+          "durationSeconds": 83,
+          "durationFormatted": "01:23",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-22T13:50:22Z"
@@ -480,7 +495,7 @@
       "clusterId": "madhyapradesh-ytshorts",
       "topic": "madhyapradesh ytshorts",
       "videoCount": 5,
-      "trendScore": 32.9,
+      "trendScore": 32.2,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8_Hz-b5cQlw/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 1232,
+          "views": 1765,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -507,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f2qA9Vqriq8/hqdefault.jpg",
           "durationSeconds": 17,
           "durationFormatted": "00:17",
-          "views": 1016,
+          "views": 1039,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ytSnN7hxywo/hqdefault.jpg",
           "durationSeconds": 23,
           "durationFormatted": "00:23",
-          "views": 921,
+          "views": 1011,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uhqzXc5Glbo/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 619,
+          "views": 836,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eCaS1gsRkw4/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 168,
+          "views": 240,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -561,10 +576,79 @@
       "latestUpdateAt": "2026-02-22T17:56:18Z"
     },
     {
-      "clusterId": "jabalpur-bridge",
-      "topic": "Jabalpur Bridge",
-      "videoCount": 5,
-      "trendScore": 32.2,
+      "clusterId": "supela-underbridge",
+      "topic": "Supela Underbridge",
+      "videoCount": 4,
+      "trendScore": 30.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "c9SebuuB1lI",
+          "title": "Supela New Underbridge का हाल बेहाल, करोड़ों रुपये गया पानी में! || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-02-22T10:06:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/c9SebuuB1lI/hqdefault.jpg",
+          "durationSeconds": 392,
+          "durationFormatted": "06:32",
+          "views": 2015,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "0LLkidIaz2M",
+          "title": "हॉस्पिटल के सामने मौT का गड्ढा! हIदसा हुआ तो जिम्मेदार कौन? || KP NEWS || Shivali A Soni",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-02-22T14:30:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/0LLkidIaz2M/hqdefault.jpg",
+          "durationSeconds": 297,
+          "durationFormatted": "04:57",
+          "views": 664,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "SlPxV3VJf_g",
+          "title": "Supela Underbridge का हाल बेहाल, करोड़ों रुपये बर्बाद! || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-02-22T16:30:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/SlPxV3VJf_g/hqdefault.jpg",
+          "durationSeconds": 102,
+          "durationFormatted": "01:42",
+          "views": 413,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 4,
+          "videoId": "EqPAfCE-gXw",
+          "title": "मदिर में नंगे पैर जाने की ये है असली वजह!",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-02-22T18:30:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/EqPAfCE-gXw/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 232,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-22T18:30:18Z"
+    },
+    {
+      "clusterId": "jabalpur-highway",
+      "topic": "Jabalpur Highway",
+      "videoCount": 4,
+      "trendScore": 29.9,
       "topVideos": [
         {
           "index": 1,
@@ -576,8 +660,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4yXo64Dm7o8/hqdefault.jpg",
           "durationSeconds": 21,
           "durationFormatted": "00:21",
-          "views": 748,
-          "likes": 4,
+          "views": 1039,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -591,25 +675,25 @@
           "thumbnail": "https://i.ytimg.com/vi/kjLzSIojCxI/hqdefault.jpg",
           "durationSeconds": 288,
           "durationFormatted": "04:48",
-          "views": 332,
+          "views": 363,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "7Dk_Vq6EzJ0",
-          "title": "Jabalpur Bridge Collapse: जबलपुर-भोपाल NH पर बना पुल टूटने से मचा हड़कंप! | Breaking News",
-          "description": "Jabalpur Bridge Collapse: जबलपुर-भोपाल NH पर बना पुल टूटने से मचा हड़कंप! | Breaking ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-22T13:59:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/7Dk_Vq6EzJ0/hqdefault.jpg",
-          "durationSeconds": 174,
-          "durationFormatted": "02:54",
-          "views": 194,
-          "likes": 6,
+          "videoId": "J3W8cTEhMXg",
+          "title": "Jabalpur: बड़ा हादसा टला, अचानक गिरा पुल | जबलपुर–भोपाल हाईवे बंद, वाहनों की लगी लंबी कतारें...",
+          "description": "Jabalpur: बड़ा हादसा टला, अचानक गिरा पुल | जबलपुर–भोपाल हाईवे बंद, वाहनों ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-22T15:54:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/J3W8cTEhMXg/hqdefault.jpg",
+          "durationSeconds": 383,
+          "durationFormatted": "06:23",
+          "views": 13,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Traffic"
         },
         {
           "index": 4,
@@ -625,99 +709,15 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "J3W8cTEhMXg",
-          "title": "Jabalpur: बड़ा हादसा टला, अचानक गिरा पुल | जबलपुर–भोपाल हाईवे बंद, वाहनों की लगी लंबी कतारें...",
-          "description": "Jabalpur: बड़ा हादसा टला, अचानक गिरा पुल | जबलपुर–भोपाल हाईवे बंद, वाहनों ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-22T15:54:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/J3W8cTEhMXg/hqdefault.jpg",
-          "durationSeconds": 383,
-          "durationFormatted": "06:23",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-02-22T17:33:43Z"
     },
     {
-      "clusterId": "supela-underbridge",
-      "topic": "Supela Underbridge",
-      "videoCount": 4,
-      "trendScore": 31.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "c9SebuuB1lI",
-          "title": "Supela New Underbridge का हाल बेहाल, करोड़ों रुपये गया पानी में! || KP NEWS || Faizan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-02-22T10:06:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/c9SebuuB1lI/hqdefault.jpg",
-          "durationSeconds": 392,
-          "durationFormatted": "06:32",
-          "views": 1797,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 2,
-          "videoId": "0LLkidIaz2M",
-          "title": "हॉस्पिटल के सामने मौT का गड्ढा! हIदसा हुआ तो जिम्मेदार कौन? || KP NEWS || Shivali A Soni",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-02-22T14:30:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/0LLkidIaz2M/hqdefault.jpg",
-          "durationSeconds": 297,
-          "durationFormatted": "04:57",
-          "views": 509,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 3,
-          "videoId": "SlPxV3VJf_g",
-          "title": "Supela Underbridge का हाल बेहाल, करोड़ों रुपये बर्बाद! || KP NEWS || Faizan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-02-22T16:30:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/SlPxV3VJf_g/hqdefault.jpg",
-          "durationSeconds": 102,
-          "durationFormatted": "01:42",
-          "views": 298,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
-          "videoId": "EqPAfCE-gXw",
-          "title": "मदिर में नंगे पैर जाने की ये है असली वजह!",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-02-22T18:30:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/EqPAfCE-gXw/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 203,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-22T18:30:18Z"
-    },
-    {
       "clusterId": "south-africa",
       "topic": "South Africa",
       "videoCount": 4,
-      "trendScore": 30.0,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -729,13 +729,28 @@
           "thumbnail": "https://i.ytimg.com/vi/0BsOugszsgg/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 1986,
+          "views": 2053,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
+          "videoId": "TEY_iHAgEW4",
+          "title": "T20 World Cup 2024: India और South Africa आमने-सामने, टॉस जीतकर पहले बल्लेबाजी करेगा साउथ अफ्रीका",
+          "description": "अजेय भारत.. अजेय साउथ अफ्रीका... टी-20 वर्ल्ड कप 2024 की दोनों फाइनलिस्ट.",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-22T13:29:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/TEY_iHAgEW4/hqdefault.jpg",
+          "durationSeconds": 1092,
+          "durationFormatted": "18:12",
+          "views": 64,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
           "videoId": "8WO5dgQOCAo",
           "title": "india vs south africa t20 world cup today match",
           "description": "Latest News: india vs south africa t20 world cup today match #YadavJiKiLoveStory #YadavSamaj #FilmControversy #MPNews ...",
@@ -750,21 +765,6 @@
           "genre": "Events"
         },
         {
-          "index": 3,
-          "videoId": "TEY_iHAgEW4",
-          "title": "T20 World Cup 2024: India और South Africa आमने-सामने, टॉस जीतकर पहले बल्लेबाजी करेगा साउथ अफ्रीका",
-          "description": "अजेय भारत.. अजेय साउथ अफ्रीका... टी-20 वर्ल्ड कप 2024 की दोनों फाइनलिस्ट.",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-22T13:29:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/TEY_iHAgEW4/hqdefault.jpg",
-          "durationSeconds": 1092,
-          "durationFormatted": "18:12",
-          "views": 20,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
           "index": 4,
           "videoId": "8afhbrzsP0Q",
           "title": "IND vs SA LIVE: SA ने Toss जीतकर चुनी बल्‍लेबाजी, पावरप्ले में गंवाया 3 विकेट | T20 World Cup 2026",
@@ -774,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8afhbrzsP0Q/hqdefault.jpg",
           "durationSeconds": 1076,
           "durationFormatted": "17:56",
-          "views": 16,
+          "views": 26,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -786,7 +786,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 13.8,
+      "trendScore": 14.7,
       "topVideos": [
         {
           "index": 1,
@@ -798,7 +798,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I10un0982s0/hqdefault.jpg",
           "durationSeconds": 341,
           "durationFormatted": "05:41",
-          "views": 4,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
