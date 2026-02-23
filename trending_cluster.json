@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-23T17:15:17.274796Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-02-23T19:20:56.429064Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 104,
-      "trendScore": 65.3,
+      "videoCount": 106,
+      "trendScore": 64.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Og5Uro_UFwM/hqdefault.jpg",
           "durationSeconds": 1574,
           "durationFormatted": "26:14",
-          "views": 38987,
-          "likes": 391,
+          "views": 40324,
+          "likes": 392,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BmlGG1B_yQo/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 32052,
-          "likes": 1089,
+          "views": 33973,
+          "likes": 1109,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,13 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/B9FKIsukjlE/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 18756,
-          "likes": 211,
+          "views": 20892,
+          "likes": 212,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "jPFUBMaJu1Y",
+          "title": "Raipur Acc!dnt: रायपुर-बलोदा बाजार रोड पर कैसे हुई तीन लोगों की मौt ! DPS | Ground Report | Thiha CG",
+          "description": "Raipur Acc!dnt: रायपुर-बलोदा बाजार रोड पर कैसे हुई तीन लोगों की मौt ! DPS | Ground ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-02-23T14:45:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/jPFUBMaJu1Y/hqdefault.jpg",
+          "durationSeconds": 895,
+          "durationFormatted": "14:55",
+          "views": 13333,
+          "likes": 298,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "b5OHlXtrHhI",
           "title": "D.Ed वालों का भला होगा? | MP Brijmohan Agrawal का बड़ा बयान | Yashwant Sahu |",
           "description": "D.Ed वालों का भला होगा? | MP Brijmohan Agrawal का बड़ा बयान | Yashwant Sahu | Report/Story: ...",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/b5OHlXtrHhI/hqdefault.jpg",
           "durationSeconds": 767,
           "durationFormatted": "12:47",
-          "views": 9309,
-          "likes": 507,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "NPgs0LYo5rI",
-          "title": "बजट पेश होने से पहले CM Vishnu Deo Sai का आया बड़ा बयान..#shorts #cgbudget2026 #cmsai",
-          "description": "IBC24, बजट पेश होने से पहले CM Vishnu Deo Sai का आया बड़ा बयान..#shorts #cgbudget2026 #cmsai ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-02-23T13:08:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/NPgs0LYo5rI/hqdefault.jpg",
-          "durationSeconds": 28,
-          "durationFormatted": "00:28",
-          "views": 9011,
-          "likes": 0,
+          "views": 9856,
+          "likes": 515,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-23T17:09:41Z"
+      "latestUpdateAt": "2026-02-23T19:04:05Z"
     },
     {
       "clusterId": "iran-america",
       "topic": "Iran America",
-      "videoCount": 5,
-      "trendScore": 48.7,
+      "videoCount": 6,
+      "trendScore": 47.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3Bv4nPdc-wA/hqdefault.jpg",
           "durationSeconds": 469,
           "durationFormatted": "07:49",
-          "views": 14219,
-          "likes": 731,
+          "views": 28584,
+          "likes": 987,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bohzhzUfD9E/hqdefault.jpg",
           "durationSeconds": 608,
           "durationFormatted": "10:08",
-          "views": 10468,
-          "likes": 682,
+          "views": 26226,
+          "likes": 1291,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_onBfUUFpLw/hqdefault.jpg",
           "durationSeconds": 557,
           "durationFormatted": "09:17",
-          "views": 4686,
-          "likes": 197,
+          "views": 10171,
+          "likes": 353,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rx2CLS9B0bo/hqdefault.jpg",
           "durationSeconds": 524,
           "durationFormatted": "08:44",
-          "views": 2870,
-          "likes": 98,
+          "views": 6295,
+          "likes": 168,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,19 +162,103 @@
           "thumbnail": "https://i.ytimg.com/vi/88eE-cQIdUY/hqdefault.jpg",
           "durationSeconds": 11765,
           "durationFormatted": "03:16:05",
-          "views": 1295,
-          "likes": 4,
+          "views": 1878,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-23T16:30:33Z"
+      "latestUpdateAt": "2026-02-23T18:20:00Z"
+    },
+    {
+      "clusterId": "bhilai-durg",
+      "topic": "Bhilai Durg",
+      "videoCount": 18,
+      "trendScore": 45.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "fZ0883V9SJE",
+          "title": "राजनांदगांव नगर निगम ने शुरू किए श्वान सेवा केंद्र , आवारा कुत्तों की देखभाल",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-23T09:55:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/fZ0883V9SJE/hqdefault.jpg",
+          "durationSeconds": 92,
+          "durationFormatted": "01:32",
+          "views": 19,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "xzzuBmqGJRc",
+          "title": "Bhilai News: सुपेला चौक पर BJP का विरोध प्रदर्शन और पुतला दहन,कांग्रेस से की सार्वजनिक माफी की मांग!",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-23T13:25:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/xzzuBmqGJRc/hqdefault.jpg",
+          "durationSeconds": 130,
+          "durationFormatted": "02:10",
+          "views": 18,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "XOK8qIAzN3Q",
+          "title": "Durg News: अंधे K.त्ल की गुत्थी 12 घंटे में सुलझी, पुलिस ने किया आरोपी को गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-23T13:32:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/XOK8qIAzN3Q/hqdefault.jpg",
+          "durationSeconds": 92,
+          "durationFormatted": "01:32",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "az7XZROMgh8",
+          "title": "राजनांदगांव- ग्राम चारभाठा में नई बैंक शाखा की मांग को लेकर ग्रामीणों ने किया चक्का जाम",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-23T11:52:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/az7XZROMgh8/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 11,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "9dvH4v2h37w",
+          "title": "Durg News: ऑनलाइन क्रिकेट सट्टा में दो आरोपी गिरफ्तार, न्यायिक रिमांड पर भेजे गए आरोपी",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-23T13:31:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/9dvH4v2h37w/hqdefault.jpg",
+          "durationSeconds": 55,
+          "durationFormatted": "00:55",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-02-23T13:36:28Z"
     },
     {
       "clusterId": "bhaskar-mla",
       "topic": "Bhaskar MLA",
       "videoCount": 8,
-      "trendScore": 41.5,
+      "trendScore": 40.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AWmFDY_TgDw/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 1547,
-          "likes": 59,
+          "views": 1713,
+          "likes": 61,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -201,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ow3F5959l4A/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 826,
-          "likes": 18,
+          "views": 1152,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fY9X2Bve9cM/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 794,
-          "likes": 22,
+          "views": 833,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,25 +315,25 @@
           "thumbnail": "https://i.ytimg.com/vi/BsOCSY_gDs8/hqdefault.jpg",
           "durationSeconds": 137,
           "durationFormatted": "02:17",
-          "views": 585,
-          "likes": 16,
+          "views": 767,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "7ZkkJRunYmE",
-          "title": "MLA रिकेश ने मासूम की ओपन हार्ट सर्जरी का उठाया पूरा खर्च | CG Bhaskar",
-          "description": "MLA रिकेश ने मासूम की ओपन हार्ट सर्जरी का उठाया पूरा खर्च | CG Bhaskar Join our ...",
+          "videoId": "ZC4l8GbVdrU",
+          "title": "खुलेआम बिक रहा बिना हेलमेट के पेट्रोल | CG Bhaskar",
+          "description": "खुलेआम बिक रहा बिना हेलमेट के पेट्रोल | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-23T11:56:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/7ZkkJRunYmE/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 481,
-          "likes": 25,
+          "publishedAt": "2026-02-23T14:40:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZC4l8GbVdrU/hqdefault.jpg",
+          "durationSeconds": 161,
+          "durationFormatted": "02:41",
+          "views": 659,
+          "likes": 21,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-23T14:40:01Z"
@@ -258,7 +342,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 5,
-      "trendScore": 40.3,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DnVWNYnr6zs/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 28238,
-          "likes": 377,
+          "views": 31316,
+          "likes": 379,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eXk6ZmI3jF0/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 11195,
-          "likes": 262,
+          "views": 14116,
+          "likes": 277,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rnYiDAKp24M/hqdefault.jpg",
           "durationSeconds": 334,
           "durationFormatted": "05:34",
-          "views": 4090,
-          "likes": 55,
+          "views": 6460,
+          "likes": 61,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uCbd6MdzIZI/hqdefault.jpg",
           "durationSeconds": 372,
           "durationFormatted": "06:12",
-          "views": 22,
-          "likes": 6,
+          "views": 42,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -339,10 +423,94 @@
       "latestUpdateAt": "2026-02-23T16:20:47Z"
     },
     {
-      "clusterId": "mudde-baat",
-      "topic": "Mudde Baat",
-      "videoCount": 6,
-      "trendScore": 39.5,
+      "clusterId": "chhattisgarh-budget",
+      "topic": "Chhattisgarh Budget",
+      "videoCount": 5,
+      "trendScore": 38.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "eDqyjZZiI24",
+          "title": "🔴LIVE छत्तीसगढ़ बजट सत्र 2026 | Chhattisgarh Budget Session 2026 Live | Thiha Chhattisgarh",
+          "description": "LIVE छत्तीसगढ़ बजट सत्र 2026 | Chhattisgarh Budget Session 2026 Live | Thiha Chhattisgarh सौजन्य: DD ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-02-23T07:35:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/eDqyjZZiI24/hqdefault.jpg",
+          "durationSeconds": 4322,
+          "durationFormatted": "01:12:02",
+          "views": 28618,
+          "likes": 275,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "t_S95ss30kY",
+          "title": "LIVE: Chhattisgarh Vidhansabha",
+          "description": "LIVE: Chhattisgarh Vidhansabha #CGBudget2026 #Budget #chhattisgarh हमारे CG के व्हाट्सएप ग्रुप ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-02-23T18:25:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/t_S95ss30kY/hqdefault.jpg",
+          "durationSeconds": 2334,
+          "durationFormatted": "38:54",
+          "views": 105,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "plbnfwVjFOA",
+          "title": "Chhattisgarh Budget 2026 से महिलाओं, युवाओं और व्यापारियों को क्या उम्मीदें हैं? Top News | Farmers",
+          "description": "Chhattisgarh Budget 2026 से महिलाओं, युवाओं और व्यापारियों को क्या उम्मीदें ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-23T14:28:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/plbnfwVjFOA/hqdefault.jpg",
+          "durationSeconds": 1549,
+          "durationFormatted": "25:49",
+          "views": 86,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "WfXVUEyOCJg",
+          "title": "Chhattisgarh Budget 2026: कल पेश होगा राज्य का बजट। बजट को लेकर क्या है लोगों की उम्मीदें? देखिए..",
+          "description": "IBC24, Chhattisgarh Budget 2026: कल पेश होगा राज्य का बजट। बजट को लेकर क्या है लोगों ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-23T17:52:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/WfXVUEyOCJg/hqdefault.jpg",
+          "durationSeconds": 160,
+          "durationFormatted": "02:40",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "l8JsTiT5xrI",
+          "title": "Chhattisgarh Budget 2026: छत्तीसगढ़ बजट से Raipur की महिलाओं को क्या हैं उम्मीदें? Top News",
+          "description": "Chhattisgarh Budget 2026: छत्तीसगढ़ बजट से Raipur की महिलाओं को क्या हैं उम्मीदें?",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-23T18:10:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/l8JsTiT5xrI/hqdefault.jpg",
+          "durationSeconds": 1525,
+          "durationFormatted": "25:25",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-02-23T18:25:49Z"
+    },
+    {
+      "clusterId": "seedhe-mudde",
+      "topic": "Seedhe Mudde",
+      "videoCount": 5,
+      "trendScore": 37.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EYuEcvuEdj8/hqdefault.jpg",
           "durationSeconds": 384,
           "durationFormatted": "06:24",
-          "views": 349,
-          "likes": 12,
+          "views": 708,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,28 +537,13 @@
           "thumbnail": "https://i.ytimg.com/vi/mCr1AD0iJRU/hqdefault.jpg",
           "durationSeconds": 270,
           "durationFormatted": "04:30",
-          "views": 324,
-          "likes": 11,
+          "views": 570,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "aIo3oI7gji8",
-          "title": "🔴Seedhe Mudde Ki Baat: Naxalite surrender | Rahul Gandhi visit MP | CG Assembly Budget | NH 45",
-          "description": "Seedhe Mudde Ki Baat: Naxalite surrender | Rahul Gandhi visit MP | CG Assembly Budget | NH 45 #naxalitesurrender ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-23T14:08:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/aIo3oI7gji8/hqdefault.jpg",
-          "durationSeconds": 3336,
-          "durationFormatted": "55:36",
-          "views": 230,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "TBqTx0VL3Lg",
           "title": "Seedhe Mudde Ki Baat: हाईवे बनाओ...मजाक मत करो!| Bhopal Jabalpur NH 45",
           "description": "Seedhe Mudde Ki Baat: हाईवे बनाओ...मजाक मत करो!| Bhopal Jabalpur NH 45 #nh45 #bridgecollapse #mpnews ...",
@@ -399,13 +552,13 @@
           "thumbnail": "https://i.ytimg.com/vi/TBqTx0VL3Lg/hqdefault.jpg",
           "durationSeconds": 540,
           "durationFormatted": "09:00",
-          "views": 183,
-          "likes": 11,
+          "views": 373,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "AHvMRkh9_L0",
           "title": "Seedhe Mudde Ki Baat: &#39;भारत टैक्सी&#39; में सफर सस्ता और फायदेमंद है... | Amit Shah Launches Bharat Taxi",
           "description": "Seedhe Mudde Ki Baat: 'भारत टैक्सी' में सफर सस्ता और फायदेमंद है... | Amit Shah Launches ...",
@@ -414,8 +567,23 @@
           "thumbnail": "https://i.ytimg.com/vi/AHvMRkh9_L0/hqdefault.jpg",
           "durationSeconds": 544,
           "durationFormatted": "09:04",
-          "views": 127,
-          "likes": 5,
+          "views": 221,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "59ngY1zxDO0",
+          "title": "Seedhe Mudde Ki Baat : अस्पताल मधुमक्खियों के लिए नहीं मरीजों के लिए है...",
+          "description": "Seedhe Mudde Ki Baat : अस्पताल मधुमक्खियों के लिए नहीं मरीजों के लिए है... #hospital ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-23T15:38:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/59ngY1zxDO0/hqdefault.jpg",
+          "durationSeconds": 359,
+          "durationFormatted": "05:59",
+          "views": 100,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -423,94 +591,10 @@
       "latestUpdateAt": "2026-02-23T15:46:58Z"
     },
     {
-      "clusterId": "bhilai-bjp",
-      "topic": "Bhilai BJP",
-      "videoCount": 18,
-      "trendScore": 37.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "az7XZROMgh8",
-          "title": "राजनांदगांव- ग्राम चारभाठा में नई बैंक शाखा की मांग को लेकर ग्रामीणों ने किया चक्का जाम",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-23T11:52:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/az7XZROMgh8/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "xzzuBmqGJRc",
-          "title": "Bhilai News: सुपेला चौक पर BJP का विरोध प्रदर्शन और पुतला दहन,कांग्रेस से की सार्वजनिक माफी की मांग!",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-23T13:25:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/xzzuBmqGJRc/hqdefault.jpg",
-          "durationSeconds": 130,
-          "durationFormatted": "02:10",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "8W2yQ4FTToI",
-          "title": "राजनांदगांव-थाना बसंतपुर पुलिस की बड़ी कार्रवाई ,खिलेश तुमरेकी अवैध गांजा तस्करी में गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-23T09:22:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/8W2yQ4FTToI/hqdefault.jpg",
-          "durationSeconds": 49,
-          "durationFormatted": "00:49",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "MNUa5KoYkmQ",
-          "title": "गरियाबंद में हाथियों के लिए सुपर ड्रोन तैनात , छत्तीसगढ़ का पहला थर्मल ड्रोन",
-          "description": "chhattisgarhnews #madhyapradehnews #gariyabandnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-23T09:56:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/MNUa5KoYkmQ/hqdefault.jpg",
-          "durationSeconds": 113,
-          "durationFormatted": "01:53",
-          "views": 6,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "z4W00sqFYwA",
-          "title": "Bhilai News: वैशाली नगर विधायक रिकेश सेन ने मासूम के ओपन हार्ट सर्जरी का उठाया पूरा खर्च",
-          "description": "chhattisgarhnews #madhyapradehnews #todaynews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-23T13:27:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/z4W00sqFYwA/hqdefault.jpg",
-          "durationSeconds": 136,
-          "durationFormatted": "02:16",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-02-23T13:36:28Z"
-    },
-    {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 35.0,
+      "trendScore": 34.0,
       "topVideos": [
         {
           "index": 1,
@@ -522,23 +606,23 @@
           "thumbnail": "https://i.ytimg.com/vi/zwhpl_0Pnvk/hqdefault.jpg",
           "durationSeconds": 1597,
           "durationFormatted": "26:37",
-          "views": 13552,
-          "likes": 237,
+          "views": 14367,
+          "likes": 238,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
           "videoId": "YjWWwdhMm58",
-          "title": "23 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "24 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "23 फरवरी 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-02-22T23:30:27Z",
           "thumbnail": "https://i.ytimg.com/vi/YjWWwdhMm58/hqdefault.jpg",
           "durationSeconds": 943,
           "durationFormatted": "15:43",
-          "views": 4050,
-          "likes": 28,
+          "views": 4164,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,8 +636,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5_RXKiLh79Q/hqdefault.jpg",
           "durationSeconds": 655,
           "durationFormatted": "10:55",
-          "views": 352,
-          "likes": 31,
+          "views": 498,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -574,6 +658,75 @@
         }
       ],
       "latestUpdateAt": "2026-02-23T13:54:12Z"
+    },
+    {
+      "clusterId": "rahul-gandhi",
+      "topic": "Rahul Gandhi",
+      "videoCount": 4,
+      "trendScore": 30.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "2_YyyMVPta4",
+          "title": "Rahul Gandhi की किसान चौपाल, भारत-अमेरिका ट्रेड डील का विरोध, बड़ी संख्या में किसान होंगे शामिल",
+          "description": "राहुल गांधी के नेतृत्व में कांग्रेस भोपाल से एक देशव्यापी आंदोलन ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-23T15:45:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/2_YyyMVPta4/hqdefault.jpg",
+          "durationSeconds": 185,
+          "durationFormatted": "03:05",
+          "views": 116,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "BZbH760FCe4",
+          "title": "Rahul Gandhi की &#39;लीडरशिप&#39; पर भरोसा नहीं! Manishankar Iyar ने राहुल को पीछे हटने की दी सलाह",
+          "description": "IBC24, Rahul Gandhi की 'लीडरशिप' पर भरोसा नहीं! Manishankar Iyar ने राहुल को पीछे हटने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-23T17:05:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/BZbH760FCe4/hqdefault.jpg",
+          "durationSeconds": 195,
+          "durationFormatted": "03:15",
+          "views": 112,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "dUHRFzILhPQ",
+          "title": "MP News: Rahul Gandhi के Bhopal दौरे पर BJP ने ली मौज! Top News ।",
+          "description": "MP News: Rahul Gandhi के Bhopal दौरे पर BJP ने ली मौज! Top News । #RahulGandhi #BJP #Bhopal ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-23T17:46:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/dUHRFzILhPQ/hqdefault.jpg",
+          "durationSeconds": 194,
+          "durationFormatted": "03:14",
+          "views": 104,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "gjNZuj729N8",
+          "title": "MP | किसान महापंचायत में शामिल होने एमपी आ रहे Rahul Gandhi और मल्लिकार्जुन खरगे, क्या होगा खास...",
+          "description": "MP | किसान महापंचायत में शामिल होने एमपी आ रहे Rahul Gandhi और ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-23T12:41:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/gjNZuj729N8/hqdefault.jpg",
+          "durationSeconds": 140,
+          "durationFormatted": "02:20",
+          "views": 20,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-02-23T17:46:51Z"
     }
   ]
 }
