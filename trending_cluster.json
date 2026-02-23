@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-23T21:00:36.388446Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-02-23T22:58:10.615124Z",
+  "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 104,
-      "trendScore": 63.9,
+      "videoCount": 111,
+      "trendScore": 62.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Og5Uro_UFwM/hqdefault.jpg",
           "durationSeconds": 1574,
           "durationFormatted": "26:14",
-          "views": 40465,
+          "views": 40482,
           "likes": 392,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BmlGG1B_yQo/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 35497,
-          "likes": 1115,
+          "views": 36037,
+          "likes": 1118,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/B9FKIsukjlE/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 21294,
+          "views": 21545,
           "likes": 214,
           "videoType": "VOD",
           "genre": "General"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jPFUBMaJu1Y/hqdefault.jpg",
           "durationSeconds": 895,
           "durationFormatted": "14:55",
-          "views": 16542,
-          "likes": 309,
+          "views": 17357,
+          "likes": 314,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/b5OHlXtrHhI/hqdefault.jpg",
           "durationSeconds": 767,
           "durationFormatted": "12:47",
-          "views": 9949,
+          "views": 9960,
           "likes": 516,
           "videoType": "VOD",
           "genre": "Politics"
@@ -87,112 +87,13 @@
       "latestUpdateAt": "2026-02-23T20:24:48Z"
     },
     {
-      "clusterId": "iran-america",
-      "topic": "Iran America",
-      "videoCount": 6,
-      "trendScore": 45.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "bohzhzUfD9E",
-          "title": "Iran America War Update: युद्ध से पहले ही खामेनेई से हार गए डोनाल्ड ट्रंप? | Khamenei | Trump",
-          "description": "Iran America War Update: युद्ध से पहले ही खामेनेई से हार गए डोनाल्ड ट्रंप?",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-23T15:45:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/bohzhzUfD9E/hqdefault.jpg",
-          "durationSeconds": 608,
-          "durationFormatted": "10:08",
-          "views": 39900,
-          "likes": 1418,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "3Bv4nPdc-wA",
-          "title": "Iran America War Update: चीन की अमेरिका को बड़ी धमकी, तिलमिलाए ट्रंप! |Khamenei | Xi Jinping | Trump",
-          "description": "Iran America War Update: चीन की अमेरिका को बड़ी धमकी, तिलमिलाए ट्रंप! |Khamenei | Xi ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-23T15:15:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/3Bv4nPdc-wA/hqdefault.jpg",
-          "durationSeconds": 469,
-          "durationFormatted": "07:49",
-          "views": 35935,
-          "likes": 1038,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "_onBfUUFpLw",
-          "title": "Iran America War: अब्राहम लिकन गायब, खामेनेई ने लिया बड़ा एक्शन? | Khamenei | Top News | Trump",
-          "description": "Iran America War: अब्राहम लिकन गायब, खामेनेई ने लिया बड़ा एक्शन? | Khamenei | Top ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-23T16:15:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/_onBfUUFpLw/hqdefault.jpg",
-          "durationSeconds": 557,
-          "durationFormatted": "09:17",
-          "views": 14317,
-          "likes": 389,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "rx2CLS9B0bo",
-          "title": "Iran America War Update: 10 बजते ही ईरान ने अमेरिका पर दागी मिसाइलें! | Khamenei | Trump | Top News",
-          "description": "Iran America War Update: 10 बजते ही ईरान ने अमेरिका पर दागी मिसाइलें! | Khamenei | Trump ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-23T16:30:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/rx2CLS9B0bo/hqdefault.jpg",
-          "durationSeconds": 524,
-          "durationFormatted": "08:44",
-          "views": 8456,
-          "likes": 172,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "8N6IRhCVE7I",
-          "title": "Iran America War Update: 12 बजते ही ईरान और अमेरिका के फाइटर जेट्स भिड़े! | Khamenei | Top News",
-          "description": "Iran America War Update: 12 बजते ही ईरान और अमेरिका के फाइटर जेट्स भिड़े! | Khamenei ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-23T18:20:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/8N6IRhCVE7I/hqdefault.jpg",
-          "durationSeconds": 545,
-          "durationFormatted": "09:05",
-          "views": 3894,
-          "likes": 127,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-23T18:20:00Z"
-    },
-    {
       "clusterId": "durg-bhilai",
       "topic": "Durg Bhilai",
-      "videoCount": 17,
-      "trendScore": 43.1,
+      "videoCount": 20,
+      "trendScore": 44.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "xzzuBmqGJRc",
-          "title": "Bhilai News: सुपेला चौक पर BJP का विरोध प्रदर्शन और पुतला दहन,कांग्रेस से की सार्वजनिक माफी की मांग!",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-23T13:25:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/xzzuBmqGJRc/hqdefault.jpg",
-          "durationSeconds": 130,
-          "durationFormatted": "02:10",
-          "views": 27,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "fZ0883V9SJE",
           "title": "राजनांदगांव नगर निगम ने शुरू किए श्वान सेवा केंद्र , आवारा कुत्तों की देखभाल",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -201,10 +102,25 @@
           "thumbnail": "https://i.ytimg.com/vi/fZ0883V9SJE/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 27,
+          "views": 31,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "xzzuBmqGJRc",
+          "title": "Bhilai News: सुपेला चौक पर BJP का विरोध प्रदर्शन और पुतला दहन,कांग्रेस से की सार्वजनिक माफी की मांग!",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-23T13:25:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/xzzuBmqGJRc/hqdefault.jpg",
+          "durationSeconds": 130,
+          "durationFormatted": "02:10",
+          "views": 28,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
@@ -216,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9dvH4v2h37w/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 24,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -231,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XOK8qIAzN3Q/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 22,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -255,10 +171,178 @@
       "latestUpdateAt": "2026-02-23T13:36:28Z"
     },
     {
+      "clusterId": "iran-america",
+      "topic": "Iran America",
+      "videoCount": 5,
+      "trendScore": 42.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "bohzhzUfD9E",
+          "title": "Iran America War Update: युद्ध से पहले ही खामेनेई से हार गए डोनाल्ड ट्रंप? | Khamenei | Trump",
+          "description": "Iran America War Update: युद्ध से पहले ही खामेनेई से हार गए डोनाल्ड ट्रंप?",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-23T15:45:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/bohzhzUfD9E/hqdefault.jpg",
+          "durationSeconds": 608,
+          "durationFormatted": "10:08",
+          "views": 45843,
+          "likes": 1488,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "_onBfUUFpLw",
+          "title": "Iran America War: अब्राहम लिकन गायब, खामेनेई ने लिया बड़ा एक्शन? | Khamenei | Top News | Trump",
+          "description": "Iran America War: अब्राहम लिकन गायब, खामेनेई ने लिया बड़ा एक्शन? | Khamenei | Top ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-23T16:15:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/_onBfUUFpLw/hqdefault.jpg",
+          "durationSeconds": 557,
+          "durationFormatted": "09:17",
+          "views": 15958,
+          "likes": 404,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "rx2CLS9B0bo",
+          "title": "Iran America War Update: 10 बजते ही ईरान ने अमेरिका पर दागी मिसाइलें! | Khamenei | Trump | Top News",
+          "description": "Iran America War Update: 10 बजते ही ईरान ने अमेरिका पर दागी मिसाइलें! | Khamenei | Trump ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-23T16:30:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/rx2CLS9B0bo/hqdefault.jpg",
+          "durationSeconds": 524,
+          "durationFormatted": "08:44",
+          "views": 8857,
+          "likes": 173,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "8N6IRhCVE7I",
+          "title": "Iran America War Update: 12 बजते ही ईरान और अमेरिका के फाइटर जेट्स भिड़े! | Khamenei | Top News",
+          "description": "Iran America War Update: 12 बजते ही ईरान और अमेरिका के फाइटर जेट्स भिड़े! | Khamenei ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-23T18:20:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/8N6IRhCVE7I/hqdefault.jpg",
+          "durationSeconds": 545,
+          "durationFormatted": "09:05",
+          "views": 6586,
+          "likes": 142,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "88eE-cQIdUY",
+          "title": "Iran America War Update LIVE : ईरान पर मंडराने लगे अमेरिका के B-2 Bomber? Khamenei | Trump | N18G",
+          "description": "Iran America War Update LIVE : ईरान पर मंडराने लगे अमेरिका के B-2 Bomber? Khamenei | Trump ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-23T15:18:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/88eE-cQIdUY/hqdefault.jpg",
+          "durationSeconds": 11765,
+          "durationFormatted": "03:16:05",
+          "views": 2313,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-23T18:20:00Z"
+    },
+    {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 9,
+      "trendScore": 40.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "QXW5TjPoBq0",
+          "title": "Lashkar Module Delhi : कहां से चल रहा था भारत को दहलाने का Network ? | Zee MPCG",
+          "description": "Lashkar Module Delhi : दिल्ली में पकड़े गए लश्कर मॉड्यूल, आतंक का कोड ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-23T13:18:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/QXW5TjPoBq0/hqdefault.jpg",
+          "durationSeconds": 162,
+          "durationFormatted": "02:42",
+          "views": 14945,
+          "likes": 160,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "eGcTMQQ4ahs",
+          "title": "#Shorts : &#39;यादव जी की लव स्टोरी&#39; का समाज बंधुओ ने किया विरोध | Gwalior | Zee MPCG",
+          "description": "Shorts : 'यादव जी की लव स्टोरी' का समाज बंधुओ ने किया विरोध | Gwalior | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-23T13:43:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/eGcTMQQ4ahs/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 1536,
+          "likes": 23,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "mn5BGYOUST8",
+          "title": "🔴LIVE : MP - CG : Jabalpur : पुल धसने से लोग परेशान  | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : Jabalpur : पुल धसने से लोग परेशान | Latest News | Zee MPCG #Live #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-23T20:00:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/mn5BGYOUST8/hqdefault.jpg",
+          "durationSeconds": 1491,
+          "durationFormatted": "24:51",
+          "views": 382,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "pGl3atv2M5s",
+          "title": "CG Rajya Sabha Election 2026 : राज्यसभा चुनाव को लेकर हलचल तेज | Latest News | Hindi News | Zee MPCG",
+          "description": "CG Rajya Sabha Election 2026 : राज्यसभा चुनाव को लेकर हलचल तेज | Latest News | Hindi News | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-23T12:36:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/pGl3atv2M5s/hqdefault.jpg",
+          "durationSeconds": 43,
+          "durationFormatted": "00:43",
+          "views": 230,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "ycxA-7aXT3Q",
+          "title": "🔴LIVE: MP Dastak : ग्वालियर में सिम बदलकर लाखों की ठगी | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : ग्वालियर में सिम बदलकर लाखों की ठगी | Latest News | Zee MPCG #MPDastak ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-23T16:23:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/ycxA-7aXT3Q/hqdefault.jpg",
+          "durationSeconds": 1478,
+          "durationFormatted": "24:38",
+          "views": 158,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-02-23T21:53:32Z"
+    },
+    {
       "clusterId": "bhaskar-mla",
       "topic": "Bhaskar MLA",
       "videoCount": 9,
-      "trendScore": 40.8,
+      "trendScore": 40.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AWmFDY_TgDw/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 1802,
-          "likes": 61,
+          "views": 1807,
+          "likes": 63,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -285,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ow3F5959l4A/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 1167,
+          "views": 1176,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fY9X2Bve9cM/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 817,
+          "views": 859,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +426,7 @@
       "clusterId": "chhattisgarh-budget",
       "topic": "Chhattisgarh Budget",
       "videoCount": 7,
-      "trendScore": 40.4,
+      "trendScore": 39.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eDqyjZZiI24/hqdefault.jpg",
           "durationSeconds": 4322,
           "durationFormatted": "01:12:02",
-          "views": 29216,
-          "likes": 276,
+          "views": 29455,
+          "likes": 277,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -369,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8OwHtMLyfWY/hqdefault.jpg",
           "durationSeconds": 42900,
           "durationFormatted": "11:55:00",
-          "views": 12786,
+          "views": 12813,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yi56Pqlu5YM/hqdefault.jpg",
           "durationSeconds": 42898,
           "durationFormatted": "11:54:58",
-          "views": 1605,
+          "views": 1650,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -414,7 +498,7 @@
           "thumbnail": "https://i.ytimg.com/vi/plbnfwVjFOA/hqdefault.jpg",
           "durationSeconds": 1549,
           "durationFormatted": "25:49",
-          "views": 88,
+          "views": 101,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -426,7 +510,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 5,
-      "trendScore": 38.1,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DnVWNYnr6zs/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 31853,
-          "likes": 380,
+          "views": 32048,
+          "likes": 385,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,8 +537,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eXk6ZmI3jF0/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 14489,
-          "likes": 278,
+          "views": 14616,
+          "likes": 282,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,8 +552,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rnYiDAKp24M/hqdefault.jpg",
           "durationSeconds": 334,
           "durationFormatted": "05:34",
-          "views": 7402,
-          "likes": 62,
+          "views": 7604,
+          "likes": 61,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -483,8 +567,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uCbd6MdzIZI/hqdefault.jpg",
           "durationSeconds": 372,
           "durationFormatted": "06:12",
-          "views": 32,
-          "likes": 3,
+          "views": 50,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -498,7 +582,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BNPGneSYxfk/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 6,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -509,8 +593,8 @@
     {
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
-      "videoCount": 4,
-      "trendScore": 33.8,
+      "videoCount": 5,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -522,13 +606,28 @@
           "thumbnail": "https://i.ytimg.com/vi/EYuEcvuEdj8/hqdefault.jpg",
           "durationSeconds": 384,
           "durationFormatted": "06:24",
-          "views": 971,
-          "likes": 19,
+          "views": 1079,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "mCr1AD0iJRU",
+          "title": "Seedhe Mudde Ki Baat: राहुल गांधी के दौरे से पहले मोहन सरकार का &#39;मास्टरस्ट्रोक&#39;| Rahul Visit MP",
+          "description": "Seedhe Mudde Ki Baat: राहुल गांधी के दौरे से पहले मोहन सरकार का ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-23T15:11:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/mCr1AD0iJRU/hqdefault.jpg",
+          "durationSeconds": 270,
+          "durationFormatted": "04:30",
+          "views": 770,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "TBqTx0VL3Lg",
           "title": "Seedhe Mudde Ki Baat: हाईवे बनाओ...मजाक मत करो!| Bhopal Jabalpur NH 45",
           "description": "Seedhe Mudde Ki Baat: हाईवे बनाओ...मजाक मत करो!| Bhopal Jabalpur NH 45 #nh45 #bridgecollapse #mpnews ...",
@@ -537,13 +636,13 @@
           "thumbnail": "https://i.ytimg.com/vi/TBqTx0VL3Lg/hqdefault.jpg",
           "durationSeconds": 540,
           "durationFormatted": "09:00",
-          "views": 526,
-          "likes": 14,
+          "views": 585,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "AHvMRkh9_L0",
           "title": "Seedhe Mudde Ki Baat: &#39;भारत टैक्सी&#39; में सफर सस्ता और फायदेमंद है... | Amit Shah Launches Bharat Taxi",
           "description": "Seedhe Mudde Ki Baat: 'भारत टैक्सी' में सफर सस्ता और फायदेमंद है... | Amit Shah Launches ...",
@@ -558,7 +657,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "59ngY1zxDO0",
           "title": "Seedhe Mudde Ki Baat : अस्पताल मधुमक्खियों के लिए नहीं मरीजों के लिए है...",
           "description": "Seedhe Mudde Ki Baat : अस्पताल मधुमक्खियों के लिए नहीं मरीजों के लिए है... #hospital ...",
@@ -567,7 +666,7 @@
           "thumbnail": "https://i.ytimg.com/vi/59ngY1zxDO0/hqdefault.jpg",
           "durationSeconds": 359,
           "durationFormatted": "05:59",
-          "views": 138,
+          "views": 154,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -578,8 +677,8 @@
     {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
-      "videoCount": 4,
-      "trendScore": 33.4,
+      "videoCount": 5,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -606,8 +705,8 @@
           "thumbnail": "https://i.ytimg.com/vi/YjWWwdhMm58/hqdefault.jpg",
           "durationSeconds": 943,
           "durationFormatted": "15:43",
-          "views": 4180,
-          "likes": 29,
+          "views": 4251,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -640,15 +739,30 @@
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "PQwoRBAKpzU",
+          "title": "छत्तीसगढ़ी म देखव छत्तीसगढ़ के जम्मो खबर | खबर संझा | CG Latest News | Today News | Trending News",
+          "description": "छत्तीसगढ़ी म देखव छत्तीसगढ़ के जम्मो खबर | खबर संझा | CG Latest News | Today News ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-23T14:46:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/PQwoRBAKpzU/hqdefault.jpg",
+          "durationSeconds": 1111,
+          "durationFormatted": "18:31",
+          "views": 26,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-02-23T13:54:12Z"
+      "latestUpdateAt": "2026-02-23T14:46:04Z"
     },
     {
       "clusterId": "rahul-gandhi",
       "topic": "Rahul Gandhi",
       "videoCount": 4,
-      "trendScore": 28.9,
+      "trendScore": 28.2,
       "topVideos": [
         {
           "index": 1,
@@ -660,13 +774,28 @@
           "thumbnail": "https://i.ytimg.com/vi/dUHRFzILhPQ/hqdefault.jpg",
           "durationSeconds": 194,
           "durationFormatted": "03:14",
-          "views": 203,
-          "likes": 1,
+          "views": 274,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "2_YyyMVPta4",
+          "title": "Rahul Gandhi की किसान चौपाल, भारत-अमेरिका ट्रेड डील का विरोध, बड़ी संख्या में किसान होंगे शामिल",
+          "description": "राहुल गांधी के नेतृत्व में कांग्रेस भोपाल से एक देशव्यापी आंदोलन ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-23T15:45:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/2_YyyMVPta4/hqdefault.jpg",
+          "durationSeconds": 185,
+          "durationFormatted": "03:05",
+          "views": 169,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "BZbH760FCe4",
           "title": "Rahul Gandhi की &#39;लीडरशिप&#39; पर भरोसा नहीं! Manishankar Iyar ने राहुल को पीछे हटने की दी सलाह",
           "description": "IBC24, Rahul Gandhi की 'लीडरशिप' पर भरोसा नहीं! Manishankar Iyar ने राहुल को पीछे हटने ...",
@@ -677,21 +806,6 @@
           "durationFormatted": "03:15",
           "views": 129,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "2_YyyMVPta4",
-          "title": "Rahul Gandhi की किसान चौपाल, भारत-अमेरिका ट्रेड डील का विरोध, बड़ी संख्या में किसान होंगे शामिल",
-          "description": "राहुल गांधी के नेतृत्व में कांग्रेस भोपाल से एक देशव्यापी आंदोलन ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-23T15:45:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/2_YyyMVPta4/hqdefault.jpg",
-          "durationSeconds": 185,
-          "durationFormatted": "03:05",
-          "views": 116,
-          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -712,6 +826,75 @@
         }
       ],
       "latestUpdateAt": "2026-02-23T17:46:51Z"
+    },
+    {
+      "clusterId": "jabalpur-bridge",
+      "topic": "Jabalpur Bridge",
+      "videoCount": 4,
+      "trendScore": 24.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "5zOmm36tfhs",
+          "title": "Jabalpur Bridge Collapse: मध्य भारत मोर्चा ने किया अनोखा प्रदर्शन। नकली नोट लेकर कलेक्ट्रेट पहुंचे",
+          "description": "IBC24, Jabalpur Bridge Collapse Case: मध्य भारत मोर्चा ने किया अनोखा प्रदर्शन। नकली ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-23T14:41:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/5zOmm36tfhs/hqdefault.jpg",
+          "durationSeconds": 72,
+          "durationFormatted": "01:12",
+          "views": 177,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "NQ8MjNQw32o",
+          "title": "The Editor&#39;s Show: 400 करोड़ की सड़क पर बना पुल कैसे गिरा? | Jabalpur Bridge Collapse",
+          "description": "The Editor's Show: 400 करोड़ की सड़क पर बना पुल कैसे गिरा? | Jabalpur Bridge Collapse #jabalpur ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-23T16:45:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/NQ8MjNQw32o/hqdefault.jpg",
+          "durationSeconds": 194,
+          "durationFormatted": "03:14",
+          "views": 31,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "Hyowvsv4xGk",
+          "title": "Jabalpur Bridge Collapse: जबलपुर ब्रिज मामले में निर्माण कंपनी पर FIR दर्ज | Breaking News",
+          "description": "Jabalpur Bridge Collapse: जबलपुर ब्रिज मामले में निर्माण कंपनी पर FIR दर्ज | Breaking ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-02-23T17:44:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/Hyowvsv4xGk/hqdefault.jpg",
+          "durationSeconds": 157,
+          "durationFormatted": "02:37",
+          "views": 16,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "IdgC4ocu49Y",
+          "title": "Jabalpur Bridge Collapse Case: NH-45 पर ब्रिज धंसने का मामला। ठेका कंपनी वागड़ इंफ्रा पर कार्रवाई",
+          "description": "IBC24, Jabalpur Bridge Collapse Case: NH-45 पर ब्रिज धंसने का मामला। ठेका कंपनी वागड़ ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-23T18:31:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/IdgC4ocu49Y/hqdefault.jpg",
+          "durationSeconds": 139,
+          "durationFormatted": "02:19",
+          "views": 7,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-23T18:31:06Z"
     }
   ]
 }
