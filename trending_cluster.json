@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-24T19:17:00.222715Z",
+  "generatedAt": "2026-02-24T20:53:17.809418Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 108,
-      "trendScore": 63.1,
+      "videoCount": 106,
+      "trendScore": 62.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6KheYvkupj4/hqdefault.jpg",
           "durationSeconds": 1594,
           "durationFormatted": "26:34",
-          "views": 45667,
+          "views": 45862,
           "likes": 424,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/w8o7Tds9oI0/hqdefault.jpg",
           "durationSeconds": 487,
           "durationFormatted": "08:07",
-          "views": 19370,
-          "likes": 297,
+          "views": 20586,
+          "likes": 299,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/6l4czqd2Poc/hqdefault.jpg",
           "durationSeconds": 540,
           "durationFormatted": "09:00",
-          "views": 11525,
-          "likes": 112,
+          "views": 12542,
+          "likes": 115,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 5,
-          "videoId": "5TEQnV35BdY",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-02-24T00:01:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/5TEQnV35BdY/hqdefault.jpg",
-          "durationSeconds": 841,
-          "durationFormatted": "14:01",
-          "views": 8214,
-          "likes": 417,
+          "videoId": "Sau11eF1duw",
+          "title": "🔴Chhattisgarh Budget 2026 LIVE | CG Budget 2026 | छत्तीसगढ़ बजट 2026 | OP Choudhary | CM Sai",
+          "description": "Chhattisgarh Budget 2026 LIVE | CG Budget 2026 | छत्तीसगढ़ बजट 2026 | CG Budget Highlights |छत्तीसगढ़ ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-24T19:58:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/Sau11eF1duw/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 11414,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-24T19:11:22Z"
+      "latestUpdateAt": "2026-02-24T20:02:53Z"
     },
     {
       "clusterId": "chhattisgarh-budget",
       "topic": "Chhattisgarh Budget",
-      "videoCount": 44,
-      "trendScore": 61.2,
+      "videoCount": 46,
+      "trendScore": 60.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3hlCKFH-0uc/hqdefault.jpg",
           "durationSeconds": 651,
           "durationFormatted": "10:51",
-          "views": 9796,
-          "likes": 61,
+          "views": 21191,
+          "likes": 65,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -115,15 +115,30 @@
           "channelTitle": "Thiha Chhattisgarh",
           "publishedAt": "2026-02-24T06:34:58Z",
           "thumbnail": "https://i.ytimg.com/vi/0a1xLCTWjV0/hqdefault.jpg",
-          "durationSeconds": 7887,
-          "durationFormatted": "02:11:27",
-          "views": 5399,
+          "durationSeconds": 7862,
+          "durationFormatted": "02:11:02",
+          "views": 5457,
           "likes": 62,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
+          "videoId": "bo6795_Y5BM",
+          "title": "🔴Chhattisgarh Budget 2026 LIVE : संविदा कर्मचारियों का होगा नियमितीकरण? | Samvida Karmchari News",
+          "description": "IBC24, Chhattisgarh Budget 2026 LIVE : संविदा कर्मचारियों का होगा नियमितीकरण?",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-24T20:05:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/bo6795_Y5BM/hqdefault.jpg",
+          "durationSeconds": 42899,
+          "durationFormatted": "11:54:59",
+          "views": 4666,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "yoSxXo5umvw",
           "title": "🔴LIVE छत्तीसगढ़ बजट सत्र 2026 | Chhattisgarh Budget Session 2026 Live | Thiha Chhattisgarh",
           "description": "LIVE छत्तीसगढ़ बजट सत्र 2026 | Chhattisgarh Budget Session 2026 Live | Thiha Chhattisgarh सौजन्य: DD ...",
@@ -132,13 +147,13 @@
           "thumbnail": "https://i.ytimg.com/vi/yoSxXo5umvw/hqdefault.jpg",
           "durationSeconds": 3256,
           "durationFormatted": "54:16",
-          "views": 3204,
+          "views": 3208,
           "likes": 38,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "I84Ibw5LOWU",
           "title": "Devji Surrender LIVE: &#39;देवजी&#39; सबसे बड़े नक्सली का सरेंडर देखिए | Big Naxal Surrender Naxal",
           "description": "Devji Surrender LIVE: 'देवजी' सबसे बड़े नक्सली का सरेंडर देखिए | Big Naxal Surrender Naxal ...",
@@ -147,34 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/I84Ibw5LOWU/hqdefault.jpg",
           "durationSeconds": 16130,
           "durationFormatted": "04:28:50",
-          "views": 2768,
+          "views": 2770,
           "likes": 25,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "zfiKjTLLxZ0",
-          "title": "रात 1 बजे बिना बताये श.व ले गये बहार  | CG Bhaskar",
-          "description": "रात 1 बजे बिना बताये श.व ले गये बहार | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-23T19:55:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/zfiKjTLLxZ0/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 2241,
-          "likes": 103,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-02-24T18:49:08Z"
+      "latestUpdateAt": "2026-02-24T20:05:34Z"
     },
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
       "videoCount": 7,
-      "trendScore": 37.4,
+      "trendScore": 36.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6nC0thVCClo/hqdefault.jpg",
           "durationSeconds": 1551,
           "durationFormatted": "25:51",
-          "views": 24389,
+          "views": 24481,
           "likes": 276,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zR1DXtBvg58/hqdefault.jpg",
           "durationSeconds": 952,
           "durationFormatted": "15:52",
-          "views": 22828,
+          "views": 22871,
           "likes": 193,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hfff-iS3suU/hqdefault.jpg",
           "durationSeconds": 1082,
           "durationFormatted": "18:02",
-          "views": 6851,
+          "views": 6871,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aLSprdKLPIk/hqdefault.jpg",
           "durationSeconds": 643,
           "durationFormatted": "10:43",
-          "views": 500,
+          "views": 541,
           "likes": 28,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 5,
-      "trendScore": 37.0,
+      "trendScore": 36.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jRC5di_MCs0/hqdefault.jpg",
           "durationSeconds": 4,
           "durationFormatted": "00:04",
-          "views": 48638,
+          "views": 64403,
           "likes": 142,
           "videoType": "VOD",
           "genre": "General"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/03WkrVRkSjI/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 536,
+          "views": 503,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/lWqPFdGF-pE/hqdefault.jpg",
           "durationSeconds": 157,
           "durationFormatted": "02:37",
-          "views": 73,
+          "views": 72,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "jQ82VIbfKtQ",
+          "title": "Durg News: होली पर सार्वजनिक सुरक्षा के लिए AAP ने दुर्ग जिले में की ड्राई डे की मांग",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-24T14:22:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/jQ82VIbfKtQ/hqdefault.jpg",
+          "durationSeconds": 140,
+          "durationFormatted": "02:20",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "8yC5AD6VcMs",
           "title": "6th Khelo India Winter Games: गुलमर्ग में छठी बार विंटर गेम्स आयोजित, 400 एथलीट हुए शामिल",
           "description": "6th Khelo India Winter Games: गुलमर्ग में छठी बार विंटर गेम्स आयोजित, 400 एथलीट हुए ...",
@@ -319,21 +334,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "jQ82VIbfKtQ",
-          "title": "Durg News: होली पर सार्वजनिक सुरक्षा के लिए AAP ने दुर्ग जिले में की ड्राई डे की मांग",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-24T14:22:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/jQ82VIbfKtQ/hqdefault.jpg",
-          "durationSeconds": 140,
-          "durationFormatted": "02:20",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-24T16:38:35Z"
@@ -341,8 +341,8 @@
     {
       "clusterId": "rahul-gandhi",
       "topic": "Rahul Gandhi",
-      "videoCount": 8,
-      "trendScore": 36.8,
+      "videoCount": 7,
+      "trendScore": 34.6,
       "topVideos": [
         {
           "index": 1,
@@ -354,25 +354,25 @@
           "thumbnail": "https://i.ytimg.com/vi/ysxbeGT1oDA/hqdefault.jpg",
           "durationSeconds": 590,
           "durationFormatted": "09:50",
-          "views": 588,
+          "views": 760,
           "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "UsRw0Yt9PnU",
-          "title": "Bhopal में BJP पर बरसे Rahul Gandhi और Mallikarjun Kharge तो BJP नेताओं ने मौज ले ली",
-          "description": "Bhopal में BJP पर बरसे Rahul Gandhi और Mallikarjun Kharge तो BJP नेताओं ने मौज ले ली ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-24T12:34:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/UsRw0Yt9PnU/hqdefault.jpg",
-          "durationSeconds": 274,
-          "durationFormatted": "04:34",
-          "views": 478,
-          "likes": 5,
+          "videoId": "v8u2RlymjlM",
+          "title": "Rahul Gandhi And Mallikarjun Kharge Visit Bhopal: भोपाल किसान महाचौपाल में ये क्या बोल गए राहुल?",
+          "description": "Rahul Gandhi And Mallikarjun Kharge Visit Bhopal : भोपाल में कांग्रेस का किसान महाचौपाल है ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-24T17:26:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/v8u2RlymjlM/hqdefault.jpg",
+          "durationSeconds": 597,
+          "durationFormatted": "09:57",
+          "views": 346,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 3,
@@ -391,21 +391,6 @@
         },
         {
           "index": 4,
-          "videoId": "v8u2RlymjlM",
-          "title": "Rahul Gandhi And Mallikarjun Kharge Visit Bhopal: भोपाल किसान महाचौपाल में ये क्या बोल गए राहुल?",
-          "description": "Rahul Gandhi And Mallikarjun Kharge Visit Bhopal : भोपाल में कांग्रेस का किसान महाचौपाल है ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-24T17:26:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/v8u2RlymjlM/hqdefault.jpg",
-          "durationSeconds": 597,
-          "durationFormatted": "09:57",
-          "views": 190,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "PJThPTMLobI",
           "title": "Rahul Gandhi Bhopal Visit: राहुल गांधी ने अपनी ही पार्टी का फेंका पटका! BJP ने साधा निशाना |Top News",
           "description": "Rahul Gandhi Bhopal Visit: राहुल गांधी ने अपनी ही पार्टी का फेंका पटका! BJP ने साधा ...",
@@ -414,8 +399,23 @@
           "thumbnail": "https://i.ytimg.com/vi/PJThPTMLobI/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 67,
+          "views": 172,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "E_sCFCgf6Q8",
+          "title": "Rahul Gandhi on Trade Deal: MP में राहुल की किसान महापंचायत। राहुल ने PM Modi पर जमकर बोला हमला",
+          "description": "IBC24, Rahul Gandhi on Trade Deal: MP में राहुल की किसान महापंचायत। राहुल ने PM Modi ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-24T16:41:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/E_sCFCgf6Q8/hqdefault.jpg",
+          "durationSeconds": 237,
+          "durationFormatted": "03:57",
+          "views": 54,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -426,7 +426,7 @@
       "clusterId": "rajnandgaon-jagdalpur",
       "topic": "Rajnandgaon Jagdalpur",
       "videoCount": 13,
-      "trendScore": 30.9,
+      "trendScore": 30.1,
       "topVideos": [
         {
           "index": 1,
@@ -445,21 +445,6 @@
         },
         {
           "index": 2,
-          "videoId": "xuihUKD_Ah0",
-          "title": "Rajnandgaon News: चरित्र संदेह में पत्नी की H.त्या, 48 घंटे में अंधे K.त्ल का खुलासा!",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-24T13:39:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/xuihUKD_Ah0/hqdefault.jpg",
-          "durationSeconds": 120,
-          "durationFormatted": "02:00",
-          "views": 11,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "33q65TSOD88",
           "title": "Bhilai News: निगम आयुक्त ने प्रियदर्शिनी परिसर का किया निरीक्षण, अधिकारियों को दिए निर्देश",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -468,7 +453,22 @@
           "thumbnail": "https://i.ytimg.com/vi/33q65TSOD88/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 7,
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "xuihUKD_Ah0",
+          "title": "Rajnandgaon News: चरित्र संदेह में पत्नी की H.त्या, 48 घंटे में अंधे K.त्ल का खुलासा!",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-24T13:39:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/xuihUKD_Ah0/hqdefault.jpg",
+          "durationSeconds": 120,
+          "durationFormatted": "02:00",
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -490,15 +490,15 @@
         },
         {
           "index": 5,
-          "videoId": "AWE5ToAZ6bQ",
-          "title": "Rajnandgaon News: अधूरे मकानों के लिए पंचायत ने जारी की चेतावनी, PMAY-G लाभार्थियों को अल्टीमेटम",
+          "videoId": "kqvoXjd5So0",
+          "title": "Durg News: भाजपा महिला मोर्चा ने किया राहुल गांधी का पुतला दहन, कार्यकर्ताओं ने जताया विरोध",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-24T11:54:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/AWE5ToAZ6bQ/hqdefault.jpg",
-          "durationSeconds": 189,
-          "durationFormatted": "03:09",
-          "views": 5,
+          "publishedAt": "2026-02-24T14:19:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/kqvoXjd5So0/hqdefault.jpg",
+          "durationSeconds": 145,
+          "durationFormatted": "02:25",
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "raipur-फटक",
       "topic": "Raipur फाटक",
       "videoCount": 4,
-      "trendScore": 23.9,
+      "trendScore": 24.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yLOhnkVr0FM/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 101,
+          "views": 198,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iOCqvy-E4Ho/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 9,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 21.5,
+      "trendScore": 21.1,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kR4uUucxgSc/hqdefault.jpg",
           "durationSeconds": 136,
           "durationFormatted": "02:16",
-          "views": 19,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
