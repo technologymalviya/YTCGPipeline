@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-25T19:19:24.604647Z",
+  "generatedAt": "2026-02-25T20:52:49.076226Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 97,
-      "trendScore": 63.8,
+      "videoCount": 100,
+      "trendScore": 63.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/h8rVXaFdh-0/hqdefault.jpg",
           "durationSeconds": 1607,
           "durationFormatted": "26:47",
-          "views": 44710,
+          "views": 44881,
           "likes": 433,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/q42qFd73kV8/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 30997,
-          "likes": 1081,
+          "views": 36616,
+          "likes": 1102,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/HmNfYGpI-rA/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 17076,
-          "likes": 269,
+          "views": 17345,
+          "likes": 270,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "_BUvwFPOWE0",
-          "title": "Vasundhara Raje Mahakal Temple Ujjain Visits : महाकाल पहुंची पूर्व CM वसुंधरा राजे सिंधिया | MP News",
-          "description": "Vasundhara Raje Mahakal Temple Ujjain Visits : महाकाल पहुंची पूर्व CM वसुंधरा राजे ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T15:18:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/_BUvwFPOWE0/hqdefault.jpg",
-          "durationSeconds": 25,
-          "durationFormatted": "00:25",
-          "views": 16006,
-          "likes": 116,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "xAQfY8F8ZPg",
           "title": "Afghanistan Airstrike on Pakistan LIVE : पाकिस्तान में अफगानिस्तान ने कर दी एयरस्ट्राइक | Breaking",
           "description": "Afghanistan Airstrike on Pakistan LIVE : पाकिस्तान में अफगानिस्तान ने कर दी ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/xAQfY8F8ZPg/hqdefault.jpg",
           "durationSeconds": 35848,
           "durationFormatted": "09:57:28",
-          "views": 10958,
-          "likes": 65,
+          "views": 12135,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "w0OsgjknROE",
+          "title": "8th Pay Commission Update: होली पर कर्मचारियों को बड़ा तोहफा, बढ़ेगा DA | Salary Hike | Top News",
+          "description": "8th Pay Commission Update: होली पर कर्मचारियों को बड़ा तोहफा, बढ़ेगा DA | Salary Hike ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-25T17:42:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/w0OsgjknROE/hqdefault.jpg",
+          "durationSeconds": 273,
+          "durationFormatted": "04:33",
+          "views": 6022,
+          "likes": 62,
+          "videoType": "VOD",
+          "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-02-25T19:03:58Z"
+      "latestUpdateAt": "2026-02-25T19:35:53Z"
     },
     {
       "clusterId": "modi-israel",
       "topic": "Modi Israel",
       "videoCount": 19,
-      "trendScore": 51.3,
+      "trendScore": 50.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/6vDvoz889tA/hqdefault.jpg",
           "durationSeconds": 163,
           "durationFormatted": "02:43",
-          "views": 2752,
+          "views": 3060,
           "likes": 28,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "MCd31wiEf8E",
-          "title": "PM Modi Israel VIsit: इजरायल में पीएम मोदी का जोरदार स्वागत, Pakistan को बड़ा संदेश LIVE | Top News",
-          "description": "PM Modi Israel VIsit: इजरायल में पीएम मोदी का जोरदार स्वागत, Pakistan को बड़ा संदेश ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T15:28:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/MCd31wiEf8E/hqdefault.jpg",
-          "durationSeconds": 6055,
-          "durationFormatted": "01:40:55",
-          "views": 2020,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "BnGlCAnH3xk",
           "title": "Jerusalem से PM मोदी का बड़ा बयान | भारत-इज़राइल रिश्तों पर भावुक पल | PM Modi Israel speech #pmmodi",
           "description": "IBC24, Jerusalem से PM मोदी का बड़ा बयान | भारत-इज़राइल रिश्तों पर भावुक पल | PM ...",
@@ -132,8 +117,23 @@
           "thumbnail": "https://i.ytimg.com/vi/BnGlCAnH3xk/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 1902,
+          "views": 2601,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "MCd31wiEf8E",
+          "title": "PM Modi Israel VIsit: इजरायल में पीएम मोदी का जोरदार स्वागत, Pakistan को बड़ा संदेश LIVE | Top News",
+          "description": "PM Modi Israel VIsit: इजरायल में पीएम मोदी का जोरदार स्वागत, Pakistan को बड़ा संदेश ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-25T15:28:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/MCd31wiEf8E/hqdefault.jpg",
+          "durationSeconds": 6055,
+          "durationFormatted": "01:40:55",
+          "views": 2032,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4dKKKTK5PDE/hqdefault.jpg",
           "durationSeconds": 199,
           "durationFormatted": "03:19",
-          "views": 1666,
+          "views": 1677,
           "likes": 25,
           "videoType": "VOD",
           "genre": "Events"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UE4UuUVulyA/hqdefault.jpg",
           "durationSeconds": 4156,
           "durationFormatted": "01:09:16",
-          "views": 1190,
+          "views": 1293,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
@@ -174,7 +174,7 @@
       "clusterId": "chhattisgarh-budget",
       "topic": "Chhattisgarh Budget",
       "videoCount": 13,
-      "trendScore": 44.0,
+      "trendScore": 43.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MHaUsq_ZtD0/hqdefault.jpg",
           "durationSeconds": 2083,
           "durationFormatted": "34:43",
-          "views": 8751,
+          "views": 8841,
           "likes": 41,
           "videoType": "VOD",
           "genre": "Politics"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6dlL-hAfTgM/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 2232,
-          "likes": 127,
+          "views": 2358,
+          "likes": 129,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,23 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/xPsaJhAz-dY/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 1505,
+          "views": 1540,
           "likes": 38,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "oyZezsk84PY",
-          "title": "जानें वैशाली नगर को बजट में क्या मिला | CG Bhaskar",
-          "description": "जानें वैशाली नगर को बजट में क्या मिला | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-02-25T06:43:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/oyZezsk84PY/hqdefault.jpg",
-          "durationSeconds": 119,
-          "durationFormatted": "01:59",
-          "views": 706,
-          "likes": 31,
+          "videoId": "mSscN-LIh08",
+          "title": "CG News: सरकार को कहां से होती है सबसे ज्यादा कमाई ? chhattisgarh budget 2026 | thiha chhattisgarh",
+          "description": "CG News: सरकार को कहां से होती है सबसे ज्यादा कमाई ? chhattisgarh budget 2026 | thiha ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-02-25T13:31:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/mSscN-LIh08/hqdefault.jpg",
+          "durationSeconds": 747,
+          "durationFormatted": "12:27",
+          "views": 739,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -257,8 +257,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 8,
-      "trendScore": 42.8,
+      "videoCount": 7,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/WCwICCTYNAs/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 27931,
-          "likes": 641,
+          "views": 29289,
+          "likes": 643,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "TVVIId9AF5I",
-          "title": "Holi 2026: UP की जूता मार होली और लाट साहब की भैंसा गाड़ी, तिरपाल से ढकी मस्जिदें। Shahjahanpur Holi",
-          "description": "Holi 2026: UP की जूता मार होली और लाट साहब की भैंसा गाड़ी, तिरपाल से ढकी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T15:10:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/TVVIId9AF5I/hqdefault.jpg",
-          "durationSeconds": 594,
-          "durationFormatted": "09:54",
-          "views": 306,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "6GMyy0Gqx6s",
           "title": "Bilaspur News: होली से पहले मिलावट पर बड़ी कार्रवाई। मिलावट को लेकर ग्लोरी ढाबा पर 25 हजार जुर्माना",
           "description": "IBC24, Bilaspur News: होली से पहले मिलावट पर बड़ी कार्रवाई। केक और खोवा में ...",
@@ -300,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/6GMyy0Gqx6s/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 36,
+          "views": 60,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "lJ9RpxNlrE8",
           "title": "किसानों के लिए होली का बड़ा तोहफा... Chhattisgarh के किसानों को धान के अंतर की इस दिन मिलेगी राशि",
           "description": "छत्तीसगढ़ से बड़ी खबर, धान के अंतर की राशि होली से पहले मिलेगी, ...",
@@ -321,7 +306,7 @@
           "genre": "Politics"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "NPX2FPWQG84",
           "title": "Barsana Lathmar Holi 2026: बरसाना की भव्य &#39;लट्ठमार&#39; होली। गोपियों ने बरसाईं प्रेम भरी लाठियां",
           "description": "IBC24, Barsana Lathmar Holi 2026: बरसाना की भव्य 'लट्ठमार' होली। गोपियों ने बरसाईं ...",
@@ -334,99 +319,30 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Vk_uyi3C9xE",
+          "title": "Rajnandgaon News: होली की रौनक, बाजारों में उमड़ी भीड़,पर्यावरण संग होली-हर्बल रंगों की ओर बढ़े लोग",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-25T11:17:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/Vk_uyi3C9xE/hqdefault.jpg",
+          "durationSeconds": 110,
+          "durationFormatted": "01:50",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-02-25T18:22:31Z"
     },
     {
-      "clusterId": "iran-war",
-      "topic": "Iran War",
-      "videoCount": 5,
-      "trendScore": 40.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Hx0Yf3FeRmg",
-          "title": "America Attack on Iran: खामेनेई पर हमला फेल, सेना ने हमलावरों के किया ढेर? | Iran America War |Trump",
-          "description": "America Attack on Iran: खामेनेई पर हमला फेल, सेना ने हमलावरों के किया ढेर?",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T14:58:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/Hx0Yf3FeRmg/hqdefault.jpg",
-          "durationSeconds": 483,
-          "durationFormatted": "08:03",
-          "views": 4691,
-          "likes": 179,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "mnxMFSU__Bc",
-          "title": "Iran US War Live Update : ट्रंप की हार 100%, ईरान ने जीता ‘पहला युद्ध! | Khamenei| Trump | War News",
-          "description": "Iran US War Live Update : ट्रंप की हार 100%, ईरान ने जीता 'पहला युद्ध! | Trump News | Khamenei ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T16:44:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/mnxMFSU__Bc/hqdefault.jpg",
-          "durationSeconds": 31573,
-          "durationFormatted": "08:46:13",
-          "views": 3522,
-          "likes": 26,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "wJ41NceWW94",
-          "title": "Ali Khamenei Residence Attack : खामेनेई के घर में घुसकर 250 मुजाहिदों ने की गोलीबारी! | Iran US War",
-          "description": "Ali Khamenei residence Attack News : खामेनेई के घर में घुसकर 250 मुजाहिदों ने की ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T16:45:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/wJ41NceWW94/hqdefault.jpg",
-          "durationSeconds": 211,
-          "durationFormatted": "03:31",
-          "views": 2208,
-          "likes": 53,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "4eqq13lHsEA",
-          "title": "Iran America War Update : ईरान के 3000 KM तक रेंज वाली मिसाइलों से डर गए Trump ! | khamenei | Israel",
-          "description": "Iran America War Update : ईरान के 3000 KM तक रेंज वाली मिसाइलों से डर गए Trump ! | khamenei ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T16:29:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/4eqq13lHsEA/hqdefault.jpg",
-          "durationSeconds": 220,
-          "durationFormatted": "03:40",
-          "views": 1462,
-          "likes": 37,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "x_EbcE7rZbA",
-          "title": "Iran America War Update: 11 बजते ही ईरान का अमेरिका पर पहला बड़ा हमला! | Khamenei | Top News",
-          "description": "Iran America War Update: 11 बजते ही ईरान का अमेरिका पर पहला बड़ा हमला! | Khamenei | Top ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-02-25T17:30:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/x_EbcE7rZbA/hqdefault.jpg",
-          "durationSeconds": 133,
-          "durationFormatted": "02:13",
-          "views": 598,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-02-25T17:30:16Z"
-    },
-    {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
       "videoCount": 8,
-      "trendScore": 38.8,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zIfcXYThbnk/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 27496,
+          "views": 27575,
           "likes": 341,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/wBW6pdwHA98/hqdefault.jpg",
           "durationSeconds": 1081,
           "durationFormatted": "18:01",
-          "views": 12612,
+          "views": 12707,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ghRuoaA36RA/hqdefault.jpg",
           "durationSeconds": 937,
           "durationFormatted": "15:37",
-          "views": 1617,
+          "views": 1619,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -491,14 +407,14 @@
         {
           "index": 5,
           "videoId": "irbq2LvKKwI",
-          "title": "25 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "26 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "25 February 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
           "channelTitle": "Chhattisgarh News Hindi ",
           "publishedAt": "2026-02-25T13:30:51Z",
           "thumbnail": "https://i.ytimg.com/vi/irbq2LvKKwI/hqdefault.jpg",
           "durationSeconds": 1112,
           "durationFormatted": "18:32",
-          "views": 1182,
+          "views": 1214,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +426,7 @@
       "clusterId": "urmila-memorial",
       "topic": "urmila memorial",
       "videoCount": 4,
-      "trendScore": 37.1,
+      "trendScore": 36.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fOK8DGvltsM/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 18941,
-          "likes": 266,
+          "views": 19532,
+          "likes": 268,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -537,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/G-fglOGBAh0/hqdefault.jpg",
           "durationSeconds": 144,
           "durationFormatted": "02:24",
-          "views": 17524,
-          "likes": 373,
+          "views": 17818,
+          "likes": 374,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XIPVV_N1q_8/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 2621,
+          "views": 2801,
           "likes": 27,
           "videoType": "VOD",
           "genre": "Crime"
@@ -567,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rYixu35mrKs/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 463,
+          "views": 600,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -576,10 +492,79 @@
       "latestUpdateAt": "2026-02-25T16:30:31Z"
     },
     {
+      "clusterId": "war-iran",
+      "topic": "War Iran",
+      "videoCount": 4,
+      "trendScore": 36.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "mnxMFSU__Bc",
+          "title": "Iran US War Live Update : ट्रंप की हार 100%, ईरान ने जीता ‘पहला युद्ध! | Khamenei| Trump | War News",
+          "description": "Iran US War Live Update : ट्रंप की हार 100%, ईरान ने जीता 'पहला युद्ध! | Trump News | Khamenei ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-25T16:44:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/mnxMFSU__Bc/hqdefault.jpg",
+          "durationSeconds": 31573,
+          "durationFormatted": "08:46:13",
+          "views": 3689,
+          "likes": 27,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "wJ41NceWW94",
+          "title": "Ali Khamenei Residence Attack : खामेनेई के घर में घुसकर 250 मुजाहिदों ने की गोलीबारी! | Iran US War",
+          "description": "Ali Khamenei residence Attack News : खामेनेई के घर में घुसकर 250 मुजाहिदों ने की ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-25T16:45:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/wJ41NceWW94/hqdefault.jpg",
+          "durationSeconds": 211,
+          "durationFormatted": "03:31",
+          "views": 2961,
+          "likes": 52,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "4eqq13lHsEA",
+          "title": "Iran America War Update : ईरान के 3000 KM तक रेंज वाली मिसाइलों से डर गए Trump ! | khamenei | Israel",
+          "description": "Iran America War Update : ईरान के 3000 KM तक रेंज वाली मिसाइलों से डर गए Trump ! | khamenei ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-25T16:29:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/4eqq13lHsEA/hqdefault.jpg",
+          "durationSeconds": 220,
+          "durationFormatted": "03:40",
+          "views": 1859,
+          "likes": 40,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "x_EbcE7rZbA",
+          "title": "Iran America War Update: 11 बजते ही ईरान का अमेरिका पर पहला बड़ा हमला! | Khamenei | Top News",
+          "description": "Iran America War Update: 11 बजते ही ईरान का अमेरिका पर पहला बड़ा हमला! | Khamenei | Top ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-02-25T17:30:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/x_EbcE7rZbA/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 1002,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-02-25T17:30:16Z"
+    },
+    {
       "clusterId": "madhyapradesh-hindinews",
       "topic": "madhyapradesh hindinews",
       "videoCount": 7,
-      "trendScore": 36.6,
+      "trendScore": 35.9,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pb0u1K1cf3E/hqdefault.jpg",
           "durationSeconds": 21,
           "durationFormatted": "00:21",
-          "views": 5318,
+          "views": 5732,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/F8pqBbNBtig/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 968,
+          "views": 1332,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iT8QSGtRzCI/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 690,
+          "views": 1057,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/O-AUCNX5GKQ/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 464,
+          "views": 624,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -663,7 +648,7 @@
       "clusterId": "durg-rajnandgaon",
       "topic": "Durg Rajnandgaon",
       "videoCount": 13,
-      "trendScore": 32.9,
+      "trendScore": 32.5,
       "topVideos": [
         {
           "index": 1,
@@ -690,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zRjOI1smmzw/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 34,
+          "views": 65,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -705,13 +690,28 @@
           "thumbnail": "https://i.ytimg.com/vi/erQdkGCtXSU/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 27,
+          "views": 31,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "BsVjZt-hkJo",
+          "title": "Durg News: उदय भानु की गिरफ्तारी के विरोध में अहिवारा में युवा कांग्रेस का प्रदर्शन",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-25T14:03:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/BsVjZt-hkJo/hqdefault.jpg",
+          "durationSeconds": 142,
+          "durationFormatted": "02:22",
+          "views": 31,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 5,
           "videoId": "umZMHjR2sP4",
           "title": "Rajnandgaon News: भारतीय मजदूर संघ का 10 सूत्रीय मांग पत्र, 25 फरवरी को देशव्यापी धरना प्रदर्शन",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -724,21 +724,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "5AMHxrlz_ck",
-          "title": "Rajnandgaon News: उदय भानु चिब की गिरफ्तारी पर राजनांदगांव में युवा कांग्रेस का प्रदर्शन",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-02-25T13:27:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/5AMHxrlz_ck/hqdefault.jpg",
-          "durationSeconds": 174,
-          "durationFormatted": "02:54",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
         }
       ],
       "latestUpdateAt": "2026-02-25T14:12:26Z"
@@ -747,7 +732,7 @@
       "clusterId": "bhopal-conversion",
       "topic": "Bhopal Conversion",
       "videoCount": 4,
-      "trendScore": 28.9,
+      "trendScore": 29.0,
       "topVideos": [
         {
           "index": 1,
@@ -759,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0oE3W0QaIy4/hqdefault.jpg",
           "durationSeconds": 532,
           "durationFormatted": "08:52",
-          "views": 295,
+          "views": 311,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -774,8 +759,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1Uv1kPTFnIs/hqdefault.jpg",
           "durationSeconds": 1397,
           "durationFormatted": "23:17",
-          "views": 196,
-          "likes": 2,
+          "views": 257,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -789,8 +774,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KJrvG4eBXVU/hqdefault.jpg",
           "durationSeconds": 1632,
           "durationFormatted": "27:12",
-          "views": 96,
-          "likes": 0,
+          "views": 111,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -815,11 +800,56 @@
     {
       "clusterId": "movie",
       "topic": "Movie",
-      "videoCount": 2,
-      "trendScore": 20.4,
+      "videoCount": 4,
+      "trendScore": 27.6,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "kBAwxrTKF2Q",
+          "title": "यादव जी की लव स्टोरी&#39; फिल्म का विरोध, यादव समाज ने कलेक्टर को सौंपा ज्ञापन | Veena | CG Bhaskar",
+          "description": "यादव जी की लव स्टोरी' फिल्म का विरोध, यादव समाज ने कलेक्टर को सौंपा ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-02-25T07:42:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/kBAwxrTKF2Q/hqdefault.jpg",
+          "durationSeconds": 401,
+          "durationFormatted": "06:41",
+          "views": 393,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "wpJeOtgPQQ4",
+          "title": "Raipur Congress Protest : फिल्म सिटी के लिए काटे जा रहे पेड़ का विरोध कर रही कांग्रेस | Zee MPCG",
+          "description": "Raipur Congress Protest : कांग्रेस नेताओं का अनोखा प्रदर्शन गड्ढे में उतरकर ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-02-25T07:46:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/wpJeOtgPQQ4/hqdefault.jpg",
+          "durationSeconds": 49,
+          "durationFormatted": "00:49",
+          "views": 50,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "E-REIvTZ24c",
+          "title": "Raipur में फिल्म सिटी के लिए चढ़ाई जा रही पेड़ों की बलि | तूता में Congress का अनोखा प्रदर्शन",
+          "description": "Raipur में फिल्म सिटी के लिए चढ़ाई जा रही पेड़ों की बलि | विरोध में Congress ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-02-25T12:57:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/E-REIvTZ24c/hqdefault.jpg",
+          "durationSeconds": 201,
+          "durationFormatted": "03:21",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "EjYFkJFCrCQ",
           "title": "The Editor&#39;s Show:  रायपुर में बन रही फिल्म सिटी मुश्किलों में आ गई है...! Chhattisgarh Film City",
           "description": "The Editor's Show: रायपुर में बन रही फिल्म सिटी मुश्किलों में आ गई है...! Chhattisgarh ...",
@@ -832,21 +862,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "E-REIvTZ24c",
-          "title": "Raipur में फिल्म सिटी के लिए चढ़ाई जा रही पेड़ों की बलि | तूता में Congress का अनोखा प्रदर्शन",
-          "description": "Raipur में फिल्म सिटी के लिए चढ़ाई जा रही पेड़ों की बलि | विरोध में Congress ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-02-25T12:57:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/E-REIvTZ24c/hqdefault.jpg",
-          "durationSeconds": 201,
-          "durationFormatted": "03:21",
-          "views": 16,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-02-25T16:54:27Z"
