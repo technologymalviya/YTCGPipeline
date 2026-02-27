@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-02-27T19:01:22.870181Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-02-27T20:43:13.655417Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 130,
-      "trendScore": 63.8,
+      "videoCount": 132,
+      "trendScore": 62.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/YDReIV5roMI/hqdefault.jpg",
           "durationSeconds": 502,
           "durationFormatted": "08:22",
-          "views": 41162,
-          "likes": 539,
+          "views": 42258,
+          "likes": 545,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/om_7gufcBLA/hqdefault.jpg",
           "durationSeconds": 1563,
           "durationFormatted": "26:03",
-          "views": 33346,
+          "views": 33537,
           "likes": 372,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_1ZkWKR_MIQ/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 11393,
+          "views": 11688,
           "likes": 75,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-wQr6FoOUlQ/hqdefault.jpg",
           "durationSeconds": 549,
           "durationFormatted": "09:09",
-          "views": 9583,
+          "views": 10246,
           "likes": 103,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/A5b-T7ewuws/hqdefault.jpg",
           "durationSeconds": 665,
           "durationFormatted": "11:05",
-          "views": 7780,
-          "likes": 75,
+          "views": 8353,
+          "likes": 76,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-27T18:41:49Z"
+      "latestUpdateAt": "2026-02-27T20:20:32Z"
     },
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
-      "videoCount": 36,
-      "trendScore": 60.7,
+      "videoCount": 22,
+      "trendScore": 54.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QqYP7P9FhDk/hqdefault.jpg",
           "durationSeconds": 1540,
           "durationFormatted": "25:40",
-          "views": 31875,
+          "views": 32024,
           "likes": 375,
           "videoType": "VOD",
           "genre": "General"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LXQfuFW_iVM/hqdefault.jpg",
           "durationSeconds": 949,
           "durationFormatted": "15:49",
-          "views": 5456,
+          "views": 5488,
           "likes": 33,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Jx75BlgEz70/hqdefault.jpg",
           "durationSeconds": 921,
           "durationFormatted": "15:21",
-          "views": 4040,
+          "views": 4065,
           "likes": 53,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zlpKwwe834g/hqdefault.jpg",
           "durationSeconds": 1091,
           "durationFormatted": "18:11",
-          "views": 3074,
+          "views": 3117,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/04EaAur7ACA/hqdefault.jpg",
           "durationSeconds": 1120,
           "durationFormatted": "18:40",
-          "views": 2591,
+          "views": 2762,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -173,8 +173,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 18,
-      "trendScore": 50.0,
+      "videoCount": 16,
+      "trendScore": 47.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VduFCncBtgw/hqdefault.jpg",
           "durationSeconds": 200,
           "durationFormatted": "03:20",
-          "views": 11810,
-          "likes": 113,
+          "views": 12049,
+          "likes": 114,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -201,28 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/bKuhqY7GfXY/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 1321,
+          "views": 1350,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "G4kQQfOuYCc",
-          "title": "Ujjain : होली पर अद्भुत चंद्रग्रहण,सुबह से सूतक, असर शाम तक,सिंह राशि वालों को रहना होगा सतर्क",
-          "description": "3 मार्च 2026 को होली के दिन साल का पहला चंद्रग्रहण लगेगा... यह ग्रहण सिंह ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-02-27T13:43:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/G4kQQfOuYCc/hqdefault.jpg",
-          "durationSeconds": 174,
-          "durationFormatted": "02:54",
-          "views": 723,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "QgQPLqRoZnM",
           "title": "Holi Chandra Grahan 2026: होली पर चंद्र ग्रहण का साया, जानें सूतक काल का सही समय | Top News | Holika",
           "description": "Holi Chandra Grahan 2026: होली पर चंद्र ग्रहण का साया, जानें सूतक काल का सही समय ...",
@@ -231,8 +216,23 @@
           "thumbnail": "https://i.ytimg.com/vi/QgQPLqRoZnM/hqdefault.jpg",
           "durationSeconds": 223,
           "durationFormatted": "03:43",
-          "views": 697,
-          "likes": 6,
+          "views": 1155,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "G4kQQfOuYCc",
+          "title": "Ujjain : होली पर अद्भुत चंद्रग्रहण,सुबह से सूतक, असर शाम तक,सिंह राशि वालों को रहना होगा सतर्क",
+          "description": "3 मार्च 2026 को होली के दिन साल का पहला चंद्रग्रहण लगेगा... यह ग्रहण सिंह ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-02-27T13:43:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/G4kQQfOuYCc/hqdefault.jpg",
+          "durationSeconds": 174,
+          "durationFormatted": "02:54",
+          "views": 792,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mi12ZW_95To/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 610,
+          "views": 703,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-भपश",
       "topic": "Bhaskar भूपेश",
       "videoCount": 9,
-      "trendScore": 42.8,
+      "trendScore": 41.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SqJEgBDq-_0/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 24388,
-          "likes": 564,
+          "views": 26369,
+          "likes": 568,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kUTuHuo86iQ/hqdefault.jpg",
           "durationSeconds": 26,
           "durationFormatted": "00:26",
-          "views": 13042,
-          "likes": 288,
+          "views": 14036,
+          "likes": 301,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bhDnF7aJZb4/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 4361,
+          "views": 4698,
           "likes": 48,
           "videoType": "VOD",
           "genre": "General"
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/g3S26PKUq_8/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 2104,
-          "likes": 7,
+          "views": 2118,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/T2OlXCcm0x0/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 1052,
+          "views": 1150,
           "likes": 18,
           "videoType": "VOD",
           "genre": "Events"
@@ -339,10 +339,94 @@
       "latestUpdateAt": "2026-02-27T13:58:51Z"
     },
     {
+      "clusterId": "durg-rajnandgaon",
+      "topic": "Durg Rajnandgaon",
+      "videoCount": 12,
+      "trendScore": 35.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "V75lmMOVKeM",
+          "title": "Durg News: प्रशासन की सख्त कार्रवाई, मुख्य आरोपी का अवैध निर्माण ध्वस्त",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-27T13:18:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/V75lmMOVKeM/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 55,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "w5KxUzJoNhk",
+          "title": "Durg News: पत्रकारों पर हमले के विरोध में छ.ग. जर्नलिस्ट वेलफेयर यूनियन ने कलेक्टर को सौंपा ज्ञापन..",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-27T12:45:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/w5KxUzJoNhk/hqdefault.jpg",
+          "durationSeconds": 111,
+          "durationFormatted": "01:51",
+          "views": 28,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "E_hByVpnmrQ",
+          "title": "Durg News: महापौर अलका बाघमार की पहल, मुक्तिधाम के विकास से शहरवासियों को मिलेगा सुविधा",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-27T12:46:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/E_hByVpnmrQ/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 15,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "uLMAyTgx8XU",
+          "title": "Rajnandgaon News: परिवारिक विवाद बना खू.NI झगड़ा, पुलिस ने की त्वरित कार्रवाई, 4 आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-27T13:13:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/uLMAyTgx8XU/hqdefault.jpg",
+          "durationSeconds": 38,
+          "durationFormatted": "00:38",
+          "views": 14,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "by99IHjbGQ4",
+          "title": "Durg News: चौदहवीं अखिल भारतीय पुलिस तीरंदाजी प्रतियोगिता का चौथा दिन संपन्न",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-02-27T13:22:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/by99IHjbGQ4/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 13,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-02-27T13:22:13Z"
+    },
+    {
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
-      "videoCount": 5,
-      "trendScore": 38.0,
+      "videoCount": 4,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-eM55DtVCsI/hqdefault.jpg",
           "durationSeconds": 405,
           "durationFormatted": "06:45",
-          "views": 1770,
-          "likes": 48,
+          "views": 2600,
+          "likes": 51,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,28 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/M_zDpG9oJpA/hqdefault.jpg",
           "durationSeconds": 326,
           "durationFormatted": "05:26",
-          "views": 1583,
-          "likes": 24,
+          "views": 2128,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "HJ1GW0iAaSk",
-          "title": "Seedhe Mudde Ki Baat: कोर्ट का फैसला आया तो केजरीवाल क्यों रोने लगे ? | Kejriwal | Sharab Ghotala",
-          "description": "Seedhe Mudde Ki Baat: कोर्ट का फैसला आया तो केजरीवाल क्यों रोने लगे ? | Kejriwal ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-27T15:03:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/HJ1GW0iAaSk/hqdefault.jpg",
-          "durationSeconds": 817,
-          "durationFormatted": "13:37",
-          "views": 1350,
-          "likes": 37,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "GEDgHD0YTRQ",
           "title": "Seedhe Mudde Ki Baat: अविमुक्तेश्वानंद जेल जाने से कैसे बच गए? | Avimukteshwaranand Harrasment Case",
           "description": "Seedhe Mudde Ki Baat: अविमुक्तेश्वानंद जेल जाने से कैसे बच गए? | Avimukteshwaranand ...",
@@ -399,13 +468,13 @@
           "thumbnail": "https://i.ytimg.com/vi/GEDgHD0YTRQ/hqdefault.jpg",
           "durationSeconds": 620,
           "durationFormatted": "10:20",
-          "views": 676,
-          "likes": 8,
+          "views": 796,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "a4DGM3cvvRQ",
           "title": "Seedhe Mudde Ki Baat: भोपाल धर्मांतरण मामले में पहली बार बड़ा खुलासा !  | Bhopal Dharmantaran Case",
           "description": "Seedhe Mudde Ki Baat: भोपाल धर्मांतरण मामले में पहली बार बड़ा खुलासा ! | Bhopal ...",
@@ -414,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/a4DGM3cvvRQ/hqdefault.jpg",
           "durationSeconds": 495,
           "durationFormatted": "08:15",
-          "views": 479,
-          "likes": 13,
+          "views": 677,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -426,7 +495,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 7,
-      "trendScore": 31.0,
+      "trendScore": 32.2,
       "topVideos": [
         {
           "index": 1,
@@ -453,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WBZvKCLnsdM/hqdefault.jpg",
           "durationSeconds": 1703,
           "durationFormatted": "28:23",
-          "views": 168,
+          "views": 172,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -464,11 +533,11 @@
           "title": "🔴LIVE : MP - CG  : तेज रफतार का कहर | Breaking  | Latest News | Zee MPCG",
           "description": "LIVE : MP - CG : तेज रफतार का कहर | Breaking | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-27T07:57:10Z",
+          "publishedAt": "2026-02-27T20:32:46Z",
           "thumbnail": "https://i.ytimg.com/vi/r8gBM1IhP7c/hqdefault.jpg",
-          "durationSeconds": 1632,
-          "durationFormatted": "27:12",
-          "views": 165,
+          "durationSeconds": 1636,
+          "durationFormatted": "27:16",
+          "views": 166,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -479,38 +548,38 @@
           "title": "🔴LIVE : MP - CG : केजरीवाल को क्लीन चिट  | Latest News | Zee MPCG",
           "description": "LIVE : MP - CG : केजरीवाल को क्लीन चिट | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-27T07:27:20Z",
+          "publishedAt": "2026-02-27T19:58:09Z",
           "thumbnail": "https://i.ytimg.com/vi/RKBeYyFCWwo/hqdefault.jpg",
-          "durationSeconds": 1617,
-          "durationFormatted": "26:57",
-          "views": 156,
+          "durationSeconds": 1621,
+          "durationFormatted": "27:01",
+          "views": 160,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "s3dAc_gmQRU",
-          "title": "🔴LIVE : Mudda To Hai : त्योहार बिगाड़ने का &#39;फुलप्रूफ प्लान&#39; तैयार ! | Zee MPCG",
-          "description": "LIVE : Mudda To Hai : त्योहार बिगाड़ने का 'फुलप्रूफ प्लान' तैयार ! | Zee MPCG ...",
+          "videoId": "icwlsN5-3P4",
+          "title": "🔴LIVE: MP Dastak : जादू टोने के नाम पर ठगी | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : जादू टोने के नाम पर ठगी | Latest News | Zee MPCG #MPDastak #MadhyaPradesh #MPNews ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-02-27T12:50:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/s3dAc_gmQRU/hqdefault.jpg",
-          "durationSeconds": 1471,
-          "durationFormatted": "24:31",
-          "views": 115,
-          "likes": 1,
+          "publishedAt": "2026-02-27T16:23:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/icwlsN5-3P4/hqdefault.jpg",
+          "durationSeconds": 1522,
+          "durationFormatted": "25:22",
+          "views": 134,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "Events"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-02-27T16:52:26Z"
+      "latestUpdateAt": "2026-02-27T20:32:46Z"
     },
     {
       "clusterId": "delhi-liquor",
       "topic": "Delhi Liquor",
       "videoCount": 6,
-      "trendScore": 30.8,
+      "trendScore": 29.9,
       "topVideos": [
         {
           "index": 1,
@@ -537,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mSxNze_Eyd8/hqdefault.jpg",
           "durationSeconds": 8928,
           "durationFormatted": "02:28:48",
-          "views": 163,
+          "views": 162,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Crime"
@@ -552,28 +621,13 @@
           "thumbnail": "https://i.ytimg.com/vi/RyG4KjRaKgA/hqdefault.jpg",
           "durationSeconds": 234,
           "durationFormatted": "03:54",
-          "views": 34,
+          "views": 42,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "XPHMgFKdqKk",
-          "title": "The Editor&#39;s Show : Delhi शराब घोटाला मामले में Kejriwal बाइज्जत बरी हो गए हैं! | Liquor Scam Case",
-          "description": "The Editor's Show : Delhi शराब घोटाला मामले में Kejriwal बाइज्जत बरी हो गए हैं! | Liquor ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-02-27T16:18:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/XPHMgFKdqKk/hqdefault.jpg",
-          "durationSeconds": 300,
-          "durationFormatted": "05:00",
-          "views": 24,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
           "videoId": "KfWYQ8fK6GE",
           "title": "Breaking News : Delhi Liquor Scam Case में बड़ा फैसला! Court से Kejriwal-Sisodia बरी | India News MP",
           "description": "दिल्ली की Rouse Avenue Court ने बहुचर्चित Delhi Liquor Scam मामले में बड़ा फैसला ...",
@@ -582,7 +636,22 @@
           "thumbnail": "https://i.ytimg.com/vi/KfWYQ8fK6GE/hqdefault.jpg",
           "durationSeconds": 1070,
           "durationFormatted": "17:50",
-          "views": 17,
+          "views": 26,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "ScEeErVvvd8",
+          "title": "AAP को राहत! शराब केस में Kejriwal-Sisodia बरी, क्या बदलेगी सियासत ? | Liquor Scam Case | Breaking",
+          "description": "AAP को राहत! शराब केस में Kejriwal-Sisodia बरी, क्या बदलेगी सियासत ? | Liquor Scam Case ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-02-27T16:19:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/ScEeErVvvd8/hqdefault.jpg",
+          "durationSeconds": 293,
+          "durationFormatted": "04:53",
+          "views": 26,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -591,10 +660,94 @@
       "latestUpdateAt": "2026-02-27T16:19:22Z"
     },
     {
+      "clusterId": "crime-raipur",
+      "topic": "Crime Raipur",
+      "videoCount": 5,
+      "trendScore": 28.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "kSChI3M8Rr0",
+          "title": "🔴MP Crime: दो बहनों का &#39;पाप&#39; लोक! रेप, ब्लैकमेलिंग का डर्टी गेम! हिंदू बेटियां और सेक्स रैकेट का जाल",
+          "description": "IBC24, MP Crime: दो बहनों का 'पाप' लोक! रेप, ब्लैकमेलिंग का डर्टी गेम! हिंदू ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-27T19:52:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/kSChI3M8Rr0/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 409,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "DJeX3seVW7g",
+          "title": "Raipur News: तहसील ऑफिस म हंगामा के मामला। तहसील ऑफिस के क्लर्क मन के तबादला",
+          "description": "IBC24, Raipur News: तहसील ऑफिस म हंगामा के मामला। तहसील ऑफिस के क्लर्क मन के ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-27T15:15:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/DJeX3seVW7g/hqdefault.jpg",
+          "durationSeconds": 68,
+          "durationFormatted": "01:08",
+          "views": 91,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "V48G_iZ7o_I",
+          "title": "Raipur Crime News: विधायक कॉलोनी में मारपीट का मामला। पुलिस ने 7 आरोपियों को किया गिरफ्तार। देखिए..",
+          "description": "IBC24, Raipur Crime News: विधायक कॉलोनी में मारपीट का मामला। पुलिस ने 7 ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-02-27T18:32:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/V48G_iZ7o_I/hqdefault.jpg",
+          "durationSeconds": 123,
+          "durationFormatted": "02:03",
+          "views": 65,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "NounSNWz5tI",
+          "title": "Raipur News : बजट में रायपुर के लिए 210.93 करोड़ का प्रावधान",
+          "description": "वित्तीय वर्ष 2026–27 के बजट में रायपुर के विकास के लिए 210.93 करोड़ रुपये ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-02-27T10:38:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/NounSNWz5tI/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 8,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "7QW38Ocoxts",
+          "title": "Raipur में KKPL क्रिकेट मैच का आयोजन। कान्यकुब्ज समाज की 8 टीमों ने लिया हिस्सा।  देखिए..",
+          "description": "IBC24, Raipur में KKPL क्रिकेट मैच का आयोजन। कान्यकुब्ज समाज की 8 टीमों ने ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-02-27T19:09:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/7QW38Ocoxts/hqdefault.jpg",
+          "durationSeconds": 100,
+          "durationFormatted": "01:40",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-02-27T19:52:08Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 27.5,
+      "trendScore": 26.0,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/W3inRnd7g28/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 104,
+          "views": 118,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
