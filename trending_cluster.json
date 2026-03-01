@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-03-01T18:50:24.941132Z",
+  "generatedAt": "2026-03-01T20:39:02.898541Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 64,
-      "trendScore": 64.5,
+      "videoCount": 63,
+      "trendScore": 63.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "TN5FFxd8a_U",
-          "title": "1 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "1 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-02-28T23:45:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/TN5FFxd8a_U/hqdefault.jpg",
-          "durationSeconds": 1425,
-          "durationFormatted": "23:45",
-          "views": 33539,
-          "likes": 327,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "JoJ_bhBAErQ",
           "title": "छत्तीसगढ़िया क्रांति सेना के नेता का रौद्र रूप | दुकान के आगे ठेला लाने पर हो गया बवाल | @tirandaj",
           "description": "chhattisgarhiyakrantisena #kanchandasmanikpuri #disputeinraipur #raipurnews ...",
@@ -33,8 +18,23 @@
           "thumbnail": "https://i.ytimg.com/vi/JoJ_bhBAErQ/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 32995,
-          "likes": 848,
+          "views": 40066,
+          "likes": 870,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "TN5FFxd8a_U",
+          "title": "1 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
+          "description": "1 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-02-28T23:45:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/TN5FFxd8a_U/hqdefault.jpg",
+          "durationSeconds": 1425,
+          "durationFormatted": "23:45",
+          "views": 33759,
+          "likes": 327,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bq8oeqzHl9s/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 12175,
-          "likes": 162,
+          "views": 13256,
+          "likes": 163,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dehnz_MC8Tw/hqdefault.jpg",
           "durationSeconds": 820,
           "durationFormatted": "13:40",
-          "views": 11416,
+          "views": 11516,
           "likes": 494,
           "videoType": "VOD",
           "genre": "General"
@@ -78,37 +78,22 @@
           "thumbnail": "https://i.ytimg.com/vi/DUEdtPCGMMs/hqdefault.jpg",
           "durationSeconds": 1368,
           "durationFormatted": "22:48",
-          "views": 8193,
-          "likes": 306,
+          "views": 8412,
+          "likes": 307,
           "videoType": "VOD",
           "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-03-01T18:37:37Z"
+      "latestUpdateAt": "2026-03-01T18:55:56Z"
     },
     {
       "clusterId": "iran-israel",
       "topic": "Iran Israel",
-      "videoCount": 23,
-      "trendScore": 61.4,
+      "videoCount": 21,
+      "trendScore": 56.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "j6kne1UMmgA",
-          "title": "Iran Israel War: खामेनेई की मौत के बाद, नए सुप्रीम लीडर का ऐलान...कांप गए Trump-Netanyahu | N18G",
-          "description": "Iran Israel War: खामेनेई की मौत के बाद, नए सुप्रीम लीडर का ऐलान...कांप गए ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-01T13:03:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/j6kne1UMmgA/hqdefault.jpg",
-          "durationSeconds": 973,
-          "durationFormatted": "16:13",
-          "views": 111281,
-          "likes": 1454,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "fztRgfOnJTg",
           "title": "Iran Israel War Update : खामनेई से किसने की ग़द्दारी, कैसे लगा इज़रायल को पता! Khamenei Death | N18G",
           "description": "Iran Israel War Update : खामनेई से किसने की ग़द्दारी, कैसे लगा इज़रायल को पता!",
@@ -117,10 +102,25 @@
           "thumbnail": "https://i.ytimg.com/vi/fztRgfOnJTg/hqdefault.jpg",
           "durationSeconds": 764,
           "durationFormatted": "12:44",
-          "views": 38086,
-          "likes": 702,
+          "views": 54172,
+          "likes": 710,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "vt-DNYsitGY",
+          "title": "Israel-US Attack on Iran: Dubai Airport पर फंसे भारतीय | भारत सरकार से मदद की लगाई गुहार",
+          "description": "IBC24, Israel-US Attack on Iran: Dubai Airport पर फंसे भारतीय | भारत सरकार से मदद की लगाई ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-01T16:28:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/vt-DNYsitGY/hqdefault.jpg",
+          "durationSeconds": 236,
+          "durationFormatted": "03:56",
+          "views": 40023,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
@@ -132,25 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/UW1yNvyqBmE/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 36952,
-          "likes": 157,
+          "views": 38906,
+          "likes": 158,
           "videoType": "LIVE",
           "genre": "Live"
         },
         {
           "index": 4,
-          "videoId": "cVGYbD0pD2E",
-          "title": "Iran Israel War : 6 बजते ही ईरान-इजरायल की जंग पर आ गई बड़ी खबर | Khamenei | America | Trump | N18G",
-          "description": "Iran Israel War : 6 बजते ही ईरान-इजरायल की जंग पर आ गई बड़ी खबर | Khamenei | America | Trump ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-01T13:00:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/cVGYbD0pD2E/hqdefault.jpg",
-          "durationSeconds": 404,
-          "durationFormatted": "06:44",
-          "views": 11200,
-          "likes": 99,
+          "videoId": "WfYlbOspalo",
+          "title": "Israel-US Attack on Iran: ईरान के समर्थन में दिखा Pakistan | Khamenei की मौत पर पाक PM ने जताया दुख",
+          "description": "IBC24, Israel-US Attack on Iran: ईरान के समर्थन में दिखा Pakistan | Khamenei की मौत पर पाक PM ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-01T16:05:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/WfYlbOspalo/hqdefault.jpg",
+          "durationSeconds": 52,
+          "durationFormatted": "00:52",
+          "views": 12285,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Crime"
         },
         {
           "index": 5,
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xXzcW2SozIY/hqdefault.jpg",
           "durationSeconds": 11321,
           "durationFormatted": "03:08:41",
-          "views": 10572,
+          "views": 10652,
           "likes": 114,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 25,
-      "trendScore": 57.3,
+      "trendScore": 56.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kkTqWVR6LIE/hqdefault.jpg",
           "durationSeconds": 1110,
           "durationFormatted": "18:30",
-          "views": 5453,
+          "views": 6023,
           "likes": 66,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dae85YhcXQs/hqdefault.jpg",
           "durationSeconds": 1449,
           "durationFormatted": "24:09",
-          "views": 2430,
+          "views": 2723,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kL71wTcxySU/hqdefault.jpg",
           "durationSeconds": 195,
           "durationFormatted": "03:15",
-          "views": 1715,
+          "views": 2077,
           "likes": 53,
           "videoType": "VOD",
           "genre": "Politics"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PBWfep5egx0/hqdefault.jpg",
           "durationSeconds": 234,
           "durationFormatted": "03:54",
-          "views": 1047,
+          "views": 1335,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/mv9uOGrP8SU/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 835,
+          "views": 935,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-01T17:01:06Z"
+      "latestUpdateAt": "2026-03-01T18:59:36Z"
     },
     {
       "clusterId": "ind-highlights",
       "topic": "IND HIGHLIGHTS",
-      "videoCount": 14,
-      "trendScore": 46.2,
+      "videoCount": 12,
+      "trendScore": 44.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/yTIM4qkpkpY/hqdefault.jpg",
           "durationSeconds": 432,
           "durationFormatted": "07:12",
-          "views": 7139,
+          "views": 45375,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
-          "videoId": "hp-SifMfrIQ",
-          "title": "India vs West Indies T20 WC Score : वेस्टइंडीज ने भारत को दिया 196 रन का टारगेट",
-          "description": "For all the latest news from Madhya Pradesh and Chattisgarh, keep watching News18 Madhya Pradesh Chattisgarh LIVE TV on ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-01T15:26:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/hp-SifMfrIQ/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 5419,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
           "videoId": "94pb7m1QqyM",
           "title": "IND vs WI HIGHLIGHTS | T20 World Cup 2026। India vs West Indies HIGHLIGHTS  | WI vs IND",
           "description": "IND vs WI HIGHLIGHTS | India vs West Indies HIGHLIGHTS | IND vs WI | T20 World Cup 2026 #INDvsWI #T20WorldCup2026 ...",
@@ -300,8 +285,23 @@
           "thumbnail": "https://i.ytimg.com/vi/94pb7m1QqyM/hqdefault.jpg",
           "durationSeconds": 403,
           "durationFormatted": "06:43",
-          "views": 4365,
+          "views": 8076,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "hp-SifMfrIQ",
+          "title": "India vs West Indies T20 WC Score : वेस्टइंडीज ने भारत को दिया 196 रन का टारगेट",
+          "description": "For all the latest news from Madhya Pradesh and Chattisgarh, keep watching News18 Madhya Pradesh Chattisgarh LIVE TV on ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-01T15:26:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/hp-SifMfrIQ/hqdefault.jpg",
+          "durationSeconds": 90,
+          "durationFormatted": "01:30",
+          "views": 6971,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/w40FSX0FljU/hqdefault.jpg",
           "durationSeconds": 395,
           "durationFormatted": "06:35",
-          "views": 3360,
-          "likes": 47,
+          "views": 5168,
+          "likes": 46,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/YLKbPeT1BSA/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 286,
-          "likes": 5,
+          "views": 479,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -341,8 +341,8 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 9,
-      "trendScore": 38.4,
+      "videoCount": 15,
+      "trendScore": 44.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,28 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/NCtLQ0XrAOQ/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 1508,
+          "views": 1503,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "K3M4uYdOzdo",
-          "title": "Ali Khamenei :  ईरान में खामेनेई के समर्थन में लाखों लोग | Latest News | Hindi News | Zee MPCG",
-          "description": "Ali Khamenei : ईरान में खामेनेई के समर्थन में लाखों लोग | Latest News | Hindi News | Zee ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-01T09:00:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/K3M4uYdOzdo/hqdefault.jpg",
-          "durationSeconds": 65,
-          "durationFormatted": "01:05",
-          "views": 854,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "ZroE-PYMhiE",
           "title": "Shorts : बैतूल में खामेनेई की मौत पर उबाल,शिया समुदाय का कैंडल मार्च | Zee MPCG",
           "description": "Shorts : बैतूल में खामेनेई की मौत पर उबाल,शिया समुदाय का कैंडल मार्च | Zee ...",
@@ -384,49 +369,64 @@
           "thumbnail": "https://i.ytimg.com/vi/ZroE-PYMhiE/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 606,
+          "views": 876,
           "likes": 29,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
-          "videoId": "dJg_6kgsYek",
-          "title": "🔴LIVE : Khabar Apne MP Ki : ग्वालियर : क्राइम ब्रांच का साइबर ठगों पर शिकंजा  | Zee  MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : ग्वालियर : क्राइम ब्रांच का साइबर ठगों पर शिकंजा | Zee ...",
+          "index": 3,
+          "videoId": "K3M4uYdOzdo",
+          "title": "Ali Khamenei :  ईरान में खामेनेई के समर्थन में लाखों लोग | Latest News | Hindi News | Zee MPCG",
+          "description": "Ali Khamenei : ईरान में खामेनेई के समर्थन में लाखों लोग | Latest News | Hindi News | Zee ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-01T13:27:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/dJg_6kgsYek/hqdefault.jpg",
-          "durationSeconds": 1547,
-          "durationFormatted": "25:47",
-          "views": 193,
-          "likes": 1,
+          "publishedAt": "2026-03-01T09:00:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/K3M4uYdOzdo/hqdefault.jpg",
+          "durationSeconds": 65,
+          "durationFormatted": "01:05",
+          "views": 865,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "nIAVhpqv7-Q",
+          "title": "🔴LIVE : MP - CG : ईरान में महाविनाश  |  Breaking  | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : ईरान में महाविनाश | Breaking | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-01T17:07:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/nIAVhpqv7-Q/hqdefault.jpg",
+          "durationSeconds": 1525,
+          "durationFormatted": "25:25",
+          "views": 662,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "DbvhgiH7GXo",
-          "title": "🔴LIVE : The BreakFast Show : इजराइल और ईरान में छिड़ा वॉर  | Latest News |  Zee MPCG",
-          "description": "LIVE : The BreakFast Show : इजराइल और ईरान में छिड़ा वॉर | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-01T14:29:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/DbvhgiH7GXo/hqdefault.jpg",
-          "durationSeconds": 3430,
-          "durationFormatted": "57:10",
-          "views": 160,
-          "likes": 3,
+          "videoId": "OIeSM6W0PQg",
+          "title": "Naxal Surrender: बलोदा थाने में 15 नक्सलियों ने किया सरेंडर | Top News | Breaking",
+          "description": "Naxal Surrender: बलोदा थाने में 15 नक्सलियों ने किया सरेंडर | Top News | Breaking ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-01T13:44:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/OIeSM6W0PQg/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 588,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-03-01T17:57:38Z"
+      "latestUpdateAt": "2026-03-01T18:17:16Z"
     },
     {
       "clusterId": "durg-रजनदगव",
       "topic": "Durg राजनांदगांव",
       "videoCount": 9,
-      "trendScore": 25.1,
+      "trendScore": 24.2,
       "topVideos": [
         {
           "index": 1,
@@ -510,7 +510,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 23.3,
+      "trendScore": 22.2,
       "topVideos": [
         {
           "index": 1,
