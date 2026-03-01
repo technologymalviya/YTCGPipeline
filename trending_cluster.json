@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-01T20:39:02.898541Z",
+  "generatedAt": "2026-03-01T22:38:47.649900Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 63,
-      "trendScore": 63.4,
+      "videoCount": 62,
+      "trendScore": 62.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JoJ_bhBAErQ/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 40066,
-          "likes": 870,
+          "views": 41648,
+          "likes": 883,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TN5FFxd8a_U/hqdefault.jpg",
           "durationSeconds": 1425,
           "durationFormatted": "23:45",
-          "views": 33759,
+          "views": 33773,
           "likes": 327,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bq8oeqzHl9s/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 13256,
-          "likes": 163,
+          "views": 13454,
+          "likes": 165,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dehnz_MC8Tw/hqdefault.jpg",
           "durationSeconds": 820,
           "durationFormatted": "13:40",
-          "views": 11516,
-          "likes": 494,
+          "views": 11527,
+          "likes": 495,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/DUEdtPCGMMs/hqdefault.jpg",
           "durationSeconds": 1368,
           "durationFormatted": "22:48",
-          "views": 8412,
+          "views": 8443,
           "likes": 307,
           "videoType": "VOD",
           "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-03-01T18:55:56Z"
+      "latestUpdateAt": "2026-03-01T18:37:37Z"
     },
     {
-      "clusterId": "iran-israel",
-      "topic": "Iran Israel",
+      "clusterId": "iran-khamenei",
+      "topic": "Iran Khamenei",
       "videoCount": 21,
-      "trendScore": 56.8,
+      "trendScore": 55.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fztRgfOnJTg/hqdefault.jpg",
           "durationSeconds": 764,
           "durationFormatted": "12:44",
-          "views": 54172,
-          "likes": 710,
+          "views": 55004,
+          "likes": 715,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vt-DNYsitGY/hqdefault.jpg",
           "durationSeconds": 236,
           "durationFormatted": "03:56",
-          "views": 40023,
+          "views": 41534,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UW1yNvyqBmE/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 38906,
-          "likes": 158,
+          "views": 39256,
+          "likes": 159,
           "videoType": "LIVE",
           "genre": "Live"
         },
@@ -147,23 +147,23 @@
           "thumbnail": "https://i.ytimg.com/vi/WfYlbOspalo/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 12285,
+          "views": 12310,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 5,
-          "videoId": "xXzcW2SozIY",
-          "title": "Iran America-Israel War Update LIVE: ईरान पर इजरायल और अमेरिका का हमला, ताजा हालात LIVE | Top News",
-          "description": "Iran America-Israel War Update LIVE: ईरान पर इजरायल और अमेरिका का हमला, ताजा हालात LIVE ...",
+          "videoId": "ydOLnF8KLlo",
+          "title": "LIVE : Ali Khamenei के बेटे Mojtaba KhameneI बने Iran के नए सुप्रीम लीडर | Iran vs Israel | Trump",
+          "description": "LIVE : Ali Khamenei के बेटे Mojtaba KhameneI बने Iran के नए सुप्रीम लीडर | Iran vs Israel | Trump ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-01T13:17:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/xXzcW2SozIY/hqdefault.jpg",
-          "durationSeconds": 11321,
-          "durationFormatted": "03:08:41",
-          "views": 10652,
-          "likes": 114,
+          "publishedAt": "2026-03-01T13:25:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/ydOLnF8KLlo/hqdefault.jpg",
+          "durationSeconds": 16615,
+          "durationFormatted": "04:36:55",
+          "views": 5519,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -174,7 +174,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 25,
-      "trendScore": 56.4,
+      "trendScore": 55.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kkTqWVR6LIE/hqdefault.jpg",
           "durationSeconds": 1110,
           "durationFormatted": "18:30",
-          "views": 6023,
-          "likes": 66,
+          "views": 6167,
+          "likes": 68,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dae85YhcXQs/hqdefault.jpg",
           "durationSeconds": 1449,
           "durationFormatted": "24:09",
-          "views": 2723,
+          "views": 2761,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kL71wTcxySU/hqdefault.jpg",
           "durationSeconds": 195,
           "durationFormatted": "03:15",
-          "views": 2077,
-          "likes": 53,
+          "views": 2138,
+          "likes": 54,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -231,25 +231,25 @@
           "thumbnail": "https://i.ytimg.com/vi/PBWfep5egx0/hqdefault.jpg",
           "durationSeconds": 234,
           "durationFormatted": "03:54",
-          "views": 1335,
+          "views": 1370,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "mv9uOGrP8SU",
-          "title": "Chhattisgarh के इस गांव में बिना होलिका दहन मनाया जाता होली | Dhamtari News | Telinsatti Village",
-          "description": "IBC24, Chhattisgarh के इस गांव में बिना होलिका दहन मनाया जाता होली | Dhamtari News ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-01T15:03:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/mv9uOGrP8SU/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 935,
+          "videoId": "8nErbr-p5Vw",
+          "title": "Bhilai में Keshariya के Holi Event में मिले ग़ज़ब लोग | Seemant Kashyap | KP News ",
+          "description": "",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-03-01T17:01:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/8nErbr-p5Vw/hqdefault.jpg",
+          "durationSeconds": 407,
+          "durationFormatted": "06:47",
+          "views": 1160,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-01T18:59:36Z"
@@ -258,7 +258,7 @@
       "clusterId": "ind-highlights",
       "topic": "IND HIGHLIGHTS",
       "videoCount": 12,
-      "trendScore": 44.9,
+      "trendScore": 44.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yTIM4qkpkpY/hqdefault.jpg",
           "durationSeconds": 432,
           "durationFormatted": "07:12",
-          "views": 45375,
+          "views": 52577,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/94pb7m1QqyM/hqdefault.jpg",
           "durationSeconds": 403,
           "durationFormatted": "06:43",
-          "views": 8076,
+          "views": 11290,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hp-SifMfrIQ/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 6971,
-          "likes": 20,
+          "views": 7152,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -315,25 +315,25 @@
           "thumbnail": "https://i.ytimg.com/vi/w40FSX0FljU/hqdefault.jpg",
           "durationSeconds": 395,
           "durationFormatted": "06:35",
-          "views": 5168,
+          "views": 5368,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "YLKbPeT1BSA",
-          "title": "India vs West Indies | सेमीफाइनल में पहुंची टीम इंडिया, वेस्टइंडीज को पांच विकेट से हराया",
-          "description": "India vs West Indies | सेमीफाइनल में पहुंची टीम इंडिया, वेस्टइंडीज को पांच ...",
+          "videoId": "b_0F7y6FxjU",
+          "title": "T20 World Cup 2026: भारतीय टीम की धमाकेदार जीत, भारत ने वेस्टइंडीज को 5 विकेट से रौंदा",
+          "description": "T20 World Cup 2026: भारतीय टीम की धमाकेदार जीत, भारत ने वेस्टइंडीज को 5 विकेट ...",
           "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-01T17:27:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/YLKbPeT1BSA/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 479,
-          "likes": 6,
+          "publishedAt": "2026-03-01T17:49:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/b_0F7y6FxjU/hqdefault.jpg",
+          "durationSeconds": 804,
+          "durationFormatted": "13:24",
+          "views": 606,
+          "likes": 4,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-01T17:51:36Z"
@@ -341,8 +341,8 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 15,
-      "trendScore": 44.4,
+      "videoCount": 9,
+      "trendScore": 37.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NCtLQ0XrAOQ/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 1503,
+          "views": 1637,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZroE-PYMhiE/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 876,
-          "likes": 29,
+          "views": 954,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -384,49 +384,49 @@
           "thumbnail": "https://i.ytimg.com/vi/K3M4uYdOzdo/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 865,
+          "views": 868,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "nIAVhpqv7-Q",
-          "title": "🔴LIVE : MP - CG : ईरान में महाविनाश  |  Breaking  | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : ईरान में महाविनाश | Breaking | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
+          "videoId": "dJg_6kgsYek",
+          "title": "🔴LIVE : Khabar Apne MP Ki : ग्वालियर : क्राइम ब्रांच का साइबर ठगों पर शिकंजा  | Zee  MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : ग्वालियर : क्राइम ब्रांच का साइबर ठगों पर शिकंजा | Zee ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-01T17:07:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/nIAVhpqv7-Q/hqdefault.jpg",
-          "durationSeconds": 1525,
-          "durationFormatted": "25:25",
-          "views": 662,
-          "likes": 18,
+          "publishedAt": "2026-03-01T13:27:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/dJg_6kgsYek/hqdefault.jpg",
+          "durationSeconds": 1547,
+          "durationFormatted": "25:47",
+          "views": 207,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "OIeSM6W0PQg",
-          "title": "Naxal Surrender: बलोदा थाने में 15 नक्सलियों ने किया सरेंडर | Top News | Breaking",
-          "description": "Naxal Surrender: बलोदा थाने में 15 नक्सलियों ने किया सरेंडर | Top News | Breaking ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-01T13:44:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/OIeSM6W0PQg/hqdefault.jpg",
-          "durationSeconds": 96,
-          "durationFormatted": "01:36",
-          "views": 588,
-          "likes": 0,
+          "videoId": "DbvhgiH7GXo",
+          "title": "🔴LIVE : The BreakFast Show : इजराइल और ईरान में छिड़ा वॉर  | Latest News |  Zee MPCG",
+          "description": "LIVE : The BreakFast Show : इजराइल और ईरान में छिड़ा वॉर | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-01T14:29:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/DbvhgiH7GXo/hqdefault.jpg",
+          "durationSeconds": 3430,
+          "durationFormatted": "57:10",
+          "views": 180,
+          "likes": 3,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-01T18:17:16Z"
+      "latestUpdateAt": "2026-03-01T22:02:32Z"
     },
     {
       "clusterId": "durg-रजनदगव",
       "topic": "Durg राजनांदगांव",
       "videoCount": 9,
-      "trendScore": 24.2,
+      "trendScore": 23.5,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DBIPmQneuN0/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/a1gJNNqscSk/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -510,7 +510,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 22.2,
+      "trendScore": 21.4,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/a9QFE_vlp_k/hqdefault.jpg",
           "durationSeconds": 2830,
           "durationFormatted": "47:10",
-          "views": 176,
+          "views": 200,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
