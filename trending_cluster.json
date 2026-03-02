@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-02T20:51:11.655642Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-03-02T22:45:44.905654Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 102,
-      "trendScore": 63.8,
+      "videoCount": 100,
+      "trendScore": 63.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZA8Yfc3mzlc/hqdefault.jpg",
           "durationSeconds": 1420,
           "durationFormatted": "23:40",
-          "views": 40529,
-          "likes": 395,
+          "views": 40573,
+          "likes": 396,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7eBwFqUAO8w/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 26486,
-          "likes": 1359,
+          "views": 27427,
+          "likes": 1378,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tEiVtub02uE/hqdefault.jpg",
           "durationSeconds": 742,
           "durationFormatted": "12:22",
-          "views": 10772,
-          "likes": 216,
+          "views": 11068,
+          "likes": 219,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/J3lsxXoO33E/hqdefault.jpg",
           "durationSeconds": 1371,
           "durationFormatted": "22:51",
-          "views": 8512,
-          "likes": 201,
+          "views": 8697,
+          "likes": 202,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OfFTb6K2NTw/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 7966,
-          "likes": 87,
+          "views": 8189,
+          "likes": 88,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -90,7 +90,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 46,
-      "trendScore": 61.9,
+      "trendScore": 61.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KzCazQMWVOs/hqdefault.jpg",
           "durationSeconds": 912,
           "durationFormatted": "15:12",
-          "views": 16913,
-          "likes": 312,
+          "views": 17049,
+          "likes": 314,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eHZ0_yrOMvA/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 6136,
+          "views": 6577,
           "likes": 90,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0FhgLDVro_k/hqdefault.jpg",
           "durationSeconds": 24,
           "durationFormatted": "00:24",
-          "views": 5577,
+          "views": 5654,
           "likes": 71,
           "videoType": "VOD",
           "genre": "Events"
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/w1FeGvzQhpI/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 4730,
-          "likes": 139,
+          "views": 5301,
+          "likes": 150,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/mpXmNCOrQfM/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 3577,
+          "views": 3626,
           "likes": 51,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-02T18:33:06Z"
+      "latestUpdateAt": "2026-03-02T19:09:11Z"
     },
     {
       "clusterId": "iran-attack",
       "topic": "Iran Attack",
       "videoCount": 20,
-      "trendScore": 56.7,
+      "trendScore": 57.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EWaIjD9hPKU/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 64410,
-          "likes": 374,
+          "views": 80080,
+          "likes": 460,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/pKU7RO84908/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 40080,
-          "likes": 490,
+          "views": 52972,
+          "likes": 536,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "ibcpdeU859M",
+          "title": "Iran Attack on Israel: ईरानी सेना ने खैबर मिसाइल से उड़ा दिया नेतन्याहू का दफ्तर? | Breaking News",
+          "description": "Iran Attack on Israel: ईरानी सेना ने खैबर मिसाइल से उड़ा दिया नेतन्याहू का ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-02T20:30:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/ibcpdeU859M/hqdefault.jpg",
+          "durationSeconds": 354,
+          "durationFormatted": "05:54",
+          "views": 22934,
+          "likes": 1056,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "IxIywlOKY5I",
           "title": "Iran Attack on Israel: ईरान का नेतन्याहू के ऑफिस और एयरफोर्स बेस पर बड़ा हमला! | Netanyahu | N18G",
           "description": "Iran Attack on Israel: ईरान का नेतन्याहू के ऑफिस और एयरफोर्स बेस पर बड़ा हमला!",
@@ -216,13 +231,13 @@
           "thumbnail": "https://i.ytimg.com/vi/IxIywlOKY5I/hqdefault.jpg",
           "durationSeconds": 208,
           "durationFormatted": "03:28",
-          "views": 10522,
-          "likes": 176,
+          "views": 13636,
+          "likes": 185,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "OVM7-gA1AZ8",
           "title": "Iran Attack Viral Video : ब्रिटेन बेस पर ड्रोन गिरने से मची चीख-पुकार! | Tump | Khamenei | Netanyahu",
           "description": "Iran Attack Viral Video : ब्रिटेन बेस पर ड्रोन गिरने से मची चीख-पुकार! | Tump | Khamenei ...",
@@ -231,34 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/OVM7-gA1AZ8/hqdefault.jpg",
           "durationSeconds": 5,
           "durationFormatted": "00:05",
-          "views": 7103,
+          "views": 7719,
           "likes": 40,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "MS67jMG98zw",
-          "title": "Iran Israel War Update: हमले के बाद धूं-धूं कर जला तेहरान, VIRAL VIDEO | Netanyahu | Breaking | N18S",
-          "description": "Iran Israel War Update: हमले के बाद धूं-धूं कर जला तेहरान, VIRAL VIDEO | Netanyahu | Breaking ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-02T16:42:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/MS67jMG98zw/hqdefault.jpg",
-          "durationSeconds": 9,
-          "durationFormatted": "00:09",
-          "views": 5672,
-          "likes": 42,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-02T20:30:17Z"
+      "latestUpdateAt": "2026-03-02T22:30:05Z"
     },
     {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
-      "videoCount": 15,
-      "trendScore": 46.4,
+      "videoCount": 8,
+      "trendScore": 37.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4tJy2jkBurA/hqdefault.jpg",
           "durationSeconds": 971,
           "durationFormatted": "16:11",
-          "views": 24244,
+          "views": 24269,
           "likes": 312,
           "videoType": "VOD",
           "genre": "General"
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4UO5bGsmhrw/hqdefault.jpg",
           "durationSeconds": 916,
           "durationFormatted": "15:16",
-          "views": 11716,
-          "likes": 59,
+          "views": 11814,
+          "likes": 61,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1V88SSKG6o4/hqdefault.jpg",
           "durationSeconds": 891,
           "durationFormatted": "14:51",
-          "views": 1736,
+          "views": 1758,
           "likes": 34,
           "videoType": "VOD",
           "genre": "General"
@@ -315,23 +315,23 @@
           "thumbnail": "https://i.ytimg.com/vi/VuzVQ2rtMf0/hqdefault.jpg",
           "durationSeconds": 1084,
           "durationFormatted": "18:04",
-          "views": 1016,
+          "views": 1050,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "iitW5LOULNA",
-          "title": "🔴LIVE : Special  Story : होलिका जली... बुराई ढली | Latest News | Zee MPCG",
-          "description": "LIVE : Special Story : होलिका जली... बुराई ढली | Latest News | Zee MPCG #MuddatoHai #Madhyapradesh ...",
+          "videoId": "q8aApcWHvhs",
+          "title": "🔴LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG",
+          "description": "LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-02T14:27:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/iitW5LOULNA/hqdefault.jpg",
-          "durationSeconds": 3519,
-          "durationFormatted": "58:39",
-          "views": 455,
-          "likes": 4,
+          "publishedAt": "2026-03-02T12:17:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/q8aApcWHvhs/hqdefault.jpg",
+          "durationSeconds": 715,
+          "durationFormatted": "11:55",
+          "views": 114,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "rjn-कररवई",
       "topic": "RJN कार्रवाई",
       "videoCount": 12,
-      "trendScore": 36.1,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vM6-n6KyGyo/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 21,
+          "views": 22,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -406,18 +406,18 @@
         },
         {
           "index": 5,
-          "videoId": "6uCinTwj02o",
-          "title": "केसीजी जिले में बड़ी कार्रवाई ,चोरी का माल बरामद, आरोपी जेल भेजा",
-          "description": "chhattisgarhnews #madhyapradehnews #kcgnews .",
+          "videoId": "r882MYB70aE",
+          "title": "दुर्ग में जुआ पर बड़ी कार्रवाई, अमलेश्वर के रिसॉर्ट से 16 आरोपी गिरफ्तार, 25 लाख की संपत्ति जब्त",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-02T11:42:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/6uCinTwj02o/hqdefault.jpg",
-          "durationSeconds": 40,
-          "durationFormatted": "00:40",
-          "views": 12,
+          "publishedAt": "2026-03-02T13:24:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/r882MYB70aE/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-02T13:25:48Z"
@@ -426,7 +426,7 @@
       "clusterId": "newsonair-top",
       "topic": "Newsonair Top",
       "videoCount": 4,
-      "trendScore": 34.3,
+      "trendScore": 33.1,
       "topVideos": [
         {
           "index": 1,
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vyLdqsdYgz0/hqdefault.jpg",
           "durationSeconds": 40536,
           "durationFormatted": "11:15:36",
-          "views": 349,
+          "views": 350,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Xutj_UVnF4U/hqdefault.jpg",
           "durationSeconds": 565,
           "durationFormatted": "09:25",
-          "views": 113,
+          "views": 148,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6Dcp7lP5St8/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 8,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -495,7 +495,7 @@
       "clusterId": "cabinet-महन",
       "topic": "Cabinet मोहन",
       "videoCount": 4,
-      "trendScore": 32.4,
+      "trendScore": 31.4,
       "topVideos": [
         {
           "index": 1,
@@ -507,13 +507,28 @@
           "thumbnail": "https://i.ytimg.com/vi/mvwMlw-lVTU/hqdefault.jpg",
           "durationSeconds": 212,
           "durationFormatted": "03:32",
-          "views": 2943,
-          "likes": 46,
+          "views": 2997,
+          "likes": 47,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "esG2TT-cNgo",
+          "title": "Krishak Cabinet Baithak : मध्य प्रदेश सरकार की ऐतिहासिक पहल किसानों को 27 हजार 746 करोड़ की सौगात",
+          "description": "Krishak Cabinet Baithak : मध्य प्रदेश सरकार ने कृषकों के हित में एक ऐतिहासिक पहल ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-02T16:38:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/esG2TT-cNgo/hqdefault.jpg",
+          "durationSeconds": 370,
+          "durationFormatted": "06:10",
+          "views": 139,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "Aus-Qgj_BtA",
           "title": "Raipur: साय सरकार की पहल से नशे पर प्रहार,भारत माता वाहिनी बनी बदलाव की वाहक..",
           "description": "साय सरकार की पहल से नशे पर प्रहार भारत माता वाहिनी बनी बदलाव की वाहक ...",
@@ -524,21 +539,6 @@
           "durationFormatted": "05:33",
           "views": 86,
           "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "esG2TT-cNgo",
-          "title": "Krishak Cabinet Baithak : मध्य प्रदेश सरकार की ऐतिहासिक पहल किसानों को 27 हजार 746 करोड़ की सौगात",
-          "description": "Krishak Cabinet Baithak : मध्य प्रदेश सरकार ने कृषकों के हित में एक ऐतिहासिक पहल ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-02T16:38:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/esG2TT-cNgo/hqdefault.jpg",
-          "durationSeconds": 370,
-          "durationFormatted": "06:10",
-          "views": 67,
-          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -561,10 +561,94 @@
       "latestUpdateAt": "2026-03-02T16:38:56Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 6,
+      "trendScore": 31.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "iitW5LOULNA",
+          "title": "🔴LIVE : Special  Story : होलिका जली... बुराई ढली | Latest News | Zee MPCG",
+          "description": "LIVE : Special Story : होलिका जली... बुराई ढली | Latest News | Zee MPCG #MuddatoHai #Madhyapradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-02T14:27:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/iitW5LOULNA/hqdefault.jpg",
+          "durationSeconds": 3519,
+          "durationFormatted": "58:39",
+          "views": 467,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "Tj-11BOzJjc",
+          "title": "🔴LIVE: MP Dastak : रीवा में छेड़छाड़ का विरोध पड़ा भारी | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : रीवा में छेड़छाड़ का विरोध पड़ा भारी | Latest News | Zee MPCG #MPDastak ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-02T16:28:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/Tj-11BOzJjc/hqdefault.jpg",
+          "durationSeconds": 1570,
+          "durationFormatted": "26:10",
+          "views": 254,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "Q2qNO49x4SU",
+          "title": "🔴LIVE: MP-CG Special : &#39;रंगों&#39; का त्योहार ... &#39;ग्रहण&#39; का असर !  | Latest News | Zee MPCG",
+          "description": "LIVE: MP-CG Special : 'रंगों' का त्योहार ... 'ग्रहण' का असर ! | Latest News | Zee MPCG #MPCGSpecial ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-02T12:57:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q2qNO49x4SU/hqdefault.jpg",
+          "durationSeconds": 1415,
+          "durationFormatted": "23:35",
+          "views": 246,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "iruL7GrXzUQ",
+          "title": "🔴LIVE : Tarkash : किसानों को &#39;मोहन&#39; सौगात | Latest News  | Zee MPCG",
+          "description": "LIVE : Tarkash : किसानों को 'मोहन' सौगात | Latest News | Zee MPCG #Live #MPNews #Tarkash #mpnews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-02T11:26:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/iruL7GrXzUQ/hqdefault.jpg",
+          "durationSeconds": 1433,
+          "durationFormatted": "23:53",
+          "views": 161,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "GGwWgpNrRUw",
+          "title": "🔴LIVE : Prime Time @9 : अन्नदाता को सौगातसंस्कृति का सम्मान !  | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : अन्नदाता को सौगातसंस्कृति का सम्मान ! | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-02T15:29:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/GGwWgpNrRUw/hqdefault.jpg",
+          "durationSeconds": 1179,
+          "durationFormatted": "19:39",
+          "views": 154,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-02T21:58:21Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 17.7,
+      "trendScore": 18.8,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4fbQbUssh6U/hqdefault.jpg",
           "durationSeconds": 225,
           "durationFormatted": "03:45",
-          "views": 9,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
