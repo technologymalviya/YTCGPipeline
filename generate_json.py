@@ -105,8 +105,17 @@ GENRE_POLITICS = "Politics"
 GENRE_JOBS = "Jobs"
 GENRE_EVENTS = "Events"
 GENRE_CIVIC = "Civic"
-GENRE_INTERVIEW = "Interview"
+GENRE_PODCAST = "Podcast"
 GENRE_GENERAL = "General"
+
+# Podcast allowed channel titles - only videos from these channels can be classified as Podcast
+# These channels should NOT appear in other tabs
+PODCAST_ALLOWED_CHANNEL_TITLES = [
+    "Chhattisgarh Podcast",
+    "Z-Series CG Podcast",
+    "The Lok Ras",
+    "The PS Show",
+]
 
 # Section Names
 SECTION_LIVE = "Live"
@@ -117,20 +126,20 @@ SECTION_POLITICS = "Politics"
 SECTION_JOBS = "Jobs"
 SECTION_EVENTS = "Events"
 SECTION_CIVIC = "Civic"
-SECTION_INTERVIEW = "Interview"
+SECTION_PODCAST = "Podcast"
 SECTION_GENERAL = "General"
 
 # Section -> Index map (per requested mapping)
-# Mapping provided: "General" 1 , "Jobs" 2, "Politics" 3, "Events" 4, "Civic" 5, "Traffic" 6, "Crime" 7, "Interview" 8
+# Mapping provided: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Traffic" 7, "Crime" 8
 SECTION_INDEX = {
     "General": 1,
-    "Jobs": 2,
-    "Politics": 3,
-    "Events": 4,
-    "Civic": 5,
-    "Traffic": 6,
-    "Crime": 7,
-    "Interview": 8,
+    "Podcast": 2,
+    "Jobs": 3,
+    "Politics": 4,
+    "Events": 5,
+    "Civic": 6,
+    "Traffic": 7,
+    "Crime": 8,
 }
 
 # Load multiple API keys for fallback support
@@ -508,7 +517,8 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
             "events": GENRE_EVENTS,
             "civic": GENRE_CIVIC,
             "politics": GENRE_POLITICS,
-            "interview": GENRE_INTERVIEW,
+            "podcast": GENRE_PODCAST,
+            "interview": GENRE_PODCAST,  # Legacy support - map "interview" to "podcast"
             "general": GENRE_GENERAL,
         }
         
@@ -645,8 +655,22 @@ def classify_genre(title: str, description: str = "", published_at: str = None, 
     return keyword_result
 
 
-def classify_genre_keyword_based(title: str, description: str = "") -> str:
-    """Classify video genre based on title and description with improved accuracy using keywords."""
+def classify_genre_keyword_based(title: str, description: str = "", channel_title: str = "") -> str:
+    """Classify video genre based on title and description with improved accuracy using keywords.
+    
+    Args:
+        title: Video title
+        description: Video description
+        channel_title: Channel title (required for Podcast classification)
+    
+    Returns:
+        Genre classification string
+    """
+    # CRITICAL: Check if video is from a Podcast channel first
+    # Videos from Podcast channels should ONLY be classified as Podcast, not other genres
+    if channel_title and channel_title in PODCAST_ALLOWED_CHANNEL_TITLES:
+        return GENRE_PODCAST
+    
     # Normalize title and description separately - title gets more weight
     title_text = normalize(title or "")
     desc_text = normalize(description or "")
@@ -943,11 +967,16 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         if pattern.search(text):
             return GENRE_TRAFFIC
 
-    # Interview - podcast, interview, story, biography (check BEFORE Jobs, but exclude job interviews)
-    # IMPORTANT: Job interviews must be classified as Jobs, not Interview
+    # Podcast/Interview - podcast, interview, story, biography (check BEFORE Jobs, but exclude job interviews)
+    # IMPORTANT: 
+    # 1. Job interviews must be classified as Jobs, not Podcast
+    # 2. Only videos from allowed Podcast channels can be classified as Podcast (already checked above)
+    # 3. This section is for videos from other channels that have podcast/interview keywords
+    #    but should NOT be classified as Podcast (they'll be General or other genres)
+    # Note: Videos from PODCAST_ALLOWED_CHANNEL_TITLES are already classified as Podcast above
     for pattern in interview_patterns:
         if pattern.search(text):
-            # Exclude job interviews - these MUST be classified as Jobs, not Interview
+            # Exclude job interviews - these MUST be classified as Jobs, not Podcast
             # Check for job-related terms that indicate this is a job interview, not a content interview
             job_interview_indicators = [
                 # English job interview terms
@@ -963,13 +992,15 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
                 "job", "jobs", "recruitment", "vacancy", "hiring", "bharti", "bharte"
             ]
             
-            # If any job-related indicator is present, skip Interview classification
+            # If any job-related indicator is present, skip Podcast classification
             # This ensures job interviews are classified as Jobs (checked next)
             if any(job_term in text for job_term in job_interview_indicators):
-                continue  # Skip Interview, let Jobs classification handle it
+                continue  # Skip Podcast, let Jobs classification handle it
             
-            # If no job indicators, this is a content interview (podcast, celebrity interview, etc.)
-            return GENRE_INTERVIEW
+            # Videos with podcast/interview keywords from non-allowed channels should be General
+            # (not Podcast, since they're not from allowed channels)
+            # This is handled by falling through to GENRE_GENERAL at the end
+            continue
 
     # Jobs - employment opportunities (check AFTER Interview to catch job interviews)
     # This will catch job interviews that were excluded from Interview classification above
@@ -1219,6 +1250,7 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
             title = v.get("title", "")
             description = v.get("description", "")
             published_at = v.get("publishedAt", "")
+            channel_title = v.get("channelTitle", "")  # Get channelTitle for Podcast classification
 
             # Check if video is recent (within last 1 hour)
             is_recent = is_recent_video(published_at, hours=1)
@@ -1232,23 +1264,39 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                     if not openai_failed:
                         print(f"[Classification] Rate limit safety threshold reached, circuit breaker activated - using keyword-based for remaining {total_videos - i} videos")
                         openai_failed = True
-                    v["genre"] = classify_genre_keyword_based(title, description)
+                    v["genre"] = classify_genre_keyword_based(title, description, channel_title)
                     keyword_count += 1
                 else:
                     openai_result = classify_genre_with_openai(title, description)
                     if openai_result:
-                        v["genre"] = openai_result
-                        openai_count += 1
+                        # If OpenAI classified as Podcast, verify channel_title before accepting
+                        # If not from allowed channel, reclassify using keyword-based
+                        if openai_result == GENRE_PODCAST:
+                            if channel_title not in PODCAST_ALLOWED_CHANNEL_TITLES:
+                                v["genre"] = classify_genre_keyword_based(title, description, channel_title)
+                                keyword_count += 1
+                            else:
+                                v["genre"] = openai_result
+                                openai_count += 1
+                        else:
+                            # For non-Podcast genres, check if video is from Podcast channel
+                            # If yes, override to Podcast (Podcast channels should only appear in Podcast tab)
+                            if channel_title in PODCAST_ALLOWED_CHANNEL_TITLES:
+                                v["genre"] = GENRE_PODCAST
+                                keyword_count += 1
+                            else:
+                                v["genre"] = openai_result
+                                openai_count += 1
                     else:
                         # OpenAI failed - set circuit breaker and use keyword-based
                         if not openai_failed:
                             print(f"[Classification] OpenAI failed, circuit breaker activated - using keyword-based for remaining {total_videos - i} videos")
                             openai_failed = True
-                        v["genre"] = classify_genre_keyword_based(title, description)
+                        v["genre"] = classify_genre_keyword_based(title, description, channel_title)
                         keyword_count += 1
             else:
                 # Use keyword-based directly for older videos or if circuit breaker is active
-                v["genre"] = classify_genre_keyword_based(title, description)
+                v["genre"] = classify_genre_keyword_based(title, description, channel_title)
                 keyword_count += 1
         
         # Progress indicator for large batches
@@ -1281,28 +1329,39 @@ def filter_by_genre(feed: List[Dict], genres: List[str]) -> List[Dict]:
 
 def generate_ott_json(feed: List[Dict]) -> Dict:
     """Generate OTT-style JSON feed."""
-    live_news = filter_by_genre(feed, [GENRE_LIVE])
-    scheduled_news = filter_by_genre(feed, [GENRE_SCHEDULED])
-    general_news = filter_by_genre(feed, [GENRE_GENERAL])
-    politics_news = filter_by_genre(feed, [GENRE_POLITICS])
-    traffic_news = filter_by_genre(feed, [GENRE_TRAFFIC])
-    crime_news = filter_by_genre(feed, [GENRE_CRIME])
-    jobs_news = filter_by_genre(feed, [GENRE_JOBS])
-    events_news = filter_by_genre(feed, [GENRE_EVENTS])
-    civic_news = filter_by_genre(feed, [GENRE_CIVIC])
-    interview_news = filter_by_genre(feed, [GENRE_INTERVIEW])
+    # Filter Podcast videos first - these should ONLY appear in Podcast section
+    podcast_news = filter_by_genre(feed, [GENRE_PODCAST])
+    
+    # Filter other genres, but EXCLUDE videos from Podcast channels
+    # This ensures Podcast channel videos don't appear in other tabs
+    def is_not_podcast_channel(video: Dict) -> bool:
+        channel_title = video.get("channelTitle", "")
+        return channel_title not in PODCAST_ALLOWED_CHANNEL_TITLES
+    
+    # Filter other genres, excluding Podcast channel videos
+    other_feed = [v for v in feed if is_not_podcast_channel(v)]
+    
+    live_news = filter_by_genre(other_feed, [GENRE_LIVE])
+    scheduled_news = filter_by_genre(other_feed, [GENRE_SCHEDULED])
+    general_news = filter_by_genre(other_feed, [GENRE_GENERAL])
+    politics_news = filter_by_genre(other_feed, [GENRE_POLITICS])
+    traffic_news = filter_by_genre(other_feed, [GENRE_TRAFFIC])
+    crime_news = filter_by_genre(other_feed, [GENRE_CRIME])
+    jobs_news = filter_by_genre(other_feed, [GENRE_JOBS])
+    events_news = filter_by_genre(other_feed, [GENRE_EVENTS])
+    civic_news = filter_by_genre(other_feed, [GENRE_CIVIC])
     
     sections = [
         {"section": SECTION_LIVE, "count": len(live_news), "items": live_news},
         {"section": SECTION_SCHEDULED, "count": len(scheduled_news), "items": scheduled_news},
         {"section": SECTION_GENERAL, "count": len(general_news), "items": general_news},
+        {"section": SECTION_PODCAST, "count": len(podcast_news), "items": podcast_news},
         {"section": SECTION_JOBS, "count": len(jobs_news), "items": jobs_news},
         {"section": SECTION_POLITICS, "count": len(politics_news), "items": politics_news},
         {"section": SECTION_EVENTS, "count": len(events_news), "items": events_news},
         {"section": SECTION_CIVIC, "count": len(civic_news), "items": civic_news},
         {"section": SECTION_TRAFFIC, "count": len(traffic_news), "items": traffic_news},
         {"section": SECTION_CRIME, "count": len(crime_news), "items": crime_news},
-        {"section": SECTION_INTERVIEW, "count": len(interview_news), "items": interview_news},
     ]
 
     # Attach sectionIndex to each section using SECTION_INDEX map; default to 0 if unknown
