@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-03T19:08:46.217885Z",
+  "generatedAt": "2026-03-03T20:47:56.955652Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 63,
-      "trendScore": 63.2,
+      "videoCount": 60,
+      "trendScore": 62.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4Z5gLFpQe_M/hqdefault.jpg",
           "durationSeconds": 1630,
           "durationFormatted": "27:10",
-          "views": 53287,
-          "likes": 479,
+          "views": 53567,
+          "likes": 480,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/RAFkeSjWYFY/hqdefault.jpg",
           "durationSeconds": 11,
           "durationFormatted": "00:11",
-          "views": 23371,
-          "likes": 170,
+          "views": 25291,
+          "likes": 171,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pxSAGhXMCCM/hqdefault.jpg",
           "durationSeconds": 871,
           "durationFormatted": "14:31",
-          "views": 19037,
-          "likes": 409,
+          "views": 19383,
+          "likes": 412,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,23 +63,23 @@
           "thumbnail": "https://i.ytimg.com/vi/9rfR_ZDUz_Y/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 15681,
-          "likes": 324,
+          "views": 16150,
+          "likes": 326,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
           "index": 5,
-          "videoId": "eFU24Y29iqA",
-          "title": "3 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "3 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai ① Over 50000 teaching ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-03-02T23:59:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/eFU24Y29iqA/hqdefault.jpg",
-          "durationSeconds": 672,
-          "durationFormatted": "11:12",
-          "views": 6632,
-          "likes": 125,
+          "videoId": "BUBr6qt85T4",
+          "title": "लक्ष्मी वर्मा होंगी BJP से राज्यसभा सांसद प्रत्याशी, CM साय ने की थी सिफारिश, लगी मुहर...",
+          "description": "लक्ष्मी वर्मा होंगी BJP से राज्यसभा सांसद प्रत्याशी, CM साय ने की थी ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-03-03T16:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/BUBr6qt85T4/hqdefault.jpg",
+          "durationSeconds": 180,
+          "durationFormatted": "03:00",
+          "views": 8812,
+          "likes": 259,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -89,8 +89,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 53,
-      "trendScore": 60.3,
+      "videoCount": 55,
+      "trendScore": 59.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZZOSR2ylwN0/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 10320,
-          "likes": 167,
+          "views": 10587,
+          "likes": 168,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8JxxLfStL0g/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 4400,
-          "likes": 23,
+          "views": 6070,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QWnTjc7cfig/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 4145,
+          "views": 4334,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Kb0VN7UbIiU/hqdefault.jpg",
           "durationSeconds": 8783,
           "durationFormatted": "02:26:23",
-          "views": 3431,
+          "views": 3460,
           "likes": 21,
           "videoType": "VOD",
           "genre": "Events"
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/1PqTb6INgkw/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 2034,
+          "views": 2123,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-03T19:00:01Z"
+      "latestUpdateAt": "2026-03-03T19:56:19Z"
     },
     {
-      "clusterId": "war-israel",
-      "topic": "War Israel",
+      "clusterId": "war-iran",
+      "topic": "War Iran",
       "videoCount": 9,
-      "trendScore": 44.9,
+      "trendScore": 44.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XUf1r88QVzg/hqdefault.jpg",
           "durationSeconds": 984,
           "durationFormatted": "16:24",
-          "views": 43504,
-          "likes": 791,
+          "views": 46063,
+          "likes": 796,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hN-LTb2U1BQ/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 14559,
+          "views": 15255,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JuOYE-r5-Jw/hqdefault.jpg",
           "durationSeconds": 218,
           "durationFormatted": "03:38",
-          "views": 9696,
-          "likes": 125,
+          "views": 13503,
+          "likes": 145,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6FUnPIEyo5g/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 6894,
+          "views": 7840,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HLF6w_-kgWg/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 3624,
-          "likes": 86,
+          "views": 6222,
+          "likes": 117,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,10 +255,10 @@
       "latestUpdateAt": "2026-03-03T18:24:34Z"
     },
     {
-      "clusterId": "bjp-sabha",
-      "topic": "BJP Sabha",
-      "videoCount": 11,
-      "trendScore": 41.1,
+      "clusterId": "bjp-verma",
+      "topic": "BJP Verma",
+      "videoCount": 9,
+      "trendScore": 37.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/u_EWArdYA1M/hqdefault.jpg",
           "durationSeconds": 25556,
           "durationFormatted": "07:05:56",
-          "views": 3062,
+          "views": 3249,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,28 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/DlEmGVL44EU/hqdefault.jpg",
           "durationSeconds": 16115,
           "durationFormatted": "04:28:35",
-          "views": 1670,
-          "likes": 6,
+          "views": 1714,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "4SLRt2OlqiM",
-          "title": "🔴Nitin Nabin Rajya Sabha Member Nomination : Bihar से नितिन नबीन राज्यसभा उम्मीदवार | Breaking News",
-          "description": "Nitin Nabin Rajya Sabha Member Nomination : Bihar से नितिन नबीन राज्यसभा उम्मीदवार | Breaking ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-03T14:33:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/4SLRt2OlqiM/hqdefault.jpg",
-          "durationSeconds": 15850,
-          "durationFormatted": "04:24:10",
-          "views": 1466,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "9-oAZEqK4A8",
           "title": "राज्यसभा चुनाव के लिए सूची जारी छत्तीसगढ़ से लक्ष्मी वर्मा है उम्मीदवार | CG Bhaskar",
           "description": "राज्यसभा चुनाव के लिए सूची जारी छत्तीसगढ़ से लक्ष्मी वर्मा है ...",
@@ -315,13 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/9-oAZEqK4A8/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 1134,
+          "views": 1149,
           "likes": 16,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "2Sh-C-TsO3I",
           "title": "Breaking News: छत्तीसगढ़ से राज्यसभा के लिए लक्ष्मी वर्मा BJP उम्मीदवार घोषित, BJP ने जारी की सूची",
           "description": "भारतीय जनता पार्टी ने आगामी राज्यसभा चुनाव के लिए अपने उम्मीदवारों ...",
@@ -330,10 +315,25 @@
           "thumbnail": "https://i.ytimg.com/vi/2Sh-C-TsO3I/hqdefault.jpg",
           "durationSeconds": 442,
           "durationFormatted": "07:22",
-          "views": 970,
-          "likes": 11,
+          "views": 1014,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "6bvn4FnYbp4",
+          "title": "Seedhe Mudde Ki Baat : राज्यसभा उम्मीदवार बनने पर क्या बोलीं Laxmi Verma? | Chhattisgarh",
+          "description": "Seedhe Mudde Ki Baat : राज्यसभा उम्मीदवार बनने पर क्या बोलीं Laxmi Verma? | Chhattisgarh ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-03T14:58:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/6bvn4FnYbp4/hqdefault.jpg",
+          "durationSeconds": 149,
+          "durationFormatted": "02:29",
+          "views": 1001,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-03T18:06:49Z"
@@ -342,7 +342,7 @@
       "clusterId": "रजनदगव-रदध",
       "topic": "राजनांदगांव रिद्धि",
       "videoCount": 10,
-      "trendScore": 34.9,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3J016ju6Ulw/hqdefault.jpg",
           "durationSeconds": 618,
           "durationFormatted": "10:18",
-          "views": 143,
+          "views": 174,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -369,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/fF7d8sXjOU0/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 30,
+          "views": 26,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
+          "videoId": "HSxKH8868P4",
+          "title": "Durg News: ब्लू लाइट ढाबा के सामने कपड़ा व्यापारी से चाकू की नोक पर लूट, पुलिस जांच जारी",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-03T12:30:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/HSxKH8868P4/hqdefault.jpg",
+          "durationSeconds": 130,
+          "durationFormatted": "02:10",
+          "views": 14,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
           "videoId": "5XD2imjwh0U",
           "title": "Rajnandgaon News: शाम 7 बजे तक बंद रहेंगे शहर के सभी मंदिर! मंदिर समितियों का बड़ा फैसला",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -388,21 +403,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "HSxKH8868P4",
-          "title": "Durg News: ब्लू लाइट ढाबा के सामने कपड़ा व्यापारी से चाकू की नोक पर लूट, पुलिस जांच जारी",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-03T12:30:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/HSxKH8868P4/hqdefault.jpg",
-          "durationSeconds": 130,
-          "durationFormatted": "02:10",
-          "views": 6,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         },
         {
           "index": 5,
@@ -426,7 +426,7 @@
       "clusterId": "bhilai-bhaskar",
       "topic": "Bhilai Bhaskar",
       "videoCount": 5,
-      "trendScore": 33.8,
+      "trendScore": 33.0,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MqqrD23QxXs/hqdefault.jpg",
           "durationSeconds": 356,
           "durationFormatted": "05:56",
-          "views": 7327,
+          "views": 7784,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lKRiiUiKQt0/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 1585,
+          "views": 1684,
           "likes": 46,
           "videoType": "VOD",
           "genre": "General"
@@ -468,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NPy1UUIPC40/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 797,
-          "likes": 7,
+          "views": 838,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pwIMcsBgR_M/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 581,
+          "views": 649,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -498,7 +498,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ygyompsSEEw/hqdefault.jpg",
           "durationSeconds": 452,
           "durationFormatted": "07:32",
-          "views": 212,
+          "views": 334,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "chandra-grahan",
       "topic": "Chandra Grahan",
       "videoCount": 4,
-      "trendScore": 32.8,
+      "trendScore": 31.9,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/J_tu0a5xWiY/hqdefault.jpg",
           "durationSeconds": 601,
           "durationFormatted": "10:01",
-          "views": 1622,
+          "views": 2272,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CqjhnG8Y7pM/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 95,
+          "views": 672,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZoqN6OQaCbQ/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 61,
+          "views": 106,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -567,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/38Z_-O9PAV8/hqdefault.jpg",
           "durationSeconds": 1300,
           "durationFormatted": "21:40",
-          "views": 51,
+          "views": 50,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "hindinews-latestnews",
       "topic": "hindinews latestnews",
       "videoCount": 4,
-      "trendScore": 30.4,
+      "trendScore": 29.7,
       "topVideos": [
         {
           "index": 1,
@@ -591,43 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/JNMON6aG8wg/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 923,
+          "views": 1007,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "3y0FzVC8CLo",
-          "title": "केमिकल युक्त रंगों को लेकर पुलिस सजग #madhyapradesh #indore #police #hindinews #latestnews #shorts",
-          "description": "IBC24, केमिकल युक्त रंगों को लेकर पुलिस सजग #madhyapradesh #indore #police #hindinews ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-03-03T13:09:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/3y0FzVC8CLo/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 703,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "gWxPRG_WLMc",
-          "title": "पारंपरिक गेर के लिए हाईटेक प्लान तैयार #madhyapradesh #indore #ytshorts #hindinews #latestnews",
-          "description": "IBC24, पारंपरिक गेर के लिए हाईटेक प्लान तैयार #madhyapradesh #indore #ytshorts ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-03-03T13:21:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/gWxPRG_WLMc/hqdefault.jpg",
-          "durationSeconds": 84,
-          "durationFormatted": "01:24",
-          "views": 621,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "Z2XRNJB7GzI",
           "title": "बच्चे की मां ने ही रची थी अपहरण की साजिश #madhyapradesh #bhopal #hindinews #latestnews #mpnews",
           "description": "IBC24, बच्चे की मां ने ही रची थी अपहरण की साजिश #madhyapradesh #bhopal #hindinews ...",
@@ -636,10 +606,40 @@
           "thumbnail": "https://i.ytimg.com/vi/Z2XRNJB7GzI/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 617,
+          "views": 830,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "3y0FzVC8CLo",
+          "title": "केमिकल युक्त रंगों को लेकर पुलिस सजग #madhyapradesh #indore #police #hindinews #latestnews #shorts",
+          "description": "IBC24, केमिकल युक्त रंगों को लेकर पुलिस सजग #madhyapradesh #indore #police #hindinews ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-03T13:09:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/3y0FzVC8CLo/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 767,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "gWxPRG_WLMc",
+          "title": "पारंपरिक गेर के लिए हाईटेक प्लान तैयार #madhyapradesh #indore #ytshorts #hindinews #latestnews",
+          "description": "IBC24, पारंपरिक गेर के लिए हाईटेक प्लान तैयार #madhyapradesh #indore #ytshorts ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-03T13:21:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/gWxPRG_WLMc/hqdefault.jpg",
+          "durationSeconds": 84,
+          "durationFormatted": "01:24",
+          "views": 619,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-03T17:27:13Z"
@@ -648,7 +648,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 18.2,
+      "trendScore": 18.4,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7j0uCJ9a1p8/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 4,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
