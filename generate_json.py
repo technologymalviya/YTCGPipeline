@@ -105,6 +105,7 @@ GENRE_POLITICS = "Politics"
 GENRE_JOBS = "Jobs"
 GENRE_EVENTS = "Events"
 GENRE_CIVIC = "Civic"
+GENRE_INTERVIEW = "Interview"
 GENRE_GENERAL = "General"
 
 # Section Names
@@ -116,10 +117,11 @@ SECTION_POLITICS = "Politics"
 SECTION_JOBS = "Jobs"
 SECTION_EVENTS = "Events"
 SECTION_CIVIC = "Civic"
+SECTION_INTERVIEW = "Interview"
 SECTION_GENERAL = "General"
 
 # Section -> Index map (per requested mapping)
-# Mapping provided: "General" 1 , "Jobs" 2, "Politics" 3, "Events" 4, "Civic" 5, "Traffic" 6, "Crime" 7
+# Mapping provided: "General" 1 , "Jobs" 2, "Politics" 3, "Events" 4, "Civic" 5, "Traffic" 6, "Crime" 7, "Interview" 8
 SECTION_INDEX = {
     "General": 1,
     "Jobs": 2,
@@ -128,6 +130,7 @@ SECTION_INDEX = {
     "Civic": 5,
     "Traffic": 6,
     "Crime": 7,
+    "Interview": 8,
 }
 
 # Load multiple API keys for fallback support
@@ -505,6 +508,7 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
             "events": GENRE_EVENTS,
             "civic": GENRE_CIVIC,
             "politics": GENRE_POLITICS,
+            "interview": GENRE_INTERVIEW,
             "general": GENRE_GENERAL,
         }
         
@@ -762,6 +766,33 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         "निगम मंडल", "मंडल में नियुक्ति",  # Corporation board appointments
         "परीक्षा रिजल्ट", "भर्ती रिजल्ट", "नौकरी रिजल्ट", "मेरिट रिजल्ट"  # Job/exam results (not election)
     ]
+    
+    # Interview keywords - podcast, interview, story, biography (check BEFORE Jobs to catch "interview" content)
+    interview_keywords = [
+        # English - podcast terms
+        "podcast", "podcasts", "podcast episode", "podcast show",
+        # English - interview terms (but exclude "job interview" which is Jobs)
+        "interview", "interviews", "exclusive interview", "special interview",
+        "celebrity interview", "personality interview", "one-on-one interview",
+        "conversation", "talk show", "chat", "discussion",
+        # English - story terms
+        "story", "stories", "life story", "success story", "inspiring story",
+        "real story", "true story", "story of", "journey",
+        # English - biography terms
+        "biography", "biographies", "biographical", "life story",
+        "autobiography", "memoir", "life journey", "life history",
+        # Hindi/Devanagari - podcast terms
+        "पॉडकास्ट", "पॉडकास्ट एपिसोड", "पॉडकास्ट शो",
+        # Hindi/Devanagari - interview terms (but exclude "नौकरी इंटरव्यू", "भर्ती इंटरव्यू" which are Jobs)
+        "इंटरव्यू", "विशेष इंटरव्यू", "एक्सक्लूसिव इंटरव्यू",
+        "बातचीत", "साक्षात्कार", "चर्चा", "मुलाकात",
+        # Hindi/Devanagari - story terms
+        "कहानी", "कहानियां", "जीवन कहानी", "सफलता की कहानी",
+        "प्रेरणादायक कहानी", "सच्ची कहानी", "की कहानी", "सफर",
+        # Hindi/Devanagari - biography terms
+        "जीवनी", "आत्मकथा", "जीवन यात्रा", "जीवन इतिहास",
+        "जीवन परिचय", "जीवन वृत्तांत"
+    ]
 
     # Events keywords - specific event/festival terms
     events_keywords = [
@@ -894,6 +925,7 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
     # Create patterns and check in order of specificity
     crime_patterns = create_patterns(crime_keywords)
     traffic_patterns = create_patterns(traffic_keywords)
+    interview_patterns = create_patterns(interview_keywords)
     jobs_patterns = create_patterns(jobs_keywords)
     events_patterns = create_patterns(events_keywords)
     civic_patterns = create_patterns(civic_keywords)
@@ -911,7 +943,36 @@ def classify_genre_keyword_based(title: str, description: str = "") -> str:
         if pattern.search(text):
             return GENRE_TRAFFIC
 
-    # Jobs - employment opportunities (check BEFORE Crime to catch "police recruitment" etc.)
+    # Interview - podcast, interview, story, biography (check BEFORE Jobs, but exclude job interviews)
+    # IMPORTANT: Job interviews must be classified as Jobs, not Interview
+    for pattern in interview_patterns:
+        if pattern.search(text):
+            # Exclude job interviews - these MUST be classified as Jobs, not Interview
+            # Check for job-related terms that indicate this is a job interview, not a content interview
+            job_interview_indicators = [
+                # English job interview terms
+                "job interview", "employment interview", "walk-in interview", "job interview tips",
+                "interview for job", "interview preparation", "interview tips", "interview questions",
+                "job application", "apply for job", "job vacancy", "job opening", "job opportunity",
+                "recruitment interview", "hiring interview", "job hiring", "job recruitment",
+                "career interview", "job career", "job post", "job notification",
+                # Hindi job interview terms
+                "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू", "नौकरी के लिए इंटरव्यू",
+                "इंटरव्यू तैयारी", "इंटरव्यू टिप्स", "नौकरी आवेदन", "नौकरी सूचना",
+                "भर्ती", "रोजगार", "नौकरी", "सरकारी नौकरी", "गवर्नमेंट जॉब",
+                "job", "jobs", "recruitment", "vacancy", "hiring", "bharti", "bharte"
+            ]
+            
+            # If any job-related indicator is present, skip Interview classification
+            # This ensures job interviews are classified as Jobs (checked next)
+            if any(job_term in text for job_term in job_interview_indicators):
+                continue  # Skip Interview, let Jobs classification handle it
+            
+            # If no job indicators, this is a content interview (podcast, celebrity interview, etc.)
+            return GENRE_INTERVIEW
+
+    # Jobs - employment opportunities (check AFTER Interview to catch job interviews)
+    # This will catch job interviews that were excluded from Interview classification above
     for pattern in jobs_patterns:
         if pattern.search(text):
             return GENRE_JOBS
@@ -1229,6 +1290,7 @@ def generate_ott_json(feed: List[Dict]) -> Dict:
     jobs_news = filter_by_genre(feed, [GENRE_JOBS])
     events_news = filter_by_genre(feed, [GENRE_EVENTS])
     civic_news = filter_by_genre(feed, [GENRE_CIVIC])
+    interview_news = filter_by_genre(feed, [GENRE_INTERVIEW])
     
     sections = [
         {"section": SECTION_LIVE, "count": len(live_news), "items": live_news},
@@ -1240,6 +1302,7 @@ def generate_ott_json(feed: List[Dict]) -> Dict:
         {"section": SECTION_CIVIC, "count": len(civic_news), "items": civic_news},
         {"section": SECTION_TRAFFIC, "count": len(traffic_news), "items": traffic_news},
         {"section": SECTION_CRIME, "count": len(crime_news), "items": crime_news},
+        {"section": SECTION_INTERVIEW, "count": len(interview_news), "items": interview_news},
     ]
 
     # Attach sectionIndex to each section using SECTION_INDEX map; default to 0 if unknown
