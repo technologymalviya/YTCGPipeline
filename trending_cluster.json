@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-03T20:47:56.955652Z",
+  "generatedAt": "2026-03-03T22:47:01.831488Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 60,
-      "trendScore": 62.5,
+      "videoCount": 59,
+      "trendScore": 61.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/4Z5gLFpQe_M/hqdefault.jpg",
           "durationSeconds": 1630,
           "durationFormatted": "27:10",
-          "views": 53567,
+          "views": 53630,
           "likes": 480,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "RAFkeSjWYFY",
-          "title": "Chandra Grahan 2026: भारत में दिखा चंद्र ग्रहण का खूबसूरत नजारा | Lunar Eclipse | Grahan VIDEO Viral",
-          "description": "Chandra Grahan 2026: भारत में दिखा चंद्र ग्रहण का खूबसूरत नजारा | Lunar Eclipse ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-03T13:52:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/RAFkeSjWYFY/hqdefault.jpg",
-          "durationSeconds": 11,
-          "durationFormatted": "00:11",
-          "views": 25291,
-          "likes": 171,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "pxSAGhXMCCM",
           "title": "होली में शराब जरूरी है मदिराप्रेमियों के लिए | खुद लोगों ने बताई ये बात | Public Reaction At भट्‌ठी|",
           "description": "होली में शराब जरूरी है मदिराप्रेमियों के लिए | खुद लोगों ने बताई ये ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/pxSAGhXMCCM/hqdefault.jpg",
           "durationSeconds": 871,
           "durationFormatted": "14:31",
-          "views": 19383,
-          "likes": 412,
+          "views": 19482,
+          "likes": 414,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "9rfR_ZDUz_Y",
           "title": "शिक्षक भर्ती पर मंत्री गजेंद्र का फिर आया बयान...",
           "description": "शिक्षक भर्ती पर मंत्री गजेंद्र का फिर आया बयान... Join this channel to get access to the ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/9rfR_ZDUz_Y/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 16150,
-          "likes": 326,
+          "views": 16309,
+          "likes": 327,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "BUBr6qt85T4",
           "title": "लक्ष्मी वर्मा होंगी BJP से राज्यसभा सांसद प्रत्याशी, CM साय ने की थी सिफारिश, लगी मुहर...",
           "description": "लक्ष्मी वर्मा होंगी BJP से राज्यसभा सांसद प्रत्याशी, CM साय ने की थी ...",
@@ -78,10 +63,25 @@
           "thumbnail": "https://i.ytimg.com/vi/BUBr6qt85T4/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 8812,
-          "likes": 259,
+          "views": 10225,
+          "likes": 265,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "RIJwOuZJanY",
+          "title": "साध्य PSC एकेडमी...क्या  हैं शिक्षक भर्ती की तैयारी?",
+          "description": "साध्य PSC एकेडमी...क्या हैं शिक्षक भर्ती की तैयारी? साध्य PSC एकेडमी.",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-03-03T09:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/RIJwOuZJanY/hqdefault.jpg",
+          "durationSeconds": 142,
+          "durationFormatted": "02:22",
+          "views": 7341,
+          "likes": 75,
+          "videoType": "VOD",
+          "genre": "Jobs"
         }
       ],
       "latestUpdateAt": "2026-03-03T18:59:06Z"
@@ -89,8 +89,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 55,
-      "trendScore": 59.6,
+      "videoCount": 57,
+      "trendScore": 58.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZZOSR2ylwN0/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 10587,
+          "views": 10695,
           "likes": 168,
           "videoType": "VOD",
           "genre": "General"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8JxxLfStL0g/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 6070,
-          "likes": 25,
+          "views": 6739,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QWnTjc7cfig/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 4334,
+          "views": 4441,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -143,11 +143,11 @@
           "title": "Chandra Grahan LIVE : चन्द्र ग्रहण से सावधान महाविनाश या महा कल्याण | Holi 2026 | Festival | MP",
           "description": "Chandra Grahan LIVE : चन्द्र ग्रहण से सावधान महाविनाश या महा कल्याण | Holi 2026 ...",
           "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-03T06:56:05Z",
+          "publishedAt": "2026-03-03T21:37:27Z",
           "thumbnail": "https://i.ytimg.com/vi/Kb0VN7UbIiU/hqdefault.jpg",
-          "durationSeconds": 8783,
-          "durationFormatted": "02:26:23",
-          "views": 3460,
+          "durationSeconds": 8801,
+          "durationFormatted": "02:26:41",
+          "views": 3472,
           "likes": 21,
           "videoType": "VOD",
           "genre": "Events"
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/1PqTb6INgkw/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 2123,
+          "views": 2145,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-03T19:56:19Z"
+      "latestUpdateAt": "2026-03-03T22:07:04Z"
     },
     {
       "clusterId": "war-iran",
       "topic": "War Iran",
       "videoCount": 9,
-      "trendScore": 44.0,
+      "trendScore": 42.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/XUf1r88QVzg/hqdefault.jpg",
           "durationSeconds": 984,
           "durationFormatted": "16:24",
-          "views": 46063,
-          "likes": 796,
+          "views": 46758,
+          "likes": 804,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "hN-LTb2U1BQ",
-          "title": "🔴Iran-Israel War: इजरायल-अमेरिका पर भारी पड़ रहा ईरान? Israel-US Attack on Iran | Middle East War",
-          "description": "Iran-Israel War: इजरायल-अमेरिका पर भारी पड़ रहा ईरान? Israel-US Attack on Iran | Middle East War ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-03T18:24:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/hN-LTb2U1BQ/hqdefault.jpg",
-          "durationSeconds": 42896,
-          "durationFormatted": "11:54:56",
-          "views": 15255,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "JuOYE-r5-Jw",
           "title": "Iran America War Update : ईरान के मिसाइल हमले तेज, अमेरिकी ठिकानों पर भारी तबाही! | Khamenei | Trump",
           "description": "Iran America War Update : ईरान के मिसाइल हमले तेज, अमेरिकी ठिकानों पर भारी ...",
@@ -216,28 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/JuOYE-r5-Jw/hqdefault.jpg",
           "durationSeconds": 218,
           "durationFormatted": "03:38",
-          "views": 13503,
-          "likes": 145,
+          "views": 15694,
+          "likes": 148,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "6FUnPIEyo5g",
-          "title": "Iran US-Israel War: वर्ल्ड वॉर 3 शुरू? World War 3 | Middle East Tension |Trump | War News |Khamenei",
-          "description": "IBC24, Iran US-Israel War: वर्ल्ड वॉर 3 शुरू? World War 3 | Middle East Tension |Trump | War News |Khamenei ...",
+          "index": 3,
+          "videoId": "hN-LTb2U1BQ",
+          "title": "🔴Iran-Israel War: इजरायल-अमेरिका पर भारी पड़ रहा ईरान? Israel-US Attack on Iran | Middle East War",
+          "description": "Iran-Israel War: इजरायल-अमेरिका पर भारी पड़ रहा ईरान? Israel-US Attack on Iran | Middle East War ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-03-03T18:22:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/6FUnPIEyo5g/hqdefault.jpg",
+          "publishedAt": "2026-03-03T18:24:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/hN-LTb2U1BQ/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 7840,
+          "views": 15431,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "HLF6w_-kgWg",
           "title": "Iran Israel War: ईरान और इजराइल युद्ध रुकवाने के लिए सामने आए ये दो ताकतवर देश! | Trump | N18G",
           "description": "Iran Israel War: ईरान और इजराइल युद्ध रुकवाने के लिए सामने आए ये दो ताकतवर ...",
@@ -246,8 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/HLF6w_-kgWg/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 6222,
-          "likes": 117,
+          "views": 8952,
+          "likes": 136,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "6FUnPIEyo5g",
+          "title": "Iran US-Israel War: वर्ल्ड वॉर 3 शुरू? World War 3 | Middle East Tension |Trump | War News |Khamenei",
+          "description": "IBC24, Iran US-Israel War: वर्ल्ड वॉर 3 शुरू? World War 3 | Middle East Tension |Trump | War News |Khamenei ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-03T18:22:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/6FUnPIEyo5g/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 8298,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,10 +255,10 @@
       "latestUpdateAt": "2026-03-03T18:24:34Z"
     },
     {
-      "clusterId": "bjp-verma",
-      "topic": "BJP Verma",
-      "videoCount": 9,
-      "trendScore": 37.8,
+      "clusterId": "bjp-sabha",
+      "topic": "BJP Sabha",
+      "videoCount": 14,
+      "trendScore": 42.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/u_EWArdYA1M/hqdefault.jpg",
           "durationSeconds": 25556,
           "durationFormatted": "07:05:56",
-          "views": 3249,
+          "views": 3273,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DlEmGVL44EU/hqdefault.jpg",
           "durationSeconds": 16115,
           "durationFormatted": "04:28:35",
-          "views": 1714,
+          "views": 1721,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -300,23 +300,23 @@
           "thumbnail": "https://i.ytimg.com/vi/9-oAZEqK4A8/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 1149,
-          "likes": 16,
+          "views": 1197,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "2Sh-C-TsO3I",
-          "title": "Breaking News: छत्तीसगढ़ से राज्यसभा के लिए लक्ष्मी वर्मा BJP उम्मीदवार घोषित, BJP ने जारी की सूची",
-          "description": "भारतीय जनता पार्टी ने आगामी राज्यसभा चुनाव के लिए अपने उम्मीदवारों ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-03T10:02:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/2Sh-C-TsO3I/hqdefault.jpg",
-          "durationSeconds": 442,
-          "durationFormatted": "07:22",
-          "views": 1014,
-          "likes": 12,
+          "videoId": "ibUo0gjSPjo",
+          "title": "Rajya Sabha Candidate: Laxmi Verma को BJP ने बनाया राज्यसभा प्रत्याशी। BJP दफ्तर पहुंचकर कही ये बात",
+          "description": "IBC24, BJP Rajya Sabha Candidate: Laxmi Verma बनी राज्यसभा प्रत्याशी। बीजेपी दफ्तर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-03T16:02:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/ibUo0gjSPjo/hqdefault.jpg",
+          "durationSeconds": 209,
+          "durationFormatted": "03:29",
+          "views": 1193,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6bvn4FnYbp4/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 1001,
-          "likes": 11,
+          "views": 1022,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "रजनदगव-रदध",
       "topic": "राजनांदगांव रिद्धि",
       "videoCount": 10,
-      "trendScore": 33.5,
+      "trendScore": 32.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3J016ju6Ulw/hqdefault.jpg",
           "durationSeconds": 618,
           "durationFormatted": "10:18",
-          "views": 174,
+          "views": 176,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -369,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/fF7d8sXjOU0/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 26,
+          "views": 32,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
+          "videoId": "TFaZExBXElg",
+          "title": "भिलाई में खतरनाक ड्राइविंग का वीडियो वायरल, आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-03T13:37:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/TFaZExBXElg/hqdefault.jpg",
+          "durationSeconds": 58,
+          "durationFormatted": "00:58",
+          "views": 19,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "HSxKH8868P4",
           "title": "Durg News: ब्लू लाइट ढाबा के सामने कपड़ा व्यापारी से चाकू की नोक पर लूट, पुलिस जांच जारी",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -390,7 +405,7 @@
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "5XD2imjwh0U",
           "title": "Rajnandgaon News: शाम 7 बजे तक बंद रहेंगे शहर के सभी मंदिर! मंदिर समितियों का बड़ा फैसला",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -403,21 +418,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "TFaZExBXElg",
-          "title": "भिलाई में खतरनाक ड्राइविंग का वीडियो वायरल, आरोपी गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-03T13:37:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/TFaZExBXElg/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-03T13:40:53Z"
@@ -426,7 +426,7 @@
       "clusterId": "bhilai-bhaskar",
       "topic": "Bhilai Bhaskar",
       "videoCount": 5,
-      "trendScore": 33.0,
+      "trendScore": 32.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MqqrD23QxXs/hqdefault.jpg",
           "durationSeconds": 356,
           "durationFormatted": "05:56",
-          "views": 7784,
+          "views": 7941,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,13 +453,28 @@
           "thumbnail": "https://i.ytimg.com/vi/lKRiiUiKQt0/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 1684,
-          "likes": 46,
+          "views": 1692,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "pwIMcsBgR_M",
+          "title": "बैक टू बैक भीषण आG कार और मालवाहक जलकर खाक | CG Bhaskar",
+          "description": "बैक टू बैक भीषण आG कार और मालवाहक जलकर खाक | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-03T11:30:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/pwIMcsBgR_M/hqdefault.jpg",
+          "durationSeconds": 95,
+          "durationFormatted": "01:35",
+          "views": 1157,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "NPy1UUIPC40",
           "title": "Bhilai Breaking | JIO TOWER में लगी आG | वजह जानने के लिए देखिए  | CG Bhaskar",
           "description": "Bhilai Breaking | JIO TOWER में लगी आG | वजह जानने के लिए देखिए | CG Bhaskar Join our Whatsapp ...",
@@ -474,21 +489,6 @@
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "pwIMcsBgR_M",
-          "title": "बैक टू बैक भीषण आG कार और मालवाहक जलकर खाक | CG Bhaskar",
-          "description": "बैक टू बैक भीषण आG कार और मालवाहक जलकर खाक | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-03T11:30:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/pwIMcsBgR_M/hqdefault.jpg",
-          "durationSeconds": 95,
-          "durationFormatted": "01:35",
-          "views": 649,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 5,
           "videoId": "ygyompsSEEw",
           "title": "जब Bhilai के Jio Tower में लगी आG | Seemant Kashyap | KP News ",
@@ -498,7 +498,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ygyompsSEEw/hqdefault.jpg",
           "durationSeconds": 452,
           "durationFormatted": "07:32",
-          "views": 334,
+          "views": 510,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "chandra-grahan",
       "topic": "Chandra Grahan",
       "videoCount": 4,
-      "trendScore": 31.9,
+      "trendScore": 31.0,
       "topVideos": [
         {
           "index": 1,
@@ -522,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/J_tu0a5xWiY/hqdefault.jpg",
           "durationSeconds": 601,
           "durationFormatted": "10:01",
-          "views": 2272,
-          "likes": 17,
+          "views": 2527,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CqjhnG8Y7pM/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 672,
+          "views": 1223,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZoqN6OQaCbQ/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 106,
+          "views": 116,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -567,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/38Z_-O9PAV8/hqdefault.jpg",
           "durationSeconds": 1300,
           "durationFormatted": "21:40",
-          "views": 50,
+          "views": 54,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "hindinews-latestnews",
       "topic": "hindinews latestnews",
       "videoCount": 4,
-      "trendScore": 29.7,
+      "trendScore": 28.7,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z2XRNJB7GzI/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 830,
+          "views": 889,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3y0FzVC8CLo/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 767,
+          "views": 781,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gWxPRG_WLMc/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 619,
+          "views": 687,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -648,7 +648,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 18.4,
+      "trendScore": 17.1,
       "topVideos": [
         {
           "index": 1,
