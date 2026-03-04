@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-04T20:47:41.896592Z",
+  "generatedAt": "2026-03-04T22:48:50.866093Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 58,
-      "trendScore": 61.1,
+      "videoCount": 61,
+      "trendScore": 60.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eadJ5EC27Q4/hqdefault.jpg",
           "durationSeconds": 1663,
           "durationFormatted": "27:43",
-          "views": 28350,
-          "likes": 296,
+          "views": 28373,
+          "likes": 297,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/yLIK5G2q-hY/hqdefault.jpg",
           "durationSeconds": 252,
           "durationFormatted": "04:12",
-          "views": 24880,
-          "likes": 218,
+          "views": 27109,
+          "likes": 228,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/foOwNvgNPZU/hqdefault.jpg",
           "durationSeconds": 279,
           "durationFormatted": "04:39",
-          "views": 18236,
+          "views": 18494,
           "likes": 127,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vJVC_wUMTCw/hqdefault.jpg",
           "durationSeconds": 19,
           "durationFormatted": "00:19",
-          "views": 11908,
+          "views": 12049,
           "likes": 123,
           "videoType": "VOD",
           "genre": "General"
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_D9_dcukzws/hqdefault.jpg",
           "durationSeconds": 1041,
           "durationFormatted": "17:21",
-          "views": 10747,
-          "likes": 81,
+          "views": 10829,
+          "likes": 82,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -89,8 +89,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 38,
-      "trendScore": 60.6,
+      "videoCount": 37,
+      "trendScore": 60.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/xgS-RoZGmAs/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 77804,
-          "likes": 1338,
+          "views": 81388,
+          "likes": 1365,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "Kb0VN7UbIiU",
-          "title": "Chandra Grahan LIVE : चन्द्र ग्रहण से सावधान महाविनाश या महा कल्याण | Holi 2026 | Festival | MP",
-          "description": "Chandra Grahan LIVE : चन्द्र ग्रहण से सावधान महाविनाश या महा कल्याण | Holi 2026 ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-03T21:37:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/Kb0VN7UbIiU/hqdefault.jpg",
-          "durationSeconds": 8801,
-          "durationFormatted": "02:26:41",
-          "views": 4070,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
           "videoId": "-5mYtPGMPUg",
           "title": "Gold Silver Price Crash: होली के दिन सोने चांदी में आई जोरदार गिरावट! Gold Silver Price Today | N18V",
           "description": "Gold Silver Price Crash: होली के दिन सोने चांदी में आई जोरदार गिरावट! Gold Silver Price ...",
@@ -132,10 +117,25 @@
           "thumbnail": "https://i.ytimg.com/vi/-5mYtPGMPUg/hqdefault.jpg",
           "durationSeconds": 290,
           "durationFormatted": "04:50",
-          "views": 3855,
-          "likes": 34,
+          "views": 4095,
+          "likes": 36,
           "videoType": "VOD",
           "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "wtIo5m3dMTQ",
+          "title": "HOLI 2026 Raipur : सदर बाजार में होली की धूम | चप्पे-चप्पे पर Police की भी नजर",
+          "description": "IBC24, HOLI 2026 Raipur : सदर बाजार में होली की धूम | चप्पे-चप्पे पर Police की भी नजर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-04T11:24:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/wtIo5m3dMTQ/hqdefault.jpg",
+          "durationSeconds": 211,
+          "durationFormatted": "03:31",
+          "views": 2466,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 4,
@@ -154,15 +154,15 @@
         },
         {
           "index": 5,
-          "videoId": "wtIo5m3dMTQ",
-          "title": "HOLI 2026 Raipur : सदर बाजार में होली की धूम | चप्पे-चप्पे पर Police की भी नजर",
-          "description": "IBC24, HOLI 2026 Raipur : सदर बाजार में होली की धूम | चप्पे-चप्पे पर Police की भी नजर ...",
+          "videoId": "lVD2vsK7fyc",
+          "title": "Holi 2026 : होली सितारों वाली..। Chhattisgarh Industry के कलाकारों ने खूब जमाया होली का रंग। CG Holi",
+          "description": "IBC24, Holi 2026 : होली सितारों वाली..। Chhattisgarh Industry के कलाकारों ने खूब जमाया ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-03-04T11:24:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/wtIo5m3dMTQ/hqdefault.jpg",
-          "durationSeconds": 211,
-          "durationFormatted": "03:31",
-          "views": 2452,
+          "publishedAt": "2026-03-04T09:53:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/lVD2vsK7fyc/hqdefault.jpg",
+          "durationSeconds": 5385,
+          "durationFormatted": "01:29:45",
+          "views": 2401,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -173,8 +173,8 @@
     {
       "clusterId": "iran-war",
       "topic": "Iran War",
-      "videoCount": 9,
-      "trendScore": 46.7,
+      "videoCount": 10,
+      "trendScore": 47.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9YX36Bbt8uE/hqdefault.jpg",
           "durationSeconds": 398,
           "durationFormatted": "06:38",
-          "views": 112757,
-          "likes": 3973,
+          "views": 123339,
+          "likes": 4058,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rebc6ns0NGU/hqdefault.jpg",
           "durationSeconds": 4,
           "durationFormatted": "00:04",
-          "views": 57206,
-          "likes": 468,
+          "views": 78113,
+          "likes": 582,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2sEdLBteAT4/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 33819,
-          "likes": 150,
+          "views": 42254,
+          "likes": 152,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P2srOjTxmWU/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 30226,
+          "views": 31154,
           "likes": 132,
           "videoType": "VOD",
           "genre": "General"
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/xHb6UbiHk7s/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 20525,
-          "likes": 156,
+          "views": 20779,
+          "likes": 155,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-04T17:25:37Z"
+      "latestUpdateAt": "2026-03-04T22:30:01Z"
     },
     {
       "clusterId": "congress-rajya",
       "topic": "Congress Rajya",
       "videoCount": 11,
-      "trendScore": 40.2,
+      "trendScore": 39.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FlVxa38C14I/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 10899,
+          "views": 11880,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OFUbw2HGuhY/hqdefault.jpg",
           "durationSeconds": 543,
           "durationFormatted": "09:03",
-          "views": 1762,
+          "views": 2181,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZvcD_gxYe8Y/hqdefault.jpg",
           "durationSeconds": 423,
           "durationFormatted": "07:03",
-          "views": 1327,
-          "likes": 10,
+          "views": 1776,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xJonbNOdBDA/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 1003,
-          "likes": 10,
+          "views": 1091,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "ullas-zee",
       "topic": "Ullas ZEE",
       "videoCount": 7,
-      "trendScore": 31.5,
+      "trendScore": 30.6,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XpHJDoT-nxw/hqdefault.jpg",
           "durationSeconds": 8227,
           "durationFormatted": "02:17:07",
-          "views": 710,
+          "views": 715,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Events"
@@ -369,13 +369,43 @@
           "thumbnail": "https://i.ytimg.com/vi/vGRhihCGWko/hqdefault.jpg",
           "durationSeconds": 490,
           "durationFormatted": "08:10",
-          "views": 57,
+          "views": 62,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "DSI8Y9H-ZuM",
+          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
+          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में अमित सिंह से खास बातचीत | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-04T13:15:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/DSI8Y9H-ZuM/hqdefault.jpg",
+          "durationSeconds": 1110,
+          "durationFormatted": "18:30",
+          "views": 38,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "peCttpC8Qfg",
+          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
+          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में पराग सैनी और उमाकांत चौधरी ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-04T13:01:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/peCttpC8Qfg/hqdefault.jpg",
+          "durationSeconds": 1110,
+          "durationFormatted": "18:30",
+          "views": 36,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
           "videoId": "gXetBPxJLXo",
           "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
           "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में मयंक भदौरिया वाइस चेयरमैन, ...",
@@ -388,36 +418,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "Gc8FW1N1F5E",
-          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
-          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में डॉ. दीप्ति हाड़ा नगर ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-04T12:30:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/Gc8FW1N1F5E/hqdefault.jpg",
-          "durationSeconds": 923,
-          "durationFormatted": "15:23",
-          "views": 32,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "DSI8Y9H-ZuM",
-          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
-          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में अमित सिंह से खास बातचीत | Zee ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-04T13:15:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/DSI8Y9H-ZuM/hqdefault.jpg",
-          "durationSeconds": 1110,
-          "durationFormatted": "18:30",
-          "views": 30,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-04T13:30:56Z"
@@ -426,7 +426,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 26.6,
+      "trendScore": 25.4,
       "topVideos": [
         {
           "index": 1,
@@ -450,7 +450,7 @@
       "clusterId": "msp-janjgir",
       "topic": "MSP Janjgir",
       "videoCount": 5,
-      "trendScore": 22.4,
+      "trendScore": 21.7,
       "topVideos": [
         {
           "index": 1,
@@ -462,7 +462,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ufT3JLEEOj4/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 46,
+          "views": 47,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
@@ -477,7 +477,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6grkvko7kK0/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 16,
+          "views": 25,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
