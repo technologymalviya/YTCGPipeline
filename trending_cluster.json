@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-04T19:05:38.438694Z",
+  "generatedAt": "2026-03-04T20:47:41.896592Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 59,
-      "trendScore": 61.9,
+      "videoCount": 58,
+      "trendScore": 61.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eadJ5EC27Q4/hqdefault.jpg",
           "durationSeconds": 1663,
           "durationFormatted": "27:43",
-          "views": 28235,
+          "views": 28350,
           "likes": 296,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/yLIK5G2q-hY/hqdefault.jpg",
           "durationSeconds": 252,
           "durationFormatted": "04:12",
-          "views": 19561,
-          "likes": 199,
+          "views": 24880,
+          "likes": 218,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/foOwNvgNPZU/hqdefault.jpg",
           "durationSeconds": 279,
           "durationFormatted": "04:39",
-          "views": 15724,
-          "likes": 126,
+          "views": 18236,
+          "likes": 127,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/vJVC_wUMTCw/hqdefault.jpg",
           "durationSeconds": 19,
           "durationFormatted": "00:19",
-          "views": 11598,
-          "likes": 122,
+          "views": 11908,
+          "likes": 123,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "4LnYoFlWzts",
-          "title": "Nitish Kumar in Rajya Sabha: नीतीश जाएंगे राज्यसभा, बेटे बनेंगे डिप्टी CM..अगला CM कौन? Bihar | N18V",
-          "description": "Nitish Kumar in Rajya Sabha: नीतीश जाएंगे राज्यसभा, बेटे बनेंगे डिप्टी CM..अगला CM ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-04T13:15:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/4LnYoFlWzts/hqdefault.jpg",
-          "durationSeconds": 277,
-          "durationFormatted": "04:37",
-          "views": 10582,
-          "likes": 105,
+          "videoId": "_D9_dcukzws",
+          "title": "कृषि मंत्री Shivraj Singh Chouhan ने भोपाल में जनता के बीच मनाई होली | Holi 2026",
+          "description": "कृषि मंत्री Shivraj Singh Chouhan ने भोपाल में जनता के बीच मनाई होली | Holi 2026 ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-04T08:09:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/_D9_dcukzws/hqdefault.jpg",
+          "durationSeconds": 1041,
+          "durationFormatted": "17:21",
+          "views": 10747,
+          "likes": 81,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-04T18:01:04Z"
+      "latestUpdateAt": "2026-03-04T19:06:01Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 40,
-      "trendScore": 61.4,
+      "videoCount": 38,
+      "trendScore": 60.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,13 +102,28 @@
           "thumbnail": "https://i.ytimg.com/vi/xgS-RoZGmAs/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 69649,
-          "likes": 1302,
+          "views": 77804,
+          "likes": 1338,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "Kb0VN7UbIiU",
+          "title": "Chandra Grahan LIVE : चन्द्र ग्रहण से सावधान महाविनाश या महा कल्याण | Holi 2026 | Festival | MP",
+          "description": "Chandra Grahan LIVE : चन्द्र ग्रहण से सावधान महाविनाश या महा कल्याण | Holi 2026 ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-03T21:37:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/Kb0VN7UbIiU/hqdefault.jpg",
+          "durationSeconds": 8801,
+          "durationFormatted": "02:26:41",
+          "views": 4070,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
           "videoId": "-5mYtPGMPUg",
           "title": "Gold Silver Price Crash: होली के दिन सोने चांदी में आई जोरदार गिरावट! Gold Silver Price Today | N18V",
           "description": "Gold Silver Price Crash: होली के दिन सोने चांदी में आई जोरदार गिरावट! Gold Silver Price ...",
@@ -117,25 +132,10 @@
           "thumbnail": "https://i.ytimg.com/vi/-5mYtPGMPUg/hqdefault.jpg",
           "durationSeconds": 290,
           "durationFormatted": "04:50",
-          "views": 3093,
-          "likes": 32,
+          "views": 3855,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "9O0dbzxHyTI",
-          "title": "Holi Celebration 2026 LIVE : होली के हुड़दंग में मिले रंग से रंग | Holi hai LIVE | Holi Latest News",
-          "description": "Holi Celebration 2026 LIVE : होली के हुड़दंग में मिले रंग से रंग | Holi hai LIVE | Holi Latest News ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-04T10:52:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/9O0dbzxHyTI/hqdefault.jpg",
-          "durationSeconds": 20965,
-          "durationFormatted": "05:49:25",
-          "views": 2844,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Events"
         },
         {
           "index": 4,
@@ -147,22 +147,22 @@
           "thumbnail": "https://i.ytimg.com/vi/LdBXuYxrGog/hqdefault.jpg",
           "durationSeconds": 4106,
           "durationFormatted": "01:08:26",
-          "views": 2444,
+          "views": 2462,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "lVD2vsK7fyc",
-          "title": "Holi 2026 : होली सितारों वाली..। Chhattisgarh Industry के कलाकारों ने खूब जमाया होली का रंग। CG Holi",
-          "description": "IBC24, Holi 2026 : होली सितारों वाली..। Chhattisgarh Industry के कलाकारों ने खूब जमाया ...",
+          "videoId": "wtIo5m3dMTQ",
+          "title": "HOLI 2026 Raipur : सदर बाजार में होली की धूम | चप्पे-चप्पे पर Police की भी नजर",
+          "description": "IBC24, HOLI 2026 Raipur : सदर बाजार में होली की धूम | चप्पे-चप्पे पर Police की भी नजर ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-03-04T09:53:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/lVD2vsK7fyc/hqdefault.jpg",
-          "durationSeconds": 5385,
-          "durationFormatted": "01:29:45",
-          "views": 2345,
+          "publishedAt": "2026-03-04T11:24:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/wtIo5m3dMTQ/hqdefault.jpg",
+          "durationSeconds": 211,
+          "durationFormatted": "03:31",
+          "views": 2452,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "iran-war",
       "topic": "Iran War",
       "videoCount": 9,
-      "trendScore": 48.0,
+      "trendScore": 46.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9YX36Bbt8uE/hqdefault.jpg",
           "durationSeconds": 398,
           "durationFormatted": "06:38",
-          "views": 82333,
-          "likes": 3778,
+          "views": 112757,
+          "likes": 3973,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rebc6ns0NGU/hqdefault.jpg",
           "durationSeconds": 4,
           "durationFormatted": "00:04",
-          "views": 35303,
-          "likes": 343,
+          "views": 57206,
+          "likes": 468,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2sEdLBteAT4/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 25552,
-          "likes": 138,
+          "views": 33819,
+          "likes": 150,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/P2srOjTxmWU/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 22661,
-          "likes": 131,
+          "views": 30226,
+          "likes": 132,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xHb6UbiHk7s/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 19036,
-          "likes": 150,
+          "views": 20525,
+          "likes": 156,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +258,7 @@
       "clusterId": "congress-rajya",
       "topic": "Congress Rajya",
       "videoCount": 11,
-      "trendScore": 40.8,
+      "trendScore": 40.2,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FlVxa38C14I/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 8052,
+          "views": 10899,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/d0gkr-CtxFw/hqdefault.jpg",
           "durationSeconds": 154,
           "durationFormatted": "02:34",
-          "views": 5254,
+          "views": 5282,
           "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/OFUbw2HGuhY/hqdefault.jpg",
           "durationSeconds": 543,
           "durationFormatted": "09:03",
-          "views": 1065,
+          "views": 1762,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "ZvcD_gxYe8Y",
+          "title": "Phulo Devi Netam in Rajya Sabha: छत्तीसगढ़ से कांग्रेस ने राज्यसभा उम्मीदवार का किया ऐलान | Congress",
+          "description": "Phulo Devi Netam in Rajya Sabha: छत्तीसगढ़ से कांग्रेस ने राज्यसभा उम्मीदवार का ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-04T16:25:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZvcD_gxYe8Y/hqdefault.jpg",
+          "durationSeconds": 423,
+          "durationFormatted": "07:03",
+          "views": 1327,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "xJonbNOdBDA",
           "title": "Nitish Kumar in Rajya Sabha : नीतीश कुमार कल राज्यसभा के लिए नामांकन कर सकते हैं | Bihar | Breaking",
           "description": "Nitish Kumar in Rajya Sabha : नीतीश कुमार कल राज्यसभा के लिए नामांकन कर सकते हैं ...",
@@ -319,54 +334,15 @@
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "ZvcD_gxYe8Y",
-          "title": "Phulo Devi Netam in Rajya Sabha: छत्तीसगढ़ से कांग्रेस ने राज्यसभा उम्मीदवार का किया ऐलान | Congress",
-          "description": "Phulo Devi Netam in Rajya Sabha: छत्तीसगढ़ से कांग्रेस ने राज्यसभा उम्मीदवार का ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-04T16:25:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZvcD_gxYe8Y/hqdefault.jpg",
-          "durationSeconds": 423,
-          "durationFormatted": "07:03",
-          "views": 894,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-04T18:07:21Z"
     },
     {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 38.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "S-ma5qJzKG8",
-          "title": "Kumud Mishra Exclusive Interview: फिल्म और Holi के बचपन के किस्से कुमुद मिश्रा ने NDTV से की बातचीत",
-          "description": "Kumud Mishra Exclusive Interview: फिल्म और Holi के बचपन के किस्से कुमुद मिश्रा ने NDTV ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-04T16:30:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/S-ma5qJzKG8/hqdefault.jpg",
-          "durationSeconds": 223,
-          "durationFormatted": "03:43",
-          "views": 10,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-04T16:30:20Z"
-    },
-    {
       "clusterId": "ullas-zee",
       "topic": "Ullas ZEE",
       "videoCount": 7,
-      "trendScore": 32.5,
+      "trendScore": 31.5,
       "topVideos": [
         {
           "index": 1,
@@ -378,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XpHJDoT-nxw/hqdefault.jpg",
           "durationSeconds": 8227,
           "durationFormatted": "02:17:07",
-          "views": 698,
+          "views": 710,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Events"
@@ -393,13 +369,43 @@
           "thumbnail": "https://i.ytimg.com/vi/vGRhihCGWko/hqdefault.jpg",
           "durationSeconds": 490,
           "durationFormatted": "08:10",
-          "views": 40,
+          "views": 57,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "gXetBPxJLXo",
+          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
+          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में मयंक भदौरिया वाइस चेयरमैन, ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-04T12:15:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/gXetBPxJLXo/hqdefault.jpg",
+          "durationSeconds": 897,
+          "durationFormatted": "14:57",
+          "views": 35,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "Gc8FW1N1F5E",
+          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
+          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में डॉ. दीप्ति हाड़ा नगर ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-04T12:30:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/Gc8FW1N1F5E/hqdefault.jpg",
+          "durationSeconds": 923,
+          "durationFormatted": "15:23",
+          "views": 32,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
           "videoId": "DSI8Y9H-ZuM",
           "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
           "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में अमित सिंह से खास बातचीत | Zee ...",
@@ -412,45 +418,39 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "peCttpC8Qfg",
-          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
-          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में पराग सैनी और उमाकांत चौधरी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-04T13:01:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/peCttpC8Qfg/hqdefault.jpg",
-          "durationSeconds": 1110,
-          "durationFormatted": "18:30",
-          "views": 29,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "0PJhSItUZUc",
-          "title": "Ullas : ZEE MPCG का खास कार्यक्रम &#39;उल्लास&#39; &quot;उल्लास... सुरक्षा, सेवा सम्मान&quot; | Special event | Award",
-          "description": "Ullas : ZEE MPCG का खास कार्यक्रम 'उल्लास' \"में डॉ. अर्पित चोपड़ा जैन गंभीर ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-04T12:45:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/0PJhSItUZUc/hqdefault.jpg",
-          "durationSeconds": 557,
-          "durationFormatted": "09:17",
-          "views": 28,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-04T13:30:56Z"
     },
     {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 26.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "S-ma5qJzKG8",
+          "title": "Kumud Mishra Exclusive Interview: फिल्म और Holi के बचपन के किस्से कुमुद मिश्रा ने NDTV से की बातचीत",
+          "description": "Kumud Mishra Exclusive Interview: फिल्म और Holi के बचपन के किस्से कुमुद मिश्रा ने NDTV ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-04T16:30:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/S-ma5qJzKG8/hqdefault.jpg",
+          "durationSeconds": 223,
+          "durationFormatted": "03:43",
+          "views": 29,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-04T16:30:20Z"
+    },
+    {
       "clusterId": "msp-janjgir",
       "topic": "MSP Janjgir",
       "videoCount": 5,
-      "trendScore": 23.1,
+      "trendScore": 22.4,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dq-Sa5RLZYA/hqdefault.jpg",
           "durationSeconds": 200,
           "durationFormatted": "03:20",
-          "views": 10,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
