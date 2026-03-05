@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-05T20:52:01.021932Z",
+  "generatedAt": "2026-03-05T23:22:57.723569Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 68,
-      "trendScore": 63.5,
+      "videoCount": 62,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4Q9mqc6IamE/hqdefault.jpg",
           "durationSeconds": 188,
           "durationFormatted": "03:08",
-          "views": 279132,
-          "likes": 1465,
+          "views": 282174,
+          "likes": 1463,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/JYqOU3s0QA0/hqdefault.jpg",
           "durationSeconds": 435,
           "durationFormatted": "07:15",
-          "views": 54025,
+          "views": 54083,
           "likes": 186,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "0WDREQoGJp0",
-          "title": "5 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "5 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-03-04T23:30:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/0WDREQoGJp0/hqdefault.jpg",
-          "durationSeconds": 1585,
-          "durationFormatted": "26:25",
-          "views": 30147,
-          "likes": 355,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "e1mMjeMH5xk",
           "title": "Bihar New CM: नीतीश कुमार ने BJP के सामने रख दी बहुत बड़ी शर्त! | Nitish Kumar in Rajya Sabha | N18V",
           "description": "Bihar New CM: नीतीश कुमार ने BJP के सामने रख दी बहुत बड़ी शर्त! | Nitish Kumar in Rajya ...",
@@ -63,8 +48,23 @@
           "thumbnail": "https://i.ytimg.com/vi/e1mMjeMH5xk/hqdefault.jpg",
           "durationSeconds": 344,
           "durationFormatted": "05:44",
-          "views": 29447,
-          "likes": 204,
+          "views": 32229,
+          "likes": 219,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "0WDREQoGJp0",
+          "title": "5 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
+          "description": "5 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-03-04T23:30:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/0WDREQoGJp0/hqdefault.jpg",
+          "durationSeconds": 1585,
+          "durationFormatted": "26:25",
+          "views": 30177,
+          "likes": 356,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/-Un3YikAOZ0/hqdefault.jpg",
           "durationSeconds": 727,
           "durationFormatted": "12:07",
-          "views": 23519,
-          "likes": 424,
+          "views": 24944,
+          "likes": 443,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-05T18:59:16Z"
+      "latestUpdateAt": "2026-03-05T23:01:22Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 30,
-      "trendScore": 58.9,
+      "videoCount": 29,
+      "trendScore": 57.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dL5x8OixDHs/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 3464,
-          "likes": 72,
+          "views": 3516,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,13 +117,28 @@
           "thumbnail": "https://i.ytimg.com/vi/_nuAysKAbe0/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 3145,
-          "likes": 85,
+          "views": 3201,
+          "likes": 86,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 3,
+          "videoId": "dRXEMkzmkWM",
+          "title": "🔴Seedhe Mudde Ki Baat : Nepal से गणपति को Police ने पकड़ लिया है! | Naxalite Ganpati | Latest News",
+          "description": "Seedhe Mudde Ki Baat : Nepal से गणपति को Police ने पकड़ लिया है! | Naxalite Ganpati | Latest News ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-05T16:33:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/dRXEMkzmkWM/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 2218,
+          "likes": 29,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 4,
           "videoId": "Lhr4fKWSyP0",
           "title": "Bhilai की वो बस्ती जहाँ मनी खुशियों की होली । KP News ",
           "description": "",
@@ -132,13 +147,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Lhr4fKWSyP0/hqdefault.jpg",
           "durationSeconds": 245,
           "durationFormatted": "04:05",
-          "views": 1654,
+          "views": 1713,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "fWbbHR8tscE",
           "title": "बीकानेर की होली, लड़का लग रहा था लड़की!",
           "description": "बीकानेर की होली, लड़का लग रहा था लड़की! Join our Whatsapp Group ...",
@@ -147,52 +162,22 @@
           "thumbnail": "https://i.ytimg.com/vi/fWbbHR8tscE/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 1391,
+          "views": 1399,
           "likes": 41,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "InGKBVpUmTo",
-          "title": "शक्ति - होली त्यौहार पर भयंकर हिंसा, जला दिए कई मकानChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-05T12:09:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/InGKBVpUmTo/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 1319,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-03-05T18:53:53Z"
     },
     {
-      "clusterId": "final-world",
-      "topic": "Final World",
-      "videoCount": 22,
-      "trendScore": 55.3,
+      "clusterId": "final-ind",
+      "topic": "Final IND",
+      "videoCount": 19,
+      "trendScore": 50.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "C3uNJMEQf0M",
-          "title": "IND vs ENG T20 World Cup 2026 Semi Final Live Score: India Innings HIGHLIGHT | Sanju Samson Score",
-          "description": "IBC24, IND vs ENG T20 World Cup 2026 Semi Final Live Score: India Innings HIGHLIGHT | Sanju Samson Score #indvseng ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-05T15:52:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/C3uNJMEQf0M/hqdefault.jpg",
-          "durationSeconds": 511,
-          "durationFormatted": "08:31",
-          "views": 29391,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
           "videoId": "OslBHoe2T7Q",
           "title": "IND vs ENG Semi Final : इंग्लैंड के छूटे पसीने… फाइनल में पहुंचा भारत । T20 World Cup 2026।Breaking",
           "description": "IND vs ENG Semi Final : इंग्लैंड के छूटे पसीने… फाइनल में पहुंचा भारत । T20 World ...",
@@ -201,13 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/OslBHoe2T7Q/hqdefault.jpg",
           "durationSeconds": 800,
           "durationFormatted": "13:20",
-          "views": 9246,
+          "views": 9545,
           "likes": 53,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "i7j-xylUOYw",
           "title": "India vs England Match HIGHLIGHTS: India Qualify For The Final | IND vs ENG T20 World Cup Semi Final",
           "description": "IBC24, India vs England Match HIGHLIGHTS: India Qualify For The Final | IND vs ENG T20 World Cup Semi Final #indvseng ...",
@@ -216,8 +201,23 @@
           "thumbnail": "https://i.ytimg.com/vi/i7j-xylUOYw/hqdefault.jpg",
           "durationSeconds": 594,
           "durationFormatted": "09:54",
-          "views": 7013,
+          "views": 9074,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "RAudHHKF_E8",
+          "title": "Breaking News: सेमीफाइनल में  भारत की ऐतिहासिक जीत । IND vs ENG Semi Final । T20 World Cup 2026",
+          "description": "Breaking News: सेमीफाइनल में भारत की ऐतिहासिक जीत । IND vs ENG Semi Final । T20 World Cup ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-05T17:26:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/RAudHHKF_E8/hqdefault.jpg",
+          "durationSeconds": 162,
+          "durationFormatted": "02:42",
+          "views": 5774,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -231,23 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/MFc1Yd2kAc0/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 5676,
+          "views": 5679,
           "likes": 25,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "RAudHHKF_E8",
-          "title": "Breaking News: सेमीफाइनल में  भारत की ऐतिहासिक जीत । IND vs ENG Semi Final । T20 World Cup 2026",
-          "description": "Breaking News: सेमीफाइनल में भारत की ऐतिहासिक जीत । IND vs ENG Semi Final । T20 World Cup ...",
+          "videoId": "sJJC7Qo6pGY",
+          "title": "IND vs ENG Semi Final : विश्वकप के फाइनल में पहुंचा भारत, देशभर में जश्न का माहौल।T20 World Cup 2026",
+          "description": "IND vs ENG Semi Final : विश्वकप के फाइनल में पहुंचा भारत, देशभर में जश्न का ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-05T17:26:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/RAudHHKF_E8/hqdefault.jpg",
-          "durationSeconds": 162,
-          "durationFormatted": "02:42",
-          "views": 5108,
-          "likes": 15,
+          "publishedAt": "2026-03-05T17:41:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/sJJC7Qo6pGY/hqdefault.jpg",
+          "durationSeconds": 572,
+          "durationFormatted": "09:32",
+          "views": 2381,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -255,10 +255,10 @@
       "latestUpdateAt": "2026-03-05T18:20:57Z"
     },
     {
-      "clusterId": "bjp-rajya",
-      "topic": "BJP Rajya",
-      "videoCount": 20,
-      "trendScore": 48.1,
+      "clusterId": "rajya-sabha",
+      "topic": "Rajya Sabha",
+      "videoCount": 18,
+      "trendScore": 45.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GbZpdZR3QzM/hqdefault.jpg",
           "durationSeconds": 26336,
           "durationFormatted": "07:18:56",
-          "views": 2509,
+          "views": 2540,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/C26jz3ZFVdE/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 1362,
-          "likes": 11,
+          "views": 2392,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -300,28 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lkJDyzDezyQ/hqdefault.jpg",
           "durationSeconds": 254,
           "durationFormatted": "04:14",
-          "views": 1297,
+          "views": 2027,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "53gft8SK2Js",
-          "title": "फूलोदेवी नेताम ने भरा राज्यसभा चुनाव का नामांकन, Congress, में बढ़ा उत्साह और सियासी हलचल",
-          "description": "फूलोदेवी नेताम ने भरा राज्यसभा चुनाव का नामांकन, Congress, में बढ़ा ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-03-05T10:08:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/53gft8SK2Js/hqdefault.jpg",
-          "durationSeconds": 543,
-          "durationFormatted": "09:03",
-          "views": 805,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "59BcEOM9Q8A",
           "title": "Chhattisgarh से BJP की राज्यसभा उम्मीदवार Laxmi Verma  ने भरा नामांकन #chhattisgarh #rajyasabha #bjp",
           "description": "Chhattisgarh से BJP की राज्यसभा उम्मीदवार Laxmi Verma ने भरा नामांकन #chhattisgarh ...",
@@ -330,19 +315,34 @@
           "thumbnail": "https://i.ytimg.com/vi/59BcEOM9Q8A/hqdefault.jpg",
           "durationSeconds": 12,
           "durationFormatted": "00:12",
-          "views": 591,
+          "views": 657,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "x8YOaHWAb2Y",
+          "title": "BJP-Congress के दोनों उम्मीदवार ने भरा नामांकन | दोनों पार्टी से एक-एक नामांकन",
+          "description": "BJP-Congress के दोनों उम्मीदवार ने भरा नामांकन | दोनों पार्टी से एक-एक ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-05T10:09:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/x8YOaHWAb2Y/hqdefault.jpg",
+          "durationSeconds": 479,
+          "durationFormatted": "07:59",
+          "views": 316,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-05T18:48:33Z"
+      "latestUpdateAt": "2026-03-05T21:32:17Z"
     },
     {
       "clusterId": "trump-iran",
       "topic": "Trump Iran",
       "videoCount": 6,
-      "trendScore": 46.4,
+      "trendScore": 44.8,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aYsVI-hjQGg/hqdefault.jpg",
           "durationSeconds": 886,
           "durationFormatted": "14:46",
-          "views": 75785,
-          "likes": 3197,
+          "views": 81294,
+          "likes": 3299,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/RnewQlEIjr0/hqdefault.jpg",
           "durationSeconds": 292,
           "durationFormatted": "04:52",
-          "views": 28891,
-          "likes": 225,
+          "views": 29424,
+          "likes": 227,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/be_sA4tle3Q/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 1928,
+          "views": 1990,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xeJ--H2-Ch0/hqdefault.jpg",
           "durationSeconds": 154,
           "durationFormatted": "02:34",
-          "views": 1603,
-          "likes": 40,
+          "views": 1981,
+          "likes": 41,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mEDimZF3Rac/hqdefault.jpg",
           "durationSeconds": 270,
           "durationFormatted": "04:30",
-          "views": 27,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -423,94 +423,10 @@
       "latestUpdateAt": "2026-03-05T18:53:04Z"
     },
     {
-      "clusterId": "xpress-गय",
-      "topic": "Xpress गया",
-      "videoCount": 5,
-      "trendScore": 30.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "7w7Rs8YlGDA",
-          "title": "कमरिया करे &quot;लापलुप लॉलीपॉप लागेलु &quot;गाने पर कलेक्टर साहब ने किया डांसChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-05T13:54:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/7w7Rs8YlGDA/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 892,
-          "likes": 16,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "2qEkbzxRngo",
-          "title": "सूरजपुर - हड़प लिया गया महिला समूह का 1 लाख 83 हजार रुपएChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-05T05:41:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/2qEkbzxRngo/hqdefault.jpg",
-          "durationSeconds": 132,
-          "durationFormatted": "02:12",
-          "views": 375,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "EaIUqh4MkQo",
-          "title": "पामगढ़ - पकड़ा गया लड़की का कई महीनो तक शारीरिक शोषण करने वालाChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-05T13:30:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/EaIUqh4MkQo/hqdefault.jpg",
-          "durationSeconds": 67,
-          "durationFormatted": "01:07",
-          "views": 202,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "5nzc3gGZ3mo",
-          "title": "पिथौरा - सुने मकान का ताला तोड़कर 2 लाख की चोरीChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-05T06:12:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/5nzc3gGZ3mo/hqdefault.jpg",
-          "durationSeconds": 74,
-          "durationFormatted": "01:14",
-          "views": 181,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "W4yH-AAT0ww",
-          "title": "खरोरा - गांव को नशा मुक्त बनाने, ग्रामीणों ने निकाला रैलीChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-05T07:30:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/W4yH-AAT0ww/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 84,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-05T13:54:54Z"
-    },
-    {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 29.1,
+      "videoCount": 4,
+      "trendScore": 27.1,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Xb1PtS1SLDQ/hqdefault.jpg",
           "durationSeconds": 2711,
           "durationFormatted": "45:11",
-          "views": 402,
+          "views": 414,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,28 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lNeOqqVRiss/hqdefault.jpg",
           "durationSeconds": 1513,
           "durationFormatted": "25:13",
-          "views": 279,
+          "views": 306,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "UeCk6zB7Ic0",
-          "title": "🔴LIVE : MP - CG : एमपी में मंत्रिमंडल में बदलाव की सुगबुगाहट   | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : एमपी में मंत्रिमंडल में बदलाव की सुगबुगाहट | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-05T09:22:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/UeCk6zB7Ic0/hqdefault.jpg",
-          "durationSeconds": 1435,
-          "durationFormatted": "23:55",
-          "views": 271,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "fRUzSvKPBfQ",
           "title": "🔴LIVE : Tarkash : बूंद-बूंद तेल को तरसेगी दुनिया ?| Latest News  | Zee MPCG",
           "description": "LIVE : Tarkash : बूंद-बूंद तेल को तरसेगी दुनिया ?| Latest News | Zee MPCG #Live #MPNews #Tarkash ...",
@@ -567,13 +468,13 @@
           "thumbnail": "https://i.ytimg.com/vi/fRUzSvKPBfQ/hqdefault.jpg",
           "durationSeconds": 1393,
           "durationFormatted": "23:13",
-          "views": 118,
+          "views": 119,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "rCtB_uQem4U",
           "title": "CG Naxalism : पुलिस और नक्सलियों के बीच दंतेवाड़ा-बीजापुर सीमावर्ती जंगलों में मुठभेड़ | Zee MPCG",
           "description": "CG Naxalism : छत्तीसगढ़ के दंतेवाड़ा-बीजापुर सीमावर्ती जंगलों में पुलिस ...",
@@ -582,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rCtB_uQem4U/hqdefault.jpg",
           "durationSeconds": 221,
           "durationFormatted": "03:41",
-          "views": 74,
+          "views": 87,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -591,10 +492,79 @@
       "latestUpdateAt": "2026-03-05T17:39:09Z"
     },
     {
+      "clusterId": "xpress-गय",
+      "topic": "Xpress गया",
+      "videoCount": 4,
+      "trendScore": 26.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "2qEkbzxRngo",
+          "title": "सूरजपुर - हड़प लिया गया महिला समूह का 1 लाख 83 हजार रुपएChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-05T05:41:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/2qEkbzxRngo/hqdefault.jpg",
+          "durationSeconds": 132,
+          "durationFormatted": "02:12",
+          "views": 375,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "EaIUqh4MkQo",
+          "title": "पामगढ़ - पकड़ा गया लड़की का कई महीनो तक शारीरिक शोषण करने वालाChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-05T13:30:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/EaIUqh4MkQo/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 285,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "5nzc3gGZ3mo",
+          "title": "पिथौरा - सुने मकान का ताला तोड़कर 2 लाख की चोरीChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-05T06:12:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/5nzc3gGZ3mo/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 187,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "W4yH-AAT0ww",
+          "title": "खरोरा - गांव को नशा मुक्त बनाने, ग्रामीणों ने निकाला रैलीChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-05T07:30:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/W4yH-AAT0ww/hqdefault.jpg",
+          "durationSeconds": 125,
+          "durationFormatted": "02:05",
+          "views": 87,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-05T13:30:46Z"
+    },
+    {
       "clusterId": "march",
       "topic": "March",
       "videoCount": 5,
-      "trendScore": 26.2,
+      "trendScore": 25.2,
       "topVideos": [
         {
           "index": 1,
@@ -621,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hRCUyzZKqGo/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 64,
+          "views": 72,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Crime"
@@ -651,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SRcf4fOOkgI/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 13,
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
