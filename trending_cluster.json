@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-06T20:47:33.226707Z",
+  "generatedAt": "2026-03-06T22:46:41.764359Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 103,
-      "trendScore": 64.3,
+      "videoCount": 100,
+      "trendScore": 63.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-v93D4TZzyM/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 119522,
-          "likes": 1171,
+          "views": 122495,
+          "likes": 1197,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XMzjaepESkc/hqdefault.jpg",
           "durationSeconds": 1649,
           "durationFormatted": "27:29",
-          "views": 31905,
+          "views": 31921,
           "likes": 350,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7cGj0dQSC3w/hqdefault.jpg",
           "durationSeconds": 815,
           "durationFormatted": "13:35",
-          "views": 27776,
-          "likes": 152,
+          "views": 28775,
+          "likes": 151,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LVASOY7ehYA/hqdefault.jpg",
           "durationSeconds": 304,
           "durationFormatted": "05:04",
-          "views": 19374,
-          "likes": 112,
+          "views": 19881,
+          "likes": 113,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/9wnYQVflFjc/hqdefault.jpg",
           "durationSeconds": 379,
           "durationFormatted": "06:19",
-          "views": 16542,
-          "likes": 220,
+          "views": 17599,
+          "likes": 225,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-03-06T18:49:01Z"
+      "latestUpdateAt": "2026-03-06T18:49:34Z"
     },
     {
       "clusterId": "iran-war",
       "topic": "Iran War",
-      "videoCount": 6,
-      "trendScore": 43.9,
+      "videoCount": 10,
+      "trendScore": 46.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/j1K_d7CIpnQ/hqdefault.jpg",
           "durationSeconds": 1095,
           "durationFormatted": "18:15",
-          "views": 64983,
-          "likes": 2116,
+          "views": 90869,
+          "likes": 2339,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/k7bNPJLGFV4/hqdefault.jpg",
           "durationSeconds": 488,
           "durationFormatted": "08:08",
-          "views": 18977,
-          "likes": 248,
+          "views": 20456,
+          "likes": 249,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,49 +132,49 @@
           "thumbnail": "https://i.ytimg.com/vi/jqRNg6lcewU/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 8831,
+          "views": 13287,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "5TXc3gbr7uY",
-          "title": "Iran Israel War: Dubai से लौटे Chhattisgarh के 2 युवक। युवकों ने अपनी आंखों से देखा मिसाइल अटैक",
-          "description": "IBC24, Iran Israel War: Dubai से लौटे Chhattisgarh के 3 युवक। युवकों ने अपनी आंखों से देखा ...",
+          "videoId": "h5RxWk_-ypA",
+          "title": "🔴Oil Crisis World News: ट्रंप के कहने पर रूस से तेल खरीदेगा भारत! | PM Modi | Iran-Israel-US War",
+          "description": "IBC24, Oil Crisis World News: ट्रंप के कहने पर रूस से तेल खरीदेगा भारत! | PM Modi ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-03-06T18:17:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/5TXc3gbr7uY/hqdefault.jpg",
-          "durationSeconds": 203,
-          "durationFormatted": "03:23",
-          "views": 91,
+          "publishedAt": "2026-03-06T18:43:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/h5RxWk_-ypA/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 3278,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "LR3196MBG1E",
-          "title": "Israel Iran जंग के बीच Dubai में फंसे Bilaspur के तीन युवक सुरक्षित भारत लौटे, परिवार ने ली राहत",
-          "description": "Israel Iran जंग के बीच Dubai में फंसे Bilaspur के तीन युवक सुरक्षित भारत लौटे, ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-03-06T07:24:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/LR3196MBG1E/hqdefault.jpg",
-          "durationSeconds": 117,
-          "durationFormatted": "01:57",
-          "views": 76,
-          "likes": 0,
+          "videoId": "DbEdzoMMBAg",
+          "title": "Us Iran War LIVE : जंग के बीच भारत पर महरबान ट्रंप, रूस से तेल खरीदने को लेकर बड़ा फैसला। India। Oil",
+          "description": "Us Iran War LIVE : जंग के बीच भारत पर महरबान ट्रंप, रूस से तेल खरीदने को लेकर ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-06T14:32:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/DbEdzoMMBAg/hqdefault.jpg",
+          "durationSeconds": 33314,
+          "durationFormatted": "09:15:14",
+          "views": 747,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-06T18:17:31Z"
+      "latestUpdateAt": "2026-03-06T18:43:17Z"
     },
     {
       "clusterId": "bhaskar-heroes",
       "topic": "Bhaskar Heroes",
       "videoCount": 7,
-      "trendScore": 42.0,
+      "trendScore": 41.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GJgaKlpdOLA/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 27294,
-          "likes": 1073,
+          "views": 27600,
+          "likes": 1075,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5p8n3No5jNk/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 4890,
-          "likes": 97,
+          "views": 5059,
+          "likes": 100,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_yV2R5D9lck/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 2746,
+          "views": 2770,
           "likes": 15,
           "videoType": "VOD",
           "genre": "Events"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UDNlDmcsJFI/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 1827,
-          "likes": 62,
+          "views": 1881,
+          "likes": 63,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/e_CYpPIm6xQ/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 785,
+          "views": 798,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 12,
-      "trendScore": 38.4,
+      "trendScore": 37.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Y62ruoM-_dU/hqdefault.jpg",
           "durationSeconds": 37906,
           "durationFormatted": "10:31:46",
-          "views": 2333,
+          "views": 2342,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "SWNrgJsDxzQ",
-          "title": "#shorts Neemuch में समोसा बना ‘सरप्राइज पैकेट’! | Food | Health | MP News",
-          "description": "नीमच के दशहरा मैदान स्थित प्रसिद्ध सम्राट नाश्ता सेंटर उस समय ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-06T12:12:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/SWNrgJsDxzQ/hqdefault.jpg",
-          "durationSeconds": 26,
-          "durationFormatted": "00:26",
-          "views": 1506,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "1-0rC9XvBMQ",
           "title": "#shorts :  आस्था या बड़ा खतरा? देखिए नर्मदापुरम में हैरान करने वाली परंपरा!  | Breaking |  Zee MPCG",
           "description": "नर्मदापुरम जिले के रामपुर गांव में होली की तीज पर लगने वाला करीब 100 ...",
@@ -300,10 +285,25 @@
           "thumbnail": "https://i.ytimg.com/vi/1-0rC9XvBMQ/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 1268,
+          "views": 1583,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "SWNrgJsDxzQ",
+          "title": "#shorts Neemuch में समोसा बना ‘सरप्राइज पैकेट’! | Food | Health | MP News",
+          "description": "नीमच के दशहरा मैदान स्थित प्रसिद्ध सम्राट नाश्ता सेंटर उस समय ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-06T12:12:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/SWNrgJsDxzQ/hqdefault.jpg",
+          "durationSeconds": 26,
+          "durationFormatted": "00:26",
+          "views": 1516,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 4,
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zHrcIVo2q2Y/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 543,
+          "views": 570,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sX6EJ6tdi7c/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 288,
+          "views": 306,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 33.2,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XBKRVDw3O1Q/hqdefault.jpg",
           "durationSeconds": 820,
           "durationFormatted": "13:40",
-          "views": 1176,
-          "likes": 49,
+          "views": 1232,
+          "likes": 51,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l8kjCm4BChY/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -381,7 +381,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 4,
-      "trendScore": 30.2,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -408,7 +408,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RnylrZcfOZQ/hqdefault.jpg",
           "durationSeconds": 1567,
           "durationFormatted": "26:07",
-          "views": 231,
+          "views": 230,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -450,7 +450,7 @@
       "clusterId": "मग-जजगर",
       "topic": "मांग जांजगीर",
       "videoCount": 11,
-      "trendScore": 29.1,
+      "trendScore": 28.3,
       "topVideos": [
         {
           "index": 1,
