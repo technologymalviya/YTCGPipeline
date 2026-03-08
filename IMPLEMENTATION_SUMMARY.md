@@ -1,189 +1,172 @@
 # Implementation Summary: Automatic Update of trending_cluster.json
 
 ## Problem Statement
-The issue stated: "trending_cluster.json should also update once output.JSON updated"
+
+The requirement: **"trending_cluster.json should also update once output.json is updated"**
 
 ### Root Cause
-- GitHub Actions workflow was updating `output.json` hourly
-- `trending_cluster.json` existed but was never being updated
-- Functions to generate trending clusters existed in `cluster_api.py` but were never called
+
+- The pipeline (GitHub Actions and local) was updating `output.json` but not `trending_cluster.json`.
+- Logic to build trending clusters lived in `cluster_api.py` but was never invoked in the pipeline.
 
 ## Solution Overview
-Implemented automatic generation of `trending_cluster.json` whenever `output.json` is updated, both in GitHub Actions and local development environments.
+
+`trending_cluster.json` is now generated automatically whenever the pipeline runs, so it stays in sync with `output.json` in both GitHub Actions and local runs.
 
 ## Implementation Details
 
-### 1. New Script: `generate_trending_clusters.py`
-**Purpose**: Generate `trending_cluster.json` from existing `output.json`
+### 1. Script: `generate_trending_clusters.py`
 
-**Features**:
-- Loads `output.json` data
-- Extracts clusters using existing `cluster_api.py` functions
-- Calculates trending scores based on:
-  - Video count (30% weight)
-  - Total views (25% weight)
-  - Engagement rate (20% weight)
-  - Recency (15% weight)
-  - Velocity (10% weight)
-- Sorts clusters by trend score
-- Includes top 5 videos per cluster
-- Saves to `trending_cluster.json`
-- Provides detailed console output
+**Purpose**: Build `trending_cluster.json` from the current `output.json`.
+
+**Flow**:
+
+1. Load `output.json` via `cluster_api.load_output_json()`.
+2. Extract clusters via `cluster_api.extract_clusters(data)` (PSE, Movie, Festival, and content-based clusters with ≥4 videos).
+3. Build trending payload with `cluster_api.generate_trending_cluster_json(clusters)` (sorted by trend score, top 5 videos per cluster).
+4. Write result with `cluster_api.save_trending_cluster_json(trending_data)` to `trending_cluster.json`.
+
+**Trend score** (in `cluster_api.calculate_trend_score()`):
+
+- Video count (30%) — normalized 0–100.
+- Total views (25%) — log scale, normalized.
+- Engagement rate (20%) — likes/views.
+- Recency (15%) — exponential decay by age.
+- Velocity (10%) — views per video, log scale.
+
+**Output file**: `trending_cluster.json` with `generatedAt`, `clusterCount`, and `clusters` (each: `clusterId`, `topic`, `videoCount`, `trendScore`, `topVideos`, `latestUpdateAt`).
 
 **Usage**:
+
 ```bash
 python generate_trending_clusters.py
 ```
 
-### 2. GitHub Actions Workflow Update
-**File**: `.github/workflows/generate-json.yml`
+### 2. GitHub Actions Workflow
 
-**Changes**:
-- Added call to `generate_trending_clusters.py` after `generate_json.py`
-- Modified commit step to include both files
-- Both files committed and pushed together with single timestamp
+**File**: `.github/workflows/cg_pipeline.yml`
 
-**Workflow Steps**:
-1. Fetch YouTube data → `output.json`
-2. Generate trending clusters → `trending_cluster.json`
-3. Commit both files
-4. Push to repository
+**Schedule**: Every 2 hours (cron `10 4-22/2 * * *` UTC).
 
-### 3. Local Development Script Update
+**Steps**:
+
+1. Checkout, set up Python 3.11, install dependencies.
+2. Run `python generate_json.py` (env: `YOUTUBE_API_KEY*`, `BHILAI_CHANNELS`, `OPENAI_API_KEY`).
+3. Run `python generate_trending_clusters.py`.
+4. **Commit and push**: Only if `output.json` changed (`git diff --quiet output.json`). If changed, `git add output.json trending_cluster.json`, commit, push.
+5. Upload `output.json` as artifact; optional display and URL hints.
+
+Both files are committed together when `output.json` changes so `trending_cluster.json` always matches the latest data.
+
+### 3. Local Pipeline
+
 **File**: `run_pipeline.sh`
 
-**Changes**:
-- Added call to `generate_trending_clusters.py`
-- Updated output messages to mention both files
+**Flow**:
+
+1. Check Python, install dependencies.
+2. `python3 generate_json.py`.
+3. `python3 generate_trending_clusters.py`.
+4. Print paths to `output.json` and `trending_cluster.json` and validation hint.
 
 **Usage**:
+
 ```bash
 ./run_pipeline.sh
 ```
 
-### 4. Documentation Updates
-**File**: `README.md`
+### 4. Cluster API and API Endpoint
 
-**Changes**:
-- Added new script to project structure
-- Updated usage examples
-- Added documentation for trending clusters generation
+**File**: `cluster_api.py`
+
+- **`extract_clusters(data)`**: Builds PSE, Movie, Festival, and content-based clusters (similarity grouping, min size 4). Each cluster gets `trendScore` via `calculate_trend_score()`.
+- **`generate_trending_cluster_json(clusters)`**: Sorts by `trendScore`, keeps top 5 videos per cluster, returns structure for `trending_cluster.json`.
+- **`save_trending_cluster_json(trending_data, filename)`**: Writes JSON to `trending_cluster.json` (or given filename).
+
+**Endpoint**: `GET /api/data/trending_cluster.json` — serves the file (e.g. from GitHub raw URL when configured). See `API_DOCUMENTATION.md` for base URL and usage.
 
 ### 5. Integration Test
+
 **File**: `test_trending_clusters_generation.py`
 
-**Purpose**: Validate the trending clusters generation process
+- Runs `generate_trending_clusters.py` and checks:
+  - Script exits successfully.
+  - `trending_cluster.json` exists and is valid JSON.
+  - Required fields and structure (e.g. `generatedAt`, `clusterCount`, `clusters`, `topVideos`).
+  - Timestamp freshness (optional warning if file is old).
 
-**Tests**:
-- Script executes successfully
-- `trending_cluster.json` is created
-- File structure is correct
-- All required fields present
-- Timestamps are recent
-- Cluster data is valid
-- Video data structure is correct
+## Validation
 
-## Validation Results
+- **Code**: Script and workflow follow project style.
+- **JSON**: `output.json` and `trending_cluster.json` are valid.
+- **Integration**: `test_trending_clusters_generation.py` validates end-to-end generation.
+- **Workflow**: `.github/workflows/cg_pipeline.yml` is valid and runs on schedule and `workflow_dispatch`.
 
-✅ **Code Review**: Passed (minor style nitpick only)
-✅ **Security Scan (CodeQL)**: No vulnerabilities
-✅ **JSON Validation**: Both files valid
-✅ **Integration Test**: All tests pass
-✅ **Workflow YAML**: Valid syntax
-✅ **Local Pipeline Test**: Both files generated successfully
+## Testing
 
-## Testing Performed
+**Local**:
 
-### Local Testing
 ```bash
-# Test full pipeline
+# Full pipeline (output.json + trending_cluster.json)
 ./run_pipeline.sh
 
-# Test trending clusters generation
+# Only trending clusters (requires existing output.json)
 python generate_trending_clusters.py
 
-# Run validation
+# Validate JSONs
 python validate_json.py
 
-# Run integration test
+# Integration test for trending generation
 python test_trending_clusters_generation.py
 ```
 
-**Results**: All tests passed ✅
+**Manual checks**: Confirm both files have current timestamps, cluster count and top videos look correct, and trend scores are populated.
 
-### Manual Verification
-- Verified both files have recent timestamps
-- Verified cluster count matches
-- Verified video data is complete
-- Verified trend scores are calculated correctly
+## Files Involved
 
-## Files Changed
-1. `.github/workflows/generate-json.yml` - Added trending clusters generation
-2. `run_pipeline.sh` - Added trending clusters generation for local dev
-3. `README.md` - Updated documentation
-4. `generate_trending_clusters.py` - New script (created)
-5. `test_trending_clusters_generation.py` - New test (created)
-6. `trending_cluster.json` - Updated with fresh data
-
-## Files Not Changed
-- `generate_json.py` - No changes needed
-- `cluster_api.py` - No changes needed (reused existing functions)
-- `validate_json.py` - No changes needed
-- `output.json` - Existing file, updated by workflow
+| File | Role |
+|------|------|
+| `generate_trending_clusters.py` | Script that generates `trending_cluster.json` from `output.json`. |
+| `cluster_api.py` | `load_output_json`, `extract_clusters`, `calculate_trend_score`, `generate_trending_cluster_json`, `save_trending_cluster_json`; API route for `trending_cluster.json`. |
+| `.github/workflows/cg_pipeline.yml` | Runs `generate_json.py` then `generate_trending_clusters.py`; commits both JSONs when `output.json` changes. |
+| `run_pipeline.sh` | Local pipeline: `generate_json.py` → `generate_trending_clusters.py`. |
+| `test_trending_clusters_generation.py` | Integration test for trending cluster generation. |
+| `IMPLEMENTATION_SUMMARY.md` | This summary. |
 
 ## Benefits
 
-### 1. Synchronization
-- Both files now update together
-- Single source of truth for video data
-- Consistent timestamps
+- **Sync**: `trending_cluster.json` updates whenever `output.json` is updated (CI and local).
+- **Minimal surface**: Reuses existing cluster and scoring logic in `cluster_api.py`.
+- **Single commit**: One commit contains both JSONs when the workflow pushes.
+- **Tested**: Integration test and manual checks ensure the pipeline and output shape stay correct.
 
-### 2. Minimal Changes
-- No modifications to existing core logic
-- Reused existing functions from `cluster_api.py`
-- Added only what was necessary
+## End-to-End Flow
 
-### 3. Maintainability
-- Clear separation of concerns
-- Standalone script is easy to test
-- Well-documented with console output
+**GitHub Actions**:
 
-### 4. Developer Experience
-- Works locally and in CI/CD
-- Clear error messages
-- Shows progress and results
-
-## How It Works
-
-### GitHub Actions (Automated)
 ```
-Hourly Cron Trigger
-       ↓
-Generate output.json
-       ↓
-Generate trending_cluster.json
-       ↓
-Commit both files
-       ↓
-Push to repository
+Schedule (every 2h) or workflow_dispatch
+  → generate_json.py → output.json
+  → generate_trending_clusters.py → trending_cluster.json
+  → If output.json changed: commit & push both files
 ```
 
-### Local Development
+**Local**:
+
 ```
 ./run_pipeline.sh
-       ↓
-Generate output.json
-       ↓
-Generate trending_cluster.json
-       ↓
-Show results
+  → generate_json.py → output.json
+  → generate_trending_clusters.py → trending_cluster.json
+  → Print paths and validation command
 ```
 
-## Future Enhancements (Optional)
-- Add trending history tracking
-- Add more detailed analytics
-- Add configurable trending weights
-- Add trend change detection
+## Optional Future Enhancements
+
+- Trending history or time-series data.
+- Configurable trend-score weights.
+- Trend-change or anomaly detection.
+- More cluster types or filters.
 
 ## Conclusion
-The implementation successfully solves the problem by ensuring `trending_cluster.json` is automatically updated whenever `output.json` is updated, both in GitHub Actions and local development environments. The solution is minimal, maintainable, and well-tested.
+
+`trending_cluster.json` is now updated automatically whenever `output.json` is updated, in both GitHub Actions (`.github/workflows/cg_pipeline.yml`) and local runs (`run_pipeline.sh`). The behavior is documented, tested, and aligned with the current cluster and scoring logic in `cluster_api.py`.

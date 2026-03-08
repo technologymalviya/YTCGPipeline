@@ -1,197 +1,235 @@
 # Genre Classification Analysis Report
 
 ## Overview
-Analysis of the `classify_genre()` function in `generate_json.py` to assess accuracy and identify areas for improvement.
+
+Analysis of the genre classification system in `generate_json.py`. The system uses a **hybrid approach**: OpenAI API for recently published videos (last 1 hour) and rule-based keyword matching for older videos and fallback.
 
 ## Current Implementation
 
-### Algorithm
-The function uses a **rule-based keyword matching approach** with the following strategy:
+### Classification Strategy
 
-1. **Text Normalization**: 
-   - Converts to lowercase
-   - Removes special characters (keeps alphanumeric + Devanagari)
-   - Normalizes spacing
-   - Applies text replacements for common misspellings
+1. **Special types (no ML/keywords)**  
+   - **Live**: `videoType === "LIVE"` → genre `Live`  
+   - **Scheduled**: `videoType` contains `"SCHEDULED"` or `"UPCOMING"` → genre `Scheduled`
 
-2. **Title Weighting**:
-   - Title appears 3x in the search text
-   - Description appears 1x
-   - Formula: `text = title + title + title + description`
+2. **Recent videos (published in last 1 hour)**  
+   - Try **OpenAI** classification first (see [OpenAI Genre Classification Integration](OPENAI_CLASSIFICATION.md)).  
+   - **Circuit breaker**: On first OpenAI failure (error, rate limit, timeout), stop using OpenAI for the rest of the batch and use keyword-based only.  
+   - **Time limit**: Stop using OpenAI after `OPENAI_MAX_EXECUTION_TIME` (50s); remaining videos use keyword-based.  
+   - **Podcast override**:  
+     - If OpenAI returns Podcast but channel is not in `PODCAST_ALLOWED_CHANNEL_TITLES` → reclassify with keyword-based.  
+     - If OpenAI returns non-Podcast but channel is in `PODCAST_ALLOWED_CHANNEL_TITLES` → force genre `Podcast`.
 
-3. **Pattern Matching**:
-   - Uses regex patterns with word boundaries for English
-   - Uses space boundaries for Hindi/Devanagari
-   - Checks categories in order: Crime → Traffic → Jobs → Events → Civic → Politics → General
+3. **Older videos (or when OpenAI is skipped)**  
+   - **Keyword-based** only, with `channel_title` used for Podcast.
 
-4. **Keyword Lists**:
-   - Each genre has a curated list of keywords
-   - Mix of single-word and multi-word phrases
-   - Support for both English and Hindi/Devanagari
+### Genres
+
+| Genre     | Constant         | Notes |
+|----------|-------------------|-------|
+| Live     | `GENRE_LIVE`      | Currently live stream. |
+| Scheduled| `GENRE_SCHEDULED` | Upcoming/scheduled stream. |
+| Crime    | `GENRE_CRIME`     | Crime, police, courts, violence, etc. |
+| Traffic  | `GENRE_TRAFFIC`   | Accidents, jams, road incidents. |
+| Jobs     | `GENRE_JOBS`      | Recruitment, vacancies, exams, interviews. |
+| Events   | `GENRE_EVENTS`    | Festivals, ceremonies, inaugurations. |
+| Civic    | `GENRE_CIVIC`     | Municipal services, civic issues, utilities. |
+| Politics | `GENRE_POLITICS`  | Elections, rallies, government, CM/PM. |
+| Podcast  | `GENRE_PODCAST`   | From allowed podcast channels only. |
+| General  | `GENRE_GENERAL`   | Default / weather / everything else. |
+
+Podcast is restricted to channels in `PODCAST_ALLOWED_CHANNEL_TITLES` (e.g. "Chhattisgarh Podcast", "Z-Series CG Podcast", "The Lok Ras", "The PS Show"). Videos from these channels are always classified as Podcast in the feed.
+
+---
+
+## Keyword-Based Algorithm
+
+Used by `classify_genre_keyword_based(title, description, channel_title)` when OpenAI is not used or fails.
+
+### 1. Channel-based Podcast (first)
+
+- If `channel_title in PODCAST_ALLOWED_CHANNEL_TITLES` → return **Podcast** immediately.
+
+### 2. Text normalization
+
+- Lowercase; remove special characters (keep alphanumeric + Devanagari).
+- Normalize spacing and apply fixed misspelling replacements (e.g. `h!dsa` → `हादसा`, `mou.t` → `मौत`).
+
+### 3. Title weighting
+
+- Search text: `title + title + title + description` (title effectively 3× weight).
+
+### 4. Pattern matching
+
+- Regex with word boundaries for English; space boundaries for Hindi/Devanagari.
+- Categories are checked in this order (first match wins):
+
+| Order | Category | Notes |
+|-------|----------|--------|
+| 1 | **Weather** | Match → return **General** (avoids "MP Weather" matching Politics). |
+| 2 | **Traffic** | Before Crime so road accidents with deaths stay Traffic. |
+| 3 | **Interview** | Podcast-like keywords from non–podcast channels; job-interview cases skip to Jobs. |
+| 4 | **Jobs** | Recruitment, vacancy, exam, interview, etc. |
+| 5 | **Crime** | Crime/police/court/violence terms. |
+| 6 | **Events** | With exclusion for clear political terms (e.g. meets, रैली, भाषण, चुनाव). |
+| 7 | **Politics** | With exclusions for scam/fraud (crime) and launch/inauguration (events). |
+| 8 | **Civic** | Municipal, civic, certificates, utilities. |
+| 9 | **General** | Default. |
+
+### 5. Keyword lists
+
+- Each genre has curated English and Hindi/Devanagari keywords and multi-word phrases (e.g. "traffic accident", "सड़क दुर्घटना", "police recruitment", "नौकरी सूचना").
+- Context rules: e.g. job-interview indicators prevent Interview from winning over Jobs; crime/event exclusions refine Politics vs Crime/Events.
+
+---
 
 ## Accuracy Assessment
 
-### Estimated Accuracy: **70-80%**
+### Overall
 
-### Strengths ✅
+- **Keyword-based (standalone)**: ~70–80% (unchanged from previous report).
+- **With OpenAI for recent videos**: Recent items can reach ~85–90% when OpenAI is used successfully; older items remain at keyword-based accuracy.
+- Actual accuracy depends on rate limits, time limit, and circuit breaker (how often OpenAI is used in a run).
 
-1. **Title Weighting**: Titles are weighted 3x more, which is appropriate since titles are more indicative of content.
+### Strengths
 
-2. **Word Boundary Matching**: Prevents partial word matches (e.g., "job" won't match "jobless").
+1. **Hybrid strategy**: Better accuracy for new content (OpenAI), predictable fallback (keywords).
+2. **Title weighting**: Titles weighted 3× in keyword path; aligns with typical news titles.
+3. **Word-boundary matching**: Reduces partial matches (e.g. "job" vs "jobless").
+4. **Multi-language**: English and Hindi/Devanagari supported.
+5. **Ordered categories**: Specific genres (e.g. Traffic, Crime, Jobs) checked before broader ones (Politics, General).
+6. **Podcast by channel**: Clean separation for dedicated podcast channels.
+7. **Context rules**: Exclusions for job interviews, political events, scam vs crime, etc., reduce obvious mislabels.
+8. **Resilience**: Circuit breaker and time limit avoid runaway latency or cost; script never depends on OpenAI alone.
 
-3. **Multi-language Support**: Handles both English and Hindi/Devanagari text.
+### Weaknesses and limitations
 
-4. **Ordered Classification**: Checks more specific categories first (Crime before Politics).
+#### 1. False positives (keyword path)
 
-5. **Hybrid Keyword Approach**: Uses both single-word keywords and multi-word phrases for better coverage.
+- Generic terms can match in wrong contexts: "traffic" in "political traffic", "event" in "news event", "job" in "job well done".
+- **Impact**: ~15–20% false positive rate for keyword-only classification.
 
-6. **Text Normalization**: Handles common misspellings and special characters.
+#### 2. False negatives (keyword path)
 
-### Weaknesses & Limitations ⚠️
+- Missing terms or paraphrases: "auto crash" vs "car accident", "employment news" without "job", new slang/abbreviations.
+- **Impact**: ~10–15% false negative rate for keyword-only.
 
-#### 1. **False Positives (Over-classification)**
-- **Issue**: Generic keywords can match in wrong contexts
-  - Example: "traffic" in "political traffic" → incorrectly classified as Traffic
-  - Example: "event" in "news event" → incorrectly classified as Events
-  - Example: "job" in "job well done" → incorrectly classified as Jobs
+#### 3. Ambiguous / multi-category
 
-- **Impact**: ~15-20% false positive rate
+- e.g. "Police investigate traffic accident" (Crime vs Traffic), "Government announces new job scheme" (Politics vs Jobs).  
+- **Behavior**: First matching category wins; no confidence or multi-label.
 
-#### 2. **False Negatives (Under-classification)**
-- **Issue**: Missing domain-specific terminology or variations
-  - Example: "auto crash" might not match "car accident" patterns
-  - Example: "employment news" might not match if "job" is missing
-  - Example: New slang terms or abbreviations not in keyword lists
+#### 4. No semantic understanding (keyword path)
 
-- **Impact**: ~10-15% false negative rate
+- Purely lexical; e.g. "Dead body found" can match crime keywords even for natural death; "party" can be event vs politics.
 
-#### 3. **Ambiguous Cases**
-- **Issue**: Videos that span multiple categories
-  - Example: "Police investigate traffic accident" → Could be Crime OR Traffic
-  - Example: "Government announces new job scheme" → Could be Politics OR Jobs
-  - Example: "Municipal corporation event" → Could be Civic OR Events
+#### 5. Keyword coverage gaps
 
-- **Current Behavior**: First matching category wins (may not be best choice)
+- Traffic: e.g. "collision", "pile-up", "fender bender".
+- Jobs: e.g. "opening", "position", "career opportunity", "hiring drive".
+- Events: e.g. "gathering", "function", "ceremony", "conference".
+- Civic: some regional/service terms may be missing.
 
-#### 4. **Context Loss**
-- **Issue**: No semantic understanding, only keyword matching
-  - Example: "Dead body found" → matches "dead" (crime keyword) but could be natural death
-  - Example: "Political party meeting" → might match "party" as event instead of politics
+#### 6. No negative keywords
 
-#### 5. **Keyword Coverage Gaps**
-- Missing synonyms and variations:
-  - Traffic: Missing "collision", "smashed", "pile-up", "fender bender"
-  - Jobs: Missing "opening", "position", "career opportunity", "hiring drive"
-  - Events: Missing "gathering", "function", "ceremony", "conference"
-  - Civic: Missing some regional terms and service variations
+- Cannot explicitly exclude e.g. "traffic light" (discussion) or "job interview" (story, not posting) except via context rules.
 
-#### 6. **No Negative Keywords**
-- **Issue**: Can't exclude false matches
-  - Example: "job interview" about someone's career story (not a job posting)
-  - Example: "traffic light" discussion (not a traffic incident)
+#### 7. No scoring
 
-#### 7. **No Scoring Mechanism**
-- **Issue**: First match wins, no confidence scoring
-  - Example: If both "traffic" and "accident" match, no way to prefer stronger matches
-  - Example: Can't distinguish between strong signals vs weak signals
+- First match wins; no confidence score or strength of signal.
 
-#### 8. **Description Quality Dependency**
-- **Issue**: Relies on YouTube descriptions which may be:
-  - Empty or very short
-  - Auto-generated (often generic)
-  - Spam/SEO-optimized text
-  - Not in Hindi/English
+#### 8. Description quality
 
-## Specific Accuracy by Genre
+- Relies on YouTube title/description: can be empty, auto-generated, SEO spam, or non–Hindi/English.
 
-| Genre | Estimated Accuracy | Common Issues |
-|-------|-------------------|---------------|
-| **Crime** | ~85% | High accuracy due to specific terms, but may misclassify non-crime police activities |
-| **Traffic** | ~75% | May confuse with civic "road repair" news or general traffic discussions |
-| **Jobs** | ~70% | "Job" keyword is too generic; may match non-job-related content |
-| **Events** | ~75% | "Event" keyword is generic; overlaps with general news |
-| **Civic** | ~65% | Broad category with many overlaps (politics, events, traffic) |
-| **Politics** | ~70% | "Government", "party" overlap with civic and general news |
-| **General** | ~80% | Default category; accurately catches unclassified content |
+---
 
-## Real-World Accuracy Factors
+## Accuracy by Genre (keyword-based)
 
-### Positive Factors:
-1. ✅ News titles are usually descriptive and keyword-rich
-2. ✅ Hindi news often uses standard terminology
-3. ✅ Title weighting helps prioritize most relevant signals
-4. ✅ Pattern matching prevents many false partial matches
+| Genre    | Est. accuracy | Common issues |
+|----------|----------------|----------------|
+| Crime    | ~85%           | Non-crime police activities may be labeled Crime. |
+| Traffic  | ~75%           | Overlap with civic "road repair" or general traffic discussion. |
+| Jobs     | ~70%           | "Job" is generic; non-job content can match. |
+| Events   | ~75%           | "Event" is generic; overlaps with general news. |
+| Civic    | ~65%           | Broad; overlaps with Politics, Events, Traffic. |
+| Politics | ~70%           | "Government", "party" overlap with Civic and General. |
+| Podcast  | ~100% (channel)| By channel only; no keyword confusion. |
+| General  | ~80%           | Default; correctly catches unclassified. |
 
-### Negative Factors:
-1. ❌ Clickbait titles that are misleading
-2. ❌ Ambiguous headlines ("Breaking: Major Incident in City")
-3. ❌ Mixed-language titles (English + Hindi transliterations)
-4. ❌ Abbreviations and slang not in keyword lists
-5. ❌ Domain-specific terminology variations
+---
 
-## Recommendations for Improvement
+## Real-world factors
 
-### 1. **Add Context-Aware Matching** (High Impact)
-```python
-# Require multiple keywords for generic terms
-if "job" in text and not any(job_specific in text for job_specific in ["recruitment", "vacancy", "hiring"]):
-    # Reduce confidence or skip
-```
+**Positive**
 
-### 2. **Implement Scoring System** (High Impact)
-- Score matches based on:
-  - Keyword strength (specific > generic)
-  - Number of matching keywords
-  - Title vs description location
-  - Multi-word phrase matches (higher score)
+- News titles are often descriptive and keyword-rich.
+- Hindi news often uses consistent terminology.
+- Title weighting and category order improve relevance.
+- Word-boundary and context rules reduce many false hits.
 
-### 3. **Add Negative Keywords** (Medium Impact)
-- Exclude patterns that indicate false matches
-- Example: "traffic" + "light" = not traffic incident
-- Example: "job" + "story" = not job posting
+**Negative**
 
-### 4. **Expand Keyword Lists** (Medium Impact)
-- Add synonyms and variations
-- Include common misspellings
-- Add regional terminology
-- Include abbreviations (e.g., "BMC", "NMC" for civic)
+- Clickbait or vague headlines ("Breaking: Major Incident in City").
+- Mixed language and transliterations.
+- Abbreviations and slang not in keyword lists.
+- Domain-specific phrasing not covered.
 
-### 5. **Improve Multi-Word Matching** (Medium Impact)
-- Use flexible word ordering: "road accident" = "accident on road"
-- Handle word variations: "traffic jam" = "traffic congestion"
+---
 
-### 6. **Add Machine Learning Approach** (High Impact, High Effort)
-- Train a classification model with labeled examples
-- Use NLP techniques (TF-IDF, word embeddings)
-- Could achieve 85-90% accuracy
+## Recommendations for improvement
 
-### 7. **Implement Confidence Thresholds** (Low Impact, Easy)
-- Only classify if confidence score > threshold
-- Otherwise mark as "General" with lower confidence
+### 1. Context-aware matching (high impact)
 
-## Expected Accuracy After Improvements
+- Require supporting keywords for generic terms (e.g. "job" + recruitment/vacancy/hiring).
+- Reduces false positives for Jobs/Events/Traffic.
 
-| Improvement | Expected Accuracy Gain |
-|------------|----------------------|
-| Add context-aware matching | +5-8% |
-| Implement scoring system | +8-12% |
-| Add negative keywords | +3-5% |
-| Expand keyword lists | +2-4% |
-| ML-based approach | +10-15% |
+### 2. Scoring system (high impact)
 
-**Potential Maximum Accuracy**: **85-90%** with comprehensive improvements
+- Score by: keyword specificity, number of matches, title vs description, multi-word phrase matches.
+- Use threshold to leave low-confidence as General.
+
+### 3. Negative keywords (medium impact)
+
+- e.g. "traffic" + "light" → not Traffic incident; "job" + "story" → not Jobs posting.
+
+### 4. Expand keyword lists (medium impact)
+
+- Synonyms, misspellings, regional terms, abbreviations (e.g. BMC, NMC for Civic).
+
+### 5. Flexible multi-word matching (medium impact)
+
+- Allow "road accident" ≈ "accident on road"; "traffic jam" ≈ "traffic congestion".
+
+### 6. ML/NLP model (high impact, high effort)
+
+- Train on labeled examples; TF-IDF or embeddings; target 85–90% on full feed.
+
+### 7. Confidence thresholds (low effort)
+
+- In keyword path: only assign non-General if confidence > threshold; else General.
+
+---
+
+## Expected accuracy after improvements
+
+| Change                     | Expected gain (keyword path) |
+|----------------------------|------------------------------|
+| Context-aware matching     | +5–8%                        |
+| Scoring system             | +8–12%                       |
+| Negative keywords          | +3–5%                        |
+| Expanded keyword lists     | +2–4%                        |
+| ML-based approach          | +10–15%                      |
+
+**Potential ceiling**: ~85–90% for keyword-based path with all improvements; recent-video path already benefits from OpenAI when available.
+
+---
 
 ## Conclusion
 
-The current `classify_genre()` function is a solid rule-based implementation with **estimated accuracy of 70-80%**. It works well for:
-- Clear, keyword-rich titles
-- Standard news terminology
-- Single-category content
+The current system is a **hybrid**: OpenAI for videos from the last hour (with circuit breaker and time limit), and **keyword-based** for everything else and fallback. It adds **Live**, **Scheduled**, and **Podcast** (channel-gated) and keeps the previous keyword design (order, context rules, normalization).
 
-It struggles with:
-- Ambiguous or multi-category content
-- Context-dependent meanings
-- Generic keyword overlaps
-- Edge cases and domain-specific terminology
+- **Works well for**: Clear, keyword-rich titles; standard news terminology; single-category content; dedicated podcast channels.
+- **Struggles with**: Ambiguous or multi-category content; context-dependent meanings; generic keyword overlap; missing domain terms.
 
-For production use, consider implementing a scoring system and context-aware matching as quick wins that could improve accuracy to **75-85%** with moderate effort.
+For production, the existing circuit breaker and time limit are already in place. Quick wins to improve keyword accuracy further: **scoring** and **context-aware matching**, which could bring the keyword-only share to ~75–85% with moderate effort. See [OpenAI Genre Classification Integration](OPENAI_CLASSIFICATION.md) for OpenAI setup and behavior.
