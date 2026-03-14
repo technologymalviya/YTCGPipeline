@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-14T20:43:58.269973Z",
+  "generatedAt": "2026-03-14T22:43:37.199989Z",
   "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 95,
-      "trendScore": 62.0,
+      "videoCount": 92,
+      "trendScore": 61.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FJFX92GmvUw/hqdefault.jpg",
           "durationSeconds": 1715,
           "durationFormatted": "28:35",
-          "views": 29194,
-          "likes": 321,
+          "views": 29248,
+          "likes": 322,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7AlDCSKel0A/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 10334,
-          "likes": 202,
+          "views": 15870,
+          "likes": 221,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pXU5KkYWRvA/hqdefault.jpg",
           "durationSeconds": 806,
           "durationFormatted": "13:26",
-          "views": 8818,
-          "likes": 403,
+          "views": 8832,
+          "likes": 404,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eUKx7jWE55A/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 6486,
-          "likes": 140,
+          "views": 6573,
+          "likes": 144,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TWfzBLzShzQ/hqdefault.jpg",
           "durationSeconds": 526,
           "durationFormatted": "08:46",
-          "views": 5653,
-          "likes": 55,
+          "views": 6304,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -89,26 +89,11 @@
     {
       "clusterId": "lpg-crisis",
       "topic": "LPG Crisis",
-      "videoCount": 15,
-      "trendScore": 47.7,
+      "videoCount": 16,
+      "trendScore": 47.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "8cbBDHvR4JI",
-          "title": "LPG Crisis India Reality Check: सिलेंडर पर मचा संग्राम..कालाबाजारी खुलेआम! LPG Black Marketing News",
-          "description": "IBC24, LPG Crisis India Reality Check: सिलेंडर पर मचा संग्राम..कालाबाजारी खुलेआम!",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-14T15:43:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/8cbBDHvR4JI/hqdefault.jpg",
-          "durationSeconds": 515,
-          "durationFormatted": "08:35",
-          "views": 14803,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "0GZTDvxqMvk",
           "title": "LPG Gas Cylinder Crisis : LPG का मिला ऑप्शन भट्टी से खत्म टेंशन! MP News । Latest News । Top News ।",
           "description": "LPG Gas Cylinder Crisis : LPG का मिला ऑप्शन भट्टी से खत्म टेंशन! MP News । Latest News ।",
@@ -117,10 +102,25 @@
           "thumbnail": "https://i.ytimg.com/vi/0GZTDvxqMvk/hqdefault.jpg",
           "durationSeconds": 324,
           "durationFormatted": "05:24",
-          "views": 14769,
+          "views": 14892,
           "likes": 80,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "8cbBDHvR4JI",
+          "title": "LPG Crisis India Reality Check: सिलेंडर पर मचा संग्राम..कालाबाजारी खुलेआम! LPG Black Marketing News",
+          "description": "IBC24, LPG Crisis India Reality Check: सिलेंडर पर मचा संग्राम..कालाबाजारी खुलेआम!",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-14T15:43:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/8cbBDHvR4JI/hqdefault.jpg",
+          "durationSeconds": 515,
+          "durationFormatted": "08:35",
+          "views": 14832,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 3,
@@ -132,13 +132,28 @@
           "thumbnail": "https://i.ytimg.com/vi/D678J_5ljFE/hqdefault.jpg",
           "durationSeconds": 324,
           "durationFormatted": "05:24",
-          "views": 6334,
-          "likes": 59,
+          "views": 8782,
+          "likes": 62,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
+          "videoId": "kHZPUvYatpU",
+          "title": "ईरान ने भारत को दी बड़ी राहत, होर्मुज से गुजरे भारतीय LPG टैंकर",
+          "description": "मिडिल ईस्ट में बढ़ते तनाव के बीच भारत के लिए एक राहत भरी खबर सामने आई ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-14T03:07:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/kHZPUvYatpU/hqdefault.jpg",
+          "durationSeconds": 112,
+          "durationFormatted": "01:52",
+          "views": 1058,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "0Xx7Z4aSTRs",
           "title": "PM Modi on LPG Shortage: रसोई गैस की किल्लत पर क्या बोल गए PM मोदी? | LPG Crisis | Gas Cylinder",
           "description": "PM Modi on LPG Shortage: रसोई गैस की किल्लत पर क्या बोल गए PM मोदी? | LPG Crisis | Gas ...",
@@ -147,23 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0Xx7Z4aSTRs/hqdefault.jpg",
           "durationSeconds": 275,
           "durationFormatted": "04:35",
-          "views": 373,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "y9qDPfTPhr8",
-          "title": "🔴MP News LIVE :  गैस सिलेंडर का स्टाक खत्म, ग्राहकों का हंगामा | LPG Gas Cylinder Shortage",
-          "description": "MP News LIVE : गैस सिलेंडर का स्टाक खत्म, ग्राहकों का हंगामा | LPG Gas Cylinder ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-14T17:00:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/y9qDPfTPhr8/hqdefault.jpg",
-          "durationSeconds": 40879,
-          "durationFormatted": "11:21:19",
-          "views": 174,
-          "likes": 3,
+          "views": 391,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-lpg",
       "topic": "Bhaskar LPG",
       "videoCount": 11,
-      "trendScore": 45.3,
+      "trendScore": 44.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/E1NxVLDhmjI/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 1480,
-          "likes": 71,
+          "views": 1516,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uwYNzdkWCcY/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 1198,
-          "likes": 47,
+          "views": 1243,
+          "likes": 50,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QJNhUwIGUIM/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 869,
+          "views": 850,
           "likes": 33,
           "videoType": "VOD",
           "genre": "Crime"
@@ -231,23 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/32opUSojirI/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 727,
-          "likes": 33,
+          "views": 775,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "VSwY5jTkbWs",
-          "title": "अब बिना लाइसेंस नहीं बेच पाएंगे दूध",
-          "description": "अब बिना लाइसेंस नहीं बेच पाएंगे दूध Join our Whatsapp Group ...",
+          "videoId": "HL6z5tyWFZY",
+          "title": "जोहार रिसाली में छेद है  ; बनवाने वाले कहां है गायब ?  | CG Bhaskar",
+          "description": "जोहार रिसाली में छेद है ; बनवाने वाले कहां है गायब ? | CG BhaskarJoin our Whatsapp ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-14T09:15:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/VSwY5jTkbWs/hqdefault.jpg",
-          "durationSeconds": 72,
-          "durationFormatted": "01:12",
-          "views": 700,
-          "likes": 15,
+          "publishedAt": "2026-03-14T12:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/HL6z5tyWFZY/hqdefault.jpg",
+          "durationSeconds": 156,
+          "durationFormatted": "02:36",
+          "views": 713,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,10 +258,25 @@
       "clusterId": "iran-trump",
       "topic": "Iran Trump",
       "videoCount": 5,
-      "trendScore": 40.5,
+      "trendScore": 41.0,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "-a18-O_DFuo",
+          "title": "Iran America War: 2 बजते ही अमेरिका नेबम से उड़ा दिए ईरान के परमाणु अड्डे? | Trump | Khamenei",
+          "description": "For all the latest news from Madhya Pradesh and Chattisgarh, keep watching News18 Madhya Pradesh Chattisgarh LIVE TV on ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-14T20:30:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/-a18-O_DFuo/hqdefault.jpg",
+          "durationSeconds": 1349,
+          "durationFormatted": "22:29",
+          "views": 18375,
+          "likes": 586,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "vH91SByD55o",
           "title": "Iran America War Update: 9 बजते ही ईरान ने मार गिराया अमेरिका का KC-135! | Trump | Top News",
           "description": "Iran America War Update: 9 बजते ही ईरान ने मार गिराया अमेरिका का KC-135! | Trump | Top News ...",
@@ -270,23 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vH91SByD55o/hqdefault.jpg",
           "durationSeconds": 553,
           "durationFormatted": "09:13",
-          "views": 14838,
-          "likes": 262,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "inwpmiqdO7c",
-          "title": "Iran Attack on Israel: 8 बजते ही ईरान ने इजरायल की तरफ भेजीं सैकड़ों मिसाइलें! | Netanyahu | Trump",
-          "description": "Iran Attack on Israel: 8 बजते ही ईरान ने इजरायल की तरफ भेजीं सैकड़ों मिसाइलें!",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-14T14:30:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/inwpmiqdO7c/hqdefault.jpg",
-          "durationSeconds": 394,
-          "durationFormatted": "06:34",
-          "views": 5164,
-          "likes": 48,
+          "views": 15074,
+          "likes": 264,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/UnWUVWYARFA/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 3124,
-          "likes": 77,
+          "views": 6287,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "inwpmiqdO7c",
+          "title": "Iran Attack on Israel: 8 बजते ही ईरान ने इजरायल की तरफ भेजीं सैकड़ों मिसाइलें! | Netanyahu | Trump",
+          "description": "Iran Attack on Israel: 8 बजते ही ईरान ने इजरायल की तरफ भेजीं सैकड़ों मिसाइलें!",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-14T14:30:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/inwpmiqdO7c/hqdefault.jpg",
+          "durationSeconds": 394,
+          "durationFormatted": "06:34",
+          "views": 5197,
+          "likes": 48,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "-571tX7bOjI",
           "title": "Iran America War: इजराइल पर ईरान ने दागी मिसाइलें ? | Trump | Khamenei | N18G",
           "description": "Iran America War: इजराइल पर ईरान ने दागी मिसाइलें ? | Trump | Khamenei | N18G #iranattack ...",
@@ -315,23 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-571tX7bOjI/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 2761,
-          "likes": 45,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "-a18-O_DFuo",
-          "title": "Iran America War: 2 बजते ही अमेरिका नेबम से उड़ा दिए ईरान के परमाणु अड्डे? | Trump | Khamenei",
-          "description": "For all the latest news from Madhya Pradesh and Chattisgarh, keep watching News18 Madhya Pradesh Chattisgarh LIVE TV on ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-14T20:30:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/-a18-O_DFuo/hqdefault.jpg",
-          "durationSeconds": 1349,
-          "durationFormatted": "22:29",
-          "views": 1610,
-          "likes": 62,
+          "views": 2956,
+          "likes": 47,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 9,
-      "trendScore": 39.3,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FwpnavDB-9U/hqdefault.jpg",
           "durationSeconds": 1576,
           "durationFormatted": "26:16",
-          "views": 22211,
+          "views": 22246,
           "likes": 286,
           "videoType": "VOD",
           "genre": "General"
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3Ny154Yc03I/hqdefault.jpg",
           "durationSeconds": 966,
           "durationFormatted": "16:06",
-          "views": 685,
-          "likes": 9,
+          "views": 701,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gCHlwtRVz9g/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 486,
+          "views": 596,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HoBMhK0fS_k/hqdefault.jpg",
           "durationSeconds": 876,
           "durationFormatted": "14:36",
-          "views": 115,
+          "views": 120,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x_pa6o8aThE/hqdefault.jpg",
           "durationSeconds": 1037,
           "durationFormatted": "17:17",
-          "views": 9,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -423,28 +423,13 @@
       "latestUpdateAt": "2026-03-14T16:45:20Z"
     },
     {
-      "clusterId": "jagdalpur-tilda",
-      "topic": "Jagdalpur Tilda",
-      "videoCount": 14,
-      "trendScore": 38.2,
+      "clusterId": "rajnandgaon-jagdalpur",
+      "topic": "Rajnandgaon Jagdalpur",
+      "videoCount": 15,
+      "trendScore": 37.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "s7S9dq_m59o",
-          "title": "Tilda Newra News:  तिल्दा व्यवहार न्यायालय में नेशनल लोक अदालत आयोजित",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-14T11:33:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/s7S9dq_m59o/hqdefault.jpg",
-          "durationSeconds": 50,
-          "durationFormatted": "00:50",
-          "views": 42,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "fVMItP1vcWI",
           "title": "Bemetara News: ब्लैक मार्केट में 1500-2000 रुपए में बिक रही गैस ,ऑनलाइन सिस्टम ने बढ़ाई मुश्किल",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -453,10 +438,25 @@
           "thumbnail": "https://i.ytimg.com/vi/fVMItP1vcWI/hqdefault.jpg",
           "durationSeconds": 219,
           "durationFormatted": "03:39",
-          "views": 37,
+          "views": 44,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "s7S9dq_m59o",
+          "title": "Tilda Newra News:  तिल्दा व्यवहार न्यायालय में नेशनल लोक अदालत आयोजित",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-14T11:33:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/s7S9dq_m59o/hqdefault.jpg",
+          "durationSeconds": 50,
+          "durationFormatted": "00:50",
+          "views": 44,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 3,
@@ -468,13 +468,28 @@
           "thumbnail": "https://i.ytimg.com/vi/vmre1-zVNqo/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 28,
+          "views": 30,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "kYFwjS8ohO4",
+          "title": "Rajnandgaon News: महिला कांग्रेस का LPG सिलेंडर विरोध प्रदर्शन ,गैस की बढ़ती कीमतों पर नाराजगी",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-14T09:26:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/kYFwjS8ohO4/hqdefault.jpg",
+          "durationSeconds": 149,
+          "durationFormatted": "02:29",
+          "views": 30,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 5,
           "videoId": "uv_VAEp_Yvw",
           "title": "Jagdalpur News: माहरा समाज ने मनाया 14वां जगतू माहरा स्मृति दिवस",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -483,25 +498,10 @@
           "thumbnail": "https://i.ytimg.com/vi/uv_VAEp_Yvw/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 23,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "gv2xeRKuO1E",
-          "title": "Chhuriya News: लालूटोला में पैरा के ढेर में लगी आग, समय रहते फायर ब्रिगेड ने आग पर पाया काबू",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-14T13:11:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/gv2xeRKuO1E/hqdefault.jpg",
-          "durationSeconds": 48,
-          "durationFormatted": "00:48",
-          "views": 14,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-03-14T13:16:17Z"
@@ -510,7 +510,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 7,
-      "trendScore": 36.9,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IkzB1aNgY8E/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 11133,
+          "views": 14277,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -537,8 +537,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6FHk8b5tB2U/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 1397,
-          "likes": 26,
+          "views": 1477,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,8 +552,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tm7gIJ4nq6I/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 1058,
-          "likes": 49,
+          "views": 1135,
+          "likes": 50,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -582,7 +582,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xshrTNvBGQE/hqdefault.jpg",
           "durationSeconds": 1425,
           "durationFormatted": "23:45",
-          "views": 142,
+          "views": 161,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -594,7 +594,7 @@
       "clusterId": "ndtv-creators",
       "topic": "NDTV Creators",
       "videoCount": 6,
-      "trendScore": 33.8,
+      "trendScore": 32.8,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_ZoJnXbRqZA/hqdefault.jpg",
           "durationSeconds": 16,
           "durationFormatted": "00:16",
-          "views": 2374,
+          "views": 2569,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DNcWQiShFNM/hqdefault.jpg",
           "durationSeconds": 24,
           "durationFormatted": "00:24",
-          "views": 1371,
+          "views": 1382,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PkzqLn4_8wo/hqdefault.jpg",
           "durationSeconds": 2048,
           "durationFormatted": "34:08",
-          "views": 776,
+          "views": 933,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -651,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ksrY7epnfUg/hqdefault.jpg",
           "durationSeconds": 18,
           "durationFormatted": "00:18",
-          "views": 154,
+          "views": 223,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -666,7 +666,7 @@
           "thumbnail": "https://i.ytimg.com/vi/assi1h9DriQ/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 58,
+          "views": 87,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -678,7 +678,7 @@
       "clusterId": "xpress-पवन",
       "topic": "Xpress पवनी",
       "videoCount": 5,
-      "trendScore": 30.4,
+      "trendScore": 29.4,
       "topVideos": [
         {
           "index": 1,
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gG8GW-0_qTY/hqdefault.jpg",
           "durationSeconds": 169,
           "durationFormatted": "02:49",
-          "views": 615,
+          "views": 633,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hrW37ipytug/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 184,
+          "views": 225,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AW25gLwmxvc/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 85,
+          "views": 104,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -750,7 +750,7 @@
           "thumbnail": "https://i.ytimg.com/vi/V56VmsCFd2E/hqdefault.jpg",
           "durationSeconds": 276,
           "durationFormatted": "04:36",
-          "views": 21,
+          "views": 23,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -762,7 +762,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 25.9,
+      "trendScore": 24.7,
       "topVideos": [
         {
           "index": 1,
@@ -774,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0o1GEgntezg/hqdefault.jpg",
           "durationSeconds": 20755,
           "durationFormatted": "05:45:55",
-          "views": 174,
+          "views": 181,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
