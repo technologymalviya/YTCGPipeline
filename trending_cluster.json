@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-16T20:55:23.880688Z",
+  "generatedAt": "2026-03-16T22:50:08.154245Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 94,
-      "trendScore": 61.9,
+      "trendScore": 60.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,13 +18,28 @@
           "thumbnail": "https://i.ytimg.com/vi/tvQUvqV-D1s/hqdefault.jpg",
           "durationSeconds": 1645,
           "durationFormatted": "27:25",
-          "views": 37939,
+          "views": 37989,
           "likes": 405,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "GgR35MQAuUc",
+          "title": "NDA Won Rajya Sabha Election: 12 बजते ही राज्यसभा चुनाव में NDA की बंपर जीत | Nitish Kumar | Bihar",
+          "description": "NDA Won Rajya Sabha Election: 12 बजते ही राज्यसभा चुनाव में NDA की बंपर जीत | Nitish Kumar ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-16T18:30:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/GgR35MQAuUc/hqdefault.jpg",
+          "durationSeconds": 1268,
+          "durationFormatted": "21:08",
+          "views": 17006,
+          "likes": 166,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "ZqrRrvikDFw",
           "title": "Strait of Hormuz Crisis: क्या एटमी जंग की तरफ बढ़ रही दुनिया?| Donald Trump | China | Germany",
           "description": "Special Report: होर्मुज की लड़ाई.. विश्व युद्ध कराएगी। होर्मुज के लिए एटमी ...",
@@ -33,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/ZqrRrvikDFw/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 16329,
+          "views": 16347,
           "likes": 86,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "h1X1aw5bY8g",
           "title": "Rajyasabha Election Result Live: बिहार में NDA का परचम लहराया, 5 उम्मीदवारों ने दर्ज की जीत | NItish",
           "description": "Rajya Sabha Election Voting Result Live : बिहार में एनडीए का परचम लहराया, पांचों ...",
@@ -54,43 +69,112 @@
           "genre": "Politics"
         },
         {
+          "index": 5,
+          "videoId": "XYa0iI6xmrI",
+          "title": "16 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
+          "description": "16 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-03-16T00:13:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/XYa0iI6xmrI/hqdefault.jpg",
+          "durationSeconds": 498,
+          "durationFormatted": "08:18",
+          "views": 8622,
+          "likes": 125,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-03-16T22:32:10Z"
+    },
+    {
+      "clusterId": "bhaskar-instagram",
+      "topic": "Bhaskar Instagram",
+      "videoCount": 15,
+      "trendScore": 46.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "1RFsBFS4sHI",
+          "title": "तूफान ने दी दस्तक100 से ज्यादा घर तबाह! | CG Bhaskar",
+          "description": "तूफान ने दी दस्तक100 से ज्यादा घर तबाह! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-16T08:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/1RFsBFS4sHI/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 2248,
+          "likes": 70,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "8-XiELtBIuI",
+          "title": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar",
+          "description": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-16T12:00:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/8-XiELtBIuI/hqdefault.jpg",
+          "durationSeconds": 47,
+          "durationFormatted": "00:47",
+          "views": 1718,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "gpwPd3ozZdg",
+          "title": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar",
+          "description": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-16T12:31:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/gpwPd3ozZdg/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 1289,
+          "likes": 44,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
           "index": 4,
-          "videoId": "ed_mobwVScI",
-          "title": "Iran Attack on Israel: ईरान ने तेल अवीव में मचाई तबाही, खौफनाक मंजर! | Tel Aviv Ground Report",
-          "description": "Iran Attack on Israel: ईरान ने तेल अवीव में मचाई तबाही, खौफनाक मंजर! | Tel Aviv Ground Report ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-16T15:17:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/ed_mobwVScI/hqdefault.jpg",
-          "durationSeconds": 294,
-          "durationFormatted": "04:54",
-          "views": 12992,
-          "likes": 335,
+          "videoId": "4ZlhVVCFk7I",
+          "title": "अब Instagram पर चैट करने पर नहीं मिलेगी Privacy! | CG Bhaskar",
+          "description": "अब Instagram पर चैट करने पर नहीं मिलेगी Privacy! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-16T09:00:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/4ZlhVVCFk7I/hqdefault.jpg",
+          "durationSeconds": 55,
+          "durationFormatted": "00:55",
+          "views": 998,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "GgR35MQAuUc",
-          "title": "NDA Won Rajya Sabha Election: 12 बजते ही राज्यसभा चुनाव में NDA की बंपर जीत | Nitish Kumar | Bihar",
-          "description": "NDA Won Rajya Sabha Election: 12 बजते ही राज्यसभा चुनाव में NDA की बंपर जीत | Nitish Kumar ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-16T18:30:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/GgR35MQAuUc/hqdefault.jpg",
-          "durationSeconds": 1268,
-          "durationFormatted": "21:08",
-          "views": 10131,
-          "likes": 143,
+          "videoId": "stuB-Gy1dQY",
+          "title": "मल्टीलेवल पार्किंग में गाड़ियों के पार्ट्स की बेखौफ चोरी | CG Bhaskar",
+          "description": "मल्टीलेवल पार्किंग में गाड़ियों के पार्ट्स की बेखौफ चोरी | CG Bhaskar Join ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-16T10:01:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/stuB-Gy1dQY/hqdefault.jpg",
+          "durationSeconds": 79,
+          "durationFormatted": "01:19",
+          "views": 981,
+          "likes": 48,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-16T19:24:42Z"
+      "latestUpdateAt": "2026-03-16T16:30:30Z"
     },
     {
       "clusterId": "rajya-sabha",
       "topic": "Rajya Sabha",
       "videoCount": 9,
-      "trendScore": 45.1,
+      "trendScore": 44.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qhwJV1r_4Ok/hqdefault.jpg",
           "durationSeconds": 15175,
           "durationFormatted": "04:12:55",
-          "views": 128893,
+          "views": 129001,
           "likes": 400,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y0YBrif462o/hqdefault.jpg",
           "durationSeconds": 14906,
           "durationFormatted": "04:08:26",
-          "views": 42327,
+          "views": 42344,
           "likes": 170,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qm9VgOFRzGI/hqdefault.jpg",
           "durationSeconds": 6596,
           "durationFormatted": "01:49:56",
-          "views": 15250,
+          "views": 15279,
           "likes": 66,
           "videoType": "VOD",
           "genre": "Politics"
@@ -162,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IAdAUbTtD3Y/hqdefault.jpg",
           "durationSeconds": 4730,
           "durationFormatted": "01:18:50",
-          "views": 14428,
+          "views": 14432,
           "likes": 67,
           "videoType": "VOD",
           "genre": "Politics"
@@ -171,94 +255,10 @@
       "latestUpdateAt": "2026-03-16T16:13:10Z"
     },
     {
-      "clusterId": "bhaskar-instagram",
-      "topic": "Bhaskar Instagram",
-      "videoCount": 12,
-      "trendScore": 44.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "8-XiELtBIuI",
-          "title": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar",
-          "description": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-16T12:00:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/8-XiELtBIuI/hqdefault.jpg",
-          "durationSeconds": 47,
-          "durationFormatted": "00:47",
-          "views": 1704,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "gpwPd3ozZdg",
-          "title": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar",
-          "description": "भीषण गर्मी मेंप्यासे बेजुबान| CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-16T12:31:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/gpwPd3ozZdg/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 1235,
-          "likes": 43,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "stuB-Gy1dQY",
-          "title": "मल्टीलेवल पार्किंग में गाड़ियों के पार्ट्स की बेखौफ चोरी | CG Bhaskar",
-          "description": "मल्टीलेवल पार्किंग में गाड़ियों के पार्ट्स की बेखौफ चोरी | CG Bhaskar Join ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-16T10:01:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/stuB-Gy1dQY/hqdefault.jpg",
-          "durationSeconds": 79,
-          "durationFormatted": "01:19",
-          "views": 1003,
-          "likes": 49,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "4ZlhVVCFk7I",
-          "title": "अब Instagram पर चैट करने पर नहीं मिलेगी Privacy! | CG Bhaskar",
-          "description": "अब Instagram पर चैट करने पर नहीं मिलेगी Privacy! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-16T09:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/4ZlhVVCFk7I/hqdefault.jpg",
-          "durationSeconds": 55,
-          "durationFormatted": "00:55",
-          "views": 986,
-          "likes": 31,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "q5IsTGSpXKY",
-          "title": "रसगुल्ला बना मौ.t की वजह! | CG Bhaskar",
-          "description": "रसगुल्ला बना मौ.t की वजह! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-16T11:30:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/q5IsTGSpXKY/hqdefault.jpg",
-          "durationSeconds": 85,
-          "durationFormatted": "01:25",
-          "views": 769,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-16T16:30:30Z"
-    },
-    {
       "clusterId": "tilda-newra",
       "topic": "Tilda Newra",
       "videoCount": 16,
-      "trendScore": 38.0,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nzmZEmFnzbk/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 18,
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -339,94 +339,10 @@
       "latestUpdateAt": "2026-03-16T13:07:11Z"
     },
     {
-      "clusterId": "raipur-chhattisgarh",
-      "topic": "Raipur Chhattisgarh",
-      "videoCount": 8,
-      "trendScore": 35.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "eSaOP0q2D3Y",
-          "title": "17 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "16 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप देख ...",
-          "channelTitle": "Chhattisgarh News Hindi ",
-          "publishedAt": "2026-03-16T13:30:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/eSaOP0q2D3Y/hqdefault.jpg",
-          "durationSeconds": 1516,
-          "durationFormatted": "25:16",
-          "views": 2973,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "aKWoY3r7A10",
-          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
-          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-16T19:16:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/aKWoY3r7A10/hqdefault.jpg",
-          "durationSeconds": 42900,
-          "durationFormatted": "11:55:00",
-          "views": 1914,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "A7UA1sQcowk",
-          "title": "16 March 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
-          "description": "दोस्तों आप देख रहे हैं छत्तीसगढ़ की आज की 25 बड़ी खबरें.",
-          "channelTitle": "द छत्तीसगढ़ समाचार",
-          "publishedAt": "2026-03-15T23:45:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/A7UA1sQcowk/hqdefault.jpg",
-          "durationSeconds": 880,
-          "durationFormatted": "14:40",
-          "views": 1563,
-          "likes": 34,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "H6NrF8jSl64",
-          "title": "17 March 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "16 March 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
-          "channelTitle": "SR Chhattisgarh",
-          "publishedAt": "2026-03-16T00:34:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/H6NrF8jSl64/hqdefault.jpg",
-          "durationSeconds": 1088,
-          "durationFormatted": "18:08",
-          "views": 1385,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "cSzBqgof7wI",
-          "title": "17 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "16 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-03-15T23:30:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/cSzBqgof7wI/hqdefault.jpg",
-          "durationSeconds": 912,
-          "durationFormatted": "15:12",
-          "views": 728,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-16T19:16:16Z"
-    },
-    {
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
       "videoCount": 6,
-      "trendScore": 35.3,
+      "trendScore": 34.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hsO-uu-Rc1M/hqdefault.jpg",
           "durationSeconds": 350,
           "durationFormatted": "05:50",
-          "views": 1211,
+          "views": 1258,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -453,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HU2225O3pNU/hqdefault.jpg",
           "durationSeconds": 296,
           "durationFormatted": "04:56",
-          "views": 598,
-          "likes": 7,
+          "views": 629,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -468,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mSJJ_PfOCEM/hqdefault.jpg",
           "durationSeconds": 605,
           "durationFormatted": "10:05",
-          "views": 270,
+          "views": 294,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -498,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gV-QO_jVvN8/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 31,
+          "views": 70,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -507,10 +423,94 @@
       "latestUpdateAt": "2026-03-16T17:19:06Z"
     },
     {
+      "clusterId": "raipur-chhattisgarh",
+      "topic": "Raipur Chhattisgarh",
+      "videoCount": 7,
+      "trendScore": 32.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "eSaOP0q2D3Y",
+          "title": "17 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "16 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप देख ...",
+          "channelTitle": "Chhattisgarh News Hindi ",
+          "publishedAt": "2026-03-16T13:30:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/eSaOP0q2D3Y/hqdefault.jpg",
+          "durationSeconds": 1516,
+          "durationFormatted": "25:16",
+          "views": 3184,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "A7UA1sQcowk",
+          "title": "16 March 2026 छत्तीसगढ़ की ताजा खबर । CG News । Raipur News Today । Chhattisgarh News Today",
+          "description": "दोस्तों आप देख रहे हैं छत्तीसगढ़ की आज की 25 बड़ी खबरें.",
+          "channelTitle": "द छत्तीसगढ़ समाचार",
+          "publishedAt": "2026-03-15T23:45:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/A7UA1sQcowk/hqdefault.jpg",
+          "durationSeconds": 880,
+          "durationFormatted": "14:40",
+          "views": 1602,
+          "likes": 34,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "H6NrF8jSl64",
+          "title": "17 March 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "16 March 2026 | Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप ...",
+          "channelTitle": "SR Chhattisgarh",
+          "publishedAt": "2026-03-16T00:34:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/H6NrF8jSl64/hqdefault.jpg",
+          "durationSeconds": 1088,
+          "durationFormatted": "18:08",
+          "views": 1423,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "cSzBqgof7wI",
+          "title": "17 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "16 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-03-15T23:30:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/cSzBqgof7wI/hqdefault.jpg",
+          "durationSeconds": 912,
+          "durationFormatted": "15:12",
+          "views": 730,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "gLhFJ_QV6dQ",
+          "title": "🔴LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG",
+          "description": "LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-16T12:19:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/gLhFJ_QV6dQ/hqdefault.jpg",
+          "durationSeconds": 896,
+          "durationFormatted": "14:56",
+          "views": 161,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-16T14:55:38Z"
+    },
+    {
       "clusterId": "मगल-रह",
       "topic": "मुंगेली रहा",
       "videoCount": 4,
-      "trendScore": 27.1,
+      "trendScore": 26.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7HC2IYhxrlM/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 206,
+          "views": 260,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xOomgHhwqDA/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 141,
+          "views": 165,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9KfJoN3xSA0/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 110,
+          "views": 133,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -567,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/b6NId2EeFJs/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 46,
+          "views": 60,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 18.2,
+      "trendScore": 17.5,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9AnaGjuKQwQ/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 51,
+          "views": 54,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
