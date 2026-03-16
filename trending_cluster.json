@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-16T19:19:15.344699Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-03-16T20:55:23.880688Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 98,
-      "trendScore": 62.5,
+      "videoCount": 94,
+      "trendScore": 61.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tvQUvqV-D1s/hqdefault.jpg",
           "durationSeconds": 1645,
           "durationFormatted": "27:25",
-          "views": 37708,
+          "views": 37939,
           "likes": 405,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "h1X1aw5bY8g",
-          "title": "Rajyasabha Election Result Live: बिहार में NDA का परचम लहराया, 5 उम्मीदवारों ने दर्ज की जीत | NItish",
-          "description": "Rajya Sabha Election Voting Result Live : बिहार में एनडीए का परचम लहराया, पांचों ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-16T15:41:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/h1X1aw5bY8g/hqdefault.jpg",
-          "durationSeconds": 8699,
-          "durationFormatted": "02:24:59",
-          "views": 16266,
-          "likes": 102,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "ZqrRrvikDFw",
           "title": "Strait of Hormuz Crisis: क्या एटमी जंग की तरफ बढ़ रही दुनिया?| Donald Trump | China | Germany",
           "description": "Special Report: होर्मुज की लड़ाई.. विश्व युद्ध कराएगी। होर्मुज के लिए एटमी ...",
@@ -48,10 +33,25 @@
           "thumbnail": "https://i.ytimg.com/vi/ZqrRrvikDFw/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 16160,
+          "views": 16329,
           "likes": 86,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "h1X1aw5bY8g",
+          "title": "Rajyasabha Election Result Live: बिहार में NDA का परचम लहराया, 5 उम्मीदवारों ने दर्ज की जीत | NItish",
+          "description": "Rajya Sabha Election Voting Result Live : बिहार में एनडीए का परचम लहराया, पांचों ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-16T15:41:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/h1X1aw5bY8g/hqdefault.jpg",
+          "durationSeconds": 8699,
+          "durationFormatted": "02:24:59",
+          "views": 16285,
+          "likes": 102,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 4,
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/ed_mobwVScI/hqdefault.jpg",
           "durationSeconds": 294,
           "durationFormatted": "04:54",
-          "views": 11300,
-          "likes": 315,
+          "views": 12992,
+          "likes": 335,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "XYa0iI6xmrI",
-          "title": "16 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "16 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-03-16T00:13:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/XYa0iI6xmrI/hqdefault.jpg",
-          "durationSeconds": 498,
-          "durationFormatted": "08:18",
-          "views": 8585,
-          "likes": 125,
+          "videoId": "GgR35MQAuUc",
+          "title": "NDA Won Rajya Sabha Election: 12 बजते ही राज्यसभा चुनाव में NDA की बंपर जीत | Nitish Kumar | Bihar",
+          "description": "NDA Won Rajya Sabha Election: 12 बजते ही राज्यसभा चुनाव में NDA की बंपर जीत | Nitish Kumar ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-16T18:30:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/GgR35MQAuUc/hqdefault.jpg",
+          "durationSeconds": 1268,
+          "durationFormatted": "21:08",
+          "views": 10131,
+          "likes": 143,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-16T19:10:51Z"
+      "latestUpdateAt": "2026-03-16T19:24:42Z"
     },
     {
       "clusterId": "rajya-sabha",
       "topic": "Rajya Sabha",
       "videoCount": 9,
-      "trendScore": 46.1,
+      "trendScore": 45.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qhwJV1r_4Ok/hqdefault.jpg",
           "durationSeconds": 15175,
           "durationFormatted": "04:12:55",
-          "views": 128582,
+          "views": 128893,
           "likes": 400,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QophzASjAJ4/hqdefault.jpg",
           "durationSeconds": 26037,
           "durationFormatted": "07:13:57",
-          "views": 121599,
+          "views": 121647,
           "likes": 392,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y0YBrif462o/hqdefault.jpg",
           "durationSeconds": 14906,
           "durationFormatted": "04:08:26",
-          "views": 42266,
+          "views": 42327,
           "likes": 170,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qm9VgOFRzGI/hqdefault.jpg",
           "durationSeconds": 6596,
           "durationFormatted": "01:49:56",
-          "views": 15112,
-          "likes": 65,
+          "views": 15250,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IAdAUbTtD3Y/hqdefault.jpg",
           "durationSeconds": 4730,
           "durationFormatted": "01:18:50",
-          "views": 14184,
+          "views": 14428,
           "likes": 67,
           "videoType": "VOD",
           "genre": "Politics"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-instagram",
       "topic": "Bhaskar Instagram",
       "videoCount": 12,
-      "trendScore": 44.9,
+      "trendScore": 44.1,
       "topVideos": [
         {
           "index": 1,
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gpwPd3ozZdg/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 1054,
-          "likes": 42,
+          "views": 1235,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/stuB-Gy1dQY/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 953,
-          "likes": 46,
+          "views": 1003,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,22 +231,22 @@
           "thumbnail": "https://i.ytimg.com/vi/4ZlhVVCFk7I/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 910,
-          "likes": 28,
+          "views": 986,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "6_EiqWcTXkI",
-          "title": "महिला को डराने पर रोबोट गिरफ्तार! | CG Bhaskar",
-          "description": "महिला को डराने पर रोबोट गिरफ्तार! | CG Bhaskar Join our Whatsapp Group ...",
+          "videoId": "q5IsTGSpXKY",
+          "title": "रसगुल्ला बना मौ.t की वजह! | CG Bhaskar",
+          "description": "रसगुल्ला बना मौ.t की वजह! | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-16T10:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/6_EiqWcTXkI/hqdefault.jpg",
-          "durationSeconds": 79,
-          "durationFormatted": "01:19",
-          "views": 723,
+          "publishedAt": "2026-03-16T11:30:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/q5IsTGSpXKY/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 769,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "tilda-newra",
       "topic": "Tilda Newra",
       "videoCount": 16,
-      "trendScore": 38.8,
+      "trendScore": 38.0,
       "topVideos": [
         {
           "index": 1,
@@ -285,13 +285,28 @@
           "thumbnail": "https://i.ytimg.com/vi/BRMH9ydpffs/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 104,
+          "views": 105,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "uhntKweMack",
+          "title": "दुर्ग - ग्राम थनोद में भारतमाला अंडरब्रिज को लेकर सड़क जाम ,ग्रामीणों का विरोध",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-16T11:29:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/uhntKweMack/hqdefault.jpg",
+          "durationSeconds": 175,
+          "durationFormatted": "02:55",
+          "views": 27,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
           "videoId": "xwDb6SkW0f4",
           "title": "दुर्ग पुलिस की कार्रवाई- एनडीपीएस एक्ट के तहत मादक पदार्थों का वैधानिक नष्टीकरण",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -300,13 +315,13 @@
           "thumbnail": "https://i.ytimg.com/vi/xwDb6SkW0f4/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 20,
+          "views": 22,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "nzmZEmFnzbk",
           "title": "मोहला मानपुर में नक्सली कैंप पर पुलिस का छापा ,हिड़मे मरकाम की राइफल बरामद",
           "description": "chhattisgarhnews #madhyapradehnews #mohlamanpurchowki .",
@@ -319,30 +334,15 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "8ONkg16_4Bg",
-          "title": "Bhilai: मां शारदा समर्थ ट्रस्ट द्वारा महिला सम्मान समारोह और न्यू आइडिया कॉन्क्लेव का हुआ आयोजन",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilai .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-16T10:11:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/8ONkg16_4Bg/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-16T13:07:11Z"
     },
     {
-      "clusterId": "chhattisgarh-raipur",
-      "topic": "Chhattisgarh Raipur",
-      "videoCount": 10,
-      "trendScore": 38.6,
+      "clusterId": "raipur-chhattisgarh",
+      "topic": "Raipur Chhattisgarh",
+      "videoCount": 8,
+      "trendScore": 35.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eSaOP0q2D3Y/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 2727,
+          "views": 2973,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aKWoY3r7A10/hqdefault.jpg",
           "durationSeconds": 42900,
           "durationFormatted": "11:55:00",
-          "views": 1826,
+          "views": 1914,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -399,23 +399,23 @@
           "thumbnail": "https://i.ytimg.com/vi/H6NrF8jSl64/hqdefault.jpg",
           "durationSeconds": 1088,
           "durationFormatted": "18:08",
-          "views": 1377,
+          "views": 1385,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "rgSanejiNMU",
-          "title": "Kanker में सुरक्षाबलों को बड़ी कामयाबी, Naxalites Improvised Explosive Device ध्वस्त | Chhattisgarh",
-          "description": "छत्तीसगढ़ के कांकेर जिले से सुरक्षाबलों की बड़ी सफलता की खबर सामने ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-16T05:41:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/rgSanejiNMU/hqdefault.jpg",
-          "durationSeconds": 231,
-          "durationFormatted": "03:51",
-          "views": 789,
-          "likes": 25,
+          "videoId": "cSzBqgof7wI",
+          "title": "17 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "16 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-03-15T23:30:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/cSzBqgof7wI/hqdefault.jpg",
+          "durationSeconds": 912,
+          "durationFormatted": "15:12",
+          "views": 728,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -425,26 +425,11 @@
     {
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
-      "videoCount": 7,
-      "trendScore": 36.8,
+      "videoCount": 6,
+      "trendScore": 35.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "-9tPy8Cm3Do",
-          "title": "Mahakumbh Viral Girl Monalisa Marriage Controversy: हनी के साथ मोना रॉक..फैमिली को लगा शॉक। देखिए..",
-          "description": "IBC24, Mahakumbh Viral Girl Monalisa Marriage Controversy: हनी के साथ मोना रॉक..फैमिली को लगा ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-16T17:26:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/-9tPy8Cm3Do/hqdefault.jpg",
-          "durationSeconds": 647,
-          "durationFormatted": "10:47",
-          "views": 2172,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "hsO-uu-Rc1M",
           "title": "Seedhe Mudde Ki Baat: मोनालिसा खुश हैं... परिवार में मातम है | Monalisa Marriage Controversy",
           "description": "Seedhe Mudde Ki Baat: मोनालिसा खुश हैं... परिवार में मातम है | Monalisa Marriage Controversy ...",
@@ -453,13 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/hsO-uu-Rc1M/hqdefault.jpg",
           "durationSeconds": 350,
           "durationFormatted": "05:50",
-          "views": 871,
+          "views": 1211,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "HU2225O3pNU",
           "title": "Seedhe Mudde Ki Baat: दिग्विजय-जीतू नहीं जाएंगे तो कौन राज्यसभा जाएगा? | Rajyasabha Election",
           "description": "Seedhe Mudde Ki Baat: दिग्विजय-जीतू नहीं जाएंगे तो कौन राज्यसभा जाएगा?",
@@ -468,13 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/HU2225O3pNU/hqdefault.jpg",
           "durationSeconds": 296,
           "durationFormatted": "04:56",
-          "views": 431,
-          "likes": 6,
+          "views": 598,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "mSJJ_PfOCEM",
           "title": "Seedhe Mudde Ki Baat: बादशाह और नोरा फतेही पर बवाल क्यों मचा है? | Badshah Song | Nora Fatehi",
           "description": "Seedhe Mudde Ki Baat: बादशाह और नोरा फतेही पर बवाल क्यों मचा है? | Badshah Song | Nora ...",
@@ -483,13 +468,13 @@
           "thumbnail": "https://i.ytimg.com/vi/mSJJ_PfOCEM/hqdefault.jpg",
           "durationSeconds": 605,
           "durationFormatted": "10:05",
-          "views": 202,
-          "likes": 9,
+          "views": 270,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "QaCodpNyc88",
           "title": "Seedhe Mudde Ki Baat: कहीं आपका फ्रिज ब्लास्ट तो नहीं हो जाएगा? | Fridge Blast | Refridgerators",
           "description": "Seedhe Mudde Ki Baat: कहीं आपका फ्रिज ब्लास्ट तो नहीं हो जाएगा? | Fridge Blast ...",
@@ -498,52 +483,37 @@
           "thumbnail": "https://i.ytimg.com/vi/QaCodpNyc88/hqdefault.jpg",
           "durationSeconds": 401,
           "durationFormatted": "06:41",
-          "views": 157,
+          "views": 220,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "gV-QO_jVvN8",
+          "title": "Breaking: मोनालिसा की शादी के खिलाफ कोर्ट जायेंगे डायरेक्टर सनोज | Monalisa Marriage Controversy",
+          "description": "Breaking: मोनालिसा की शादी के खिलाफ कोर्ट जायेंगे डायरेक्टर सनोज | Monalisa ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-16T17:19:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/gV-QO_jVvN8/hqdefault.jpg",
+          "durationSeconds": 101,
+          "durationFormatted": "01:41",
+          "views": 31,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-03-16T17:26:06Z"
+      "latestUpdateAt": "2026-03-16T17:19:06Z"
     },
     {
-      "clusterId": "मगल-लरम",
-      "topic": "मुंगेली लोरमी",
-      "videoCount": 6,
-      "trendScore": 31.1,
+      "clusterId": "मगल-रह",
+      "topic": "मुंगेली रहा",
+      "videoCount": 4,
+      "trendScore": 27.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "FsTKcLVPsIs",
-          "title": "अरुण साव ने बताया किससे है उनकी सबसे अच्छी दोस्ती ?",
-          "description": "अरुण साव ने बताया किससे है उनकी सबसे अच्छी दोस्ती ? #inh24x7news #Samvad2026 ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-03-16T09:14:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/FsTKcLVPsIs/hqdefault.jpg",
-          "durationSeconds": 106,
-          "durationFormatted": "01:46",
-          "views": 826,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "yx5KdTIN0bY",
-          "title": "लोरमी में कृषि महाविद्यालय कब तक बन जाएगा ?",
-          "description": "लोरमी में कृषि महाविद्यालय कब तक बन जाएगा ? #inh24x7news #Samvad2026 ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-03-16T09:12:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/yx5KdTIN0bY/hqdefault.jpg",
-          "durationSeconds": 110,
-          "durationFormatted": "01:50",
-          "views": 326,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "7HC2IYhxrlM",
           "title": "मुंगेली जिले में कलेक्टर का अनुभव कैसा रहा?",
           "description": "मुंगेली जिले में कलेक्टर का अनुभव कैसा रहा? #inh24x7news #Samvad2026 ...",
@@ -558,7 +528,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 2,
           "videoId": "xOomgHhwqDA",
           "title": "कहां ज्यादा अच्छा काम हो रहा है, मुंगेली या लोरमी ?",
           "description": "कहां ज्यादा अच्छा काम हो रहा है, मुंगेली या लोरमी ? #inh24x7news #Samvad2026 ...",
@@ -573,7 +543,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "9KfJoN3xSA0",
           "title": "मुंगेली में विकास की रफ्तार कैसी चल रही है?",
           "description": "मुंगेली में विकास की रफ्तार कैसी चल रही है? #inh24x7news #Samvad2026 ...",
@@ -582,7 +552,22 @@
           "thumbnail": "https://i.ytimg.com/vi/9KfJoN3xSA0/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 108,
+          "views": 110,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "b6NId2EeFJs",
+          "title": "मुंगेली में कैसी हैं स्वास्थ्य और शिक्षा सुविधाएं ?",
+          "description": "मुंगेली में कैसी हैं स्वास्थ्य और शिक्षा सुविधाएं ? #inh24x7news #Samvad2026 ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-16T13:11:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/b6NId2EeFJs/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 46,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -594,7 +579,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 19.0,
+      "trendScore": 18.2,
       "topVideos": [
         {
           "index": 1,
@@ -606,37 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/9AnaGjuKQwQ/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 50,
+          "views": 51,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-16T11:54:33Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 15.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "MyhnHGmIDIs",
-          "title": "महासमुंद के प्रमुख मंदिरों में नवरात्रि की तैयारी ,सुरक्षा और सुविधाओं पर प्रशासन अलर्ट",
-          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-16T06:40:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/MyhnHGmIDIs/hqdefault.jpg",
-          "durationSeconds": 57,
-          "durationFormatted": "00:57",
-          "views": 27,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-16T06:40:34Z"
     }
   ]
 }
