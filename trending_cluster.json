@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-03-17T05:35:57.476451Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-03-17T07:18:08.203293Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 91,
-      "trendScore": 60.1,
+      "videoCount": 87,
+      "trendScore": 60.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "5Yq6J6To-nU",
-          "title": "Rajya Sabha Election Results Live Update : बिहार राज्यसभा चुनाव में NDA की प्रचंड जीत | Nitish Kumar",
-          "description": "Rajya Sabha Election Results Live Update : बिहार राज्यसभा चुनाव में NDA की प्रचंड जीत ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T03:13:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/5Yq6J6To-nU/hqdefault.jpg",
-          "durationSeconds": 42901,
-          "durationFormatted": "11:55:01",
-          "views": 37895,
-          "likes": 185,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "xCPF0Fl-nHo",
           "title": "17 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
           "description": "17 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
@@ -33,13 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/xCPF0Fl-nHo/hqdefault.jpg",
           "durationSeconds": 1668,
           "durationFormatted": "27:48",
-          "views": 19077,
-          "likes": 285,
+          "views": 23862,
+          "likes": 302,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "177FcOqFWok",
           "title": "&#39;मोनालिसा-फरमान की शादी गैर-कानूनी&#39;...  विवाद में सुप्रीम कोर्ट वकील नाजिया खान की एंट्री",
           "description": "सुप्रीम कोर्ट वकील नाजिया खान ने कहा- यह शादी कानूनी रूप से अमान्य है ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/177FcOqFWok/hqdefault.jpg",
           "durationSeconds": 340,
           "durationFormatted": "05:40",
-          "views": 8697,
-          "likes": 137,
+          "views": 13430,
+          "likes": 186,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "sj5jqRZzOfo",
           "title": "CG में दोबारा होगी  12वीं की बोर्ड परीक्षा ? CG Board Exam 2026 || Ground Report ||",
           "description": "thihachhattisgarh #cgvideo #ytshorts #breakingnews #breakingnews #cgnews #cgvideo #nsui.",
@@ -63,10 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/sj5jqRZzOfo/hqdefault.jpg",
           "durationSeconds": 810,
           "durationFormatted": "13:30",
-          "views": 8491,
-          "likes": 204,
+          "views": 12761,
+          "likes": 251,
           "videoType": "VOD",
           "genre": "Jobs"
+        },
+        {
+          "index": 4,
+          "videoId": "zy2F77z8ZaI",
+          "title": "Bhilai Camp 2 Sonkar Mohalla और Gaffar Mohalla के बीच ये हुआ Ground Report Seemant Kashyap  KP News ",
+          "description": "Bhilai #BhilaiNews #ChhattisgarhNews #GroundReport #BreakingNews #LocalNews #NewsUpdate #IndiaNews #ViralNews ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-03-16T22:32:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/zy2F77z8ZaI/hqdefault.jpg",
+          "durationSeconds": 543,
+          "durationFormatted": "09:03",
+          "views": 10290,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/HP1tc8BPz3U/hqdefault.jpg",
           "durationSeconds": 42899,
           "durationFormatted": "11:54:59",
-          "views": 8355,
+          "views": 8440,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-17T05:07:31Z"
+      "latestUpdateAt": "2026-03-17T07:13:27Z"
     },
     {
       "clusterId": "bhaskar-गरम",
       "topic": "Bhaskar गर्मी",
       "videoCount": 12,
-      "trendScore": 41.4,
+      "trendScore": 41.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gpwPd3ozZdg/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 1739,
-          "likes": 66,
+          "views": 1935,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8-XiELtBIuI/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 1722,
+          "views": 1727,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/stuB-Gy1dQY/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 1142,
-          "likes": 56,
+          "views": 1182,
+          "likes": 57,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/q5IsTGSpXKY/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 916,
-          "likes": 28,
+          "views": 954,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uEpoYjpkKkk/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 852,
+          "views": 855,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -171,10 +171,178 @@
       "latestUpdateAt": "2026-03-17T03:30:17Z"
     },
     {
+      "clusterId": "monalisa-boyfriend",
+      "topic": "Monalisa Boyfriend",
+      "videoCount": 5,
+      "trendScore": 39.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "nTC04yXaePo",
+          "title": "Monalisa Marriage Viral: बुआ के बेटे से शादी पर मोनालिसा ने सबको चौंकाया | Monalisa boyfriend Farman",
+          "description": "Monalisa Marriage Viral : बुआ के बेटे से शादी पर मोनालिसा ने सबको चौंकाया! | Monalisa ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T06:39:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/nTC04yXaePo/hqdefault.jpg",
+          "durationSeconds": 7,
+          "durationFormatted": "00:07",
+          "views": 15807,
+          "likes": 42,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "LACSVM6uytQ",
+          "title": "Monalisa के Boyfriend Farman ने हिंदू देवी देवताओं का अपमान किया !",
+          "description": "Monalisa के Boyfriend Farman ने हिंदू देवी देवताओं का अपमान किया ! . . #monalisa #farman For ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T05:47:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/LACSVM6uytQ/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 14537,
+          "likes": 238,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "wojOR9RNoWc",
+          "title": "Mahakumbh Viral Girl Monalisa Marriage Controversy: हनी के साथ मोना रॉक..फैमिली को लगा शॉक। देखिए..",
+          "description": "IBC24, Mahakumbh Viral Girl Monalisa Marriage Controversy: हनी के साथ मोना रॉक..फैमिली को लगा ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-17T01:43:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/wojOR9RNoWc/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 3825,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 4,
+          "videoId": "ASilDpAWAVU",
+          "title": "Monalisa Marriage Viral Video : मोनालिसा ने बताया, पिता नाराज क्यों हैं? | Monalisa boyfriend Farman",
+          "description": "Monalisa Marriage Viral Video : मोनालिसा ने बताया, पिताजी नाराज क्यों हैं? | Monalisa ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T06:50:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/ASilDpAWAVU/hqdefault.jpg",
+          "durationSeconds": 6,
+          "durationFormatted": "00:06",
+          "views": 1237,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "e3Dsrif8vcE",
+          "title": "Monalisa Marriage Controversy : मोनालिसा की शादी पर उठे सवाल, यूपी-एमपी में FIR की तैयारी | Breaking",
+          "description": "Monalisa Marriage Controversy : मोनालिसा की शादी पर सवाल, वकील नाजिया खान ने उठाए ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-17T05:22:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/e3Dsrif8vcE/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 658,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-03-17T06:50:16Z"
+    },
+    {
+      "clusterId": "इटरयर-सजन",
+      "topic": "इंटीरियर सजाना",
+      "videoCount": 5,
+      "trendScore": 36.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "pB1qj3hz6s4",
+          "title": "घर सजाना चाहते हैं तो देसी इंटीरियर में आपको इंटीरियर के ढेर सारे प्रोडक्ट होलसेल रेट में मिलेंगे.",
+          "description": "घर सजाना चाहते हैं तो देसी इंटीरियर में आपको इंटीरियर के ढेर सारे ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-03-16T13:29:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/pB1qj3hz6s4/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 7153,
+          "likes": 152,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "cJhBBICbc9s",
+          "title": "चुनाव के समय जो पार्टी आपको लालच दे वो कभी आपके हित में काम नहीं करेगी,,",
+          "description": "",
+          "channelTitle": "SABKA SANDESH NEWS",
+          "publishedAt": "2026-03-16T18:59:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/cJhBBICbc9s/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 164,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "mEQSOkRD5E4",
+          "title": "Gwalior News : 2 नदियों और 5 तालाबों पर कब्जा। कब्जा हटाने के लिए 3 दिन का दिया गया समय",
+          "description": "IBC24, Gwalior News : 2 नदियों और 5 तालाबों पर कब्जा। कब्जा हटाने के लिए 3 दिन का ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-17T05:56:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/mEQSOkRD5E4/hqdefault.jpg",
+          "durationSeconds": 259,
+          "durationFormatted": "04:19",
+          "views": 39,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "5rXa_l-PFvY",
+          "title": "Gwalior Fire News: टेंट हाउस गोदाम में भीषण आग, लाखों का सामान जलकर खाक | Top Breaking News | Latest",
+          "description": "Gwalior Fire News: टेंट हाउस गोदाम में भीषण आग, लाखों का सामान जलकर खाक | Top ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-17T04:55:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/5rXa_l-PFvY/hqdefault.jpg",
+          "durationSeconds": 288,
+          "durationFormatted": "04:48",
+          "views": 21,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "Vk2YHYhUcnM",
+          "title": "Gwalior Fire News : टेंट हाउस गोदाम में लगी भीषण आग। फायर ब्रिगेड की टीम ने आग पर पाया काबू",
+          "description": "IBC24, Gwalior Fire News : टेंट हाउस गोदाम में लगी भीषण आग। फायर ब्रिगेड की टीम ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-17T07:00:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/Vk2YHYhUcnM/hqdefault.jpg",
+          "durationSeconds": 91,
+          "durationFormatted": "01:31",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-03-17T07:00:11Z"
+    },
+    {
       "clusterId": "chhattisgarh-march",
       "topic": "Chhattisgarh March",
-      "videoCount": 9,
-      "trendScore": 38.5,
+      "videoCount": 5,
+      "trendScore": 34.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eSaOP0q2D3Y/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 20374,
-          "likes": 81,
+          "views": 23941,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/cu1sd1BpO2A/hqdefault.jpg",
           "durationSeconds": 1577,
           "durationFormatted": "26:17",
-          "views": 3637,
-          "likes": 102,
+          "views": 5450,
+          "likes": 121,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c24QgRO8_kE/hqdefault.jpg",
           "durationSeconds": 1019,
           "durationFormatted": "16:59",
-          "views": 171,
+          "views": 215,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -238,27 +406,27 @@
         },
         {
           "index": 5,
-          "videoId": "gLhFJ_QV6dQ",
-          "title": "🔴LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG",
-          "description": "LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-16T12:19:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/gLhFJ_QV6dQ/hqdefault.jpg",
-          "durationSeconds": 896,
-          "durationFormatted": "14:56",
-          "views": 169,
-          "likes": 3,
+          "videoId": "g70KpO9jVCQ",
+          "title": "छत्तीसगढ़ी म देखव छत्तीसगढ़ के जम्मो खबर | खबर संझा | CG Latest News | Today News | Trending News",
+          "description": "छत्तीसगढ़ी म देखव छत्तीसगढ़ के जम्मो खबर | खबर संझा | CG Latest News | Today News ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-16T14:38:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/g70KpO9jVCQ/hqdefault.jpg",
+          "durationSeconds": 1040,
+          "durationFormatted": "17:20",
+          "views": 67,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-17T02:55:48Z"
+      "latestUpdateAt": "2026-03-17T02:03:38Z"
     },
     {
       "clusterId": "xpress-फरज",
       "topic": "Xpress फ्रीज",
       "videoCount": 4,
-      "trendScore": 35.2,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/gubsOWtMVlo/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 3082,
-          "likes": 49,
+          "views": 3262,
+          "likes": 54,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "TFfLdbqTn64",
-          "title": "महासमुंद - कार से 75 लाख रुपए बरामद, जप्त किया गया रकमChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-17T03:38:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/TFfLdbqTn64/hqdefault.jpg",
-          "durationSeconds": 102,
-          "durationFormatted": "01:42",
-          "views": 115,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "73fmzTxEovg",
           "title": "छत्तीसगढ़ - तेज हवा, बारिश के साथ गिरे बर्फChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -300,8 +453,23 @@
           "thumbnail": "https://i.ytimg.com/vi/73fmzTxEovg/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 60,
-          "likes": 3,
+          "views": 180,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "TFfLdbqTn64",
+          "title": "महासमुंद - कार से 75 लाख रुपए बरामद, जप्त किया गया रकमChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-17T03:38:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/TFfLdbqTn64/hqdefault.jpg",
+          "durationSeconds": 102,
+          "durationFormatted": "01:42",
+          "views": 163,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FiBjLgk5WZs/hqdefault.jpg",
           "durationSeconds": 219,
           "durationFormatted": "03:39",
-          "views": 36,
-          "likes": 4,
+          "views": 44,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -324,82 +492,28 @@
       "latestUpdateAt": "2026-03-17T05:13:16Z"
     },
     {
-      "clusterId": "rashifal-march",
-      "topic": "Rashifal March",
-      "videoCount": 4,
-      "trendScore": 32.1,
+      "clusterId": "पलस-सलडर",
+      "topic": "पुलिस सिलेंडर",
+      "videoCount": 14,
+      "trendScore": 32.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "61nmJ7HqkR0",
-          "title": "Aaj Ka Rashifal 17 March 2026:आज इन राशियों पर मेहरबान हैं सितारे! बाकी रहें सावधान |Today Horoscope",
-          "description": "IBC24, Aaj Ka Rashifal 17 March 2026:आज इन राशियों पर मेहरबान हैं सितारे! बाकी रहें ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-17T04:47:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/61nmJ7HqkR0/hqdefault.jpg",
-          "durationSeconds": 197,
-          "durationFormatted": "03:17",
-          "views": 881,
+          "videoId": "nzmZEmFnzbk",
+          "title": "मोहला मानपुर में नक्सली कैंप पर पुलिस का छापा ,हिड़मे मरकाम की राइफल बरामद",
+          "description": "chhattisgarhnews #madhyapradehnews #mohlamanpurchowki .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-16T11:58:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/nzmZEmFnzbk/hqdefault.jpg",
+          "durationSeconds": 100,
+          "durationFormatted": "01:40",
+          "views": 147,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "o9yDRsGDfI8",
-          "title": "Pakistan Attack On Afghanistan : पाकिस्तान का काबुल के अस्पताल पर बड़ा हमला, 400 लोगों की मौत",
-          "description": "Welcome to Vistaar News – your premier destination for trustworthy news coverage. Stay informed with Vistaar News, the ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-17T03:04:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/o9yDRsGDfI8/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 96,
-          "likes": 3,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 3,
-          "videoId": "NsSomu0HaOs",
-          "title": "Aapka Bhagya LIVE :आज का दिन इन राशियों के लिए बहुत खास.. | Horoscope | 17 March 2026 | Rashifal",
-          "description": "Aapka Bhagya LIVE :आज का दिन इन राशियों के लिए बहुत खास.. | Horoscope | 17 March 2026 | Rashifal ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-17T01:43:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/NsSomu0HaOs/hqdefault.jpg",
-          "durationSeconds": 5750,
-          "durationFormatted": "01:35:50",
-          "views": 81,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "aQHtjoVSozA",
-          "title": "Aapka Bhagya : आज का दिन इन राशियों के लिए बहुत खास.. | Horoscope | 17 March 2026 | Rashifal",
-          "description": "Welcome to Vistaar News – your premier destination for trustworthy news coverage. Stay informed with Vistaar News, the ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-17T03:39:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/aQHtjoVSozA/hqdefault.jpg",
-          "durationSeconds": 1280,
-          "durationFormatted": "21:20",
-          "views": 39,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-17T04:47:51Z"
-    },
-    {
-      "clusterId": "दरग-पलस",
-      "topic": "दुर्ग पुलिस",
-      "videoCount": 15,
-      "trendScore": 31.6,
-      "topVideos": [
-        {
-          "index": 1,
+          "index": 2,
           "videoId": "fAI7Eb3P9gM",
           "title": "गरियाबंद ब्रेकिंग: गैस सिलेंडर किल्लत के विरोध में कांग्रेस का प्रदर्शन , सिलेंडर की निकाली अर्थी",
           "description": "chhattisgarhnews #madhyapradehnews #breakingnews .",
@@ -414,37 +528,7 @@
           "genre": "Civic"
         },
         {
-          "index": 2,
-          "videoId": "nzmZEmFnzbk",
-          "title": "मोहला मानपुर में नक्सली कैंप पर पुलिस का छापा ,हिड़मे मरकाम की राइफल बरामद",
-          "description": "chhattisgarhnews #madhyapradehnews #mohlamanpurchowki .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-16T11:58:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/nzmZEmFnzbk/hqdefault.jpg",
-          "durationSeconds": 100,
-          "durationFormatted": "01:40",
-          "views": 38,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
           "index": 3,
-          "videoId": "dYJCChOB5FY",
-          "title": "रायगढ़ में मोबाइल शॉप से 16 iPhone चोरी का खुलासा, आरोपी रायपुर से गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #raigarh .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-16T10:48:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/dYJCChOB5FY/hqdefault.jpg",
-          "durationSeconds": 123,
-          "durationFormatted": "02:03",
-          "views": 34,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "uhntKweMack",
           "title": "दुर्ग - ग्राम थनोद में भारतमाला अंडरब्रिज को लेकर सड़क जाम ,ग्रामीणों का विरोध",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -453,13 +537,13 @@
           "thumbnail": "https://i.ytimg.com/vi/uhntKweMack/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 33,
+          "views": 35,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "xwDb6SkW0f4",
           "title": "दुर्ग पुलिस की कार्रवाई- एनडीपीएस एक्ट के तहत मादक पदार्थों का वैधानिक नष्टीकरण",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -472,39 +556,99 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-16T12:32:10Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 29.3,
-      "topVideos": [
+        },
         {
-          "index": 1,
-          "videoId": "HEAZw3w6LXw",
-          "title": "राजनांदगांव में मोतीपुर मार्ग पर अवैध कब्जों पर कार्रवाई ,नवरात्रि से पहले रास्ते खाली",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "index": 5,
+          "videoId": "dYJCChOB5FY",
+          "title": "रायगढ़ में मोबाइल शॉप से 16 iPhone चोरी का खुलासा, आरोपी रायपुर से गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #raigarh .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-16T13:06:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/HEAZw3w6LXw/hqdefault.jpg",
-          "durationSeconds": 189,
-          "durationFormatted": "03:09",
-          "views": 26,
-          "likes": 2,
+          "publishedAt": "2026-03-16T10:48:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/dYJCChOB5FY/hqdefault.jpg",
+          "durationSeconds": 123,
+          "durationFormatted": "02:03",
+          "views": 23,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-16T13:06:24Z"
+      "latestUpdateAt": "2026-03-17T07:12:10Z"
+    },
+    {
+      "clusterId": "tmc-अफसर",
+      "topic": "TMC अफसरों",
+      "videoCount": 4,
+      "trendScore": 30.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "izm9ewh1UYo",
+          "title": "TMC की तैयारियों को कितना बड़ा झटका लगा?",
+          "description": "TMC की तैयारियों को कितना बड़ा झटका लगा? #WestBengalElections #MamataBanerjee ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-17T05:31:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/izm9ewh1UYo/hqdefault.jpg",
+          "durationSeconds": 135,
+          "durationFormatted": "02:15",
+          "views": 367,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "J5DekqWqrks",
+          "title": "अफसरों के तबादलों पर TMC ने क्या कहा ?",
+          "description": "अफसरों के तबादलों पर TMC ने क्या कहा ? #WestBengalElections #MamataBanerjee ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-17T05:41:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/J5DekqWqrks/hqdefault.jpg",
+          "durationSeconds": 101,
+          "durationFormatted": "01:41",
+          "views": 295,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "zh2YpFojaR8",
+          "title": "चुनावी आगाज, अफसरों पर गाज !",
+          "description": "चुनावी आगाज, अफसरों पर गाज ! #WestBengalElections #MamataBanerjee #AssemblyElections2026 ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-17T04:48:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/zh2YpFojaR8/hqdefault.jpg",
+          "durationSeconds": 139,
+          "durationFormatted": "02:19",
+          "views": 159,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "cJZkq1IiokU",
+          "title": "ममता के दुलारे, नप गए अफसर बेचारे !",
+          "description": "ममता के दुलारे, नप गए अफसर बेचारे ! #WestBengalElections #MamataBanerjee ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-17T06:16:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/cJZkq1IiokU/hqdefault.jpg",
+          "durationSeconds": 78,
+          "durationFormatted": "01:18",
+          "views": 56,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-17T06:16:53Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 27.9,
+      "trendScore": 27.8,
       "topVideos": [
         {
           "index": 1,
@@ -516,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v5uh2WoNKqQ/hqdefault.jpg",
           "durationSeconds": 10,
           "durationFormatted": "00:10",
-          "views": 3803,
+          "views": 5515,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -531,13 +675,37 @@
           "thumbnail": "https://i.ytimg.com/vi/9AnaGjuKQwQ/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 71,
+          "views": 81,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-17T04:30:38Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 26.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "HEAZw3w6LXw",
+          "title": "राजनांदगांव में मोतीपुर मार्ग पर अवैध कब्जों पर कार्रवाई ,नवरात्रि से पहले रास्ते खाली",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-16T13:06:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/HEAZw3w6LXw/hqdefault.jpg",
+          "durationSeconds": 189,
+          "durationFormatted": "03:09",
+          "views": 32,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-16T13:06:24Z"
     }
   ]
 }
