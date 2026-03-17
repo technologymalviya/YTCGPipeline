@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-17T20:54:44.523307Z",
+  "generatedAt": "2026-03-17T22:50:38.981565Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 96,
-      "trendScore": 62.8,
+      "videoCount": 93,
+      "trendScore": 62.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nDTppHVxtJw/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 208046,
-          "likes": 833,
+          "views": 226914,
+          "likes": 861,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/xCPF0Fl-nHo/hqdefault.jpg",
           "durationSeconds": 1668,
           "durationFormatted": "27:48",
-          "views": 36462,
+          "views": 36483,
           "likes": 357,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "zy2F77z8ZaI",
-          "title": "Bhilai Camp 2 Sonkar Mohalla और Gaffar Mohalla के बीच ये हुआ Ground Report Seemant Kashyap  KP News ",
-          "description": "Bhilai #BhilaiNews #ChhattisgarhNews #GroundReport #BreakingNews #LocalNews #NewsUpdate #IndiaNews #ViralNews ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-03-16T22:32:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/zy2F77z8ZaI/hqdefault.jpg",
-          "durationSeconds": 543,
-          "durationFormatted": "09:03",
-          "views": 23695,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "_BQ8KrTQcEU",
           "title": "Kuldeep Yadav ने CM Yogi Adityanath के छुए पैर #kuldeepyadav #cmyogi | Kuldeep Yadav Wedding",
           "description": "Kuldeep Yadav ने CM Yogi Adityanath के छुए पैर #kuldeepyadav #cmyogi | Kuldeep Yadav Wedding #kuldeepyadav ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/_BQ8KrTQcEU/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 19147,
-          "likes": 133,
+          "views": 20659,
+          "likes": 138,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "sNJn194v82k",
           "title": "CM Yogi in Kuldeep Yadav Wedding: CM योगी ने बच्चे को दी चॉकलेट #cmyogi #kuldeepyadavwedding",
           "description": "CM Yogi in Kuldeep Yadav Wedding: CM योगी ने बच्चे को दी चॉकलेट #cmyogi #kuldeepyadavwedding For ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/sNJn194v82k/hqdefault.jpg",
           "durationSeconds": 12,
           "durationFormatted": "00:12",
-          "views": 18697,
+          "views": 19769,
           "likes": 149,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "6-2Lg3-TTy4",
+          "title": "NSUI के कार्यकर्ता बोले | अफीम की खेती को लीगल करे साय सरकार | @tirandaj",
+          "description": "nsui #afeemkheti #chhattisgarhpolitics #saisarkar #farmersIssue #bonusdemand #kisansamachar #bilaspurnews ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-03-17T12:07:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/6-2Lg3-TTy4/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 16753,
+          "likes": 480,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-17T19:33:27Z"
     },
     {
-      "clusterId": "bhaskar-camp",
-      "topic": "Bhaskar Camp",
+      "clusterId": "bhaskar-raid",
+      "topic": "Bhaskar Raid",
       "videoCount": 11,
-      "trendScore": 41.9,
+      "trendScore": 41.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9nDfuVOOi-0/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 2660,
+          "views": 2832,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/fby-yG2Kl0g/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 1795,
+          "views": 1812,
           "likes": 69,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "SJ1DzYaWCn8",
-          "title": "Camp 2 में क्यों हुआ बवाल? ये है असली सच्चाई",
-          "description": "Camp 2 में क्यों हुआ बवाल? ये है असली सच्चाई Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-17T13:30:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/SJ1DzYaWCn8/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 1001,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "WkmkSvnyQS0",
           "title": "दुर्ग पुलिस ने मारी Raid, 13 पकड़ाए | CG Bhaskar",
           "description": "दुर्ग पुलिस ने मारी Raid, 13 पकड़ाए | CG Bhaskar Join our Whatsapp Group ...",
@@ -147,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/WkmkSvnyQS0/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 941,
+          "views": 1024,
           "likes": 23,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "SJ1DzYaWCn8",
+          "title": "Camp 2 में क्यों हुआ बवाल? ये है असली सच्चाई",
+          "description": "Camp 2 में क्यों हुआ बवाल? ये है असली सच्चाई Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-17T13:30:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/SJ1DzYaWCn8/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 1008,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WOlA6MspmXM/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 692,
+          "views": 736,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -171,10 +171,163 @@
       "latestUpdateAt": "2026-03-17T18:19:52Z"
     },
     {
+      "clusterId": "दरग-hpv",
+      "topic": "दुर्ग HPV",
+      "videoCount": 19,
+      "trendScore": 39.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "UziaWAc4MuM",
+          "title": "दुर्ग निगम बजट सभा में पार्षदों का आक्रोश, अधिकारियों से तीखी बहस",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:48:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/UziaWAc4MuM/hqdefault.jpg",
+          "durationSeconds": 260,
+          "durationFormatted": "04:20",
+          "views": 67,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "4k7T0rrF9BM",
+          "title": "महासमुंद में 5 वर्षीय बालक की मौ.T, डीपीटी टीका लगने के बाद लापरवाही का आरोप",
+          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:18:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/4k7T0rrF9BM/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 64,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "-n1Fof75neI",
+          "title": "दुर्ग में 14–15 वर्ष की बालिकाओं को सर्वाइकल कैंसर से बचाने के लिए HPV वैक्सीन पहल",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:52:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/-n1Fof75neI/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 58,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "LgCa4EcHR7k",
+          "title": "दुर्ग में सड़क चौड़ीकरण कार्य का कलेक्टर ने किया निरीक्षण, समयबद्धता पर जोर",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:53:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/LgCa4EcHR7k/hqdefault.jpg",
+          "durationSeconds": 71,
+          "durationFormatted": "01:11",
+          "views": 47,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "lz8woW16ppA",
+          "title": "दुर्ग -पुलगांव: लोगों को धमका रहे थे युवक, पुलिस ने किया गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:51:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/lz8woW16ppA/hqdefault.jpg",
+          "durationSeconds": 51,
+          "durationFormatted": "00:51",
+          "views": 47,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-17T11:53:08Z"
+    },
+    {
+      "clusterId": "pakistan-afghanistan",
+      "topic": "Pakistan Afghanistan",
+      "videoCount": 4,
+      "trendScore": 36.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "21KXGiIMFkw",
+          "title": "Pakistan Attack Afghanistan: 8 बजते ही अफगानिस्तान में 400 लोगों की मौत! | Kabul | Shehbaz Sharif",
+          "description": "Pakistan Attack Afghanistan: 8 बजते ही अफगानिस्तान में 400 लोगों की मौत! | Kabul | Shehbaz ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T14:30:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/21KXGiIMFkw/hqdefault.jpg",
+          "durationSeconds": 550,
+          "durationFormatted": "09:10",
+          "views": 13236,
+          "likes": 70,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "B7RnLgrY0HA",
+          "title": "Pakistan Afghanistan War Update: पाकिस्तान की अफगानिस्तान में एयरस्ट्राइक, भारत पर कितना असर? | N18G",
+          "description": "Pakistan Afghanistan War Update: पाकिस्तान की अफगानिस्तान में एयरस्ट्राइक, भारत ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T17:14:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/B7RnLgrY0HA/hqdefault.jpg",
+          "durationSeconds": 185,
+          "durationFormatted": "03:05",
+          "views": 7521,
+          "likes": 81,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "rltUSF84mHE",
+          "title": "Pakistan Afghanistan War: 8 बजते ही अफगानिस्तानका पाकिस्तान पर बड़ा हमला? | Shehbaz Sharif | Taliban",
+          "description": "Pakistan Afghanistan War: 8 बजते ही अफगानिस्तानका पाकिस्तान पर बड़ा हमला? | Shehbaz ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T20:30:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/rltUSF84mHE/hqdefault.jpg",
+          "durationSeconds": 550,
+          "durationFormatted": "09:10",
+          "views": 754,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "3b3h1yHu43M",
+          "title": "Pakistan Afghanistan War :  अफगानिस्तान ने 400 मौतों का लिया बदला? | Shehbaz Sharif | Taliban",
+          "description": "Pakistan Afghanistan War : अफगानिस्तान ने 400 मौतों का लिया बदला? | Shehbaz Sharif | Taliban ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T22:30:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/3b3h1yHu43M/hqdefault.jpg",
+          "durationSeconds": 269,
+          "durationFormatted": "04:29",
+          "views": 67,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-17T22:30:01Z"
+    },
+    {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 8,
-      "trendScore": 37.3,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -201,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6iJrYP8f3KY/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 2495,
-          "likes": 16,
+          "views": 2757,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c24QgRO8_kE/hqdefault.jpg",
           "durationSeconds": 1019,
           "durationFormatted": "16:59",
-          "views": 513,
+          "views": 516,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zL_6UrncD40/hqdefault.jpg",
           "durationSeconds": 902,
           "durationFormatted": "15:02",
-          "views": 409,
+          "views": 418,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -255,163 +408,10 @@
       "latestUpdateAt": "2026-03-17T17:55:06Z"
     },
     {
-      "clusterId": "iran-attack",
-      "topic": "Iran Attack",
-      "videoCount": 4,
-      "trendScore": 37.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "AHPYuRYfPGk",
-          "title": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में छत चीरकर घर के अंदर लैंड हुई ईरानी मिसाइल | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में छत चीरकर घर के अंदर लैंड हुई ईरानी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T14:21:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/AHPYuRYfPGk/hqdefault.jpg",
-          "durationSeconds": 8,
-          "durationFormatted": "00:08",
-          "views": 52435,
-          "likes": 220,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "LShYGfVuYrY",
-          "title": "Iran Attack Israel LIVE VIDEO : ईरानी मिसाइल से उड़ा दिया इजराइल का ट्रेन स्टेशन!  | N18S | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : ईरानी मिसाइल से उड़ा दिया इजराइल का ट्रेन स्टेशन!",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T14:05:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/LShYGfVuYrY/hqdefault.jpg",
-          "durationSeconds": 562,
-          "durationFormatted": "09:22",
-          "views": 9692,
-          "likes": 113,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "vuMM4EsOvrM",
-          "title": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में घर की छत पर गिरा ईरानी मिसाइल | N18S | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में घर की छत पर गिरा ईरानी मिसाइल | N18S | Top ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T14:12:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/vuMM4EsOvrM/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 4640,
-          "likes": 29,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Nm6BzAJ6WjU",
-          "title": "Iran Attack on Israel: 10 बजते ही इजरायलमें तबाही, मचीचीख पुकार? | Netanyahu | Top News | Khamenei",
-          "description": "Iran Attack on Israel: 10 बजते ही इजरायलमें तबाही, मचीचीख पुकार? | Netanyahu | Top News ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T16:30:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/Nm6BzAJ6WjU/hqdefault.jpg",
-          "durationSeconds": 332,
-          "durationFormatted": "05:32",
-          "views": 3859,
-          "likes": 57,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-17T16:30:08Z"
-    },
-    {
-      "clusterId": "दरग-hpv",
-      "topic": "दुर्ग HPV",
-      "videoCount": 15,
-      "trendScore": 36.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "UziaWAc4MuM",
-          "title": "दुर्ग निगम बजट सभा में पार्षदों का आक्रोश, अधिकारियों से तीखी बहस",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:48:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/UziaWAc4MuM/hqdefault.jpg",
-          "durationSeconds": 260,
-          "durationFormatted": "04:20",
-          "views": 62,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "4k7T0rrF9BM",
-          "title": "महासमुंद में 5 वर्षीय बालक की मौ.T, डीपीटी टीका लगने के बाद लापरवाही का आरोप",
-          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:18:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/4k7T0rrF9BM/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 57,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 3,
-          "videoId": "-n1Fof75neI",
-          "title": "दुर्ग में 14–15 वर्ष की बालिकाओं को सर्वाइकल कैंसर से बचाने के लिए HPV वैक्सीन पहल",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:52:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/-n1Fof75neI/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 56,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "lz8woW16ppA",
-          "title": "दुर्ग -पुलगांव: लोगों को धमका रहे थे युवक, पुलिस ने किया गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:51:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/lz8woW16ppA/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 41,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "LgCa4EcHR7k",
-          "title": "दुर्ग में सड़क चौड़ीकरण कार्य का कलेक्टर ने किया निरीक्षण, समयबद्धता पर जोर",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:53:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/LgCa4EcHR7k/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 33,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-17T11:53:08Z"
-    },
-    {
       "clusterId": "lpg-crisis",
       "topic": "LPG Crisis",
       "videoCount": 6,
-      "trendScore": 33.5,
+      "trendScore": 32.0,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/P1EdSlOn69Q/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 674,
-          "likes": 12,
+          "views": 924,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5mQdQMM3dtU/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 152,
+          "views": 168,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -495,7 +495,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 27.6,
+      "trendScore": 26.6,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/33GEhGR1YjY/hqdefault.jpg",
           "durationSeconds": 237,
           "durationFormatted": "03:57",
-          "views": 581,
+          "views": 574,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -534,7 +534,7 @@
       "clusterId": "congress-protest",
       "topic": "Congress Protest",
       "videoCount": 4,
-      "trendScore": 23.0,
+      "trendScore": 22.2,
       "topVideos": [
         {
           "index": 1,
@@ -546,7 +546,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6xKeYpCw_Ko/hqdefault.jpg",
           "durationSeconds": 1393,
           "durationFormatted": "23:13",
-          "views": 87,
+          "views": 92,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -561,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3x6o6GzyX6Q/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 59,
+          "views": 62,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/O6iY-YH6rqs/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 30,
+          "views": 35,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DEDx556XOWQ/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 7,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
