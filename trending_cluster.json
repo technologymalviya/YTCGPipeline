@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-17T19:18:32.079253Z",
+  "generatedAt": "2026-03-17T20:54:44.523307Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 92,
-      "trendScore": 63.5,
+      "videoCount": 96,
+      "trendScore": 62.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nDTppHVxtJw/hqdefault.jpg",
           "durationSeconds": 6,
           "durationFormatted": "00:06",
-          "views": 162382,
-          "likes": 790,
+          "views": 208046,
+          "likes": 833,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xCPF0Fl-nHo/hqdefault.jpg",
           "durationSeconds": 1668,
           "durationFormatted": "27:48",
-          "views": 36305,
+          "views": 36462,
           "likes": 357,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zy2F77z8ZaI/hqdefault.jpg",
           "durationSeconds": 543,
           "durationFormatted": "09:03",
-          "views": 22954,
+          "views": 23695,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_BQ8KrTQcEU/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 15803,
-          "likes": 127,
+          "views": 19147,
+          "likes": 133,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/sNJn194v82k/hqdefault.jpg",
           "durationSeconds": 12,
           "durationFormatted": "00:12",
-          "views": 14849,
-          "likes": 145,
+          "views": 18697,
+          "likes": 149,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-03-17T19:01:02Z"
+      "latestUpdateAt": "2026-03-17T19:33:27Z"
     },
     {
-      "clusterId": "bhaskar-raid",
-      "topic": "Bhaskar Raid",
+      "clusterId": "bhaskar-camp",
+      "topic": "Bhaskar Camp",
       "videoCount": 11,
-      "trendScore": 42.5,
+      "trendScore": 41.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9nDfuVOOi-0/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 2820,
+          "views": 2660,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/fby-yG2Kl0g/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 1714,
-          "likes": 67,
+          "views": 1795,
+          "likes": 69,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "WkmkSvnyQS0",
-          "title": "दुर्ग पुलिस ने मारी Raid, 13 पकड़ाए | CG Bhaskar",
-          "description": "दुर्ग पुलिस ने मारी Raid, 13 पकड़ाए | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-17T11:32:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/WkmkSvnyQS0/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 933,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
           "videoId": "SJ1DzYaWCn8",
           "title": "Camp 2 में क्यों हुआ बवाल? ये है असली सच्चाई",
           "description": "Camp 2 में क्यों हुआ बवाल? ये है असली सच्चाई Join our Whatsapp Group ...",
@@ -147,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/SJ1DzYaWCn8/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 827,
+          "views": 1001,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "WkmkSvnyQS0",
+          "title": "दुर्ग पुलिस ने मारी Raid, 13 पकड़ाए | CG Bhaskar",
+          "description": "दुर्ग पुलिस ने मारी Raid, 13 पकड़ाए | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-17T11:32:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/WkmkSvnyQS0/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 941,
+          "likes": 23,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 5,
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WOlA6MspmXM/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 672,
+          "views": 692,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -171,94 +171,10 @@
       "latestUpdateAt": "2026-03-17T18:19:52Z"
     },
     {
-      "clusterId": "iran-attack",
-      "topic": "Iran Attack",
-      "videoCount": 7,
-      "trendScore": 41.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "AHPYuRYfPGk",
-          "title": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में छत चीरकर घर के अंदर लैंड हुई ईरानी मिसाइल | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में छत चीरकर घर के अंदर लैंड हुई ईरानी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T14:21:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/AHPYuRYfPGk/hqdefault.jpg",
-          "durationSeconds": 8,
-          "durationFormatted": "00:08",
-          "views": 39678,
-          "likes": 208,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "qVYuDcgKaEM",
-          "title": "Iran Attack On Israel LIVE VIDEO : इजराइल के ट्रेन स्टेशन पर ईरान का मिसाइल हमला | N18S | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : इजराइल के ट्रेन स्टेशन पर ईरान का मिसाइल हमला | N18S ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T13:55:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/qVYuDcgKaEM/hqdefault.jpg",
-          "durationSeconds": 178,
-          "durationFormatted": "02:58",
-          "views": 7029,
-          "likes": 72,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "LShYGfVuYrY",
-          "title": "Iran Attack Israel LIVE VIDEO : ईरानी मिसाइल से उड़ा दिया इजराइल का ट्रेन स्टेशन!  | N18S | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : ईरानी मिसाइल से उड़ा दिया इजराइल का ट्रेन स्टेशन!",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T14:05:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/LShYGfVuYrY/hqdefault.jpg",
-          "durationSeconds": 562,
-          "durationFormatted": "09:22",
-          "views": 6720,
-          "likes": 108,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "CsolYuiZ4tY",
-          "title": "Iran Attack on Israel: ईरानी मिसाइलों ने जला दिया तेल अवीव, मिसाइल फटने का LIVE VIDEO | Top News",
-          "description": "Iran Attack on Israel: ईरानी मिसाइलों ने जला दिया तेल अवीव, मिसाइल फटने का LIVE ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T13:53:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/CsolYuiZ4tY/hqdefault.jpg",
-          "durationSeconds": 234,
-          "durationFormatted": "03:54",
-          "views": 6353,
-          "likes": 123,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "vuMM4EsOvrM",
-          "title": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में घर की छत पर गिरा ईरानी मिसाइल | N18S | Top News",
-          "description": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में घर की छत पर गिरा ईरानी मिसाइल | N18S | Top ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-17T14:12:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/vuMM4EsOvrM/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 4429,
-          "likes": 29,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-17T16:30:08Z"
-    },
-    {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 8,
-      "trendScore": 38.1,
+      "trendScore": 37.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cu1sd1BpO2A/hqdefault.jpg",
           "durationSeconds": 1577,
           "durationFormatted": "26:17",
-          "views": 14100,
+          "views": 14183,
           "likes": 183,
           "videoType": "VOD",
           "genre": "General"
@@ -278,15 +194,15 @@
         {
           "index": 2,
           "videoId": "6iJrYP8f3KY",
-          "title": "17 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "18 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "17 March 2026| Chhattisgarh Ki 25 Khabre | CG News | Raipur News Today | Chattisgarh News Hindi दोस्तों आप देख ...",
           "channelTitle": "Chhattisgarh News Hindi ",
           "publishedAt": "2026-03-17T13:30:08Z",
           "thumbnail": "https://i.ytimg.com/vi/6iJrYP8f3KY/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 2296,
-          "likes": 15,
+          "views": 2495,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WdIJUPQpap4/hqdefault.jpg",
           "durationSeconds": 29,
           "durationFormatted": "00:29",
-          "views": 1205,
+          "views": 1273,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c24QgRO8_kE/hqdefault.jpg",
           "durationSeconds": 1019,
           "durationFormatted": "16:59",
-          "views": 488,
+          "views": 513,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -330,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zL_6UrncD40/hqdefault.jpg",
           "durationSeconds": 902,
           "durationFormatted": "15:02",
-          "views": 384,
+          "views": 409,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -339,28 +255,82 @@
       "latestUpdateAt": "2026-03-17T17:55:06Z"
     },
     {
-      "clusterId": "दरग-कय",
-      "topic": "दुर्ग किया",
-      "videoCount": 15,
-      "trendScore": 37.5,
+      "clusterId": "iran-attack",
+      "topic": "Iran Attack",
+      "videoCount": 4,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "4k7T0rrF9BM",
-          "title": "महासमुंद में 5 वर्षीय बालक की मौ.T, डीपीटी टीका लगने के बाद लापरवाही का आरोप",
-          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:18:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/4k7T0rrF9BM/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 50,
-          "likes": 0,
+          "videoId": "AHPYuRYfPGk",
+          "title": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में छत चीरकर घर के अंदर लैंड हुई ईरानी मिसाइल | Top News",
+          "description": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में छत चीरकर घर के अंदर लैंड हुई ईरानी ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T14:21:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/AHPYuRYfPGk/hqdefault.jpg",
+          "durationSeconds": 8,
+          "durationFormatted": "00:08",
+          "views": 52435,
+          "likes": 220,
           "videoType": "VOD",
-          "genre": "Civic"
+          "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "LShYGfVuYrY",
+          "title": "Iran Attack Israel LIVE VIDEO : ईरानी मिसाइल से उड़ा दिया इजराइल का ट्रेन स्टेशन!  | N18S | Top News",
+          "description": "Iran Attack On Israel LIVE VIDEO : ईरानी मिसाइल से उड़ा दिया इजराइल का ट्रेन स्टेशन!",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T14:05:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/LShYGfVuYrY/hqdefault.jpg",
+          "durationSeconds": 562,
+          "durationFormatted": "09:22",
+          "views": 9692,
+          "likes": 113,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "vuMM4EsOvrM",
+          "title": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में घर की छत पर गिरा ईरानी मिसाइल | N18S | Top News",
+          "description": "Iran Attack On Israel LIVE VIDEO : जेरूसलम में घर की छत पर गिरा ईरानी मिसाइल | N18S | Top ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T14:12:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/vuMM4EsOvrM/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 4640,
+          "likes": 29,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Nm6BzAJ6WjU",
+          "title": "Iran Attack on Israel: 10 बजते ही इजरायलमें तबाही, मचीचीख पुकार? | Netanyahu | Top News | Khamenei",
+          "description": "Iran Attack on Israel: 10 बजते ही इजरायलमें तबाही, मचीचीख पुकार? | Netanyahu | Top News ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T16:30:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/Nm6BzAJ6WjU/hqdefault.jpg",
+          "durationSeconds": 332,
+          "durationFormatted": "05:32",
+          "views": 3859,
+          "likes": 57,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-17T16:30:08Z"
+    },
+    {
+      "clusterId": "दरग-hpv",
+      "topic": "दुर्ग HPV",
+      "videoCount": 15,
+      "trendScore": 36.6,
+      "topVideos": [
+        {
+          "index": 1,
           "videoId": "UziaWAc4MuM",
           "title": "दुर्ग निगम बजट सभा में पार्षदों का आक्रोश, अधिकारियों से तीखी बहस",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -369,13 +339,43 @@
           "thumbnail": "https://i.ytimg.com/vi/UziaWAc4MuM/hqdefault.jpg",
           "durationSeconds": 260,
           "durationFormatted": "04:20",
-          "views": 50,
+          "views": 62,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
+          "index": 2,
+          "videoId": "4k7T0rrF9BM",
+          "title": "महासमुंद में 5 वर्षीय बालक की मौ.T, डीपीटी टीका लगने के बाद लापरवाही का आरोप",
+          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:18:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/4k7T0rrF9BM/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 57,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
           "index": 3,
+          "videoId": "-n1Fof75neI",
+          "title": "दुर्ग में 14–15 वर्ष की बालिकाओं को सर्वाइकल कैंसर से बचाने के लिए HPV वैक्सीन पहल",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-17T11:52:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/-n1Fof75neI/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 56,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "lz8woW16ppA",
           "title": "दुर्ग -पुलगांव: लोगों को धमका रहे थे युवक, पुलिस ने किया गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -384,22 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lz8woW16ppA/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 43,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Z_CS8pYPjlM",
-          "title": "दुर्ग में सिटी कोतवाली पुलिस की कार्रवाई, लाखों की नगदी और मोबाइल जब्त,13 जुआरी गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-17T11:49:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/Z_CS8pYPjlM/hqdefault.jpg",
-          "durationSeconds": 63,
-          "durationFormatted": "01:03",
-          "views": 18,
+          "views": 41,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -414,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LgCa4EcHR7k/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 16,
+          "views": 33,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -425,8 +410,8 @@
     {
       "clusterId": "lpg-crisis",
       "topic": "LPG Crisis",
-      "videoCount": 7,
-      "trendScore": 35.6,
+      "videoCount": 6,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/P1EdSlOn69Q/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 533,
-          "likes": 10,
+          "views": 674,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,28 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/-DmkbYRgptY/hqdefault.jpg",
           "durationSeconds": 599,
           "durationFormatted": "09:59",
-          "views": 432,
+          "views": 464,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "WPaQ5SdaM9c",
-          "title": "Seedhe Mudde Ki Baat: इस गांव में बिना सिलेंडर गैस में खाना बनता है! | LPG Crisis | Gobar Gas Plant",
-          "description": "Seedhe Mudde Ki Baat: इस गांव में बिना सिलेंडर गैस में खाना बनता है! | LPG Crisis ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-17T15:47:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/WPaQ5SdaM9c/hqdefault.jpg",
-          "durationSeconds": 221,
-          "durationFormatted": "03:41",
-          "views": 110,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "5mQdQMM3dtU",
           "title": "नहीं होगी LPG की किल्लत: होर्मुज के रास्ते भारत पहुंचे 93 हजार मीट्रिक टन गैस से लदे जहाज",
           "description": "वैश्विक युद्ध और तनावपूर्ण हालातों के बीच भारत के लिए राहत भरी खबर ...",
@@ -483,13 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/5mQdQMM3dtU/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 57,
+          "views": 152,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "oYhty3EBe00",
           "title": "CG BJP Poster War: कांग्रेस के गैस सिलेंडर की किल्लत के आरोप पर BJP का जवाब। LPG Crisis in CG",
           "description": "IBC24, CG BJP Poster War: कांग्रेस के गैस सिलेंडर की किल्लत के आरोप पर BJP का ...",
@@ -498,10 +468,25 @@
           "thumbnail": "https://i.ytimg.com/vi/oYhty3EBe00/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 36,
+          "views": 54,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "UOK0B8L6SKI",
+          "title": "LPG Crisis in CG: घरेलू LPG के दुरुपयोग पर खाद्य विभाग सख्त। रायपुर में 392 सिलेंडर जब्त। देखिए..",
+          "description": "IBC24, LPG Crisis in CG: घरेलू LPG के दुरुपयोग पर खाद्य विभाग सख्त। रायपुर में ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-17T18:18:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/UOK0B8L6SKI/hqdefault.jpg",
+          "durationSeconds": 49,
+          "durationFormatted": "00:49",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-17T18:34:27Z"
@@ -509,8 +494,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 26.2,
+      "videoCount": 2,
+      "trendScore": 27.6,
       "topVideos": [
         {
           "index": 1,
@@ -522,19 +507,34 @@
           "thumbnail": "https://i.ytimg.com/vi/GwMczMM_quo/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 1945,
+          "views": 2003,
           "likes": 2,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "33GEhGR1YjY",
+          "title": "Chaitra Navratri 2026: 19 मार्च से शुरू चैत्र नवरात्रि, पूजा में ये गलतियां न करें | Top News | N18V",
+          "description": "Chaitra Navratri 2026: 19 मार्च से शुरू चैत्र नवरात्रि, पूजा में ये गलतियां न ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-17T15:59:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/33GEhGR1YjY/hqdefault.jpg",
+          "durationSeconds": 237,
+          "durationFormatted": "03:57",
+          "views": 581,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-03-17T11:34:13Z"
+      "latestUpdateAt": "2026-03-17T15:59:36Z"
     },
     {
       "clusterId": "congress-protest",
       "topic": "Congress Protest",
       "videoCount": 4,
-      "trendScore": 23.7,
+      "trendScore": 23.0,
       "topVideos": [
         {
           "index": 1,
@@ -546,7 +546,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6xKeYpCw_Ko/hqdefault.jpg",
           "durationSeconds": 1393,
           "durationFormatted": "23:13",
-          "views": 77,
+          "views": 87,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
