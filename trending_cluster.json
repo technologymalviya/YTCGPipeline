@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-18T17:16:10.107829Z",
-  "clusterCount": 12,
+  "generatedAt": "2026-03-18T19:16:57.844019Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 79,
-      "trendScore": 65.9,
+      "videoCount": 83,
+      "trendScore": 65.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K-nReuZz9Bo/hqdefault.jpg",
           "durationSeconds": 697,
           "durationFormatted": "11:37",
-          "views": 37291,
-          "likes": 1354,
+          "views": 42579,
+          "likes": 1423,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CRVM0oT6wlY/hqdefault.jpg",
           "durationSeconds": 1567,
           "durationFormatted": "26:07",
-          "views": 20935,
-          "likes": 286,
+          "views": 22166,
+          "likes": 287,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SCq_g_74XW4/hqdefault.jpg",
           "durationSeconds": 1149,
           "durationFormatted": "19:09",
-          "views": 13522,
-          "likes": 349,
+          "views": 16146,
+          "likes": 364,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/G--b2OXIYiU/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 12547,
-          "likes": 555,
+          "views": 13194,
+          "likes": 562,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "rHIEp9LjSNg",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-03-18T00:52:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/rHIEp9LjSNg/hqdefault.jpg",
-          "durationSeconds": 877,
-          "durationFormatted": "14:37",
-          "views": 7324,
-          "likes": 368,
+          "videoId": "fsC0Vjf7bQo",
+          "title": "हरदा में राज्य स्तरीय किसान सम्मेलन, सीएम डॉ. मोहन यादव ने दी सौगात",
+          "description": "हरदा: मुख्यमंत्री डॉ. मोहन यादव LIVE राज्य स्तरीय किसान सम्मेलन का ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-18T10:27:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/fsC0Vjf7bQo/hqdefault.jpg",
+          "durationSeconds": 2142,
+          "durationFormatted": "35:42",
+          "views": 11024,
+          "likes": 80,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-18T17:04:01Z"
+      "latestUpdateAt": "2026-03-18T19:04:31Z"
     },
     {
-      "clusterId": "chhattisgarh-samachar",
-      "topic": "Chhattisgarh Samachar",
-      "videoCount": 15,
-      "trendScore": 50.6,
+      "clusterId": "chhattisgarh-zee",
+      "topic": "Chhattisgarh Zee",
+      "videoCount": 21,
+      "trendScore": 57.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mxY4hvmbxMw/hqdefault.jpg",
           "durationSeconds": 1565,
           "durationFormatted": "26:05",
-          "views": 15946,
-          "likes": 216,
+          "views": 17133,
+          "likes": 217,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,13 +117,28 @@
           "thumbnail": "https://i.ytimg.com/vi/hGenKSyex4s/hqdefault.jpg",
           "durationSeconds": 886,
           "durationFormatted": "14:46",
-          "views": 14230,
-          "likes": 240,
+          "views": 15114,
+          "likes": 242,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "OU3sDWlgTno",
+          "title": "Delhi Fire Accident : Delhi के Palam इलाके में भीषण आग से 9 लोगों की दर्दनाक मौत | Zee MPCG",
+          "description": "Tarkash : दो 'अग्निकांड'.. 17 मौत ! दिल्ली के पालम इलाके में लगी आग ,भीषण आग ने ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-18T14:02:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/OU3sDWlgTno/hqdefault.jpg",
+          "durationSeconds": 523,
+          "durationFormatted": "08:43",
+          "views": 13753,
+          "likes": 63,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
           "videoId": "MOMsZcvmvJg",
           "title": "भूमाफिया Basant Agarwal जिस जमीन में हाथ रख दे वह उसका हो जाता है",
           "description": "chhattisgarh #cgbox #raipur CG Box News छत्तीसगढ़ का अपना डिजिटल न्यूज़ प्लेटफॉर्म ...",
@@ -132,25 +147,10 @@
           "thumbnail": "https://i.ytimg.com/vi/MOMsZcvmvJg/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 7621,
-          "likes": 90,
+          "views": 7960,
+          "likes": 98,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "tXQQp3Hk9cc",
-          "title": "Indore EV Car Blast LIVE : प्रीति नगर में हादसा LIVE: एक चिंगारी… 7 ज़िंदगियां खत्म! | Zee MPCG",
-          "description": "Indore EV Car Blast LIVE :इंदौर प्रीति नगर से बड़ी खबर। आज एक घर में लगी भीषण आग ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-18T12:34:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/tXQQp3Hk9cc/hqdefault.jpg",
-          "durationSeconds": 23839,
-          "durationFormatted": "06:37:19",
-          "views": 5169,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "Traffic"
         },
         {
           "index": 5,
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/8iu_tCPBXPc/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 4896,
-          "likes": 388,
+          "views": 6209,
+          "likes": 430,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-18T15:04:13Z"
+      "latestUpdateAt": "2026-03-18T18:00:26Z"
     },
     {
       "clusterId": "indore-fire",
       "topic": "Indore Fire",
-      "videoCount": 17,
-      "trendScore": 48.5,
+      "videoCount": 19,
+      "trendScore": 50.8,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bFiQLbIug60/hqdefault.jpg",
           "durationSeconds": 42177,
           "durationFormatted": "11:42:57",
-          "views": 9309,
+          "views": 9434,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PEylqFbpY4c/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 2249,
-          "likes": 45,
+          "views": 3953,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/w0_atNKXZU8/hqdefault.jpg",
           "durationSeconds": 918,
           "durationFormatted": "15:18",
-          "views": 887,
-          "likes": 16,
+          "views": 2142,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -231,34 +231,34 @@
           "thumbnail": "https://i.ytimg.com/vi/ce0rC_JOJII/hqdefault.jpg",
           "durationSeconds": 279,
           "durationFormatted": "04:39",
-          "views": 681,
-          "likes": 2,
+          "views": 1371,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 5,
-          "videoId": "CLNN6cQ4REk",
-          "title": "Indore Fire Accident News: EV के चार्जिंग पॉइंट में ब्लास्ट, घर जलकर खाक, फटे कई सिलेंडर, 7 की मौत",
-          "description": "Indore Fire Accident News: EV के चार्जिंग पॉइंट में ब्लास्ट, घर जलकर खाक, फटे कई ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-18T10:05:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/CLNN6cQ4REk/hqdefault.jpg",
-          "durationSeconds": 23756,
-          "durationFormatted": "06:35:56",
-          "views": 577,
-          "likes": 4,
+          "videoId": "-cWCr0s2-qk",
+          "title": "Indore Fire News : इंदौर अग्निकांड पर आई बहुत बड़ी खबर । Latest News । Breaking News । Top News ।",
+          "description": "Indore Fire News : इंदौर अग्निकांड पर आई बहुत बड़ी खबर । Latest News । Breaking News ।",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-18T17:46:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/-cWCr0s2-qk/hqdefault.jpg",
+          "durationSeconds": 670,
+          "durationFormatted": "11:10",
+          "views": 1178,
+          "likes": 13,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-03-18T17:15:05Z"
+      "latestUpdateAt": "2026-03-18T18:30:56Z"
     },
     {
       "clusterId": "रजनदगव-सजय",
       "topic": "राजनांदगांव संजय",
-      "videoCount": 15,
-      "trendScore": 47.3,
+      "videoCount": 14,
+      "trendScore": 43.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TE5ap9AMONE/hqdefault.jpg",
           "durationSeconds": 329,
           "durationFormatted": "05:29",
-          "views": 225,
-          "likes": 14,
+          "views": 332,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -292,6 +292,21 @@
         },
         {
           "index": 3,
+          "videoId": "3i1DxaRtxH0",
+          "title": "दुर्ग पुलिस की बड़ी कार्रवाई,कुम्हारी में अफीम के साथ आरोपी गिरफ्तार ,14 लाख कैश बरामद",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-18T12:01:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/3i1DxaRtxH0/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 23,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "DcGNkJJuMvU",
           "title": "Jagdalpur News: निगम की सामान्य सभा में टकराव, महापौर और नेता प्रतिपक्ष के बीच बहस!",
           "description": "chhattisgarhnews #madhyapradehnews #jagdalpur .",
@@ -306,31 +321,16 @@
           "genre": "Politics"
         },
         {
-          "index": 4,
-          "videoId": "3i1DxaRtxH0",
-          "title": "दुर्ग पुलिस की बड़ी कार्रवाई,कुम्हारी में अफीम के साथ आरोपी गिरफ्तार ,14 लाख कैश बरामद",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-18T12:01:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/3i1DxaRtxH0/hqdefault.jpg",
-          "durationSeconds": 67,
-          "durationFormatted": "01:07",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 5,
-          "videoId": "OMzFjvOSR1w",
-          "title": "राजनांदगांव: किसान हेमशंकर को जमीन मालिकों ने दी जानलेवा धमकी, प्रशासन से न्याय की गुहार",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "videoId": "ApF4di0j7js",
+          "title": "Bhilai News: आयुक्त राजीव पाण्डेय ने किया वैशाली और कैलाश नगर का निरीक्षण, अधिकारियों को दिए निर्देश",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilai .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-18T12:06:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/OMzFjvOSR1w/hqdefault.jpg",
-          "durationSeconds": 120,
-          "durationFormatted": "02:00",
-          "views": 4,
+          "publishedAt": "2026-03-18T11:58:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/ApF4di0j7js/hqdefault.jpg",
+          "durationSeconds": 50,
+          "durationFormatted": "00:50",
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "iran-israel",
       "topic": "Iran Israel",
       "videoCount": 5,
-      "trendScore": 43.9,
+      "trendScore": 42.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,28 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/H5pRWLRBfkk/hqdefault.jpg",
           "durationSeconds": 937,
           "durationFormatted": "15:37",
-          "views": 47564,
-          "likes": 1441,
+          "views": 68835,
+          "likes": 1597,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "AWNNsrt_IHE",
-          "title": "Iran Attack Israel LIVE VIDEO : ईरान ने दागीं 1430 मिसाइलें, इजरायल में भारी तबाही | N18V | Top News",
-          "description": "Iran Attack Israel LIVE VIDEO : ईरान ने दागीं 1430 मिसाइलें, इजरायल में भारी तबाही ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-18T13:47:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/AWNNsrt_IHE/hqdefault.jpg",
-          "durationSeconds": 436,
-          "durationFormatted": "07:16",
-          "views": 4072,
-          "likes": 59,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "KE42SCuagoY",
           "title": "Iran Attack on Israel: तेल अवीव में तबाही, ईरानी मिसाइलों के कहर से जान बचाकर भाग रहे लोग?",
           "description": "Iran Attack on Israel: तेल अवीव में तबाही, ईरानी मिसाइलों के कहर से जान बचाकर भाग ...",
@@ -384,8 +369,23 @@
           "thumbnail": "https://i.ytimg.com/vi/KE42SCuagoY/hqdefault.jpg",
           "durationSeconds": 334,
           "durationFormatted": "05:34",
-          "views": 3722,
-          "likes": 134,
+          "views": 7111,
+          "likes": 194,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "AWNNsrt_IHE",
+          "title": "Iran Attack Israel LIVE VIDEO : ईरान ने दागीं 1430 मिसाइलें, इजरायल में भारी तबाही | N18V | Top News",
+          "description": "Iran Attack Israel LIVE VIDEO : ईरान ने दागीं 1430 मिसाइलें, इजरायल में भारी तबाही ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-18T13:47:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/AWNNsrt_IHE/hqdefault.jpg",
+          "durationSeconds": 436,
+          "durationFormatted": "07:16",
+          "views": 5170,
+          "likes": 61,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P9wte4MJao0/hqdefault.jpg",
           "durationSeconds": 7515,
           "durationFormatted": "02:05:15",
-          "views": 3667,
+          "views": 3700,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -414,8 +414,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kP2GykaEH30/hqdefault.jpg",
           "durationSeconds": 226,
           "durationFormatted": "03:46",
-          "views": 1762,
-          "likes": 18,
+          "views": 3386,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -423,43 +423,13 @@
       "latestUpdateAt": "2026-03-18T15:21:52Z"
     },
     {
-      "clusterId": "bhaskar-सल",
-      "topic": "Bhaskar साल",
+      "clusterId": "bhaskar-शरमनक",
+      "topic": "Bhaskar शर्मनाक",
       "videoCount": 7,
-      "trendScore": 39.4,
+      "trendScore": 38.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "c5TMxa5SllA",
-          "title": "5 साल से दूसरे के खातेमें जा रही वृद्धा की पेंशन | CG Bhaskar",
-          "description": "5 साल से दूसरे के खातेमें जा रही वृद्धा की पेंशन | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-18T09:45:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/c5TMxa5SllA/hqdefault.jpg",
-          "durationSeconds": 92,
-          "durationFormatted": "01:32",
-          "views": 812,
-          "likes": 37,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "JQ620NE07w0",
-          "title": "देखिए कैसे ये कुत्ता कर रहा ट्रैफिक नियमों का पालन!",
-          "description": "देखिए कैसे ये कुत्ता कर रहा ट्रैफिक नियमों का पालन! Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-18T07:15:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/JQ620NE07w0/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 791,
-          "likes": 29,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "v0RyNGBu4Zc",
           "title": "शर्मनाक! बाथरूम में पड़ा मिला दिवंगत मोतीलाल वोरा के नाम का बोर्ड",
           "description": "शर्मनाक! बाथरूम में पड़ा मिला दिवंगत मोतीलाल वोरा के नाम का बोर्ड Join ...",
@@ -468,10 +438,40 @@
           "thumbnail": "https://i.ytimg.com/vi/v0RyNGBu4Zc/hqdefault.jpg",
           "durationSeconds": 154,
           "durationFormatted": "02:34",
-          "views": 655,
-          "likes": 16,
+          "views": 1061,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "c5TMxa5SllA",
+          "title": "5 साल से दूसरे के खातेमें जा रही वृद्धा की पेंशन | CG Bhaskar",
+          "description": "5 साल से दूसरे के खातेमें जा रही वृद्धा की पेंशन | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-18T09:45:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/c5TMxa5SllA/hqdefault.jpg",
+          "durationSeconds": 92,
+          "durationFormatted": "01:32",
+          "views": 878,
+          "likes": 41,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "JQ620NE07w0",
+          "title": "देखिए कैसे ये कुत्ता कर रहा ट्रैफिक नियमों का पालन!",
+          "description": "देखिए कैसे ये कुत्ता कर रहा ट्रैफिक नियमों का पालन! Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-18T07:15:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/JQ620NE07w0/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 846,
+          "likes": 30,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 4,
@@ -483,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7ksSM30PMdA/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 532,
-          "likes": 11,
+          "views": 554,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -498,7 +498,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HCI7nCAqN3Q/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 216,
+          "views": 282,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -509,8 +509,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 9,
-      "trendScore": 38.3,
+      "videoCount": 8,
+      "trendScore": 36.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,28 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jAHTXL2Ok5w/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 2308,
-          "likes": 7,
+          "views": 3484,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "a6cO802HgrI",
-          "title": "Chaitra Navratri 2026 : चैत्र नवरात्रि के पहले दिन इस विधि से करें कलश स्थापना, जानें शुभ मुहूर्त",
-          "description": "Chaitra Navratri 2026 Shubh Muhurat : चैत्र नवरात्रि के पहले दिन इस विधि से करें कलश ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-18T14:09:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/a6cO802HgrI/hqdefault.jpg",
-          "durationSeconds": 1359,
-          "durationFormatted": "22:39",
-          "views": 1733,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "bkdaVzARDUY",
           "title": "MP Ki Mahadebate :भाईजान की &#39;अपील&#39;, खींची &#39;मजहबी&#39; लकीर! रमजान का &#39;नारा&#39;... इधर नवरात्रि पर &#39;किनारा&#39;!",
           "description": "MP Ki Mahadebate :भाईजान की 'अपील', खींची 'मजहबी' लकीर! रमजान का 'नारा'... इधर ...",
@@ -552,13 +537,13 @@
           "thumbnail": "https://i.ytimg.com/vi/bkdaVzARDUY/hqdefault.jpg",
           "durationSeconds": 1513,
           "durationFormatted": "25:13",
-          "views": 272,
+          "views": 1243,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "bRqt9EO5W9o",
           "title": "Chaitra Navratri 2026: चैत्र नवरात्रि में भूलकर भी न करें ये गलतियां! | Ghatasthapana | Puja Rules",
           "description": "Chaitra Navratri 2026: चैत्र नवरात्रि में भूलकर भी न करें ये गलतियां! | Ghatasthapana ...",
@@ -567,13 +552,13 @@
           "thumbnail": "https://i.ytimg.com/vi/bRqt9EO5W9o/hqdefault.jpg",
           "durationSeconds": 1089,
           "durationFormatted": "18:09",
-          "views": 160,
+          "views": 190,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "PArYnBLETe8",
           "title": "Chaitra Navratri 2026:  नवरात्रि में राशि के अनुसार करें ये उपाय, मां दुर्गा होंगी प्रसन्न! Hindu",
           "description": "Chaitra Navratri 2026: नवरात्रि में राशि के अनुसार करें ये उपाय, मां दुर्गा ...",
@@ -582,103 +567,34 @@
           "thumbnail": "https://i.ytimg.com/vi/PArYnBLETe8/hqdefault.jpg",
           "durationSeconds": 1594,
           "durationFormatted": "26:34",
-          "views": 60,
+          "views": 78,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Pr0uMA4vriQ",
+          "title": "🔴LIVE:  MP CG Special : ​&#39;शक्ति&#39; की आराधना...कैसे करें उपासना ? | Navratri | Latest News | Zee MPCG",
+          "description": "LIVE: MP CG Special : ​'शक्ति' की आराधना...कैसे करें उपासना ? | Navratri | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-18T12:53:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/Pr0uMA4vriQ/hqdefault.jpg",
+          "durationSeconds": 1058,
+          "durationFormatted": "17:38",
+          "views": 56,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-18T16:46:06Z"
     },
     {
-      "clusterId": "rajya-sabha",
-      "topic": "Rajya Sabha",
-      "videoCount": 6,
-      "trendScore": 34.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "F8hWLU8cI6o",
-          "title": "Rajya Sabha Farewell: राज्यसभा से 59 सांसदों को दी गई विदाई। जब दैवगौड़ा की &#39;शादी&#39; पर हंसा पूरा सदन",
-          "description": "IBC24,Rajya Sabha Farewell: राज्यसभा से 59 सांसदों को दी गई विदाई। जब दैवगौड़ा की ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-18T16:37:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/F8hWLU8cI6o/hqdefault.jpg",
-          "durationSeconds": 291,
-          "durationFormatted": "04:51",
-          "views": 3134,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "NlN8inaEBGc",
-          "title": "Rajya Sabha में  दिग्विजय सिंह का विदाई भाषण, अटल बिहारी वाजपेयी का जिक्र | Congress | MP News ।",
-          "description": "Rajya Sabha में दिग्विजय सिंह का विदाई भाषण, अटल बिहारी वाजपेयी का जिक्र ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-18T13:23:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/NlN8inaEBGc/hqdefault.jpg",
-          "durationSeconds": 590,
-          "durationFormatted": "09:50",
-          "views": 150,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "PVjtt8hnN9g",
-          "title": "Digvijay Singh ने Rajya Sabha में दिया विदाई भाषण | Madhya Pradesh Politics | Congress | Top News",
-          "description": "Digvijay Singh ने Rajya Sabha में दिया विदाई भाषण | Madhya Pradesh Politics | Congress | Top News ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-18T11:47:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/PVjtt8hnN9g/hqdefault.jpg",
-          "durationSeconds": 361,
-          "durationFormatted": "06:01",
-          "views": 100,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "1VL_L3263oI",
-          "title": "PM Modi in Rajya Sabha: राज्यसभा में 37 सांसदों का कार्यकाल, क्या बोले PM Modi ? | Top News",
-          "description": "PM Modi in Rajya Sabha: राज्यसभा में 37 सांसदों का कार्यकाल, क्या बोले PM Modi ?",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-18T17:00:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/1VL_L3263oI/hqdefault.jpg",
-          "durationSeconds": 645,
-          "durationFormatted": "10:45",
-          "views": 41,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "GogqD5S-2ng",
-          "title": "The Editor&#39;s Show LIVE: Indore EV Car Bl*st | Digvijay Singh | MP Congress | Chhattisgarh Politics",
-          "description": "The Editor's Show LIVE: Indore EV Car Bl*st | Digvijay Singh | MP Congress | Chhattisgarh Politics #indorefire #indorenews ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-18T15:17:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/GogqD5S-2ng/hqdefault.jpg",
-          "durationSeconds": 1521,
-          "durationFormatted": "25:21",
-          "views": 26,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-03-18T17:00:03Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
-      "videoCount": 3,
-      "trendScore": 33.0,
+      "videoCount": 2,
+      "trendScore": 31.9,
       "topVideos": [
         {
           "index": 1,
@@ -690,28 +606,13 @@
           "thumbnail": "https://i.ytimg.com/vi/IdlnrJa2y60/hqdefault.jpg",
           "durationSeconds": 1445,
           "durationFormatted": "24:05",
-          "views": 1311,
-          "likes": 25,
+          "views": 3754,
+          "likes": 59,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
-          "videoId": "nqJNaCASKT4",
-          "title": "Bilaspur News : Dhurandhar Film के शो म हंगामा | शो देरी ले शुरु होय म भड़किन दर्शक",
-          "description": "IBC24, Bilaspur News : Dhurandhar Film के शो म हंगामा | शो देरी ले शुरु होय म भड़किन ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-18T14:45:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/nqJNaCASKT4/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 111,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "LB4lW0igJfU",
           "title": "Ranveer Singh स्टारर फिल्म की एडवांस बुकिंग छू रही है आसमान! क्या तहलका मचाने आ रही &#39;Dhurandhar 2&#39;",
           "description": "Ranveer Singh स्टारर फिल्म की एडवांस बुकिंग छू रही है आसमान! क्या तहलका ...",
@@ -720,19 +621,19 @@
           "thumbnail": "https://i.ytimg.com/vi/LB4lW0igJfU/hqdefault.jpg",
           "durationSeconds": 308,
           "durationFormatted": "05:08",
-          "views": 104,
+          "views": 158,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-18T14:45:56Z"
+      "latestUpdateAt": "2026-03-18T13:09:33Z"
     },
     {
       "clusterId": "xpress-सरजपर",
       "topic": "Xpress सूरजपुर",
       "videoCount": 5,
-      "trendScore": 32.5,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +645,7 @@
           "thumbnail": "https://i.ytimg.com/vi/78iGZbe688w/hqdefault.jpg",
           "durationSeconds": 138,
           "durationFormatted": "02:18",
-          "views": 199,
+          "views": 422,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -789,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7IH8F4cATGM/hqdefault.jpg",
           "durationSeconds": 144,
           "durationFormatted": "02:24",
-          "views": 38,
+          "views": 74,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -804,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kTlcpCLy57I/hqdefault.jpg",
           "durationSeconds": 248,
           "durationFormatted": "04:08",
-          "views": 22,
+          "views": 21,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -813,79 +714,10 @@
       "latestUpdateAt": "2026-03-18T12:54:04Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 4,
-      "trendScore": 29.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "fJmdDLE8i9I",
-          "title": "🔴LIVE : Tarkash : मिडिल ईस्ट &#39;महाजंग&#39;..19वां दिन | Latest News  | Zee MPCG | Middle East War",
-          "description": "LIVE : Tarkash : मिडिल ईस्ट 'महाजंग'..19वां दिन | Latest News | Zee MPCG | #Live #MPNews #Tarkash ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-18T11:49:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/fJmdDLE8i9I/hqdefault.jpg",
-          "durationSeconds": 846,
-          "durationFormatted": "14:06",
-          "views": 129,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "2d7LDO3gHec",
-          "title": "🔴LIVE : Prime Time @9 : मध्य प्रदेश में&#39;सौगातों&#39; की बारिश  | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : मध्य प्रदेश में 'सौगातों' की बारिश | Latest News | Zee MPCG #live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-18T15:52:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/2d7LDO3gHec/hqdefault.jpg",
-          "durationSeconds": 961,
-          "durationFormatted": "16:01",
-          "views": 59,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "BjlFZ881BwU",
-          "title": "🔴LIVE : MP - CG : इंदौर मे 8 लोगो कि मौत   | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : इंदौर मे 8 लोगो कि मौत| Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-18T09:43:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/BjlFZ881BwU/hqdefault.jpg",
-          "durationSeconds": 241,
-          "durationFormatted": "04:01",
-          "views": 47,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "8PPsvYMuIVM",
-          "title": "MP Development Project : मध्य प्रदेश में सौगातों की बारिश | करोड़ों के विकास कार्यों का लोकार्पण",
-          "description": "Prime Time : मध्य प्रदेश में 'सौगातों' की बारिश, समृद्ध किसान.. मध्य प्रदेश ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-18T17:01:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/8PPsvYMuIVM/hqdefault.jpg",
-          "durationSeconds": 229,
-          "durationFormatted": "03:49",
-          "views": 11,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-18T17:01:55Z"
-    },
-    {
       "clusterId": "bhopal-adg",
       "topic": "Bhopal ADG",
       "videoCount": 4,
-      "trendScore": 21.4,
+      "trendScore": 20.7,
       "topVideos": [
         {
           "index": 1,
@@ -897,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/F-nRPpFM_lg/hqdefault.jpg",
           "durationSeconds": 234,
           "durationFormatted": "03:54",
-          "views": 27,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -912,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1eWi9CNU3Pg/hqdefault.jpg",
           "durationSeconds": 159,
           "durationFormatted": "02:39",
-          "views": 14,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -927,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TbWwb2kAMR0/hqdefault.jpg",
           "durationSeconds": 260,
           "durationFormatted": "04:20",
-          "views": 11,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -942,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FQmFEXl612c/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 9,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
