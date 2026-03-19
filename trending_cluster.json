@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-19T19:12:42.267187Z",
-  "clusterCount": 12,
+  "generatedAt": "2026-03-19T20:54:11.515361Z",
+  "clusterCount": 13,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 97,
-      "trendScore": 63.2,
+      "videoCount": 99,
+      "trendScore": 62.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vdjXxsuh_dY/hqdefault.jpg",
           "durationSeconds": 1558,
           "durationFormatted": "25:58",
-          "views": 35831,
+          "views": 35892,
           "likes": 354,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kl98WlWw9io/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 24521,
-          "likes": 620,
+          "views": 30031,
+          "likes": 642,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AI2FddvB4XU/hqdefault.jpg",
           "durationSeconds": 938,
           "durationFormatted": "15:38",
-          "views": 19394,
+          "views": 20293,
           "likes": 170,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/JpBSXobVFdk/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 12759,
-          "likes": 298,
+          "views": 13264,
+          "likes": 303,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "5F_ixHF1odA",
-          "title": "संस्कृति विभाग के अधिकारी छत्तीसगढ़िया कलाकारों के साथ भेदभाव",
-          "description": "chhattisgarh #cgbox #raipur CG Box News छत्तीसगढ़ का अपना डिजिटल न्यूज़ प्लेटफॉर्म ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-03-19T08:30:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/5F_ixHF1odA/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 4412,
-          "likes": 252,
+          "videoId": "tvpOi-XCA-4",
+          "title": "छत्तीसगढ़ में धर्मांतरण पर विधेयक पास..नए बिल के प्रावधान कितने सख्त? #religiousnewsbill #cgnews",
+          "description": "IBC24, छत्तीसगढ़ में धर्मांतरण पर विधेयक पास..नए बिल के प्रावधान कितने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-19T15:20:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/tvpOi-XCA-4/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 5610,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-19T18:59:49Z"
+      "latestUpdateAt": "2026-03-19T19:21:08Z"
     },
     {
       "clusterId": "bhaskar-bhilai",
       "topic": "Bhaskar Bhilai",
       "videoCount": 15,
-      "trendScore": 48.3,
+      "trendScore": 47.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6GxJTMs6wwk/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 1797,
+          "views": 1860,
           "likes": 60,
           "videoType": "VOD",
           "genre": "Civic"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/YMbwJiOmXbA/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 1044,
-          "likes": 53,
+          "views": 1088,
+          "likes": 52,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/S3u3avK0erg/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 996,
+          "views": 1060,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BEcbULR9dIg/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 746,
+          "views": 781,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wrZXWcIhAd4/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 649,
-          "likes": 14,
+          "views": 692,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -173,11 +173,26 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 13,
-      "trendScore": 43.5,
+      "videoCount": 14,
+      "trendScore": 44.1,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "3VW01U5Zztc",
+          "title": "Iran Attacks on Israel LIVE : Eid पर ईरान करेगा ईजरायल में भयंकर तबाही! Khamenei | Netanyahu | Trump",
+          "description": "Iran Attacks on Israel LIVE : Eid पर ईरान करेगा ईजरायल में भयंकर तबाही! Khamenei | Netanyahu ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-19T15:09:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/3VW01U5Zztc/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 4529,
+          "likes": 21,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 2,
           "videoId": "j3M4YmHlwWQ",
           "title": "#shorts  : “मुसलमान से ही खरीदें सामान” – तौकीर निज़ामी के बयान पर बवाल | Eid | Religious War",
           "description": "shorts : तौकीर निज़ामी का बयान- “मुसलमान से ही ख़रीदे समान” मुस्लिम ...",
@@ -186,25 +201,10 @@
           "thumbnail": "https://i.ytimg.com/vi/j3M4YmHlwWQ/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 1220,
-          "likes": 15,
+          "views": 1540,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "kUiWsa6kA2M",
-          "title": "Chaitra Navratri 2026 LIVE : मां शैलपुत्री के दर्शन | मंदिरों में उमड़ी भक्तों की भीड़ | Zee MPCG",
-          "description": "चैत्र नवरात्रि का शुभारंभ मां Shailaputri की पूजा के साथ हो गया है।",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-19T18:16:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/kUiWsa6kA2M/hqdefault.jpg",
-          "durationSeconds": 5361,
-          "durationFormatted": "01:29:21",
-          "views": 907,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Events"
         },
         {
           "index": 3,
@@ -216,13 +216,28 @@
           "thumbnail": "https://i.ytimg.com/vi/foSJGRfWKgE/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 905,
+          "views": 948,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "kUiWsa6kA2M",
+          "title": "Chaitra Navratri 2026 LIVE : मां शैलपुत्री के दर्शन | मंदिरों में उमड़ी भक्तों की भीड़ | Zee MPCG",
+          "description": "चैत्र नवरात्रि का शुभारंभ मां Shailaputri की पूजा के साथ हो गया है।",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-19T18:16:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/kUiWsa6kA2M/hqdefault.jpg",
+          "durationSeconds": 5361,
+          "durationFormatted": "01:29:21",
+          "views": 911,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
           "videoId": "53X9qmtz70g",
           "title": "Chaitra Navratri 2026 : नवरात्रि बदल देगी आपकी किस्मत! ज्‍योत‍िषाचार्य ने बता दिये उपाय | Astrology",
           "description": "Chaitra Navratri 2026 : नवरात्रि बदल देगी आपकी किस्मत! ज्‍योत‍िषाचार्य ने बता ...",
@@ -231,25 +246,10 @@
           "thumbnail": "https://i.ytimg.com/vi/53X9qmtz70g/hqdefault.jpg",
           "durationSeconds": 1581,
           "durationFormatted": "26:21",
-          "views": 676,
-          "likes": 5,
+          "views": 702,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "b4KbvLbBvY4",
-          "title": "चैत्र नवरात्रि पर हिंदू युवा मंच की अधिशक्ति ने निकाली भव्य रैली,नववर्ष का जोरदार स्वागत| CG Bhaskar",
-          "description": "चैत्र नवरात्रि पर हिंदू युवा मंच की अधिशक्ति ने निकाली भव्य रैली, ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-19T15:30:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/b4KbvLbBvY4/hqdefault.jpg",
-          "durationSeconds": 526,
-          "durationFormatted": "08:46",
-          "views": 72,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-19T18:16:42Z"
@@ -258,7 +258,7 @@
       "clusterId": "bjp-शद",
       "topic": "BJP शादी",
       "videoCount": 4,
-      "trendScore": 39.4,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/j0Yu_LqAKr8/hqdefault.jpg",
           "durationSeconds": 135,
           "durationFormatted": "02:15",
-          "views": 35432,
-          "likes": 730,
+          "views": 36590,
+          "likes": 732,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qdgo_bG5Hrg/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 7726,
+          "views": 7778,
           "likes": 67,
           "videoType": "VOD",
           "genre": "General"
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nwe16M1Z_eM/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 3452,
-          "likes": 148,
+          "views": 4202,
+          "likes": 157,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mi-ZKOoRmJQ/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 3043,
-          "likes": 120,
+          "views": 3491,
+          "likes": 124,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -327,25 +327,10 @@
       "clusterId": "rajnandgaon-दरग",
       "topic": "Rajnandgaon दुर्ग",
       "videoCount": 12,
-      "trendScore": 38.9,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "PUTSv1XYVU8",
-          "title": "छुरिया में कर्मा जयंती पर कलश यात्रा और सांस्कृतिक कार्यक्रम ,नाचा, गीत और सांस्कृतिक प्रस्तुतियां",
-          "description": "chhattisgarhnews #madhyapradehnews #chhuriya .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-19T13:06:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/PUTSv1XYVU8/hqdefault.jpg",
-          "durationSeconds": 47,
-          "durationFormatted": "00:47",
-          "views": 39,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
           "videoId": "Ibbf_i5ztzA",
           "title": "Rajnandgaon News: पुलिस ने सुलझाए चोरी के मामले,  5.72 लाख के जेवर बरामद",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -354,10 +339,25 @@
           "thumbnail": "https://i.ytimg.com/vi/Ibbf_i5ztzA/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 20,
+          "views": 48,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "PUTSv1XYVU8",
+          "title": "छुरिया में कर्मा जयंती पर कलश यात्रा और सांस्कृतिक कार्यक्रम ,नाचा, गीत और सांस्कृतिक प्रस्तुतियां",
+          "description": "chhattisgarhnews #madhyapradehnews #chhuriya .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-19T13:06:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/PUTSv1XYVU8/hqdefault.jpg",
+          "durationSeconds": 47,
+          "durationFormatted": "00:47",
+          "views": 40,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
         },
         {
           "index": 3,
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JM2NygOwpkg/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 18,
+          "views": 39,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,22 +384,22 @@
           "thumbnail": "https://i.ytimg.com/vi/ZxLzkTjcIow/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 16,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "JRSD_SSa_W4",
-          "title": "Durg News: पुलिस ने चोरी का किया खुलासा, 24 घंटे में पकड़े गए आरोपी",
+          "videoId": "kD1k2W9ALtM",
+          "title": "दुर्ग रसमड़ा में गैस का बड़ा खेल उजागर, 599 सिलेंडर और 2841 किलो LPG जप्त, नियमों की खुली धज्जियां",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-19T12:12:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/JRSD_SSa_W4/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 10,
+          "publishedAt": "2026-03-19T12:11:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/kD1k2W9ALtM/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 19,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -411,7 +411,7 @@
       "clusterId": "raipur-bilaspur",
       "topic": "Raipur Bilaspur",
       "videoCount": 4,
-      "trendScore": 36.9,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/w5AGxZ9d4GA/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 13442,
+          "views": 13755,
           "likes": 218,
           "videoType": "VOD",
           "genre": "General"
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bI4Yq4Y6CDI/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 8103,
-          "likes": 181,
+          "views": 8713,
+          "likes": 188,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-l2zsPJla1Y/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 7624,
-          "likes": 292,
+          "views": 8289,
+          "likes": 295,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bHnsrs5mR_I/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 1156,
-          "likes": 22,
+          "views": 1169,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -477,94 +477,10 @@
       "latestUpdateAt": "2026-03-19T10:05:20Z"
     },
     {
-      "clusterId": "war-iran",
-      "topic": "War Iran",
+      "clusterId": "mudde-baat",
+      "topic": "Mudde Baat",
       "videoCount": 6,
-      "trendScore": 36.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "JRNfmj53Nfo",
-          "title": "Iran-Israel War Update : बम के बाद अब सिलेंडर की लड़ाई? दुनिया में मंडराया नया खतरा! | N18G",
-          "description": "Iran-Israel War Update : बम के बाद अब सिलेंडर की लड़ाई? दुनिया में मंडराया नया ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-19T17:39:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/JRNfmj53Nfo/hqdefault.jpg",
-          "durationSeconds": 272,
-          "durationFormatted": "04:32",
-          "views": 1021,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "pWatDBCExJk",
-          "title": "Share Market Crash: बाजार में महा-हाहाकार..1 दिन में 12 लाख करोड़ स्वाहा! Middle East War Impact",
-          "description": "IBC24, Share Market Crash: बाजार में महा-हाहाकार..1 दिन में 12 लाख करोड़ स्वाहा!",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-19T16:27:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/pWatDBCExJk/hqdefault.jpg",
-          "durationSeconds": 127,
-          "durationFormatted": "02:07",
-          "views": 494,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "JqTISM9i9Kw",
-          "title": "Iran Israel Oil War: &#39;तेल&#39; तक पहुंची चिंगारी..&#39;जंग&#39; में कौन पड़ा भारी? Middle East War Update",
-          "description": "IBC24, Iran Israel Oil War: 'तेल' तक पहुंची चिंगारी..'जंग' में कौन पड़ा भारी? Middle East War ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-19T16:06:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/JqTISM9i9Kw/hqdefault.jpg",
-          "durationSeconds": 726,
-          "durationFormatted": "12:06",
-          "views": 333,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "2CHXh5Q-u9k",
-          "title": "Iran-Israel War Effects on Gold - Silver Rate : महायुद्ध के बीच निवेश कहाँ सुरक्षित? मंदी का खतरा?",
-          "description": "Iran-Israel War Effects on Gold - Silver Rate : महायुद्ध के बीच निवेश कहाँ सुरक्षित? मंदी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-19T16:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/2CHXh5Q-u9k/hqdefault.jpg",
-          "durationSeconds": 213,
-          "durationFormatted": "03:33",
-          "views": 101,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "whMVbtjgzgg",
-          "title": "Middle East War Update : मिडिल ईस्ट महाजंग का 20वां दिन ! नेताओं की मौत, मलबे में एटॉमिक प्रोग्राम",
-          "description": "Tarkash : मिडिल ईस्ट 'महाजंग' 20वां दिन, नेताओं की मौत, मलबे में एटॉमिक ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-19T16:15:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/whMVbtjgzgg/hqdefault.jpg",
-          "durationSeconds": 133,
-          "durationFormatted": "02:13",
-          "views": 68,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-03-19T17:39:02Z"
-    },
-    {
-      "clusterId": "seedhe-mudde",
-      "topic": "Seedhe Mudde",
-      "videoCount": 5,
-      "trendScore": 36.1,
+      "trendScore": 35.3,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RGysPqheEDE/hqdefault.jpg",
           "durationSeconds": 282,
           "durationFormatted": "04:42",
-          "views": 392,
+          "views": 530,
           "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
@@ -591,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/G0eGMRV33cc/hqdefault.jpg",
           "durationSeconds": 595,
           "durationFormatted": "09:55",
-          "views": 275,
-          "likes": 7,
+          "views": 351,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -606,25 +522,25 @@
           "thumbnail": "https://i.ytimg.com/vi/PTm7xSbD9qU/hqdefault.jpg",
           "durationSeconds": 270,
           "durationFormatted": "04:30",
-          "views": 129,
+          "views": 148,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "dB3EJ14TOBc",
-          "title": "The Editor&#39;s Show: Mukesh Malhotra की विधायकी तो बच गई लेकिन...| Vijaypur Byelection",
-          "description": "The Editor's Show: Mukesh Malhotra की विधायकी तो बच गई लेकिन...| Vijaypur Byelection #madhyapradesh ...",
+          "videoId": "UPIpq8k9i0M",
+          "title": "🔴Seedhe Mudde Ki Baat : धुरंधर-2 की इतनी चर्चा क्यों हो रही है? | Dhurandhar 2 | Movie Craze",
+          "description": "Seedhe Mudde Ki Baat : धुरंधर-2 की इतनी चर्चा क्यों हो रही है? | Dhurandhar 2 | Movie Craze ...",
           "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-19T16:25:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/dB3EJ14TOBc/hqdefault.jpg",
-          "durationSeconds": 272,
-          "durationFormatted": "04:32",
-          "views": 64,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
+          "publishedAt": "2026-03-19T15:05:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/UPIpq8k9i0M/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 124,
+          "likes": 2,
+          "videoType": "LIVE",
+          "genre": "Live"
         },
         {
           "index": 5,
@@ -636,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/F72pGRrArbQ/hqdefault.jpg",
           "durationSeconds": 482,
           "durationFormatted": "08:02",
-          "views": 45,
+          "views": 107,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -645,10 +561,94 @@
       "latestUpdateAt": "2026-03-19T16:25:48Z"
     },
     {
+      "clusterId": "war-iran",
+      "topic": "War Iran",
+      "videoCount": 6,
+      "trendScore": 35.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "JRNfmj53Nfo",
+          "title": "Iran-Israel War Update : बम के बाद अब सिलेंडर की लड़ाई? दुनिया में मंडराया नया खतरा! | N18G",
+          "description": "Iran-Israel War Update : बम के बाद अब सिलेंडर की लड़ाई? दुनिया में मंडराया नया ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-19T17:39:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/JRNfmj53Nfo/hqdefault.jpg",
+          "durationSeconds": 272,
+          "durationFormatted": "04:32",
+          "views": 1835,
+          "likes": 32,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "pWatDBCExJk",
+          "title": "Share Market Crash: बाजार में महा-हाहाकार..1 दिन में 12 लाख करोड़ स्वाहा! Middle East War Impact",
+          "description": "IBC24, Share Market Crash: बाजार में महा-हाहाकार..1 दिन में 12 लाख करोड़ स्वाहा!",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-19T16:27:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/pWatDBCExJk/hqdefault.jpg",
+          "durationSeconds": 127,
+          "durationFormatted": "02:07",
+          "views": 692,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "JqTISM9i9Kw",
+          "title": "Iran Israel Oil War: &#39;तेल&#39; तक पहुंची चिंगारी..&#39;जंग&#39; में कौन पड़ा भारी? Middle East War Update",
+          "description": "IBC24, Iran Israel Oil War: 'तेल' तक पहुंची चिंगारी..'जंग' में कौन पड़ा भारी? Middle East War ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-19T16:06:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/JqTISM9i9Kw/hqdefault.jpg",
+          "durationSeconds": 726,
+          "durationFormatted": "12:06",
+          "views": 389,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "2CHXh5Q-u9k",
+          "title": "Iran-Israel War Effects on Gold - Silver Rate : महायुद्ध के बीच निवेश कहाँ सुरक्षित? मंदी का खतरा?",
+          "description": "Iran-Israel War Effects on Gold - Silver Rate : महायुद्ध के बीच निवेश कहाँ सुरक्षित? मंदी ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-19T16:30:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/2CHXh5Q-u9k/hqdefault.jpg",
+          "durationSeconds": 213,
+          "durationFormatted": "03:33",
+          "views": 114,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "whMVbtjgzgg",
+          "title": "Middle East War Update : मिडिल ईस्ट महाजंग का 20वां दिन ! नेताओं की मौत, मलबे में एटॉमिक प्रोग्राम",
+          "description": "Tarkash : मिडिल ईस्ट 'महाजंग' 20वां दिन, नेताओं की मौत, मलबे में एटॉमिक ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-19T16:15:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/whMVbtjgzgg/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 84,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-03-19T17:39:02Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 3,
-      "trendScore": 35.5,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -660,8 +660,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AnFgEehpuhQ/hqdefault.jpg",
           "durationSeconds": 398,
           "durationFormatted": "06:38",
-          "views": 10210,
-          "likes": 122,
+          "views": 13889,
+          "likes": 124,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aa6mjQ6FGOE/hqdefault.jpg",
           "durationSeconds": 309,
           "durationFormatted": "05:09",
-          "views": 1540,
+          "views": 2102,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zz6rLom75QE/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 4,
+          "views": 26,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -702,7 +702,7 @@
       "clusterId": "weather-alert",
       "topic": "Weather Alert",
       "videoCount": 5,
-      "trendScore": 34.9,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -714,8 +714,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lkRWZspGKs0/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 5250,
-          "likes": 43,
+          "views": 7420,
+          "likes": 46,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -729,8 +729,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4X__3Uh9DK0/hqdefault.jpg",
           "durationSeconds": 239,
           "durationFormatted": "03:59",
-          "views": 1472,
-          "likes": 27,
+          "views": 2293,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -744,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/a-OPAm3Kk64/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 426,
+          "views": 453,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -759,8 +759,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Iaqzr6Wff34/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 395,
-          "likes": 5,
+          "views": 437,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -774,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pSra3L9elsg/hqdefault.jpg",
           "durationSeconds": 232,
           "durationFormatted": "03:52",
-          "views": 89,
+          "views": 99,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -786,7 +786,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 5,
-      "trendScore": 34.6,
+      "trendScore": 34.0,
       "topVideos": [
         {
           "index": 1,
@@ -798,7 +798,7 @@
           "thumbnail": "https://i.ytimg.com/vi/K058FTR2m4A/hqdefault.jpg",
           "durationSeconds": 906,
           "durationFormatted": "15:06",
-          "views": 23331,
+          "views": 23506,
           "likes": 309,
           "videoType": "VOD",
           "genre": "General"
@@ -813,22 +813,22 @@
           "thumbnail": "https://i.ytimg.com/vi/G_Q5PR5q8iQ/hqdefault.jpg",
           "durationSeconds": 1565,
           "durationFormatted": "26:05",
-          "views": 18549,
-          "likes": 271,
+          "views": 18644,
+          "likes": 272,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
           "videoId": "wQBMZyV2_8A",
-          "title": "19 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "20 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "19 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-03-18T23:30:31Z",
           "thumbnail": "https://i.ytimg.com/vi/wQBMZyV2_8A/hqdefault.jpg",
           "durationSeconds": 922,
           "durationFormatted": "15:22",
-          "views": 704,
+          "views": 827,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -843,7 +843,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2C741S_lJGs/hqdefault.jpg",
           "durationSeconds": 1073,
           "durationFormatted": "17:53",
-          "views": 439,
+          "views": 441,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -858,7 +858,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iH0t5eV3QiU/hqdefault.jpg",
           "durationSeconds": 1288,
           "durationFormatted": "21:28",
-          "views": 32,
+          "views": 47,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -867,28 +867,82 @@
       "latestUpdateAt": "2026-03-19T15:04:36Z"
     },
     {
-      "clusterId": "gwalior-रजयसभ",
-      "topic": "Gwalior राज्यसभा",
+      "clusterId": "durg-bhaskar",
+      "topic": "Durg Bhaskar",
       "videoCount": 4,
-      "trendScore": 31.5,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "-KivCWHAKVk",
-          "title": "Gwalior : SC में हाईकोर्ट का फैसला खारिज,मुकेश मल्होत्रा राज्यसभा चुनाव में वोट नहीं डाल पाएंगे...",
-          "description": "दिल्ली में मुकेश मल्होत्रा को सुप्रीम कोर्ट से बड़ी राहत मिली है।",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-19T07:40:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/-KivCWHAKVk/hqdefault.jpg",
-          "durationSeconds": 513,
-          "durationFormatted": "08:33",
-          "views": 353,
-          "likes": 7,
+          "videoId": "n4Pl_bi5KyI",
+          "title": "Durg का चंडी मंदिर है सालों पुराना जहां का कुंड कभी नहीं सूखता, जल पी लेने से होते हैं सारे कष्ट दूर",
+          "description": "Durg का चंडी मंदिर है सालों पुराना जहां का कुंड कभी नहीं सूखता, जल पी ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-19T03:30:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/n4Pl_bi5KyI/hqdefault.jpg",
+          "durationSeconds": 767,
+          "durationFormatted": "12:47",
+          "views": 924,
+          "likes": 32,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "CPrTzCVnA-k",
+          "title": "सीवी रमन यूनिवर्सिटी में पढ़ाई नहीं! बैटिंग,गेमिंग और होती है शराबखोरी? | CG Bhaskar",
+          "description": "सीवी रमन यूनिवर्सिटी में पढ़ाई नहीं! बैटिंग,गेमिंग और होती है ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-19T11:00:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/CPrTzCVnA-k/hqdefault.jpg",
+          "durationSeconds": 155,
+          "durationFormatted": "02:35",
+          "views": 551,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "s3N3QkmoKSM",
+          "title": "Durg में बंदर की मौत से बना पंचमुखी हनुमान मंदिर, जानें क्या है खासियत | CG Bhaskar",
+          "description": "Durg में बंदर की मौत से बना पंचमुखी हनुमान मंदिर, जानें क्या है खासियत ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-19T06:30:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/s3N3QkmoKSM/hqdefault.jpg",
+          "durationSeconds": 513,
+          "durationFormatted": "08:33",
+          "views": 361,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "6ZL0mt-pZtE",
+          "title": "Durg में LPG अवैध कारोबार पर बड़ी कार्रवाई, 599 सिलेंडर जब्त कर छापा मारा गया",
+          "description": "Durg में LPG अवैध कारोबार पर बड़ी कार्रवाई, 599 सिलेंडर जब्त कर छापा मारा ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-19T11:19:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/6ZL0mt-pZtE/hqdefault.jpg",
+          "durationSeconds": 83,
+          "durationFormatted": "01:23",
+          "views": 29,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-03-19T11:19:09Z"
+    },
+    {
+      "clusterId": "gwalior-रजयसभ",
+      "topic": "Gwalior राज्यसभा",
+      "videoCount": 4,
+      "trendScore": 30.7,
+      "topVideos": [
+        {
+          "index": 1,
           "videoId": "uBhK4Nokvjw",
           "title": "आज का मुद्दा: दिग्गी का &#39;अटल&#39; अंदाज, क्या फिर राज्यसभा जाएंगे दिग्विजय",
           "description": "दिग्विजय सिंह एक बार फिर सुर्खियों में हैं..मौका राज्यसभा में विदाई ...",
@@ -897,10 +951,25 @@
           "thumbnail": "https://i.ytimg.com/vi/uBhK4Nokvjw/hqdefault.jpg",
           "durationSeconds": 1517,
           "durationFormatted": "25:17",
-          "views": 337,
-          "likes": 4,
+          "views": 463,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "-KivCWHAKVk",
+          "title": "Gwalior : SC में हाईकोर्ट का फैसला खारिज,मुकेश मल्होत्रा राज्यसभा चुनाव में वोट नहीं डाल पाएंगे...",
+          "description": "दिल्ली में मुकेश मल्होत्रा को सुप्रीम कोर्ट से बड़ी राहत मिली है।",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-19T07:40:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/-KivCWHAKVk/hqdefault.jpg",
+          "durationSeconds": 513,
+          "durationFormatted": "08:33",
+          "views": 354,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
@@ -912,8 +981,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5w38dhvuK94/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 90,
-          "likes": 2,
+          "views": 125,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
