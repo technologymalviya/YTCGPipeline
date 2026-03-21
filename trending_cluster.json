@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-21T20:40:10.397933Z",
+  "generatedAt": "2026-03-21T22:40:06.585150Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 83,
-      "trendScore": 66.5,
+      "videoCount": 84,
+      "trendScore": 65.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wYZcMyaNfiQ/hqdefault.jpg",
           "durationSeconds": 1370,
           "durationFormatted": "22:50",
-          "views": 35051,
-          "likes": 372,
+          "views": 35061,
+          "likes": 373,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MvS7oxKv8hg/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 30712,
+          "views": 30895,
           "likes": 376,
           "videoType": "VOD",
           "genre": "General"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lFCYLACZe_U/hqdefault.jpg",
           "durationSeconds": 585,
           "durationFormatted": "09:45",
-          "views": 28646,
-          "likes": 2076,
+          "views": 28977,
+          "likes": 2083,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Zd8ByX5nz2U/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 20578,
-          "likes": 368,
+          "views": 21277,
+          "likes": 369,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/HaUoqqFdtJg/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 17287,
-          "likes": 840,
+          "views": 17681,
+          "likes": 850,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-21T20:24:36Z"
+      "latestUpdateAt": "2026-03-21T22:16:42Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 27,
-      "trendScore": 60.7,
+      "videoCount": 28,
+      "trendScore": 59.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nWWhDM6gi0Y/hqdefault.jpg",
           "durationSeconds": 525,
           "durationFormatted": "08:45",
-          "views": 15990,
-          "likes": 360,
+          "views": 16138,
+          "likes": 361,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z75o4pV-s2A/hqdefault.jpg",
           "durationSeconds": 157,
           "durationFormatted": "02:37",
-          "views": 11640,
+          "views": 12477,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/12u_G1eUBY8/hqdefault.jpg",
           "durationSeconds": 33,
           "durationFormatted": "00:33",
-          "views": 1923,
+          "views": 2007,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,25 +147,25 @@
           "thumbnail": "https://i.ytimg.com/vi/r-R_j9joyY8/hqdefault.jpg",
           "durationSeconds": 550,
           "durationFormatted": "09:10",
-          "views": 1701,
+          "views": 1718,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "BYracB3ECII",
-          "title": "EID UL-FITR Special From Awaaz Hind 24 News Channel#shortsfeed#news#eid#bhilai#chhattisgarh",
-          "description": "EID UL-FITR Special From Awaaz Hind 24 News Channel#shortsfeed#news#eid#bhilai#chhattisgarh#latestnews.",
-          "channelTitle": "Awaaz Hind 24",
-          "publishedAt": "2026-03-21T07:32:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/BYracB3ECII/hqdefault.jpg",
-          "durationSeconds": 175,
-          "durationFormatted": "02:55",
-          "views": 1208,
-          "likes": 6,
+          "videoId": "kopVRBIGOIM",
+          "title": "Eid Controversy : ईद पर बरसे फूल... लेकिन MP में सियासत भरपूर! MP News । BJP । Congress ।",
+          "description": "Eid Controversy : ईद पर बरसे फूल... लेकिन MP में सियासत भरपूर! MP News । BJP । Congress ।",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-21T13:52:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/kopVRBIGOIM/hqdefault.jpg",
+          "durationSeconds": 498,
+          "durationFormatted": "08:18",
+          "views": 1215,
+          "likes": 5,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-21T19:59:53Z"
@@ -173,8 +173,8 @@
     {
       "clusterId": "war-iran",
       "topic": "War Iran",
-      "videoCount": 10,
-      "trendScore": 48.1,
+      "videoCount": 13,
+      "trendScore": 50.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tYVP4k4cFsQ/hqdefault.jpg",
           "durationSeconds": 1034,
           "durationFormatted": "17:14",
-          "views": 54275,
-          "likes": 1888,
+          "views": 61360,
+          "likes": 1971,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/NqahIIMdZSI/hqdefault.jpg",
           "durationSeconds": 201,
           "durationFormatted": "03:21",
-          "views": 42360,
-          "likes": 375,
+          "views": 43987,
+          "likes": 379,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "bmJ9g4zuE4M",
+          "title": "Iran America Israel War : ईरान के खिलाफ प्रस्ताव पास, मुस्लिम दशों केसामने हथियार डाल देगा ईरान?",
+          "description": "Iran Hormuz Open : Iran America Israel War Update : ईरान के खिलाफ प्रस्ताव पास, मुस्लिम ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-21T12:20:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/bmJ9g4zuE4M/hqdefault.jpg",
+          "durationSeconds": 1299,
+          "durationFormatted": "21:39",
+          "views": 31595,
+          "likes": 283,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "WF3oCUhtTP0",
           "title": "Iran Attack on Israel: 9 बजते ही ईरान की सेजिल मिसाइलों ने जला दिया इजरायल? Netanyahu | Trump | N18G",
           "description": "Iran Attack on Israel: 9 बजते ही ईरान की सेजिल मिसाइलों ने जला दिया इजरायल? Netanyahu ...",
@@ -216,13 +231,13 @@
           "thumbnail": "https://i.ytimg.com/vi/WF3oCUhtTP0/hqdefault.jpg",
           "durationSeconds": 1019,
           "durationFormatted": "16:59",
-          "views": 21895,
-          "likes": 301,
+          "views": 27269,
+          "likes": 309,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "udUHJcGUCQM",
           "title": "Middle East War: PM मोदी ने 5 देशों के नेताओं से की बात,  युद्ध और होर्मुज संकट पर क्या बोले? | N18G",
           "description": "Middle East War: PM मोदी ने 5 देशों के नेताओं से की बात, युद्ध और होर्मुज संकट ...",
@@ -231,34 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/udUHJcGUCQM/hqdefault.jpg",
           "durationSeconds": 550,
           "durationFormatted": "09:10",
-          "views": 14806,
+          "views": 14862,
           "likes": 90,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "3Mbzgjl0SIM",
-          "title": "Middle East War Update : जंग का 22वां दिन.. ईरान ने चौंका दिया ! | Iran vs Israel | Zee MPCG",
-          "description": "Middle East War Update : जंग का 22वां दिन.. ईरान ने चौंका दिया ! | Iran vs Israel | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-21T14:45:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/3Mbzgjl0SIM/hqdefault.jpg",
-          "durationSeconds": 82,
-          "durationFormatted": "01:22",
-          "views": 6955,
-          "likes": 54,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-21T19:30:18Z"
+      "latestUpdateAt": "2026-03-21T21:30:08Z"
     },
     {
       "clusterId": "basant-agrawal",
       "topic": "Basant Agrawal",
       "videoCount": 5,
-      "trendScore": 48.1,
+      "trendScore": 46.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OZq1xpjddqs/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 10022,
-          "likes": 804,
+          "views": 10497,
+          "likes": 829,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KL60bzLuaH4/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 6721,
-          "likes": 245,
+          "views": 7090,
+          "likes": 253,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pUS0mkAtLlk/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 4681,
-          "likes": 571,
+          "views": 5189,
+          "likes": 589,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EjVGVlwNBVI/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 4200,
-          "likes": 198,
+          "views": 4308,
+          "likes": 201,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/h7E3T0aayYA/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 3195,
-          "likes": 240,
+          "views": 3510,
+          "likes": 246,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "bhaskar-viral",
       "topic": "Bhaskar Viral",
       "videoCount": 11,
-      "trendScore": 42.2,
+      "trendScore": 41.1,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/p4LqEVJtj-U/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 1826,
+          "views": 1984,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mnL2GrJ3JAA/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 775,
+          "views": 790,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pylyzL8zGJ4/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 595,
+          "views": 626,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Civic"
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HiV0GCS919o/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 417,
+          "views": 438,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -423,94 +423,10 @@
       "latestUpdateAt": "2026-03-21T17:30:09Z"
     },
     {
-      "clusterId": "mudde-baat",
-      "topic": "Mudde Baat",
-      "videoCount": 9,
-      "trendScore": 37.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "9UWhg1j-e9c",
-          "title": "Seedhe Mudde Ki Baat : इलेक्ट्रिक गाड़ी रखे हैं, तो सावधान रहिए | Indore | EV Car | Fire Incident",
-          "description": "Seedhe Mudde Ki Baat : इलेक्ट्रिक गाड़ी रखे हैं, तो सावधान रहिए | Indore | EV Car | Fire ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-21T15:15:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/9UWhg1j-e9c/hqdefault.jpg",
-          "durationSeconds": 481,
-          "durationFormatted": "08:01",
-          "views": 546,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "gAZ5nWttXmk",
-          "title": "Seedhe Mudde Ki Baat : दिग्गी, जीतू, अरुण नहीं, तो कौन जाएगा Rajya Sabha? | MP Congress | Politics",
-          "description": "Seedhe Mudde Ki Baat : दिग्गी, जीतू, अरुण नहीं, तो कौन जाएगा Rajya Sabha? | MP Congress ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-21T15:01:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/gAZ5nWttXmk/hqdefault.jpg",
-          "durationSeconds": 324,
-          "durationFormatted": "05:24",
-          "views": 387,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "G0jMwdtmwxk",
-          "title": "🔴Seedhe Mudde Ki Baat : नसबंदी कराने वाले नक्सली अब मां-बाप बन रहे हैं | Naxalites | Parenthood",
-          "description": "Seedhe Mudde Ki Baat : नसबंदी कराने वाले नक्सली अब मां-बाप बन रहे हैं | Naxalites ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-21T15:53:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/G0jMwdtmwxk/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 335,
-          "likes": 4,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "index": 4,
-          "videoId": "CDe2b3qE11A",
-          "title": "Seedhe Mudde Ki Baat : नसबंदी कराने वाले नक्सली अब मां-बाप बन रहे हैं | Naxalites | Parenthood",
-          "description": "Seedhe Mudde Ki Baat : नसबंदी कराने वाले नक्सली अब मां-बाप बन रहे हैं | Naxalites ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-21T15:57:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/CDe2b3qE11A/hqdefault.jpg",
-          "durationSeconds": 378,
-          "durationFormatted": "06:18",
-          "views": 306,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "dwjLIFrTgbc",
-          "title": "🔴Seedhe Mudde Ki Baat : दिग्गी, जीतू, अरुण नहीं, तो कौन जाएगा Rajya Sabha? | MP Congress | Politics",
-          "description": "Seedhe Mudde Ki Baat : दिग्गी, जीतू, अरुण नहीं, तो कौन जाएगा Rajya Sabha? | MP Congress ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-21T14:58:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/dwjLIFrTgbc/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 236,
-          "likes": 2,
-          "videoType": "LIVE",
-          "genre": "Live"
-        }
-      ],
-      "latestUpdateAt": "2026-03-21T16:44:07Z"
-    },
-    {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
-      "videoCount": 6,
-      "trendScore": 36.0,
+      "videoCount": 5,
+      "trendScore": 34.2,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PICA6YaRPk4/hqdefault.jpg",
           "durationSeconds": 1512,
           "durationFormatted": "25:12",
-          "views": 22018,
+          "views": 22045,
           "likes": 307,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0AWbIt6aXlk/hqdefault.jpg",
           "durationSeconds": 926,
           "durationFormatted": "15:26",
-          "views": 1070,
+          "views": 1092,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -559,6 +475,21 @@
         },
         {
           "index": 4,
+          "videoId": "yVZBSxYywhI",
+          "title": "धर्म स्वतंत्रता विधेयक 2026 पर बवाल, मसीह समाज ने छेड़ा विरोध, रायपुर में मशाल रैली का ऐलान",
+          "description": "छत्तीसगढ़ में धर्म स्वतंत्रता विधेयक 2026 के पारित होने के बाद विरोध ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-21T13:45:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/yVZBSxYywhI/hqdefault.jpg",
+          "durationSeconds": 192,
+          "durationFormatted": "03:12",
+          "views": 53,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "fEcyUY3JqFE",
           "title": "छत्तीसगढ़ी म देखव छत्तीसगढ़ के जम्मो खबर | खबर संझा | CG Latest News | Today News | Trending News",
           "description": "छत्तीसगढ़ी म देखव छत्तीसगढ़ के जम्मो खबर | खबर संझा | CG Latest News | Today News ...",
@@ -571,21 +502,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "yVZBSxYywhI",
-          "title": "धर्म स्वतंत्रता विधेयक 2026 पर बवाल, मसीह समाज ने छेड़ा विरोध, रायपुर में मशाल रैली का ऐलान",
-          "description": "छत्तीसगढ़ में धर्म स्वतंत्रता विधेयक 2026 के पारित होने के बाद विरोध ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-03-21T13:45:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/yVZBSxYywhI/hqdefault.jpg",
-          "durationSeconds": 192,
-          "durationFormatted": "03:12",
-          "views": 30,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-21T14:31:16Z"
@@ -594,7 +510,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 5,
-      "trendScore": 32.4,
+      "trendScore": 31.3,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HTD7d8c6XJU/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 867,
+          "views": 885,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ocOvdJOtP_g/hqdefault.jpg",
           "durationSeconds": 1597,
           "durationFormatted": "26:37",
-          "views": 659,
+          "views": 688,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Politics"
@@ -666,7 +582,7 @@
           "thumbnail": "https://i.ytimg.com/vi/E9Gub2yZzwc/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 92,
+          "views": 94,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -675,79 +591,10 @@
       "latestUpdateAt": "2026-03-21T16:57:21Z"
     },
     {
-      "clusterId": "बच-हमल",
-      "topic": "बीच हमले",
-      "videoCount": 4,
-      "trendScore": 30.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "OUCBCb4sLW8",
-          "title": "पश्चिम एशिया में तनाव बढ़ा,ईरान और इस्राइल के बीच हमले,अमेरिका ने दिया नया संदेश ?",
-          "description": "चार हजार किलोमीटर दूर 'डिएगो गार्सिया' में ईरान के मिसाइल हमले के ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-21T15:47:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/OUCBCb4sLW8/hqdefault.jpg",
-          "durationSeconds": 199,
-          "durationFormatted": "03:19",
-          "views": 77,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "TySF5kRSdVE",
-          "title": "हिंद महासागर तक पहुंचे ईरान के हमले, दागी डिएगो गार्सिया पर बैलिस्टिक मिसाइलें...",
-          "description": "जंग का दायरा लगातार बढ़ता जा रहा है...ईरान ने शनिवार को हिंद महासागर ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-21T15:33:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/TySF5kRSdVE/hqdefault.jpg",
-          "durationSeconds": 175,
-          "durationFormatted": "02:55",
-          "views": 76,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "OqOrdR7wl3I",
-          "title": "Neemuch Crime News: ईद की खुशियों के बीच खूनी संघर्ष। 4 आरोपियों ने युवक पर किया चाकू से हमला",
-          "description": "IBC24, Neemuch Crime News: ईद की खुशियों के बीच खूनी संघर्ष। 4 आरोपियों ने युवक ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-03-21T18:50:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/OqOrdR7wl3I/hqdefault.jpg",
-          "durationSeconds": 83,
-          "durationFormatted": "01:23",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "h-we_N8xM_w",
-          "title": "Anuppur News: प्रोफेसर पर हुए कथित हमले का मामला। IGNTU में 11 शोध छात्रों को किया गया निष्कासित",
-          "description": "IBC24, Anuppur News: प्रोफेसर पर हुए कथित हमले का मामला। IGNTU में 11 शोध ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-03-21T18:03:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/h-we_N8xM_w/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-21T18:50:26Z"
-    },
-    {
       "clusterId": "durg-rajnandgaon",
       "topic": "Durg Rajnandgaon",
       "videoCount": 11,
-      "trendScore": 30.4,
+      "trendScore": 29.5,
       "topVideos": [
         {
           "index": 1,
@@ -759,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JGFIbrrjwL8/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 32,
+          "views": 34,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -789,13 +636,28 @@
           "thumbnail": "https://i.ytimg.com/vi/xwFfRHhPIv4/hqdefault.jpg",
           "durationSeconds": 154,
           "durationFormatted": "02:34",
-          "views": 12,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "ZEggpVHz0bo",
+          "title": "दुर्ग पुलिस ने आयोजित की क्राइम मीटिंग, लंबित अपराध और प्रकरणों के निस्तारण पर दिया जोर",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-21T11:11:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZEggpVHz0bo/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 11,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "tUb_Jh1wLAo",
           "title": "जिला पंचायत केसीजी के मैकाल सदन में जिला स्तरीय जेंडर कार्यशाला आयोजित",
           "description": "chhattisgarhnews #madhyapradehnews #kcg ........................................................................................................................................... India ...",
@@ -808,30 +670,84 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "ZEggpVHz0bo",
-          "title": "दुर्ग पुलिस ने आयोजित की क्राइम मीटिंग, लंबित अपराध और प्रकरणों के निस्तारण पर दिया जोर",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-21T11:11:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZEggpVHz0bo/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 10,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-03-21T13:03:01Z"
     },
     {
+      "clusterId": "neemuch-crime",
+      "topic": "Neemuch Crime",
+      "videoCount": 4,
+      "trendScore": 28.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "TySF5kRSdVE",
+          "title": "हिंद महासागर तक पहुंचे ईरान के हमले, दागी डिएगो गार्सिया पर बैलिस्टिक मिसाइलें...",
+          "description": "जंग का दायरा लगातार बढ़ता जा रहा है...ईरान ने शनिवार को हिंद महासागर ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-21T15:33:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/TySF5kRSdVE/hqdefault.jpg",
+          "durationSeconds": 175,
+          "durationFormatted": "02:55",
+          "views": 108,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "OUCBCb4sLW8",
+          "title": "पश्चिम एशिया में तनाव बढ़ा,ईरान और इस्राइल के बीच हमले,अमेरिका ने दिया नया संदेश ?",
+          "description": "चार हजार किलोमीटर दूर 'डिएगो गार्सिया' में ईरान के मिसाइल हमले के ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-21T15:47:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/OUCBCb4sLW8/hqdefault.jpg",
+          "durationSeconds": 199,
+          "durationFormatted": "03:19",
+          "views": 106,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "OqOrdR7wl3I",
+          "title": "Neemuch Crime News: ईद की खुशियों के बीच खूनी संघर्ष। 4 आरोपियों ने युवक पर किया चाकू से हमला",
+          "description": "IBC24, Neemuch Crime News: ईद की खुशियों के बीच खूनी संघर्ष। 4 आरोपियों ने युवक ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-21T18:50:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/OqOrdR7wl3I/hqdefault.jpg",
+          "durationSeconds": 83,
+          "durationFormatted": "01:23",
+          "views": 29,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "h-we_N8xM_w",
+          "title": "Anuppur News: प्रोफेसर पर हुए कथित हमले का मामला। IGNTU में 11 शोध छात्रों को किया गया निष्कासित",
+          "description": "IBC24, Anuppur News: प्रोफेसर पर हुए कथित हमले का मामला। IGNTU में 11 शोध ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-21T18:03:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/h-we_N8xM_w/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-21T18:50:26Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 27.7,
+      "trendScore": 26.7,
       "topVideos": [
         {
           "index": 1,
@@ -843,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jKNJ_fLuvwA/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 511,
+          "views": 514,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -865,6 +781,75 @@
         }
       ],
       "latestUpdateAt": "2026-03-21T14:34:02Z"
+    },
+    {
+      "clusterId": "mpcg-march",
+      "topic": "MPCG March",
+      "videoCount": 4,
+      "trendScore": 18.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "AZAzAOEBMyc",
+          "title": "🔴LIVE, MPCG News 21 March 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-21T12:34:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/AZAzAOEBMyc/hqdefault.jpg",
+          "durationSeconds": 4475,
+          "durationFormatted": "01:14:35",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "07oGHxMhVlc",
+          "title": "🔴LIVE, MPCG News 21 March 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-21T18:53:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/07oGHxMhVlc/hqdefault.jpg",
+          "durationSeconds": 4827,
+          "durationFormatted": "01:20:27",
+          "views": 2,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "GO2q6BmJGpk",
+          "title": "🔴LIVE, MPCG News 21 March 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-21T20:46:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/GO2q6BmJGpk/hqdefault.jpg",
+          "durationSeconds": 1325,
+          "durationFormatted": "22:05",
+          "views": 2,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "UBaM7_lQ-hE",
+          "title": "🔴LIVE, MPCG News 21 March 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-21T14:23:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/UBaM7_lQ-hE/hqdefault.jpg",
+          "durationSeconds": 147,
+          "durationFormatted": "02:27",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-21T20:46:57Z"
     }
   ]
 }
