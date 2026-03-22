@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-22T18:54:30.372775Z",
+  "generatedAt": "2026-03-22T20:42:39.970610Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 97,
-      "trendScore": 64.9,
+      "trendScore": 63.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IKttyAOg5Qs/hqdefault.jpg",
           "durationSeconds": 1548,
           "durationFormatted": "25:48",
-          "views": 34969,
+          "views": 35079,
           "likes": 384,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BQqKR5sjga4/hqdefault.jpg",
           "durationSeconds": 699,
           "durationFormatted": "11:39",
-          "views": 15758,
-          "likes": 91,
+          "views": 18007,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v-Yb-BhGa9I/hqdefault.jpg",
           "durationSeconds": 484,
           "durationFormatted": "08:04",
-          "views": 15103,
+          "views": 16837,
           "likes": 137,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hWTia92_Bbg/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 14901,
-          "likes": 598,
+          "views": 14991,
+          "likes": 599,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wrLG1yA9xVI/hqdefault.jpg",
           "durationSeconds": 551,
           "durationFormatted": "09:11",
-          "views": 8191,
-          "likes": 311,
+          "views": 11794,
+          "likes": 324,
           "videoType": "VOD",
           "genre": "Traffic"
         }
@@ -89,8 +89,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 13,
-      "trendScore": 41.3,
+      "videoCount": 12,
+      "trendScore": 39.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kUb3vqq7kO0/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 2363,
-          "likes": 14,
+          "views": 2465,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Zre1TnRur1E/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 819,
+          "views": 831,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "v7XPm1mOWh0",
-          "title": "अदा की गई ईद-उल-फितर की नमाज",
-          "description": "",
-          "channelTitle": "SABKA SANDESH NEWS",
-          "publishedAt": "2026-03-21T19:59:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/v7XPm1mOWh0/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 706,
-          "likes": 19,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "sReyKX7lRXU",
           "title": "चैत्र नवरात्रि में बड़ी संख्या में डोंगरगढ़ पहुंच रहे श्रद्धालु, मां बम्लेश्वरी के कर रहे दर्शन",
           "description": "चैत्र नवरात्रि में बड़ी संख्या में डोंगरगढ़ पहुंच रहे श्रद्धालु, ...",
@@ -147,13 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sReyKX7lRXU/hqdefault.jpg",
           "durationSeconds": 359,
           "durationFormatted": "05:59",
-          "views": 252,
+          "views": 291,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "FXmIxYtAeQY",
           "title": "Rajnandgaon News: गणगौर पर्व पर उमड़ा जनसैलाब, ढोल-नगाड़ों के साथ निकली शोभायात्रा",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -162,8 +147,23 @@
           "thumbnail": "https://i.ytimg.com/vi/FXmIxYtAeQY/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 44,
+          "views": 71,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Xpq3vcpdXiE",
+          "title": "Rajnandgaon News : राजनांदगांव में ईद-उल-फितर पर ईदगाह में उमड़ी भारी भीड़",
+          "description": "राजनांदगांव में ईद-उल-फितर का पर्व हर्षोल्लास और भाईचारे के साथ ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-22T08:38:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xpq3vcpdXiE/hqdefault.jpg",
+          "durationSeconds": 165,
+          "durationFormatted": "02:45",
+          "views": 27,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -173,8 +173,8 @@
     {
       "clusterId": "viral-n18s",
       "topic": "Viral N18S",
-      "videoCount": 6,
-      "trendScore": 40.9,
+      "videoCount": 5,
+      "trendScore": 38.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_H7riPOOGgQ/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 30540,
-          "likes": 464,
+          "views": 41885,
+          "likes": 500,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,23 +201,23 @@
           "thumbnail": "https://i.ytimg.com/vi/GRBC4RSS-Rw/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 5273,
-          "likes": 26,
+          "views": 6590,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "IHDd3Z3pDlE",
-          "title": "Viral Video : मंच पर फूट-फूटकर रोए संजय निषाद! | N18S | Shorts",
-          "description": "Viral Video : मंच पर फूट-फूटकर रोए संजय निषाद! | N18S | Shorts For all the latest news from Madhya ...",
+          "videoId": "jQZE2cMtEVM",
+          "title": "Omkareshwar : द्वादश ज्योतिर्लिङ्ग में चतुर्थ श्री ओंकारेश्वर महादेव का संध्या श्रृंगार दर्शन | N18S",
+          "description": "Omkareshwar : द्वादश ज्योतिर्लिङ्ग में चतुर्थ श्री ओंकारेश्वर महादेव ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-22T14:08:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/IHDd3Z3pDlE/hqdefault.jpg",
-          "durationSeconds": 49,
-          "durationFormatted": "00:49",
-          "views": 4193,
-          "likes": 19,
+          "publishedAt": "2026-03-22T15:08:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/jQZE2cMtEVM/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 5545,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,25 +231,25 @@
           "thumbnail": "https://i.ytimg.com/vi/9nBjErks7wA/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 3911,
-          "likes": 27,
+          "views": 4192,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "jQZE2cMtEVM",
-          "title": "Omkareshwar : द्वादश ज्योतिर्लिङ्ग में चतुर्थ श्री ओंकारेश्वर महादेव का संध्या श्रृंगार दर्शन | N18S",
-          "description": "Omkareshwar : द्वादश ज्योतिर्लिङ्ग में चतुर्थ श्री ओंकारेश्वर महादेव ...",
+          "videoId": "g2jxDgUL3RA",
+          "title": "Baba Mahakal Viral Video : देखिए बाबा श्री महाकालेश्वर जी की संध्या आरती श्रृंगार दर्शन | N18S",
+          "description": "Baba Mahakal Viral Video : देखिए बाबा श्री महाकालेश्वर जी की संध्या आरती ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-22T15:08:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/jQZE2cMtEVM/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 3770,
-          "likes": 61,
+          "publishedAt": "2026-03-22T15:14:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/g2jxDgUL3RA/hqdefault.jpg",
+          "durationSeconds": 34,
+          "durationFormatted": "00:34",
+          "views": 2693,
+          "likes": 40,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-22T15:14:53Z"
@@ -258,7 +258,7 @@
       "clusterId": "chhattisgarh-naxalism",
       "topic": "Chhattisgarh Naxalism",
       "videoCount": 6,
-      "trendScore": 39.0,
+      "trendScore": 37.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vS4Uyl9HaAk/hqdefault.jpg",
           "durationSeconds": 1111,
           "durationFormatted": "18:31",
-          "views": 752,
-          "likes": 21,
+          "views": 1139,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VEJlgWmd7ag/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 678,
+          "views": 726,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/byLGKwFBvFk/hqdefault.jpg",
           "durationSeconds": 474,
           "durationFormatted": "07:54",
-          "views": 604,
-          "likes": 13,
+          "views": 723,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fv6d2uyZ26s/hqdefault.jpg",
           "durationSeconds": 659,
           "durationFormatted": "10:59",
-          "views": 486,
+          "views": 537,
           "likes": 33,
           "videoType": "VOD",
           "genre": "General"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/myM0k_-1Q4U/hqdefault.jpg",
           "durationSeconds": 579,
           "durationFormatted": "09:39",
-          "views": 308,
+          "views": 305,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -339,163 +339,10 @@
       "latestUpdateAt": "2026-03-22T16:08:21Z"
     },
     {
-      "clusterId": "bhaskar-हत",
-      "topic": "Bhaskar होती",
-      "videoCount": 4,
-      "trendScore": 33.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "km6Ognqs_rs",
-          "title": "कैंप - 2 गुरूद्वारे में हुई घर वापसी !  | CG Bhaskar",
-          "description": "Jकैंप - 2 गुरूद्वारे में हुई घर वापसी ! oin our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-22T08:00:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/km6Ognqs_rs/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 767,
-          "likes": 27,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "5E-2kSK4srw",
-          "title": "अनोखी परंपरा : पत्थर चढ़ाने पर पूरी होती है मनोकामना! | CG Bhaskar",
-          "description": "अनोखी परंपरा : पत्थर चढ़ाने पर पूरी होती है मनोकामना! | CG Bhaskar Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-22T13:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/5E-2kSK4srw/hqdefault.jpg",
-          "durationSeconds": 124,
-          "durationFormatted": "02:04",
-          "views": 543,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "3zp9rseSkok",
-          "title": "ऐसे होती है तीखी हरी मिर्च की खेती ! | CG Bhaskar",
-          "description": "ऐसे होती है तीखी हरी मिर्च की खेती ! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-22T11:21:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/3zp9rseSkok/hqdefault.jpg",
-          "durationSeconds": 84,
-          "durationFormatted": "01:24",
-          "views": 366,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "mnkcFjB4f_A",
-          "title": "EPISODE 1: Rajnandgaon में नेता जी के साथ जनता से बात |mayank",
-          "description": "EPISODE 1: Rajnandgaon में नेता जी के साथ जनता से बात |mayank Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-22T16:01:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/mnkcFjB4f_A/hqdefault.jpg",
-          "durationSeconds": 96,
-          "durationFormatted": "01:36",
-          "views": 133,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-03-22T16:01:06Z"
-    },
-    {
-      "clusterId": "khallari-mata",
-      "topic": "Khallari Mata",
-      "videoCount": 5,
-      "trendScore": 33.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "kIw1VdB6z4E",
-          "title": "Khallari Mata Mandir Accident: खल्लारी मंदिर में Ropeway टूटा, हवा में लटकी Trolley, 1 मौत, 8 घायल!",
-          "description": "Khallari Mata Mandir Accident: खल्लारी मंदिर में Ropeway टूटा, हवा में लटकी Trolley, 1 मौत, ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-22T07:53:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/kIw1VdB6z4E/hqdefault.jpg",
-          "durationSeconds": 768,
-          "durationFormatted": "12:48",
-          "views": 10113,
-          "likes": 58,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "Q8C5zF2epj4",
-          "title": "Khallari Mata Mandir Tragedy: महासमुंद में रोपवे टूटने से एक की मौत, कई घायल, जांच जारी | Mahasamund",
-          "description": "Khallari Mata Mandir Tragedy: महासमुंद में रोपवे टूटने से एक की मौत, कई घायल, जांच ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-22T13:39:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q8C5zF2epj4/hqdefault.jpg",
-          "durationSeconds": 403,
-          "durationFormatted": "06:43",
-          "views": 1008,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "wA2p1pvLOmE",
-          "title": "Khallari Mata Mandir Tragedy: खल्लारी माता मंदिर रोप-वे हादसा, CM Sai ने दिए जांच के निर्देश | MP",
-          "description": "Khallari Mata Mandir Tragedy: खल्लारी माता मंदिर रोप-वे हादसा, CM Sai ने दिए जांच के ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-22T11:35:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/wA2p1pvLOmE/hqdefault.jpg",
-          "durationSeconds": 400,
-          "durationFormatted": "06:40",
-          "views": 742,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "YCvRLDGDOWo",
-          "title": "Khallari Mata Mandir Rope-Way Accident कैसे हुआ? चश्मदीदों ने क्या बताया? Mahasamund | Breaking News",
-          "description": "Khallari Mata Mandir Rope-Way Accident कैसे हुआ? चश्मदीदों ने क्या बताया? Mahasamund ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-22T10:29:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/YCvRLDGDOWo/hqdefault.jpg",
-          "durationSeconds": 387,
-          "durationFormatted": "06:27",
-          "views": 247,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
-          "videoId": "4lodQfsDfNw",
-          "title": "Khallari Mata Mandir Accident: Ropeway घटना पर CM Sai ने जताया दुख! Chhattisgarh | Mahasamund News",
-          "description": "Khallari Mata Mandir Accident: Ropeway घटना पर CM Sai ने जताया दुख! Chhattisgarh | Mahasamund News ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-22T08:32:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/4lodQfsDfNw/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 209,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-03-22T13:39:56Z"
-    },
-    {
       "clusterId": "jagdalpur-rajnandgaon",
       "topic": "Jagdalpur Rajnandgaon",
-      "videoCount": 11,
-      "trendScore": 31.8,
+      "videoCount": 15,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -507,13 +354,28 @@
           "thumbnail": "https://i.ytimg.com/vi/gMEmdla6CH8/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 36,
+          "views": 37,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "9WPQuXQOZBg",
+          "title": "Janjgir Champa News: विधायक के संघर्ष से रोड पीथमपुर निर्माण को सरकार की मिली हरी झंडी",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-22T11:44:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/9WPQuXQOZBg/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 26,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "S_WUgunYJn0",
           "title": "Rajnandgaon News: डोंगरगढ़ स्थित मां बम्लेश्वरी के दर्शन के लिए निकले श्रद्धालु! भक्तिमय हुआ माहौल",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -526,21 +388,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "9WPQuXQOZBg",
-          "title": "Janjgir Champa News: विधायक के संघर्ष से रोड पीथमपुर निर्माण को सरकार की मिली हरी झंडी",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-22T11:44:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/9WPQuXQOZBg/hqdefault.jpg",
-          "durationSeconds": 133,
-          "durationFormatted": "02:13",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         },
         {
           "index": 4,
@@ -559,27 +406,180 @@
         },
         {
           "index": 5,
-          "videoId": "coeI83ctbk8",
-          "title": "Kanker News: 75 मीटर सड़क पर विवाद! ग्रामीणों ने PWD पर लगाए गंभीर आरोप",
+          "videoId": "Y6ATIDc4M-w",
+          "title": "मऊगंज - NH-135 में भीषण हादसा! युवक की मौ.T के बाद ग्रामीणों ने किया चक्काजाम",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-22T13:09:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/coeI83ctbk8/hqdefault.jpg",
-          "durationSeconds": 161,
-          "durationFormatted": "02:41",
+          "publishedAt": "2026-03-22T06:28:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/Y6ATIDc4M-w/hqdefault.jpg",
+          "durationSeconds": 109,
+          "durationFormatted": "01:49",
           "views": 7,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-03-22T13:51:55Z"
     },
     {
+      "clusterId": "khallari-mata",
+      "topic": "Khallari Mata",
+      "videoCount": 6,
+      "trendScore": 34.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "kIw1VdB6z4E",
+          "title": "Khallari Mata Mandir Accident: खल्लारी मंदिर में Ropeway टूटा, हवा में लटकी Trolley, 1 मौत, 8 घायल!",
+          "description": "Khallari Mata Mandir Accident: खल्लारी मंदिर में Ropeway टूटा, हवा में लटकी Trolley, 1 मौत, ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-22T07:53:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/kIw1VdB6z4E/hqdefault.jpg",
+          "durationSeconds": 768,
+          "durationFormatted": "12:48",
+          "views": 10768,
+          "likes": 58,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "Q8C5zF2epj4",
+          "title": "Khallari Mata Mandir Tragedy: महासमुंद में रोपवे टूटने से एक की मौत, कई घायल, जांच जारी | Mahasamund",
+          "description": "Khallari Mata Mandir Tragedy: महासमुंद में रोपवे टूटने से एक की मौत, कई घायल, जांच ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-22T13:39:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q8C5zF2epj4/hqdefault.jpg",
+          "durationSeconds": 403,
+          "durationFormatted": "06:43",
+          "views": 1348,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "wA2p1pvLOmE",
+          "title": "Khallari Mata Mandir Tragedy: खल्लारी माता मंदिर रोप-वे हादसा, CM Sai ने दिए जांच के निर्देश | MP",
+          "description": "Khallari Mata Mandir Tragedy: खल्लारी माता मंदिर रोप-वे हादसा, CM Sai ने दिए जांच के ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-22T11:35:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/wA2p1pvLOmE/hqdefault.jpg",
+          "durationSeconds": 400,
+          "durationFormatted": "06:40",
+          "views": 843,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "YCvRLDGDOWo",
+          "title": "Khallari Mata Mandir Rope-Way Accident कैसे हुआ? चश्मदीदों ने क्या बताया? Mahasamund | Breaking News",
+          "description": "Khallari Mata Mandir Rope-Way Accident कैसे हुआ? चश्मदीदों ने क्या बताया? Mahasamund ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-22T10:29:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/YCvRLDGDOWo/hqdefault.jpg",
+          "durationSeconds": 387,
+          "durationFormatted": "06:27",
+          "views": 300,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "4lodQfsDfNw",
+          "title": "Khallari Mata Mandir Accident: Ropeway घटना पर CM Sai ने जताया दुख! Chhattisgarh | Mahasamund News",
+          "description": "Khallari Mata Mandir Accident: Ropeway घटना पर CM Sai ने जताया दुख! Chhattisgarh | Mahasamund News ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-22T08:32:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/4lodQfsDfNw/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 234,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-03-22T16:03:00Z"
+    },
+    {
+      "clusterId": "bhaskar-हत",
+      "topic": "Bhaskar होती",
+      "videoCount": 4,
+      "trendScore": 32.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "km6Ognqs_rs",
+          "title": "कैंप - 2 गुरूद्वारे में हुई घर वापसी !  | CG Bhaskar",
+          "description": "Jकैंप - 2 गुरूद्वारे में हुई घर वापसी ! oin our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-22T08:00:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/km6Ognqs_rs/hqdefault.jpg",
+          "durationSeconds": 142,
+          "durationFormatted": "02:22",
+          "views": 774,
+          "likes": 28,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "5E-2kSK4srw",
+          "title": "अनोखी परंपरा : पत्थर चढ़ाने पर पूरी होती है मनोकामना! | CG Bhaskar",
+          "description": "अनोखी परंपरा : पत्थर चढ़ाने पर पूरी होती है मनोकामना! | CG Bhaskar Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-22T13:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/5E-2kSK4srw/hqdefault.jpg",
+          "durationSeconds": 124,
+          "durationFormatted": "02:04",
+          "views": 763,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "3zp9rseSkok",
+          "title": "ऐसे होती है तीखी हरी मिर्च की खेती ! | CG Bhaskar",
+          "description": "ऐसे होती है तीखी हरी मिर्च की खेती ! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-22T11:21:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/3zp9rseSkok/hqdefault.jpg",
+          "durationSeconds": 84,
+          "durationFormatted": "01:24",
+          "views": 410,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "mnkcFjB4f_A",
+          "title": "EPISODE 1: Rajnandgaon में नेता जी के साथ जनता से बात |mayank",
+          "description": "EPISODE 1: Rajnandgaon में नेता जी के साथ जनता से बात |mayank Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-22T16:01:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/mnkcFjB4f_A/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 167,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-03-22T16:01:06Z"
+    },
+    {
       "clusterId": "family-planning",
       "topic": "Family Planning",
       "videoCount": 4,
-      "trendScore": 31.4,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HXK_2x-MqMw/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 1205,
+          "views": 1300,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YKC5cuMHfPY/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 711,
+          "views": 762,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gzGY_amOCto/hqdefault.jpg",
           "durationSeconds": 3026,
           "durationFormatted": "50:26",
-          "views": 707,
+          "views": 715,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6m6txTxETX0/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 274,
+          "views": 344,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -648,7 +648,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 19.8,
+      "trendScore": 18.8,
       "topVideos": [
         {
           "index": 1,
