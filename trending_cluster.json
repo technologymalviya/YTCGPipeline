@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-23T19:10:34.746325Z",
+  "generatedAt": "2026-03-23T20:52:23.278401Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 76,
-      "trendScore": 64.3,
+      "videoCount": 86,
+      "trendScore": 63.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1uy1GVAHknQ/hqdefault.jpg",
           "durationSeconds": 1507,
           "durationFormatted": "25:07",
-          "views": 41428,
+          "views": 41678,
           "likes": 389,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DKJ7FKimb7U/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 15104,
-          "likes": 367,
+          "views": 16224,
+          "likes": 375,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vICdMbP99UQ/hqdefault.jpg",
           "durationSeconds": 1280,
           "durationFormatted": "21:20",
-          "views": 8068,
-          "likes": 265,
+          "views": 10301,
+          "likes": 275,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rsZvPdFkkz0/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 6949,
-          "likes": 37,
+          "views": 7384,
+          "likes": 36,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/AWvEICk32dQ/hqdefault.jpg",
           "durationSeconds": 382,
           "durationFormatted": "06:22",
-          "views": 4750,
-          "likes": 196,
+          "views": 5384,
+          "likes": 203,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-23T19:08:41Z"
+      "latestUpdateAt": "2026-03-23T19:52:01Z"
     },
     {
       "clusterId": "chhattisgarh-naxalism",
       "topic": "Chhattisgarh Naxalism",
       "videoCount": 10,
-      "trendScore": 44.4,
+      "trendScore": 43.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MMvYUKEkHsM/hqdefault.jpg",
           "durationSeconds": 476,
           "durationFormatted": "07:56",
-          "views": 6250,
-          "likes": 92,
+          "views": 7443,
+          "likes": 98,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IPsLx_I2KAg/hqdefault.jpg",
           "durationSeconds": 362,
           "durationFormatted": "06:02",
-          "views": 3974,
+          "views": 4464,
           "likes": 110,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NojKIMF9-c4/hqdefault.jpg",
           "durationSeconds": 1222,
           "durationFormatted": "20:22",
-          "views": 2180,
-          "likes": 29,
+          "views": 2631,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JKKtGdXTyg8/hqdefault.jpg",
           "durationSeconds": 37,
           "durationFormatted": "00:37",
-          "views": 709,
+          "views": 942,
           "likes": 20,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PYCnU2-oETU/hqdefault.jpg",
           "durationSeconds": 611,
           "durationFormatted": "10:11",
-          "views": 570,
+          "views": 615,
           "likes": 38,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "gold-silver",
       "topic": "Gold Silver",
       "videoCount": 8,
-      "trendScore": 44.0,
+      "trendScore": 43.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IzyUL9s02XM/hqdefault.jpg",
           "durationSeconds": 297,
           "durationFormatted": "04:57",
-          "views": 28090,
-          "likes": 220,
+          "views": 31184,
+          "likes": 224,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7VXP2ZwEPJE/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 24936,
+          "views": 25387,
           "likes": 127,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Z0aoA457SfI/hqdefault.jpg",
           "durationSeconds": 238,
           "durationFormatted": "03:58",
-          "views": 20158,
-          "likes": 233,
+          "views": 23398,
+          "likes": 236,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/s2znZnvXX18/hqdefault.jpg",
           "durationSeconds": 282,
           "durationFormatted": "04:42",
-          "views": 10334,
-          "likes": 181,
+          "views": 16610,
+          "likes": 192,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/S_OH0JrMDgA/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 2690,
-          "likes": 30,
+          "views": 3254,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,10 +255,94 @@
       "latestUpdateAt": "2026-03-23T17:42:45Z"
     },
     {
+      "clusterId": "chhattisgarh-samachar",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 7,
+      "trendScore": 38.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "_rpEPUhHRO4",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 23 मार्च 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 23 मार्च 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-03-22T23:30:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/_rpEPUhHRO4/hqdefault.jpg",
+          "durationSeconds": 1551,
+          "durationFormatted": "25:51",
+          "views": 19118,
+          "likes": 243,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "wmC7r1mPKTs",
+          "title": "24 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "23 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-03-22T23:30:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/wmC7r1mPKTs/hqdefault.jpg",
+          "durationSeconds": 921,
+          "durationFormatted": "15:21",
+          "views": 3138,
+          "likes": 23,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "vMUPhZnERX4",
+          "title": "धनोरा के 8 किसानों की जमीन को अफसरों ने किया घास भूमि घोषि, बिना जांच के निर्माण कार्य हुआ शुरू",
+          "description": "धनोरा के 8 किसानों की जमीन को अफसरों ने किया घास भूमि घोषि, बिना जांच ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-23T15:30:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/vMUPhZnERX4/hqdefault.jpg",
+          "durationSeconds": 974,
+          "durationFormatted": "16:14",
+          "views": 233,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "KcJeqyM9_ws",
+          "title": "Chhattisgarh-Madhya Pradesh की रात 11 बजे की बड़ी खबरें | 23 March 2026 | News राउंडअप",
+          "description": "IBC24, Chhattisgarh-Madhya Pradesh की रात 11 बजे की बड़ी खबरें | 23 March 2026 | News राउंडअप ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-23T19:15:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/KcJeqyM9_ws/hqdefault.jpg",
+          "durationSeconds": 3115,
+          "durationFormatted": "51:55",
+          "views": 50,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "tStiPeFfzGE",
+          "title": "🔴 Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 23 March 2026",
+          "description": "IBC24, Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 23 March ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-23T18:26:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/tStiPeFfzGE/hqdefault.jpg",
+          "durationSeconds": 1048,
+          "durationFormatted": "17:28",
+          "views": 24,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-23T19:15:41Z"
+    },
+    {
       "clusterId": "bhaskar-tension",
       "topic": "Bhaskar Tension",
       "videoCount": 7,
-      "trendScore": 38.6,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,
@@ -285,28 +369,13 @@
           "thumbnail": "https://i.ytimg.com/vi/7t6eOENSzx0/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 596,
-          "likes": 5,
+          "views": 627,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
           "index": 3,
-          "videoId": "P9vlicS82m4",
-          "title": "मिडिल ईस्ट Tension के बीच PM मोदी का बड़ा ऐलान | CG Bhaskar",
-          "description": "मिडिल ईस्ट Tension के बीच PM मोदी का बड़ा ऐलान | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-23T06:29:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/P9vlicS82m4/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 533,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "GblXHV0A2Eg",
           "title": "12वीं बोर्ड की हिंदी परीक्षा रद्द, अब 10 अप्रेल को होगा पेपर",
           "description": "12वीं बोर्ड की हिंदी परीक्षा रद्द, अब 10 अप्रेल को होगा पेपर Join our Whatsapp ...",
@@ -315,10 +384,25 @@
           "thumbnail": "https://i.ytimg.com/vi/GblXHV0A2Eg/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 489,
-          "likes": 11,
+          "views": 552,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Jobs"
+        },
+        {
+          "index": 4,
+          "videoId": "P9vlicS82m4",
+          "title": "मिडिल ईस्ट Tension के बीच PM मोदी का बड़ा ऐलान | CG Bhaskar",
+          "description": "मिडिल ईस्ट Tension के बीच PM मोदी का बड़ा ऐलान | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-23T06:29:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/P9vlicS82m4/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 531,
+          "likes": 22,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -330,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZpHPwyIF1Zw/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 255,
+          "views": 285,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -339,94 +423,10 @@
       "latestUpdateAt": "2026-03-23T16:30:04Z"
     },
     {
-      "clusterId": "chhattisgarh-samachar",
-      "topic": "Chhattisgarh Samachar",
-      "videoCount": 6,
-      "trendScore": 37.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "_rpEPUhHRO4",
-          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 23 मार्च 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
-          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 23 मार्च 2026 छत्तीसगढ़ की फटाफट ताजा ...",
-          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
-          "publishedAt": "2026-03-22T23:30:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/_rpEPUhHRO4/hqdefault.jpg",
-          "durationSeconds": 1551,
-          "durationFormatted": "25:51",
-          "views": 18999,
-          "likes": 243,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "wmC7r1mPKTs",
-          "title": "23 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "23 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-03-22T23:30:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/wmC7r1mPKTs/hqdefault.jpg",
-          "durationSeconds": 921,
-          "durationFormatted": "15:21",
-          "views": 3074,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "vMUPhZnERX4",
-          "title": "धनोरा के 8 किसानों की जमीन को अफसरों ने किया घास भूमि घोषि, बिना जांच के निर्माण कार्य हुआ शुरू",
-          "description": "धनोरा के 8 किसानों की जमीन को अफसरों ने किया घास भूमि घोषि, बिना जांच ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-23T15:30:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/vMUPhZnERX4/hqdefault.jpg",
-          "durationSeconds": 974,
-          "durationFormatted": "16:14",
-          "views": 125,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "tStiPeFfzGE",
-          "title": "🔴 Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 23 March 2026",
-          "description": "IBC24, Top 10 News: Chhattisgarh-Madhya Pradesh से जुड़ी दिनभर की 10 बड़ी खबरें। 23 March ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-23T18:26:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/tStiPeFfzGE/hqdefault.jpg",
-          "durationSeconds": 1048,
-          "durationFormatted": "17:28",
-          "views": 20,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "EaYLkEyXp5U",
-          "title": "Chhattisgarh Badi Bahas : क्या छत्तीसगढ़ बन रहा अफीम उगाने का गढ़? सियासी घमासान तेज |",
-          "description": "छत्तीसगढ़ में अफीम की अवैध खेती का मामला सामने आने के बाद सियासत तेज ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-23T15:03:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/EaYLkEyXp5U/hqdefault.jpg",
-          "durationSeconds": 1166,
-          "durationFormatted": "19:26",
-          "views": 8,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-03-23T18:26:02Z"
-    },
-    {
       "clusterId": "rajnandgaon-rpf",
       "topic": "Rajnandgaon RPF",
-      "videoCount": 15,
-      "trendScore": 35.5,
+      "videoCount": 18,
+      "trendScore": 37.7,
       "topVideos": [
         {
           "index": 1,
@@ -453,13 +453,28 @@
           "thumbnail": "https://i.ytimg.com/vi/R8elFAU2C8A/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 12,
+          "views": 18,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "YPIz-5uZsds",
+          "title": "Durg News: छावनी चौक में अचानक आग लगी, अग्निशमन की तत्परता से बड़ा हादसा टला",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-23T09:11:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/YPIz-5uZsds/hqdefault.jpg",
+          "durationSeconds": 57,
+          "durationFormatted": "00:57",
+          "views": 13,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
           "videoId": "5tcsK9HcPlE",
           "title": "राजनांदगांव: BPL मरीजों से 10 रुपये शुल्क वसूली, राशन कार्ड PDF दिखाने पर भी नहीं मिल रही सुविधा",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -468,13 +483,13 @@
           "thumbnail": "https://i.ytimg.com/vi/5tcsK9HcPlE/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 11,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "9s23QuKBOUE",
           "title": "Janjgir Champa: किराना दुकान में विवाद के बाद चली गोली, एक युवक घायल, पुलिस जांच जारी",
           "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
@@ -487,30 +502,84 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "t2gKYgqrlZE",
-          "title": "Rajnandgaon News: डोंगरगढ़ पदयात्रियों की सेवा में जुटा मुस्लिम समाज, मुफ्त भोजन और इलाज की व्यवस्था",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-23T12:49:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/t2gKYgqrlZE/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 8,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-23T13:57:02Z"
     },
     {
+      "clusterId": "khairagarh-harendra",
+      "topic": "Khairagarh Harendra",
+      "videoCount": 4,
+      "trendScore": 37.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "OjWvCDv6t0I",
+          "title": "Khairagarh का वीरान गांव, जहां कोई नहीं | आखिर कैसे बर्बाद हुआ ये गांव | Harendra Sahu",
+          "description": "Khairagarh का वीरान गांव, जहां कोई नहीं | आखिर कैसे बर्बाद हुआ ये गांव ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-03-23T02:00:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/OjWvCDv6t0I/hqdefault.jpg",
+          "durationSeconds": 882,
+          "durationFormatted": "14:42",
+          "views": 25262,
+          "likes": 489,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "wgwP7-9qSUQ",
+          "title": "Khairagarh Scam News: जल संसाधन संभाग में 500 करोड़ के कार्यो में भ्रष्टाचार के आरोप। CG News",
+          "description": "IBC24, Khairagarh News: जल संसाधन संभाग में 500 करोड़ के कार्यो में भ्रष्टाचार ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-23T19:30:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/wgwP7-9qSUQ/hqdefault.jpg",
+          "durationSeconds": 103,
+          "durationFormatted": "01:43",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "Q5NjBWkkErE",
+          "title": "Khairagarh News : खैरागढ़ में 500 करोड़ के कथित घोटाले से मचा हड़कंप",
+          "description": "खैरागढ़ में जल संसाधन विभाग से जुड़े 500 करोड़ रुपये के कथित घोटाले ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-23T15:10:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q5NjBWkkErE/hqdefault.jpg",
+          "durationSeconds": 38,
+          "durationFormatted": "00:38",
+          "views": 4,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "oqYOCoVVQ0w",
+          "title": "Khairagarh News : खैरागढ़ में 6.39 करोड़ की सड़क दो साल में उखड़ी",
+          "description": "खैरागढ़ में करोड़ों की लागत से बनी सड़क दो साल में ही खराब हो गई है, ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-23T14:51:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/oqYOCoVVQ0w/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 2,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-23T19:30:11Z"
+    },
+    {
       "clusterId": "modi-lok",
       "topic": "Modi Lok",
       "videoCount": 5,
-      "trendScore": 35.2,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qNe3rmcVoN4/hqdefault.jpg",
           "durationSeconds": 559,
           "durationFormatted": "09:19",
-          "views": 9208,
+          "views": 9280,
           "likes": 32,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WVYZEUsVKfE/hqdefault.jpg",
           "durationSeconds": 662,
           "durationFormatted": "11:02",
-          "views": 1596,
-          "likes": 23,
+          "views": 3233,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -552,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7ZkSntNeFZI/hqdefault.jpg",
           "durationSeconds": 662,
           "durationFormatted": "11:02",
-          "views": 1391,
+          "views": 2733,
           "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
@@ -582,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cEYrM4wr5Cg/hqdefault.jpg",
           "durationSeconds": 1790,
           "durationFormatted": "29:50",
-          "views": 68,
+          "views": 75,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -594,7 +663,7 @@
       "clusterId": "xpress-पमगढ",
       "topic": "Xpress पामगढ़",
       "videoCount": 6,
-      "trendScore": 34.3,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Knp9WPG1v-0/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 3739,
+          "views": 3882,
           "likes": 56,
           "videoType": "VOD",
           "genre": "Crime"
@@ -651,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/99KLJSst8o4/hqdefault.jpg",
           "durationSeconds": 226,
           "durationFormatted": "03:46",
-          "views": 120,
+          "views": 129,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Civic"
@@ -678,7 +747,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 3,
-      "trendScore": 31.7,
+      "trendScore": 30.8,
       "topVideos": [
         {
           "index": 1,
@@ -690,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GHRrxBzvLm0/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 2644,
+          "views": 3139,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/23KeeaFnYKA/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 3,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -731,8 +800,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 6,
-      "trendScore": 31.0,
+      "videoCount": 5,
+      "trendScore": 29.5,
       "topVideos": [
         {
           "index": 1,
@@ -744,28 +813,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lGvhc8SpHqo/hqdefault.jpg",
           "durationSeconds": 16,
           "durationFormatted": "00:16",
-          "views": 826,
+          "views": 782,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 2,
-          "videoId": "plinE2KbuHI",
-          "title": "Dhamtari News: निरई माता के दरबार में उमड़ा जनसैलाब। चैत्र नवरात्रि के पहले रविवार को खुलता है मंदिर",
-          "description": "IBC24, Dhamtari News: निरई माता के दरबार में उमड़ा जनसैलाब। चैत्र नवरात्रि ...",
-          "channelTitle": "IBC24 Jankarwan",
-          "publishedAt": "2026-03-23T10:41:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/plinE2KbuHI/hqdefault.jpg",
-          "durationSeconds": 129,
-          "durationFormatted": "02:09",
-          "views": 244,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "YqFVz-cU2v0",
           "title": "जगदलपुर - ईद उल फितर पर कलम की ईदी कार्यक्रम का आयोजनChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -780,7 +834,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "FhdhpJPk9xA",
           "title": "राजनांदगांव: नवरात्रि पर बम्हनी गांव में मंदिर का भव्य आयोजन, कलश विसर्जन ने मन मोह लिया",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -789,13 +843,13 @@
           "thumbnail": "https://i.ytimg.com/vi/FhdhpJPk9xA/hqdefault.jpg",
           "durationSeconds": 330,
           "durationFormatted": "05:30",
-          "views": 9,
+          "views": 10,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "1VB2-udYTVA",
           "title": "RJN: नवरात्रि में पुलिस सख्त, रात में वाहन चालकों पर कार्रवाई, श्रद्धालुओं की सुरक्षा प्राथमिकता",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -808,93 +862,24 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-23T13:30:39Z"
-    },
-    {
-      "clusterId": "middle-east",
-      "topic": "Middle East",
-      "videoCount": 5,
-      "trendScore": 30.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "c0i37dCEZI4",
-          "title": "Breaking: Middle East War पर Donald Trump का बड़ा बयान, युद्ध खत्म करने के दिए संकेत",
-          "description": "Breaking: Middle East War पर Donald Trump का बड़ा बयान, युद्ध खत्म करने के दिए संकेत ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-23T12:24:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/c0i37dCEZI4/hqdefault.jpg",
-          "durationSeconds": 78,
-          "durationFormatted": "01:18",
-          "views": 155,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "Kcm7pMC2t00",
-          "title": "The Editor&#39;s Show: मिडिल ईस्ट पर PM का संदेश, हर स्थिति में तैयार अपना देश | Pm On Middle East War",
-          "description": "The Editor's Show: मिडिल ईस्ट पर PM का संदेश, हर स्थिति में तैयार अपना देश | Pm On ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-23T16:45:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/Kcm7pMC2t00/hqdefault.jpg",
-          "durationSeconds": 284,
-          "durationFormatted": "04:44",
-          "views": 44,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "OcXJOnBKCTE",
-          "title": "Middle East War  के बीच ईरान का अनोखा अंदाज, स्पेन PM का बयान लिखकर छोड़ी मिसाइल",
-          "description": "Middle East War के बीच ईरान का अनोखा अंदाज, स्पेन PM का बयान लिखकर छोड़ी ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-23T12:42:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/OcXJOnBKCTE/hqdefault.jpg",
-          "durationSeconds": 128,
-          "durationFormatted": "02:08",
-          "views": 31,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Ryj06990o8U",
-          "title": "Trump Middle East Strategy:  मिडिल ईस्ट में 120 घंटे तक टला युद्ध! ट्रंप का प्लान-5 या शांति की पहल?",
-          "description": "IBC24, Trump Middle East Strategy: मिडिल ईस्ट में 120 घंटे तक टला युद्ध! ट्रंप का ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-23T18:01:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ryj06990o8U/hqdefault.jpg",
-          "durationSeconds": 119,
-          "durationFormatted": "01:59",
-          "views": 28,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "5OY60rHEHrw",
-          "title": "The Editor&#39; Show: ईरान- इजरायल युद्ध ने फिर से बाजार हिला दिया | Middle East War | USA Vs Iran",
-          "description": "The Editor' Show: ईरान- इजरायल युद्ध ने फिर से बाजार हिला दिया | Middle East War | USA Vs ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-23T16:58:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/5OY60rHEHrw/hqdefault.jpg",
-          "durationSeconds": 295,
-          "durationFormatted": "04:55",
-          "views": 7,
+          "videoId": "TEBqkqJURbo",
+          "title": "राजनांदगांव: नवरात्रि में प्रशासन अलर्ट, डोंगरगढ़ पदयात्री मार्ग का निरीक्षण, श्रद्धालुओं को राहत",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-23T12:50:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/TEBqkqJURbo/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 1,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-23T18:01:21Z"
+      "latestUpdateAt": "2026-03-23T13:30:39Z"
     }
   ]
 }
