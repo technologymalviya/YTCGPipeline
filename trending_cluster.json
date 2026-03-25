@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-25T19:10:22.004454Z",
+  "generatedAt": "2026-03-25T20:53:55.392731Z",
   "clusterCount": 13,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 93,
-      "trendScore": 62.0,
+      "videoCount": 92,
+      "trendScore": 60.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,13 +18,28 @@
           "thumbnail": "https://i.ytimg.com/vi/BdsOaoa0oKY/hqdefault.jpg",
           "durationSeconds": 1468,
           "durationFormatted": "24:28",
-          "views": 17867,
+          "views": 18079,
           "likes": 223,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "S8DboSsPTgw",
+          "title": "🔴LIVE, Chhattisgarh News 25 March 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh Baghel",
+          "description": "IBC24, LIVE, Chhattisgarh News 25 March 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-25T20:01:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/S8DboSsPTgw/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 14638,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "m_XNnTHS5pw",
           "title": "भारत की पहली बिना ड्राइवर वाली ट्रैक्टर, देखकर हैरान हुए केंद्रीय कृषि मंत्री...",
           "description": "भारत की पहली बिना ड्राइवर वाली ट्रैक्टर, देखकर हैरान हुए केंद्रीय ...",
@@ -33,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/m_XNnTHS5pw/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 9373,
-          "likes": 290,
+          "views": 11009,
+          "likes": 292,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "-l5BqKWxefY",
           "title": "Naxalite Papa Rao Surrender: NDTV रिपोर्टर की मदद से पापा राव ने डिप्टी CM विजय शर्मा की बात | Naxal",
           "description": "Naxalite Papa Rao Surrender: NDTV रिपोर्टर की मदद से पापा राव ने डिप्टी CM विजय ...",
@@ -48,13 +63,13 @@
           "thumbnail": "https://i.ytimg.com/vi/-l5BqKWxefY/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 6722,
-          "likes": 134,
+          "views": 8703,
+          "likes": 152,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "0RaYG-aJ9Fg",
           "title": "25 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
           "description": "25 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
@@ -67,30 +82,15 @@
           "likes": 77,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "0EUJqkVuZQw",
-          "title": "बलौदाबाजार से CM विष्णुदेव साय LIVE: भूमिहीन कृषि मजदूरों को खातों में ट्रांसफर किए करोड़ों रुपए",
-          "description": "CM विष्णुदेव साय ने 'दीनदयाल उपाध्याय भूमिहीन कृषि मजदूर कल्याण ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-25T09:49:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/0EUJqkVuZQw/hqdefault.jpg",
-          "durationSeconds": 2919,
-          "durationFormatted": "48:39",
-          "views": 2978,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-25T19:01:31Z"
+      "latestUpdateAt": "2026-03-25T20:01:23Z"
     },
     {
-      "clusterId": "iran-war",
-      "topic": "Iran War",
-      "videoCount": 8,
-      "trendScore": 48.2,
+      "clusterId": "iran-israel",
+      "topic": "Iran Israel",
+      "videoCount": 9,
+      "trendScore": 49.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ooz2t7QbETo/hqdefault.jpg",
           "durationSeconds": 692,
           "durationFormatted": "11:32",
-          "views": 78191,
-          "likes": 1846,
+          "views": 95656,
+          "likes": 1910,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/V4wsBS8YCp4/hqdefault.jpg",
           "durationSeconds": 866,
           "durationFormatted": "14:26",
-          "views": 60282,
-          "likes": 1921,
+          "views": 82850,
+          "likes": 1998,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "kXXBj1NTItI",
-          "title": "Iran America War Update LIVE: ईरान-इजरायल युद्ध से भारत में अफरा तफरी? Lockdown | Energy Crisis",
-          "description": "Iran America War Update LIVE: ईरान-इजरायल युद्ध से भारत में लगेगा लॉकडाउन? Lockdown ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-25T14:40:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/kXXBj1NTItI/hqdefault.jpg",
-          "durationSeconds": 29320,
-          "durationFormatted": "08:08:40",
-          "views": 47112,
-          "likes": 185,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "GxuZlgnujvQ",
           "title": "Iran America War Update : USS अब्राहम लिंकन पर ईरान ने दागीं क्रूज मिसाइलें, भागे अमेरिकी युद्धपोत !",
           "description": "Iran America War Update : ईरान ने USS Abraham Lincoln पर दागीं क्रूज मिसाइलें, जान बचाकर ...",
@@ -147,13 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/GxuZlgnujvQ/hqdefault.jpg",
           "durationSeconds": 484,
           "durationFormatted": "08:04",
-          "views": 41846,
-          "likes": 697,
+          "views": 44218,
+          "likes": 706,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "Sk04sWBye8A",
           "title": "Iran Israel War: ईरान-इजरायल युद्धसे भारत में टेंशन LIVE |  Iran Israel war Update | Oil Crisis",
           "description": "Iran Israel War: ईरान-इजरायल युद्धसे भारत में टेंशन LIVE | Iran Israel war Update | Oil Crisis The ...",
@@ -162,19 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/Sk04sWBye8A/hqdefault.jpg",
           "durationSeconds": 28414,
           "durationFormatted": "07:53:34",
-          "views": 32266,
+          "views": 32352,
           "likes": 144,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "AqpnSCZSMNU",
+          "title": "Iran Attack on Israel: 9 बजते ही ईरान की मिसाइलों से तबाह इजरायल का आयरन डोम ? | Netanyahu | Trump",
+          "description": "Iran Attack on Israel: 9 बजते ही ईरान की मिसाइलों से तबाह इजरायल का आयरन डोम ?",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-25T15:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/AqpnSCZSMNU/hqdefault.jpg",
+          "durationSeconds": 734,
+          "durationFormatted": "12:14",
+          "views": 20622,
+          "likes": 370,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-25T18:31:12Z"
+      "latestUpdateAt": "2026-03-25T20:30:00Z"
     },
     {
       "clusterId": "bhaskar-कय",
       "topic": "Bhaskar क्या",
       "videoCount": 12,
-      "trendScore": 43.1,
+      "trendScore": 42.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eZICHU2hhGI/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 1467,
-          "likes": 44,
+          "views": 1640,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jjW-aahYoZY/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 1042,
+          "views": 1039,
           "likes": 29,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/h8k71WrvnHI/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 939,
+          "views": 981,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XO-RMwXEOgY/hqdefault.jpg",
           "durationSeconds": 168,
           "durationFormatted": "02:48",
-          "views": 751,
-          "likes": 13,
+          "views": 747,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qA74kba-imw/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 326,
+          "views": 349,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "mahasamund-rajnandgaon",
       "topic": "Mahasamund Rajnandgaon",
       "videoCount": 15,
-      "trendScore": 41.3,
+      "trendScore": 40.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q1HkeJoAEIY/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 98,
+          "views": 109,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/enBAH7cWyRw/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 57,
+          "views": 59,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VkhGB1mrKL4/hqdefault.jpg",
           "durationSeconds": 198,
           "durationFormatted": "03:18",
-          "views": 53,
+          "views": 59,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ymZUme7wfkE/hqdefault.jpg",
           "durationSeconds": 198,
           "durationFormatted": "03:18",
-          "views": 37,
+          "views": 39,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "thiha-dharm",
       "topic": "Thiha dharm",
       "videoCount": 4,
-      "trendScore": 37.9,
+      "trendScore": 37.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mFToieRGUyE/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 33591,
-          "likes": 563,
+          "views": 39502,
+          "likes": 583,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-bFnEhcwzQw/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 17534,
-          "likes": 196,
+          "views": 17950,
+          "likes": 201,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PJ3kjQYKJMw/hqdefault.jpg",
           "durationSeconds": 883,
           "durationFormatted": "14:43",
-          "views": 11275,
-          "likes": 229,
+          "views": 12653,
+          "likes": 231,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0br4lLZ6-HI/hqdefault.jpg",
           "durationSeconds": 501,
           "durationFormatted": "08:21",
-          "views": 7106,
+          "views": 7673,
           "likes": 110,
           "videoType": "VOD",
           "genre": "General"
@@ -411,7 +411,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 7,
-      "trendScore": 35.1,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7rZGBl2Ibts/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 2152,
-          "likes": 7,
+          "views": 2695,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/s7Lpb71TCQ4/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 438,
+          "views": 556,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -492,118 +492,10 @@
       "latestUpdateAt": "2026-03-25T18:07:44Z"
     },
     {
-      "clusterId": "xpress-rto",
-      "topic": "Xpress RTO",
-      "videoCount": 5,
-      "trendScore": 33.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "MDIxLy9FIHY",
-          "title": "पामगढ़ - घर में घुसकर मारपीट करने वाले 4 लोग गिरफ्तारChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-25T06:07:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/MDIxLy9FIHY/hqdefault.jpg",
-          "durationSeconds": 138,
-          "durationFormatted": "02:18",
-          "views": 1076,
-          "likes": 28,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "2YSOcwbscgQ",
-          "title": "सारंगढ़ - हाथी का आतंक, खेतों में मचाया उत्पातChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-25T04:34:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/2YSOcwbscgQ/hqdefault.jpg",
-          "durationSeconds": 102,
-          "durationFormatted": "01:42",
-          "views": 944,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "QP7S4IqQkR8",
-          "title": "महासमुंद - जिले का नाम रौशन करता सरकारी स्कूल,Chhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-25T11:19:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/QP7S4IqQkR8/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 189,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "hRCGtuPF_Ho",
-          "title": "जगदलपुर - युवा कांग्रेस ने किया RTO ऑफिस का घेरावChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-25T08:31:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/hRCGtuPF_Ho/hqdefault.jpg",
-          "durationSeconds": 261,
-          "durationFormatted": "04:21",
-          "views": 169,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "jEWAaRh_5Qo",
-          "title": "मुलमुला - ट्रक की चपेट में आने से 12 गायों की मौतChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-25T16:20:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/jEWAaRh_5Qo/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 99,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-25T16:20:38Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 33.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "sxO4cbobhvc",
-          "title": "Monalisa angry on Sanoj Mishra: &#39;मूवी के लिए रेप करोगे?&#39; &#39;सनोज मिश्रा पर भड़कीं मोनालिसा | Top News",
-          "description": "Monalisa angry on Sanoj Mishra: 'मूवी के लिए रेप करोगे?' 'सनोज मिश्रा पर भड़कीं ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-25T15:09:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/sxO4cbobhvc/hqdefault.jpg",
-          "durationSeconds": 511,
-          "durationFormatted": "08:31",
-          "views": 10340,
-          "likes": 97,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-03-25T15:09:50Z"
-    },
-    {
       "clusterId": "raipur-march",
       "topic": "Raipur March",
-      "videoCount": 5,
-      "trendScore": 33.1,
+      "videoCount": 6,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -615,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nVk4B1zzldo/hqdefault.jpg",
           "durationSeconds": 1280,
           "durationFormatted": "21:20",
-          "views": 7366,
-          "likes": 68,
+          "views": 7470,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -630,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SC0l16guAl4/hqdefault.jpg",
           "durationSeconds": 1261,
           "durationFormatted": "21:01",
-          "views": 969,
+          "views": 994,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -645,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/h63KyijkKIk/hqdefault.jpg",
           "durationSeconds": 1238,
           "durationFormatted": "20:38",
-          "views": 58,
+          "views": 115,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -667,15 +559,15 @@
         },
         {
           "index": 5,
-          "videoId": "yFvqsbvxoSw",
+          "videoId": "jTDV-l1C1sA",
           "title": "🔴LIVE, MPCG News 25 March 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
           "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
           "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-03-25T18:36:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/yFvqsbvxoSw/hqdefault.jpg",
-          "durationSeconds": 1512,
-          "durationFormatted": "25:12",
-          "views": 0,
+          "publishedAt": "2026-03-25T18:32:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/jTDV-l1C1sA/hqdefault.jpg",
+          "durationSeconds": 14984,
+          "durationFormatted": "04:09:44",
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -684,10 +576,118 @@
       "latestUpdateAt": "2026-03-25T18:36:51Z"
     },
     {
+      "clusterId": "xpress-rto",
+      "topic": "Xpress RTO",
+      "videoCount": 5,
+      "trendScore": 32.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "MDIxLy9FIHY",
+          "title": "पामगढ़ - घर में घुसकर मारपीट करने वाले 4 लोग गिरफ्तारChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-25T06:07:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/MDIxLy9FIHY/hqdefault.jpg",
+          "durationSeconds": 138,
+          "durationFormatted": "02:18",
+          "views": 1091,
+          "likes": 28,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "2YSOcwbscgQ",
+          "title": "सारंगढ़ - हाथी का आतंक, खेतों में मचाया उत्पातChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-25T04:34:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/2YSOcwbscgQ/hqdefault.jpg",
+          "durationSeconds": 102,
+          "durationFormatted": "01:42",
+          "views": 941,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "QP7S4IqQkR8",
+          "title": "महासमुंद - जिले का नाम रौशन करता सरकारी स्कूल,Chhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-25T11:19:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/QP7S4IqQkR8/hqdefault.jpg",
+          "durationSeconds": 142,
+          "durationFormatted": "02:22",
+          "views": 193,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "jEWAaRh_5Qo",
+          "title": "मुलमुला - ट्रक की चपेट में आने से 12 गायों की मौतChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-25T16:20:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/jEWAaRh_5Qo/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 190,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "hRCGtuPF_Ho",
+          "title": "जगदलपुर - युवा कांग्रेस ने किया RTO ऑफिस का घेरावChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-25T08:31:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/hRCGtuPF_Ho/hqdefault.jpg",
+          "durationSeconds": 261,
+          "durationFormatted": "04:21",
+          "views": 168,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-25T16:20:38Z"
+    },
+    {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 32.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "sxO4cbobhvc",
+          "title": "Monalisa angry on Sanoj Mishra: &#39;मूवी के लिए रेप करोगे?&#39; &#39;सनोज मिश्रा पर भड़कीं मोनालिसा | Top News",
+          "description": "Monalisa angry on Sanoj Mishra: 'मूवी के लिए रेप करोगे?' 'सनोज मिश्रा पर भड़कीं ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-25T15:09:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/sxO4cbobhvc/hqdefault.jpg",
+          "durationSeconds": 511,
+          "durationFormatted": "08:31",
+          "views": 12240,
+          "likes": 99,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-25T15:09:50Z"
+    },
+    {
       "clusterId": "marriage-controversy",
       "topic": "Marriage Controversy",
       "videoCount": 4,
-      "trendScore": 31.5,
+      "trendScore": 31.3,
       "topVideos": [
         {
           "index": 1,
@@ -699,8 +699,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QLR1KQE0Qgg/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 1625,
-          "likes": 12,
+          "views": 2990,
+          "likes": 19,
           "videoType": "LIVE",
           "genre": "Live"
         },
@@ -714,7 +714,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tqHKY1-ABm0/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 535,
+          "views": 536,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
@@ -729,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-E5LVBvBkI0/hqdefault.jpg",
           "durationSeconds": 195,
           "durationFormatted": "03:15",
-          "views": 205,
+          "views": 235,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
@@ -744,8 +744,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xKH4pRw_pFk/hqdefault.jpg",
           "durationSeconds": 249,
           "durationFormatted": "04:09",
-          "views": 128,
-          "likes": 0,
+          "views": 210,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -756,7 +756,7 @@
       "clusterId": "raipur-call",
       "topic": "Raipur Call",
       "videoCount": 4,
-      "trendScore": 28.2,
+      "trendScore": 27.7,
       "topVideos": [
         {
           "index": 1,
@@ -768,7 +768,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0pm85a6H4Rg/hqdefault.jpg",
           "durationSeconds": 330,
           "durationFormatted": "05:30",
-          "views": 294,
+          "views": 354,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -783,28 +783,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tmjgjp-E37U/hqdefault.jpg",
           "durationSeconds": 311,
           "durationFormatted": "05:11",
-          "views": 103,
+          "views": 174,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "PCQ2WpUSzzg",
-          "title": "Raipur Fraud News: कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश | Crime News | Top News | CG",
-          "description": "Raipur Fraud News: कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश | Crime ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-25T18:37:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/PCQ2WpUSzzg/hqdefault.jpg",
-          "durationSeconds": 462,
-          "durationFormatted": "07:42",
-          "views": 13,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
           "videoId": "GOpNO6SJT24",
           "title": "Raipur Cyber Fraud: रायपुर में कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश |Call Center Scam",
           "description": "Cyber Fraud News: छत्तीसगढ़ की राजधानी रायपुर में क्राइम ब्रांच ने बुधवार ...",
@@ -813,7 +798,22 @@
           "thumbnail": "https://i.ytimg.com/vi/GOpNO6SJT24/hqdefault.jpg",
           "durationSeconds": 244,
           "durationFormatted": "04:04",
-          "views": 9,
+          "views": 40,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "PCQ2WpUSzzg",
+          "title": "Raipur Fraud News: कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश | Crime News | Top News | CG",
+          "description": "Raipur Fraud News: कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश | Crime ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-25T18:37:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/PCQ2WpUSzzg/hqdefault.jpg",
+          "durationSeconds": 462,
+          "durationFormatted": "07:42",
+          "views": 21,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -825,7 +825,7 @@
       "clusterId": "phulo-devi",
       "topic": "Phulo Devi",
       "videoCount": 4,
-      "trendScore": 24.2,
+      "trendScore": 23.7,
       "topVideos": [
         {
           "index": 1,
@@ -837,7 +837,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_oinVVEk0ro/hqdefault.jpg",
           "durationSeconds": 206,
           "durationFormatted": "03:26",
-          "views": 585,
+          "views": 583,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -852,7 +852,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UxQSQqt4km4/hqdefault.jpg",
           "durationSeconds": 284,
           "durationFormatted": "04:44",
-          "views": 166,
+          "views": 171,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -867,7 +867,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2KWK9RPPqDA/hqdefault.jpg",
           "durationSeconds": 250,
           "durationFormatted": "04:10",
-          "views": 69,
+          "views": 87,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -894,7 +894,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 22.7,
+      "trendScore": 21.6,
       "topVideos": [
         {
           "index": 1,
@@ -906,7 +906,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ru_Kdr40PZA/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 46,
+          "views": 52,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
