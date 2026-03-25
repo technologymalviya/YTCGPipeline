@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-25T20:53:55.392731Z",
-  "clusterCount": 13,
+  "generatedAt": "2026-03-25T22:53:43.500037Z",
+  "clusterCount": 14,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 92,
-      "trendScore": 60.9,
+      "trendScore": 60.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BdsOaoa0oKY/hqdefault.jpg",
           "durationSeconds": 1468,
           "durationFormatted": "24:28",
-          "views": 18079,
+          "views": 18102,
           "likes": 223,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/S8DboSsPTgw/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 14638,
+          "views": 14829,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/m_XNnTHS5pw/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 11009,
-          "likes": 292,
+          "views": 11309,
+          "likes": 298,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-l5BqKWxefY/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 8703,
-          "likes": 152,
+          "views": 9472,
+          "likes": 158,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0RaYG-aJ9Fg/hqdefault.jpg",
           "durationSeconds": 707,
           "durationFormatted": "11:47",
-          "views": 4703,
+          "views": 4756,
           "likes": 77,
           "videoType": "VOD",
           "genre": "Politics"
@@ -89,8 +89,8 @@
     {
       "clusterId": "iran-israel",
       "topic": "Iran Israel",
-      "videoCount": 9,
-      "trendScore": 49.1,
+      "videoCount": 10,
+      "trendScore": 49.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ooz2t7QbETo/hqdefault.jpg",
           "durationSeconds": 692,
           "durationFormatted": "11:32",
-          "views": 95656,
-          "likes": 1910,
+          "views": 99045,
+          "likes": 1930,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V4wsBS8YCp4/hqdefault.jpg",
           "durationSeconds": 866,
           "durationFormatted": "14:26",
-          "views": 82850,
-          "likes": 1998,
+          "views": 87081,
+          "likes": 2012,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GxuZlgnujvQ/hqdefault.jpg",
           "durationSeconds": 484,
           "durationFormatted": "08:04",
-          "views": 44218,
-          "likes": 706,
+          "views": 44696,
+          "likes": 708,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,34 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/Sk04sWBye8A/hqdefault.jpg",
           "durationSeconds": 28414,
           "durationFormatted": "07:53:34",
-          "views": 32352,
+          "views": 32368,
           "likes": 144,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "AqpnSCZSMNU",
-          "title": "Iran Attack on Israel: 9 बजते ही ईरान की मिसाइलों से तबाह इजरायल का आयरन डोम ? | Netanyahu | Trump",
-          "description": "Iran Attack on Israel: 9 बजते ही ईरान की मिसाइलों से तबाह इजरायल का आयरन डोम ?",
+          "videoId": "s67yw9rlnao",
+          "title": "Iran Israel War: 1 बजते ही ईरान के परमाणु अड्डे तबाह ? | Netanyahu | Khamenei | Trump | Top News",
+          "description": "Iran Israel War: 1 बजते ही ईरान के परमाणु अड्डे तबाह ? | Netanyahu | Khamenei | Trump | Top News ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-25T15:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/AqpnSCZSMNU/hqdefault.jpg",
-          "durationSeconds": 734,
-          "durationFormatted": "12:14",
-          "views": 20622,
-          "likes": 370,
+          "publishedAt": "2026-03-25T19:30:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/s67yw9rlnao/hqdefault.jpg",
+          "durationSeconds": 1349,
+          "durationFormatted": "22:29",
+          "views": 21804,
+          "likes": 451,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-25T20:30:00Z"
+      "latestUpdateAt": "2026-03-25T22:30:09Z"
     },
     {
       "clusterId": "bhaskar-कय",
       "topic": "Bhaskar क्या",
       "videoCount": 12,
-      "trendScore": 42.0,
+      "trendScore": 41.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eZICHU2hhGI/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 1640,
+          "views": 1659,
           "likes": 43,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jjW-aahYoZY/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 1039,
+          "views": 1081,
           "likes": 29,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/h8k71WrvnHI/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 981,
-          "likes": 3,
+          "views": 1033,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,23 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/XO-RMwXEOgY/hqdefault.jpg",
           "durationSeconds": 168,
           "durationFormatted": "02:48",
-          "views": 747,
-          "likes": 12,
+          "views": 767,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "qA74kba-imw",
-          "title": "पुलिस का स्लोगन लगाकर घूमने वाला आरोपी गिरफ्तार | CG Bhaskar",
-          "description": "पुलिस का स्लोगन लगाकर घूमने वाला आरोपी गिरफ्तार | CG Bhaskar Join our Whatsapp ...",
+          "videoId": "63fXLj8U1sM",
+          "title": "नक्सली पापाराव का  Surrender क्या नक्सलवाद हो जाएगा खत्म? | CG Bhaskar",
+          "description": "नक्सली पापाराव का Surrender क्या नक्सलवाद हो जाएगा खत्म? | CG Bhaskar Join our ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-25T11:45:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/qA74kba-imw/hqdefault.jpg",
-          "durationSeconds": 116,
-          "durationFormatted": "01:56",
-          "views": 349,
-          "likes": 11,
+          "publishedAt": "2026-03-25T06:40:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/63fXLj8U1sM/hqdefault.jpg",
+          "durationSeconds": 110,
+          "durationFormatted": "01:50",
+          "views": 380,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,25 +258,10 @@
       "clusterId": "mahasamund-rajnandgaon",
       "topic": "Mahasamund Rajnandgaon",
       "videoCount": 15,
-      "trendScore": 40.1,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "Q1HkeJoAEIY",
-          "title": "Mahasamund News: स्मार्ट क्लास से बदली तस्वीर, सरायपाली के स्कूल की सफलता की कहानी",
-          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-25T08:06:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q1HkeJoAEIY/hqdefault.jpg",
-          "durationSeconds": 176,
-          "durationFormatted": "02:56",
-          "views": 109,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "pibQr5ugpUk",
           "title": "Rajnandgaon News: गांधी नगर से शुरू हुई माता की यात्रा, युवाओं और महिलाओं ने सजाया मार्ग",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -285,13 +270,43 @@
           "thumbnail": "https://i.ytimg.com/vi/pibQr5ugpUk/hqdefault.jpg",
           "durationSeconds": 188,
           "durationFormatted": "03:08",
-          "views": 90,
+          "views": 110,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
+          "index": 2,
+          "videoId": "Q1HkeJoAEIY",
+          "title": "Mahasamund News: स्मार्ट क्लास से बदली तस्वीर, सरायपाली के स्कूल की सफलता की कहानी",
+          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-25T08:06:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q1HkeJoAEIY/hqdefault.jpg",
+          "durationSeconds": 176,
+          "durationFormatted": "02:56",
+          "views": 110,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
           "index": 3,
+          "videoId": "VkhGB1mrKL4",
+          "title": "Abhanpur News: टैक्स बढ़ोतरी से नाराज पार्षद, SDM को भाजपा पार्षदों ने सौंपा ज्ञापन",
+          "description": "chhattisgarhnews #madhyapradehnews #abhanpurnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-25T13:07:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/VkhGB1mrKL4/hqdefault.jpg",
+          "durationSeconds": 198,
+          "durationFormatted": "03:18",
+          "views": 61,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "enBAH7cWyRw",
           "title": "Mahasamund News: खल्लारी हादसे में मौ.T का आंकड़ा बढ़ा , इलाज के दौरान व्यक्ति की हुई मौ.T",
           "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
@@ -306,21 +321,6 @@
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "VkhGB1mrKL4",
-          "title": "Abhanpur News: टैक्स बढ़ोतरी से नाराज पार्षद, SDM को भाजपा पार्षदों ने सौंपा ज्ञापन",
-          "description": "chhattisgarhnews #madhyapradehnews #abhanpurnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-25T13:07:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/VkhGB1mrKL4/hqdefault.jpg",
-          "durationSeconds": 198,
-          "durationFormatted": "03:18",
-          "views": 59,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
           "index": 5,
           "videoId": "ymZUme7wfkE",
           "title": "Janjgir Champa News: 128 ग्राम पंचायतें टीबी मुक्त, चलित एक्स-रे रथ और मुफ्त इलाज की सुविधा",
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ymZUme7wfkE/hqdefault.jpg",
           "durationSeconds": 198,
           "durationFormatted": "03:18",
-          "views": 39,
+          "views": 58,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "thiha-dharm",
       "topic": "Thiha dharm",
       "videoCount": 4,
-      "trendScore": 37.0,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mFToieRGUyE/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 39502,
-          "likes": 583,
+          "views": 40758,
+          "likes": 612,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-bFnEhcwzQw/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 17950,
-          "likes": 201,
+          "views": 18014,
+          "likes": 202,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PJ3kjQYKJMw/hqdefault.jpg",
           "durationSeconds": 883,
           "durationFormatted": "14:43",
-          "views": 12653,
-          "likes": 231,
+          "views": 12882,
+          "likes": 234,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0br4lLZ6-HI/hqdefault.jpg",
           "durationSeconds": 501,
           "durationFormatted": "08:21",
-          "views": 7673,
-          "likes": 110,
+          "views": 7857,
+          "likes": 114,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -408,94 +408,10 @@
       "latestUpdateAt": "2026-03-25T14:30:40Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 7,
-      "trendScore": 34.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "7rZGBl2Ibts",
-          "title": "Shorts : घर के पास PNG पाइपलाइन, तो कनेक्शन लेना ही होगा | Zee MPCG",
-          "description": "Shorts : घर के पास PNG पाइपलाइन, तो कनेक्शन लेना ही होगा: कंपनी 3 महीने का ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-25T16:11:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/7rZGBl2Ibts/hqdefault.jpg",
-          "durationSeconds": 38,
-          "durationFormatted": "00:38",
-          "views": 2695,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "s7Lpb71TCQ4",
-          "title": "Shorts : इस साल होगा IPL का सबसे बड़ा सीजन | Cricket | Zee MPCG",
-          "description": "Shorts : इस साल होगा IPL का सबसे बड़ा सीजन: 84 मैच खेले जाएंगे, हर टीम 16 ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-25T18:07:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/s7Lpb71TCQ4/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 556,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "zBX5jthAWWM",
-          "title": "🔴LIVE : MP - CG : खेलो इंडिया ट्राइबल गेम्स का उद्घाटन | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : खेलो इंडिया ट्राइबल गेम्स का उद्घाटन | Latest News | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-25T14:25:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/zBX5jthAWWM/hqdefault.jpg",
-          "durationSeconds": 2851,
-          "durationFormatted": "47:31",
-          "views": 336,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "FywwsdFfYvY",
-          "title": "🔴LIVE : Khabar Apne MP Ki : जबलपुर में रिश्वतखोरों पर एक्शन  | Zee MPCG | Zee  MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : जबलपुर में रिश्वतखोरों पर एक्शन | Zee MPCG | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-25T13:21:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/FywwsdFfYvY/hqdefault.jpg",
-          "durationSeconds": 1890,
-          "durationFormatted": "31:30",
-          "views": 239,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "LXL4rTJ8Wr8",
-          "title": "🔴LIVE: MP Dastak : फनिंगो फन क्लब में लगी भीषण आग | Latest News | Zee MPCG",
-          "description": "LIVE: MP Dastak : फनिंगो फन क्लब में लगी भीषण आग | Latest News | Zee MPCG #MPDastak ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-25T16:54:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/LXL4rTJ8Wr8/hqdefault.jpg",
-          "durationSeconds": 791,
-          "durationFormatted": "13:11",
-          "views": 71,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-03-25T18:07:44Z"
-    },
-    {
       "clusterId": "raipur-march",
       "topic": "Raipur March",
       "videoCount": 6,
-      "trendScore": 34.1,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -507,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nVk4B1zzldo/hqdefault.jpg",
           "durationSeconds": 1280,
           "durationFormatted": "21:20",
-          "views": 7470,
-          "likes": 72,
+          "views": 7526,
+          "likes": 70,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -548,10 +464,10 @@
           "title": "🔴LIVE, MPCG News 25 March 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
           "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
           "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-03-25T08:52:04Z",
+          "publishedAt": "2026-03-25T22:34:51Z",
           "thumbnail": "https://i.ytimg.com/vi/P7T3KaESjXc/hqdefault.jpg",
-          "durationSeconds": 5549,
-          "durationFormatted": "01:32:29",
+          "durationSeconds": 5476,
+          "durationFormatted": "01:31:16",
           "views": 12,
           "likes": 0,
           "videoType": "VOD",
@@ -573,13 +489,166 @@
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-25T18:36:51Z"
+      "latestUpdateAt": "2026-03-25T22:34:51Z"
+    },
+    {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 7,
+      "trendScore": 33.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "7rZGBl2Ibts",
+          "title": "Shorts : घर के पास PNG पाइपलाइन, तो कनेक्शन लेना ही होगा | Zee MPCG",
+          "description": "Shorts : घर के पास PNG पाइपलाइन, तो कनेक्शन लेना ही होगा: कंपनी 3 महीने का ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-25T16:11:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/7rZGBl2Ibts/hqdefault.jpg",
+          "durationSeconds": 38,
+          "durationFormatted": "00:38",
+          "views": 2741,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "s7Lpb71TCQ4",
+          "title": "Shorts : इस साल होगा IPL का सबसे बड़ा सीजन | Cricket | Zee MPCG",
+          "description": "Shorts : इस साल होगा IPL का सबसे बड़ा सीजन: 84 मैच खेले जाएंगे, हर टीम 16 ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-25T18:07:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/s7Lpb71TCQ4/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 668,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "zBX5jthAWWM",
+          "title": "🔴LIVE : MP - CG : खेलो इंडिया ट्राइबल गेम्स का उद्घाटन | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : खेलो इंडिया ट्राइबल गेम्स का उद्घाटन | Latest News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-25T14:25:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/zBX5jthAWWM/hqdefault.jpg",
+          "durationSeconds": 2851,
+          "durationFormatted": "47:31",
+          "views": 347,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "FywwsdFfYvY",
+          "title": "🔴LIVE : Khabar Apne MP Ki : जबलपुर में रिश्वतखोरों पर एक्शन  | Zee MPCG | Zee  MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : जबलपुर में रिश्वतखोरों पर एक्शन | Zee MPCG | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-25T13:21:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/FywwsdFfYvY/hqdefault.jpg",
+          "durationSeconds": 1890,
+          "durationFormatted": "31:30",
+          "views": 248,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "LXL4rTJ8Wr8",
+          "title": "🔴LIVE: MP Dastak : फनिंगो फन क्लब में लगी भीषण आग | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : फनिंगो फन क्लब में लगी भीषण आग | Latest News | Zee MPCG #MPDastak ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-25T16:54:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/LXL4rTJ8Wr8/hqdefault.jpg",
+          "durationSeconds": 791,
+          "durationFormatted": "13:11",
+          "views": 97,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-03-25T18:07:44Z"
+    },
+    {
+      "clusterId": "petrol-diesel",
+      "topic": "Petrol Diesel",
+      "videoCount": 4,
+      "trendScore": 32.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "qa0OTfyP9Kw",
+          "title": "MP PETROL NEWS : पेट्रोल-डीजल खत्म होने की अफवाह, लोगों में डर, पंपों पर लगी लंबी कतार",
+          "description": "मध्यप्रदेश में पेट्रोल-डीजल खत्म होने की अफवाह फैलने के बाद इंदौर, ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-25T05:08:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/qa0OTfyP9Kw/hqdefault.jpg",
+          "durationSeconds": 650,
+          "durationFormatted": "10:50",
+          "views": 2260,
+          "likes": 33,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "kwZSKj06MBY",
+          "title": "Fuel Panic: Petrol-Diesel Shortage की अफवाह से मचा हड़कंप। पेट्रोल पंपों में लगी लोगों की लंबी कतार",
+          "description": "IBC24, Fuel Panic: Petrol-Diesel Shortage की अफवाह से मचा हड़कंप। पेट्रोल पंपों में लगी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-25T18:36:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/kwZSKj06MBY/hqdefault.jpg",
+          "durationSeconds": 18626,
+          "durationFormatted": "05:10:26",
+          "views": 2009,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "v912ZcuWdSw",
+          "title": "Petrol Diesel Crisis: अफवाहों के चलते पेट्रोल पंपों पर लगी लंबी कतारें, सरकार ने क्या कहा | Top News",
+          "description": "Petrol Diesel Crisis: अफवाहों के चलते पेट्रोल पंपों पर लगी लंबी कतारें, सरकार ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-25T17:42:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/v912ZcuWdSw/hqdefault.jpg",
+          "durationSeconds": 532,
+          "durationFormatted": "08:52",
+          "views": 1045,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "QlZzBaBVi0s",
+          "title": "Petrol-diesel Crisis LIVE : Madhya Pradesh में पेट्रोल-डीजल की किल्लत! पंपों में लगी भारी भीड़ | MP",
+          "description": "Petrol-diesel Crisis LIVE : Madhya Pradesh में पेट्रोल-डीजल की किल्लत! पंपों में लगी ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-25T21:41:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/QlZzBaBVi0s/hqdefault.jpg",
+          "durationSeconds": 9985,
+          "durationFormatted": "02:46:25",
+          "views": 644,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-03-25T21:41:11Z"
     },
     {
       "clusterId": "xpress-rto",
       "topic": "Xpress RTO",
       "videoCount": 5,
-      "trendScore": 32.7,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MDIxLy9FIHY/hqdefault.jpg",
           "durationSeconds": 138,
           "durationFormatted": "02:18",
-          "views": 1091,
+          "views": 1124,
           "likes": 28,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2YSOcwbscgQ/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 941,
+          "views": 952,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QP7S4IqQkR8/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 193,
+          "views": 215,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -651,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hRCGtuPF_Ho/hqdefault.jpg",
           "durationSeconds": 261,
           "durationFormatted": "04:21",
-          "views": 168,
+          "views": 173,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -663,7 +732,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 32.3,
+      "trendScore": 31.2,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sxO4cbobhvc/hqdefault.jpg",
           "durationSeconds": 511,
           "durationFormatted": "08:31",
-          "views": 12240,
+          "views": 12449,
           "likes": 99,
           "videoType": "VOD",
           "genre": "General"
@@ -687,7 +756,7 @@
       "clusterId": "marriage-controversy",
       "topic": "Marriage Controversy",
       "videoCount": 4,
-      "trendScore": 31.3,
+      "trendScore": 30.5,
       "topVideos": [
         {
           "index": 1,
@@ -699,7 +768,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QLR1KQE0Qgg/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 2990,
+          "views": 4151,
           "likes": 19,
           "videoType": "LIVE",
           "genre": "Live"
@@ -714,13 +783,28 @@
           "thumbnail": "https://i.ytimg.com/vi/tqHKY1-ABm0/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 536,
+          "views": 566,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "xKH4pRw_pFk",
+          "title": "The Editor&#39; Show: फरमान से शादी कर बदल गईं मोनालिसा? | Marriage Controversy | Farmaan Khan",
+          "description": "The Editor' Show: फरमान से शादी कर बदल गईं मोनालिसा? | Marriage Controversy | Farmaan Khan ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-25T16:26:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/xKH4pRw_pFk/hqdefault.jpg",
+          "durationSeconds": 249,
+          "durationFormatted": "04:09",
+          "views": 246,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
           "videoId": "-E5LVBvBkI0",
           "title": "Seedhe Mudde Ki Baat : शादी के बाद Monalisa क्यों रो रही है? | Marriage Controversy | Farmaan Khan",
           "description": "Seedhe Mudde Ki Baat : शादी के बाद Monalisa क्यों रो रही है? | Marriage Controversy | Farmaan Khan ...",
@@ -733,21 +817,6 @@
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "xKH4pRw_pFk",
-          "title": "The Editor&#39; Show: फरमान से शादी कर बदल गईं मोनालिसा? | Marriage Controversy | Farmaan Khan",
-          "description": "The Editor' Show: फरमान से शादी कर बदल गईं मोनालिसा? | Marriage Controversy | Farmaan Khan ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-25T16:26:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/xKH4pRw_pFk/hqdefault.jpg",
-          "durationSeconds": 249,
-          "durationFormatted": "04:09",
-          "views": 210,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-03-25T16:26:32Z"
@@ -756,7 +825,7 @@
       "clusterId": "raipur-call",
       "topic": "Raipur Call",
       "videoCount": 4,
-      "trendScore": 27.7,
+      "trendScore": 26.9,
       "topVideos": [
         {
           "index": 1,
@@ -783,28 +852,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tmjgjp-E37U/hqdefault.jpg",
           "durationSeconds": 311,
           "durationFormatted": "05:11",
-          "views": 174,
+          "views": 245,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "GOpNO6SJT24",
-          "title": "Raipur Cyber Fraud: रायपुर में कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश |Call Center Scam",
-          "description": "Cyber Fraud News: छत्तीसगढ़ की राजधानी रायपुर में क्राइम ब्रांच ने बुधवार ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-25T17:58:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/GOpNO6SJT24/hqdefault.jpg",
-          "durationSeconds": 244,
-          "durationFormatted": "04:04",
-          "views": 40,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
           "videoId": "PCQ2WpUSzzg",
           "title": "Raipur Fraud News: कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश | Crime News | Top News | CG",
           "description": "Raipur Fraud News: कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश | Crime ...",
@@ -813,7 +867,22 @@
           "thumbnail": "https://i.ytimg.com/vi/PCQ2WpUSzzg/hqdefault.jpg",
           "durationSeconds": 462,
           "durationFormatted": "07:42",
-          "views": 21,
+          "views": 51,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "GOpNO6SJT24",
+          "title": "Raipur Cyber Fraud: रायपुर में कॉल सेंटर के नाम पर विदेशी लोगों से ठगी का पर्दाफाश |Call Center Scam",
+          "description": "Cyber Fraud News: छत्तीसगढ़ की राजधानी रायपुर में क्राइम ब्रांच ने बुधवार ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-25T17:58:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/GOpNO6SJT24/hqdefault.jpg",
+          "durationSeconds": 244,
+          "durationFormatted": "04:04",
+          "views": 42,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -825,7 +894,7 @@
       "clusterId": "phulo-devi",
       "topic": "Phulo Devi",
       "videoCount": 4,
-      "trendScore": 23.7,
+      "trendScore": 23.1,
       "topVideos": [
         {
           "index": 1,
@@ -837,7 +906,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_oinVVEk0ro/hqdefault.jpg",
           "durationSeconds": 206,
           "durationFormatted": "03:26",
-          "views": 583,
+          "views": 601,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -867,7 +936,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2KWK9RPPqDA/hqdefault.jpg",
           "durationSeconds": 250,
           "durationFormatted": "04:10",
-          "views": 87,
+          "views": 88,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -894,7 +963,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 21.6,
+      "trendScore": 20.8,
       "topVideos": [
         {
           "index": 1,
@@ -906,7 +975,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ru_Kdr40PZA/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 52,
+          "views": 53,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
