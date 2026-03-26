@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-26T17:17:09.146399Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-03-26T19:22:16.995155Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 82,
-      "trendScore": 62.9,
+      "videoCount": 78,
+      "trendScore": 62.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nCiDY3r9Aws/hqdefault.jpg",
           "durationSeconds": 1551,
           "durationFormatted": "25:51",
-          "views": 17352,
+          "views": 18158,
           "likes": 242,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,13 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/zYAdwVnCc7U/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 7068,
-          "likes": 329,
+          "views": 15932,
+          "likes": 448,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "94XhyJglQ68",
+          "title": "PM Modi Meeting: Middle East Crisis को लेकर PM Modi कल सभी Chief Ministers से करेंगे बात । Top News",
+          "description": "PM Modi Meeting: Middle East Crisis को लेकर PM Modi कल सभी Chief Ministers से करेंगे बात । Top News ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-26T17:34:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/94XhyJglQ68/hqdefault.jpg",
+          "durationSeconds": 556,
+          "durationFormatted": "09:16",
+          "views": 8013,
+          "likes": 69,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "fA0D1ax6IlI",
           "title": "GATE Result 2026| Topper Scam ? Umesh Dhandhe Sir से खास चर्चा",
           "description": "GATE Result 2026| Topper Scam ? Umesh Dhandhe Sir से खास चर्चा Report/Story: Yashwant Sahu Camera: Khilesh ...",
@@ -48,13 +63,13 @@
           "thumbnail": "https://i.ytimg.com/vi/fA0D1ax6IlI/hqdefault.jpg",
           "durationSeconds": 1541,
           "durationFormatted": "25:41",
-          "views": 6729,
-          "likes": 53,
+          "views": 6761,
+          "likes": 57,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "Qfyt3SbHmyg",
           "title": "Narayana School आया मीडिया के सामने | मनमानी का आरोप लगाकर NSUI ने किया था बवाल | @tirandaj",
           "description": "narayanaschoolbilaspurcontroversy #NSUIprotest #unrestatnarayanaschool #bilaspurnews ...",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/Qfyt3SbHmyg/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 5115,
-          "likes": 44,
+          "views": 5803,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "dL6BPh3v7vo",
-          "title": "26 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "26 March 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-03-25T23:49:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/dL6BPh3v7vo/hqdefault.jpg",
-          "durationSeconds": 689,
-          "durationFormatted": "11:29",
-          "views": 2656,
-          "likes": 74,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-26T17:13:20Z"
+      "latestUpdateAt": "2026-03-26T19:21:41Z"
     },
     {
       "clusterId": "monalisa-press",
       "topic": "Monalisa Press",
-      "videoCount": 7,
-      "trendScore": 45.4,
+      "videoCount": 6,
+      "trendScore": 44.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rBNYJKc_q6U/hqdefault.jpg",
           "durationSeconds": 5,
           "durationFormatted": "00:05",
-          "views": 379661,
-          "likes": 1882,
+          "views": 602499,
+          "likes": 2163,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/XYn2noxpCew/hqdefault.jpg",
           "durationSeconds": 4,
           "durationFormatted": "00:04",
-          "views": 160002,
-          "likes": 1106,
+          "views": 247665,
+          "likes": 1395,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
-          "videoId": "LakGIKcPFMk",
-          "title": "Monalisa Viral Video: मोनालिसा के आरोपों पर माता-पिता का पलटवार, बेटी की खोली पूरी पोल |Sanoj Mishra",
-          "description": "Monalisa Viral Video: आर्ट डायरेक्टर सनोज मिश्रा पर मोनालिसा द्वारा लगाए गए ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-26T10:43:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/LakGIKcPFMk/hqdefault.jpg",
-          "durationSeconds": 689,
-          "durationFormatted": "11:29",
-          "views": 3419,
-          "likes": 35,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "xC0Q3MQQLko",
           "title": "Monalisa Viral Video: &#39;बचने के लिए झूठ&#39;, मोनालिसा के आरोपों पर परिवार का खुलासा! Sanoj Mishra | Top",
           "description": "Monalisa Viral Video: 'बचने के लिए झूठ', मोनालिसा के आरोपों पर परिवार का खुलासा!",
@@ -147,34 +132,118 @@
           "thumbnail": "https://i.ytimg.com/vi/xC0Q3MQQLko/hqdefault.jpg",
           "durationSeconds": 571,
           "durationFormatted": "09:31",
-          "views": 1972,
-          "likes": 29,
+          "views": 3701,
+          "likes": 36,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "xuWSubkz7dU",
+          "title": "Monalisa Viral Video: माता-पिता ने ही खोल दी  मोनालिसा की पूरी पोल! Monalisa Controversy | Sanoj",
+          "description": "Monalisa Viral Video: आर्ट डायरेक्टर सनोज मिश्रा पर मोनालिसा द्वारा लगाए गए ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-26T18:31:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/xuWSubkz7dU/hqdefault.jpg",
+          "durationSeconds": 21846,
+          "durationFormatted": "06:04:06",
+          "views": 3077,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "xuWSubkz7dU",
-          "title": "Monalisa Viral Video: माता-पिता ने ही खोल दी  मोनालिसा की पूरी पोल! Monalisa Controversy | Sanoj",
-          "description": "Monalisa Viral Video: आर्ट डायरेक्टर सनोज मिश्रा पर मोनालिसा द्वारा लगाए गए ...",
+          "videoId": "Qxc6KI_UeTo",
+          "title": "Monalisa Viral Video: Farman से शादी, Sanoj Mishra से टकराव! मोनालिसा की फेम बनी हेट स्टोरी! MP News",
+          "description": "Monalisa Viral Video: Farman से शादी, Sanoj Mishra से टकराव! मोनालिसा की फेम बनी हेट ...",
           "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-03-26T12:10:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/xuWSubkz7dU/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 1792,
-          "likes": 8,
-          "videoType": "LIVE",
-          "genre": "Live"
+          "publishedAt": "2026-03-26T15:23:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/Qxc6KI_UeTo/hqdefault.jpg",
+          "durationSeconds": 1505,
+          "durationFormatted": "25:05",
+          "views": 2248,
+          "likes": 26,
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-03-26T15:23:56Z"
+      "latestUpdateAt": "2026-03-26T18:31:08Z"
+    },
+    {
+      "clusterId": "iran-war",
+      "topic": "Iran War",
+      "videoCount": 4,
+      "trendScore": 42.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "NEn_K7ZvPwA",
+          "title": "Iran America War Update: ईरान-इजराइल जंग से बढ़ा रेडिएशन का खतरा, नक्शे से मिट जाएंगे 13 देश? | N18G",
+          "description": "Iran America War Update: ईरान-इजराइल जंग से बढ़ा रेडिएशन का खतरा, नक्शे से मिट ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-26T17:37:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/NEn_K7ZvPwA/hqdefault.jpg",
+          "durationSeconds": 798,
+          "durationFormatted": "13:18",
+          "views": 8183,
+          "likes": 385,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "jqjmn-I-L3A",
+          "title": "Iran Vs US-Israel War Major Gaurav Arya Live : ईरान की जीत पर मेजर गौरव आर्य का चौंकाने वाला खुलासा!",
+          "description": "Iran Vs US-Israel War Major Gaurav Arya Live : ईरान की जीत पर मेजर गौरव आर्य का चौंकाने ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-26T15:04:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/jqjmn-I-L3A/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 5698,
+          "likes": 54,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 3,
+          "videoId": "FW1WIbJcqDU",
+          "title": "Iran Israel War Update : ईरानी मिसाइल से इजरायल में तबाही ? | N18G",
+          "description": "Iran Israel War Update : ईरानी मिसाइल से इजरायल में तबाही ? | N18G #iranisraelwar #iranuswar ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-26T18:00:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/FW1WIbJcqDU/hqdefault.jpg",
+          "durationSeconds": 362,
+          "durationFormatted": "06:02",
+          "views": 3035,
+          "likes": 139,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "g-eOQoc8vTE",
+          "title": "Iran America War Update: ग्राउंड जीरो से इजरायली शहरों पर ईरान के मिसाइल बरसाने का लाइव वीडियो?",
+          "description": "Iran America War Update: ग्राउंड जीरो से इजरायली शहरों पर ईरान के मिसाइल ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-26T19:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/g-eOQoc8vTE/hqdefault.jpg",
+          "durationSeconds": 210,
+          "durationFormatted": "03:30",
+          "views": 548,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-26T19:00:44Z"
     },
     {
       "clusterId": "मदर-मत",
       "topic": "मंदिर माता",
       "videoCount": 12,
-      "trendScore": 41.7,
+      "trendScore": 40.1,
       "topVideos": [
         {
           "index": 1,
@@ -193,6 +262,21 @@
         },
         {
           "index": 2,
+          "videoId": "4O1VQY77Xjw",
+          "title": "राजनांदगांव-सोमनी पंचायत में सरपंच विवाद, 16 पंचों का अविश्वास प्रस्ताव",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-26T09:35:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/4O1VQY77Xjw/hqdefault.jpg",
+          "durationSeconds": 178,
+          "durationFormatted": "02:58",
+          "views": 17,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "Dig52Om5eQY",
           "title": "कांकेर: नक्सलियों का हथियार छोड़ने का फैसला,5 नक्सली हो सकते हैं आत्मसमर्पण के लिए तैयार",
           "description": "chhattisgarhnews #madhyapradehnews #kanker .",
@@ -202,21 +286,6 @@
           "durationSeconds": 59,
           "durationFormatted": "00:59",
           "views": 15,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "4O1VQY77Xjw",
-          "title": "राजनांदगांव-सोमनी पंचायत में सरपंच विवाद, 16 पंचों का अविश्वास प्रस्ताव",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-26T09:35:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/4O1VQY77Xjw/hqdefault.jpg",
-          "durationSeconds": 178,
-          "durationFormatted": "02:58",
-          "views": 14,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7lh75q10TN8/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 8,
+          "views": 10,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +327,7 @@
       "clusterId": "bhaskar-powerhouse",
       "topic": "Bhaskar Powerhouse",
       "videoCount": 8,
-      "trendScore": 40.3,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eyzVYOrXv8c/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 3023,
-          "likes": 83,
+          "views": 3205,
+          "likes": 84,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iDvx1fMRcp8/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1412,
+          "views": 1440,
           "likes": 23,
           "videoType": "VOD",
           "genre": "Crime"
@@ -300,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/xn6VEBrRUjQ/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 707,
+          "views": 823,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "qaaEQSQ2GEM",
+          "title": "छत्तीसगढ़ में 1 अप्रैल से चार डिब्बों में कचरा अनिवार्य",
+          "description": "छत्तीसगढ़ में 1 अप्रैल से चार डिब्बों में कचरा अनिवार्य Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-26T13:34:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/qaaEQSQ2GEM/hqdefault.jpg",
+          "durationSeconds": 64,
+          "durationFormatted": "01:04",
+          "views": 699,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 5,
           "videoId": "LCG5xnf4MTs",
           "title": "17 सालों से राहगीरों की प्यास बूझा रही ये समिति",
           "description": "17 सालों से राहगीरों की प्यास बूझा रही ये समिति Join our Whatsapp Group ...",
@@ -319,21 +403,6 @@
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "qaaEQSQ2GEM",
-          "title": "छत्तीसगढ़ में 1 अप्रैल से चार डिब्बों में कचरा अनिवार्य",
-          "description": "छत्तीसगढ़ में 1 अप्रैल से चार डिब्बों में कचरा अनिवार्य Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-26T13:34:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/qaaEQSQ2GEM/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 480,
-          "likes": 18,
-          "videoType": "VOD",
-          "genre": "Civic"
         }
       ],
       "latestUpdateAt": "2026-03-26T14:35:02Z"
@@ -342,7 +411,7 @@
       "clusterId": "xpress-शकत",
       "topic": "Xpress शक्ति",
       "videoCount": 6,
-      "trendScore": 35.8,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -354,13 +423,28 @@
           "thumbnail": "https://i.ytimg.com/vi/qhxVkqMKVZU/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 232,
-          "likes": 7,
+          "views": 342,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
           "index": 2,
+          "videoId": "tRufEOicBpY",
+          "title": "बलौदाबाजार - भूमिहीन मजदूरों को मिली 500 करोड़ की सौगातChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-03-26T04:28:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/tRufEOicBpY/hqdefault.jpg",
+          "durationSeconds": 276,
+          "durationFormatted": "04:36",
+          "views": 227,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "SjwD6fC8SFE",
           "title": "शक्ति - तिजौरी से 1 लाख 84 हजार रुपए की चोरी,  पकड़ाया फरार चोरChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -375,21 +459,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "tRufEOicBpY",
-          "title": "बलौदाबाजार - भूमिहीन मजदूरों को मिली 500 करोड़ की सौगातChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-03-26T04:28:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/tRufEOicBpY/hqdefault.jpg",
-          "durationSeconds": 276,
-          "durationFormatted": "04:36",
-          "views": 182,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 4,
           "videoId": "V_eYkdhcMFY",
           "title": "पामगढ़ - रामनवमी पर शोभा यात्रा का हुआ आयोजनChhattisgarh Xpress News",
@@ -399,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V_eYkdhcMFY/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 142,
-          "likes": 9,
+          "views": 175,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -426,7 +495,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 34.7,
+      "trendScore": 33.8,
       "topVideos": [
         {
           "index": 1,
@@ -438,22 +507,22 @@
           "thumbnail": "https://i.ytimg.com/vi/1lrmM34cSYU/hqdefault.jpg",
           "durationSeconds": 1566,
           "durationFormatted": "26:06",
-          "views": 31781,
-          "likes": 339,
+          "views": 33574,
+          "likes": 341,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
           "videoId": "vzc10M9bVyU",
-          "title": "26 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "title": "27 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
           "description": "26 मार्च 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
           "channelTitle": "Chhattisgarh ka awaaz 07 ",
           "publishedAt": "2026-03-25T23:30:22Z",
           "thumbnail": "https://i.ytimg.com/vi/vzc10M9bVyU/hqdefault.jpg",
           "durationSeconds": 942,
           "durationFormatted": "15:42",
-          "views": 815,
+          "views": 909,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eIdID3_x4no/hqdefault.jpg",
           "durationSeconds": 10561,
           "durationFormatted": "02:56:01",
-          "views": 450,
+          "views": 498,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -494,8 +563,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 5,
-      "trendScore": 32.3,
+      "videoCount": 6,
+      "trendScore": 31.9,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zjCHioiM5Dw/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 87,
+          "views": 133,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -529,21 +598,6 @@
         },
         {
           "index": 3,
-          "videoId": "bQupI-9WITk",
-          "title": "Durg News : अष्टमी पर्व पर दुर्ग में दिखा आस्था और श्रद्धा का संगम",
-          "description": "दुर्ग नगर निगम परिसर में चैत्र नवरात्रि अष्टमी के अवसर पर भव्य हवन ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-03-26T13:42:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/bQupI-9WITk/hqdefault.jpg",
-          "durationSeconds": 41,
-          "durationFormatted": "00:41",
-          "views": 24,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
           "videoId": "0mm5uR--WFo",
           "title": "MP News : पांढुर्ना में जिला पंचायत भवन, रेलवे ओवरब्रिज और 33 विकास कार्यों का लोकार्पण |",
           "description": "पांढुर्ना में राम नवमी और नवरात्रि के पावन अवसर पर जाम सावली हनुमान ...",
@@ -552,10 +606,25 @@
           "thumbnail": "https://i.ytimg.com/vi/0mm5uR--WFo/hqdefault.jpg",
           "durationSeconds": 1551,
           "durationFormatted": "25:51",
-          "views": 20,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "bQupI-9WITk",
+          "title": "Durg News : अष्टमी पर्व पर दुर्ग में दिखा आस्था और श्रद्धा का संगम",
+          "description": "दुर्ग नगर निगम परिसर में चैत्र नवरात्रि अष्टमी के अवसर पर भव्य हवन ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-26T13:42:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/bQupI-9WITk/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 27,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Civic"
         },
         {
           "index": 5,
@@ -573,13 +642,82 @@
           "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-03-26T14:53:28Z"
+      "latestUpdateAt": "2026-03-26T17:53:02Z"
+    },
+    {
+      "clusterId": "government-initiative",
+      "topic": "Government Initiative",
+      "videoCount": 4,
+      "trendScore": 30.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "MgI_SSPRYus",
+          "title": "मोहला-मानपुर में उद्योग और रोजगार के क्षेत्र में सरकार क्या काम कर रही है?",
+          "description": "मोहला-मानपुर में उद्योग और रोजगार के क्षेत्र में सरकार क्या काम कर ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-26T12:12:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/MgI_SSPRYus/hqdefault.jpg",
+          "durationSeconds": 52,
+          "durationFormatted": "00:52",
+          "views": 408,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "RZceu_iw4Hw",
+          "title": "MP Government Initiative : MP को नई दिशा | मोहन सरकार से छिंदवाड़ा-पांढुर्णा को बड़ी सौगात",
+          "description": "MP Government Initiative : MP को नई दिशा | मोहन सरकार से छिंदवाड़ा-पांढुर्णा को ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-26T16:20:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/RZceu_iw4Hw/hqdefault.jpg",
+          "durationSeconds": 254,
+          "durationFormatted": "04:14",
+          "views": 95,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "gNIohUN4dRM",
+          "title": "कुपोषण के खिलाफ साय सरकार की जंग | कुपोषण मुक्त बचपन और स्वस्थ्य मातृत्व को सुनिश्चित करना उद्देश्य",
+          "description": "कुपोषण के खिलाफ साय सरकार की जंग | कुपोषण मुक्त बचपन और स्वस्थ्य ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-26T17:18:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/gNIohUN4dRM/hqdefault.jpg",
+          "durationSeconds": 1427,
+          "durationFormatted": "23:47",
+          "views": 6,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "Fnjj7ZJohXA",
+          "title": "Haryana Diary: हरियाणा सरकार का संकल्प शहीदों को श्रद्धांजलि, परिवारों को संबल",
+          "description": "Haryana Diary: हरियाणा सरकार का संकल्प शहीदों को श्रद्धांजलि, परिवारों को ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-26T18:20:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/Fnjj7ZJohXA/hqdefault.jpg",
+          "durationSeconds": 347,
+          "durationFormatted": "05:47",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-03-26T18:20:00Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 30.7,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +729,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PTqk9YSQHCA/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 773,
-          "likes": 17,
+          "views": 795,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -606,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2Xadwq5oB2Y/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 75,
+          "views": 398,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
