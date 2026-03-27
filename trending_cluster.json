@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-27T20:53:39.194245Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-03-27T22:51:10.500082Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 72,
-      "trendScore": 64.7,
+      "videoCount": 75,
+      "trendScore": 63.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-uOZll_HGvY/hqdefault.jpg",
           "durationSeconds": 1711,
           "durationFormatted": "28:31",
-          "views": 28081,
-          "likes": 1192,
+          "views": 29733,
+          "likes": 1227,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SN7qtrJF_Ck/hqdefault.jpg",
           "durationSeconds": 240,
           "durationFormatted": "04:00",
-          "views": 25471,
-          "likes": 195,
+          "views": 27529,
+          "likes": 202,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vfTUXNdfMSo/hqdefault.jpg",
           "durationSeconds": 1427,
           "durationFormatted": "23:47",
-          "views": 24643,
-          "likes": 335,
+          "views": 24690,
+          "likes": 337,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dDdpmu00PNA/hqdefault.jpg",
           "durationSeconds": 33666,
           "durationFormatted": "09:21:06",
-          "views": 12565,
-          "likes": 353,
+          "views": 12580,
+          "likes": 355,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/jLejfpVw_Zc/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 10821,
-          "likes": 463,
+          "views": 11603,
+          "likes": 474,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-27T20:31:50Z"
+      "latestUpdateAt": "2026-03-27T22:19:39Z"
     },
     {
       "clusterId": "iran-netanyahu",
       "topic": "Iran Netanyahu",
-      "videoCount": 10,
-      "trendScore": 50.1,
+      "videoCount": 14,
+      "trendScore": 53.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,43 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/muEMoBknF9Y/hqdefault.jpg",
           "durationSeconds": 778,
           "durationFormatted": "12:58",
-          "views": 80546,
-          "likes": 2908,
+          "views": 95600,
+          "likes": 3010,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "fA245altaTM",
-          "title": "Iran Attack on Israel: 8 बजते ही इजरायलके 25 जेट तबाह, डर गए नेतन्याहू?| Netanyahu | Trump | Putin",
-          "description": "Iran Attack on Israel: 8 बजते ही इजरायलके 25 जेट तबाह, डर गए नेतन्याहू?| Netanyahu | Trump ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-27T14:36:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/fA245altaTM/hqdefault.jpg",
-          "durationSeconds": 848,
-          "durationFormatted": "14:08",
-          "views": 52472,
-          "likes": 850,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "90-SF-vBvEg",
-          "title": "Iran America War Update: नही होगा सीजफायर, ईरान की धमकी- युद्ध हम ही खत्म करेंगे! | Trump | Top News",
-          "description": "Iran America War Update: नही होगा सीजफायर, ईरान की धमकी- युद्ध हम ही खत्म करेंगे!",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-27T14:45:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/90-SF-vBvEg/hqdefault.jpg",
-          "durationSeconds": 528,
-          "durationFormatted": "08:48",
-          "views": 14295,
-          "likes": 190,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "VHSId2GzYV8",
           "title": "Iran Attack on Israel: जल गया इजरायल... ईरानी मिसाइलों से खौफ में इजरायली! | Netanyahu | Top News",
           "description": "Iran Attack on Israel: जल गया इजरायल... ईरानी मिसाइलों से खौफ में इजरायली! | Netanyahu ...",
@@ -147,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/VHSId2GzYV8/hqdefault.jpg",
           "durationSeconds": 247,
           "durationFormatted": "04:07",
-          "views": 9794,
-          "likes": 183,
+          "views": 10956,
+          "likes": 191,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "n2kzszt4lvg",
           "title": "Iran Attack on Israel: 9 बजते ही ईरान की मिसाइलों से इजरायल में तबाही शुरू? | Netanyahu | Top News",
           "description": "Iran Attack on Israel: 9 बजते ही ईरान की मिसाइलों से इजरायल में तबाही शुरू?",
@@ -162,19 +132,49 @@
           "thumbnail": "https://i.ytimg.com/vi/n2kzszt4lvg/hqdefault.jpg",
           "durationSeconds": 1529,
           "durationFormatted": "25:29",
-          "views": 9038,
+          "views": 9200,
           "likes": 264,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "0wxkv_DfNKs",
+          "title": "Iran Attack on Israel: 12 बजते ही ईरान ने जला दिया इजरायल? | Netanyahu | Top News | Trump",
+          "description": "Iran Attack on Israel: 12 बजते ही ईरान ने जला दिया इजरायल? | Netanyahu | Top News | Trump #iranattack ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-27T18:30:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/0wxkv_DfNKs/hqdefault.jpg",
+          "durationSeconds": 579,
+          "durationFormatted": "09:39",
+          "views": 9137,
+          "likes": 191,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "kQx9uXOCv2o",
+          "title": "Iran-Israel War Update Live : शुरू हो गया इजरायल में तबाही ? ! Netanyahu | Khamenei | Trump | US War",
+          "description": "Iran-Israel War Update Live : शुरू हो गया तीसरा विश्व युद्ध? ! Netanyahu | Khamenei | Trump | US War ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-27T17:46:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/kQx9uXOCv2o/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 5036,
+          "likes": 36,
+          "videoType": "LIVE",
+          "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-03-27T20:30:09Z"
+      "latestUpdateAt": "2026-03-27T22:30:08Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 15,
-      "trendScore": 45.9,
+      "trendScore": 44.9,
       "topVideos": [
         {
           "index": 1,
@@ -193,6 +193,21 @@
         },
         {
           "index": 2,
+          "videoId": "rDOyv7OWz48",
+          "title": "Ram Navami Stone Pelting Controversy : हिंदू त्योहार में क्यों हावी होते हैं पत्थरबाज़ ? | Zee MPCG",
+          "description": "Ram Navami Stone Pelting Controversy : राम नवमी के अवसर पर देश के कई हिस्सों में ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-03-27T17:11:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/rDOyv7OWz48/hqdefault.jpg",
+          "durationSeconds": 277,
+          "durationFormatted": "04:37",
+          "views": 1685,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
           "videoId": "cGzvMOU6xKw",
           "title": "🔴 Ram Navami In Ayodhya: रामलला का जन्मोत्सव | रामनवमी पर रामनगरी अयोध्या में उमड़े श्रद्धालु",
           "description": "IBC24, Ram Navami In Ayodhya: रामलला का जन्मोत्सव | रामनवमी पर रामनगरी अयोध्या ...",
@@ -207,21 +222,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "rDOyv7OWz48",
-          "title": "Ram Navami Stone Pelting Controversy : हिंदू त्योहार में क्यों हावी होते हैं पत्थरबाज़ ? | Zee MPCG",
-          "description": "Ram Navami Stone Pelting Controversy : राम नवमी के अवसर पर देश के कई हिस्सों में ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-27T17:11:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/rDOyv7OWz48/hqdefault.jpg",
-          "durationSeconds": 277,
-          "durationFormatted": "04:37",
-          "views": 1288,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
           "index": 4,
           "videoId": "2ziEgnQH1K8",
           "title": "आस्था, उत्साह और एकता का संगम—राम नवमी पर निकली विशाल शोभायात्रा | CG Bhaskar",
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2ziEgnQH1K8/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 478,
+          "views": 516,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-raipur",
       "topic": "Bhaskar Raipur",
       "videoCount": 8,
-      "trendScore": 38.9,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GPo25f434SE/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 1466,
-          "likes": 45,
+          "views": 1503,
+          "likes": 46,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dD6s6CXPnnk/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 899,
-          "likes": 23,
+          "views": 928,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -315,34 +315,34 @@
           "thumbnail": "https://i.ytimg.com/vi/cQyqLAd5KqE/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 813,
+          "views": 817,
           "likes": 30,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "H8epZAIAhBA",
-          "title": "रामनवमीं भंडारा में जुटे श्रद्धालु, MLA भी पहुंचे | CG Bhaskar",
-          "description": "रामनवमीं भंडारा में जुटे श्रद्धालु, MLA भी पहुंचे | CG Bhaskar Join our Whatsapp ...",
+          "videoId": "o66njQ_RJvQ",
+          "title": "भंडारे का प्रसाद बनाने के नियम में हुआ बदलाव | CG Bhaskar",
+          "description": "भंडारे का प्रसाद बनाने के नियम में हुआ बदलाव | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-27T10:30:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/H8epZAIAhBA/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 528,
-          "likes": 13,
+          "publishedAt": "2026-03-27T10:01:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/o66njQ_RJvQ/hqdefault.jpg",
+          "durationSeconds": 180,
+          "durationFormatted": "03:00",
+          "views": 579,
+          "likes": 9,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-27T15:01:01Z"
     },
     {
-      "clusterId": "rajnandgaon-गरफतर",
-      "topic": "Rajnandgaon गिरफ्तार",
+      "clusterId": "rajnandgaon-hतय",
+      "topic": "Rajnandgaon H.त्या",
       "videoCount": 16,
-      "trendScore": 35.6,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nuYj3-_UUbg/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 40,
+          "views": 41,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -376,6 +376,36 @@
         },
         {
           "index": 3,
+          "videoId": "v3o8g4ODmww",
+          "title": "गरियाबंद: शादी के 13 दिन बाद नवविवाहिता की संदिग्ध मौ.T , पति पर H.त्या का आरोप",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-27T11:31:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/v3o8g4ODmww/hqdefault.jpg",
+          "durationSeconds": 171,
+          "durationFormatted": "02:51",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "xGSuHc64JEs",
+          "title": "भिलाई-कुम्हारी ब्रिज मरम्मत के लिए बड़ी तैयारी ,ट्रैफिक डायवर्सन प्लान जारी",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-27T12:30:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/xGSuHc64JEs/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 5,
           "videoId": "NE9OpVfGy0A",
           "title": "दुर्ग में विकास कार्यों की समीक्षा , जल निकासी समस्या के स्थायी समाधान पर जोर",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -384,40 +414,10 @@
           "thumbnail": "https://i.ytimg.com/vi/NE9OpVfGy0A/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 10,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Jho90Zjrth4",
-          "title": "गरियाबंद ब्रेकिंग: नवविवाहित की मौ.T पर विवाद , परिजनों ने पति पर मारपीट और .Hत्या का आरोप लगाया",
-          "description": "chhattisgarhnews #madhyapradehnews #breakingnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-27T07:14:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/Jho90Zjrth4/hqdefault.jpg",
-          "durationSeconds": 78,
-          "durationFormatted": "01:18",
-          "views": 9,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "O2uX_JeBBj4",
-          "title": "दुर्ग-खुर्सीपार में हंगामा , गैस एजेंसी के बाहर मारपीट, 3 बाउंसर गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-27T12:33:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/O2uX_JeBBj4/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 6,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-03-27T12:37:01Z"
@@ -426,7 +426,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 33.4,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WZ6sq0wfvtg/hqdefault.jpg",
           "durationSeconds": 1568,
           "durationFormatted": "26:08",
-          "views": 27395,
-          "likes": 314,
+          "views": 27431,
+          "likes": 315,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nYEWG6OiTY4/hqdefault.jpg",
           "durationSeconds": 280,
           "durationFormatted": "04:40",
-          "views": 1285,
+          "views": 1288,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/08hBrMb2ZP8/hqdefault.jpg",
           "durationSeconds": 924,
           "durationFormatted": "15:24",
-          "views": 773,
+          "views": 791,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PMFB5JBylFw/hqdefault.jpg",
           "durationSeconds": 1009,
           "durationFormatted": "16:49",
-          "views": 60,
+          "views": 96,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -492,79 +492,79 @@
       "latestUpdateAt": "2026-03-27T18:01:02Z"
     },
     {
-      "clusterId": "middle-east",
-      "topic": "Middle East",
+      "clusterId": "petrol-diesel",
+      "topic": "Petrol Diesel",
       "videoCount": 4,
-      "trendScore": 32.4,
+      "trendScore": 29.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "rPXSlFNg9Po",
-          "title": "Middle East Crisis : फिर 10 दिन क्यों टाला Attack ? 6 अप्रैल 2026.. Ground Operation या Surrender ?",
-          "description": "Middle East Crisis : मिडिल ईस्ट में जारी तनाव के बीच एक बड़ा सवाल खड़ा हो गया है ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-27T17:21:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/rPXSlFNg9Po/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 1208,
-          "likes": 12,
+          "videoId": "H47F0LsoFE0",
+          "title": "Petrol Diesel Price Cut : पेट्रोल-डीजल पर सरकार का बड़ा फैसला, एक्साइज ड्यूटी 10-10 रुपये घटाई",
+          "description": "Petrol Diesel Price Cut : पेट्रोल-डीजल पर सरकार का बड़ा फैसला, एक्साइज ड्यूटी 10-10 ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-27T15:04:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/H47F0LsoFE0/hqdefault.jpg",
+          "durationSeconds": 888,
+          "durationFormatted": "14:48",
+          "views": 1599,
+          "likes": 10,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "aGo5y9Bk3og",
-          "title": "Lockdown in India News: नहीं लगेगा लॉकडाउन, सरकार ने किया साफ... | PM Modi | Iran Israel War Update",
-          "description": "Lockdown in India News: नहीं लगेगा लॉकडाउन, सरकार ने किया साफ... | PM Modi | Iran Israel War ...",
+          "videoId": "BauZuIkZQV8",
+          "title": "Petrol Diesel Price Cut : सरकार ने पेट्रोल-डीजल पर घटाई एक्साइज ड्यूटी | Top News",
+          "description": "Petrol Diesel Price Cut : सरकार ने पेट्रोल-डीजल पर घटाई एक्साइज ड्यूटी | Top News ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-27T17:45:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/aGo5y9Bk3og/hqdefault.jpg",
-          "durationSeconds": 141,
-          "durationFormatted": "02:21",
-          "views": 381,
+          "publishedAt": "2026-03-27T21:30:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/BauZuIkZQV8/hqdefault.jpg",
+          "durationSeconds": 241,
+          "durationFormatted": "04:01",
+          "views": 218,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "F98VJq4ZdoQ",
-          "title": "Middle East Crisis: PM Modi की मुख्यमंत्रियों के साथ 2 घंटे की मीटिंग में क्या हुआ? | Iran War",
-          "description": "Middle East Crisis: PM Modi की मुख्यमंत्रियों के साथ 2 घंटे की मीटिंग में क्या ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-27T17:07:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/F98VJq4ZdoQ/hqdefault.jpg",
-          "durationSeconds": 274,
-          "durationFormatted": "04:34",
-          "views": 180,
-          "likes": 9,
+          "videoId": "cJ5yBqSXO0Q",
+          "title": "Petrol Diesel excise Duty | फ्यूल संकट के बीच सरकार का बड़ा फैसला।पेट्रोल-डीजल पर घटी एक्साइज ड्यूटी",
+          "description": "Petrol Diesel excise Duty | फ्यूल संकट के बीच सरकार का बड़ा फैसला।पेट्रोल-डीजल पर ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-03-27T07:25:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/cJ5yBqSXO0Q/hqdefault.jpg",
+          "durationSeconds": 661,
+          "durationFormatted": "11:01",
+          "views": 69,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "pmPY6J3qpoM",
-          "title": "National News: Lockdown की खबरों पर Kiren Rijiju का बड़ा बयान, देखें क्या कहा? Iran-Israel War",
-          "description": "National News: Lockdown की खबरों पर Kiren Rijiju का बड़ा बयान, देखें क्या कहा? Iran-Israel War ...",
+          "videoId": "cpFZmcmtRls",
+          "title": "Excise Duty Reduced on Petrol Diesel: केंद्र सरकार ने घटाई पेट्रोल-डीजल पर एक्साइज ड्यूटी",
+          "description": "Excise Duty Reduced on Petrol Diesel: केंद्र सरकार ने घटाई पेट्रोल-डीजल पर एक्साइज ...",
           "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-03-27T09:35:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/pmPY6J3qpoM/hqdefault.jpg",
-          "durationSeconds": 86,
-          "durationFormatted": "01:26",
-          "views": 44,
+          "publishedAt": "2026-03-27T13:22:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/cpFZmcmtRls/hqdefault.jpg",
+          "durationSeconds": 105,
+          "durationFormatted": "01:45",
+          "views": 57,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-27T17:45:00Z"
+      "latestUpdateAt": "2026-03-27T21:30:05Z"
     },
     {
       "clusterId": "xpress-गरदपर",
       "topic": "Xpress गिरौदपुरी",
       "videoCount": 4,
-      "trendScore": 29.9,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-9l-kz1v80k/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1365,
+          "views": 1388,
           "likes": 21,
           "videoType": "VOD",
           "genre": "Crime"
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/M2bTV94hyj0/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 1061,
+          "views": 1077,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BXricKIW4R8/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 52,
+          "views": 55,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -633,7 +633,7 @@
       "clusterId": "bhilai-shivali",
       "topic": "Bhilai Shivali",
       "videoCount": 4,
-      "trendScore": 29.3,
+      "trendScore": 28.5,
       "topVideos": [
         {
           "index": 1,
@@ -645,7 +645,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CXbP_Ehs8jw/hqdefault.jpg",
           "durationSeconds": 481,
           "durationFormatted": "08:01",
-          "views": 1732,
+          "views": 1756,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hW-3UuQ8sYc/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 1253,
+          "views": 1322,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -690,13 +690,82 @@
           "thumbnail": "https://i.ytimg.com/vi/k4SegPFYMm0/hqdefault.jpg",
           "durationSeconds": 459,
           "durationFormatted": "07:39",
-          "views": 1061,
+          "views": 1145,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-27T16:31:10Z"
+    },
+    {
+      "clusterId": "bhopal-aiims",
+      "topic": "Bhopal AIIMS",
+      "videoCount": 4,
+      "trendScore": 26.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "u7MIRYJBUJA",
+          "title": "Bhopal : गैस सिलेंडर की सप्लाई बढ़ेगी, प्रशासन एक्टिव, समस्या पर नजर...",
+          "description": "भोपाल में गैस सिलेंडर को लेकर लोग लाइन में खड़े हैं...वहीं स्थानीय ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-27T12:25:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/u7MIRYJBUJA/hqdefault.jpg",
+          "durationSeconds": 207,
+          "durationFormatted": "03:27",
+          "views": 448,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "chqipdllazA",
+          "title": "Bhopal: इकबाल मैदान का नाम बदलने की मांग,राष्ट्रीय मानव अधिकार आयोग ने उठाए सवाल",
+          "description": "भोपाल: इकबाल मैदान के नाम पर विवाद इकबाल मैदान का नाम बदलने की मांग ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-27T08:38:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/chqipdllazA/hqdefault.jpg",
+          "durationSeconds": 188,
+          "durationFormatted": "03:08",
+          "views": 126,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "H32hS9Kkf44",
+          "title": "Bhopal : AIIMS के सामने मेडिकल स्टोर का निर्माणाधीन छज्जा गिरा,10 लोग घायल,AIIMS में कराया भर्ती",
+          "description": "राजधानी भोपाल के सबसे सुरक्षित और व्यस्त माने जाने वाले एम्स परिसर ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-27T08:11:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/H32hS9Kkf44/hqdefault.jpg",
+          "durationSeconds": 219,
+          "durationFormatted": "03:39",
+          "views": 124,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 4,
+          "videoId": "-NsZqiLQb1c",
+          "title": "Bhopal News : मेडिकल स्टोर का निर्माणाधीन छज्जा गिरा | 1 महिला समेत 4 लोग घायल, इलाज जारी",
+          "description": "IBC24, Bhopal News : मेडिकल स्टोर का निर्माणाधीन छज्जा गिरा | 1 महिला समेत 4 ...",
+          "channelTitle": "IBC24 Jankarwan",
+          "publishedAt": "2026-03-27T09:31:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/-NsZqiLQb1c/hqdefault.jpg",
+          "durationSeconds": 87,
+          "durationFormatted": "01:27",
+          "views": 10,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-27T12:25:02Z"
     }
   ]
 }
