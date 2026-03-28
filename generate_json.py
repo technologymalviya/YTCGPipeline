@@ -108,13 +108,11 @@ GENRE_CIVIC = "Civic"
 GENRE_PODCAST = "Podcast"
 GENRE_GENERAL = "General"
 
-# Podcast allowed channel titles - only videos from these channels can be classified as Podcast
-# These channels should NOT appear in other tabs
+# Podcast allowed channel titles — genre Podcast only when channel is listed AND title/description
+# look like a podcast episode (see _looks_like_podcast_content). Other uploads use normal genres.
 PODCAST_ALLOWED_CHANNEL_TITLES = [
     "Chhattisgarh Podcast",
     "Z-Series CG Podcast",
-    "The Lok Ras",
-    "The PS Show",
 ]
 
 # Section Names
@@ -331,6 +329,41 @@ def normalize(text: str) -> str:
     return text
 
 
+def _is_allowed_podcast_channel(channel_title: str) -> bool:
+    return bool(channel_title and channel_title in PODCAST_ALLOWED_CHANNEL_TITLES)
+
+
+def _looks_like_podcast_content(title: str, description: str = "") -> bool:
+    """True when metadata clearly indicates a podcast-style episode (not generic news uploads)."""
+    title_n = normalize(title or "")
+    desc_n = normalize(description or "")
+    text = f"{title_n} {title_n} {title_n} {desc_n}"
+    needles = (
+        "podcast",
+        "podcasts",
+        "पॉडकास्ट",
+        "पोडकास्ट",
+        "36garhpodcast",
+        "36 garh podcast",
+        "cgpodcast",
+        "cg podcast",
+        "z-series",
+        "z series",
+        "zseries",
+        "podcast episode",
+        "podcast show",
+        "apple podcast",
+        "episode",
+        "episodes",
+        "एपिसोड",
+    )
+    if any(n in text for n in needles):
+        return True
+    if re.search(r"\bep\s*\d+\b", text):
+        return True
+    return False
+
+
 # Create word boundary patterns for better matching
 def create_patterns(keywords):
     """Create regex patterns with word boundaries for better matching."""
@@ -517,8 +550,6 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
             "events": GENRE_EVENTS,
             "civic": GENRE_CIVIC,
             "politics": GENRE_POLITICS,
-            "podcast": GENRE_PODCAST,
-            "interview": GENRE_PODCAST,  # Legacy support - map "interview" to "podcast"
             "general": GENRE_GENERAL,
         }
         
@@ -666,11 +697,10 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     Returns:
         Genre classification string
     """
-    # CRITICAL: Check if video is from a Podcast channel first
-    # Videos from Podcast channels should ONLY be classified as Podcast, not other genres
-    if channel_title and channel_title in PODCAST_ALLOWED_CHANNEL_TITLES:
+    # Podcast tab: allow-listed channel AND title/description must look like a podcast episode
+    if _is_allowed_podcast_channel(channel_title) and _looks_like_podcast_content(title, description):
         return GENRE_PODCAST
-    
+
     # Normalize title and description separately - title gets more weight
     title_text = normalize(title or "")
     desc_text = normalize(description or "")
@@ -714,6 +744,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         # Medical negligence death (crime)
         "इलाज के दौरान मरीज की मौत", "इलाज के दौरान मौत", "डॉक्टर लापरवाही", "मेडिकल नेग्लिजेंस",
         "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा","मौत",
+        "crime branch", "क्राइम ब्रांच",
+        "missile", "मिसाइल", "drone strike", "air strike",
         "पुलिस गिरफ्तार", "पुलिस ने गिरफ्तार", "पुलिस जांच",  # Police action (crime-related)
         "गिरोह", "संगठित गिरोह", "गिरोह का पर्दाफाश",  # Gang/exposure
         "पर्दाफाश", "किया पर्दाफाश",  # Exposure/revelation (crime-related)
@@ -726,7 +758,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट", "आईईडी ब्लास्ट", "बम ब्लास्ट",  # Explosions
         "अग्निकांड", "आग",  # Fire incident
         "चेन छीन", "चेन स्नैचिंग", "स्नैचिंग",  # Chain snatching
-        "ठग", "धोखाधड़ी", "फ्रॉड",  # Fraud/scam
+        "ठग", "ठगी", "धोखाधड़ी", "फ्रॉड",  # Fraud/scam
         "स्कैम केस", "धोखाधड़ी केस", "भ्रष्टाचार स्कैम",  # Specific scams (not political discussions)
         "सायबर चोरी", "सायबर फ्रॉड", "ऑनलाइन स्कैम", "टेलीग्राम स्कैम",  # Cyber crimes
         "कुत्ते का आतंक", "कुत्ते ने काटा", "कुत्ता काटा", "कुत्ता",  # Dog attack
@@ -745,6 +777,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     traffic_keywords = [
         # English - multi-word phrases for stronger matching (check first)
         "traffic accident", "road accident", "car accident", "vehicle accident",
+        "road crash", "car crash", "highway crash", "train crash",
         "traffic jam", "road jam",
         "head-on collision", "rear-end collision",
         "fatal accident", "deadly accident",
@@ -757,18 +790,26 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "एनएच", "NH-", "हाइवे पर",  # Highway accidents
         "ट्रैफिक जाम", "सड़क जाम",
         # English - strong single-word indicators (context-specific)
-        "accident", "collision", "crash", "traffic", "jam",
+        # Note: standalone "crash" omitted — matches gold/stock "price crash" (false Traffic)
+        "accident", "collision", "traffic", "jam",
         "ambulance", "rescue", "highway", "expressway",
+        "bus accident", "train accident", "rail accident",
+        "emergency landing", "runway", "aircraft",
         # Hindi/Devanagari - strong single-word indicators (context-specific)
-        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस", "पलटी"  # पलटी = overturned
+        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस", "पलटी",  # पलटी = overturned
+        "बस हादसा", "ट्रेन हादसा", "रेल हादसा", "रेलवे", "ट्रेन से गिरा", "चलती ट्रेन",
+        "train से गिरा", "चलती train", "from train",
+        "इमरजेंसी लैंडिंग", "आपात लैंडिंग", "विमान की लैंडिंग"
         # Note: "घायल" (injured) removed - too generic, appears in non-traffic contexts
     ]
     
     # Jobs keywords - specific employment/job terms
     jobs_keywords = [
         # English - strong single-word indicators
-        "job", "jobs", "recruitment", "vacancy", "hiring", "employment", "bharti", "bharte",
-        "career", "opportunity", "post", "application", "opening",
+        "job", "jobs", "recruitment", "vacancy", "hiring", "employment",
+        # "bharti"/"bharte" omitted — false positives (e.g. "Bharti Media"); use "police bharti" etc.
+        "career", "opportunity", "application", "opening",
+        "job post", "govt post", "government post", "sarkari post",
         "admit card", "merit", "salary", "wage", "exam",
         "police recruitment", "police bharti",  # Police recruitment (specific)
         "appointment", "appointments", "नियुक्ति",  # Appointments
@@ -789,33 +830,6 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू",
         "निगम मंडल", "मंडल में नियुक्ति",  # Corporation board appointments
         "परीक्षा रिजल्ट", "भर्ती रिजल्ट", "नौकरी रिजल्ट", "मेरिट रिजल्ट"  # Job/exam results (not election)
-    ]
-    
-    # Interview keywords - podcast, interview, story, biography (check BEFORE Jobs to catch "interview" content)
-    interview_keywords = [
-        # English - podcast terms
-        "podcast", "podcasts", "podcast episode", "podcast show",
-        # English - interview terms (but exclude "job interview" which is Jobs)
-        "interview", "interviews", "exclusive interview", "special interview",
-        "celebrity interview", "personality interview", "one-on-one interview",
-        "conversation", "talk show", "chat", "discussion",
-        # English - story terms
-        "story", "stories", "life story", "success story", "inspiring story",
-        "real story", "true story", "story of", "journey",
-        # English - biography terms
-        "biography", "biographies", "biographical", "life story",
-        "autobiography", "memoir", "life journey", "life history",
-        # Hindi/Devanagari - podcast terms
-        "पॉडकास्ट", "पॉडकास्ट एपिसोड", "पॉडकास्ट शो",
-        # Hindi/Devanagari - interview terms (but exclude "नौकरी इंटरव्यू", "भर्ती इंटरव्यू" which are Jobs)
-        "इंटरव्यू", "विशेष इंटरव्यू", "एक्सक्लूसिव इंटरव्यू",
-        "बातचीत", "साक्षात्कार", "चर्चा", "मुलाकात",
-        # Hindi/Devanagari - story terms
-        "कहानी", "कहानियां", "जीवन कहानी", "सफलता की कहानी",
-        "प्रेरणादायक कहानी", "सच्ची कहानी", "की कहानी", "सफर",
-        # Hindi/Devanagari - biography terms
-        "जीवनी", "आत्मकथा", "जीवन यात्रा", "जीवन इतिहास",
-        "जीवन परिचय", "जीवन वृत्तांत"
     ]
 
     # Events keywords - specific event/festival terms
@@ -850,7 +864,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     # Civic keywords - specific civic/municipal service terms
     civic_keywords = [
         # English - specific civic terms
-        "municipal corporation", "municipality", "municipal",
+        "municipal corporation", "municipality", "municipal", "nagar nigam",
         "water supply", "electricity supply", "power supply",
         "contaminated water", "water crisis", "water problem", "water contamination",  # Water issues
         "water supply improvement", "drinking water", "पेयजल",  # Water supply improvements
@@ -859,7 +873,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "pothole repair", "road repair", "street repair",
         "road construction", "road not built", "infrastructure",
         "road quality", "road collapse", "underbridge", "अंडरब्रिज",  # Road quality issues
-        "corruption", "negligence", "भ्रष्टाचार", "लापरवाही",  # Corruption/negligence in infrastructure
+        "corruption", "भ्रष्टाचार",  # Municipal corruption (omit bare negligence/लापरवाही — matches intl. politics)
+        "नगर निगम लापरवाही", "पानी लापरवाही", "सड़क लापरवाही", "अस्पताल लापरवाही",
         "public health", "sanitation", "swachh bharat",
         "air pollution", "aqi", "air quality index", "pm2.5", "pm10",  # Air quality issues
         "हवा खतरनाक", "प्रदूषित हवा", "वायु प्रदूषण",  # Dangerous air/air pollution
@@ -871,7 +886,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "mayor", "councilor",
         # Note: "commissioner" removed - too generic, appears in police commissioner (general news) and municipal commissioner (civic)
         "nrda",  # NRDA - Raipur Development Authority
-        "student protest", "protest", "demonstration",  # Protests
+        # Avoid bare "protest"/"demonstration" — matches international politics (e.g. Nepal)
+        "student protest",
         # Hindi/Devanagari - specific civic terms
         "नगर निगम", "नगर पालिका",
         "पानी की समस्या", "बिजली की समस्या",
@@ -931,7 +947,9 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "पार्षद",  # Councilor - political position
         "योजना", "सरकारी योजना", "लाडली बहना योजना",  # Government schemes
         "धान खरीदी", "धान खरीद", "धान",  # Paddy procurement
-        "चुनाव का रिजल्ट", "चुनाव रिजल्ट", "मतगणना", "वोट गिनती"  # Election results
+        "चुनाव का रिजल्ट", "चुनाव रिजल्ट", "मतगणना", "वोट गिनती",  # Election results
+        # Neighbouring / international politics often covered by MP–CG channels
+        "nepal", "नेपाल", "kathmandu", "oli", "ओली", "kp oli", "sharma oli", "केपी शर्मा ओली",
     ]
 
     # Weather keywords - check BEFORE Politics to avoid "MP Weather" matching "MP" (Member of Parliament)
@@ -949,7 +967,6 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     # Create patterns and check in order of specificity
     crime_patterns = create_patterns(crime_keywords)
     traffic_patterns = create_patterns(traffic_keywords)
-    interview_patterns = create_patterns(interview_keywords)
     jobs_patterns = create_patterns(jobs_keywords)
     events_patterns = create_patterns(events_keywords)
     civic_patterns = create_patterns(civic_keywords)
@@ -967,45 +984,30 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         if pattern.search(text):
             return GENRE_TRAFFIC
 
-    # Podcast/Interview - podcast, interview, story, biography (check BEFORE Jobs, but exclude job interviews)
-    # IMPORTANT: 
-    # 1. Job interviews must be classified as Jobs, not Podcast
-    # 2. Only videos from allowed Podcast channels can be classified as Podcast (already checked above)
-    # 3. This section is for videos from other channels that have podcast/interview keywords
-    #    but should NOT be classified as Podcast (they'll be General or other genres)
-    # Note: Videos from PODCAST_ALLOWED_CHANNEL_TITLES are already classified as Podcast above
-    for pattern in interview_patterns:
-        if pattern.search(text):
-            # Exclude job interviews - these MUST be classified as Jobs, not Podcast
-            # Check for job-related terms that indicate this is a job interview, not a content interview
-            job_interview_indicators = [
-                # English job interview terms
-                "job interview", "employment interview", "walk-in interview", "job interview tips",
-                "interview for job", "interview preparation", "interview tips", "interview questions",
-                "job application", "apply for job", "job vacancy", "job opening", "job opportunity",
-                "recruitment interview", "hiring interview", "job hiring", "job recruitment",
-                "career interview", "job career", "job post", "job notification",
-                # Hindi job interview terms
-                "नौकरी इंटरव्यू", "भर्ती इंटरव्यू", "रोजगार इंटरव्यू", "नौकरी के लिए इंटरव्यू",
-                "इंटरव्यू तैयारी", "इंटरव्यू टिप्स", "नौकरी आवेदन", "नौकरी सूचना",
-                "भर्ती", "रोजगार", "नौकरी", "सरकारी नौकरी", "गवर्नमेंट जॉब",
-                "job", "jobs", "recruitment", "vacancy", "hiring", "bharti", "bharte"
-            ]
-            
-            # If any job-related indicator is present, skip Podcast classification
-            # This ensures job interviews are classified as Jobs (checked next)
-            if any(job_term in text for job_term in job_interview_indicators):
-                continue  # Skip Podcast, let Jobs classification handle it
-            
-            # Videos with podcast/interview keywords from non-allowed channels should be General
-            # (not Podcast, since they're not from allowed channels)
-            # This is handled by falling through to GENRE_GENERAL at the end
-            continue
+    # Jobs - employment opportunities
+    _jobs_skip_substrings = [
+        "धर्मांतरण", "जबरन धर्मांतरण", "religious conversion", "conversion law",
+        "anti conversion", "anti-conversion", "धर्म स्वातंत्र्य",
+        "नौकरी के नाम पर", "नौकरी के नाम से",
+    ]
+    _jobs_skip_if_both = [
+        ("नौकरी", "ठगी"),
+        ("नौकरी", "फर्जीवाड़ा"),
+        ("नौकरी", "धोखा"),
+        ("job", "fraud"),
+        ("job", "scam"),
+        ("भर्ती", "ठगी"),
+    ]
 
-    # Jobs - employment opportunities (check AFTER Interview to catch job interviews)
-    # This will catch job interviews that were excluded from Interview classification above
+    def _should_skip_jobs_for_crime_or_religion(t: str) -> bool:
+        if any(s in t for s in _jobs_skip_substrings):
+            return True
+        return any(a in t and b in t for a, b in _jobs_skip_if_both)
+
     for pattern in jobs_patterns:
         if pattern.search(text):
+            if _should_skip_jobs_for_crime_or_religion(text):
+                continue
             return GENRE_JOBS
 
     # Crime - check BEFORE Events to catch crimes at events (e.g., "मेला में दुष्कर्म")
@@ -1014,8 +1016,16 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
             return GENRE_CRIME
     
     # Events - check BEFORE Politics to catch conferences/events/launches (not political discussions)
+    _events_crime_story_markers = [
+        "murder", "killed", "killing", "homicide", "rape", "kidnap", "abduct",
+        "हत्या", "कत्ल", "मर्ड", "दुष्कर्म", "अपहरण", "चाकू", "गोली", "फायरिंग",
+        "लूट", "चोरी", "robbery", "theft", "snatching", "हत्याकांड",
+        "fraud case", "scam case", "ठगी", "फर्जीवाड़ा केस",
+    ]
     for pattern in events_patterns:
         if pattern.search(text):
+            if any(m in text for m in _events_crime_story_markers):
+                continue
             # But exclude if it's clearly a political discussion (e.g., "CM meets PM", "political rally")
             # Policy launches and inaugurations are Events, not Politics
             if not any(pol_term in text for pol_term in ["meets", "मुलाकात", "रैली", "भाषण", "चुनाव"]):
@@ -1269,24 +1279,13 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                 else:
                     openai_result = classify_genre_with_openai(title, description)
                     if openai_result:
-                        # If OpenAI classified as Podcast, verify channel_title before accepting
-                        # If not from allowed channel, reclassify using keyword-based
-                        if openai_result == GENRE_PODCAST:
-                            if channel_title not in PODCAST_ALLOWED_CHANNEL_TITLES:
-                                v["genre"] = classify_genre_keyword_based(title, description, channel_title)
-                                keyword_count += 1
-                            else:
-                                v["genre"] = openai_result
-                                openai_count += 1
-                        else:
-                            # For non-Podcast genres, check if video is from Podcast channel
-                            # If yes, override to Podcast (Podcast channels should only appear in Podcast tab)
-                            if channel_title in PODCAST_ALLOWED_CHANNEL_TITLES:
-                                v["genre"] = GENRE_PODCAST
-                                keyword_count += 1
-                            else:
-                                v["genre"] = openai_result
-                                openai_count += 1
+                        v["genre"] = openai_result
+                        # OpenAI has no Podcast class; still apply podcast tab rules for allow-listed channels
+                        if _is_allowed_podcast_channel(channel_title) and _looks_like_podcast_content(
+                            title, description
+                        ):
+                            v["genre"] = GENRE_PODCAST
+                        openai_count += 1
                     else:
                         # OpenAI failed - set circuit breaker and use keyword-based
                         if not openai_failed:
@@ -1329,17 +1328,9 @@ def filter_by_genre(feed: List[Dict], genres: List[str]) -> List[Dict]:
 
 def generate_ott_json(feed: List[Dict]) -> Dict:
     """Generate OTT-style JSON feed."""
-    # Filter Podcast videos first - these should ONLY appear in Podcast section
+    # Podcast section = genre Podcast only (assigned only for allow-listed channels + podcast signals)
     podcast_news = filter_by_genre(feed, [GENRE_PODCAST])
-    
-    # Filter other genres, but EXCLUDE videos from Podcast channels
-    # This ensures Podcast channel videos don't appear in other tabs
-    def is_not_podcast_channel(video: Dict) -> bool:
-        channel_title = video.get("channelTitle", "")
-        return channel_title not in PODCAST_ALLOWED_CHANNEL_TITLES
-    
-    # Filter other genres, excluding Podcast channel videos
-    other_feed = [v for v in feed if is_not_podcast_channel(v)]
+    other_feed = [v for v in feed if v.get("genre") != GENRE_PODCAST]
     
     live_news = filter_by_genre(other_feed, [GENRE_LIVE])
     scheduled_news = filter_by_genre(other_feed, [GENRE_SCHEDULED])
