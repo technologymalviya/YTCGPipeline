@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-28T20:48:05.164543Z",
+  "generatedAt": "2026-03-28T22:46:49.341570Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 75,
-      "trendScore": 65.9,
+      "videoCount": 76,
+      "trendScore": 64.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oI8jfXOih-Y/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 40801,
-          "likes": 1597,
+          "views": 42686,
+          "likes": 1611,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SOSwND5nlGA/hqdefault.jpg",
           "durationSeconds": 1854,
           "durationFormatted": "30:54",
-          "views": 29006,
-          "likes": 757,
+          "views": 29890,
+          "likes": 771,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VvFVvfiHnM4/hqdefault.jpg",
           "durationSeconds": 1572,
           "durationFormatted": "26:12",
-          "views": 27057,
+          "views": 27120,
           "likes": 345,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5ubL-ZzlbG4/hqdefault.jpg",
           "durationSeconds": 879,
           "durationFormatted": "14:39",
-          "views": 13900,
-          "likes": 167,
+          "views": 15393,
+          "likes": 175,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,22 +78,37 @@
           "thumbnail": "https://i.ytimg.com/vi/Q33ah8mmi90/hqdefault.jpg",
           "durationSeconds": 155,
           "durationFormatted": "02:35",
-          "views": 13840,
-          "likes": 509,
+          "views": 14063,
+          "likes": 510,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-28T19:37:38Z"
+      "latestUpdateAt": "2026-03-28T21:17:01Z"
     },
     {
-      "clusterId": "iran-america",
-      "topic": "Iran America",
-      "videoCount": 5,
-      "trendScore": 40.8,
+      "clusterId": "iran-trump",
+      "topic": "Iran Trump",
+      "videoCount": 8,
+      "trendScore": 45.1,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "6I5Otv96tB8",
+          "title": "Iran Attack on Saudi Arabia: 12 बजते ही ईरान ने सऊदी अरब पर दागी सैकड़ों मिसाइलें? | Top News| Trump",
+          "description": "Iran Attack on Saudi Arabia: 12 बजते ही ईरान ने सऊदी अरब पर दागी सैकड़ों मिसाइलें?",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-28T18:30:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/6I5Otv96tB8/hqdefault.jpg",
+          "durationSeconds": 651,
+          "durationFormatted": "10:51",
+          "views": 13709,
+          "likes": 213,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "demnBQGMZ_M",
           "title": "Iran America War Update: 9 बजते ही ईरान के हमले से 300 अमेरिकी सैनिकों की मौत? | Trump | Khamenei",
           "description": "Iran America War Update: 9 बजते ही ईरान के हमले से 300 अमेरिकी सैनिकों की मौत? | Trump ...",
@@ -102,58 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/demnBQGMZ_M/hqdefault.jpg",
           "durationSeconds": 367,
           "durationFormatted": "06:07",
-          "views": 12210,
-          "likes": 330,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "qFFOqM6e5IQ",
-          "title": "Iran America War Udpate: होर्मुज बना मौत का कुंआ, ईरान ने मचा दी तबाही! | Netanyahu | Trump",
-          "description": "Iran America War Udpate: होर्मुज बना मौत का कुंआ, ईरान ने मचा दी तबाही! | Netanyahu ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-28T17:01:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/qFFOqM6e5IQ/hqdefault.jpg",
-          "durationSeconds": 255,
-          "durationFormatted": "04:15",
-          "views": 5458,
-          "likes": 143,
+          "views": 12612,
+          "likes": 332,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "4pJtYAkF1u8",
-          "title": "Iran America Israel War Ceasefire Live : इजरायल पर ईरान का बड़ा हमला | Hezbollah | Netanyahu | IRGC",
-          "description": "Iran America Israel War Ceasefire Live : इजरायल पर ईरान का बड़ा हमला | Hezbollah | Netanyahu | IRGC ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-28T14:46:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/4pJtYAkF1u8/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 4109,
-          "likes": 15,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "index": 4,
-          "videoId": "TgoFvZ7UWys",
-          "title": "Iran America Ceasefire Update: ईरान पर नहीं होगा हमला, बैकफुट पर आए ट्रंप ! | Trump | Khamenei",
-          "description": "Iran America Ceasefire Update: ईरान पर नहीं होगा हमला, बैकफुट पर आए ट्रंप ! | Trump ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-28T16:15:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/TgoFvZ7UWys/hqdefault.jpg",
-          "durationSeconds": 176,
-          "durationFormatted": "02:56",
-          "views": 2968,
-          "likes": 26,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "GqdlVKNiivk",
           "title": "Iran Attack on Israel: 2 बजते ही ईरान नेउड़ा दिए 25 इजरायली जेट, तबाही? | Netanyahu | Top News",
           "description": "Iran Attack on Israel: 2 बजते ही ईरान नेउड़ा दिए 25 इजरायली जेट, तबाही? | Netanyahu | Top ...",
@@ -162,19 +132,49 @@
           "thumbnail": "https://i.ytimg.com/vi/GqdlVKNiivk/hqdefault.jpg",
           "durationSeconds": 848,
           "durationFormatted": "14:08",
-          "views": 1060,
-          "likes": 70,
+          "views": 6145,
+          "likes": 328,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "qFFOqM6e5IQ",
+          "title": "Iran America War Udpate: होर्मुज बना मौत का कुंआ, ईरान ने मचा दी तबाही! | Netanyahu | Trump",
+          "description": "Iran America War Udpate: होर्मुज बना मौत का कुंआ, ईरान ने मचा दी तबाही! | Netanyahu ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-28T17:01:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/qFFOqM6e5IQ/hqdefault.jpg",
+          "durationSeconds": 255,
+          "durationFormatted": "04:15",
+          "views": 6076,
+          "likes": 144,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "4pJtYAkF1u8",
+          "title": "Iran America Israel War Ceasefire Live : इजरायल पर ईरान का बड़ा हमला | Hezbollah | Netanyahu | IRGC",
+          "description": "Iran America Israel War Ceasefire Live : इजरायल पर ईरान का बड़ा हमला | Hezbollah | Netanyahu | IRGC ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-28T14:46:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/4pJtYAkF1u8/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 4281,
+          "likes": 15,
+          "videoType": "LIVE",
+          "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-03-28T20:30:04Z"
+      "latestUpdateAt": "2026-03-28T22:30:01Z"
     },
     {
       "clusterId": "bhaskar-viral",
       "topic": "Bhaskar Viral",
       "videoCount": 8,
-      "trendScore": 38.7,
+      "trendScore": 37.7,
       "topVideos": [
         {
           "index": 1,
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q9yNWmKi1eY/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 1703,
+          "views": 1706,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/k-aZl2_zxnQ/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 1090,
+          "views": 1125,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RpIuk_RB3hI/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 949,
+          "views": 996,
           "likes": 25,
           "videoType": "VOD",
           "genre": "General"
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/e13iCdd7v6s/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 531,
-          "likes": 21,
+          "views": 568,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -258,7 +258,7 @@
       "clusterId": "mudde-baat",
       "topic": "Mudde Baat",
       "videoCount": 5,
-      "trendScore": 36.2,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uDlRlv8lLes/hqdefault.jpg",
           "durationSeconds": 237,
           "durationFormatted": "03:57",
-          "views": 1132,
-          "likes": 24,
+          "views": 1453,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6175JG7LgD0/hqdefault.jpg",
           "durationSeconds": 305,
           "durationFormatted": "05:05",
-          "views": 1040,
+          "views": 1151,
           "likes": 31,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gAJenF7NUr0/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 685,
+          "views": 721,
           "likes": 11,
           "videoType": "LIVE",
           "genre": "Live"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f0SdglUsdhU/hqdefault.jpg",
           "durationSeconds": 304,
           "durationFormatted": "05:04",
-          "views": 207,
+          "views": 287,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GdS8QPtZPqw/hqdefault.jpg",
           "durationSeconds": 538,
           "durationFormatted": "08:58",
-          "views": 111,
-          "likes": 7,
+          "views": 176,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "shorts-airport",
       "topic": "Shorts Airport",
       "videoCount": 6,
-      "trendScore": 35.5,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nUPyB1-AZ3E/hqdefault.jpg",
           "durationSeconds": 357,
           "durationFormatted": "05:57",
-          "views": 10159,
+          "views": 10176,
           "likes": 52,
           "videoType": "VOD",
           "genre": "Politics"
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Fk62uEMT55c/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 4728,
-          "likes": 19,
+          "views": 4830,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_Az50aOrzg4/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 1512,
-          "likes": 8,
+          "views": 1617,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ltsU7vZy-D0/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 1297,
+          "views": 1354,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -414,8 +414,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oItFpKIu-i4/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 985,
-          "likes": 7,
+          "views": 1011,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -426,7 +426,7 @@
       "clusterId": "bastar-files",
       "topic": "Bastar Files",
       "videoCount": 7,
-      "trendScore": 35.3,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9Sa6d5fzE0I/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 1885,
+          "views": 2049,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/thMtQHfo55U/hqdefault.jpg",
           "durationSeconds": 127,
           "durationFormatted": "02:07",
-          "views": 1293,
+          "views": 1355,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -468,28 +468,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Onnspag9MRk/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 1279,
+          "views": 1291,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "-i5lk5tBvTw",
-          "title": "Bastar Files: आलदंड गांव की दीवारें..जो आज भी देती है लाल आतंक के खौफ की गवाही। #cgnaxalhistory",
-          "description": "IBC24, Bastar Files: आलदंड गांव की दीवारें..जो आज भी देती है लाल आतंक के खौफ की ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-28T17:33:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/-i5lk5tBvTw/hqdefault.jpg",
-          "durationSeconds": 87,
-          "durationFormatted": "01:27",
-          "views": 782,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "li2gus4XxVc",
           "title": "Bastar Files: पहली बार छत्तीसगढ़ के जवान को मिलेगा शौर्य चक्र। #rameshwardeshmukh #cgnaxalencounter",
           "description": "IBC24, Bastar Files: पहली बार छत्तीसगढ़ के जवान को मिलेगा शौर्य चक्र।",
@@ -498,7 +483,22 @@
           "thumbnail": "https://i.ytimg.com/vi/li2gus4XxVc/hqdefault.jpg",
           "durationSeconds": 164,
           "durationFormatted": "02:44",
-          "views": 664,
+          "views": 944,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "-i5lk5tBvTw",
+          "title": "Bastar Files: आलदंड गांव की दीवारें..जो आज भी देती है लाल आतंक के खौफ की गवाही। #cgnaxalhistory",
+          "description": "IBC24, Bastar Files: आलदंड गांव की दीवारें..जो आज भी देती है लाल आतंक के खौफ की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-03-28T17:33:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/-i5lk5tBvTw/hqdefault.jpg",
+          "durationSeconds": 87,
+          "durationFormatted": "01:27",
+          "views": 855,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "खरगढ-कसरय",
       "topic": "खैरागढ़ कोसरिया",
       "videoCount": 12,
-      "trendScore": 34.3,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6vajROvNaxQ/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 64,
+          "views": 67,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tb7tH7bJZdI/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 27,
+          "views": 30,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -582,7 +582,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_WncYXVmiRY/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -594,7 +594,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 32.5,
+      "trendScore": 31.9,
       "topVideos": [
         {
           "index": 1,
@@ -606,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CWtN9L5VJTY/hqdefault.jpg",
           "durationSeconds": 1555,
           "durationFormatted": "25:55",
-          "views": 40342,
-          "likes": 401,
+          "views": 40422,
+          "likes": 402,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -621,8 +621,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K-iT1PSC8Fs/hqdefault.jpg",
           "durationSeconds": 910,
           "durationFormatted": "15:10",
-          "views": 757,
-          "likes": 12,
+          "views": 764,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -663,7 +663,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 4,
-      "trendScore": 29.8,
+      "trendScore": 29.0,
       "topVideos": [
         {
           "index": 1,
@@ -675,8 +675,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Yzh47bIe7E0/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 2503,
-          "likes": 33,
+          "views": 2597,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -697,6 +697,21 @@
         },
         {
           "index": 3,
+          "videoId": "-hHOQvN_uf4",
+          "title": "राजनांदगांव में राम नवमी शोभायात्रा ,सामाजिक संगठनों की सक्रिय भागीदारी",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-28T13:22:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/-hHOQvN_uf4/hqdefault.jpg",
+          "durationSeconds": 260,
+          "durationFormatted": "04:20",
+          "views": 3,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "BpzxxRk4Q8Q",
           "title": "CG News : बागबाहरा में राम नवमी का जलवा… हजारों की भीड़",
           "description": "महासमुंद के बागबाहरा में राम नवमी का पर्व भव्य शोभायात्रा, बाइक ...",
@@ -706,21 +721,6 @@
           "durationSeconds": 40,
           "durationFormatted": "00:40",
           "views": 3,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "-hHOQvN_uf4",
-          "title": "राजनांदगांव में राम नवमी शोभायात्रा ,सामाजिक संगठनों की सक्रिय भागीदारी",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-28T13:22:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/-hHOQvN_uf4/hqdefault.jpg",
-          "durationSeconds": 260,
-          "durationFormatted": "04:20",
-          "views": 2,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
