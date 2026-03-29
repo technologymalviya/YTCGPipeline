@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-29T20:48:35.747235Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-03-29T22:49:39.919047Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 89,
-      "trendScore": 61.0,
+      "videoCount": 86,
+      "trendScore": 59.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lnRdY9l_G2w/hqdefault.jpg",
           "durationSeconds": 1614,
           "durationFormatted": "26:54",
-          "views": 22977,
+          "views": 23031,
           "likes": 319,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/c8AwFdLARJ4/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 9328,
-          "likes": 106,
+          "views": 9594,
+          "likes": 107,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -48,25 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/PZy9sDKi9R0/hqdefault.jpg",
           "durationSeconds": 666,
           "durationFormatted": "11:06",
-          "views": 5806,
+          "views": 5838,
           "likes": 83,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "-oGCBOPKN0Y",
-          "title": "Kabirdham में INH-Haribhoomi का जिला संवाद: एक मंच पर पक्ष-विपक्ष के धुरंधर | Dr. Himanshu Dwivedi",
-          "description": "Kabirdham में INH-Haribhoomi का जिला संवाद: एक मंच पर पक्ष-विपक्ष के धुरंधर | Dr.",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-03-28T21:17:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/-oGCBOPKN0Y/hqdefault.jpg",
-          "durationSeconds": 11310,
-          "durationFormatted": "03:08:30",
-          "views": 5096,
-          "likes": 99,
+          "videoId": "SLl7yc0KGek",
+          "title": "Minister Laxmi Rajwade Untold Story | ये बातें बहुत कम लोगों को मालूम | Yashwant Sahu |",
+          "description": "Minister Laxmi Rajwade Untold Story | ये बातें बहुत कम लोगों को मालूम | Yashwant Sahu | Report/Story: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-03-29T15:30:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/SLl7yc0KGek/hqdefault.jpg",
+          "durationSeconds": 2801,
+          "durationFormatted": "46:41",
+          "views": 4107,
+          "likes": 128,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XL8hzLKLXFI/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 3826,
-          "likes": 116,
+          "views": 3972,
+          "likes": 118,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -89,8 +89,8 @@
     {
       "clusterId": "iran-war",
       "topic": "Iran War",
-      "videoCount": 9,
-      "trendScore": 50.8,
+      "videoCount": 10,
+      "trendScore": 50.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MGbZRXNkNqY/hqdefault.jpg",
           "durationSeconds": 778,
           "durationFormatted": "12:58",
-          "views": 58870,
-          "likes": 2500,
+          "views": 76036,
+          "likes": 2610,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QvQxG4e2d68/hqdefault.jpg",
           "durationSeconds": 707,
           "durationFormatted": "11:47",
-          "views": 42839,
-          "likes": 1268,
+          "views": 48628,
+          "likes": 1305,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gyhBs1xJFPM/hqdefault.jpg",
           "durationSeconds": 335,
           "durationFormatted": "05:35",
-          "views": 35275,
-          "likes": 866,
+          "views": 43722,
+          "likes": 935,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LGqnGTmLE30/hqdefault.jpg",
           "durationSeconds": 367,
           "durationFormatted": "06:07",
-          "views": 9066,
-          "likes": 317,
+          "views": 12137,
+          "likes": 328,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/qQgBRNvvsR4/hqdefault.jpg",
           "durationSeconds": 331,
           "durationFormatted": "05:31",
-          "views": 5591,
-          "likes": 184,
+          "views": 6266,
+          "likes": 188,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-29T20:30:06Z"
+      "latestUpdateAt": "2026-03-29T22:30:03Z"
     },
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
       "videoCount": 20,
-      "trendScore": 50.5,
+      "trendScore": 49.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/O8f5jt28E6w/hqdefault.jpg",
           "durationSeconds": 869,
           "durationFormatted": "14:29",
-          "views": 26834,
+          "views": 26902,
           "likes": 357,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D_67F-U4g_Q/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 5885,
+          "views": 6399,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qwhjAj6DVNw/hqdefault.jpg",
           "durationSeconds": 1165,
           "durationFormatted": "19:25",
-          "views": 3514,
-          "likes": 54,
+          "views": 3529,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NB1XxcGXwZY/hqdefault.jpg",
           "durationSeconds": 958,
           "durationFormatted": "15:58",
-          "views": 918,
+          "views": 946,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-mbbs",
       "topic": "Bhaskar MBBS",
       "videoCount": 8,
-      "trendScore": 37.7,
+      "trendScore": 36.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4Hz2ReZcPDw/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 1170,
-          "likes": 19,
+          "views": 1199,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BMCQu07E7nY/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 1067,
+          "views": 1102,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8DeLCIn_SyM/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 874,
+          "views": 875,
           "likes": 59,
           "videoType": "VOD",
           "genre": "Events"
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gG4suM3pqXg/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 780,
-          "likes": 10,
+          "views": 756,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/s4SohF7RkKs/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 693,
-          "likes": 16,
+          "views": 701,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "Traffic"
         }
@@ -342,7 +342,7 @@
       "clusterId": "chhattisgarh-newsonair",
       "topic": "Chhattisgarh Newsonair",
       "videoCount": 6,
-      "trendScore": 37.0,
+      "trendScore": 35.8,
       "topVideos": [
         {
           "index": 1,
@@ -354,28 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/XbkH45WcL5E/hqdefault.jpg",
           "durationSeconds": 669,
           "durationFormatted": "11:09",
-          "views": 478,
-          "likes": 26,
+          "views": 497,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "iXCdHg4NlPw",
-          "title": "रिसोर्ट में पार्टी के नाम पर पक रहा था हिरण का मां*स, मैनेजर सहित 4 गिरफ्तार #bilaspur #chhattisgarh",
-          "description": "रिसोर्ट में पार्टी के नाम पर पक रहा था हिरण का मां*स, मैनेजर सहित 4 ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-03-29T02:26:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/iXCdHg4NlPw/hqdefault.jpg",
-          "durationSeconds": 63,
-          "durationFormatted": "01:03",
-          "views": 371,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "vH_RIHmZgdU",
           "title": "Chhattisgarh News : गैस कालाबाजारी पर भड़के टीएस सिंहदेव! | Top News",
           "description": "Chhattisgarh News : गैस कालाबाजारी पर भड़के टीएस सिंहदेव! | Top News #chhattisgarh ...",
@@ -384,10 +369,25 @@
           "thumbnail": "https://i.ytimg.com/vi/vH_RIHmZgdU/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 358,
+          "views": 375,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "iXCdHg4NlPw",
+          "title": "रिसोर्ट में पार्टी के नाम पर पक रहा था हिरण का मां*स, मैनेजर सहित 4 गिरफ्तार #bilaspur #chhattisgarh",
+          "description": "रिसोर्ट में पार्टी के नाम पर पक रहा था हिरण का मां*स, मैनेजर सहित 4 ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-03-29T02:26:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/iXCdHg4NlPw/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 348,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 4,
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zPlB6rKmIZg/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 60,
+          "views": 131,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -426,7 +426,7 @@
       "clusterId": "छटट-सरकर",
       "topic": "छुट्टी सरकार",
       "videoCount": 4,
-      "trendScore": 36.2,
+      "trendScore": 35.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bWlMAUs86Vk/hqdefault.jpg",
           "durationSeconds": 220,
           "durationFormatted": "03:40",
-          "views": 30970,
-          "likes": 241,
+          "views": 31211,
+          "likes": 239,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -453,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Kv7uccycMlw/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 24424,
-          "likes": 401,
+          "views": 24606,
+          "likes": 405,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -468,8 +468,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VS6DDlqM4AE/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 778,
-          "likes": 5,
+          "views": 1051,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1lknfVwS9kg/hqdefault.jpg",
           "durationSeconds": 389,
           "durationFormatted": "06:29",
-          "views": 36,
+          "views": 42,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -492,10 +492,10 @@
       "latestUpdateAt": "2026-03-29T17:45:01Z"
     },
     {
-      "clusterId": "जगदलपर-दरग",
-      "topic": "जगदलपुर दुर्ग",
+      "clusterId": "दरग-जगदलपर",
+      "topic": "दुर्ग जगदलपुर",
       "videoCount": 16,
-      "trendScore": 35.9,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
@@ -507,13 +507,28 @@
           "thumbnail": "https://i.ytimg.com/vi/xFUWWNMtkEk/hqdefault.jpg",
           "durationSeconds": 39,
           "durationFormatted": "00:39",
-          "views": 14,
+          "views": 23,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
+          "videoId": "MAxfpvB1Sm0",
+          "title": "राजनांदगांव में गरीब परिवारों के लिए सम्मान और सादगी का उदाहरण ,सामूहिक विवाह",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-29T11:01:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/MAxfpvB1Sm0/hqdefault.jpg",
+          "durationSeconds": 290,
+          "durationFormatted": "04:50",
+          "views": 15,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
           "videoId": "wJffeHcSd2I",
           "title": "जगदलपुर: केदार कश्यप और किरण सिंह देव ने जताया पीएम मोदी का आभार",
           "description": "chhattisgarhnews #madhyapradehnews #jagdalpur .",
@@ -528,21 +543,6 @@
           "genre": "Politics"
         },
         {
-          "index": 3,
-          "videoId": "MAxfpvB1Sm0",
-          "title": "राजनांदगांव में गरीब परिवारों के लिए सम्मान और सादगी का उदाहरण ,सामूहिक विवाह",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-29T11:01:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/MAxfpvB1Sm0/hqdefault.jpg",
-          "durationSeconds": 290,
-          "durationFormatted": "04:50",
-          "views": 11,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
           "index": 4,
           "videoId": "c3g4sbIfZWA",
           "title": "दुर्ग में बकरा चोरी का पर्दाफाश, CCTV फुटेज से दो आरोपी गिरफ्तार, पुलिस कार्रवाई जारी",
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c3g4sbIfZWA/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -578,8 +578,8 @@
     {
       "clusterId": "lpg-puchti",
       "topic": "LPG Puchti",
-      "videoCount": 7,
-      "trendScore": 30.0,
+      "videoCount": 4,
+      "trendScore": 24.6,
       "topVideos": [
         {
           "index": 1,
@@ -591,43 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/FAaUPS-s0oU/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 274,
-          "likes": 1,
+          "views": 301,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "e1dO8pg1pJU",
-          "title": "Puchti Hai Public : आम आदमी के पेट पर पड़ेगा हड़ताल ? Food Price Hike । Iran Israel War । LPG Crisis",
-          "description": "Puchti Hai Public : आम आदमी के पेट पर पड़ेगा हड़ताल ? Food Price Hike Iran Israel War । LPG Crisis ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-29T12:02:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/e1dO8pg1pJU/hqdefault.jpg",
-          "durationSeconds": 286,
-          "durationFormatted": "04:46",
-          "views": 151,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "9vwWdYju9SY",
-          "title": "Puchti Hai Public LIVE: छत्तीसगढ़ में नाश्ते का दाम बढ़ गया है! | LPG Shortage | Samosa Rate",
-          "description": "Puchti Hai Public LIVE: छत्तीसगढ़ में नाश्ते का दाम बढ़ गया है! | LPG Shortage | Samosa Rate ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-29T11:49:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/9vwWdYju9SY/hqdefault.jpg",
-          "durationSeconds": 1592,
-          "durationFormatted": "26:32",
-          "views": 128,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "SCWCyM0DaPc",
           "title": "Puchti Hai Public: छत्तीसगढ़ में गैस-पेट्रोल की कमी से लोग बहुत परेशान हैं | LPG Shortage",
           "description": "Puchti Hai Public: छत्तीसगढ़ में गैस-पेट्रोल की कमी से लोग बहुत परेशान हैं | LPG ...",
@@ -642,7 +612,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "dBq3wU_hD5k",
           "title": "Puchti Hai Public: LPG गैस पर होटल संचालक ने पोल खोल दी! | LPG Shortage | Chhattisgarh",
           "description": "Puchti Hai Public: LPG गैस पर होटल संचालक ने पोल खोल दी! | LPG Shortage | Chhattisgarh #lpgcrisis ...",
@@ -651,13 +621,52 @@
           "thumbnail": "https://i.ytimg.com/vi/dBq3wU_hD5k/hqdefault.jpg",
           "durationSeconds": 661,
           "durationFormatted": "11:01",
-          "views": 72,
+          "views": 93,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "s1VSQ9nl1f8",
+          "title": "Puchti Hai Public : देश में गैस-पेट्रोल भरपूर तो क्यों फैल रही अफवाह ? Food Price Hike।  LPG Crisis",
+          "description": "Puchti Hai Public : देश में गैस-पेट्रोल भरपूर तो क्यों फैल रही अफवाह ? Food Price Hike ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-29T12:24:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/s1VSQ9nl1f8/hqdefault.jpg",
+          "durationSeconds": 268,
+          "durationFormatted": "04:28",
+          "views": 57,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-29T13:25:51Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 7.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "9buckPdOSiw",
+          "title": "CG News : बचेली के गायत्री मंदिर में नवमी पर भव्य कन्या भोज और हवन आयोजन",
+          "description": "दंतेवाड़ा के बचेली स्थित गायत्री मंदिर में चैत्र नवरात्रि के नवमी ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-03-29T05:45:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/9buckPdOSiw/hqdefault.jpg",
+          "durationSeconds": 40,
+          "durationFormatted": "00:40",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-29T05:45:41Z"
     }
   ]
 }
