@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-30T21:00:14.110064Z",
-  "clusterCount": 10,
+  "generatedAt": "2026-03-30T22:54:20.049142Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 83,
-      "trendScore": 61.5,
+      "videoCount": 82,
+      "trendScore": 60.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/z-yszgvhRZY/hqdefault.jpg",
           "durationSeconds": 227,
           "durationFormatted": "03:47",
-          "views": 32781,
-          "likes": 132,
+          "views": 32842,
+          "likes": 131,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/04tACySPjX0/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 24108,
+          "views": 24159,
           "likes": 86,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/upRY62JnQxs/hqdefault.jpg",
           "durationSeconds": 349,
           "durationFormatted": "05:49",
-          "views": 14971,
-          "likes": 94,
+          "views": 15182,
+          "likes": 97,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/suUFQZ8gajU/hqdefault.jpg",
           "durationSeconds": 821,
           "durationFormatted": "13:41",
-          "views": 12858,
+          "views": 12933,
           "likes": 76,
           "videoType": "VOD",
           "genre": "General"
@@ -87,10 +87,10 @@
       "latestUpdateAt": "2026-03-30T20:20:22Z"
     },
     {
-      "clusterId": "shah-amit",
-      "topic": "Shah Amit",
-      "videoCount": 33,
-      "trendScore": 61.0,
+      "clusterId": "shah-naxalism",
+      "topic": "Shah Naxalism",
+      "videoCount": 36,
+      "trendScore": 60.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2R-Pt70WeYM/hqdefault.jpg",
           "durationSeconds": 24,
           "durationFormatted": "00:24",
-          "views": 10397,
-          "likes": 121,
+          "views": 10724,
+          "likes": 124,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "NOvvmPj4anI",
-          "title": "&quot;नहीं तो ये भी Naxal Surrender लिस्ट में होते&quot;- Amit Shah का Rajkumar Raut पर तीखा वार #shorts",
-          "description": "IBC24, \"नहीं तो ये भी Naxal Surrender लिस्ट में होते\"- Amit Shah का Rajkumar Raut पर तीखा ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-30T15:00:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/NOvvmPj4anI/hqdefault.jpg",
-          "durationSeconds": 20,
-          "durationFormatted": "00:20",
-          "views": 8370,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "ZX1g_86LTCI",
           "title": "Naxal Surrender: 38 साल अंडरग्राउंड रहने के बाद इन Naxalites ने कर दिया सरेंडर! Top News | Breaking",
           "description": "Naxal Surrender: 38 साल अंडरग्राउंड रहने के बाद इन Naxalites ने कर दिया सरेंडर!",
@@ -132,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/ZX1g_86LTCI/hqdefault.jpg",
           "durationSeconds": 381,
           "durationFormatted": "06:21",
-          "views": 4316,
-          "likes": 72,
+          "views": 4451,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "Rb1boWg-Fqo",
           "title": "Amit Shah On Naxalism: &#39;भोले-भाले आदिवासियों को...&#39; ! #naxalnews #shorts #amitshah #naxalism",
           "description": "Amit Shah On Naxalism: 'भोले-भाले आदिवासियों को...' ! #naxalnews #shorts #amitshah #naxalism NDTV ...",
@@ -147,25 +132,40 @@
           "thumbnail": "https://i.ytimg.com/vi/Rb1boWg-Fqo/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 3908,
+          "views": 4116,
           "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "CNpYmJv3cDs",
-          "title": "&#39;हम Naxal मुक्त हो गए हैं&#39; -Amit Shah #shorts #ytshorts #loksabha #youtubeshorts #shortsvideo",
-          "description": "IBC24, 'हम Naxal मुक्त हो गए हैं' -Amit Shah #amitshah #chhattisgarhcongress #congress #naxalism #cgnaxalism ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-03-30T14:46:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/CNpYmJv3cDs/hqdefault.jpg",
-          "durationSeconds": 18,
-          "durationFormatted": "00:18",
-          "views": 3739,
-          "likes": 0,
+          "index": 4,
+          "videoId": "-UcQex5wIdw",
+          "title": "Naxal Surrender: डेडलाइन से पहले धड़ाधड़ सरेंडर आज सोमन्ना ने भी डाल दिए हथियार | Naxalism | Naxalites",
+          "description": "Naxal Surrender: डेडलाइन से पहले धड़ाधड़ सरेंडर आज सोमन्ना ने भी डाल दिए ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-03-30T08:04:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/-UcQex5wIdw/hqdefault.jpg",
+          "durationSeconds": 327,
+          "durationFormatted": "05:27",
+          "views": 3492,
+          "likes": 43,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "FwSTRAKKrm0",
+          "title": "Amit Shah On Naxalism : जो गोली चलाएंगे कीमत चुकाएंगे-अमित शाह ।Amit Shah Lok Sabha Speech। Top News",
+          "description": "Amit Shah On Naxalism : जो गोली चलाएंगे कीमत चुकाएंगे-अमित शाह ।Amit Shah Lok Sabha ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-30T15:45:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/FwSTRAKKrm0/hqdefault.jpg",
+          "durationSeconds": 5124,
+          "durationFormatted": "01:25:24",
+          "views": 3199,
+          "likes": 36,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-03-30T20:30:39Z"
@@ -173,8 +173,8 @@
     {
       "clusterId": "iran-netanyahu",
       "topic": "Iran Netanyahu",
-      "videoCount": 7,
-      "trendScore": 43.2,
+      "videoCount": 9,
+      "trendScore": 45.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mZm2crzVdFU/hqdefault.jpg",
           "durationSeconds": 325,
           "durationFormatted": "05:25",
-          "views": 29736,
+          "views": 29955,
           "likes": 296,
           "videoType": "VOD",
           "genre": "General"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Y5sEJr5Yymc/hqdefault.jpg",
           "durationSeconds": 306,
           "durationFormatted": "05:06",
-          "views": 14581,
-          "likes": 211,
+          "views": 14841,
+          "likes": 213,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,28 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/l_dgBFQdpZA/hqdefault.jpg",
           "durationSeconds": 554,
           "durationFormatted": "09:14",
-          "views": 9286,
-          "likes": 375,
+          "views": 10054,
+          "likes": 391,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "O01rkLN8A10",
-          "title": "Iran Attack on Israel: 10 बजते ही ईरान की मिसाइलों ने इजरायल में मचाया कहर? | Netanyahu | Top News",
-          "description": "Iran Attack on Israel: 10 बजते ही ईरान की मिसाइलों ने इजरायल में मचाया कहर? | Netanyahu ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-30T16:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/O01rkLN8A10/hqdefault.jpg",
-          "durationSeconds": 233,
-          "durationFormatted": "03:53",
-          "views": 3979,
-          "likes": 66,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "1KYe46frlEk",
           "title": "Iran America War Update: 12 बजते ही ईरान ने तबाह किए अमेरिकी बेस ? | Trump | Netanyahu | Top News",
           "description": "Iran America War Update: 12 बजते ही ईरान ने तबाह किए अमेरिकी बेस ? | Trump | Netanyahu | Top ...",
@@ -246,19 +231,34 @@
           "thumbnail": "https://i.ytimg.com/vi/1KYe46frlEk/hqdefault.jpg",
           "durationSeconds": 194,
           "durationFormatted": "03:14",
-          "views": 3323,
-          "likes": 79,
+          "views": 4569,
+          "likes": 80,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "O01rkLN8A10",
+          "title": "Iran Attack on Israel: 10 बजते ही ईरान की मिसाइलों ने इजरायल में मचाया कहर? | Netanyahu | Top News",
+          "description": "Iran Attack on Israel: 10 बजते ही ईरान की मिसाइलों ने इजरायल में मचाया कहर? | Netanyahu ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-30T16:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/O01rkLN8A10/hqdefault.jpg",
+          "durationSeconds": 233,
+          "durationFormatted": "03:53",
+          "views": 4048,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-30T20:30:01Z"
+      "latestUpdateAt": "2026-03-30T22:30:09Z"
     },
     {
       "clusterId": "raja-raghuvanshi",
       "topic": "Raja Raghuvanshi",
       "videoCount": 5,
-      "trendScore": 42.7,
+      "trendScore": 41.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vSZ5PlMg7kg/hqdefault.jpg",
           "durationSeconds": 12,
           "durationFormatted": "00:12",
-          "views": 148069,
-          "likes": 1684,
+          "views": 183227,
+          "likes": 1846,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ljxc9BNwInw/hqdefault.jpg",
           "durationSeconds": 33,
           "durationFormatted": "00:33",
-          "views": 29488,
-          "likes": 343,
+          "views": 39276,
+          "likes": 358,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,28 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/bMlnvQwQEG8/hqdefault.jpg",
           "durationSeconds": 243,
           "durationFormatted": "04:03",
-          "views": 4364,
-          "likes": 48,
+          "views": 6982,
+          "likes": 68,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "QJEdruaaSx0",
-          "title": "Raja Raghuvanshi Murder Case Update : वापस आया राजा रघुवंशी! बजे ढोल..घर में खुशी की लहर। Top News |",
-          "description": "Raja Raghuvanshi Murder Case Update : वापस आया राजा रघुवंशी! बजे ढोल..घर में खुशी की ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-30T17:45:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/QJEdruaaSx0/hqdefault.jpg",
-          "durationSeconds": 266,
-          "durationFormatted": "04:26",
-          "views": 1244,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
           "videoId": "pS9Q1HBRTzE",
           "title": "Raja Raghuvanshi Case Update: &#39;लौट आया राजा रघुवंशी&#39;, खुशी से झूम उठी राजा की मां | Top News |Indore",
           "description": "Raja Raghuvanshi Case Update: 'लौट आया राजा रघुवंशी', खुशी से झूम उठी राजा की मां ...",
@@ -330,19 +315,34 @@
           "thumbnail": "https://i.ytimg.com/vi/pS9Q1HBRTzE/hqdefault.jpg",
           "durationSeconds": 349,
           "durationFormatted": "05:49",
-          "views": 1202,
-          "likes": 15,
+          "views": 2432,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "QJEdruaaSx0",
+          "title": "Raja Raghuvanshi Murder Case Update : वापस आया राजा रघुवंशी! बजे ढोल..घर में खुशी की लहर। Top News |",
+          "description": "Raja Raghuvanshi Murder Case Update : वापस आया राजा रघुवंशी! बजे ढोल..घर में खुशी की ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-30T17:45:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/QJEdruaaSx0/hqdefault.jpg",
+          "durationSeconds": 266,
+          "durationFormatted": "04:26",
+          "views": 1963,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-03-30T18:00:36Z"
     },
     {
-      "clusterId": "bhaskar-dairy",
-      "topic": "Bhaskar Dairy",
+      "clusterId": "bhaskar-धमध",
+      "topic": "Bhaskar धमधा",
       "videoCount": 5,
-      "trendScore": 34.8,
+      "trendScore": 33.9,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PgHRjTNY7xQ/hqdefault.jpg",
           "durationSeconds": 162,
           "durationFormatted": "02:42",
-          "views": 3938,
+          "views": 4129,
           "likes": 19,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lsKOUCElRsk/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 2131,
+          "views": 2141,
           "likes": 79,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kM6va8StQaY/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 775,
+          "views": 811,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZAfqS79s6yQ/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 360,
+          "views": 344,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QzLwlGHjADY/hqdefault.jpg",
           "durationSeconds": 271,
           "durationFormatted": "04:31",
-          "views": 36,
+          "views": 40,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -426,7 +426,7 @@
       "clusterId": "drg-itbp",
       "topic": "DRG ITBP",
       "videoCount": 13,
-      "trendScore": 34.2,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8nK7MH3O4Ow/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 56,
+          "views": 61,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
       "videoCount": 8,
-      "trendScore": 33.9,
+      "trendScore": 33.0,
       "topVideos": [
         {
           "index": 1,
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HtGDu8HVpaM/hqdefault.jpg",
           "durationSeconds": 913,
           "durationFormatted": "15:13",
-          "views": 703,
+          "views": 705,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -552,28 +552,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tGEfFiKpDqg/hqdefault.jpg",
           "durationSeconds": 196,
           "durationFormatted": "03:16",
-          "views": 95,
+          "views": 143,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "IVXeJt9RwIE",
-          "title": "Raipur : नगर निगम महापौर मीनल चौबे ने वित्तीय वर्ष 2026-27 के लिए 2131.75 करोड़ का बजट किया पेश",
-          "description": "महापौर मीनल चौबे ने आज वित्तीय वर्ष 2026-27 के लिए 2131.75 करोड़ का बजट पेश ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-30T14:53:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/IVXeJt9RwIE/hqdefault.jpg",
-          "durationSeconds": 127,
-          "durationFormatted": "02:07",
-          "views": 67,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "lcKQA4b1CTE",
           "title": "Raipur Fire News: फाफाडीह स्थित गोदाम में लगी भीषण आग। AC, फ्रिज, वॉशिंग मशीन जलकर खाक",
           "description": "IBC24, Raipur Fire News: फाफाडीह स्थित गोदाम में लगी भीषण आग। AC, फ्रिज, वॉशिंग ...",
@@ -582,103 +567,34 @@
           "thumbnail": "https://i.ytimg.com/vi/lcKQA4b1CTE/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 36,
+          "views": 90,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "IVXeJt9RwIE",
+          "title": "Raipur : नगर निगम महापौर मीनल चौबे ने वित्तीय वर्ष 2026-27 के लिए 2131.75 करोड़ का बजट किया पेश",
+          "description": "महापौर मीनल चौबे ने आज वित्तीय वर्ष 2026-27 के लिए 2131.75 करोड़ का बजट पेश ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-03-30T14:53:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/IVXeJt9RwIE/hqdefault.jpg",
+          "durationSeconds": 127,
+          "durationFormatted": "02:07",
+          "views": 72,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-03-30T18:39:06Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 30.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "EWDbXYOza5k",
-          "title": "🔴LIVE : MP-CG News :  लोकसभा में नक्सल मुक्त भारत पर चर्चा |  Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News : लोकसभा में नक्सल मुक्त भारत पर चर्चा | Latest News | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-30T12:44:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/EWDbXYOza5k/hqdefault.jpg",
-          "durationSeconds": 4514,
-          "durationFormatted": "01:15:14",
-          "views": 639,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "tAqO2XHd6io",
-          "title": "🔴LIVE : Prime Time @9 : दिल्ली को दहलाने की साजिश फेल ! | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : दिल्ली को दहलाने की साजिश फेल ! | Latest News | Zee MPCG #live #primetime ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-30T15:24:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/tAqO2XHd6io/hqdefault.jpg",
-          "durationSeconds": 1452,
-          "durationFormatted": "24:12",
-          "views": 196,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "G90B_QxvxCc",
-          "title": "🔴LIVE : Tarkash : दिल्ली को दहलाने की साजिश फेल !! Latest News  | Zee MPCG",
-          "description": "LIVE : Tarkash :दिल्ली को दहलाने की साजिश फेल ! | Latest News | Zee MPCG #Live #MPNews #Tarkash ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-30T11:19:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/G90B_QxvxCc/hqdefault.jpg",
-          "durationSeconds": 1477,
-          "durationFormatted": "24:37",
-          "views": 184,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "WB2tF0rkB0E",
-          "title": "🔴LIVE: MP Dastak : MP में चार संभागों में गेहूं खरीदी की तारीख में बदलाव | Latest News | Zee MPCG",
-          "description": "LIVE: MP Dastak : MP में चार संभागों में गेहूं खरीदी की तारीख में बदलाव | Latest ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-30T16:23:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/WB2tF0rkB0E/hqdefault.jpg",
-          "durationSeconds": 1447,
-          "durationFormatted": "24:07",
-          "views": 138,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "zNZ4DJS_Xvg",
-          "title": "EVM In Question : EVM की बैटरी पर सियासी जंग ! बैटरी और बैलट... सियासत का नया ट्विस्ट ! | Zee MPCG",
-          "description": "EVM In Question : EVM की बैटरी पर सियासी जंग ! बैटरी और बैलट... सियासत का नया ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-03-30T16:56:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/zNZ4DJS_Xvg/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 26,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-03-30T16:56:08Z"
-    },
-    {
       "clusterId": "xpress-करय",
       "topic": "Xpress कोरिया",
       "videoCount": 4,
-      "trendScore": 28.9,
+      "trendScore": 28.3,
       "topVideos": [
         {
           "index": 1,
@@ -690,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pmGJByz7hQI/hqdefault.jpg",
           "durationSeconds": 117,
           "durationFormatted": "01:57",
-          "views": 420,
+          "views": 421,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ccJnO0o-pKs/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 388,
+          "views": 390,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Crime"
@@ -720,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OQZ9Djsm4JA/hqdefault.jpg",
           "durationSeconds": 351,
           "durationFormatted": "05:51",
-          "views": 255,
+          "views": 257,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -747,7 +663,7 @@
       "clusterId": "वजय-शरम",
       "topic": "विजय शर्मा",
       "videoCount": 4,
-      "trendScore": 28.8,
+      "trendScore": 28.0,
       "topVideos": [
         {
           "index": 1,
@@ -774,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sXMaT4r8fqY/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 394,
+          "views": 470,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -789,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/E1Q3_JcTgAE/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 349,
+          "views": 350,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -804,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/luLqJrHk9Sc/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 174,
+          "views": 177,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
