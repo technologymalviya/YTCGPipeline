@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-31T20:56:11.224300Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-03-31T22:50:12.776568Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 82,
-      "trendScore": 60.8,
+      "videoCount": 80,
+      "trendScore": 60.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7-Dnxte5gdg/hqdefault.jpg",
           "durationSeconds": 1673,
           "durationFormatted": "27:53",
-          "views": 22751,
-          "likes": 364,
+          "views": 22829,
+          "likes": 365,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6j9QQQ0DA10/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 11611,
+          "views": 11790,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NzxM9Oshe3Q/hqdefault.jpg",
           "durationSeconds": 514,
           "durationFormatted": "08:34",
-          "views": 5132,
-          "likes": 174,
+          "views": 5215,
+          "likes": 175,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ggxT-NthbOE/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 4579,
-          "likes": 24,
+          "views": 4749,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -90,7 +90,7 @@
       "clusterId": "iran-attack",
       "topic": "Iran Attack",
       "videoCount": 5,
-      "trendScore": 45.6,
+      "trendScore": 44.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/L3lc09gCcNc/hqdefault.jpg",
           "durationSeconds": 784,
           "durationFormatted": "13:04",
-          "views": 33615,
-          "likes": 1554,
+          "views": 37670,
+          "likes": 1588,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/liXE06eYiFo/hqdefault.jpg",
           "durationSeconds": 543,
           "durationFormatted": "09:03",
-          "views": 13179,
-          "likes": 293,
+          "views": 13626,
+          "likes": 296,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,28 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/0DHEi5dRIgk/hqdefault.jpg",
           "durationSeconds": 407,
           "durationFormatted": "06:47",
-          "views": 5675,
+          "views": 5677,
           "likes": 89,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "nAV8yKCkBFw",
-          "title": "Iran Attack on Israel: 1 बजते ही ईरान ने उड़ा दिए इजरायल के 25 जेट? | Netanyahu | Putin | Top News",
-          "description": "Iran Attack on Israel: 1 बजते ही ईरान ने उड़ा दिए इजरायल के 25 जेट? | Netanyahu | Putin | Top News ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-03-31T19:30:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/nAV8yKCkBFw/hqdefault.jpg",
-          "durationSeconds": 848,
-          "durationFormatted": "14:08",
-          "views": 3825,
-          "likes": 221,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "sWY0getaBrc",
           "title": "Iran Attack on Israel: 2 बजते ही ईरान ने इजरायल के एक-एक घर किए तबाह? | Netanyahu | Top News",
           "description": "Iran Attack on Israel: 2 बजते ही ईरान ने इजरायल के एक-एक घर किए तबाह? | Netanyahu | Top News ...",
@@ -162,19 +147,118 @@
           "thumbnail": "https://i.ytimg.com/vi/sWY0getaBrc/hqdefault.jpg",
           "durationSeconds": 492,
           "durationFormatted": "08:12",
-          "views": 529,
-          "likes": 29,
+          "views": 3077,
+          "likes": 113,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "QT95keuA2a0",
+          "title": "Iran Attack on Israel: 4 बजते ही ईरानी मिसाइलों से दहला इजरायल? | Netanyahu | Top News | War News",
+          "description": "Iran Attack on Israel: 4 बजते ही ईरानी मिसाइलों से दहला इजरायल? | Netanyahu | Top News | War ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T22:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/QT95keuA2a0/hqdefault.jpg",
+          "durationSeconds": 630,
+          "durationFormatted": "10:30",
+          "views": 185,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-03-31T20:30:12Z"
+      "latestUpdateAt": "2026-03-31T22:30:06Z"
+    },
+    {
+      "clusterId": "rbse-result",
+      "topic": "RBSE Result",
+      "videoCount": 5,
+      "trendScore": 43.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "ZHz9xYyN3eA",
+          "title": "RBSE 12th Result 2026: राजस्थान 12वीं की टॉपर बनी दीपिका, मार्कशीट देख चौंक जाएंगे | Rajasthan News",
+          "description": "RBSE 12th Result 2026: राजस्थान 12वीं की टॉपर बनी दीपिका, मार्कशीट देख चौंक ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T14:42:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZHz9xYyN3eA/hqdefault.jpg",
+          "durationSeconds": 221,
+          "durationFormatted": "03:41",
+          "views": 310188,
+          "likes": 1231,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "-6cAv3uTlew",
+          "title": "RBSE 12th Result 2026: 11 दिन पहले हुई थी मौत, रिजल्ट में हासिल किए 93.80% अंक | Rajasthan News",
+          "description": "RBSE 12th Result 2026: 11 दिन पहले हुई थी मौत, रिजल्ट में हासिल किए 93.80% अंक ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T18:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/-6cAv3uTlew/hqdefault.jpg",
+          "durationSeconds": 120,
+          "durationFormatted": "02:00",
+          "views": 276773,
+          "likes": 2254,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "j9Uv1p4nBH4",
+          "title": "RBSE 12th Result 2026: 11 बजते ही राजस्थान 12वीं रिजल्ट पर आई बड़ी खबर? | Top news | Rajasthan News",
+          "description": "RBSE 12th Result 2026: 11 बजते ही राजस्थान 12वीं रिजल्ट पर आई बड़ी खबर? | Top news ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T17:39:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/j9Uv1p4nBH4/hqdefault.jpg",
+          "durationSeconds": 152,
+          "durationFormatted": "02:32",
+          "views": 11690,
+          "likes": 44,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "gm-_4PZvwZg",
+          "title": "RBSE 12th Result 2026: मां चलाती है चक्की, बेटी ने किया टॉप... मानसी जांगिड़ की कहानी | Rajasthan",
+          "description": "RBSE 12th Result 2026: मां चलाती है चक्की, बेटी ने किया टॉप... मानसी जांगिड़ की ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T21:00:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/gm-_4PZvwZg/hqdefault.jpg",
+          "durationSeconds": 228,
+          "durationFormatted": "03:48",
+          "views": 96,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Y2M2Lqwtqd4",
+          "title": "RBSE 12th Result 2026: 3 बजते ही राजस्थान 12वीं रिजल्ट पर बड़ी खबर? | Rajasthan 12th Result Breaking",
+          "description": "RBSE 12th Result 2026: 3 बजते ही राजस्थान 12वीं रिजल्ट पर बड़ी खबर? | Rajasthan 12th Result ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T21:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/Y2M2Lqwtqd4/hqdefault.jpg",
+          "durationSeconds": 221,
+          "durationFormatted": "03:41",
+          "views": 51,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-03-31T21:30:04Z"
     },
     {
       "clusterId": "basant-agrawal",
       "topic": "Basant Agrawal",
       "videoCount": 4,
-      "trendScore": 41.7,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/q51o5Ogzg64/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 27415,
-          "likes": 983,
+          "views": 28030,
+          "likes": 985,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8ogOrNcUO9I/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 6051,
-          "likes": 423,
+          "views": 6460,
+          "likes": 430,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AdsEDlvOmN4/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 5030,
-          "likes": 252,
+          "views": 5269,
+          "likes": 253,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -231,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/RmF26RayM0Y/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 292,
-          "likes": 23,
+          "views": 294,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -242,8 +326,8 @@
     {
       "clusterId": "naxal-amit",
       "topic": "Naxal Amit",
-      "videoCount": 11,
-      "trendScore": 39.7,
+      "videoCount": 12,
+      "trendScore": 40.0,
       "topVideos": [
         {
           "index": 1,
@@ -255,7 +339,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CH7IGRtgFn0/hqdefault.jpg",
           "durationSeconds": 40760,
           "durationFormatted": "11:19:20",
-          "views": 2164,
+          "views": 2206,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -271,7 +355,7 @@
           "durationSeconds": 47,
           "durationFormatted": "00:47",
           "views": 1020,
-          "likes": 25,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A7N6Q264SAE/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 667,
+          "views": 672,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -326,8 +410,8 @@
     {
       "clusterId": "newsonair-नकसलवद",
       "topic": "Newsonair नक्सलवाद",
-      "videoCount": 7,
-      "trendScore": 39.1,
+      "videoCount": 8,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
@@ -339,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DxgYXehvIWU/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 538,
+          "views": 678,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/drHGWMy0M2M/hqdefault.jpg",
           "durationSeconds": 659,
           "durationFormatted": "10:59",
-          "views": 471,
+          "views": 473,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
@@ -369,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/egyXvx5C71U/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 298,
-          "likes": 17,
+          "views": 407,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -384,34 +468,34 @@
           "thumbnail": "https://i.ytimg.com/vi/_wNhxdWOoRo/hqdefault.jpg",
           "durationSeconds": 597,
           "durationFormatted": "09:57",
-          "views": 266,
+          "views": 295,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "KmmTWuEWxWc",
-          "title": "बस्तर: लाल आतंक का अंत, नक्सलवाद का आज अंतिम दिन",
-          "description": "बस्तर में नक्सलियों का आतंक अब खत्म हो गया है। इस संघर्ष में 1402 ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-03-31T06:46:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/KmmTWuEWxWc/hqdefault.jpg",
-          "durationSeconds": 214,
-          "durationFormatted": "03:34",
-          "views": 218,
-          "likes": 6,
+          "videoId": "XUnQ3IxjaLA",
+          "title": "Chhattisgarh News : बस्तर सांसद का बड़ा बयान! PM मोदी की इच्छाशक्ति से खत्म नक्सलवाद?",
+          "description": "Chhattisgarh News : बस्तर सांसद का बड़ा बयान! PM मोदी की इच्छाशक्ति से खत्म ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-03-31T17:41:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/XUnQ3IxjaLA/hqdefault.jpg",
+          "durationSeconds": 113,
+          "durationFormatted": "01:53",
+          "views": 231,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-03-31T19:40:25Z"
+      "latestUpdateAt": "2026-03-31T20:56:52Z"
     },
     {
       "clusterId": "bhaskar-दरग",
       "topic": "Bhaskar दुर्ग",
       "videoCount": 8,
-      "trendScore": 39.1,
+      "trendScore": 38.2,
       "topVideos": [
         {
           "index": 1,
@@ -423,28 +507,13 @@
           "thumbnail": "https://i.ytimg.com/vi/HTb4l2CSXU0/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 2602,
+          "views": 2638,
           "likes": 60,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "8DHHSjSX0-Q",
-          "title": "अमित शाह को भूपेश बघेल ने किया चैलेंज | CG Bhaskar",
-          "description": "अमित शाह को भूपेश बघेल ने किया चैलेंज Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-03-31T08:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/8DHHSjSX0-Q/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 1225,
-          "likes": 57,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "83AZhO8DF6U",
           "title": "जिस पुल से आप गुजरेंगे उसकी सुरक्षा रिबन-रस्सी के भरोसे | CG Bhaskar",
           "description": "जिस पुल से आप गुजरेंगे उसकी सुरक्षा रिबन-रस्सी के भरोसे | CG Bhaskar Join our ...",
@@ -453,8 +522,23 @@
           "thumbnail": "https://i.ytimg.com/vi/83AZhO8DF6U/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1221,
-          "likes": 30,
+          "views": 1278,
+          "likes": 31,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "8DHHSjSX0-Q",
+          "title": "अमित शाह को भूपेश बघेल ने किया चैलेंज | CG Bhaskar",
+          "description": "अमित शाह को भूपेश बघेल ने किया चैलेंज Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-03-31T08:30:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/8DHHSjSX0-Q/hqdefault.jpg",
+          "durationSeconds": 180,
+          "durationFormatted": "03:00",
+          "views": 1249,
+          "likes": 57,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/W4cnFr1PK00/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 944,
+          "views": 968,
           "likes": 34,
           "videoType": "VOD",
           "genre": "General"
@@ -483,8 +567,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jUtQpXf3xA8/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 665,
-          "likes": 23,
+          "views": 702,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -492,10 +576,10 @@
       "latestUpdateAt": "2026-03-31T12:30:42Z"
     },
     {
-      "clusterId": "seedhe-mudde",
-      "topic": "Seedhe Mudde",
-      "videoCount": 6,
-      "trendScore": 39.0,
+      "clusterId": "mudde-baat",
+      "topic": "Mudde Baat",
+      "videoCount": 7,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -507,13 +591,28 @@
           "thumbnail": "https://i.ytimg.com/vi/9m1lN_9Vr08/hqdefault.jpg",
           "durationSeconds": 2273,
           "durationFormatted": "37:53",
-          "views": 818,
+          "views": 937,
           "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "wMVZl1LvsLM",
+          "title": "🔴Seedhe Mudde Ki Baat : नक्सली खत्म करने के लिए कितनी मेहनत करनी पड़ी? | Naxalism | The End",
+          "description": "Seedhe Mudde Ki Baat : नक्सली खत्म करने के लिए कितनी मेहनत करनी पड़ी? | Naxalism | The ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-03-31T15:24:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/wMVZl1LvsLM/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 509,
+          "likes": 11,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 3,
           "videoId": "n9pnNk6ad68",
           "title": "Seedhe Mudde Ki Baat : शादी और नौकरी की सही उम्र क्या होनी चाहिए? | Research | Marriage | Job",
           "description": "Seedhe Mudde Ki Baat : शादी और नौकरी की सही उम्र क्या होनी चाहिए? | Research | Marriage ...",
@@ -522,13 +621,13 @@
           "thumbnail": "https://i.ytimg.com/vi/n9pnNk6ad68/hqdefault.jpg",
           "durationSeconds": 208,
           "durationFormatted": "03:28",
-          "views": 317,
-          "likes": 11,
+          "views": 407,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "VH6hfP5NcBc",
           "title": "Seedhe Mudde Ki Baat : नक्सलमुक्त इलाकों में  अब क्या होगा? जानिए | Naxalism | The End",
           "description": "Seedhe Mudde Ki Baat : नक्सलमुक्त इलाकों में अब क्या होगा? जानिए | Naxalism | The End ...",
@@ -543,21 +642,6 @@
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "QcMhWAwesGk",
-          "title": "Seedhe Mudde Ki Baat : नक्सलवाद खात्मे की 585 दिन की कहानी 6 Minute में समझिए | Naxalism | The End",
-          "description": "Seedhe Mudde Ki Baat : नक्सलवाद खात्मे की 585 दिन की कहानी 6 Minute में समझिए | Naxalism ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-03-31T16:51:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/QcMhWAwesGk/hqdefault.jpg",
-          "durationSeconds": 397,
-          "durationFormatted": "06:37",
-          "views": 90,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 5,
           "videoId": "qp86TtuhDsc",
           "title": "Seedhe Mudde Ki Baat : नक्सलवाद खात्मे की Planning Delhi से कैसे लिखी गई? | Naxalism | The End",
@@ -567,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qp86TtuhDsc/hqdefault.jpg",
           "durationSeconds": 551,
           "durationFormatted": "09:11",
-          "views": 88,
+          "views": 123,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -576,10 +660,10 @@
       "latestUpdateAt": "2026-03-31T17:02:53Z"
     },
     {
-      "clusterId": "गरफतर-आरप",
-      "topic": "गिरफ्तार आरोपी",
-      "videoCount": 15,
-      "trendScore": 35.7,
+      "clusterId": "durg-गरफतर",
+      "topic": "Durg गिरफ्तार",
+      "videoCount": 14,
+      "trendScore": 33.9,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-fSDzcVZ3LE/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 39,
+          "views": 57,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -621,28 +705,13 @@
           "thumbnail": "https://i.ytimg.com/vi/EdTTdN-UzFU/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 22,
+          "views": 23,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "cboaT2o0JRA",
-          "title": "राजनांदगांव -बसंतपुर मेडिकल स्टोर में चोरी , CCTV और नकदी सहित मोटरसाइकिल भी चोरी, आरोपी गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-03-31T07:53:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/cboaT2o0JRA/hqdefault.jpg",
-          "durationSeconds": 74,
-          "durationFormatted": "01:14",
-          "views": 22,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "PSkW16EVI9k",
           "title": "दुर्ग में कृषि अधिकारियों का आंदोलन ,संघ ने निलंबन के खिलाफ दिया चेतावनी",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -655,6 +724,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "N9XHFcgFSoI",
+          "title": "राजनांदगांव: नया ढाबा वार्ड 4 में पानी के लिए चक्काजाम ,प्रशासन को चेतावनी",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-03-31T07:55:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/N9XHFcgFSoI/hqdefault.jpg",
+          "durationSeconds": 429,
+          "durationFormatted": "07:09",
+          "views": 18,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-03-31T13:54:34Z"
@@ -663,7 +747,7 @@
       "clusterId": "xpress-बल",
       "topic": "Xpress बाल",
       "videoCount": 7,
-      "trendScore": 33.3,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GKYRgMZebp8/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 442,
+          "views": 443,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8aDXfoSjeY0/hqdefault.jpg",
           "durationSeconds": 357,
           "durationFormatted": "05:57",
-          "views": 263,
+          "views": 266,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2QwmEw9JdJE/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 248,
+          "views": 249,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -735,7 +819,7 @@
           "thumbnail": "https://i.ytimg.com/vi/wSuTTi4VDwo/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 180,
+          "views": 187,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Crime"
