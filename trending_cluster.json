@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-01T20:59:59.309394Z",
+  "generatedAt": "2026-04-01T22:56:02.065559Z",
   "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 62,
-      "trendScore": 60.4,
+      "videoCount": 61,
+      "trendScore": 59.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l9z740ADdMk/hqdefault.jpg",
           "durationSeconds": 1539,
           "durationFormatted": "25:39",
-          "views": 31559,
+          "views": 31755,
           "likes": 329,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,13 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/ECl_R5xVXy4/hqdefault.jpg",
           "durationSeconds": 1194,
           "durationFormatted": "19:54",
-          "views": 4337,
+          "views": 4404,
           "likes": 46,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 4,
+          "videoId": "HQooupGcqLw",
+          "title": "FCRA Amendment Bill 2026: विदेशी चंदे पर &#39;तालाबंदी&#39;? नए बिल से NGO की बढ़ी धड़कनें! देखिए..",
+          "description": "IBC24, FCRA Amendment Bill 2026: विदेशी चंदे पर 'तालाबंदी'? नए बिल से NGO की बढ़ी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-01T17:21:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/HQooupGcqLw/hqdefault.jpg",
+          "durationSeconds": 195,
+          "durationFormatted": "03:15",
+          "views": 2924,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "tC63v1EMDj4",
           "title": "CCS Meeting News : PM मोदी की अध्यक्षता में CCS की बैठक, पेट्रोल-डीजल सहित जरूरी सामानों पर चर्चा",
           "description": "CCS Meeting News : PM मोदी की अध्यक्षता में CCS की बैठक, पेट्रोल-डीजल सहित ...",
@@ -67,30 +82,15 @@
           "likes": 26,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "HQooupGcqLw",
-          "title": "FCRA Amendment Bill 2026: विदेशी चंदे पर &#39;तालाबंदी&#39;? नए बिल से NGO की बढ़ी धड़कनें! देखिए..",
-          "description": "IBC24, FCRA Amendment Bill 2026: विदेशी चंदे पर 'तालाबंदी'? नए बिल से NGO की बढ़ी ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-01T17:21:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/HQooupGcqLw/hqdefault.jpg",
-          "durationSeconds": 195,
-          "durationFormatted": "03:15",
-          "views": 2316,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-01T20:46:10Z"
+      "latestUpdateAt": "2026-04-01T20:56:56Z"
     },
     {
-      "clusterId": "गरफतर-पलस",
-      "topic": "गिरफ्तार पुलिस",
+      "clusterId": "रजनदगव-दरग",
+      "topic": "राजनांदगांव दुर्ग",
       "videoCount": 22,
-      "trendScore": 46.1,
+      "trendScore": 45.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/8ScvTGW-2p0/hqdefault.jpg",
           "durationSeconds": 1600,
           "durationFormatted": "26:40",
-          "views": 126,
+          "views": 142,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "IVekodUtwQk",
-          "title": "छुईखदान पुलिस की बड़ी कामयाबी मोटर चोरी का चौंकाने वाला मामला – 3 गिरफ्तार, 3 नाबालिग हिरासत में",
-          "description": "chhattisgarhnews #madhyapradehnews #chhuikhadan .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-01T07:45:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/IVekodUtwQk/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 74,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "8_JQdqzqKqg",
           "title": "एमसीबी जिले में स्वास्थ्य सेवा को सुपरचार्ज, 12 नई 108 एम्बुलेंस हरी झंडी दिखाकर रवाना",
           "description": "chhattisgarhnews #madhyapradehnews #mcbnews .",
@@ -132,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/8_JQdqzqKqg/hqdefault.jpg",
           "durationSeconds": 146,
           "durationFormatted": "02:26",
-          "views": 30,
+          "views": 39,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "NoDReFbPYjY",
           "title": "राजनांदगांव: फ्रिज नहीं, मटका बनी पहली पसंद – गर्मी में देसी ठंडक का ट्रेंड",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -153,7 +138,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "-N6CsfTxnOI",
           "title": "दुर्ग: जसप्रीत सिंह ने कलेक्टर को ज्ञापन सौंपा,निजी स्कूलों की मनमानी के खिलाफ AAP का विरोध",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -162,10 +147,25 @@
           "thumbnail": "https://i.ytimg.com/vi/-N6CsfTxnOI/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 15,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "6ZGxORAUdG8",
+          "title": "राजनांदगांव की दीपशिखा सिन्हा बनी सब इंस्पेक्टर, माली की बेटी की संघर्ष से सफलता की प्रेरक कहानी",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-01T14:13:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/6ZGxORAUdG8/hqdefault.jpg",
+          "durationSeconds": 151,
+          "durationFormatted": "02:31",
+          "views": 16,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-01T14:15:09Z"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-बदलव",
       "topic": "Bhaskar बदलाव",
       "videoCount": 10,
-      "trendScore": 40.7,
+      "trendScore": 39.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0XUpryrCFBw/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 5487,
+          "views": 5835,
           "likes": 77,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LIdDFvpmJts/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 3799,
+          "views": 3800,
           "likes": 29,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Xd6wZlsVATk/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 1823,
+          "views": 1814,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/83VMJKj7rq0/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 1119,
-          "likes": 26,
+          "views": 1238,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YDH9Zsrq9EU/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 879,
+          "views": 1080,
           "likes": 35,
           "videoType": "VOD",
           "genre": "Crime"
@@ -258,7 +258,7 @@
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
       "videoCount": 5,
-      "trendScore": 35.5,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UrxXx2Kdgew/hqdefault.jpg",
           "durationSeconds": 634,
           "durationFormatted": "10:34",
-          "views": 1876,
-          "likes": 37,
+          "views": 2365,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/t0wiIGv97-w/hqdefault.jpg",
           "durationSeconds": 711,
           "durationFormatted": "11:51",
-          "views": 1480,
-          "likes": 46,
+          "views": 1835,
+          "likes": 51,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oCKvAczRw7I/hqdefault.jpg",
           "durationSeconds": 264,
           "durationFormatted": "04:24",
-          "views": 952,
+          "views": 1185,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/48duDsgO_DY/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 151,
+          "views": 158,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UGMhuzESF44/hqdefault.jpg",
           "durationSeconds": 359,
           "durationFormatted": "05:59",
-          "views": 117,
+          "views": 130,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -339,9 +339,9 @@
       "latestUpdateAt": "2026-04-01T15:48:48Z"
     },
     {
-      "clusterId": "vijay-mewada",
-      "topic": "Vijay Mewada",
-      "videoCount": 4,
+      "clusterId": "murder-case",
+      "topic": "Murder Case",
+      "videoCount": 5,
       "trendScore": 34.1,
       "topVideos": [
         {
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fMMIEvNmues/hqdefault.jpg",
           "durationSeconds": 33061,
           "durationFormatted": "09:11:01",
-          "views": 14302,
+          "views": 14610,
           "likes": 70,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/uIOf0bS_o5U/hqdefault.jpg",
           "durationSeconds": 18265,
           "durationFormatted": "05:04:25",
-          "views": 2373,
+          "views": 2666,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
+          "videoId": "xE56iPTliKo",
+          "title": "🔴LIVE : विजय मेवाड़ा हत्याकांड पर फूटा लोगों का गुस्सा, सड़कों पर जमकर बवाल! | Bhopal Murder Case",
+          "description": "LIVE : विजय मेवाड़ा हत्याकांड पर फूटा लोगों का गुस्सा, सड़कों पर जमकर ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-01T13:19:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/xE56iPTliKo/hqdefault.jpg",
+          "durationSeconds": 26625,
+          "durationFormatted": "07:23:45",
+          "views": 1471,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
           "videoId": "KmR0WlEe5fs",
           "title": "Vijay Mewada Murder Case : Bhopal में विजय मेवाड़ा हत्याकांड को लेकर लोगों ने किया प्रदर्शन",
           "description": "मध्य प्रदेश की राजधानी Bhopal में विजय मेवाड़ा हत्याकांड को लेकर ...",
@@ -384,13 +399,13 @@
           "thumbnail": "https://i.ytimg.com/vi/KmR0WlEe5fs/hqdefault.jpg",
           "durationSeconds": 160,
           "durationFormatted": "02:40",
-          "views": 698,
+          "views": 837,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "7Zj1axFanKI",
           "title": "Bhopal News: Vijay Murder Case को लेकर रोशनपुरा चौराहे पर चक्काजाम | Top News | Viral Video",
           "description": "राजधानी भोपाल का रोशनपुरा चौराहा आज विरोध प्रदर्शन का केंद्र बन ...",
@@ -399,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7Zj1axFanKI/hqdefault.jpg",
           "durationSeconds": 495,
           "durationFormatted": "08:15",
-          "views": 146,
+          "views": 124,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -411,7 +426,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 4,
-      "trendScore": 31.3,
+      "trendScore": 30.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zOYNM6-FR54/hqdefault.jpg",
           "durationSeconds": 1450,
           "durationFormatted": "24:10",
-          "views": 269,
+          "views": 262,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -453,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/URL84fAOsyQ/hqdefault.jpg",
           "durationSeconds": 1498,
           "durationFormatted": "24:58",
-          "views": 93,
+          "views": 134,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VsE-CECvCoU/hqdefault.jpg",
           "durationSeconds": 1654,
           "durationFormatted": "27:34",
-          "views": 47,
+          "views": 71,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -480,7 +495,7 @@
       "clusterId": "rajendra-bharti",
       "topic": "Rajendra Bharti",
       "videoCount": 5,
-      "trendScore": 30.8,
+      "trendScore": 29.8,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2reeonkc0Ps/hqdefault.jpg",
           "durationSeconds": 262,
           "durationFormatted": "04:22",
-          "views": 495,
+          "views": 656,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
@@ -507,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MoKQb9Er0SA/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 204,
+          "views": 285,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
@@ -552,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tLcYZM7lxZo/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 32,
+          "views": 51,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -564,7 +579,7 @@
       "clusterId": "कवरध-कय",
       "topic": "कवर्धा क्या",
       "videoCount": 6,
-      "trendScore": 29.9,
+      "trendScore": 29.2,
       "topVideos": [
         {
           "index": 1,
@@ -576,28 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jMWhcH2nhyQ/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 1172,
-          "likes": 5,
+          "views": 1215,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "Po1nstg1Yp0",
-          "title": "क्या कवर्धा को मिलती है DMF की राशि?",
-          "description": "क्या कवर्धा को मिलती है DMF की राशि? #inh24x7news #Samvad2026 #drhimanshudwivedi #Kawardha ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-01T10:56:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/Po1nstg1Yp0/hqdefault.jpg",
-          "durationSeconds": 37,
-          "durationFormatted": "00:37",
-          "views": 241,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "WehHLhedyWI",
           "title": "कांग्रेस के किन कामों से नाराज हुई जनता?",
           "description": "कांग्रेस के किन कामों से नाराज हुई जनता? #inh24x7news #Samvad2026 #drhimanshudwivedi ...",
@@ -606,8 +606,23 @@
           "thumbnail": "https://i.ytimg.com/vi/WehHLhedyWI/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 232,
+          "views": 276,
           "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "Po1nstg1Yp0",
+          "title": "क्या कवर्धा को मिलती है DMF की राशि?",
+          "description": "क्या कवर्धा को मिलती है DMF की राशि? #inh24x7news #Samvad2026 #drhimanshudwivedi #Kawardha ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-01T10:56:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/Po1nstg1Yp0/hqdefault.jpg",
+          "durationSeconds": 37,
+          "durationFormatted": "00:37",
+          "views": 247,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -621,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yMQWl7xb35Q/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 162,
+          "views": 193,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/E2JwXoksZtQ/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 88,
+          "views": 103,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -648,7 +663,7 @@
       "clusterId": "bhopal-वजय",
       "topic": "Bhopal विजय",
       "videoCount": 4,
-      "trendScore": 29.4,
+      "trendScore": 28.6,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gxmkvgvewmw/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 1638,
+          "views": 1647,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FNV_yhd4YXc/hqdefault.jpg",
           "durationSeconds": 14561,
           "durationFormatted": "04:02:41",
-          "views": 132,
+          "views": 140,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -717,7 +732,7 @@
       "clusterId": "raipur-chattisgarh",
       "topic": "Raipur Chattisgarh",
       "videoCount": 6,
-      "trendScore": 29.0,
+      "trendScore": 28.3,
       "topVideos": [
         {
           "index": 1,
@@ -729,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z8XAsAo8HF8/hqdefault.jpg",
           "durationSeconds": 915,
           "durationFormatted": "15:15",
-          "views": 750,
+          "views": 781,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -744,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5o_vDP3ioCw/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 346,
+          "views": 361,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Civic"
@@ -759,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MjTID3JNDIk/hqdefault.jpg",
           "durationSeconds": 374,
           "durationFormatted": "06:14",
-          "views": 223,
+          "views": 243,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
