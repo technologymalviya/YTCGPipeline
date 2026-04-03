@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-03T20:51:49.354380Z",
+  "generatedAt": "2026-04-03T22:52:00.631941Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 79,
-      "trendScore": 61.4,
+      "videoCount": 80,
+      "trendScore": 60.6,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UugoJkiO8X0/hqdefault.jpg",
           "durationSeconds": 1595,
           "durationFormatted": "26:35",
-          "views": 47821,
-          "likes": 477,
+          "views": 47902,
+          "likes": 479,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Z04qiiqLPVI/hqdefault.jpg",
           "durationSeconds": 254,
           "durationFormatted": "04:14",
-          "views": 17250,
-          "likes": 246,
+          "views": 18315,
+          "likes": 250,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/O3nC5TXE9Uw/hqdefault.jpg",
           "durationSeconds": 1431,
           "durationFormatted": "23:51",
-          "views": 15173,
-          "likes": 274,
+          "views": 15442,
+          "likes": 279,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Bw3Z2v64mXg/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 10253,
-          "likes": 129,
+          "views": 10372,
+          "likes": 130,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dGHXJXu0SxE/hqdefault.jpg",
           "durationSeconds": 42899,
           "durationFormatted": "11:54:59",
-          "views": 8115,
+          "views": 8315,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -90,7 +90,7 @@
       "clusterId": "shorts-zee",
       "topic": "Shorts Zee",
       "videoCount": 10,
-      "trendScore": 41.7,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N7McU9Eystw/hqdefault.jpg",
           "durationSeconds": 39,
           "durationFormatted": "00:39",
-          "views": 27648,
+          "views": 28233,
           "likes": 334,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aGXLmPFzu1M/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 2442,
+          "views": 2459,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TwzhMpsLAzs/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 2234,
+          "views": 2241,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mZK4Lm3DNoo/hqdefault.jpg",
           "durationSeconds": 2729,
           "durationFormatted": "45:29",
-          "views": 260,
+          "views": 264,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -173,8 +173,8 @@
     {
       "clusterId": "दरग-हथयर",
       "topic": "दुर्ग हथियार",
-      "videoCount": 16,
-      "trendScore": 41.3,
+      "videoCount": 15,
+      "trendScore": 39.1,
       "topVideos": [
         {
           "index": 1,
@@ -208,6 +208,21 @@
         },
         {
           "index": 3,
+          "videoId": "oRf9Qm34TSQ",
+          "title": "दुर्ग: सी-मार्ट के पास हथियार लेकर घूम रहा था युवक, पुलिस ने किया गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-03T12:08:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/oRf9Qm34TSQ/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 24,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "hWyGEFT0OFY",
           "title": "राजनांदगांव-कन्हारपुरी तालाब में युवक की डूबने से मौ.T, पुलिस जांच में जुटी",
           "description": "chhattisgarhnewsstatelivenews #madhyapradehnews #rajnandgaon .",
@@ -222,7 +237,7 @@
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "CqLjRaSWhxE",
           "title": "जांजगीर-चांपा- खपरी डबल मर्ड.R केस का खुलासा, शादी में फोटोग्राफी करने वाले ने रची साजिश",
           "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
@@ -231,23 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CqLjRaSWhxE/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 22,
+          "views": 24,
           "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "oRf9Qm34TSQ",
-          "title": "दुर्ग: सी-मार्ट के पास हथियार लेकर घूम रहा था युवक, पुलिस ने किया गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-03T12:08:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/oRf9Qm34TSQ/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 21,
-          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,79 +255,79 @@
       "latestUpdateAt": "2026-04-03T13:49:42Z"
     },
     {
-      "clusterId": "price-pakistan",
-      "topic": "Price Pakistan",
+      "clusterId": "iran-war",
+      "topic": "Iran War",
       "videoCount": 4,
-      "trendScore": 36.2,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "wGock4_NCgI",
-          "title": "Pakistan Fuel Crisis : पाकिस्तान में कंगाली शुरु, पेट्रोल की कीमतें सुनकर उड़ जाएंगे होश! Price Hike",
-          "description": "Pakistan Fuel Crisis : पाकिस्तान में कंगाली शुरु, पेट्रोल की कीमतें सुनकर उड़ ...",
+          "videoId": "b6ZdIGF9dZ4",
+          "title": "Iran Israel US War LIVE : Iran का America पर सबसे बड़ा हमला शुरू !| Iran Attack US Base News | N18G",
+          "description": "Iran Israel US War LIVE : Iran का America पर सबसे बड़ा हमला शुरू !| Iran Attack US Base News | N18G | Top ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-03T15:15:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/wGock4_NCgI/hqdefault.jpg",
-          "durationSeconds": 485,
-          "durationFormatted": "08:05",
-          "views": 12418,
-          "likes": 125,
-          "videoType": "VOD",
-          "genre": "General"
+          "publishedAt": "2026-04-03T13:43:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/b6ZdIGF9dZ4/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 33119,
+          "likes": 171,
+          "videoType": "LIVE",
+          "genre": "Live"
         },
         {
           "index": 2,
-          "videoId": "jt093OtX9So",
-          "title": "Fuel Price Hike in Pakistan: पाक में महंगाई का महाविस्फोट। Petrol-Diesel के दाम सुन उड़ जाएंगे होश",
-          "description": "IBC24, Fuel Price Hike in Pakistan: पाक में महंगाई का महाविस्फोट। Petrol-Diesel के दाम सुन ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-03T16:25:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/jt093OtX9So/hqdefault.jpg",
-          "durationSeconds": 78,
-          "durationFormatted": "01:18",
-          "views": 5030,
-          "likes": 0,
+          "videoId": "dyXlxQ1PKWo",
+          "title": "Iran America War Update : एक के बदले 8 पुल&#39; ईरान लेगा अमेरिकी हमले का बदला! Trump | Khamenei | N18G",
+          "description": "Iran America War Update : एक के बदले 8 पुल' ईरान लेगा अमेरिकी हमले का बदला!",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-03T17:12:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/dyXlxQ1PKWo/hqdefault.jpg",
+          "durationSeconds": 486,
+          "durationFormatted": "08:06",
+          "views": 11698,
+          "likes": 158,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "HcEC1I6K9GQ",
-          "title": "Pakistan Petrol Price : कंगाली की कगार पर पाकिस्तान? पेट्रोल की कीमत सुनकर उड़ जाएंगे होश? | N18G",
-          "description": "Pakistan Petrol Price : कंगाली की कगार पर पाकिस्तान? पेट्रोल की कीमत सुनकर उड़ ...",
+          "videoId": "ijkCIsKpq3w",
+          "title": "Iran America War Update : ईरान के पास हजारों ड्रोन US पर हमलों के लिए तैयार! Trump | Khamenei | N18G",
+          "description": "Iran America War Update : ईरान के पास हजारों ड्रोन US पर हमलों के लिए तैयार!",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-03T17:42:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/HcEC1I6K9GQ/hqdefault.jpg",
-          "durationSeconds": 892,
-          "durationFormatted": "14:52",
-          "views": 4434,
-          "likes": 30,
+          "publishedAt": "2026-04-03T16:55:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/ijkCIsKpq3w/hqdefault.jpg",
+          "durationSeconds": 251,
+          "durationFormatted": "04:11",
+          "views": 3043,
+          "likes": 77,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "ZnajxCkHzo8",
-          "title": "Chhattisgarh Petrol Price Hike News: छत्तीसगढ़ में बढ़े पेट्रोल के दाम। 1 रुपए 1 पैसे बढ़ाई गई कीमत",
-          "description": "IBC24, Chhattisgarh Petrol Price Hike News: छत्तीसगढ़ में बढ़े पेट्रोल के दाम। 1 रुपए 1 ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-03T16:32:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZnajxCkHzo8/hqdefault.jpg",
-          "durationSeconds": 41425,
-          "durationFormatted": "11:30:25",
-          "views": 1911,
-          "likes": 0,
+          "videoId": "maja-Qw_Muc",
+          "title": "LPG Gas Crisis : गैस स‍िलेंडर भूल जाइए, सरकार का प्‍लान-B बदल देगा घर की रसोई | Iran America War",
+          "description": "LPG Gas Crisis : गैस स‍िलेंडर भूल जाइए, सरकार का प्‍लान-B बदल देगा घर की रसोई | Iran ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-03T15:32:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/maja-Qw_Muc/hqdefault.jpg",
+          "durationSeconds": 172,
+          "durationFormatted": "02:52",
+          "views": 3000,
+          "likes": 32,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-03T17:42:51Z"
+      "latestUpdateAt": "2026-04-03T17:12:57Z"
     },
     {
       "clusterId": "chhattisgarh-raipur",
       "topic": "Chhattisgarh Raipur",
       "videoCount": 7,
-      "trendScore": 35.5,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
@@ -339,7 +339,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aV35gidBC-Q/hqdefault.jpg",
           "durationSeconds": 1581,
           "durationFormatted": "26:21",
-          "views": 12785,
+          "views": 12839,
           "likes": 206,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/U5EpiHTkgLM/hqdefault.jpg",
           "durationSeconds": 1044,
           "durationFormatted": "17:24",
-          "views": 2206,
+          "views": 2208,
           "likes": 33,
           "videoType": "VOD",
           "genre": "General"
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6THF4S60dQo/hqdefault.jpg",
           "durationSeconds": 918,
           "durationFormatted": "15:18",
-          "views": 779,
-          "likes": 7,
+          "views": 788,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6OX4LRSp51I/hqdefault.jpg",
           "durationSeconds": 1525,
           "durationFormatted": "25:25",
-          "views": 686,
-          "likes": 7,
+          "views": 740,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -408,94 +408,10 @@
       "latestUpdateAt": "2026-04-03T16:38:08Z"
     },
     {
-      "clusterId": "mla-datia",
-      "topic": "MLA Datia",
-      "videoCount": 5,
-      "trendScore": 34.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "ng56S546YHc",
-          "title": "Datia में उपचुनाव की घोषणा Narottam Mishra बनेंगे नए MLA ? Rajendra Bharti । Congress",
-          "description": "Datia में उपचुनाव की घोषणा Narottam Mishra बनेंगे नए MLA ? Rajendra Bharti । Congress ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-03T12:28:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/ng56S546YHc/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 6334,
-          "likes": 37,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "iUJpvoroqiE",
-          "title": "Datia MLA News: Congress MLA Rajendra Bharti की सदस्यता रद्द | विपक्ष हुआ आक्रामक | BJP |MP Politics",
-          "description": "IBC24, Datia MLA News: Congress MLA Rajendra Bharti की सदस्यता रद्द | विपक्ष हुआ आक्रामक ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-03T16:27:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/iUJpvoroqiE/hqdefault.jpg",
-          "durationSeconds": 31083,
-          "durationFormatted": "08:38:03",
-          "views": 1691,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "TvwOi_Hyw1w",
-          "title": "The Editor&#39;s Show : Datia का नया विधायक कौन बनेगा? | Narottam Mishra | Rajendra Bharti",
-          "description": "The Editor's Show : Datia का नया विधायक कौन बनेगा? | Narottam Mishra | Rajendra Bharti #datia #mla ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-03T16:08:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/TvwOi_Hyw1w/hqdefault.jpg",
-          "durationSeconds": 327,
-          "durationFormatted": "05:27",
-          "views": 598,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "96cJvZMl6Xs",
-          "title": "🔴MP News LIVE : Rajendra Bharti की विधायकी खत्म, क्या Datia में होंगे उपचुनाव ? | MP Top News",
-          "description": "MP News LIVE : Rajendra Bharti की विधायकी खत्म, क्या Datia में होंगे उपचुनाव ? | MP Top ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-03T15:20:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/96cJvZMl6Xs/hqdefault.jpg",
-          "durationSeconds": 30360,
-          "durationFormatted": "08:26:00",
-          "views": 197,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "Y_Kg-uvO8NE",
-          "title": "MP Politics: सियासत तेज, Narottam Mishra की होगी वापसी? उपचुनाव की ओर बढ़ Datia? Rajendra Bharti",
-          "description": "MP Politics: सियासत तेज, Narottam Mishra की होगी वापसी? उपचुनाव की ओर बढ़ Datia? Rajendra ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-03T14:47:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/Y_Kg-uvO8NE/hqdefault.jpg",
-          "durationSeconds": 1734,
-          "durationFormatted": "28:54",
-          "views": 118,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-03T16:27:32Z"
-    },
-    {
       "clusterId": "delhi-ncr",
       "topic": "Delhi NCR",
       "videoCount": 4,
-      "trendScore": 34.0,
+      "trendScore": 32.8,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I4EK4ohytyE/hqdefault.jpg",
           "durationSeconds": 436,
           "durationFormatted": "07:16",
-          "views": 4513,
+          "views": 4819,
           "likes": 33,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fIQAhu1grDI/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 2605,
+          "views": 2699,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RA9UVMDpm3Y/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 52,
+          "views": 93,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gtGXsMkdahE/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 3,
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -564,7 +480,7 @@
       "clusterId": "bhaskar-otp",
       "topic": "Bhaskar OTP",
       "videoCount": 5,
-      "trendScore": 33.1,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -576,8 +492,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lUcWfFBTL9g/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1497,
-          "likes": 31,
+          "views": 1500,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -591,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_xgsvc__pHM/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 823,
-          "likes": 10,
+          "views": 833,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -645,10 +561,79 @@
       "latestUpdateAt": "2026-04-03T13:31:10Z"
     },
     {
+      "clusterId": "datia-narottam",
+      "topic": "Datia Narottam",
+      "videoCount": 4,
+      "trendScore": 31.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "ng56S546YHc",
+          "title": "Datia में उपचुनाव की घोषणा Narottam Mishra बनेंगे नए MLA ? Rajendra Bharti । Congress",
+          "description": "Datia में उपचुनाव की घोषणा Narottam Mishra बनेंगे नए MLA ? Rajendra Bharti । Congress ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-03T12:28:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/ng56S546YHc/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 6555,
+          "likes": 37,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "TvwOi_Hyw1w",
+          "title": "The Editor&#39;s Show : Datia का नया विधायक कौन बनेगा? | Narottam Mishra | Rajendra Bharti",
+          "description": "The Editor's Show : Datia का नया विधायक कौन बनेगा? | Narottam Mishra | Rajendra Bharti #datia #mla ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-03T16:08:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/TvwOi_Hyw1w/hqdefault.jpg",
+          "durationSeconds": 327,
+          "durationFormatted": "05:27",
+          "views": 640,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "96cJvZMl6Xs",
+          "title": "🔴MP News LIVE : Rajendra Bharti की विधायकी खत्म, क्या Datia में होंगे उपचुनाव ? | MP Top News",
+          "description": "MP News LIVE : Rajendra Bharti की विधायकी खत्म, क्या Datia में होंगे उपचुनाव ? | MP Top ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-03T15:20:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/96cJvZMl6Xs/hqdefault.jpg",
+          "durationSeconds": 30360,
+          "durationFormatted": "08:26:00",
+          "views": 197,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "Y_Kg-uvO8NE",
+          "title": "MP Politics: सियासत तेज, Narottam Mishra की होगी वापसी? उपचुनाव की ओर बढ़ Datia? Rajendra Bharti",
+          "description": "MP Politics: सियासत तेज, Narottam Mishra की होगी वापसी? उपचुनाव की ओर बढ़ Datia? Rajendra ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-03T14:47:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/Y_Kg-uvO8NE/hqdefault.jpg",
+          "durationSeconds": 1734,
+          "durationFormatted": "28:54",
+          "views": 168,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-03T16:08:27Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 11.4,
+      "trendScore": 10.4,
       "topVideos": [
         {
           "index": 1,
