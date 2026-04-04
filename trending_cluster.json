@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-04T20:49:00.878344Z",
+  "generatedAt": "2026-04-04T22:47:55.282562Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 54,
-      "trendScore": 61.5,
+      "videoCount": 56,
+      "trendScore": 60.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SmaA8F-x-YY/hqdefault.jpg",
           "durationSeconds": 1610,
           "durationFormatted": "26:50",
-          "views": 60019,
+          "views": 60125,
           "likes": 543,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/bulrdk6rWNE/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 18126,
+          "views": 18137,
           "likes": 262,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "HLtfJUHa8v4",
-          "title": "MP Teachers News : TET अनिवार्यता पर दिग्विजय ने उठाए सवाल, CM मोहन को लिखा पत्र | Top News",
-          "description": "MP Teachers News : TET अनिवार्यता पर दिग्विजय ने उठाए सवाल, CM मोहन को लिखा ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-04T12:38:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/HLtfJUHa8v4/hqdefault.jpg",
-          "durationSeconds": 223,
-          "durationFormatted": "03:43",
-          "views": 9636,
-          "likes": 107,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "IRGnVCMc0B4",
           "title": "Bihar New CM Update : निशांत अब नहीं बन पाएंगे CM, Nitish Kumar के हटने से पहले ही BJP ने किया खेल ?",
           "description": "Bihar New CM Update : निशांत अब नहीं बन पाएंगे CM, Nitish Kumar के हटने से पहले ही BJP ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/IRGnVCMc0B4/hqdefault.jpg",
           "durationSeconds": 993,
           "durationFormatted": "16:33",
-          "views": 5526,
+          "views": 5898,
           "likes": 40,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "qx-OjuLFtOw",
+          "title": "Bhilai Steel Plant की लापरवाही से गई Contract Labour की ज!न? | Safety के बिना करवा रहे काम? |",
+          "description": "Bhilai Steel Plant की लापरवाही से गई Contract Labour की ज!न? | Safety के बिना करवा रहे काम?",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-04T08:30:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/qx-OjuLFtOw/hqdefault.jpg",
+          "durationSeconds": 481,
+          "durationFormatted": "08:01",
+          "views": 4196,
+          "likes": 84,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T17:55:39Z"
+      "latestUpdateAt": "2026-04-04T18:34:52Z"
     },
     {
-      "clusterId": "पलस-दरग",
-      "topic": "पुलिस दुर्ग",
+      "clusterId": "दरग-पलस",
+      "topic": "दुर्ग पुलिस",
       "videoCount": 17,
-      "trendScore": 43.2,
+      "trendScore": 41.9,
       "topVideos": [
         {
           "index": 1,
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cRE9HLrOH8o/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 29,
+          "views": 31,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "iran-war",
       "topic": "Iran War",
       "videoCount": 4,
-      "trendScore": 37.4,
+      "trendScore": 36.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ldbskn69zPk/hqdefault.jpg",
           "durationSeconds": 524,
           "durationFormatted": "08:44",
-          "views": 19833,
+          "views": 20127,
           "likes": 173,
           "videoType": "VOD",
           "genre": "General"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AEGecbRp6Yo/hqdefault.jpg",
           "durationSeconds": 213,
           "durationFormatted": "03:33",
-          "views": 8144,
-          "likes": 138,
+          "views": 8434,
+          "likes": 139,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lLv96KqnC7s/hqdefault.jpg",
           "durationSeconds": 524,
           "durationFormatted": "08:44",
-          "views": 3259,
+          "views": 3344,
           "likes": 81,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rGFtlDmabPk/hqdefault.jpg",
           "durationSeconds": 597,
           "durationFormatted": "09:57",
-          "views": 1907,
+          "views": 2074,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -243,40 +243,10 @@
       "clusterId": "bhaskar-jee",
       "topic": "Bhaskar JEE",
       "videoCount": 6,
-      "trendScore": 36.1,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "TI-rNC9NAzI",
-          "title": "धमतरी में बड़ा सड़क हादसा, चकनाचूर हुई कार",
-          "description": "धमतरी में बड़ा सड़क हादसा, चकनाचूर हुई कार Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T12:00:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/TI-rNC9NAzI/hqdefault.jpg",
-          "durationSeconds": 88,
-          "durationFormatted": "01:28",
-          "views": 725,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "1UReMVVytKQ",
-          "title": "मदिरा हुई सस्ती!  | CG Bhaskar",
-          "description": "मदिरा हुई सस्ती! Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx Follow us on ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T12:45:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/1UReMVVytKQ/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 689,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "gLormbS6j_A",
           "title": "मरीज़ों पर गिरी अस्पताल की छत, 4 गंभीर रूप से घायल | CG Bhaskar",
           "description": "मरीज़ों पर गिरी अस्पताल की छत, 4 गंभीर रूप से घायल | CG Bhaskar Join our Whatsapp ...",
@@ -285,8 +255,38 @@
           "thumbnail": "https://i.ytimg.com/vi/gLormbS6j_A/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 530,
+          "views": 829,
           "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "TI-rNC9NAzI",
+          "title": "धमतरी में बड़ा सड़क हादसा, चकनाचूर हुई कार",
+          "description": "धमतरी में बड़ा सड़क हादसा, चकनाचूर हुई कार Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T12:00:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/TI-rNC9NAzI/hqdefault.jpg",
+          "durationSeconds": 88,
+          "durationFormatted": "01:28",
+          "views": 770,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "1UReMVVytKQ",
+          "title": "मदिरा हुई सस्ती!  | CG Bhaskar",
+          "description": "मदिरा हुई सस्ती! Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx Follow us on ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T12:45:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/1UReMVVytKQ/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 681,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_jgnqJz_ilc/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 490,
-          "likes": 20,
+          "views": 518,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/usmr8fnhUaI/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 278,
+          "views": 284,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 34.8,
+      "trendScore": 33.8,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/62rGHvnlZOA/hqdefault.jpg",
           "durationSeconds": 1523,
           "durationFormatted": "25:23",
-          "views": 13069,
-          "likes": 180,
+          "views": 13104,
+          "likes": 182,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-xrhGV5XOzM/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 8572,
+          "views": 8655,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nz177L1lul4/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 252,
+          "views": 270,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/C-jULRDzsGg/hqdefault.jpg",
           "durationSeconds": 1255,
           "durationFormatted": "20:55",
-          "views": 29,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -393,103 +393,10 @@
       "latestUpdateAt": "2026-04-04T19:11:59Z"
     },
     {
-      "clusterId": "bhaskar-भज",
-      "topic": "Bhaskar भाजी",
-      "videoCount": 4,
-      "trendScore": 30.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "omm3HGjVHnQ",
-          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास। मयंक | CG Bhaskar",
-          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T06:00:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/omm3HGjVHnQ/hqdefault.jpg",
-          "durationSeconds": 731,
-          "durationFormatted": "12:11",
-          "views": 569,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "GXo3FkoXcKc",
-          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास | CG Bhaskar",
-          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T15:30:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/GXo3FkoXcKc/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 195,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "dPxcnuqP3ls",
-          "title": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ज्यादातर लोग | CG Bhaskar",
-          "description": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T03:30:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/dPxcnuqP3ls/hqdefault.jpg",
-          "durationSeconds": 342,
-          "durationFormatted": "05:42",
-          "views": 180,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "OfFOgT7zdzw",
-          "title": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar",
-          "description": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T05:00:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/OfFOgT7zdzw/hqdefault.jpg",
-          "durationSeconds": 98,
-          "durationFormatted": "01:38",
-          "views": 179,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-04T15:30:15Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 30.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "y2fX4sOavjM",
-          "title": "AAP vs Raghav Chadha: &#39;घायल हूं इसलिए घातक हूं&#39;। फिल्मी अंदाज में राघव चड्ढा ने AAP को दिया जवाब",
-          "description": "IBC24, AAP vs Raghav Chadha: 'घायल हूं इसलिए घातक हूं'। फिल्मी अंदाज में राघव ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-04T16:39:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/y2fX4sOavjM/hqdefault.jpg",
-          "durationSeconds": 94,
-          "durationFormatted": "01:34",
-          "views": 5755,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-04T16:39:16Z"
-    },
-    {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 6,
-      "trendScore": 30.0,
+      "trendScore": 30.1,
       "topVideos": [
         {
           "index": 1,
@@ -501,7 +408,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CpyVPrHMHLk/hqdefault.jpg",
           "durationSeconds": 1735,
           "durationFormatted": "28:55",
-          "views": 181,
+          "views": 182,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -516,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-naCLZOX_88/hqdefault.jpg",
           "durationSeconds": 1446,
           "durationFormatted": "24:06",
-          "views": 168,
+          "views": 169,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -527,11 +434,11 @@
           "title": "🔴LIVE : MP - CG : Indore : हनी ट्रैप का खुलासा | Latest News | Zee MPCG",
           "description": "LIVE : MP - CG : Indore : हनी ट्रैप का खुलासा | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-04T09:24:36Z",
+          "publishedAt": "2026-04-04T21:50:42Z",
           "thumbnail": "https://i.ytimg.com/vi/UcSaAVhEC-g/hqdefault.jpg",
-          "durationSeconds": 1188,
-          "durationFormatted": "19:48",
-          "views": 145,
+          "durationSeconds": 1196,
+          "durationFormatted": "19:56",
+          "views": 148,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -546,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VnmVsitXhOY/hqdefault.jpg",
           "durationSeconds": 1262,
           "durationFormatted": "21:02",
-          "views": 116,
+          "views": 121,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -561,19 +468,112 @@
           "thumbnail": "https://i.ytimg.com/vi/YdWCXnZXClU/hqdefault.jpg",
           "durationSeconds": 1539,
           "durationFormatted": "25:39",
-          "views": 87,
+          "views": 93,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T20:27:52Z"
+      "latestUpdateAt": "2026-04-04T21:50:42Z"
+    },
+    {
+      "clusterId": "bhaskar-भज",
+      "topic": "Bhaskar भाजी",
+      "videoCount": 4,
+      "trendScore": 29.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "omm3HGjVHnQ",
+          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास। मयंक | CG Bhaskar",
+          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T06:00:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/omm3HGjVHnQ/hqdefault.jpg",
+          "durationSeconds": 731,
+          "durationFormatted": "12:11",
+          "views": 612,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "OfFOgT7zdzw",
+          "title": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar",
+          "description": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T05:00:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/OfFOgT7zdzw/hqdefault.jpg",
+          "durationSeconds": 98,
+          "durationFormatted": "01:38",
+          "views": 192,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "dPxcnuqP3ls",
+          "title": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ज्यादातर लोग | CG Bhaskar",
+          "description": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T03:30:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/dPxcnuqP3ls/hqdefault.jpg",
+          "durationSeconds": 342,
+          "durationFormatted": "05:42",
+          "views": 191,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "GXo3FkoXcKc",
+          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास | CG Bhaskar",
+          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T15:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/GXo3FkoXcKc/hqdefault.jpg",
+          "durationSeconds": 81,
+          "durationFormatted": "01:21",
+          "views": 179,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-04T15:30:15Z"
+    },
+    {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 29.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "y2fX4sOavjM",
+          "title": "AAP vs Raghav Chadha: &#39;घायल हूं इसलिए घातक हूं&#39;। फिल्मी अंदाज में राघव चड्ढा ने AAP को दिया जवाब",
+          "description": "IBC24, AAP vs Raghav Chadha: 'घायल हूं इसलिए घातक हूं'। फिल्मी अंदाज में राघव ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-04T16:39:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/y2fX4sOavjM/hqdefault.jpg",
+          "durationSeconds": 94,
+          "durationFormatted": "01:34",
+          "views": 5815,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-04T16:39:16Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 25.8,
+      "trendScore": 24.6,
       "topVideos": [
         {
           "index": 1,
@@ -585,7 +585,7 @@
           "thumbnail": "https://i.ytimg.com/vi/t3NEay-s6XU/hqdefault.jpg",
           "durationSeconds": 418,
           "durationFormatted": "06:58",
-          "views": 383,
+          "views": 397,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -600,8 +600,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bdNZDijKMes/hqdefault.jpg",
           "durationSeconds": 1621,
           "durationFormatted": "27:01",
-          "views": 134,
-          "likes": 5,
+          "views": 136,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
