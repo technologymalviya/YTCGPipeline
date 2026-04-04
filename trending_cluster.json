@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-04T19:00:10.762165Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-04-04T20:49:00.878344Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 54,
-      "trendScore": 62.5,
+      "trendScore": 61.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SmaA8F-x-YY/hqdefault.jpg",
           "durationSeconds": 1610,
           "durationFormatted": "26:50",
-          "views": 59538,
+          "views": 60019,
           "likes": 543,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/k6NaeHLaweQ/hqdefault.jpg",
           "durationSeconds": 847,
           "durationFormatted": "14:07",
-          "views": 19241,
+          "views": 19336,
           "likes": 203,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bulrdk6rWNE/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 17973,
-          "likes": 263,
+          "views": 18126,
+          "likes": 262,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,37 +63,52 @@
           "thumbnail": "https://i.ytimg.com/vi/HLtfJUHa8v4/hqdefault.jpg",
           "durationSeconds": 223,
           "durationFormatted": "03:43",
-          "views": 8186,
-          "likes": 102,
+          "views": 9636,
+          "likes": 107,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "vJimGf-HWRs",
-          "title": "Digvijaya Singh ने CM Dr Mohan को लिखा पत्र | TET नियम पर पुनर्विचार की मांग, जल्द होगा बड़ा फैसला?",
-          "description": "Bhopal: Digvijaya Singh ने CM Mohan को लिखा पत्र | TET नियम पर पुनर्विचार की मांग, ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-04T07:12:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/vJimGf-HWRs/hqdefault.jpg",
-          "durationSeconds": 253,
-          "durationFormatted": "04:13",
-          "views": 5798,
-          "likes": 65,
+          "videoId": "IRGnVCMc0B4",
+          "title": "Bihar New CM Update : निशांत अब नहीं बन पाएंगे CM, Nitish Kumar के हटने से पहले ही BJP ने किया खेल ?",
+          "description": "Bihar New CM Update : निशांत अब नहीं बन पाएंगे CM, Nitish Kumar के हटने से पहले ही BJP ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-04T14:07:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/IRGnVCMc0B4/hqdefault.jpg",
+          "durationSeconds": 993,
+          "durationFormatted": "16:33",
+          "views": 5526,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-04T17:45:04Z"
+      "latestUpdateAt": "2026-04-04T17:55:39Z"
     },
     {
       "clusterId": "पलस-दरग",
       "topic": "पुलिस दुर्ग",
       "videoCount": 17,
-      "trendScore": 48.1,
+      "trendScore": 43.2,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "3TYDf3DIDfQ",
+          "title": "राजनांदगांव ट्रैफिक जाम: भारी वाहनों की लोडिंग-अनलोडिंग से शहर में दिक्कत",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-04T13:49:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/3TYDf3DIDfQ/hqdefault.jpg",
+          "durationSeconds": 526,
+          "durationFormatted": "08:46",
+          "views": 41,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
           "videoId": "cRE9HLrOH8o",
           "title": "दुर्ग: 100 साल पुराने शीतला तालाब पर कब्जे का आरोप, ग्रामीणों में आक्रोश",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -102,43 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/cRE9HLrOH8o/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 24,
+          "views": 29,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
-          "videoId": "mO_WFPk3VK0",
-          "title": "Bhilai News: पुलिस का नशे पर बड़ा प्रहार! प्रतिबंधित दवाइयों के साथ 2 आरोपी गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-04T12:23:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/mO_WFPk3VK0/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 13,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 3,
-          "videoId": "rthFXWu28CM",
-          "title": "भिलाई: 10 साल से फरार नकबजनी का आरोपी गिरफ्तार, पुलिस को बड़ी सफलता",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-04T12:37:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/rthFXWu28CM/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 9,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "CIux1yg_Ffw",
           "title": "भिलाई: सोशल मीडिया पर आपत्तिजनक टिप्पणी करने वाला गिरफ्तार, पुलिस की सख्त कार्रवाई",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -147,8 +132,23 @@
           "thumbnail": "https://i.ytimg.com/vi/CIux1yg_Ffw/hqdefault.jpg",
           "durationSeconds": 39,
           "durationFormatted": "00:39",
-          "views": 9,
+          "views": 25,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "mO_WFPk3VK0",
+          "title": "Bhilai News: पुलिस का नशे पर बड़ा प्रहार! प्रतिबंधित दवाइयों के साथ 2 आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-04T12:23:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/mO_WFPk3VK0/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 22,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PEAUdPUON8o/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 8,
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "iran-war",
       "topic": "Iran War",
       "videoCount": 4,
-      "trendScore": 38.7,
+      "trendScore": 37.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ldbskn69zPk/hqdefault.jpg",
           "durationSeconds": 524,
           "durationFormatted": "08:44",
-          "views": 12643,
-          "likes": 168,
+          "views": 19833,
+          "likes": 173,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AEGecbRp6Yo/hqdefault.jpg",
           "durationSeconds": 213,
           "durationFormatted": "03:33",
-          "views": 7206,
-          "likes": 136,
+          "views": 8144,
+          "likes": 138,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lLv96KqnC7s/hqdefault.jpg",
           "durationSeconds": 524,
           "durationFormatted": "08:44",
-          "views": 2830,
-          "likes": 80,
+          "views": 3259,
+          "likes": 81,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -240,10 +240,10 @@
       "latestUpdateAt": "2026-04-04T16:34:36Z"
     },
     {
-      "clusterId": "bhaskar-हई",
-      "topic": "Bhaskar हुई",
+      "clusterId": "bhaskar-jee",
+      "topic": "Bhaskar JEE",
       "videoCount": 6,
-      "trendScore": 37.2,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1UReMVVytKQ/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 648,
+          "views": 689,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/usmr8fnhUaI/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 220,
+          "views": 278,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 33.5,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
@@ -339,23 +339,23 @@
           "thumbnail": "https://i.ytimg.com/vi/62rGHvnlZOA/hqdefault.jpg",
           "durationSeconds": 1523,
           "durationFormatted": "25:23",
-          "views": 12951,
+          "views": 13069,
           "likes": 180,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "i31PgQ7dMpY",
-          "title": "04 अप्रैल 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "04 अप्रैल 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-04-03T23:30:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/i31PgQ7dMpY/hqdefault.jpg",
-          "durationSeconds": 959,
-          "durationFormatted": "15:59",
-          "views": 383,
-          "likes": 2,
+          "videoId": "-xrhGV5XOzM",
+          "title": "CG Liquor Sales 2025-26: शराब बिक्री में टॉप गियर पर छत्तीसगढ़! 10 हजार करोड़ का आंकड़ा पार",
+          "description": "IBC24, Chhattisgarh Liquor Sales 2025-26: शराब बिक्री में टॉप गियर पर छत्तीसगढ़! 10 हजार ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-04T19:11:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/-xrhGV5XOzM/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 8572,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nz177L1lul4/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 217,
-          "likes": 6,
+          "views": 252,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -384,19 +384,19 @@
           "thumbnail": "https://i.ytimg.com/vi/C-jULRDzsGg/hqdefault.jpg",
           "durationSeconds": 1255,
           "durationFormatted": "20:55",
-          "views": 28,
+          "views": 29,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T15:39:35Z"
+      "latestUpdateAt": "2026-04-04T19:11:59Z"
     },
     {
       "clusterId": "bhaskar-भज",
       "topic": "Bhaskar भाजी",
       "videoCount": 4,
-      "trendScore": 31.7,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -415,6 +415,21 @@
         },
         {
           "index": 2,
+          "videoId": "GXo3FkoXcKc",
+          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास | CG Bhaskar",
+          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T15:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/GXo3FkoXcKc/hqdefault.jpg",
+          "durationSeconds": 81,
+          "durationFormatted": "01:21",
+          "views": 195,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "dPxcnuqP3ls",
           "title": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ज्यादातर लोग | CG Bhaskar",
           "description": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ...",
@@ -429,7 +444,7 @@
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "OfFOgT7zdzw",
           "title": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar",
           "description": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar ...",
@@ -438,23 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OfFOgT7zdzw/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 160,
+          "views": 179,
           "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "GXo3FkoXcKc",
-          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास | CG Bhaskar",
-          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T15:30:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/GXo3FkoXcKc/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 144,
-          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -465,7 +465,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 30.6,
+      "trendScore": 30.1,
       "topVideos": [
         {
           "index": 1,
@@ -477,7 +477,7 @@
           "thumbnail": "https://i.ytimg.com/vi/y2fX4sOavjM/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 3948,
+          "views": 5755,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -486,10 +486,94 @@
       "latestUpdateAt": "2026-04-04T16:39:16Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 6,
+      "trendScore": 30.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "CpyVPrHMHLk",
+          "title": "🔴LIVE : MP-CG News : बस्तर के विकास पर सियासत |  Latest News | Zee MPCG",
+          "description": "LIVE : MP-CG News : बस्तर के विकास पर सियासत | Latest News | Zee MPCG #Live #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-04T20:27:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/CpyVPrHMHLk/hqdefault.jpg",
+          "durationSeconds": 1735,
+          "durationFormatted": "28:55",
+          "views": 181,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "-naCLZOX_88",
+          "title": "🔴LIVE : Khabar Apne MP Ki : रतनजोत के बीज खाने से 4 बच्चे बीमार | Zee MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : रतनजोत के बीज खाने से 4 बच्चे बीमार | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-04T13:25:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/-naCLZOX_88/hqdefault.jpg",
+          "durationSeconds": 1446,
+          "durationFormatted": "24:06",
+          "views": 168,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "UcSaAVhEC-g",
+          "title": "🔴LIVE : MP - CG : Indore : हनी ट्रैप का खुलासा | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : Indore : हनी ट्रैप का खुलासा | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-04T09:24:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/UcSaAVhEC-g/hqdefault.jpg",
+          "durationSeconds": 1188,
+          "durationFormatted": "19:48",
+          "views": 145,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "VnmVsitXhOY",
+          "title": "🔴LIVE : Prime Time @9 :  समय दर्शन....वैश्विक संगम  | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : समय दर्शन....वैश्विक संगम | Latest News | Zee MPCG #live #primetime #mpnews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-04T15:31:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/VnmVsitXhOY/hqdefault.jpg",
+          "durationSeconds": 1262,
+          "durationFormatted": "21:02",
+          "views": 116,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "YdWCXnZXClU",
+          "title": "🔴LIVE : Mudda To Hai : इलाज पर सवाल.. कौन देगा जवाब ? | Zee MPCG",
+          "description": "LIVE : Mudda To Hai : इलाज पर सवाल.. कौन देगा जवाब ? | Zee MPCG #MuddatoHai #Madhyapradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-04T12:55:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/YdWCXnZXClU/hqdefault.jpg",
+          "durationSeconds": 1539,
+          "durationFormatted": "25:39",
+          "views": 87,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-04T20:27:52Z"
+    },
+    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 26.3,
+      "trendScore": 25.8,
       "topVideos": [
         {
           "index": 1,
@@ -501,7 +585,7 @@
           "thumbnail": "https://i.ytimg.com/vi/t3NEay-s6XU/hqdefault.jpg",
           "durationSeconds": 418,
           "durationFormatted": "06:58",
-          "views": 318,
+          "views": 383,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -516,8 +600,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bdNZDijKMes/hqdefault.jpg",
           "durationSeconds": 1621,
           "durationFormatted": "27:01",
-          "views": 104,
-          "likes": 4,
+          "views": 134,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -531,7 +615,7 @@
           "thumbnail": "https://i.ytimg.com/vi/31xP8B6h6tY/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 63,
+          "views": 84,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
