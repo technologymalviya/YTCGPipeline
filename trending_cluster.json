@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-04T16:51:32.139281Z",
-  "clusterCount": 10,
+  "generatedAt": "2026-04-04T19:00:10.762165Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 56,
-      "trendScore": 64.3,
+      "videoCount": 54,
+      "trendScore": 62.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/SmaA8F-x-YY/hqdefault.jpg",
           "durationSeconds": 1610,
           "durationFormatted": "26:50",
-          "views": 56496,
-          "likes": 535,
+          "views": 59538,
+          "likes": 543,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "oWCJ4xejAKc",
-          "title": "Iran Attack Israel : ईरान ने सेंट्रल इजराइल में मचाई तबाही, ग्राउंड रिपोर्ट ने सबको चौंकाया! | Trump",
-          "description": "Iran Attack on Israel: ईरान ने सेंट्रल इजराइल में मचाई तबाही, ग्राउंड रिपोर्ट ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-04T12:03:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/oWCJ4xejAKc/hqdefault.jpg",
-          "durationSeconds": 540,
-          "durationFormatted": "09:00",
-          "views": 27809,
-          "likes": 781,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "k6NaeHLaweQ",
           "title": "4 April 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
           "description": "4 April 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/k6NaeHLaweQ/hqdefault.jpg",
           "durationSeconds": 847,
           "durationFormatted": "14:07",
-          "views": 18504,
-          "likes": 202,
+          "views": 19241,
+          "likes": 203,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "bulrdk6rWNE",
           "title": "सावधान मार्केट में नकली टूथपेस्टआपके सभी दांत झड़ सकते है !",
           "description": "मिलावटखोरों को कानून का डर नहीं क्योंकि उन्हें पता है कि कुछ दिन बाद ...",
@@ -63,10 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/bulrdk6rWNE/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 16801,
-          "likes": 261,
+          "views": 17973,
+          "likes": 263,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "HLtfJUHa8v4",
+          "title": "MP Teachers News : TET अनिवार्यता पर दिग्विजय ने उठाए सवाल, CM मोहन को लिखा पत्र | Top News",
+          "description": "MP Teachers News : TET अनिवार्यता पर दिग्विजय ने उठाए सवाल, CM मोहन को लिखा ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-04T12:38:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/HLtfJUHa8v4/hqdefault.jpg",
+          "durationSeconds": 223,
+          "durationFormatted": "03:43",
+          "views": 8186,
+          "likes": 102,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/vJimGf-HWRs/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 5312,
-          "likes": 63,
+          "views": 5798,
+          "likes": 65,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-04T16:39:24Z"
+      "latestUpdateAt": "2026-04-04T17:45:04Z"
     },
     {
       "clusterId": "पलस-दरग",
       "topic": "पुलिस दुर्ग",
       "videoCount": 17,
-      "trendScore": 56.8,
+      "trendScore": 48.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,13 +102,43 @@
           "thumbnail": "https://i.ytimg.com/vi/cRE9HLrOH8o/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 10,
+          "views": 24,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "mO_WFPk3VK0",
+          "title": "Bhilai News: पुलिस का नशे पर बड़ा प्रहार! प्रतिबंधित दवाइयों के साथ 2 आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-04T12:23:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/mO_WFPk3VK0/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 13,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "rthFXWu28CM",
+          "title": "भिलाई: 10 साल से फरार नकबजनी का आरोपी गिरफ्तार, पुलिस को बड़ी सफलता",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-04T12:37:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/rthFXWu28CM/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "CIux1yg_Ffw",
           "title": "भिलाई: सोशल मीडिया पर आपत्तिजनक टिप्पणी करने वाला गिरफ्तार, पुलिस की सख्त कार्रवाई",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -123,7 +153,7 @@
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 5,
           "videoId": "PEAUdPUON8o",
           "title": "भिलाई में घरेलू विवाद में धारदार हथियार से हमला, पुलिस ने आरोपी को किया गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
@@ -136,36 +166,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "oOR4XpIlbsA",
-          "title": "दुर्ग में अतिक्रमण के खिलाफ सख्ती जारी, दुकानदारों को निगम की चेतावनी",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-04T12:33:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/oOR4XpIlbsA/hqdefault.jpg",
-          "durationSeconds": 72,
-          "durationFormatted": "01:12",
-          "views": 6,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "3TYDf3DIDfQ",
-          "title": "राजनांदगांव ट्रैफिक जाम: भारी वाहनों की लोडिंग-अनलोडिंग से शहर में दिक्कत",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-04T13:49:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/3TYDf3DIDfQ/hqdefault.jpg",
-          "durationSeconds": 526,
-          "durationFormatted": "08:46",
-          "views": 5,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-04-04T13:49:07Z"
@@ -173,21 +173,21 @@
     {
       "clusterId": "iran-war",
       "topic": "Iran War",
-      "videoCount": 6,
-      "trendScore": 41.4,
+      "videoCount": 4,
+      "trendScore": 38.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "u2oghEBVKuE",
-          "title": "America Israel Iran War : अब LPG की कोई कमी नहीं, हॉर्मुज पार कर आ गया एक और जहाज! Hormuz Strait",
-          "description": "America Israel Iran War : अब LPG की कोई कमी नहीं, हॉर्मुज पार कर आ गया एक और जहाज!",
+          "videoId": "Ldbskn69zPk",
+          "title": "Iran war news : ईरान युद्ध में दुनिया ने देखी भारत की ताकत... होर्मुज से निकले 8 भारतीय जहाज | N18G",
+          "description": "Iran war news : ईरान युद्ध में दुनिया ने देखी भारत की ताकत... होर्मुज से निकले ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-04T11:46:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/u2oghEBVKuE/hqdefault.jpg",
-          "durationSeconds": 286,
-          "durationFormatted": "04:46",
-          "views": 4916,
-          "likes": 52,
+          "publishedAt": "2026-04-04T16:34:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ldbskn69zPk/hqdefault.jpg",
+          "durationSeconds": 524,
+          "durationFormatted": "08:44",
+          "views": 12643,
+          "likes": 168,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,28 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/AEGecbRp6Yo/hqdefault.jpg",
           "durationSeconds": 213,
           "durationFormatted": "03:33",
-          "views": 4626,
-          "likes": 125,
+          "views": 7206,
+          "likes": 136,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "Ldbskn69zPk",
-          "title": "Iran war news : ईरान युद्ध में दुनिया ने देखी भारत की ताकत... होर्मुज से निकले 8 भारतीय जहाज | N18G",
-          "description": "Iran war news : ईरान युद्ध में दुनिया ने देखी भारत की ताकत... होर्मुज से निकले ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-04T16:34:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/Ldbskn69zPk/hqdefault.jpg",
-          "durationSeconds": 524,
-          "durationFormatted": "08:44",
-          "views": 2205,
-          "likes": 38,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "lLv96KqnC7s",
           "title": "Iran Israel War: Hormuz के बाद &#39;बाब अल-मंदेब&#39; संकट ! अमेरिका को ईरान का नया अल्टीमेटम? | N18G",
           "description": "Iran Israel War: Hormuz के बाद 'बाब अल-मंदेब' संकट ! अमेरिका को ईरान का नया ...",
@@ -231,13 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lLv96KqnC7s/hqdefault.jpg",
           "durationSeconds": 524,
           "durationFormatted": "08:44",
-          "views": 1701,
-          "likes": 71,
+          "views": 2830,
+          "likes": 80,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "rGFtlDmabPk",
           "title": "Iran America War Update :  Strait of Hormuz से भारत के लिए आई बहुत बड़ी खबर Trump | Khamenei | N18G",
           "description": "Iran America War Update : Strait of Hormuz से भारत के लिए आई बहुत बड़ी खबर Trump | Khamenei | N18G ...",
@@ -246,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rGFtlDmabPk/hqdefault.jpg",
           "durationSeconds": 597,
           "durationFormatted": "09:57",
-          "views": 1154,
-          "likes": 19,
+          "views": 1907,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +243,7 @@
       "clusterId": "bhaskar-हई",
       "topic": "Bhaskar हुई",
       "videoCount": 6,
-      "trendScore": 38.7,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +255,13 @@
           "thumbnail": "https://i.ytimg.com/vi/TI-rNC9NAzI/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 588,
-          "likes": 21,
+          "views": 725,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 2,
-          "videoId": "gLormbS6j_A",
-          "title": "मरीज़ों पर गिरी अस्पताल की छत, 4 गंभीर रूप से घायल | CG Bhaskar",
-          "description": "मरीज़ों पर गिरी अस्पताल की छत, 4 गंभीर रूप से घायल | CG Bhaskar Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T13:15:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/gLormbS6j_A/hqdefault.jpg",
-          "durationSeconds": 108,
-          "durationFormatted": "01:48",
-          "views": 479,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "1UReMVVytKQ",
           "title": "मदिरा हुई सस्ती!  | CG Bhaskar",
           "description": "मदिरा हुई सस्ती! Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx Follow us on ...",
@@ -300,8 +270,23 @@
           "thumbnail": "https://i.ytimg.com/vi/1UReMVVytKQ/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 465,
-          "likes": 13,
+          "views": 648,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "gLormbS6j_A",
+          "title": "मरीज़ों पर गिरी अस्पताल की छत, 4 गंभीर रूप से घायल | CG Bhaskar",
+          "description": "मरीज़ों पर गिरी अस्पताल की छत, 4 गंभीर रूप से घायल | CG Bhaskar Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T13:15:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/gLormbS6j_A/hqdefault.jpg",
+          "durationSeconds": 108,
+          "durationFormatted": "01:48",
+          "views": 530,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_jgnqJz_ilc/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 460,
-          "likes": 18,
+          "views": 490,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/usmr8fnhUaI/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 102,
-          "likes": 5,
+          "views": 220,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +327,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 34.5,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/62rGHvnlZOA/hqdefault.jpg",
           "durationSeconds": 1523,
           "durationFormatted": "25:23",
-          "views": 12090,
-          "likes": 179,
+          "views": 12951,
+          "likes": 180,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/i31PgQ7dMpY/hqdefault.jpg",
           "durationSeconds": 959,
           "durationFormatted": "15:59",
-          "views": 310,
+          "views": 383,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -384,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nz177L1lul4/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 160,
-          "likes": 3,
+          "views": 217,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -399,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/C-jULRDzsGg/hqdefault.jpg",
           "durationSeconds": 1255,
           "durationFormatted": "20:55",
-          "views": 19,
+          "views": 28,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -408,94 +393,10 @@
       "latestUpdateAt": "2026-04-04T15:39:35Z"
     },
     {
-      "clusterId": "weather-अलरट",
-      "topic": "Weather अलर्ट",
-      "videoCount": 5,
-      "trendScore": 34.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "9S6VOb40uuU",
-          "title": "MP WEATHER:  मौसम का डबल अटैक: 45 जिलों में अलर्ट जारी, 7 अप्रैल तक बिगड़ा रहेगा मौसम",
-          "description": "मध्यप्रदेश में मौसम का डबल अटैक जारी है। पिछले 4 दिनों से आंधी-बारिश ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-04T02:12:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/9S6VOb40uuU/hqdefault.jpg",
-          "durationSeconds": 43,
-          "durationFormatted": "00:43",
-          "views": 4360,
-          "likes": 43,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "tpuBpnBrcsA",
-          "title": "MP-CG Weather : आंधी, वज्रपात और ओलावृष्टि की चेतावनी, येलो अलर्ट जारी",
-          "description": "मध्य प्रदेश और छत्तीसगढ़ में मौसम का डबल अटैक जारी। 45 जिलों में ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-04T04:41:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/tpuBpnBrcsA/hqdefault.jpg",
-          "durationSeconds": 449,
-          "durationFormatted": "07:29",
-          "views": 2458,
-          "likes": 47,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "4562wZQelaQ",
-          "title": "CG WEATHER :  5 दिन मौसम खराब,  तेज हवा, बारिश और वज्रपात का अलर्ट",
-          "description": "छत्तीसगढ़ में मौसम ने करवट ले ली है। अगले 5 दिनों तक प्रदेश के कई ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-04T02:30:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/4562wZQelaQ/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 947,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "sxDKkMeZvio",
-          "title": "MP Weather Alert: 45 जिलों में आंधी-बारिश का अलर्ट, Farmers पर आई आफत! Hailstorm | Top News",
-          "description": "MP Weather Alert: MP के 45 जिलों में आंधी-बारिश का अलर्ट, Farmers पर आई आफत! Hailstorm | Top ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-04T14:07:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/sxDKkMeZvio/hqdefault.jpg",
-          "durationSeconds": 391,
-          "durationFormatted": "06:31",
-          "views": 275,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "v6WIgfCbpdo",
-          "title": "Weather Alert: कहीं आंधी-Rain तो कहीं गिरेंगे ओले, MP में 42 जिलों में अलर्ट! Hailstorm | Top News",
-          "description": "Weather Alert: कहीं आंधी-Rain तो कहीं गिरेंगे ओले, MP में 42 जिलों में अलर्ट!",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-04T15:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/v6WIgfCbpdo/hqdefault.jpg",
-          "durationSeconds": 1588,
-          "durationFormatted": "26:28",
-          "views": 46,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-04T15:30:06Z"
-    },
-    {
       "clusterId": "bhaskar-भज",
       "topic": "Bhaskar भाजी",
       "videoCount": 4,
-      "trendScore": 32.1,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -507,13 +408,28 @@
           "thumbnail": "https://i.ytimg.com/vi/omm3HGjVHnQ/hqdefault.jpg",
           "durationSeconds": 731,
           "durationFormatted": "12:11",
-          "views": 532,
-          "likes": 9,
+          "views": 569,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "dPxcnuqP3ls",
+          "title": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ज्यादातर लोग | CG Bhaskar",
+          "description": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T03:30:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/dPxcnuqP3ls/hqdefault.jpg",
+          "durationSeconds": 342,
+          "durationFormatted": "05:42",
+          "views": 180,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "OfFOgT7zdzw",
           "title": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar",
           "description": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar ...",
@@ -528,21 +444,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "dPxcnuqP3ls",
-          "title": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ज्यादातर लोग | CG Bhaskar",
-          "description": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T03:30:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/dPxcnuqP3ls/hqdefault.jpg",
-          "durationSeconds": 342,
-          "durationFormatted": "05:42",
-          "views": 135,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 4,
           "videoId": "GXo3FkoXcKc",
           "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास | CG Bhaskar",
@@ -552,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GXo3FkoXcKc/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 76,
-          "likes": 4,
+          "views": 144,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -561,94 +462,34 @@
       "latestUpdateAt": "2026-04-04T15:30:15Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 29.2,
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 30.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "CpyVPrHMHLk",
-          "title": "🔴LIVE : MP-CG News : बस्तर के विकास पर सियासत |  Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News : बस्तर के विकास पर सियासत | Latest News | Zee MPCG #Live #MPNews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-04T07:54:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/CpyVPrHMHLk/hqdefault.jpg",
-          "durationSeconds": 1738,
-          "durationFormatted": "28:58",
-          "views": 173,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "UcSaAVhEC-g",
-          "title": "🔴LIVE : MP - CG : Indore : हनी ट्रैप का खुलासा | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : Indore : हनी ट्रैप का खुलासा | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-04T09:24:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/UcSaAVhEC-g/hqdefault.jpg",
-          "durationSeconds": 1188,
-          "durationFormatted": "19:48",
-          "views": 140,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "YdWCXnZXClU",
-          "title": "🔴LIVE : Mudda To Hai : इलाज पर सवाल.. कौन देगा जवाब ? | Zee MPCG",
-          "description": "LIVE : Mudda To Hai : इलाज पर सवाल.. कौन देगा जवाब ? | Zee MPCG #MuddatoHai #Madhyapradesh ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-04T12:55:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/YdWCXnZXClU/hqdefault.jpg",
-          "durationSeconds": 1539,
-          "durationFormatted": "25:39",
-          "views": 82,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "-naCLZOX_88",
-          "title": "🔴LIVE : Khabar Apne MP Ki : रतनजोत के बीज खाने से 4 बच्चे बीमार | Zee MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : रतनजोत के बीज खाने से 4 बच्चे बीमार | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-04T13:25:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/-naCLZOX_88/hqdefault.jpg",
-          "durationSeconds": 1446,
-          "durationFormatted": "24:06",
-          "views": 79,
+          "videoId": "y2fX4sOavjM",
+          "title": "AAP vs Raghav Chadha: &#39;घायल हूं इसलिए घातक हूं&#39;। फिल्मी अंदाज में राघव चड्ढा ने AAP को दिया जवाब",
+          "description": "IBC24, AAP vs Raghav Chadha: 'घायल हूं इसलिए घातक हूं'। फिल्मी अंदाज में राघव ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-04T16:39:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/y2fX4sOavjM/hqdefault.jpg",
+          "durationSeconds": 94,
+          "durationFormatted": "01:34",
+          "views": 3948,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "VnmVsitXhOY",
-          "title": "🔴LIVE : Prime Time @9 :  समय दर्शन....वैश्विक संगम  | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : समय दर्शन....वैश्विक संगम | Latest News | Zee MPCG #live #primetime #mpnews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-04T15:31:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/VnmVsitXhOY/hqdefault.jpg",
-          "durationSeconds": 1262,
-          "durationFormatted": "21:02",
-          "views": 40,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T15:31:00Z"
+      "latestUpdateAt": "2026-04-04T16:39:16Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 27.4,
+      "trendScore": 26.3,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +516,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bdNZDijKMes/hqdefault.jpg",
           "durationSeconds": 1621,
           "durationFormatted": "27:01",
-          "views": 87,
+          "views": 104,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -690,37 +531,13 @@
           "thumbnail": "https://i.ytimg.com/vi/31xP8B6h6tY/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 0,
+          "views": 63,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-04-04T12:49:20Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 26.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "y2fX4sOavjM",
-          "title": "AAP vs Raghav Chadha: &#39;घायल हूं इसलिए घातक हूं&#39;। फिल्मी अंदाज में राघव चड्ढा ने AAP को दिया जवाब",
-          "description": "IBC24, AAP vs Raghav Chadha: 'घायल हूं इसलिए घातक हूं'। फिल्मी अंदाज में राघव ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-04T16:39:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/y2fX4sOavjM/hqdefault.jpg",
-          "durationSeconds": 94,
-          "durationFormatted": "01:34",
-          "views": 188,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-04T16:39:16Z"
     }
   ]
 }
