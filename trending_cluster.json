@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-04T08:56:18.048256Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-04-04T10:51:28.510186Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 65,
-      "trendScore": 63.0,
+      "videoCount": 68,
+      "trendScore": 62.8,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/SmaA8F-x-YY/hqdefault.jpg",
           "durationSeconds": 1610,
           "durationFormatted": "26:50",
-          "views": 42736,
-          "likes": 460,
+          "views": 48292,
+          "likes": 482,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "O3nC5TXE9Uw",
-          "title": "Bilaspur  Case | Ground Report में चौंकाने वाला खुलासा | Pranshu |",
-          "description": "Bilaspur Case | Ground Report में चौंकाने वाला खुलासा | Pranshu | Report/Story: Pranshu Kshatria Video ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-03T10:30:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/O3nC5TXE9Uw/hqdefault.jpg",
-          "durationSeconds": 1431,
-          "durationFormatted": "23:51",
-          "views": 17513,
-          "likes": 327,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "k6NaeHLaweQ",
           "title": "4 April 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
           "description": "4 April 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/k6NaeHLaweQ/hqdefault.jpg",
           "durationSeconds": 847,
           "durationFormatted": "14:07",
-          "views": 13884,
-          "likes": 182,
+          "views": 15846,
+          "likes": 184,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "Bw3Z2v64mXg",
           "title": "जनता के हीरो बन चुके Raghav Chadha को हटाना AAP को पड़ सकता है महंगा | राघव ही डटे | @tirandaj ​",
           "description": "aap #raghavchadha #rajyasabha #आमआदमिपार्टी #राघवचड्ढा #राज्यसभाउपनेता #aamaadmi ...",
@@ -63,10 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/Bw3Z2v64mXg/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 11489,
-          "likes": 153,
+          "views": 11706,
+          "likes": 156,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "bulrdk6rWNE",
+          "title": "सावधान मार्केट में नकली टूथपेस्टआपके सभी दांत झड़ सकते है !",
+          "description": "मिलावटखोरों को कानून का डर नहीं क्योंकि उन्हें पता है कि कुछ दिन बाद ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-04-04T07:07:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/bulrdk6rWNE/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 8306,
+          "likes": 188,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/wgzx_tGGjIk/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 4983,
-          "likes": 145,
+          "views": 5708,
+          "likes": 157,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T08:44:22Z"
+      "latestUpdateAt": "2026-04-04T10:45:16Z"
     },
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 11,
-      "trendScore": 42.3,
+      "videoCount": 10,
+      "trendScore": 41.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/9pqXr2NtxF4/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 4759,
-          "likes": 72,
+          "views": 7338,
+          "likes": 93,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "p4rJzU6CqMc",
-          "title": "सोना-चांदी हुआ बहुत सस्ता, आज के ताजा भाव जानकर आप भी चौंक जाएंगे !",
-          "description": "अधिक जानकारी के लिए पूरी खबर पढ़ें: ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-03T09:35:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/p4rJzU6CqMc/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 1067,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "k2Nj4Qgjv78",
           "title": "#shorts : ऐसा देश जहां बड़ा पेट सम्मान की निशानी! अजीब परंपरा जानकर रह जाएंगे हैरान",
           "description": "shorts : ऐसा देश जहां बड़ा पेट सम्मान की निशानी! अजीब परंपरा जानकर रह ...",
@@ -132,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/k2Nj4Qgjv78/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 999,
-          "likes": 10,
+          "views": 1783,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "Xvu0f0E5MiE",
           "title": "#shorts : बिना कनेक्शन मिलेगा गैस सिलेंडर! आधार दिखाओ और तुरंत  LPG पाओ | बड़ी सुविधा | Zee MPCG",
           "description": "shorts : बिना कनेक्शन मिलेगा गैस सिलेंडर! आधार दिखाओ और तुरंत LPG पाओ ...",
@@ -147,13 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Xvu0f0E5MiE/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 806,
-          "likes": 12,
+          "views": 1087,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "xCoMWc-ByaY",
           "title": "#shorts : “80% पाकिस्तानी Gay हैं?” कराची की ट्रांसजेंडर एक्टिविस्ट का बड़ा दावा",
           "description": "shorts : “80% पाकिस्तानी Gay हैं?” कराची की ट्रांसजेंडर एक्टिविस्ट का बड़ा ...",
@@ -162,106 +147,37 @@
           "thumbnail": "https://i.ytimg.com/vi/xCoMWc-ByaY/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 323,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-04T08:01:21Z"
-    },
-    {
-      "clusterId": "bhaskar-भज",
-      "topic": "Bhaskar भाजी",
-      "videoCount": 4,
-      "trendScore": 42.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "vFTkix-XjyQ",
-          "title": "दुनिया में जो रह गए अकेले...सुनिए इस मोची की कहानी | CG Bhaskar",
-          "description": "भिलाई और यहां के लोगों को करीब से जानने के लिए हमने एक प्रयास किया ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-03T09:30:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/vFTkix-XjyQ/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 830,
-          "likes": 68,
+          "views": 511,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
-          "videoId": "omm3HGjVHnQ",
-          "title": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी क्यों है खास। मयंक | CG Bhaskar",
-          "description": "सबसे महंगी बोहार भाजी में छिपा है सेहत का राज, जानें यह मौसमी भाजी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T06:00:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/omm3HGjVHnQ/hqdefault.jpg",
-          "durationSeconds": 731,
-          "durationFormatted": "12:11",
-          "views": 129,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "dPxcnuqP3ls",
-          "title": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ज्यादातर लोग | CG Bhaskar",
-          "description": "बुढ़ा गार्डन में सुबह-सुबह CG BHASKAR की दस्तक, सेहत बनाते मिले ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T03:30:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/dPxcnuqP3ls/hqdefault.jpg",
-          "durationSeconds": 342,
-          "durationFormatted": "05:42",
-          "views": 82,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "OfFOgT7zdzw",
-          "title": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar",
-          "description": "कैंसर से जंग में ऐतिहासिक सफलता, टी-सेल्स फिर से होंगे एक्टिव | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-04T05:00:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/OfFOgT7zdzw/hqdefault.jpg",
-          "durationSeconds": 98,
-          "durationFormatted": "01:38",
-          "views": 73,
+          "index": 5,
+          "videoId": "mZK4Lm3DNoo",
+          "title": "🔴LIVE: धर्म नगरी वाराणसी में महानाट्य सम्राट विक्रमादित्य का ऐतिहासिक मंचन| Zee MPCG",
+          "description": "LIVE: धर्म नगरी वाराणसी में महानाट्य सम्राट विक्रमादित्य का ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-04T03:43:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/mZK4Lm3DNoo/hqdefault.jpg",
+          "durationSeconds": 2741,
+          "durationFormatted": "45:41",
+          "views": 306,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T06:00:39Z"
+      "latestUpdateAt": "2026-04-04T09:24:36Z"
     },
     {
-      "clusterId": "दरग-हथयर",
-      "topic": "दुर्ग हथियार",
+      "clusterId": "यवक-hतय",
+      "topic": "युवक H.त्या",
       "videoCount": 15,
-      "trendScore": 38.1,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "oLkNcu0_WuQ",
-          "title": "दुर्ग में धारदार हथियार से हमला, पुलिस ने 7 आरोपियों को गिरफ्तार कर हथियार और वाहन जप्त किए",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-03T12:09:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/oLkNcu0_WuQ/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 65,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "hWyGEFT0OFY",
           "title": "राजनांदगांव-कन्हारपुरी तालाब में युवक की डूबने से मौ.T, पुलिस जांच में जुटी",
           "description": "chhattisgarhnewsstatelivenews #madhyapradehnews #rajnandgaon .",
@@ -270,28 +186,28 @@
           "thumbnail": "https://i.ytimg.com/vi/hWyGEFT0OFY/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 43,
+          "views": 44,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 3,
-          "videoId": "oRf9Qm34TSQ",
-          "title": "दुर्ग: सी-मार्ट के पास हथियार लेकर घूम रहा था युवक, पुलिस ने किया गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "index": 2,
+          "videoId": "oa_KS-R0YN8",
+          "title": "बालोद में मंदिर फंड विवाद में खू.नी झड़प, युवक की चाकू मारकर H.त्या, 5 हिरासत में",
+          "description": "chhattisgarhnews #madhyapradehnews #balod .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-03T12:08:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/oRf9Qm34TSQ/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 37,
+          "publishedAt": "2026-04-03T13:45:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/oa_KS-R0YN8/hqdefault.jpg",
+          "durationSeconds": 113,
+          "durationFormatted": "01:53",
+          "views": 42,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "jyezHsl9mIQ",
           "title": "दुर्ग: वाहन मालिकों से ठगी करने वाले आरोपी गिरफ्तार, 48 घंटे में गाड़ियां बरामद",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -300,13 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jyezHsl9mIQ/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 36,
+          "views": 39,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "CqLjRaSWhxE",
           "title": "जांजगीर-चांपा- खपरी डबल मर्ड.R केस का खुलासा, शादी में फोटोग्राफी करने वाले ने रची साजिश",
           "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
@@ -315,19 +231,142 @@
           "thumbnail": "https://i.ytimg.com/vi/CqLjRaSWhxE/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 34,
+          "views": 36,
           "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "bQtg6bXzMCI",
+          "title": "राजनांदगांव में संपत्तिकर पर बड़ी राहत, 30 अप्रैल तक बिना जुर्माना टैक्स जमा का मौका",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-03T13:49:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/bQtg6bXzMCI/hqdefault.jpg",
+          "durationSeconds": 82,
+          "durationFormatted": "01:22",
+          "views": 10,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-04T08:52:56Z"
+      "latestUpdateAt": "2026-04-04T10:39:17Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 2,
+      "trendScore": 36.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "jihuuxYtVP8",
+          "title": "Raja Raghuvanshi Mother Viral Video : मां के गोद में राजा, खुशी से झुम उठा रघुवंशी परिवार | Sonam",
+          "description": "Raja Raghuvanshi Mother Viral Video : मां के गोद में राजा, खुशी से झुम उठा रघुवंशी ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-04T08:01:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/jihuuxYtVP8/hqdefault.jpg",
+          "durationSeconds": 4,
+          "durationFormatted": "00:04",
+          "views": 19378,
+          "likes": 150,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "t3NEay-s6XU",
+          "title": "Christian लोग Good Friday क्यों मनाते हैं ? Bhilai में निकली रैली || Bharti Media || Sourabh Singh ",
+          "description": "Christian लोग Good Friday क्यों मनाते हैं ? Bhilai में निकली रैली || Bharti Media || Sourabh Singh ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-04-04T09:33:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/t3NEay-s6XU/hqdefault.jpg",
+          "durationSeconds": 418,
+          "durationFormatted": "06:58",
+          "views": 56,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-04T09:33:45Z"
+    },
+    {
+      "clusterId": "chhattisgarh-samachar",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 4,
+      "trendScore": 33.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "62rGHvnlZOA",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 4 अप्रैल 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 4 अप्रैल 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-04-03T23:29:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/62rGHvnlZOA/hqdefault.jpg",
+          "durationSeconds": 1523,
+          "durationFormatted": "25:23",
+          "views": 10086,
+          "likes": 162,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "H_4WsCuNV60",
+          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
+          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-04T01:45:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/H_4WsCuNV60/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 982,
+          "likes": 6,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 3,
+          "videoId": "i31PgQ7dMpY",
+          "title": "04 अप्रैल 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "04 अप्रैल 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-04-03T23:30:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/i31PgQ7dMpY/hqdefault.jpg",
+          "durationSeconds": 959,
+          "durationFormatted": "15:59",
+          "views": 219,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "fMQlffRP7mE",
+          "title": "🔴LIVE, MPCG News 04 April 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-04T05:38:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/fMQlffRP7mE/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 4,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        }
+      ],
+      "latestUpdateAt": "2026-04-04T05:38:40Z"
     },
     {
       "clusterId": "weather-मसम",
       "topic": "WEATHER मौसम",
       "videoCount": 4,
-      "trendScore": 34.5,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +378,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9S6VOb40uuU/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 2456,
-          "likes": 36,
+          "views": 3264,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,8 +393,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tpuBpnBrcsA/hqdefault.jpg",
           "durationSeconds": 449,
           "durationFormatted": "07:29",
-          "views": 1096,
-          "likes": 31,
+          "views": 1676,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +408,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4562wZQelaQ/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 329,
+          "views": 474,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_P2gRc33uVo/hqdefault.jpg",
           "durationSeconds": 676,
           "durationFormatted": "11:16",
-          "views": 88,
+          "views": 96,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -393,34 +432,10 @@
       "latestUpdateAt": "2026-04-04T05:30:21Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 34.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "jihuuxYtVP8",
-          "title": "Raja Raghuvanshi Mother Viral Video : मां के गोद में राजा, खुशी से झुम उठा रघुवंशी परिवार | Sonam",
-          "description": "Raja Raghuvanshi Mother Viral Video : मां के गोद में राजा, खुशी से झुम उठा रघुवंशी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-04T08:01:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/jihuuxYtVP8/hqdefault.jpg",
-          "durationSeconds": 4,
-          "durationFormatted": "00:04",
-          "views": 4535,
-          "likes": 50,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-04T08:01:58Z"
-    },
-    {
       "clusterId": "bhaskar-otp",
       "topic": "Bhaskar OTP",
       "videoCount": 4,
-      "trendScore": 28.4,
+      "trendScore": 30.0,
       "topVideos": [
         {
           "index": 1,
@@ -432,8 +447,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_xgsvc__pHM/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 912,
-          "likes": 14,
+          "views": 953,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -454,21 +469,6 @@
         },
         {
           "index": 3,
-          "videoId": "07IsBxLWPjo",
-          "title": "रद्द 14 ट्रेनें फिर शुरू, यात्रियों को राहत | CG Bhaskar",
-          "description": "रद्द 14 ट्रेनें फिर शुरू, यात्रियों को राहत Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-03T10:30:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/07IsBxLWPjo/hqdefault.jpg",
-          "durationSeconds": 38,
-          "durationFormatted": "00:38",
-          "views": 639,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "-NFHGP2iPfU",
           "title": "100% टैरिफ से भारत को राहत या चुनौती?",
           "description": "100% टैरिफ से भारत को राहत या चुनौती? Join our Whatsapp Group ...",
@@ -477,37 +477,28 @@
           "thumbnail": "https://i.ytimg.com/vi/-NFHGP2iPfU/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 488,
+          "views": 489,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "_jgnqJz_ilc",
+          "title": "नासिक में कुएं में गिरी कार, 6 बच्चों समेत 9 की मौT",
+          "description": "नासिक में कुएं में गिरी कार, 6 बच्चों समेत 9 की मौT Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-04T10:01:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/_jgnqJz_ilc/hqdefault.jpg",
+          "durationSeconds": 99,
+          "durationFormatted": "01:39",
+          "views": 102,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-03T13:31:10Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 6.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "T2aygW58qoE",
-          "title": "Raipur News : हरियाणवी संस्कृति पर आधारित फिल्म सूरज लव मीनाक्षी रिलीज",
-          "description": "Suraj Love Meenakshi” एक हरियाणवी संस्कृति पर आधारित फिल्म है, जो दो युवाओं की ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-03T13:31:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/T2aygW58qoE/hqdefault.jpg",
-          "durationSeconds": 92,
-          "durationFormatted": "01:32",
-          "views": 0,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-03T13:31:35Z"
+      "latestUpdateAt": "2026-04-04T10:01:02Z"
     }
   ]
 }
