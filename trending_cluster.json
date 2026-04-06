@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-06T20:53:03.996452Z",
+  "generatedAt": "2026-04-06T22:54:20.093867Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 73,
-      "trendScore": 60.2,
+      "trendScore": 59.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VtbAmm-2_vo/hqdefault.jpg",
           "durationSeconds": 1508,
           "durationFormatted": "25:08",
-          "views": 24153,
-          "likes": 308,
+          "views": 24189,
+          "likes": 309,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aS2k7EpKkQI/hqdefault.jpg",
           "durationSeconds": 2607,
           "durationFormatted": "43:27",
-          "views": 12106,
-          "likes": 186,
+          "views": 12569,
+          "likes": 188,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/weSCQDVTkbY/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 3919,
-          "likes": 34,
+          "views": 4496,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UmTWw289-1g/hqdefault.jpg",
           "durationSeconds": 41621,
           "durationFormatted": "11:33:41",
-          "views": 3850,
+          "views": 3867,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -90,7 +90,7 @@
       "clusterId": "jogi-amit",
       "topic": "Jogi Amit",
       "videoCount": 17,
-      "trendScore": 50.2,
+      "trendScore": 49.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q2AC1J_UqGM/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 12180,
+          "views": 12309,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-jtlXhesAGg/hqdefault.jpg",
           "durationSeconds": 572,
           "durationFormatted": "09:32",
-          "views": 11812,
-          "likes": 331,
+          "views": 12205,
+          "likes": 335,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WFb-B5BFDW0/hqdefault.jpg",
           "durationSeconds": 10,
           "durationFormatted": "00:10",
-          "views": 4364,
+          "views": 5256,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/i7ZxzjqbrUM/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 4016,
+          "views": 4065,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ugW2xvJJAW4/hqdefault.jpg",
           "durationSeconds": 905,
           "durationFormatted": "15:05",
-          "views": 2458,
-          "likes": 71,
+          "views": 2558,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -173,8 +173,8 @@
     {
       "clusterId": "iran-israel",
       "topic": "Iran Israel",
-      "videoCount": 7,
-      "trendScore": 42.5,
+      "videoCount": 6,
+      "trendScore": 40.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/A7qgMl0e4Sw/hqdefault.jpg",
           "durationSeconds": 1396,
           "durationFormatted": "23:16",
-          "views": 14007,
-          "likes": 263,
+          "views": 14281,
+          "likes": 264,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EX4lDCqrHP0/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 8734,
-          "likes": 44,
+          "views": 9323,
+          "likes": 45,
           "videoType": "LIVE",
           "genre": "Live"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2vPcZPV-vBM/hqdefault.jpg",
           "durationSeconds": 487,
           "durationFormatted": "08:07",
-          "views": 7900,
+          "views": 8068,
           "likes": 130,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kS5SvhchUf8/hqdefault.jpg",
           "durationSeconds": 537,
           "durationFormatted": "08:57",
-          "views": 6187,
-          "likes": 178,
+          "views": 6332,
+          "likes": 179,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tVBDtM2uHww/hqdefault.jpg",
           "durationSeconds": 305,
           "durationFormatted": "05:05",
-          "views": 5419,
-          "likes": 159,
+          "views": 5914,
+          "likes": 161,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-bjp",
       "topic": "Bhaskar BJP",
       "videoCount": 10,
-      "trendScore": 40.0,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9tvKsAOIipo/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 2202,
-          "likes": 44,
+          "views": 2230,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yuiIV3zXWAE/hqdefault.jpg",
           "durationSeconds": 144,
           "durationFormatted": "02:24",
-          "views": 1422,
+          "views": 1425,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/i7BXHGSAxGg/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 1145,
+          "views": 1143,
           "likes": 43,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/s7nejc0YiCQ/hqdefault.jpg",
           "durationSeconds": 163,
           "durationFormatted": "02:43",
-          "views": 632,
+          "views": 663,
           "likes": 25,
           "videoType": "VOD",
           "genre": "Crime"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MB44j5B6Ak8/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 554,
+          "views": 568,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 39.5,
+      "trendScore": 38.6,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rc4okshslqA/hqdefault.jpg",
           "durationSeconds": 631,
           "durationFormatted": "10:31",
-          "views": 474,
+          "views": 469,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4CXaMM_3nXw/hqdefault.jpg",
           "durationSeconds": 553,
           "durationFormatted": "09:13",
-          "views": 274,
+          "views": 277,
           "likes": 26,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gQauw2z0cts/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 72,
+          "views": 73,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ns4PatEnNr8/hqdefault.jpg",
           "durationSeconds": 311,
           "durationFormatted": "05:11",
-          "views": 35,
+          "views": 36,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -410,8 +410,8 @@
     {
       "clusterId": "अलग-आरप",
       "topic": "अलग आरोपी",
-      "videoCount": 16,
-      "trendScore": 37.8,
+      "videoCount": 15,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
@@ -460,21 +460,6 @@
         },
         {
           "index": 4,
-          "videoId": "9kGU2hsxMLk",
-          "title": "छुरिया: बिहान समूह का वार्षिक अधिवेशन, महिलाओं ने दिखाई भागीदारी और उत्साह",
-          "description": "chhattisgarhnews #madhyapradehnews #chhuriyanews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-06T08:42:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/9kGU2hsxMLk/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 20,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "-l0QeWDBLvo",
           "title": "दुर्ग: पद्मनाभपुर पुलिस की बड़ी कार्रवाई, अवैध शराब बेचते आरोपी गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -483,10 +468,25 @@
           "thumbnail": "https://i.ytimg.com/vi/-l0QeWDBLvo/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 15,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "eU9GkOAHgzQ",
+          "title": "खैरागढ़ में भाजपा स्थापना दिवस समारोह, संगठन को मजबूत बनाने का आह्वान",
+          "description": "chhattisgarhnews #madhyapradehnews #khairagarh .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-06T13:44:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/eU9GkOAHgzQ/hqdefault.jpg",
+          "durationSeconds": 64,
+          "durationFormatted": "01:04",
+          "views": 10,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-04-06T13:45:58Z"
@@ -494,8 +494,8 @@
     {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
-      "videoCount": 6,
-      "trendScore": 33.1,
+      "videoCount": 7,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A-63q3uI2cQ/hqdefault.jpg",
           "durationSeconds": 1584,
           "durationFormatted": "26:24",
-          "views": 13273,
+          "views": 13277,
           "likes": 204,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z5-kaoqoF-w/hqdefault.jpg",
           "durationSeconds": 851,
           "durationFormatted": "14:11",
-          "views": 1016,
+          "views": 1015,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gm1tW_3xfck/hqdefault.jpg",
           "durationSeconds": 945,
           "durationFormatted": "15:45",
-          "views": 633,
+          "views": 650,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QlDpAyRgJqc/hqdefault.jpg",
           "durationSeconds": 895,
           "durationFormatted": "14:55",
-          "views": 628,
+          "views": 648,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 4,
-      "trendScore": 31.1,
+      "trendScore": 30.0,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tYqexEUuFq4/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 1545,
+          "views": 1572,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MhsKmCHbuwg/hqdefault.jpg",
           "durationSeconds": 1585,
           "durationFormatted": "26:25",
-          "views": 180,
+          "views": 189,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BS7-8xJwJAs/hqdefault.jpg",
           "durationSeconds": 1352,
           "durationFormatted": "22:32",
-          "views": 52,
+          "views": 120,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -648,7 +648,7 @@
       "clusterId": "कय-gulab",
       "topic": "क्या Gulab",
       "videoCount": 5,
-      "trendScore": 29.5,
+      "trendScore": 28.7,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fpLlppcxck4/hqdefault.jpg",
           "durationSeconds": 21,
           "durationFormatted": "00:21",
-          "views": 1618,
+          "views": 1649,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eBvnZ_vPiiI/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 634,
+          "views": 646,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -690,13 +690,28 @@
           "thumbnail": "https://i.ytimg.com/vi/nMyMpF767-A/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 443,
+          "views": 468,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "JNB3Z26EcKc",
+          "title": "चिरमिरी में रेत का अवैध कारोबार कब से चल रहा है ?",
+          "description": "चिरमिरी में रेत का अवैध कारोबार कब से चल रहा है ? #inh24x7news #Samvad2026 ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-06T12:22:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/JNB3Z26EcKc/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 168,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "8mwqyLWGnLQ",
           "title": "महापौर ने अपने कामकाज के बारे में क्या कहा ?",
           "description": "महापौर ने अपने कामकाज के बारे में क्या कहा ? #inh24x7news #Samvad2026 ...",
@@ -709,30 +724,15 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "JNB3Z26EcKc",
-          "title": "चिरमिरी में रेत का अवैध कारोबार कब से चल रहा है ?",
-          "description": "चिरमिरी में रेत का अवैध कारोबार कब से चल रहा है ? #inh24x7news #Samvad2026 ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-06T12:22:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/JNB3Z26EcKc/hqdefault.jpg",
-          "durationSeconds": 41,
-          "durationFormatted": "00:41",
-          "views": 128,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-06T12:22:30Z"
     },
     {
-      "clusterId": "raipur-दवस",
-      "topic": "Raipur दिवस",
-      "videoCount": 6,
-      "trendScore": 29.2,
+      "clusterId": "raipur-बजप",
+      "topic": "Raipur बीजेपी",
+      "videoCount": 5,
+      "trendScore": 25.0,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HhHmbE-_CS0/hqdefault.jpg",
           "durationSeconds": 257,
           "durationFormatted": "04:17",
-          "views": 15,
+          "views": 41,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -759,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/L1FpL4esWPc/hqdefault.jpg",
           "durationSeconds": 154,
           "durationFormatted": "02:34",
-          "views": 8,
+          "views": 30,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -781,21 +781,6 @@
         },
         {
           "index": 4,
-          "videoId": "N-i6WvZKpGg",
-          "title": "Raipur News : जग्गी हत्याकांड में अमित जोगी को हाईकोर्ट से उम्रकैद",
-          "description": "जग्गी हत्याकांड में हाईकोर्ट ने बड़ा फैसला सुनाते हुए अमित जोगी को ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-06T10:10:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/N-i6WvZKpGg/hqdefault.jpg",
-          "durationSeconds": 130,
-          "durationFormatted": "02:10",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "Hwb8aP6XDTY",
           "title": "Raipur News : रायपुर में भाजपा का 47वां स्थापना दिवस धूमधाम से मनाया गया",
           "description": "रायपुर में भाजपा का 47वां स्थापना दिवस धूमधाम से मनाया गया। रामकुंड ...",
@@ -808,6 +793,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "-Om1K3Okoeo",
+          "title": "Raipur News : भाजपा ने मनाया 47वां स्थापना दिवस, कई कार्यक्रम आयोजित",
+          "description": "भारतीय जनता पार्टी आज अपना 47वां स्थापना दिवस मना रही है। इस मौके पर ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-06T11:28:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/-Om1K3Okoeo/hqdefault.jpg",
+          "durationSeconds": 39,
+          "durationFormatted": "00:39",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-04-06T17:45:07Z"
@@ -816,7 +816,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 20.0,
+      "trendScore": 19.2,
       "topVideos": [
         {
           "index": 1,
@@ -828,7 +828,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OIXJ1s_N2EY/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 244,
+          "views": 247,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
