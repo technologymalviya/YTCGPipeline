@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-07T21:01:37.302302Z",
+  "generatedAt": "2026-04-07T22:56:09.070529Z",
   "clusterCount": 12,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 78,
-      "trendScore": 62.0,
+      "videoCount": 77,
+      "trendScore": 61.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/m-hY860jccI/hqdefault.jpg",
           "durationSeconds": 1566,
           "durationFormatted": "26:06",
-          "views": 87536,
-          "likes": 605,
+          "views": 87683,
+          "likes": 606,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZGsWC_DSL3w/hqdefault.jpg",
           "durationSeconds": 187,
           "durationFormatted": "03:07",
-          "views": 19509,
-          "likes": 188,
+          "views": 19615,
+          "likes": 189,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qSW9Zljq_zM/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 15176,
-          "likes": 584,
+          "views": 16019,
+          "likes": 588,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lhwZ-dHT69E/hqdefault.jpg",
           "durationSeconds": 734,
           "durationFormatted": "12:14",
-          "views": 7303,
-          "likes": 47,
+          "views": 7433,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pmCam3U0WsY/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 7177,
-          "likes": 91,
+          "views": 7351,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -90,7 +90,7 @@
       "clusterId": "iran-war",
       "topic": "Iran War",
       "videoCount": 8,
-      "trendScore": 43.1,
+      "trendScore": 42.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/iaJE-ms-Qn0/hqdefault.jpg",
           "durationSeconds": 639,
           "durationFormatted": "10:39",
-          "views": 29067,
-          "likes": 353,
+          "views": 29618,
+          "likes": 354,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/det6RTaSZcA/hqdefault.jpg",
           "durationSeconds": 1122,
           "durationFormatted": "18:42",
-          "views": 21766,
-          "likes": 622,
+          "views": 22037,
+          "likes": 623,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ChhC4KRDLWw/hqdefault.jpg",
           "durationSeconds": 358,
           "durationFormatted": "05:58",
-          "views": 12724,
-          "likes": 373,
+          "views": 17288,
+          "likes": 413,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jkNKAxDVLSA/hqdefault.jpg",
           "durationSeconds": 521,
           "durationFormatted": "08:41",
-          "views": 12028,
+          "views": 12045,
           "likes": 121,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "ककर-बडटल",
       "topic": "कांकेर बड़ाटोला",
       "videoCount": 16,
-      "trendScore": 42.1,
+      "trendScore": 41.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x4gatTgxXms/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 1216,
+          "views": 1217,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Il3HNVwus00/hqdefault.jpg",
           "durationSeconds": 246,
           "durationFormatted": "04:06",
-          "views": 46,
+          "views": 51,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RvV8QJ_Q0Go/hqdefault.jpg",
           "durationSeconds": 197,
           "durationFormatted": "03:17",
-          "views": 33,
+          "views": 34,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3HdFDi1GqDQ/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 14,
+          "views": 15,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Jobs"
@@ -258,7 +258,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 42.0,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/G3RJ0ZZ33jY/hqdefault.jpg",
           "durationSeconds": 601,
           "durationFormatted": "10:01",
-          "views": 368,
-          "likes": 29,
+          "views": 500,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oCg-rVJKoPg/hqdefault.jpg",
           "durationSeconds": 583,
           "durationFormatted": "09:43",
-          "views": 282,
+          "views": 309,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GalnwMtY0Qs/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 106,
+          "views": 104,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AO4zJts7jdc/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 50,
+          "views": 49,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "chhattisgarh-april",
       "topic": "Chhattisgarh April",
       "videoCount": 10,
-      "trendScore": 38.9,
+      "trendScore": 38.2,
       "topVideos": [
         {
           "index": 1,
@@ -339,7 +339,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Lt7hNSd-8c0/hqdefault.jpg",
           "durationSeconds": 1514,
           "durationFormatted": "25:14",
-          "views": 11865,
+          "views": 11878,
           "likes": 195,
           "videoType": "VOD",
           "genre": "General"
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uuoQCdGCcXY/hqdefault.jpg",
           "durationSeconds": 944,
           "durationFormatted": "15:44",
-          "views": 1255,
+          "views": 1302,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fCy8J6Jq4To/hqdefault.jpg",
           "durationSeconds": 853,
           "durationFormatted": "14:13",
-          "views": 822,
+          "views": 844,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/b1Muy8XMxv0/hqdefault.jpg",
           "durationSeconds": 954,
           "durationFormatted": "15:54",
-          "views": 541,
+          "views": 547,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EJ9msEp1N3g/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 312,
+          "views": 317,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -408,10 +408,10 @@
       "latestUpdateAt": "2026-04-07T18:12:31Z"
     },
     {
-      "clusterId": "bhaskar-आरकषक",
-      "topic": "Bhaskar आरक्षक",
+      "clusterId": "bhaskar-traffic",
+      "topic": "Bhaskar Traffic",
       "videoCount": 6,
-      "trendScore": 37.3,
+      "trendScore": 36.5,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ku7NuWjgjtM/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 7333,
-          "likes": 201,
+          "views": 7362,
+          "likes": 202,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -460,21 +460,6 @@
         },
         {
           "index": 4,
-          "videoId": "mYJzR3V6l0U",
-          "title": "डीएड अभ्यर्थयों का अनोखा प्रदर्शन, 14 मंत्रियों के सामने हुए दंडवत",
-          "description": "गोलबाजार में जनता से घिर गए पार्षद! Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-07T10:30:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/mYJzR3V6l0U/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 565,
-          "likes": 18,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "nw2TavXrk8c",
           "title": "अब रायपुर में No Traffic क्यूंकि... | CG Bhaskar",
           "description": "अब रायपुर में No Traffic क्यूंकि... | CG Bhaskar Join our Whatsapp Group ...",
@@ -483,10 +468,25 @@
           "thumbnail": "https://i.ytimg.com/vi/nw2TavXrk8c/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 511,
+          "views": 590,
           "likes": 17,
           "videoType": "VOD",
           "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "mYJzR3V6l0U",
+          "title": "डीएड अभ्यर्थयों का अनोखा प्रदर्शन, 14 मंत्रियों के सामने हुए दंडवत",
+          "description": "गोलबाजार में जनता से घिर गए पार्षद! Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-07T10:30:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/mYJzR3V6l0U/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 568,
+          "likes": 18,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-04-07T13:30:56Z"
@@ -494,8 +494,8 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "ZEE MPCG",
-      "videoCount": 11,
-      "trendScore": 35.3,
+      "videoCount": 10,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -522,28 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/A5qida8O7iE/hqdefault.jpg",
           "durationSeconds": 1417,
           "durationFormatted": "23:37",
-          "views": 132,
+          "views": 139,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "PLvdpFzi5jk",
-          "title": "🔴LIVE : Johar : नाम की कमेटी, काम जीरो  | Chhattisgarh News | Latest News | CG News | Zee MPCG",
-          "description": "LIVE : Johar : नाम की कमेटी, काम जीरो | Chhattisgarh News | Latest News | CG News | Zee MPCG #Live #johar ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-07T11:54:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/PLvdpFzi5jk/hqdefault.jpg",
-          "durationSeconds": 1600,
-          "durationFormatted": "26:40",
-          "views": 124,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "2YAUbYZeRk8",
           "title": "Haridwar : हरिद्वार में नॉनवेज पर बैन! | अर्धकुंभ से पहले बड़ा फैसला, शुरू हुआ विरोध | ZEE MPCG",
           "description": "Haridwar : हरिद्वार में नॉनवेज पर बैन! | अर्धकुंभ से पहले बड़ा फैसला, शुरू ...",
@@ -558,7 +543,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "PLHMzXcMWDw",
           "title": "Satna : मौत के बाद भी जिंदा अतीक का खौफ? | MP में अतीक के नाम पर धमकी और वसूली | ZEE MPCG",
           "description": "Satna : मौत के बाद भी जिंदा अतीक का खौफ? | MP में अतीक के नाम पर धमकी और ...",
@@ -571,6 +556,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "6MHpAp0kAsQ",
+          "title": "Prime Time : छत्तीसगढ़ में महिला सुरक्षा पर सवाल | सरगुजा की वारदात ने हिलाया प्रदेश | ZEE MPCG",
+          "description": "Prime Time : छत्तीसगढ़ में महिला सुरक्षा पर सवाल | सरगुजा की वारदात ने ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-07T17:34:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/6MHpAp0kAsQ/hqdefault.jpg",
+          "durationSeconds": 209,
+          "durationFormatted": "03:29",
+          "views": 53,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-07T18:54:52Z"
@@ -579,7 +579,7 @@
       "clusterId": "seedhe-mudde",
       "topic": "Seedhe Mudde",
       "videoCount": 4,
-      "trendScore": 33.6,
+      "trendScore": 32.5,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +591,8 @@
           "thumbnail": "https://i.ytimg.com/vi/roQD5T3Vwlc/hqdefault.jpg",
           "durationSeconds": 509,
           "durationFormatted": "08:29",
-          "views": 568,
-          "likes": 12,
+          "views": 637,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-VJM2kDAA5Y/hqdefault.jpg",
           "durationSeconds": 287,
           "durationFormatted": "04:47",
-          "views": 525,
+          "views": 562,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2xsOJmA0vLk/hqdefault.jpg",
           "durationSeconds": 287,
           "durationFormatted": "04:47",
-          "views": 414,
+          "views": 433,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
@@ -648,7 +648,7 @@
       "clusterId": "xpress-पलस",
       "topic": "Xpress पुलिस",
       "videoCount": 6,
-      "trendScore": 31.4,
+      "trendScore": 30.8,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CruXxdDW4Vs/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 3323,
+          "views": 3405,
           "likes": 36,
           "videoType": "VOD",
           "genre": "General"
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cIvY_7E4BJw/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 876,
+          "views": 909,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/76nODG2xs8k/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 659,
+          "views": 692,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Crime"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RmyYuQgTvMI/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 139,
+          "views": 153,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
@@ -732,7 +732,7 @@
       "clusterId": "bjp-कय",
       "topic": "BJP क्या",
       "videoCount": 5,
-      "trendScore": 28.3,
+      "trendScore": 27.6,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fc1yYTyCg6Y/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 739,
+          "views": 768,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -774,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WtYjcIwzt3g/hqdefault.jpg",
           "durationSeconds": 135,
           "durationFormatted": "02:15",
-          "views": 338,
+          "views": 377,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -789,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3wqCFxwsdxg/hqdefault.jpg",
           "durationSeconds": 172,
           "durationFormatted": "02:52",
-          "views": 247,
+          "views": 254,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -816,7 +816,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 25.7,
+      "trendScore": 24.6,
       "topVideos": [
         {
           "index": 1,
@@ -840,7 +840,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 24.1,
+      "trendScore": 23.4,
       "topVideos": [
         {
           "index": 1,
@@ -852,7 +852,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l7qNHcKwNnA/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 825,
+          "views": 859,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
