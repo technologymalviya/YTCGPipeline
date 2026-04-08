@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-04-08T20:59:29.577230Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-04-08T22:58:38.019530Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 86,
-      "trendScore": 61.5,
+      "videoCount": 85,
+      "trendScore": 60.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "asnCdVEXXig",
-          "title": "Iran-US War Ceasefire Update: उठे बगावत के सुर, 85 सांसदों के आगे ट्रंप दे देंगे इस्तीफा? | Top News",
-          "description": "Iran-US War Ceasefire Update: उठे बगावत के सुर, 85 सांसदों के आगे ट्रंप दे देंगे ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-08T13:43:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/asnCdVEXXig/hqdefault.jpg",
-          "durationSeconds": 273,
-          "durationFormatted": "04:33",
-          "views": 27651,
-          "likes": 294,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "wRTfdFvy-5U",
           "title": "8 April 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
           "description": "8 April 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
@@ -39,7 +24,7 @@
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "gbsYfNo0ibY",
           "title": "Artemis II Mission Achievement : आर्टेमिस II में एस्ट्रोनॉट्स साथ में &#39;खिलौना&#39; क्यों ले गए हैं?",
           "description": "Artemis II Mission Achievement : आर्टेमिस II में एस्ट्रोनॉट्स साथ में 'खिलौना' क्यों ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/gbsYfNo0ibY/hqdefault.jpg",
           "durationSeconds": 210,
           "durationFormatted": "03:30",
-          "views": 11379,
+          "views": 11403,
           "likes": 125,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "AoGiT3xFLQk",
           "title": "मसीही दीदी का गुरुर ब्रह्मा गुरुर विष्णु | आंदोलन में धर्मांतरण बिल का विरोध | @tirandaj",
           "description": "gururbrahmagururvishnu #गुरुरब्रह्मागुरुरविष्णु #anticonversionbill #moolnivasisangh ...",
@@ -63,10 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/AoGiT3xFLQk/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 10504,
-          "likes": 218,
+          "views": 10724,
+          "likes": 219,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "kZAf9f7p_fM",
+          "title": "Iran Action on Hormuz Live Updates : सीजफायर के बाद होर्मुज पर ईरान ने फंसाया पेंच! | Trump | IRGC",
+          "description": "Iran Action on Hormuz Live Updates : सीजफायर के बाद होर्मुज पर ईरान ने फंसाया पेंच!",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-08T14:28:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/kZAf9f7p_fM/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 9643,
+          "likes": 35,
+          "videoType": "LIVE",
+          "genre": "Live"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/10YNMMYZ7h8/hqdefault.jpg",
           "durationSeconds": 358,
           "durationFormatted": "05:58",
-          "views": 5776,
-          "likes": 42,
+          "views": 5800,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-08T19:27:32Z"
+      "latestUpdateAt": "2026-04-08T17:43:16Z"
     },
     {
       "clusterId": "tet-dpi",
       "topic": "TET DPI",
       "videoCount": 20,
-      "trendScore": 52.1,
+      "trendScore": 51.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DhUpv_d9crM/hqdefault.jpg",
           "durationSeconds": 239,
           "durationFormatted": "03:59",
-          "views": 6919,
+          "views": 6983,
           "likes": 93,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DNfddlk-9KU/hqdefault.jpg",
           "durationSeconds": 14,
           "durationFormatted": "00:14",
-          "views": 6466,
+          "views": 6725,
           "likes": 35,
           "videoType": "VOD",
           "genre": "General"
@@ -132,13 +132,28 @@
           "thumbnail": "https://i.ytimg.com/vi/jSe_alA9H0w/hqdefault.jpg",
           "durationSeconds": 257,
           "durationFormatted": "04:17",
-          "views": 1907,
-          "likes": 38,
+          "views": 1968,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "8gBXvH0fXc4",
+          "title": "नर्सिंग भर्ती में 100% महिला आरक्षण को HC में चुनौती। #mpnews #mpnursingreservation #viralshorts",
+          "description": "IBC24, नर्सिंग भर्ती में 100% महिला आरक्षण को HC में चुनौती। #mpnews ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-08T19:07:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/8gBXvH0fXc4/hqdefault.jpg",
+          "durationSeconds": 11,
+          "durationFormatted": "00:11",
+          "views": 878,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 5,
           "videoId": "F2tOgWhZFfo",
           "title": "Tarkash : भोपाल में शिक्षकों का बड़ा प्रदर्शन! TET परीक्षा के विरोध में सड़कों पर उतरे शिक्षक",
           "description": "Tarkash : भोपाल में शिक्षकों का बड़ा प्रदर्शन! TET परीक्षा के विरोध में ...",
@@ -147,34 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/F2tOgWhZFfo/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 708,
+          "views": 718,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Jobs"
-        },
-        {
-          "index": 5,
-          "videoId": "-eEzqm2QzNg",
-          "title": "#Shorts : प्रेमी संग रचा खौफनाक प्लान! साजिश का ऐसा अंत… सब रह गए दंग ! | ZEE MPCG",
-          "description": "Shorts : प्रेमी संग रचा खौफनाक प्लान! साजिश का ऐसा अंत… सब रह गए दंग !",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-08T10:54:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/-eEzqm2QzNg/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 557,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-08T19:07:23Z"
+      "latestUpdateAt": "2026-04-08T21:53:16Z"
     },
     {
       "clusterId": "iran-ceasefire",
       "topic": "Iran Ceasefire",
       "videoCount": 14,
-      "trendScore": 49.3,
+      "trendScore": 48.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/W8Bk9G3rKQw/hqdefault.jpg",
           "durationSeconds": 372,
           "durationFormatted": "06:12",
-          "views": 47505,
+          "views": 47964,
           "likes": 233,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "p60xDoUhgPg",
-          "title": "Iran America Ceasefire Update: युद्धविराम के बाद भी होर्मुज से मुफ्त में नहीं निकलेंगे तेल के जहाज !",
-          "description": "Crude Oil Price Crash | Iran Ceasefire Announcement | Iran America Ceasefire Update: युद्धविराम के बाद भी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-08T14:17:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/p60xDoUhgPg/hqdefault.jpg",
-          "durationSeconds": 303,
-          "durationFormatted": "05:03",
-          "views": 28696,
-          "likes": 222,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "H3_G3ia5d1o",
           "title": "Trump Announces Iran Ceasefire : सीजफायर पर ईरान का बड़ा ऐलान ? | N18G",
           "description": "Trump Announces Iran Ceasefire : सीजफायर पर ईरान का बड़ा ऐलान ? | N18G US President Donald Trump ...",
@@ -216,28 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/H3_G3ia5d1o/hqdefault.jpg",
           "durationSeconds": 809,
           "durationFormatted": "13:29",
-          "views": 19568,
-          "likes": 307,
+          "views": 33856,
+          "likes": 313,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "CUy05PKduYI",
+          "title": "Iran America Ceasefire :  ट्रंप का ईरान के साथ समझोता या सरेंडर? | Trump Iran ceasefire | N18G",
+          "description": "Iran America Ceasefire : ट्रंप का ईरान के साथ समझोता या सरेंडर? | Trump Iran ceasefire | N18G In ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-08T21:30:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/CUy05PKduYI/hqdefault.jpg",
+          "durationSeconds": 361,
+          "durationFormatted": "06:01",
+          "views": 9369,
+          "likes": 103,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "dNKBxgmCXbU",
-          "title": "Crude Oil Price Crash : Iran Ceasefire Announcement होते ही तेल के दाम धड़ाम, भारत को होगा फायदा ?",
-          "description": "Crude Oil Price Crash : Iran Ceasefire Announcement होते ही तेल के दाम धड़ाम, भारत को होगा ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-08T14:08:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/dNKBxgmCXbU/hqdefault.jpg",
-          "durationSeconds": 310,
-          "durationFormatted": "05:10",
-          "views": 7469,
-          "likes": 73,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "GQNqOWYz16g",
           "title": "Iran US Ceasefire : सीजफायर ईरान की ऐतिहासिक जीत! घुटने टेकने पर मजबूर अमेरिका? | Top News | N18G",
           "description": "Iran US Ceasefire : सीजफायर ईरान की ऐतिहासिक जीत! घुटने टेकने पर मजबूर ...",
@@ -246,19 +231,34 @@
           "thumbnail": "https://i.ytimg.com/vi/GQNqOWYz16g/hqdefault.jpg",
           "durationSeconds": 404,
           "durationFormatted": "06:44",
-          "views": 4236,
+          "views": 4286,
           "likes": 50,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "TZcr49Uw2-8",
+          "title": "Trump Announces Iran Ceasefire Live : सीजफायर के बाद भी परमाणु अड्डों पर बज रहे अलार्म ! | Breaking",
+          "description": "Trump Announces Iran Ceasefire Live : सीजफायर के बाद भी परमाणु अड्डों पर बज रहे ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-08T14:58:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/TZcr49Uw2-8/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 4215,
+          "likes": 13,
+          "videoType": "LIVE",
+          "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-04-08T20:30:08Z"
+      "latestUpdateAt": "2026-04-08T22:30:11Z"
     },
     {
       "clusterId": "दरग-कलकटर",
       "topic": "दुर्ग कलेक्टर",
-      "videoCount": 21,
-      "trendScore": 46.5,
+      "videoCount": 22,
+      "trendScore": 46.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nBnNgDwYopQ/hqdefault.jpg",
           "durationSeconds": 227,
           "durationFormatted": "03:47",
-          "views": 77,
+          "views": 92,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
@@ -307,21 +307,6 @@
         },
         {
           "index": 4,
-          "videoId": "P6pzam-eZnA",
-          "title": "दुर्ग: सड़क चौड़ीकरण से 50 वर्षों से बने के मकान प्रभावित, रहवासियों ने कलेक्टर से लगाई गुहार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-08T13:28:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/P6pzam-eZnA/hqdefault.jpg",
-          "durationSeconds": 185,
-          "durationFormatted": "03:05",
-          "views": 51,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "xHL3DjsY4oQ",
           "title": "दुर्ग अधिवक्ता संघ: नवनिर्वाचित पदाधिकारियों की आभार रैली, अधिवक्ताओं से मुलाकात और किया धन्यवाद",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -330,10 +315,25 @@
           "thumbnail": "https://i.ytimg.com/vi/xHL3DjsY4oQ/hqdefault.jpg",
           "durationSeconds": 226,
           "durationFormatted": "03:46",
-          "views": 47,
+          "views": 66,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "P6pzam-eZnA",
+          "title": "दुर्ग: सड़क चौड़ीकरण से 50 वर्षों से बने के मकान प्रभावित, रहवासियों ने कलेक्टर से लगाई गुहार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-08T13:28:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/P6pzam-eZnA/hqdefault.jpg",
+          "durationSeconds": 185,
+          "durationFormatted": "03:05",
+          "views": 59,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-08T15:17:40Z"
@@ -342,7 +342,7 @@
       "clusterId": "bhaskar-bhilai",
       "topic": "Bhaskar Bhilai",
       "videoCount": 9,
-      "trendScore": 39.9,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tvNl7OZudUU/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1436,
-          "likes": 33,
+          "views": 1463,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -376,21 +376,6 @@
         },
         {
           "index": 3,
-          "videoId": "zkhcHoiyejQ",
-          "title": "अमेरिका और ईरान के बीच थमा युद्ध, होर्मुज भी खुला | CG Bhaskar",
-          "description": "अमेरिका और ईरान के बीच थमा युद्ध, होर्मुज भी खुला Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-08T06:58:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/zkhcHoiyejQ/hqdefault.jpg",
-          "durationSeconds": 85,
-          "durationFormatted": "01:25",
-          "views": 787,
-          "likes": 19,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "NbeXHIanB8E",
           "title": "शराब पीने के लिए नहीं दिए पैसे तो महिला पर जाNलेवा हमला | CG Bhaskar",
           "description": "शराब पीने के लिए नहीं दिए पैसे तो महिला पर जाNलेवा हमला | CG Bhaskar Join our ...",
@@ -399,8 +384,23 @@
           "thumbnail": "https://i.ytimg.com/vi/NbeXHIanB8E/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 771,
+          "views": 807,
           "likes": 20,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "zkhcHoiyejQ",
+          "title": "अमेरिका और ईरान के बीच थमा युद्ध, होर्मुज भी खुला | CG Bhaskar",
+          "description": "अमेरिका और ईरान के बीच थमा युद्ध, होर्मुज भी खुला Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-08T06:58:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/zkhcHoiyejQ/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 799,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -426,7 +426,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 36.4,
+      "trendScore": 35.6,
       "topVideos": [
         {
           "index": 1,
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Es8u5DMa-Ys/hqdefault.jpg",
           "durationSeconds": 569,
           "durationFormatted": "09:29",
-          "views": 193,
+          "views": 186,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JkZNTPvH5Gg/hqdefault.jpg",
           "durationSeconds": 301,
           "durationFormatted": "05:01",
-          "views": 73,
+          "views": 72,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gh0lTIQ_6Kw/hqdefault.jpg",
           "durationSeconds": 297,
           "durationFormatted": "04:57",
-          "views": 70,
+          "views": 72,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -492,79 +492,10 @@
       "latestUpdateAt": "2026-04-08T13:55:25Z"
     },
     {
-      "clusterId": "monalisa-nhrc",
-      "topic": "Monalisa NHRC",
-      "videoCount": 4,
-      "trendScore": 34.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "TqL5c46b2g8",
-          "title": "Monalisa की उम्र को लेकर NHRC ने दिए जांच के आदेश, Furman Khan का ये वीडियो वायरल | N18S | Top News",
-          "description": "Monalisa की उम्र को लेकर NHRC ने दिए जांच के आदेश, Furman Khan का ये वीडियो ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-08T14:50:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/TqL5c46b2g8/hqdefault.jpg",
-          "durationSeconds": 18,
-          "durationFormatted": "00:18",
-          "views": 29586,
-          "likes": 104,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "cbMtyp7bigg",
-          "title": "Monalisa Marriage Controversy :  वायरल गर्ल मोनालिसा की बढ़ी मुश्किलें! शादी विवाद में NHRC का नोटिस",
-          "description": "Monalisa Marriage Controversy : वायरल गर्ल मोनालिसा की बढ़ी मुश्किलें , फरमान से ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-08T09:09:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/cbMtyp7bigg/hqdefault.jpg",
-          "durationSeconds": 163,
-          "durationFormatted": "02:43",
-          "views": 7113,
-          "likes": 43,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "j6vhF6-23XY",
-          "title": "Monalisa Marriage Controversy | वायरल गर्ल मोनालिसा अंतरधार्मिक विवाह विवाद में नया मोड़...",
-          "description": "Monalisa Marriage Controversy | वायरल गर्ल मोनालिसा अंतरधार्मिक विवाह विवाद में ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-08T12:34:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/j6vhF6-23XY/hqdefault.jpg",
-          "durationSeconds": 101,
-          "durationFormatted": "01:41",
-          "views": 1051,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "-pNVLONgTtk",
-          "title": "खरगोन: मोनालिसा-फरमान शादी विवाद में NHRC का नोटिस, उम्र की जांच के आदेश",
-          "description": "महाकुंभ वायरल गर्ल मोनालिसा और फरमान की शादी का विवाद थमने का नाम ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-08T16:32:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/-pNVLONgTtk/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 191,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-04-08T16:32:13Z"
-    },
-    {
       "clusterId": "xpress-महल",
       "topic": "Xpress महिला",
       "videoCount": 6,
-      "trendScore": 31.9,
+      "trendScore": 31.0,
       "topVideos": [
         {
           "index": 1,
@@ -591,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JDar1bBTVm0/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 171,
+          "views": 182,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RzTKOPGPdAc/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 151,
+          "views": 153,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sVER1d6qN1g/hqdefault.jpg",
           "durationSeconds": 238,
           "durationFormatted": "03:58",
-          "views": 46,
+          "views": 54,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
