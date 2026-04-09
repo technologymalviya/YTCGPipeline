@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-09T19:23:54.889293Z",
-  "clusterCount": 11,
+  "generatedAt": "2026-04-09T21:01:20.724477Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 68,
-      "trendScore": 62.8,
+      "videoCount": 70,
+      "trendScore": 62.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FirdulOjSXQ/hqdefault.jpg",
           "durationSeconds": 1652,
           "durationFormatted": "27:32",
-          "views": 20599,
+          "views": 20690,
           "likes": 351,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,13 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/PlkxULzgmLM/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 19157,
-          "likes": 327,
+          "views": 20569,
+          "likes": 328,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
           "index": 3,
+          "videoId": "10Hwgmrsosk",
+          "title": "🔴LIVE, Chhattisgarh News 09 April 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh Baghel",
+          "description": "IBC24, LIVE, Chhattisgarh News 09 April 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-09T19:25:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/10Hwgmrsosk/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 9458,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "nrX7UNxDEw0",
           "title": "CM Nitish Kumar Resigns Live : नीतीश का इस्तीफा होते ही मुख्यमंत्री के नाम की घोषणा! | Bihar New CM",
           "description": "CM Nitish Kumar Resigns Live : नीतीश का इस्तीफा होते ही मुख्यमंत्री के नाम की ...",
@@ -48,13 +63,13 @@
           "thumbnail": "https://i.ytimg.com/vi/nrX7UNxDEw0/hqdefault.jpg",
           "durationSeconds": 7366,
           "durationFormatted": "02:02:46",
-          "views": 7514,
+          "views": 7768,
           "likes": 32,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "KZtnGVruIrI",
           "title": "CKS और JCP के अमित बघेल को मिली जमानत, लेकिन रहेंगे जेल में | छत्तीसगढ़ महतारी अपमान केस |@tirandaj",
           "description": "छत्तीसगढ़िया क्रांति सेना के प्रमुख अमित बघेल को आज जमानत मिल गई।",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/KZtnGVruIrI/hqdefault.jpg",
           "durationSeconds": 28,
           "durationFormatted": "00:28",
-          "views": 5578,
-          "likes": 171,
+          "views": 7026,
+          "likes": 177,
           "videoType": "VOD",
           "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "_CwIScrdFxo",
-          "title": "महतारी वंदन योजना पर विवाद बढ़ा, Lakshmi Rajwade ने विपक्ष के आरोपों को सिरे से खारिज किया",
-          "description": "महतारी वंदन योजना पर विवाद बढ़ा, Lakshmi Rajwade ने विपक्ष के आरोपों को ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-09T11:19:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/_CwIScrdFxo/hqdefault.jpg",
-          "durationSeconds": 222,
-          "durationFormatted": "03:42",
-          "views": 3281,
-          "likes": 40,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-09T18:43:56Z"
+      "latestUpdateAt": "2026-04-09T20:25:33Z"
     },
     {
       "clusterId": "bhaskar-fir",
       "topic": "Bhaskar FIR",
       "videoCount": 14,
-      "trendScore": 46.7,
+      "trendScore": 45.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2OAhs7a2lIo/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 2439,
-          "likes": 33,
+          "views": 2479,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YJkyHly3sew/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 1244,
+          "views": 1188,
           "likes": 37,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7lAh23N6jso/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 1116,
-          "likes": 25,
+          "views": 1085,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DUOEqjWvYbc/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 672,
+          "views": 805,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AM3JZYY62nE/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 631,
+          "views": 634,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "शv-सडक",
       "topic": "श.v सड़क",
       "videoCount": 18,
-      "trendScore": 45.0,
+      "trendScore": 43.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-gYdSIWhqew/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 39,
+          "views": 40,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -201,28 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/kyZaJZxRseE/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 25,
+          "views": 36,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
           "index": 3,
-          "videoId": "5m-xcHF2c5M",
-          "title": "सुकमा: 61वां शौर्य दिवस हर्षोल्लास के साथ मनाया गया ,जवानों को मिला प्रेरक संदेश",
-          "description": "chhattisgarhnews #madhyapradehnews #sukma .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-09T11:14:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/5m-xcHF2c5M/hqdefault.jpg",
-          "durationSeconds": 130,
-          "durationFormatted": "02:10",
-          "views": 21,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "BHiwBCAmFms",
           "title": "कांकेर-अंतागढ़ में अपहरण का मामला ,जबरन शादी की साजिश नाकाम, 3 गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #kanker .",
@@ -231,10 +216,25 @@
           "thumbnail": "https://i.ytimg.com/vi/BHiwBCAmFms/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 21,
+          "views": 25,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "5m-xcHF2c5M",
+          "title": "सुकमा: 61वां शौर्य दिवस हर्षोल्लास के साथ मनाया गया ,जवानों को मिला प्रेरक संदेश",
+          "description": "chhattisgarhnews #madhyapradehnews #sukma .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-09T11:14:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/5m-xcHF2c5M/hqdefault.jpg",
+          "durationSeconds": 130,
+          "durationFormatted": "02:10",
+          "views": 22,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -255,94 +255,10 @@
       "latestUpdateAt": "2026-04-09T14:05:19Z"
     },
     {
-      "clusterId": "controversy-vande",
-      "topic": "Controversy Vande",
-      "videoCount": 12,
-      "trendScore": 42.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "cLZZpYcWpiQ",
-          "title": "Seedhe Mudde Ki Baat : Sachin Tendulkar का परिवार छत्तीसगढ़ क्यों आया था? | Rural Area | Social Work",
-          "description": "Seedhe Mudde Ki Baat : Sachin Tendulkar का परिवार छत्तीसगढ़ क्यों आया था? | Rural Area | Social ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-09T15:50:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/cLZZpYcWpiQ/hqdefault.jpg",
-          "durationSeconds": 270,
-          "durationFormatted": "04:30",
-          "views": 2324,
-          "likes": 51,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "PQqynO02PbI",
-          "title": "Vande Matram Controversy : वंदे मातरम से दूरी, आखिर क्या मजबूरी?  MP News | Indore News । Top News ।",
-          "description": "Vande Matram Controversy : वंदे मातरम विवाद पर MP से आई बहुत बड़ी खबर ।MP News | Indore ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-09T16:15:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/PQqynO02PbI/hqdefault.jpg",
-          "durationSeconds": 1603,
-          "durationFormatted": "26:43",
-          "views": 507,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "KH2Ff1qxvsk",
-          "title": "Vande Matram Controversy:सियासी तापमान बढ़ा| पार्षद फौजिया शेख अलीम ने वंदे मातरम गाने से किया इनकार",
-          "description": "मध्यप्रदेश में वंदे मातरम को लेकर सियासत गरमा गई है। नगर निगम की ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-09T10:20:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/KH2Ff1qxvsk/hqdefault.jpg",
-          "durationSeconds": 176,
-          "durationFormatted": "02:56",
-          "views": 284,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "ItM1VZS8UcI",
-          "title": "Vande Matram Controversy : वंदे मातरम विवाद पर MP से आई बहुत बड़ी खबर । MP News | Indore News । Top",
-          "description": "Vande Matram Controversy : वंदे मातरम विवाद पर MP से आई बहुत बड़ी खबर ।MP News | Indore ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-09T15:15:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/ItM1VZS8UcI/hqdefault.jpg",
-          "durationSeconds": 575,
-          "durationFormatted": "09:35",
-          "views": 271,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "gNGJ3bgJLb0",
-          "title": "&#39;भाड़ में जाए कांग्रेस&#39; वाले बयान पर Rubina khan ने जताया अफसोस, बंसल न्यूज पर क्या बोलीं पार्षद",
-          "description": "इंदौर नगर निगम वंदे मातरम विवाद में कांग्रेस ने अब कड़ा रुख अपनाया ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-09T09:01:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/gNGJ3bgJLb0/hqdefault.jpg",
-          "durationSeconds": 1281,
-          "durationFormatted": "21:21",
-          "views": 267,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-09T17:29:31Z"
-    },
-    {
       "clusterId": "assembly-kerala",
       "topic": "Assembly Kerala",
-      "videoCount": 5,
-      "trendScore": 41.5,
+      "videoCount": 6,
+      "trendScore": 41.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hcrcWv-p9co/hqdefault.jpg",
           "durationSeconds": 26626,
           "durationFormatted": "07:23:46",
-          "views": 64603,
+          "views": 64853,
           "likes": 230,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -369,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rf-4Noku908/hqdefault.jpg",
           "durationSeconds": 30324,
           "durationFormatted": "08:25:24",
-          "views": 53577,
+          "views": 53909,
           "likes": 331,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MTPNzxPSWks/hqdefault.jpg",
           "durationSeconds": 20090,
           "durationFormatted": "05:34:50",
-          "views": 27370,
+          "views": 27411,
           "likes": 168,
           "videoType": "VOD",
           "genre": "Politics"
@@ -399,34 +315,118 @@
           "thumbnail": "https://i.ytimg.com/vi/g_xV71t4RrQ/hqdefault.jpg",
           "durationSeconds": 7605,
           "durationFormatted": "02:06:45",
-          "views": 15169,
-          "likes": 65,
+          "views": 15353,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 5,
-          "videoId": "eONSP5q-z5E",
-          "title": "Assembly Election Voting 2026: Assam, Kerala और Puducherry में बंपर वोटिंग..किसका होगा फायदा? देखिए",
-          "description": "IBC24, Assembly Election Voting 2026: Assam, Kerala और Puducherry में बंपर वोटिंग..किसका होगा ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-09T16:28:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/eONSP5q-z5E/hqdefault.jpg",
-          "durationSeconds": 140,
-          "durationFormatted": "02:20",
-          "views": 342,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
+          "videoId": "FhUVKdjNMZs",
+          "title": "Assembly Elections voting LIVE: वोटिंग खत्म होते ही 100सीटों पर पलटी बाजी? | Assam Kerala Puducherry",
+          "description": "Assembly Elections voting LIVE : वोटिंग खत्म होते ही 100 सीटों पर पलटी बाजी? LIVE | Assam ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-09T16:07:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/FhUVKdjNMZs/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 6127,
+          "likes": 21,
+          "videoType": "LIVE",
+          "genre": "Live"
         }
       ],
       "latestUpdateAt": "2026-04-09T16:31:50Z"
     },
     {
+      "clusterId": "controversy-seedhe",
+      "topic": "Controversy Seedhe",
+      "videoCount": 11,
+      "trendScore": 40.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "cLZZpYcWpiQ",
+          "title": "Seedhe Mudde Ki Baat : Sachin Tendulkar का परिवार छत्तीसगढ़ क्यों आया था? | Rural Area | Social Work",
+          "description": "Seedhe Mudde Ki Baat : Sachin Tendulkar का परिवार छत्तीसगढ़ क्यों आया था? | Rural Area | Social ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-09T15:50:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/cLZZpYcWpiQ/hqdefault.jpg",
+          "durationSeconds": 270,
+          "durationFormatted": "04:30",
+          "views": 3581,
+          "likes": 57,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "PQqynO02PbI",
+          "title": "Vande Matram Controversy : वंदे मातरम से दूरी, आखिर क्या मजबूरी?  MP News | Indore News । Top News ।",
+          "description": "Vande Matram Controversy : वंदे मातरम विवाद पर MP से आई बहुत बड़ी खबर ।MP News | Indore ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-09T16:15:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/PQqynO02PbI/hqdefault.jpg",
+          "durationSeconds": 1603,
+          "durationFormatted": "26:43",
+          "views": 735,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "KH2Ff1qxvsk",
+          "title": "Vande Matram Controversy:सियासी तापमान बढ़ा| पार्षद फौजिया शेख अलीम ने वंदे मातरम गाने से किया इनकार",
+          "description": "मध्यप्रदेश में वंदे मातरम को लेकर सियासत गरमा गई है। नगर निगम की ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-09T10:20:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/KH2Ff1qxvsk/hqdefault.jpg",
+          "durationSeconds": 176,
+          "durationFormatted": "02:56",
+          "views": 346,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "ItM1VZS8UcI",
+          "title": "Vande Matram Controversy : वंदे मातरम विवाद पर MP से आई बहुत बड़ी खबर । MP News | Indore News । Top",
+          "description": "Vande Matram Controversy : वंदे मातरम विवाद पर MP से आई बहुत बड़ी खबर ।MP News | Indore ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-09T15:15:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/ItM1VZS8UcI/hqdefault.jpg",
+          "durationSeconds": 575,
+          "durationFormatted": "09:35",
+          "views": 320,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "gNGJ3bgJLb0",
+          "title": "&#39;भाड़ में जाए कांग्रेस&#39; वाले बयान पर Rubina khan ने जताया अफसोस, बंसल न्यूज पर क्या बोलीं पार्षद",
+          "description": "इंदौर नगर निगम वंदे मातरम विवाद में कांग्रेस ने अब कड़ा रुख अपनाया ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-09T09:01:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/gNGJ3bgJLb0/hqdefault.jpg",
+          "durationSeconds": 1281,
+          "durationFormatted": "21:21",
+          "views": 255,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-09T17:29:31Z"
+    },
+    {
       "clusterId": "ujjain-borewell",
       "topic": "Ujjain Borewell",
-      "videoCount": 10,
-      "trendScore": 38.4,
+      "videoCount": 11,
+      "trendScore": 39.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ucJPqscsJFQ/hqdefault.jpg",
           "durationSeconds": 137,
           "durationFormatted": "02:17",
-          "views": 409,
+          "views": 554,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kp1bsrM1bQo/hqdefault.jpg",
           "durationSeconds": 373,
           "durationFormatted": "06:13",
-          "views": 231,
+          "views": 363,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -468,13 +468,28 @@
           "thumbnail": "https://i.ytimg.com/vi/s_cdzSd7RX8/hqdefault.jpg",
           "durationSeconds": 411,
           "durationFormatted": "06:51",
-          "views": 207,
-          "likes": 2,
+          "views": 262,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "dBK3KtYIrv4",
+          "title": "Ujjain Borewell Incident: 70 फीट गहरे बोरवेल में गिरा बच्चा,  LIVE रेस्क्यू जारी | Big Breaking",
+          "description": "Ujjain Borewell Incident: 70 फीट गहरे बोरवेल में गिरा बच्चा, LIVE रेस्क्यू जारी | Big ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-09T16:39:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/dBK3KtYIrv4/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 240,
+          "likes": 5,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 5,
           "videoId": "b24Kn3WJI5w",
           "title": "Ujjain Borewell Recue News LIVE: 3 साल का मासूम बोरवेल पर गिरा। मासूम को निकालने रेस्क्यू जारी",
           "description": "IBC24, Ujjain Borewell Recue News LIVE: 3 साल का मासूम बोरवेल पर गिरा। मासूम को ...",
@@ -483,25 +498,10 @@
           "thumbnail": "https://i.ytimg.com/vi/b24Kn3WJI5w/hqdefault.jpg",
           "durationSeconds": 424,
           "durationFormatted": "07:04",
-          "views": 136,
+          "views": 190,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "hb9O6WzeYHs",
-          "title": "Ujjain Borewell Child Rescue LIVE: बोरवेल में गिरा 3 साल का Bhagirath, रेस्क्यू जारी |Breaking",
-          "description": "Ujjain Borewell Child Rescue LIVE: बोरवेल में गिरा 3 साल का Bhagirath, रेस्क्यू जारी |Breaking ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-09T16:53:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/hb9O6WzeYHs/hqdefault.jpg",
-          "durationSeconds": 870,
-          "durationFormatted": "14:30",
-          "views": 48,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-04-09T19:08:51Z"
@@ -510,7 +510,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 37.2,
+      "trendScore": 36.3,
       "topVideos": [
         {
           "index": 1,
@@ -567,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zRljJ-swMxg/hqdefault.jpg",
           "durationSeconds": 283,
           "durationFormatted": "04:43",
-          "views": 60,
+          "views": 67,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 3,
-      "trendScore": 36.6,
+      "trendScore": 35.3,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +591,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ciR6Yx0H0ic/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 4941,
-          "likes": 121,
+          "views": 6220,
+          "likes": 127,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -606,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/h3LBvDTyKJ4/hqdefault.jpg",
           "durationSeconds": 1578,
           "durationFormatted": "26:18",
-          "views": 1147,
-          "likes": 67,
+          "views": 1467,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -621,8 +621,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mMeeitF2TWA/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 914,
-          "likes": 11,
+          "views": 947,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -630,34 +630,10 @@
       "latestUpdateAt": "2026-04-09T15:06:25Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 33.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "lyIyWtxf_rM",
-          "title": "Assam,Kerala,Puducherry Election 2026:  जमकर हुआ तीनों राज्यों में मतदान, अब नतीजों का इंतजार । Top",
-          "description": "Assam,Kerala,Puducherry Election 2026: जमकर हुआ तीनों राज्यों में मतदान, अब नतीजों का ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-09T14:54:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/lyIyWtxf_rM/hqdefault.jpg",
-          "durationSeconds": 650,
-          "durationFormatted": "10:50",
-          "views": 11868,
-          "likes": 110,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-09T14:54:36Z"
-    },
-    {
       "clusterId": "xpress-पमगढ",
       "topic": "Xpress पामगढ़",
       "videoCount": 5,
-      "trendScore": 30.8,
+      "trendScore": 30.0,
       "topVideos": [
         {
           "index": 1,
@@ -669,7 +645,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UhS4B18zRVc/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 579,
+          "views": 613,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -699,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9ZiH7C_rsA0/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 125,
+          "views": 139,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -714,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MOhc8Z-MQC4/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 115,
+          "views": 118,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -729,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JR9yLuGNcIs/hqdefault.jpg",
           "durationSeconds": 155,
           "durationFormatted": "02:35",
-          "views": 62,
+          "views": 64,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -741,7 +717,7 @@
       "clusterId": "congress-protest",
       "topic": "Congress Protest",
       "videoCount": 4,
-      "trendScore": 30.2,
+      "trendScore": 29.2,
       "topVideos": [
         {
           "index": 1,
@@ -753,8 +729,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TOxCE78nDcc/hqdefault.jpg",
           "durationSeconds": 1424,
           "durationFormatted": "23:44",
-          "views": 563,
-          "likes": 6,
+          "views": 618,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -783,8 +759,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aokVEH0Xlu0/hqdefault.jpg",
           "durationSeconds": 551,
           "durationFormatted": "09:11",
-          "views": 45,
-          "likes": 2,
+          "views": 51,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -798,8 +774,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6-uOBYt27b0/hqdefault.jpg",
           "durationSeconds": 347,
           "durationFormatted": "05:47",
-          "views": 5,
-          "likes": 1,
+          "views": 13,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
