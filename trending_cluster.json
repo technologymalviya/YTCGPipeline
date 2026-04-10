@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-10T19:09:53.395677Z",
-  "clusterCount": 13,
+  "generatedAt": "2026-04-10T20:53:27.830322Z",
+  "clusterCount": 15,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 58,
-      "trendScore": 62.0,
+      "trendScore": 61.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/z7wfVVLnyK4/hqdefault.jpg",
           "durationSeconds": 586,
           "durationFormatted": "09:46",
-          "views": 38880,
-          "likes": 287,
+          "views": 41725,
+          "likes": 290,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kDE0Qy4Ekmc/hqdefault.jpg",
           "durationSeconds": 1681,
           "durationFormatted": "28:01",
-          "views": 18393,
+          "views": 18526,
           "likes": 299,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/F1vS7Ae_IVs/hqdefault.jpg",
           "durationSeconds": 848,
           "durationFormatted": "14:08",
-          "views": 10170,
-          "likes": 190,
+          "views": 10623,
+          "likes": 191,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WRRR44HNqHQ/hqdefault.jpg",
           "durationSeconds": 169,
           "durationFormatted": "02:49",
-          "views": 7434,
-          "likes": 81,
+          "views": 7751,
+          "likes": 86,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/lMmwdQMw1Ok/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 7101,
+          "views": 7688,
           "likes": 53,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-10T18:40:51Z"
+      "latestUpdateAt": "2026-04-10T20:26:25Z"
     },
     {
       "clusterId": "bhaskar-भलई",
       "topic": "Bhaskar भिलाई",
       "videoCount": 11,
-      "trendScore": 44.5,
+      "trendScore": 43.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/p2Tx_u_7GqA/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 2289,
+          "views": 2364,
           "likes": 84,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fK5mRnwQVPE/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 768,
+          "views": 790,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
@@ -132,13 +132,28 @@
           "thumbnail": "https://i.ytimg.com/vi/QPu-fgifdvI/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 449,
+          "views": 475,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "OYfWVbvPgH4",
+          "title": "रायपुर RTO में ACB की रेड! ,14 हजार रिश्वत लेते बाबू गिरफ्तार।",
+          "description": "रायपुर RTO में ACB की रेड! ,14 हजार रिश्वत लेते बाबू गिरफ्तार। Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-10T15:00:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/OYfWVbvPgH4/hqdefault.jpg",
+          "durationSeconds": 93,
+          "durationFormatted": "01:33",
+          "views": 317,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "2bi8RvP46gI",
           "title": "छात्रों के लिए बड़ी राहत, अब हॉस्टल खर्च में मदद करेगी सरकार",
           "description": "छात्रों के लिए बड़ी राहत, अब हॉस्टल खर्च में मदद करेगी सरकार Join our ...",
@@ -147,25 +162,10 @@
           "thumbnail": "https://i.ytimg.com/vi/2bi8RvP46gI/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 314,
+          "views": 316,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "UwGSC9hHXb8",
-          "title": "भिलाई में पहली बार कुश्ती का महासंग्राम | CG Bhaskar",
-          "description": "Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx Follow us on Social Media Facebook ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-10T09:00:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/UwGSC9hHXb8/hqdefault.jpg",
-          "durationSeconds": 93,
-          "durationFormatted": "01:33",
-          "views": 281,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-10T16:30:27Z"
@@ -174,7 +174,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 40.0,
+      "trendScore": 39.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3OubMBuDpgM/hqdefault.jpg",
           "durationSeconds": 583,
           "durationFormatted": "09:43",
-          "views": 542,
+          "views": 562,
           "likes": 39,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rfuZc7yGxOY/hqdefault.jpg",
           "durationSeconds": 575,
           "durationFormatted": "09:35",
-          "views": 248,
+          "views": 238,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jWI5szgbzvw/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 90,
+          "views": 93,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8lNbxr7w7yk/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 87,
+          "views": 86,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -243,7 +243,7 @@
       "clusterId": "मगलसरय-आयजन",
       "topic": "मुगलसराय आयोजन",
       "videoCount": 14,
-      "trendScore": 39.2,
+      "trendScore": 36.7,
       "topVideos": [
         {
           "index": 1,
@@ -255,23 +255,23 @@
           "thumbnail": "https://i.ytimg.com/vi/nkXe_HPCvtE/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 97,
+          "views": 108,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "ZWSnfE2FD8Y",
-          "title": "अंबिकापुर दु!ष्कर्म-H.त्या कांड में बड़ी सफलता ,मुख्य आरोपी गिरफ्तार",
+          "videoId": "tj__Wd5zUDE",
+          "title": "राजनांदगांव में 1.75 लाख की झपटमारी ,नोट डबल का लालच देकर लूट",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-10T11:06:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZWSnfE2FD8Y/hqdefault.jpg",
-          "durationSeconds": 49,
-          "durationFormatted": "00:49",
-          "views": 11,
-          "likes": 1,
+          "publishedAt": "2026-04-10T13:49:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/tj__Wd5zUDE/hqdefault.jpg",
+          "durationSeconds": 65,
+          "durationFormatted": "01:05",
+          "views": 35,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,13 +285,28 @@
           "thumbnail": "https://i.ytimg.com/vi/MAmqwMCdnos/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 8,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "-ZJN_QctbLg",
+          "title": "दुर्ग में हथियार लहराकर दहशत , छावनी पुलिस ने तुरंत किया गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-10T13:27:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/-ZJN_QctbLg/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 10,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "f8otBJnW4Ks",
           "title": "दुर्ग: सिगरेट को लेकर विवाद ,कैरम सेंटर में मारपीट, H.त्या का प्रयास",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -304,114 +319,15 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "-ZJN_QctbLg",
-          "title": "दुर्ग में हथियार लहराकर दहशत , छावनी पुलिस ने तुरंत किया गिरफ्तार",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-10T13:27:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/-ZJN_QctbLg/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-10T13:50:13Z"
     },
     {
-      "clusterId": "borewell-rescue",
-      "topic": "Borewell Rescue",
-      "videoCount": 7,
-      "trendScore": 37.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "CYP_h9s2hmU",
-          "title": "Ujjain Borewell Incident LIVE: 70 फीट गहरे बोरवेल में गिरा मासूम, रातभर चलता रहा Rescue Operation",
-          "description": "Ujjain Borewell Incident LIVE: 70 फीट गहरे बोरवेल में गिरा मासूम, रातभर चलता रहा Rescue ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-10T15:42:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/CYP_h9s2hmU/hqdefault.jpg",
-          "durationSeconds": 42897,
-          "durationFormatted": "11:54:57",
-          "views": 3836,
-          "likes": 35,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "z50hqaRa4mQ",
-          "title": "Borewell Rescue Update:  3 साल के मासूम भागीरथ की मौत, 22 घंटे बाद बाहर आया शव। Breaking News । Top",
-          "description": "Borewell Rescue Update: 3 साल के मासूम भागीरथ की मौत, 22 घंटे बाद बाहर आया शव।",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-10T13:25:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/z50hqaRa4mQ/hqdefault.jpg",
-          "durationSeconds": 271,
-          "durationFormatted": "04:31",
-          "views": 3117,
-          "likes": 34,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "gJzTrf9J9tE",
-          "title": "Ujjain Borewell Rescue Operation Live Update: रिंग रेस्क्यू नाकाम, सुरंग की खुदाई जारी | Bijnor News",
-          "description": "Ujjain Borewell Rescue Operation Live Update: रिंग रेस्क्यू नाकाम, सुरंग की खुदाई जारी ...",
-          "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-10T13:08:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/gJzTrf9J9tE/hqdefault.jpg",
-          "durationSeconds": 3936,
-          "durationFormatted": "01:05:36",
-          "views": 1129,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "L-k82_yWYr4",
-          "title": "Borewell Rescue Update: 60 फीट तक निकाला गया भागीरथ, रेस्क्यू जारी। Top News । Breaking । Latest",
-          "description": "Borewell Rescue Update: 60 फीट तक निकाला गया भागीरथ, रेस्क्यू जारी। Top News । Breaking ...",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-10T12:20:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/L-k82_yWYr4/hqdefault.jpg",
-          "durationSeconds": 226,
-          "durationFormatted": "03:46",
-          "views": 677,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
-          "videoId": "vB3JtLm1Vhg",
-          "title": "Ujjian Borewell Rescue: 70 फीट गहरा बोरवेल, 20 घंटे &#39;भाग्य&#39; से लड़ रहा है Bhagirath।Top News। Live",
-          "description": "Ujjian Borewell Rescue: 70 फीट गहरा बोरवेल, 20 घंटे 'भाग्य' से लड़ रहा है Bhagirath।",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-10T11:59:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/vB3JtLm1Vhg/hqdefault.jpg",
-          "durationSeconds": 10758,
-          "durationFormatted": "02:59:18",
-          "views": 668,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-04-10T15:42:42Z"
-    },
-    {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 7,
-      "trendScore": 36.1,
+      "trendScore": 35.9,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +339,7 @@
           "thumbnail": "https://i.ytimg.com/vi/m5lMN6btzMA/hqdefault.jpg",
           "durationSeconds": 1567,
           "durationFormatted": "26:07",
-          "views": 11655,
+          "views": 11750,
           "likes": 192,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XLZgfizZ3w8/hqdefault.jpg",
           "durationSeconds": 990,
           "durationFormatted": "16:30",
-          "views": 488,
+          "views": 524,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -483,19 +399,88 @@
           "thumbnail": "https://i.ytimg.com/vi/BdSq_CasIzk/hqdefault.jpg",
           "durationSeconds": 3345,
           "durationFormatted": "55:45",
-          "views": 303,
+          "views": 311,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-10T17:33:56Z"
+      "latestUpdateAt": "2026-04-10T19:19:35Z"
     },
     {
-      "clusterId": "pakistan-nobel",
-      "topic": "Pakistan Nobel",
+      "clusterId": "boat-accident",
+      "topic": "Boat Accident",
+      "videoCount": 4,
+      "trendScore": 35.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "lDT6HBwK2jc",
+          "title": "Mathura Boat Accident: वृंदावन में दर्दनाक हादसा। यमुना में पलटी पर्यटकों से भरी बोट..8 लोगों की मौत",
+          "description": "IBC24, Mathura Boat Accident: वृंदावन में दर्दनाक हादसा। यमुना में पलटी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-10T19:02:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/lDT6HBwK2jc/hqdefault.jpg",
+          "durationSeconds": 21551,
+          "durationFormatted": "05:59:11",
+          "views": 13332,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "w4IdRtgMy5c",
+          "title": "🔴 Vrindavan Boat Accident News LIVE: यमुना नदी में मौत का मंजर! पर्यटकों से भरी स्टीमर बोट पलटी..",
+          "description": "IBC24, Vrindavan Boat Accident News LIVE: यमुना नदी में मौत का मंजर! पर्यटकों से भरी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-10T18:57:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/w4IdRtgMy5c/hqdefault.jpg",
+          "durationSeconds": 17266,
+          "durationFormatted": "04:47:46",
+          "views": 10510,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "-VbUvC97ZsA",
+          "title": "Mathura Boat Accident: मथुरा नाव हादसे में 9 लोगों की मौत | Breaking News | UP News | Top News",
+          "description": "Mathura Boat Accident: मथुरा नाव हादसे में 9 लोगों की मौत | Breaking News | UP News | Top News ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-10T13:45:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/-VbUvC97ZsA/hqdefault.jpg",
+          "durationSeconds": 476,
+          "durationFormatted": "07:56",
+          "views": 470,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "4HULUjO7j58",
+          "title": "Yamuna Boat Accident: पलटी श्रद्धालुओं से भरी नाव, 6 लोगों की मौत, कई लापता, हड़कंप!। Top News। NDTV",
+          "description": "Yamuna Boat Accident: यूपी (UP) के मथुरा जिले से एक बडे हादसे की खबर सामने आई है.",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T13:42:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/4HULUjO7j58/hqdefault.jpg",
+          "durationSeconds": 219,
+          "durationFormatted": "03:39",
+          "views": 245,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-04-10T19:02:23Z"
+    },
+    {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
       "videoCount": 7,
-      "trendScore": 35.9,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PhmT01EdmDY/hqdefault.jpg",
           "durationSeconds": 1556,
           "durationFormatted": "25:56",
-          "views": 208,
+          "views": 256,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -537,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vbWubSO5UNE/hqdefault.jpg",
           "durationSeconds": 1208,
           "durationFormatted": "20:08",
-          "views": 146,
+          "views": 169,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -552,22 +537,22 @@
           "thumbnail": "https://i.ytimg.com/vi/q7lPQjXvafs/hqdefault.jpg",
           "durationSeconds": 1430,
           "durationFormatted": "23:50",
-          "views": 131,
+          "views": 137,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "rq__M0R4U9A",
-          "title": "Indore BJP Protest : 85 वार्डों में कांग्रेस का पुतला दहन | वंदे मातरम न गाने पर विवाद | Zee MPCG",
-          "description": "इंदौर में बीजेपी ने बड़ा विरोध प्रदर्शन किया, जहां 85 वार्डों में ...",
+          "videoId": "QQ2bYZPZJMs",
+          "title": "🔴LIVE: MP Dastak : मंडला में कुत्तों की नसबंदी में खेल ! | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : मंडला में कुत्तों की नसबंदी में खेल ! | Latest News | Zee MPCG #MPDastak ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-10T09:37:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/rq__M0R4U9A/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 72,
+          "publishedAt": "2026-04-10T16:21:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/QQ2bYZPZJMs/hqdefault.jpg",
+          "durationSeconds": 1656,
+          "durationFormatted": "27:36",
+          "views": 109,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -579,7 +564,7 @@
       "clusterId": "छततसगढ-सरकर",
       "topic": "छत्तीसगढ़ सरकारी",
       "videoCount": 4,
-      "trendScore": 35.5,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +576,8 @@
           "thumbnail": "https://i.ytimg.com/vi/b8ob3V9hdhY/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 14353,
-          "likes": 231,
+          "views": 15749,
+          "likes": 233,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -606,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xKtTLWJMhFg/hqdefault.jpg",
           "durationSeconds": 510,
           "durationFormatted": "08:30",
-          "views": 119,
+          "views": 115,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -621,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6DhwkoyWf9s/hqdefault.jpg",
           "durationSeconds": 538,
           "durationFormatted": "08:58",
-          "views": 81,
-          "likes": 3,
+          "views": 93,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -645,10 +630,94 @@
       "latestUpdateAt": "2026-04-10T17:27:25Z"
     },
     {
+      "clusterId": "borewell-rescue",
+      "topic": "Borewell Rescue",
+      "videoCount": 5,
+      "trendScore": 34.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "CYP_h9s2hmU",
+          "title": "Ujjain Borewell Incident LIVE: 70 फीट गहरे बोरवेल में गिरा मासूम, रातभर चलता रहा Rescue Operation",
+          "description": "Ujjain Borewell Incident LIVE: 70 फीट गहरे बोरवेल में गिरा मासूम, रातभर चलता रहा Rescue ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T15:42:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/CYP_h9s2hmU/hqdefault.jpg",
+          "durationSeconds": 42897,
+          "durationFormatted": "11:54:57",
+          "views": 3897,
+          "likes": 35,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "z50hqaRa4mQ",
+          "title": "Borewell Rescue Update:  3 साल के मासूम भागीरथ की मौत, 22 घंटे बाद बाहर आया शव। Breaking News । Top",
+          "description": "Borewell Rescue Update: 3 साल के मासूम भागीरथ की मौत, 22 घंटे बाद बाहर आया शव।",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T13:25:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/z50hqaRa4mQ/hqdefault.jpg",
+          "durationSeconds": 271,
+          "durationFormatted": "04:31",
+          "views": 3491,
+          "likes": 34,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "vB3JtLm1Vhg",
+          "title": "Ujjian Borewell Rescue: 70 फीट गहरा बोरवेल, 20 घंटे &#39;भाग्य&#39; से लड़ रहा है Bhagirath।Top News। Live",
+          "description": "Ujjian Borewell Rescue: 70 फीट गहरा बोरवेल, 20 घंटे 'भाग्य' से लड़ रहा है Bhagirath।",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T11:59:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/vB3JtLm1Vhg/hqdefault.jpg",
+          "durationSeconds": 10758,
+          "durationFormatted": "02:59:18",
+          "views": 699,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "L-k82_yWYr4",
+          "title": "Borewell Rescue Update: 60 फीट तक निकाला गया भागीरथ, रेस्क्यू जारी। Top News । Breaking । Latest",
+          "description": "Borewell Rescue Update: 60 फीट तक निकाला गया भागीरथ, रेस्क्यू जारी। Top News । Breaking ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T12:20:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/L-k82_yWYr4/hqdefault.jpg",
+          "durationSeconds": 226,
+          "durationFormatted": "03:46",
+          "views": 677,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "poOOiPG9Cwk",
+          "title": "Borewell Rescue Update: मां बेसुध, फूट-फूट कर रोए पिता, बोरवेल में फंसे भागीरथ की मौत। Breaking News",
+          "description": "Borewell Rescue Update: मां बेसुध, फूट-फूट कर रोए पिता, बोरवेल में फंसे भागीरथ ...",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T15:30:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/poOOiPG9Cwk/hqdefault.jpg",
+          "durationSeconds": 2240,
+          "durationFormatted": "37:20",
+          "views": 508,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-04-10T15:42:42Z"
+    },
+    {
       "clusterId": "tmc-कगरस",
       "topic": "TMC कांग्रेस",
-      "videoCount": 8,
-      "trendScore": 34.5,
+      "videoCount": 7,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mcB7Z15-Xu0/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 1564,
+          "views": 1673,
           "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
@@ -675,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sTBqHIZo8dE/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 1224,
+          "views": 1310,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
@@ -690,28 +759,13 @@
           "thumbnail": "https://i.ytimg.com/vi/odY7tSpMhbM/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 1167,
-          "likes": 7,
+          "views": 1203,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "mc2-D18LrJ0",
-          "title": "चुनाव आयोग की TMC को दो टूक!",
-          "description": "चुनाव आयोग की TMC को दो टूक! #inh24x7news #drhimanshudwivedi #mamatabanerjee #charcha Source : ANI ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-10T06:57:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/mc2-D18LrJ0/hqdefault.jpg",
-          "durationSeconds": 87,
-          "durationFormatted": "01:27",
-          "views": 550,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "jFJSfpvnd8c",
           "title": "TMC की जीत का प्लान! कैसे जीतेगी चुनाव?",
           "description": "TMC की जीत का प्लान! कैसे जीतेगी चुनाव? #inh24x7news #drhimanshudwivedi #mamatabanerjee ...",
@@ -720,8 +774,23 @@
           "thumbnail": "https://i.ytimg.com/vi/jFJSfpvnd8c/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 530,
+          "views": 528,
           "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "Tu5OHoT5Hfk",
+          "title": "TMC के पास अब भी ताकत बची है या शुरू हो गई विदाई की तैयारी?",
+          "description": "TMC के पास अब भी ताकत बची है या शुरू हो गई विदाई की तैयारी? #inh24x7news ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-10T07:01:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/Tu5OHoT5Hfk/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 389,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -732,7 +801,7 @@
       "clusterId": "manifesto-bengal",
       "topic": "Manifesto Bengal",
       "videoCount": 5,
-      "trendScore": 33.2,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -744,7 +813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mEMOM2svEhQ/hqdefault.jpg",
           "durationSeconds": 266,
           "durationFormatted": "04:26",
-          "views": 4572,
+          "views": 6252,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -759,13 +828,28 @@
           "thumbnail": "https://i.ytimg.com/vi/IeHRMo27Adg/hqdefault.jpg",
           "durationSeconds": 388,
           "durationFormatted": "06:28",
-          "views": 563,
+          "views": 718,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
+          "videoId": "zQqn3HE6ZzI",
+          "title": "The Editor&#39;s Show: West Bengal में Bihar वाला &#39;पैंतरा&#39; BJP को जीता देगा? | BJP Manifesto",
+          "description": "The Editor's Show: West Bengal में Bihar वाला 'पैंतरा' BJP को जीता देगा? | BJP Manifesto #WestBengal ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-10T16:06:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/zQqn3HE6ZzI/hqdefault.jpg",
+          "durationSeconds": 334,
+          "durationFormatted": "05:34",
+          "views": 82,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "u2_kdwEYpVg",
           "title": "West Bengal Elections 2026: पश्चिम बंगाल के लिए BJP का &#39;भरोसा पत्र&#39; | Amit Shah | Top News",
           "description": "West Bengal Elections 2026: पश्चिम बंगाल के लिए BJP का 'भरोसा पत्र' | Amit Shah | Top News ...",
@@ -780,21 +864,6 @@
           "genre": "Politics"
         },
         {
-          "index": 4,
-          "videoId": "zQqn3HE6ZzI",
-          "title": "The Editor&#39;s Show: West Bengal में Bihar वाला &#39;पैंतरा&#39; BJP को जीता देगा? | BJP Manifesto",
-          "description": "The Editor's Show: West Bengal में Bihar वाला 'पैंतरा' BJP को जीता देगा? | BJP Manifesto #WestBengal ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-10T16:06:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/zQqn3HE6ZzI/hqdefault.jpg",
-          "durationSeconds": 334,
-          "durationFormatted": "05:34",
-          "views": 56,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
           "index": 5,
           "videoId": "_88iyc1HVp8",
           "title": "BJP Manifesto Bengal | BJP ने घोषणा पत्र को &#39;भरोसा पत्र&#39; नाम दिया, हर वर्ग के लिए किया वादों का ऐलान",
@@ -804,7 +873,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_88iyc1HVp8/hqdefault.jpg",
           "durationSeconds": 288,
           "durationFormatted": "04:48",
-          "views": 34,
+          "views": 50,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -813,79 +882,10 @@
       "latestUpdateAt": "2026-04-10T17:01:19Z"
     },
     {
-      "clusterId": "nand-kumar",
-      "topic": "Nand Kumar",
-      "videoCount": 4,
-      "trendScore": 33.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "cR1pmdslolg",
-          "title": "5 बच्चे पैदा करें आदिवासी समाज? Nand Kumar Sai के बयान से मचा सियासी तूफान | BJP | Congress",
-          "description": "5 बच्चे पैदा करें आदिवासी समाज? Nand Kumar Sai के बयान से मचा सियासी तूफान ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-10T11:51:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/cR1pmdslolg/hqdefault.jpg",
-          "durationSeconds": 1849,
-          "durationFormatted": "30:49",
-          "views": 2285,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "QDWsbC9f5rs",
-          "title": "Seedhe Mudde Ki Baat : Nand Kumar Sai बोले...&quot;5 बच्चे पैदा करो&quot; | Tribal Identity | Census",
-          "description": "Seedhe Mudde Ki Baat : Nand Kumar Sai बोले...\"5 बच्चे पैदा करो\" | Tribal Identity | Census #nandkumarsai ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-10T15:41:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/QDWsbC9f5rs/hqdefault.jpg",
-          "durationSeconds": 497,
-          "durationFormatted": "08:17",
-          "views": 527,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "c9bNS92waJk",
-          "title": "Nand Kumar Sai: &#39;जनसंख्या- धर्म Code, 5 बच्चे पैदा करें आदिवासी&#39;, बयान पर बवाल?। Top News । Tribal",
-          "description": "Nand Kumar Sai: 'जनसंख्या- धर्म Code, 5 बच्चे पैदा करें आदिवासी', बयान पर बवाल?",
-          "channelTitle": "NDTV MP Chhattisgarh",
-          "publishedAt": "2026-04-10T16:24:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/c9bNS92waJk/hqdefault.jpg",
-          "durationSeconds": 1688,
-          "durationFormatted": "28:08",
-          "views": 108,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "onclcJsc5hU",
-          "title": "The Editor&#39;s Show: अगर आप आदिवासी हैं तो 5 बच्चे पैदा करने पड़ेंगे! | Nand Kumar Sai | Chhattisgarh",
-          "description": "The Editor's Show: अगर आप आदिवासी हैं तो 5 बच्चे पैदा करने पड़ेंगे! | Nand Kumar Sai ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-10T16:27:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/onclcJsc5hU/hqdefault.jpg",
-          "durationSeconds": 233,
-          "durationFormatted": "03:53",
-          "views": 40,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-10T16:27:19Z"
-    },
-    {
       "clusterId": "bhilai-nigam",
       "topic": "Bhilai Nigam",
       "videoCount": 4,
-      "trendScore": 33.1,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -897,7 +897,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gmhAKq9-gVg/hqdefault.jpg",
           "durationSeconds": 877,
           "durationFormatted": "14:37",
-          "views": 7705,
+          "views": 8743,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -912,7 +912,7 @@
           "thumbnail": "https://i.ytimg.com/vi/34JD7D2gKmU/hqdefault.jpg",
           "durationSeconds": 361,
           "durationFormatted": "06:01",
-          "views": 1118,
+          "views": 1372,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -927,7 +927,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OB_lfADQU38/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 284,
+          "views": 371,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -951,10 +951,148 @@
       "latestUpdateAt": "2026-04-10T17:00:38Z"
     },
     {
+      "clusterId": "nand-kumar",
+      "topic": "Nand Kumar",
+      "videoCount": 4,
+      "trendScore": 32.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "cR1pmdslolg",
+          "title": "5 बच्चे पैदा करें आदिवासी समाज? Nand Kumar Sai के बयान से मचा सियासी तूफान | BJP | Congress",
+          "description": "5 बच्चे पैदा करें आदिवासी समाज? Nand Kumar Sai के बयान से मचा सियासी तूफान ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-10T11:51:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/cR1pmdslolg/hqdefault.jpg",
+          "durationSeconds": 1849,
+          "durationFormatted": "30:49",
+          "views": 2664,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "QDWsbC9f5rs",
+          "title": "Seedhe Mudde Ki Baat : Nand Kumar Sai बोले...&quot;5 बच्चे पैदा करो&quot; | Tribal Identity | Census",
+          "description": "Seedhe Mudde Ki Baat : Nand Kumar Sai बोले...\"5 बच्चे पैदा करो\" | Tribal Identity | Census #nandkumarsai ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-10T15:41:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/QDWsbC9f5rs/hqdefault.jpg",
+          "durationSeconds": 497,
+          "durationFormatted": "08:17",
+          "views": 670,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "c9bNS92waJk",
+          "title": "Nand Kumar Sai: &#39;जनसंख्या- धर्म Code, 5 बच्चे पैदा करें आदिवासी&#39;, बयान पर बवाल?। Top News । Tribal",
+          "description": "Nand Kumar Sai: 'जनसंख्या- धर्म Code, 5 बच्चे पैदा करें आदिवासी', बयान पर बवाल?",
+          "channelTitle": "NDTV MP Chhattisgarh",
+          "publishedAt": "2026-04-10T16:24:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/c9bNS92waJk/hqdefault.jpg",
+          "durationSeconds": 1688,
+          "durationFormatted": "28:08",
+          "views": 139,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "onclcJsc5hU",
+          "title": "The Editor&#39;s Show: अगर आप आदिवासी हैं तो 5 बच्चे पैदा करने पड़ेंगे! | Nand Kumar Sai | Chhattisgarh",
+          "description": "The Editor's Show: अगर आप आदिवासी हैं तो 5 बच्चे पैदा करने पड़ेंगे! | Nand Kumar Sai ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-10T16:27:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/onclcJsc5hU/hqdefault.jpg",
+          "durationSeconds": 233,
+          "durationFormatted": "03:53",
+          "views": 59,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-10T16:27:19Z"
+    },
+    {
+      "clusterId": "marriage-monalisa",
+      "topic": "Marriage Monalisa",
+      "videoCount": 4,
+      "trendScore": 32.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "KxFa6cf5yEM",
+          "title": "Monalisa-Farman Marriage Case Live: मोनालिसा अभी 16 साल की, फरमान खान को होगा जेल? | MP News | POCSO",
+          "description": "Monalisa-Farman Khan Marriage Case Live : मोनालिसा अभी 16 साल की, फरमान खान को होगा जेल ?",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-10T13:38:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/KxFa6cf5yEM/hqdefault.jpg",
+          "durationSeconds": 4445,
+          "durationFormatted": "01:14:05",
+          "views": 2372,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "vskXbUzpqBU",
+          "title": "🔴Monalisa Marriage Controversy LIVE: 16 साल की नाबालिग निकली मोनालिसा, जेल जाएगा फरहान? Breaking",
+          "description": "Monalisa Marriage Controversy LIVE: 16 साल की नाबालिग निकली मोनालिसा, जेल जाएगा फरहान ...",
+          "channelTitle": "Vistaar News",
+          "publishedAt": "2026-04-10T15:35:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/vskXbUzpqBU/hqdefault.jpg",
+          "durationSeconds": 37660,
+          "durationFormatted": "10:27:40",
+          "views": 2317,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "q0vJzm4JsKs",
+          "title": "Monalisa Farman Marriage Controversy: प्यार के पीछे साजिश? मोनालिसा की शादी पर उठे बड़े सवाल |",
+          "description": "Monalisa Farman Marriage Controversy: प्यार के पीछे साजिश? मोनालिसा की शादी पर उठे ...",
+          "channelTitle": "News18 MP Chhattisgarh",
+          "publishedAt": "2026-04-10T17:15:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/q0vJzm4JsKs/hqdefault.jpg",
+          "durationSeconds": 197,
+          "durationFormatted": "03:17",
+          "views": 667,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "M7IqPD4qy_s",
+          "title": "Monalisa Marriage Controversy: Viral Girl की स्टोरी में ट्विस्ट! सलाखों के पीछे जाएगा फरमान खान!",
+          "description": "IBC24, Monalisa Marriage Controversy: Viral Girl की स्टोरी में ट्विस्ट! सलाखों के पीछे ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-10T16:20:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/M7IqPD4qy_s/hqdefault.jpg",
+          "durationSeconds": 539,
+          "durationFormatted": "08:59",
+          "views": 220,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-10T17:15:04Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 32.5,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -966,8 +1104,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4QW_qVoZsFw/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 6472,
-          "likes": 193,
+          "views": 7133,
+          "likes": 203,
           "videoType": "VOD",
           "genre": "General"
         }
