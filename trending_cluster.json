@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-11T19:03:30.416405Z",
-  "clusterCount": 12,
+  "generatedAt": "2026-04-11T20:50:18.112051Z",
+  "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 80,
-      "trendScore": 62.8,
+      "videoCount": 82,
+      "trendScore": 61.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ePmApGkJLrw/hqdefault.jpg",
           "durationSeconds": 712,
           "durationFormatted": "11:52",
-          "views": 30638,
-          "likes": 254,
+          "views": 33109,
+          "likes": 261,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-jWh3TyfGPw/hqdefault.jpg",
           "durationSeconds": 1545,
           "durationFormatted": "25:45",
-          "views": 17524,
+          "views": 17648,
           "likes": 294,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/x4d7rZN2pGM/hqdefault.jpg",
           "durationSeconds": 2484,
           "durationFormatted": "41:24",
-          "views": 11191,
-          "likes": 90,
+          "views": 11653,
+          "likes": 91,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/eTInFhm06Nw/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 6821,
-          "likes": 594,
+          "views": 10149,
+          "likes": 638,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "gRXpHR1R9hk",
-          "title": "Iran America Ceasefire LIVE : ईरान की कोई भी शर्तें नहीं माना अमेरिका | Islamabad Meeting | BREAKING",
-          "description": "Iran America Ceasefire LIVE : ईरान की कोई भी शर्तें नहीं माना अमेरिका | Islamabad Meeting ...",
+          "videoId": "Vj22OL0KY-0",
+          "title": "CM Nitish Kumar Resigns Live : नीतीश का इस्तीफा होते ही मुख्यमंत्री के नाम की घोषणा! | Bihar New CM",
+          "description": "CM Nitish Kumar Resigns Live : नीतीश का इस्तीफा होते ही मुख्यमंत्री के नाम की ...",
           "channelTitle": "News18 MP Chhattisgarh",
-          "publishedAt": "2026-04-11T12:32:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/gRXpHR1R9hk/hqdefault.jpg",
-          "durationSeconds": 6560,
-          "durationFormatted": "01:49:20",
-          "views": 4508,
-          "likes": 19,
-          "videoType": "VOD",
-          "genre": "General"
+          "publishedAt": "2026-04-11T12:28:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/Vj22OL0KY-0/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 5016,
+          "likes": 24,
+          "videoType": "LIVE",
+          "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-04-11T17:38:26Z"
+      "latestUpdateAt": "2026-04-11T18:30:57Z"
     },
     {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 11,
-      "trendScore": 43.9,
+      "trendScore": 42.9,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/O0d-R6_Ib8o/hqdefault.jpg",
           "durationSeconds": 1548,
           "durationFormatted": "25:48",
-          "views": 10756,
+          "views": 10867,
           "likes": 161,
           "videoType": "VOD",
           "genre": "General"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wSWzHFcdJU0/hqdefault.jpg",
           "durationSeconds": 819,
           "durationFormatted": "13:39",
-          "views": 5182,
-          "likes": 181,
+          "views": 5970,
+          "likes": 187,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BZXpa0aWyxA/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 255,
+          "views": 275,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eMR9SPF27Dk/hqdefault.jpg",
           "durationSeconds": 715,
           "durationFormatted": "11:55",
-          "views": 158,
+          "views": 227,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -171,79 +171,10 @@
       "latestUpdateAt": "2026-04-11T17:54:21Z"
     },
     {
-      "clusterId": "newsonair-अपरल",
-      "topic": "Newsonair अप्रैल",
-      "videoCount": 4,
-      "trendScore": 39.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "beAV6SYLOIo",
-          "title": "11 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-11T14:09:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/beAV6SYLOIo/hqdefault.jpg",
-          "durationSeconds": 619,
-          "durationFormatted": "10:19",
-          "views": 556,
-          "likes": 34,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "7x7tohN3_PE",
-          "title": "11 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-11T13:51:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/7x7tohN3_PE/hqdefault.jpg",
-          "durationSeconds": 603,
-          "durationFormatted": "10:03",
-          "views": 125,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "hqHVGoBUur0",
-          "title": "11 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 11.55 बजे.",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-11T06:56:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/hqHVGoBUur0/hqdefault.jpg",
-          "durationSeconds": 285,
-          "durationFormatted": "04:45",
-          "views": 100,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "3tSYuGNxRKc",
-          "title": "11 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 09.55 बजे.",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-11T06:16:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/3tSYuGNxRKc/hqdefault.jpg",
-          "durationSeconds": 299,
-          "durationFormatted": "04:59",
-          "views": 64,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-11T14:09:33Z"
-    },
-    {
       "clusterId": "boat-accident",
       "topic": "Boat Accident",
       "videoCount": 4,
-      "trendScore": 39.1,
+      "trendScore": 38.0,
       "topVideos": [
         {
           "index": 1,
@@ -255,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UMV0atrt18c/hqdefault.jpg",
           "durationSeconds": 329,
           "durationFormatted": "05:29",
-          "views": 22797,
-          "likes": 143,
+          "views": 24574,
+          "likes": 147,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -270,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aX1JBVYQRbk/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 22583,
+          "views": 23694,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -285,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UCHH_-SQUYM/hqdefault.jpg",
           "durationSeconds": 30731,
           "durationFormatted": "08:32:11",
-          "views": 18260,
+          "views": 18470,
           "likes": 59,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -300,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ul-SPfmAdmw/hqdefault.jpg",
           "durationSeconds": 35471,
           "durationFormatted": "09:51:11",
-          "views": 4592,
+          "views": 4903,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -312,7 +243,7 @@
       "clusterId": "bhaskar-rjn",
       "topic": "Bhaskar RJN",
       "videoCount": 8,
-      "trendScore": 38.9,
+      "trendScore": 37.7,
       "topVideos": [
         {
           "index": 1,
@@ -324,43 +255,13 @@
           "thumbnail": "https://i.ytimg.com/vi/owTiuWgfmLU/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 932,
-          "likes": 31,
+          "views": 1010,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "9p6nekOiaYM",
-          "title": "सालेम स्कूल के खिलाफ अब टीचर्स ने खोला मोर्चा",
-          "description": "सालेम स्कूल के खिलाफ अब टीचर्स ने खोला मोर्चा Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-11T09:31:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/9p6nekOiaYM/hqdefault.jpg",
-          "durationSeconds": 106,
-          "durationFormatted": "01:46",
-          "views": 515,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "YIfA9at8uA8",
-          "title": "सेंट्रल जेल में बंद गोलीकांड के आरोपियों का रील वायरल",
-          "description": "सेंट्रल जेल में बंद गोलीकांड के आरोपियों का रील वायरल Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-11T12:01:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/YIfA9at8uA8/hqdefault.jpg",
-          "durationSeconds": 122,
-          "durationFormatted": "02:02",
-          "views": 456,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
           "videoId": "uzu4YDbfucw",
           "title": "नॉन-वेज लवर के लिए खुशखबरी! | CG Bhaskar",
           "description": "नॉन-वेज लवर के लिए खुशखबरी! | CG Bhaskar Join our Whatsapp Group ...",
@@ -369,10 +270,40 @@
           "thumbnail": "https://i.ytimg.com/vi/uzu4YDbfucw/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 434,
-          "likes": 3,
+          "views": 565,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "9p6nekOiaYM",
+          "title": "सालेम स्कूल के खिलाफ अब टीचर्स ने खोला मोर्चा",
+          "description": "सालेम स्कूल के खिलाफ अब टीचर्स ने खोला मोर्चा Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-11T09:31:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/9p6nekOiaYM/hqdefault.jpg",
+          "durationSeconds": 106,
+          "durationFormatted": "01:46",
+          "views": 521,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "YIfA9at8uA8",
+          "title": "सेंट्रल जेल में बंद गोलीकांड के आरोपियों का रील वायरल",
+          "description": "सेंट्रल जेल में बंद गोलीकांड के आरोपियों का रील वायरल Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-11T12:01:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/YIfA9at8uA8/hqdefault.jpg",
+          "durationSeconds": 122,
+          "durationFormatted": "02:02",
+          "views": 482,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 5,
@@ -384,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JvoZV-CIpaM/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 352,
+          "views": 442,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -393,10 +324,79 @@
       "latestUpdateAt": "2026-04-11T15:15:03Z"
     },
     {
+      "clusterId": "newsonair-अपरल",
+      "topic": "Newsonair अप्रैल",
+      "videoCount": 4,
+      "trendScore": 37.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "beAV6SYLOIo",
+          "title": "11 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-11T14:09:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/beAV6SYLOIo/hqdefault.jpg",
+          "durationSeconds": 619,
+          "durationFormatted": "10:19",
+          "views": 616,
+          "likes": 34,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "7x7tohN3_PE",
+          "title": "11 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-11T13:51:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/7x7tohN3_PE/hqdefault.jpg",
+          "durationSeconds": 603,
+          "durationFormatted": "10:03",
+          "views": 170,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "hqHVGoBUur0",
+          "title": "11 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 11.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-11T06:56:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/hqHVGoBUur0/hqdefault.jpg",
+          "durationSeconds": 285,
+          "durationFormatted": "04:45",
+          "views": 106,
+          "likes": 12,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "3tSYuGNxRKc",
+          "title": "11 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 09.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-11T06:16:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/3tSYuGNxRKc/hqdefault.jpg",
+          "durationSeconds": 299,
+          "durationFormatted": "04:59",
+          "views": 65,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-11T14:09:33Z"
+    },
+    {
       "clusterId": "iran-talks",
       "topic": "Iran Talks",
       "videoCount": 4,
-      "trendScore": 37.0,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -408,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ap-vCCR5X8w/hqdefault.jpg",
           "durationSeconds": 285,
           "durationFormatted": "04:45",
-          "views": 21673,
-          "likes": 213,
+          "views": 23755,
+          "likes": 212,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Kignr6d0dNg/hqdefault.jpg",
           "durationSeconds": 11,
           "durationFormatted": "00:11",
-          "views": 16140,
-          "likes": 65,
+          "views": 18297,
+          "likes": 67,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8bgGbzrVgPY/hqdefault.jpg",
           "durationSeconds": 245,
           "durationFormatted": "04:05",
-          "views": 4857,
+          "views": 4918,
           "likes": 36,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P1BiaA1n1Ug/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 1511,
+          "views": 1575,
           "likes": 6,
           "videoType": "LIVE",
           "genre": "Live"
@@ -465,7 +465,7 @@
       "clusterId": "सरकर-हसपटल",
       "topic": "सरकारी हॉस्पिटल",
       "videoCount": 4,
-      "trendScore": 35.5,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
@@ -477,8 +477,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kDOKyvPZFAo/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 9038,
-          "likes": 217,
+          "views": 9377,
+          "likes": 226,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -492,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QZeGT04klZA/hqdefault.jpg",
           "durationSeconds": 1654,
           "durationFormatted": "27:34",
-          "views": 319,
+          "views": 339,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -522,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rHUjLIfjyHg/hqdefault.jpg",
           "durationSeconds": 1613,
           "durationFormatted": "26:53",
-          "views": 40,
-          "likes": 2,
+          "views": 50,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -531,10 +531,94 @@
       "latestUpdateAt": "2026-04-11T13:29:43Z"
     },
     {
+      "clusterId": "कगरस-सल",
+      "topic": "कांग्रेस साल",
+      "videoCount": 7,
+      "trendScore": 31.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "RDmnVm0m2Wk",
+          "title": "रामानुजगंज में जनता ने कांग्रेस से तौबा क्यों कर लिया ?",
+          "description": "रामानुजगंज में जनता ने कांग्रेस से तौबा क्यों कर लिया ? #inh24x7news ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-11T08:37:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/RDmnVm0m2Wk/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 835,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "O2qZ1E02VYk",
+          "title": "ढाई-ढाई साल का फॉर्मूला किसका षड्यंत्र था ?",
+          "description": "ढाई-ढाई साल का फॉर्मूला किसका षड्यंत्र था ? #inh24x7news #Samvad2026 ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-11T12:16:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/O2qZ1E02VYk/hqdefault.jpg",
+          "durationSeconds": 31,
+          "durationFormatted": "00:31",
+          "views": 832,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "_AesVyZSIpA",
+          "title": "रामानुजगंज में 15 साल से कांग्रेस क्यों नहीं कर पा रही कमाल?",
+          "description": "रामानुजगंज में 15 साल से कांग्रेस क्यों नहीं कर पा रही कमाल? #inh24x7news ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-11T08:17:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/_AesVyZSIpA/hqdefault.jpg",
+          "durationSeconds": 125,
+          "durationFormatted": "02:05",
+          "views": 550,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Mgn-1gUC--o",
+          "title": "बलरामपुर जिला पंचायत उपाध्यक्ष का काम कैसा चल रहा है ?",
+          "description": "बलरामपुर जिला पंचायत उपाध्यक्ष का काम कैसा चल रहा है ? #inh24x7news ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-11T06:46:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/Mgn-1gUC--o/hqdefault.jpg",
+          "durationSeconds": 58,
+          "durationFormatted": "00:58",
+          "views": 541,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "JYiRcDCxia4",
+          "title": "बलरामपुर में कांग्रेस कैसे करेगी वापसी?",
+          "description": "बलरामपुर में कांग्रेस कैसे करेगी वापसी? #inh24x7news #Samvad2026 #drhimanshudwivedi ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-11T09:31:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/JYiRcDCxia4/hqdefault.jpg",
+          "durationSeconds": 125,
+          "durationFormatted": "02:05",
+          "views": 298,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-11T12:16:13Z"
+    },
+    {
       "clusterId": "bsnl-cctv",
       "topic": "BSNL CCTV",
       "videoCount": 11,
-      "trendScore": 31.9,
+      "trendScore": 31.0,
       "topVideos": [
         {
           "index": 1,
@@ -546,7 +630,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ERexp-Sc8DE/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 16,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -568,21 +652,6 @@
         },
         {
           "index": 3,
-          "videoId": "_tO86LwmpZk",
-          "title": "मोहला-मानपुर में आदिवासी युवक की दर्दनाक कहानी, 8 महीने से बिस्तर पर, विधायक ने बढ़ाया मदद का हाथ",
-          "description": "chhattisgarhnews #madhyapradehnews #mohlamanpurchowki .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-11T12:09:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/_tO86LwmpZk/hqdefault.jpg",
-          "durationSeconds": 121,
-          "durationFormatted": "02:01",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "VdmKMwAZG7M",
           "title": "दुर्ग पुलिस की अनोखी पहल, गर्मी में यातायात जवानों को मिली राहत सामग्री",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -595,6 +664,21 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "_tO86LwmpZk",
+          "title": "मोहला-मानपुर में आदिवासी युवक की दर्दनाक कहानी, 8 महीने से बिस्तर पर, विधायक ने बढ़ाया मदद का हाथ",
+          "description": "chhattisgarhnews #madhyapradehnews #mohlamanpurchowki .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-11T12:09:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/_tO86LwmpZk/hqdefault.jpg",
+          "durationSeconds": 121,
+          "durationFormatted": "02:01",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -615,163 +699,10 @@
       "latestUpdateAt": "2026-04-11T13:53:09Z"
     },
     {
-      "clusterId": "कगरस-सल",
-      "topic": "कांग्रेस साल",
-      "videoCount": 7,
-      "trendScore": 31.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "O2qZ1E02VYk",
-          "title": "ढाई-ढाई साल का फॉर्मूला किसका षड्यंत्र था ?",
-          "description": "ढाई-ढाई साल का फॉर्मूला किसका षड्यंत्र था ? #inh24x7news #Samvad2026 ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-11T12:16:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/O2qZ1E02VYk/hqdefault.jpg",
-          "durationSeconds": 31,
-          "durationFormatted": "00:31",
-          "views": 812,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "RDmnVm0m2Wk",
-          "title": "रामानुजगंज में जनता ने कांग्रेस से तौबा क्यों कर लिया ?",
-          "description": "रामानुजगंज में जनता ने कांग्रेस से तौबा क्यों कर लिया ? #inh24x7news ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-11T08:37:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/RDmnVm0m2Wk/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 808,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "_AesVyZSIpA",
-          "title": "रामानुजगंज में 15 साल से कांग्रेस क्यों नहीं कर पा रही कमाल?",
-          "description": "रामानुजगंज में 15 साल से कांग्रेस क्यों नहीं कर पा रही कमाल? #inh24x7news ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-11T08:17:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/_AesVyZSIpA/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 549,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Mgn-1gUC--o",
-          "title": "बलरामपुर जिला पंचायत उपाध्यक्ष का काम कैसा चल रहा है ?",
-          "description": "बलरामपुर जिला पंचायत उपाध्यक्ष का काम कैसा चल रहा है ? #inh24x7news ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-11T06:46:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/Mgn-1gUC--o/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 509,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "JYiRcDCxia4",
-          "title": "बलरामपुर में कांग्रेस कैसे करेगी वापसी?",
-          "description": "बलरामपुर में कांग्रेस कैसे करेगी वापसी? #inh24x7news #Samvad2026 #drhimanshudwivedi ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-11T09:31:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/JYiRcDCxia4/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 289,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-11T12:16:13Z"
-    },
-    {
-      "clusterId": "narayanpur-naxalism",
-      "topic": "Narayanpur Naxalism",
-      "videoCount": 4,
-      "trendScore": 31.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "nb2juLwT_LE",
-          "title": "Narayanpur Naxalism : जवानों ने नक्सलियों का अंडरग्राउंड ठिकाना किया ध्वस्त | Breaking News",
-          "description": "Narayanpur Naxalism : जवानों ने नक्सलियों का अंडरग्राउंड ठिकाना किया ध्वस्त ...",
-          "channelTitle": "Vistaar News",
-          "publishedAt": "2026-04-11T13:31:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/nb2juLwT_LE/hqdefault.jpg",
-          "durationSeconds": 101,
-          "durationFormatted": "01:41",
-          "views": 481,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "ScSbArlR3PY",
-          "title": "Narayanpur Naxal News: अबूझमाड़ में मिला नक्सलियों का अंडरग्राउंड ठिकाना। जवानों ने किया ध्वस्त..",
-          "description": "IBC24, Narayanpur Naxal News: अबूझमाड़ में मिला नक्सलियों का अंडरग्राउंड ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-11T15:52:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/ScSbArlR3PY/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 232,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "imv9SijxQNo",
-          "title": "Narayanpur News : नारायणपुर में नक्सलियों का अंडरग्राउंड ठिकाना ध्वस्त",
-          "description": "नारायणपुर जिले के काकुर क्षेत्र में सुरक्षा बलों ने नक्सल उन्मूलन ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-11T11:47:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/imv9SijxQNo/hqdefault.jpg",
-          "durationSeconds": 41,
-          "durationFormatted": "00:41",
-          "views": 15,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "-wYG1WhNmcM",
-          "title": "Narayanpur News : अबूझमाड़ के थुलथुली में शुरू हुआ गांव में राशन वितरण",
-          "description": "नारायणपुर के अबूझमाड़ क्षेत्र के थुलथुली गांव में प्रशासन की पहल ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-11T12:54:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/-wYG1WhNmcM/hqdefault.jpg",
-          "durationSeconds": 43,
-          "durationFormatted": "00:43",
-          "views": 0,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-11T15:52:22Z"
-    },
-    {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 4,
-      "trendScore": 29.7,
+      "trendScore": 28.3,
       "topVideos": [
         {
           "index": 1,
@@ -783,13 +714,28 @@
           "thumbnail": "https://i.ytimg.com/vi/Nejpga8oGoA/hqdefault.jpg",
           "durationSeconds": 1390,
           "durationFormatted": "23:10",
-          "views": 108,
+          "views": 165,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "sthRHSue_LA",
+          "title": "🔴LIVE : Prime Time @9 : थाली में जहर...प्रशासन बेखबर | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : थाली में जहर...प्रशासन बेखबर | Latest News | Zee MPCG #live #primetime ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-11T15:23:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/sthRHSue_LA/hqdefault.jpg",
+          "durationSeconds": 1453,
+          "durationFormatted": "24:13",
+          "views": 88,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "VOfq64_5m-Q",
           "title": "🔴LIVE : Mudda To Hai : थाली में जहर... प्रशासन बेखबर | Zee MPCG",
           "description": "LIVE : Mudda To Hai : थाली में जहर... प्रशासन बेखबर | Zee MPCG #MuddatoHai #Madhyapradesh ...",
@@ -804,7 +750,7 @@
           "genre": "Crime"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "Kj2fdwxuiWk",
           "title": "🔴LIVE: MP Dastak : भोपाल एम्स में चूहों का आतंक  | Latest News | Zee MPCG",
           "description": "LIVE: MP Dastak : भोपाल एम्स में चूहों का आतंक | Latest News | Zee MPCG #MPDastak #MadhyaPradesh ...",
@@ -817,21 +763,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "sthRHSue_LA",
-          "title": "🔴LIVE : Prime Time @9 : थाली में जहर...प्रशासन बेखबर | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : थाली में जहर...प्रशासन बेखबर | Latest News | Zee MPCG #live #primetime ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-11T15:23:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/sthRHSue_LA/hqdefault.jpg",
-          "durationSeconds": 1453,
-          "durationFormatted": "24:13",
-          "views": 39,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-11T16:23:49Z"
@@ -840,7 +771,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 23.8,
+      "trendScore": 22.9,
       "topVideos": [
         {
           "index": 1,
@@ -867,7 +798,7 @@
           "thumbnail": "https://i.ytimg.com/vi/U1YByIASI5Y/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 31,
+          "views": 47,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
