@@ -827,6 +827,9 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         # Hindi/Devanagari - strong single-word indicators
         "नौकरी", "रोजगार", "भर्ती", "आवेदन", "एडमिट कार्ड",
         "मेरिट", "वेतन",
+        # Vacancy spelled in Devanagari (English "vacancy" does not match "वैकेंसी")
+        "वैकेंसी", "वेकेंसी", "बंपर वैकेंसी",
+        "रिक्त पद", "रिक्तियां", "रिक्तियाँ", "पदों पर निकली",
         "पुलिस भर्ती",  # Police recruitment (specific)
         "नियुक्ति",  # Appointments
         # Hindi/Devanagari - multi-word phrases (context-specific)
