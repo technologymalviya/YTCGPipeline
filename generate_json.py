@@ -416,12 +416,12 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
         
         # Prepare prompt
         prompt = f"""Classify this video into ONE of these genres based on title and description:
-- Crime: Criminal activities, arrests, violence, murders, thefts, police cases
+- Crime: Criminal activities, arrests, violence, murders, thefts, police cases, betting/satta raids, scams as crime stories
 - Traffic: Road accidents, traffic jams, vehicle collisions, highway incidents
-- Jobs: Employment opportunities, job notifications, recruitment, interviews, exams
-- Events: Festivals, ceremonies, celebrations, inaugurations, cultural events
+- Jobs: Only hiring/recruitment/vacancy/admit card/merit lists/government job exams — NOT school board exam human-interest, NOT investigative stories about doctors' private practice or staff shortages
+- Events: Festivals, ceremonies, celebrations, inaugurations, cultural or sports events (not crime controversies, not IPL betting)
 - Civic: Municipal services, civic issues, government services, certificates, utilities
-- Politics: Political news, elections, government announcements, political rallies, CM/PM speeches
+- Politics: Elections, parties, legislation, schemes, CM/PM/minister policy — "MP" in Indian regional titles usually means Madhya Pradesh state, not Member of Parliament
 - General: Everything else that doesn't fit above categories
 
 Title: {title}
@@ -712,6 +712,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     crime_keywords = [
         # English - specific crime terms
         "murder", "killed", "killing", "homicide", "assassination",
+        "crime",  # e.g. "MP Crime" segments (avoid false Politics on standalone "MP")
         "robbery", "loot", "theft", "steal", "stolen",
         "assault", "rape", "sexual assault", "sexual violence",
         "arrest", "arrested", "suspect", "accused", "criminal",
@@ -721,6 +722,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "jail", "prison", "court case", "trial", "investigation",
         "kidnapping", "abduction", "abducted",
         "naxal attack", "naxal violence", "naxalite attack", "naxal surrender",  # Naxal-related crimes (only when crime-related)
+        "सट्टा", "satta", "betting", "match fixing", "ipl betting", "आईपीएल सट्टा", "illegal betting",
         "gas cylinder", "cylinder blast", "explode", "explosion",  # Explosions
         "ied blast", "ied", "bomb blast", "bomb explosion",  # IED/Bomb explosions
         "fire incident", "arson",  # Fire-related crimes
@@ -743,7 +745,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "हत्या में मौत", "कत्ल में मौत", "अपराध में मौत", "गोली से मौत", "चाकू से मौत",
         # Medical negligence death (crime)
         "इलाज के दौरान मरीज की मौत", "इलाज के दौरान मौत", "डॉक्टर लापरवाही", "मेडिकल नेग्लिजेंस",
-        "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा","मौत",
+        "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा", "क्राइम", "मौत",
         "crime branch", "क्राइम ब्रांच",
         "missile", "मिसाइल", "drone strike", "air strike",
         "पुलिस गिरफ्तार", "पुलिस ने गिरफ्तार", "पुलिस जांच",  # Police action (crime-related)
@@ -756,7 +758,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "अपहरण",  # Kidnapping
         "नक्सली हमला", "नक्सल हिंसा", "नक्सल सरेंडर",  # Naxal-related crimes (only when crime-related)
         "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट", "आईईडी ब्लास्ट", "बम ब्लास्ट",  # Explosions
-        "अग्निकांड", "आग",  # Fire incident
+        # Fire: avoid bare "आग" (matches rice धान burning, generic fire news) — use stronger phrases
+        "अग्निकांड", "भीषण आग", "आग लगी", "लगी आग", "आग से",
         "चेन छीन", "चेन स्नैचिंग", "स्नैचिंग",  # Chain snatching
         "ठग", "ठगी", "धोखाधड़ी", "फ्रॉड",  # Fraud/scam
         "स्कैम केस", "धोखाधड़ी केस", "भ्रष्टाचार स्कैम",  # Specific scams (not political discussions)
@@ -768,12 +771,12 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "छेड़छाड़", "परेशानी", "यौन उत्पीड़न", "मनचले",  # Harassment
         "स्टंट", "अवैध स्टंट", "खतरनाक स्टंट", "स्टंट का अड्डा",  # Illegal stunts
         "दुष्कर्म", "बलात्कार",  # Rape/sexual assault
-        "आईटी रेड", "आयकर रेड", "रेड", "छापा", "दबिश",  # IT raids
+        "आईटी रेड", "आयकर रेड", "रेड", "छापा",  # IT raids (दबिश listed above)
         # Context-specific: जांच only when combined with crime terms
         "अपराध जांच", "पुलिस जांच", "हत्या जांच", "मुकदमा जांच"
     ]
-    
-        # Traffic keywords - specific traffic/accident terms
+
+    # Traffic keywords - specific traffic/accident terms
     traffic_keywords = [
         # English - multi-word phrases for stronger matching (check first)
         "traffic accident", "road accident", "car accident", "vehicle accident",
@@ -810,7 +813,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         # "bharti"/"bharte" omitted — false positives (e.g. "Bharti Media"); use "police bharti" etc.
         "career", "opportunity", "application", "opening",
         "job post", "govt post", "government post", "sarkari post",
-        "admit card", "merit", "salary", "wage", "exam",
+        "admit card", "merit", "salary", "wage",
+        # Omit bare "exam"/"परीक्षा" — false Jobs on school board exam human-interest clips
         "police recruitment", "police bharti",  # Police recruitment (specific)
         "appointment", "appointments", "नियुक्ति",  # Appointments
         # English - multi-word phrases for stronger matching
@@ -822,7 +826,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "pay scale", "vacancy notification",
         # Hindi/Devanagari - strong single-word indicators
         "नौकरी", "रोजगार", "भर्ती", "आवेदन", "एडमिट कार्ड",
-        "मेरिट", "परीक्षा", "वेतन",
+        "मेरिट", "वेतन",
         "पुलिस भर्ती",  # Police recruitment (specific)
         "नियुक्ति",  # Appointments
         # Hindi/Devanagari - multi-word phrases (context-specific)
@@ -840,7 +844,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "kumbh", "jatra", "yatra", "puja", "aarti", "pooja",
         "republic day", "independence day", "26 january", "15 august",
         # Sports/Cricket events
-        "cricket match", "t20", "odi", "test match", "ipl", "cricket",
+        "cricket match", "t20", "odi", "test match", "ipl match", "ipl final", "ipl 20", "cricket",
         "wpl", "women premier league", "women's premier league",  # Women's Premier League
         "match", "sports event", "tournament", "championship",
         "conference", "summit", "ai conference", "tech conference",  # Conferences
@@ -917,7 +921,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         # English - specific political terms
         "election", "voting", "vote", "election campaign",
         "minister", "chief minister", "cm", "mla",
-        "mp",  # Member of Parliament (but check context - not weather "MP Weather")
+        # Omit bare "mp" — in regional news it almost always means Madhya Pradesh, not MP (MP)
+        "member of parliament", "lok sabha", "rajya sabha",
         "prime minister", "pm modi", "narendra modi", "modi",
         "government", "govt", "political party",
         "political rally", "political speech", "political news",
@@ -937,7 +942,6 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         # Hindi/Devanagari - specific political terms
         "चुनाव", "मतदान", "वोट",
         "मंत्री", "मुख्यमंत्री", "विधायक", "सांसद",
-        # Note: "MP" in English matches "mp" but should not match "MP Weather" - handled by weather check
         "प्रधानमंत्री", "पीएम मोदी", "मोदी",
         "सरकार", "पार्टी", "राजनीति", "राजनीतिक", "सियासी",
         "रैली", "भाषण", "अभियान",
@@ -946,10 +950,20 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "लैंड जिहाद", "जिहाद",  # Land jihad - political issue
         "पार्षद",  # Councilor - political position
         "योजना", "सरकारी योजना", "लाडली बहना योजना",  # Government schemes
-        "धान खरीदी", "धान खरीद", "धान",  # Paddy procurement
+        # Omit bare "धान" — false Politics on "धान के पैरा" (rice stalk) human-interest etc.
+        "धान खरीदी", "धान खरीद", "msp धान", "धान की खरीद",
         "चुनाव का रिजल्ट", "चुनाव रिजल्ट", "मतगणना", "वोट गिनती",  # Election results
         # Neighbouring / international politics often covered by MP–CG channels
         "nepal", "नेपाल", "kathmandu", "oli", "ओली", "kp oli", "sharma oli", "केपी शर्मा ओली",
+    ]
+
+    # Local health / disease outbreak — before Politics so "सांसद ने निरीक्षण" jaundice stories stay General
+    health_outbreak_keywords = [
+        "jaundice", "पीलिया", "डेंगू", "dengue", "malaria", "मलेरिया",
+        "chikungunya", "चिकनगुनिया", "typhoid", "टाइफॉयड",
+        "food poisoning", "फूड पॉइजनिंग", "food poison",
+        "संक्रमण फैला", "महामारी", "epidemic", "outbreak",
+        "पीलिया का प्रकोप", "डेंगू का प्रकोप", "बुखार का प्रकोप",
     ]
 
     # Weather keywords - check BEFORE Politics to avoid "MP Weather" matching "MP" (Member of Parliament)
@@ -972,13 +986,18 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     civic_patterns = create_patterns(civic_keywords)
     politics_patterns = create_patterns(politics_keywords)
     weather_patterns = create_patterns(weather_keywords)
+    health_outbreak_patterns = create_patterns(health_outbreak_keywords)
 
     # Check each category - order matters (most specific first)
     # Weather - check BEFORE Politics to avoid "MP Weather" matching "MP" (Member of Parliament)
     for pattern in weather_patterns:
         if pattern.search(text):
             return GENRE_GENERAL  # Weather news is General
-    
+
+    for pattern in health_outbreak_patterns:
+        if pattern.search(text):
+            return GENRE_GENERAL
+
     # Traffic - check BEFORE Crime (road accidents can have deaths but should be Traffic)
     for pattern in traffic_patterns:
         if pattern.search(text):
@@ -989,6 +1008,13 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "धर्मांतरण", "जबरन धर्मांतरण", "religious conversion", "conversion law",
         "anti conversion", "anti-conversion", "धर्म स्वातंत्र्य",
         "नौकरी के नाम पर", "नौकरी के नाम से",
+        "puchti hai public", "पूछती है पब्लिक", "पुचति है पब्लिक",
+        "medical shortage", "डॉक्टर्स की कमी", "डॉक्टरों की कमी",
+    ]
+    _jobs_skip_school_exam_markers = [
+        "बोर्ड परीक्षा", "board exam", "board examination",
+        "छात्रों ने लिखा", "छात्र ने लिखा", "अजब गजब उत्तर", "टीचर हैरान",
+        "students wrote", "exam answers",
     ]
     _jobs_skip_if_both = [
         ("नौकरी", "ठगी"),
@@ -1001,6 +1027,8 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
 
     def _should_skip_jobs_for_crime_or_religion(t: str) -> bool:
         if any(s in t for s in _jobs_skip_substrings):
+            return True
+        if any(s in t for s in _jobs_skip_school_exam_markers):
             return True
         return any(a in t and b in t for a, b in _jobs_skip_if_both)
 
@@ -1021,6 +1049,9 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "हत्या", "कत्ल", "मर्ड", "दुष्कर्म", "अपहरण", "चाकू", "गोली", "फायरिंग",
         "लूट", "चोरी", "robbery", "theft", "snatching", "हत्याकांड",
         "fraud case", "scam case", "ठगी", "फर्जीवाड़ा केस",
+        "controversy", "विवाद", "लापता", "missing", "भाग गई", "फरार",
+        "खुलासा", "सट्टा", "betting", "viral girl", "वायरल गर्ल", "monalisa",
+        "case update", "केस में",
     ]
     for pattern in events_patterns:
         if pattern.search(text):
