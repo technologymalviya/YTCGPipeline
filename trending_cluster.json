@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-13T19:36:36.814335Z",
+  "generatedAt": "2026-04-13T21:07:18.860202Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 58,
-      "trendScore": 60.8,
+      "videoCount": 59,
+      "trendScore": 60.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MW_xBmaoerg/hqdefault.jpg",
           "durationSeconds": 1574,
           "durationFormatted": "26:14",
-          "views": 19888,
+          "views": 20013,
           "likes": 307,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Gv3PG-Jy53Q/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 9053,
-          "likes": 66,
+          "views": 9908,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PaJaLagiigg/hqdefault.jpg",
           "durationSeconds": 1293,
           "durationFormatted": "21:33",
-          "views": 5853,
-          "likes": 89,
+          "views": 6086,
+          "likes": 91,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/5FXtE6XbQQ0/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 5801,
+          "views": 6074,
           "likes": 82,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "PKH6Z8_vcyM",
-          "title": "कैसे मारी गई 15 नक्सलियों की लीडर Rupi Reddy, मुठभेड़ में पुलिस को बड़ी कामयाबी, GROUND REPORT",
-          "description": "कैसे मारी गई 15 नक्सलियों की लीडर Rupi Reddy, मुठभेड़ में पुलिस को बड़ी ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-13T09:36:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/PKH6Z8_vcyM/hqdefault.jpg",
-          "durationSeconds": 229,
-          "durationFormatted": "03:49",
-          "views": 2273,
-          "likes": 20,
+          "videoId": "DgCzHoorpds",
+          "title": "🔴LIVE, Chhattisgarh News 13 April 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh Baghel",
+          "description": "IBC24, LIVE, Chhattisgarh News 13 April 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-13T19:36:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/DgCzHoorpds/hqdefault.jpg",
+          "durationSeconds": 42899,
+          "durationFormatted": "11:54:59",
+          "views": 4688,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-13T18:21:36Z"
+      "latestUpdateAt": "2026-04-13T20:23:44Z"
     },
     {
       "clusterId": "bhaskar-rjn",
       "topic": "Bhaskar RJN",
       "videoCount": 18,
-      "trendScore": 48.3,
+      "trendScore": 46.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ilKLOE9vZeQ/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 417,
-          "likes": 14,
+          "views": 541,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2fndh82NgG8/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 205,
-          "likes": 7,
+          "views": 223,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gIdUazYtf-Q/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 117,
-          "likes": 8,
+          "views": 206,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mGWUMXVBWEE/hqdefault.jpg",
           "durationSeconds": 231,
           "durationFormatted": "03:51",
-          "views": 97,
+          "views": 113,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1q49rqikLEY/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 83,
+          "views": 86,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
@@ -174,7 +174,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 11,
-      "trendScore": 41.7,
+      "trendScore": 41.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Oh2eaavWMDo/hqdefault.jpg",
           "durationSeconds": 1520,
           "durationFormatted": "25:20",
-          "views": 12090,
-          "likes": 196,
+          "views": 12167,
+          "likes": 198,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/utQEzOZmtbk/hqdefault.jpg",
           "durationSeconds": 603,
           "durationFormatted": "10:03",
-          "views": 542,
+          "views": 574,
           "likes": 29,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/E-emC6vjduk/hqdefault.jpg",
           "durationSeconds": 1056,
           "durationFormatted": "17:36",
-          "views": 303,
+          "views": 306,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-रह",
       "topic": "Bhaskar रहा",
       "videoCount": 6,
-      "trendScore": 37.1,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/K8OES7fVRRE/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 1488,
+          "views": 1568,
           "likes": 38,
           "videoType": "VOD",
           "genre": "Crime"
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6yAddjjyd5Y/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 680,
-          "likes": 17,
+          "views": 802,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/J2xxGg4dU4U/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 670,
+          "views": 657,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4b-m3P38CmU/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 431,
-          "likes": 8,
+          "views": 531,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0LniO03sFw0/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 396,
+          "views": 389,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 35.7,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EBrBIkaYAcY/hqdefault.jpg",
           "durationSeconds": 1664,
           "durationFormatted": "27:44",
-          "views": 28,
+          "views": 49,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -366,7 +366,7 @@
       "clusterId": "raipur-bilaspur",
       "topic": "Raipur Bilaspur",
       "videoCount": 4,
-      "trendScore": 28.4,
+      "trendScore": 26.6,
       "topVideos": [
         {
           "index": 1,
@@ -378,7 +378,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pmRYK7zUO8U/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 32,
+          "views": 60,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
