@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-13T21:07:18.860202Z",
-  "clusterCount": 6,
+  "generatedAt": "2026-04-13T23:00:51.393576Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 59,
-      "trendScore": 60.1,
+      "trendScore": 59.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MW_xBmaoerg/hqdefault.jpg",
           "durationSeconds": 1574,
           "durationFormatted": "26:14",
-          "views": 20013,
-          "likes": 307,
+          "views": 20057,
+          "likes": 309,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Gv3PG-Jy53Q/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 9908,
+          "views": 10082,
           "likes": 73,
           "videoType": "VOD",
           "genre": "General"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PaJaLagiigg/hqdefault.jpg",
           "durationSeconds": 1293,
           "durationFormatted": "21:33",
-          "views": 6086,
+          "views": 6176,
           "likes": 91,
           "videoType": "VOD",
           "genre": "General"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5FXtE6XbQQ0/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 6074,
+          "views": 6160,
           "likes": 82,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DgCzHoorpds/hqdefault.jpg",
           "durationSeconds": 42899,
           "durationFormatted": "11:54:59",
-          "views": 4688,
+          "views": 4772,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-rjn",
       "topic": "Bhaskar RJN",
       "videoCount": 18,
-      "trendScore": 46.8,
+      "trendScore": 45.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ilKLOE9vZeQ/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 541,
-          "likes": 13,
+          "views": 580,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2fndh82NgG8/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 223,
+          "views": 224,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gIdUazYtf-Q/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 206,
+          "views": 203,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mGWUMXVBWEE/hqdefault.jpg",
           "durationSeconds": 231,
           "durationFormatted": "03:51",
-          "views": 113,
+          "views": 119,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 11,
-      "trendScore": 41.1,
+      "trendScore": 40.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Oh2eaavWMDo/hqdefault.jpg",
           "durationSeconds": 1520,
           "durationFormatted": "25:20",
-          "views": 12167,
-          "likes": 198,
+          "views": 12207,
+          "likes": 200,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1eeOW8msxsw/hqdefault.jpg",
           "durationSeconds": 1132,
           "durationFormatted": "18:52",
-          "views": 797,
+          "views": 837,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/E-emC6vjduk/hqdefault.jpg",
           "durationSeconds": 1056,
           "durationFormatted": "17:36",
-          "views": 306,
+          "views": 317,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tM3WWxPB0j8/hqdefault.jpg",
           "durationSeconds": 589,
           "durationFormatted": "09:49",
-          "views": 236,
-          "likes": 12,
+          "views": 259,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-रह",
       "topic": "Bhaskar रहा",
       "videoCount": 6,
-      "trendScore": 36.0,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6yAddjjyd5Y/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 802,
-          "likes": 16,
+          "views": 831,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/J2xxGg4dU4U/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 657,
-          "likes": 27,
+          "views": 701,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0LniO03sFw0/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 389,
+          "views": 403,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -342,7 +342,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 29.6,
+      "trendScore": 28.4,
       "topVideos": [
         {
           "index": 1,
@@ -363,10 +363,79 @@
       "latestUpdateAt": "2026-04-13T17:56:47Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 4,
+      "trendScore": 27.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "NGZUsVIU03I",
+          "title": "🔴LIVE : MP - CG : नोएडा में सैलरी पर संग्राम | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : नोएडा में सैलरी पर संग्राम | Latest News | Zee MPCG #Live #MPNews #MadhyaPradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-13T22:40:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/NGZUsVIU03I/hqdefault.jpg",
+          "durationSeconds": 4094,
+          "durationFormatted": "01:08:14",
+          "views": 145,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "KZdG7w_2zCQ",
+          "title": "🔴LIVE : MP - CG : एमपी - छत्तीसगढ़ में गर्मी का टॉर्चर | Hindi News | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : एमपी - छत्तीसगढ़ में गर्मी का टॉर्चर | Hindi News | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-13T17:25:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/KZdG7w_2zCQ/hqdefault.jpg",
+          "durationSeconds": 1611,
+          "durationFormatted": "26:51",
+          "views": 117,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "DxO5gM7gmN8",
+          "title": "🔴LIVE : Prime Time @9 : NCR &#39;बंधक&#39;... सड़क पर &#39;आफत&#39; | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : NCR 'बंधक'... सड़क पर 'आफत' | Latest News | Zee MPCG #live #primetime #mpnews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-13T15:24:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/DxO5gM7gmN8/hqdefault.jpg",
+          "durationSeconds": 1100,
+          "durationFormatted": "18:20",
+          "views": 67,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "D8SprFX2Lwc",
+          "title": "🔴LIVE: MP Dastak : विस्थापितों का 9वें दिन आंदोलन जारी  | Latest News | Zee MPCG",
+          "description": "LIVE: MP Dastak : विस्थापितों का 9वें दिन आंदोलन जारी | Latest News | Zee MPCG #MPDastak ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-13T16:26:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/D8SprFX2Lwc/hqdefault.jpg",
+          "durationSeconds": 1515,
+          "durationFormatted": "25:15",
+          "views": 61,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-13T22:40:07Z"
+    },
+    {
       "clusterId": "raipur-bilaspur",
       "topic": "Raipur Bilaspur",
       "videoCount": 4,
-      "trendScore": 26.6,
+      "trendScore": 25.2,
       "topVideos": [
         {
           "index": 1,
@@ -378,7 +447,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pmRYK7zUO8U/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 60,
+          "views": 96,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -393,7 +462,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iFyhsM4zxhs/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 31,
+          "views": 32,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
