@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-16T19:36:25.103943Z",
+  "generatedAt": "2026-04-16T21:01:29.750312Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 63,
-      "trendScore": 62.1,
+      "trendScore": 61.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rPYlv4_tZLU/hqdefault.jpg",
           "durationSeconds": 1489,
           "durationFormatted": "24:49",
-          "views": 20420,
+          "views": 20460,
           "likes": 281,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TAEu1lAUEwA/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 14042,
-          "likes": 444,
+          "views": 15708,
+          "likes": 451,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -48,13 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/ZkKveTdnvLY/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 8638,
-          "likes": 224,
+          "views": 8731,
+          "likes": 225,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "oD1rmKX_Xog",
+          "title": "🔴LIVE, Chhattisgarh News 16 April 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh Baghel",
+          "description": "IBC24, LIVE, Chhattisgarh News 16 April 2026: छत्तीसगढ़ की बड़ी खबर। CG News | CM Sai | Bhupesh ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-16T20:34:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/oD1rmKX_Xog/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 5414,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "_Oyw2JQ6_bQ",
           "title": "Mahila Aarakshan Bill: लोकसभा में PM Modi बोले- शुभ काम में काला टीका लगाने के लिए विपक्ष का धन्यवाद",
           "description": "महिला आरक्षण बिल पर लोकसभा में PM मोदी ने विपक्ष पर तंज कसते हुए कहा ...",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/_Oyw2JQ6_bQ/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 1954,
-          "likes": 20,
+          "views": 2122,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "FZ23km8MMX0",
-          "title": "पत्रकार के तीखे सवालों पर अधिकारी के छूटे पसीने!",
-          "description": "पत्रकार के तीखे सवालों पर अधिकारी के छूटे पसीने! #chhattisgarhnews #latestnews ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-04-16T09:04:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/FZ23km8MMX0/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 1898,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-16T19:30:21Z"
+      "latestUpdateAt": "2026-04-16T20:34:06Z"
     },
     {
       "clusterId": "bhaskar-cbse",
       "topic": "Bhaskar CBSE",
       "videoCount": 11,
-      "trendScore": 43.0,
+      "trendScore": 42.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0SIudaK6UMQ/hqdefault.jpg",
           "durationSeconds": 141,
           "durationFormatted": "02:21",
-          "views": 4731,
-          "likes": 36,
+          "views": 4852,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wkrjiInV2x8/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 2018,
-          "likes": 66,
+          "views": 2203,
+          "likes": 70,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/R8-mpA1Gh0I/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 1220,
+          "views": 1230,
           "likes": 48,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 39.7,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7rFLEWeDXDA/hqdefault.jpg",
           "durationSeconds": 583,
           "durationFormatted": "09:43",
-          "views": 293,
+          "views": 315,
           "likes": 26,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dBku1lxHMEk/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 80,
+          "views": 73,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9N3Ihp9qHEA/hqdefault.jpg",
           "durationSeconds": 297,
           "durationFormatted": "04:57",
-          "views": 55,
+          "views": 57,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -240,10 +240,94 @@
       "latestUpdateAt": "2026-04-16T14:06:05Z"
     },
     {
-      "clusterId": "शरब-अवध",
-      "topic": "शराब अवैध",
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 9,
+      "trendScore": 36.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "vGGjo3cQgEI",
+          "title": "Women Reservation : संसद में &#39;महिला क्रांति&#39; | आधी आबादी का अधिकार.. 33% पर आर-पार | Zee MPCG",
+          "description": "Women Reservation : संसद में 'महिला क्रांति' | आधी आबादी का अधिकार.. 33% पर आर-पार ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-16T14:18:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/vGGjo3cQgEI/hqdefault.jpg",
+          "durationSeconds": 193,
+          "durationFormatted": "03:13",
+          "views": 880,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "v7T-KENCovs",
+          "title": "Religion Conversion :धर्मांतरण केस पर नितेश राणे का बयान &#39;देश में गजवा-ए-हिंद की साजिश&#39; | Zee MPCG",
+          "description": "Religion Conversion :धर्मांतरण केस पर नितेश राणे का बयान 'देश में गजवा-ए-हिंद ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-16T14:39:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/v7T-KENCovs/hqdefault.jpg",
+          "durationSeconds": 181,
+          "durationFormatted": "03:01",
+          "views": 244,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "TIG5ztH9dZ0",
+          "title": "🔴LIVE : MP-CG News :  कांग्रेस की दस सदस्या टीम पहुंची वेदांत पॉवर टीम   | Latest News | Zee MPCG",
+          "description": "LIVE : MP-CG News : कांग्रेस की दस सदस्या टीम पहुंची वेदांत पॉवर टीम | Latest News ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-16T20:28:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/TIG5ztH9dZ0/hqdefault.jpg",
+          "durationSeconds": 1475,
+          "durationFormatted": "24:35",
+          "views": 171,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "RWNfXVMoWH8",
+          "title": "🔴LIVE : Prime Time @9 : जिम, कोचिंग, कॉलेज लव जिहाद के &#39;अड्डे&#39;? | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : जिम, कोचिंग, कॉलेज लव जिहाद के 'अड्डे'? | Latest News | Zee MPCG #live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-16T15:26:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/RWNfXVMoWH8/hqdefault.jpg",
+          "durationSeconds": 1376,
+          "durationFormatted": "22:56",
+          "views": 91,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "3OwiumyHvYI",
+          "title": "lawrence Bishnoi : लॉरेंस गैंग की कारोबारी को धमकी फिरौती न देने पर बेटे की हत्या | Zee MPCG",
+          "description": "लॉरेंस बिश्नोई गैंग एक बार फिर सुर्खियों में है। इस बार एक कारोबारी ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-16T14:35:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/3OwiumyHvYI/hqdefault.jpg",
+          "durationSeconds": 72,
+          "durationFormatted": "01:12",
+          "views": 49,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-04-16T20:28:34Z"
+    },
+    {
+      "clusterId": "शरब-दरग",
+      "topic": "शराब दुर्ग",
       "videoCount": 16,
-      "trendScore": 35.0,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -277,6 +361,21 @@
         },
         {
           "index": 3,
+          "videoId": "RkzR_gWl2T8",
+          "title": "दुर्ग में सूने मकान में चोरी का खुलासा, मंगलसूत्र चोरी मामले में एक आरोपी गिरफ्तार”",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-16T11:34:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/RkzR_gWl2T8/hqdefault.jpg",
+          "durationSeconds": 42,
+          "durationFormatted": "00:42",
+          "views": 17,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "fDe64hmeG1Y",
           "title": "अंबिकापुर-कल्याणपुर में हाथी के हमले से युवक की मौ.T, मुआवजे की मांग पर चक्का जाम",
           "description": "chhattisgarhnews #madhyapradehnews #ambikapur .",
@@ -291,7 +390,7 @@
           "genre": "Traffic"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "BkDlFlnZSkw",
           "title": "भिलाई नगर निगम की तालाब संरक्षण पहल, 25 तालाबों के जलस्तर को बनाए रखने के निर्देश",
           "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
@@ -304,114 +403,15 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
-        },
-        {
-          "index": 5,
-          "videoId": "B9VSeF5b3GU",
-          "title": "रायपुर: भीषण गर्मी के चलते स्कूलों की छुट्टियां 20 अप्रैल से ,सरकार का बड़ा फैसलाv",
-          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-16T12:33:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/B9VSeF5b3GU/hqdefault.jpg",
-          "durationSeconds": 66,
-          "durationFormatted": "01:06",
-          "views": 9,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-16T13:59:57Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 6,
-      "trendScore": 34.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "vGGjo3cQgEI",
-          "title": "Women Reservation : संसद में &#39;महिला क्रांति&#39; | आधी आबादी का अधिकार.. 33% पर आर-पार | Zee MPCG",
-          "description": "Women Reservation : संसद में 'महिला क्रांति' | आधी आबादी का अधिकार.. 33% पर आर-पार ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-16T14:18:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/vGGjo3cQgEI/hqdefault.jpg",
-          "durationSeconds": 193,
-          "durationFormatted": "03:13",
-          "views": 849,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "v7T-KENCovs",
-          "title": "Religion Conversion :धर्मांतरण केस पर नितेश राणे का बयान &#39;देश में गजवा-ए-हिंद की साजिश&#39; | Zee MPCG",
-          "description": "Religion Conversion :धर्मांतरण केस पर नितेश राणे का बयान 'देश में गजवा-ए-हिंद ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-16T14:39:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/v7T-KENCovs/hqdefault.jpg",
-          "durationSeconds": 181,
-          "durationFormatted": "03:01",
-          "views": 242,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "RWNfXVMoWH8",
-          "title": "🔴LIVE : Prime Time @9 : जिम, कोचिंग, कॉलेज लव जिहाद के &#39;अड्डे&#39;? | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : जिम, कोचिंग, कॉलेज लव जिहाद के 'अड्डे'? | Latest News | Zee MPCG #live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-16T15:26:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/RWNfXVMoWH8/hqdefault.jpg",
-          "durationSeconds": 1376,
-          "durationFormatted": "22:56",
-          "views": 91,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "NCdZcISXCD8",
-          "title": "Love Jihad : कोचिंग-कॉलेज-कॉर्पोरेट में हिंदू बेटियों पर खतरा ? Gym | Coaching | Zee MPCG",
-          "description": "Prime Time : जिम,कोचिंग,कॉलेज लव जिहाद के 'अड्डे'? कोचिंग-कॉलेज-कॉर्पोरेट ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-16T17:45:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/NCdZcISXCD8/hqdefault.jpg",
-          "durationSeconds": 201,
-          "durationFormatted": "03:21",
-          "views": 17,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "SK_4K6S3Hqw",
-          "title": "Biryani Controversy:रुद्रपुर में बिरयानी पर बड़ा बवाल हो गया! बिरयानी वाला &#39;सौरभ&#39; तो &#39;राशिद&#39; निकला !",
-          "description": "Prime Time : रुद्रपुर में बिरयानी पर बड़ा बवाल हो गया! देवभूमि में 'चिकन ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-16T17:45:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/SK_4K6S3Hqw/hqdefault.jpg",
-          "durationSeconds": 270,
-          "durationFormatted": "04:30",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-16T17:45:12Z"
-    },
-    {
       "clusterId": "गठन-बन",
       "topic": "गौठान बनी",
       "videoCount": 4,
-      "trendScore": 33.9,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9YUy-JOPuZQ/hqdefault.jpg",
           "durationSeconds": 29,
           "durationFormatted": "00:29",
-          "views": 8922,
-          "likes": 159,
+          "views": 9141,
+          "likes": 160,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rIe_qBSDep0/hqdefault.jpg",
           "durationSeconds": 14420,
           "durationFormatted": "04:00:20",
-          "views": 437,
+          "views": 438,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -477,10 +477,10 @@
       "latestUpdateAt": "2026-04-16T16:23:17Z"
     },
     {
-      "clusterId": "cbse-10व",
-      "topic": "CBSE 10वीं",
+      "clusterId": "cbse-कवरध",
+      "topic": "CBSE कवर्धा",
       "videoCount": 4,
-      "trendScore": 30.0,
+      "trendScore": 28.8,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1RlGS42CBDQ/hqdefault.jpg",
           "durationSeconds": 217,
           "durationFormatted": "03:37",
-          "views": 155,
+          "views": 188,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QyY4DvYfAJo/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 55,
+          "views": 60,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6xR690U_xks/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 23,
+          "views": 24,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -549,7 +549,7 @@
       "clusterId": "महल-आरकषण",
       "topic": "महिला आरक्षण",
       "videoCount": 4,
-      "trendScore": 26.7,
+      "trendScore": 26.2,
       "topVideos": [
         {
           "index": 1,
@@ -561,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D-FDkQK6sUI/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 466,
+          "views": 447,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fUwL4wjVGuI/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 372,
+          "views": 442,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xuDfvE7ns0k/hqdefault.jpg",
           "durationSeconds": 530,
           "durationFormatted": "08:50",
-          "views": 25,
+          "views": 34,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oT4UnWrxGoQ/hqdefault.jpg",
           "durationSeconds": 2227,
           "durationFormatted": "37:07",
-          "views": 16,
+          "views": 21,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
