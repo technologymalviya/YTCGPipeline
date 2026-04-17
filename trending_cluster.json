@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-17T09:44:18.798372Z",
-  "clusterCount": 6,
+  "generatedAt": "2026-04-17T11:10:48.172157Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 71,
-      "trendScore": 62.8,
+      "videoCount": 67,
+      "trendScore": 64.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wCHur883igo/hqdefault.jpg",
           "durationSeconds": 1700,
           "durationFormatted": "28:20",
-          "views": 34579,
-          "likes": 407,
+          "views": 37278,
+          "likes": 414,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TAEu1lAUEwA/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 24895,
-          "likes": 620,
+          "views": 26152,
+          "likes": 639,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -48,13 +48,28 @@
           "thumbnail": "https://i.ytimg.com/vi/iD2CEI3N87o/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 4501,
-          "likes": 450,
+          "views": 6557,
+          "likes": 604,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
+          "videoId": "EAtbOk5M68o",
+          "title": "&quot;प्रधानमंत्री और मेरे बीच कोई समस्या नहीं है...&quot; Rahul Gandhi On Women&#39;s Reservation Bill",
+          "description": "IBC24, \"प्रधानमंत्री और मेरे बीच कोई समस्या नहीं है...\" Rahul Gandhi On Women's ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-17T09:43:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/EAtbOk5M68o/hqdefault.jpg",
+          "durationSeconds": 119,
+          "durationFormatted": "01:59",
+          "views": 2688,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
           "videoId": "1mxDLxEmbPE",
           "title": "Vedanta Plant Case | मृतिकों के पैसों में किसकी नजर? | मुआवजे में Game | मंत्री क्या बोले? | Labhesh",
           "description": "Vedanta Plant Case | मृतिकों के पैसों में किसकी नजर? | मुआवजे में Game | मंत्री ...",
@@ -63,34 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/1mxDLxEmbPE/hqdefault.jpg",
           "durationSeconds": 896,
           "durationFormatted": "14:56",
-          "views": 2283,
+          "views": 2418,
           "likes": 66,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "PD-MueEFcEs",
-          "title": "प्रियंका गांधी बोलीं-महिला आरक्षण के नाम पर अगले चुनाव की योजना, हंसने लगे गृह मंत्री अमित शाह",
-          "description": "प्रियंका गांधी बोलीं-महिला आरक्षण के नाम पर अगले चुनाव की योजना, ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-16T14:11:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/PD-MueEFcEs/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 1861,
-          "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-17T09:43:41Z"
+      "latestUpdateAt": "2026-04-17T10:57:08Z"
     },
     {
       "clusterId": "bhaskar-cbse",
       "topic": "Bhaskar CBSE",
-      "videoCount": 11,
-      "trendScore": 40.7,
+      "videoCount": 13,
+      "trendScore": 44.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0SIudaK6UMQ/hqdefault.jpg",
           "durationSeconds": 141,
           "durationFormatted": "02:21",
-          "views": 7119,
-          "likes": 62,
+          "views": 8020,
+          "likes": 64,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +117,43 @@
           "thumbnail": "https://i.ytimg.com/vi/-nk83VjXRs0/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 1527,
-          "likes": 54,
+          "views": 1634,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "k0EMxoO5bJ4",
-          "title": "जांजगीर के किसान स्कूल में अनूठा प्रयोग, मानव मल से चूल्हा जलाकर दिखा दिया | CG Bhaskar",
-          "description": "जांजगीर के किसान स्कूल में अनूठा प्रयोग, मानव मल से चूल्हा जलाकर ...",
+          "videoId": "xvFd9g1YNso",
+          "title": "ऑनलाइन सट्टा किंग निकला रायपुर का बाबू खेमानी | CG Bhaskar",
+          "description": "ऑनलाइन सट्टा किंग निकला रायपुर का बाबू खेमानी | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-16T12:14:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/k0EMxoO5bJ4/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 667,
-          "likes": 18,
+          "publishedAt": "2026-04-17T08:52:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/xvFd9g1YNso/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 514,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "N4Am6cvIUNg",
+          "title": "यहां पत्नी के साथ पूजे जाते हैं हनुमान जी! | CG Bhaskar",
+          "description": "यहां पत्नी के साथ पूजे जाते हैं हनुमान जी! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-17T06:38:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/N4Am6cvIUNg/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 480,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "QXEtWYCBbrw",
           "title": "शराब पी कर गाड़ी चलाने वाले सावधान! इस Device से नहीं बच पाओगे | CG Bhaskar",
           "description": "शराब पी कर गाड़ी चलाने वाले सावधान! इस Device से नहीं बच पाओगे | CG Bhaskar Join ...",
@@ -151,30 +166,99 @@
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-17T10:58:08Z"
+    },
+    {
+      "clusterId": "अबकपर-कलयणपर",
+      "topic": "अंबिकापुर कल्याणपुर",
+      "videoCount": 16,
+      "trendScore": 38.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "fDe64hmeG1Y",
+          "title": "अंबिकापुर-कल्याणपुर में हाथी के हमले से युवक की मौ.T, मुआवजे की मांग पर चक्का जाम",
+          "description": "chhattisgarhnews #madhyapradehnews #ambikapur .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-16T12:29:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/fDe64hmeG1Y/hqdefault.jpg",
+          "durationSeconds": 152,
+          "durationFormatted": "02:32",
+          "views": 153,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "RkzR_gWl2T8",
+          "title": "दुर्ग में सूने मकान में चोरी का खुलासा, मंगलसूत्र चोरी मामले में एक आरोपी गिरफ्तार”",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-16T11:34:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/RkzR_gWl2T8/hqdefault.jpg",
+          "durationSeconds": 42,
+          "durationFormatted": "00:42",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "0TTysSmzeRo",
+          "title": "रायगढ़ में अवैध कबाड़ पर बड़ी कार्रवाई , 4 ट्रक और 89 टन स्क्रैप जप्त",
+          "description": "chhattisgarhnews #madhyapradehnews #raigarh .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-16T13:59:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/0TTysSmzeRo/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 27,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "B9VSeF5b3GU",
+          "title": "रायपुर: भीषण गर्मी के चलते स्कूलों की छुट्टियां 20 अप्रैल से ,सरकार का बड़ा फैसलाv",
+          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-16T12:33:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/B9VSeF5b3GU/hqdefault.jpg",
+          "durationSeconds": 66,
+          "durationFormatted": "01:06",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "nPk11SpV5M8",
-          "title": "दुर्ग के मां शीतला स्टेडियम में खुलेआम नशा, प्रशासन मौन! | CG Bhaskar",
-          "description": "दुर्ग के मां शीतला स्टेडियम में खुलेआम नशा, प्रशासन मौन! | CG Bhaskar Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-16T15:30:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/nPk11SpV5M8/hqdefault.jpg",
-          "durationSeconds": 93,
-          "durationFormatted": "01:33",
-          "views": 401,
-          "likes": 10,
+          "videoId": "WoO9UfFVhdU",
+          "title": "राजनांदगांव: 20 अप्रैल से स्कूलों में छुट्टी ,40°C पार गर्मी पर सरकार का बड़ा फैसला",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-16T12:37:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/WoO9UfFVhdU/hqdefault.jpg",
+          "durationSeconds": 149,
+          "durationFormatted": "02:29",
+          "views": 10,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-17T08:52:29Z"
+      "latestUpdateAt": "2026-04-17T08:38:08Z"
     },
     {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 37.5,
+      "trendScore": 36.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jahY7GdgzgQ/hqdefault.jpg",
           "durationSeconds": 639,
           "durationFormatted": "10:39",
-          "views": 704,
+          "views": 693,
           "likes": 34,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7rFLEWeDXDA/hqdefault.jpg",
           "durationSeconds": 583,
           "durationFormatted": "09:43",
-          "views": 449,
+          "views": 452,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Bu7NEUwtgOg/hqdefault.jpg",
           "durationSeconds": 293,
           "durationFormatted": "04:53",
-          "views": 47,
-          "likes": 5,
+          "views": 54,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oHF7w_JOH_s/hqdefault.jpg",
           "durationSeconds": 305,
           "durationFormatted": "05:05",
-          "views": 18,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -243,7 +327,7 @@
       "clusterId": "छततसगढ-chhattisgarh",
       "topic": "छत्तीसगढ़ Chhattisgarh",
       "videoCount": 5,
-      "trendScore": 36.3,
+      "trendScore": 36.7,
       "topVideos": [
         {
           "index": 1,
@@ -255,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WbsyReTIfi4/hqdefault.jpg",
           "durationSeconds": 1516,
           "durationFormatted": "25:16",
-          "views": 7693,
-          "likes": 220,
+          "views": 8176,
+          "likes": 221,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -270,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Uk-WxInFyBg/hqdefault.jpg",
           "durationSeconds": 916,
           "durationFormatted": "15:16",
-          "views": 933,
+          "views": 1088,
           "likes": 11,
           "videoType": "VOD",
           "genre": "General"
@@ -285,25 +369,25 @@
           "thumbnail": "https://i.ytimg.com/vi/_TnyjCsnuOM/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 787,
-          "likes": 10,
+          "views": 956,
+          "likes": 11,
           "videoType": "LIVE",
           "genre": "Live"
         },
         {
           "index": 4,
-          "videoId": "CDcNrJPJxRw",
-          "title": "Raipur News : छत्तीसगढ़ में 19 अप्रैल को होगा मंदिर महासंघ का गठन",
-          "description": "छत्तीसगढ़ में मंदिरों की स्थिति सुधारने और परंपराओं की रक्षा के ...",
+          "videoId": "6Y-6-fwV4KE",
+          "title": "🔴LIVE, MPCG News 17 April 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
           "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-16T14:15:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/CDcNrJPJxRw/hqdefault.jpg",
-          "durationSeconds": 37,
-          "durationFormatted": "00:37",
-          "views": 5,
+          "publishedAt": "2026-04-17T05:35:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/6Y-6-fwV4KE/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 22,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
+          "videoType": "LIVE",
+          "genre": "Live"
         },
         {
           "index": 5,
@@ -324,94 +408,10 @@
       "latestUpdateAt": "2026-04-17T06:52:36Z"
     },
     {
-      "clusterId": "अबकपर-कलयणपर",
-      "topic": "अंबिकापुर कल्याणपुर",
-      "videoCount": 16,
-      "trendScore": 35.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "fDe64hmeG1Y",
-          "title": "अंबिकापुर-कल्याणपुर में हाथी के हमले से युवक की मौ.T, मुआवजे की मांग पर चक्का जाम",
-          "description": "chhattisgarhnews #madhyapradehnews #ambikapur .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-16T12:29:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/fDe64hmeG1Y/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 104,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "RkzR_gWl2T8",
-          "title": "दुर्ग में सूने मकान में चोरी का खुलासा, मंगलसूत्र चोरी मामले में एक आरोपी गिरफ्तार”",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-16T11:34:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/RkzR_gWl2T8/hqdefault.jpg",
-          "durationSeconds": 42,
-          "durationFormatted": "00:42",
-          "views": 24,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "B9VSeF5b3GU",
-          "title": "रायपुर: भीषण गर्मी के चलते स्कूलों की छुट्टियां 20 अप्रैल से ,सरकार का बड़ा फैसलाv",
-          "description": "chhattisgarhnews #madhyapradehnews #raipurnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-16T12:33:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/B9VSeF5b3GU/hqdefault.jpg",
-          "durationSeconds": 66,
-          "durationFormatted": "01:06",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "WoO9UfFVhdU",
-          "title": "राजनांदगांव: 20 अप्रैल से स्कूलों में छुट्टी ,40°C पार गर्मी पर सरकार का बड़ा फैसला",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-16T12:37:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/WoO9UfFVhdU/hqdefault.jpg",
-          "durationSeconds": 149,
-          "durationFormatted": "02:29",
-          "views": 10,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "K3F5KNE7wFI",
-          "title": "दुर्ग पुलिस लाइन में अग्निशमन सप्ताह के तहत सुरक्षा प्रशिक्षण, फायर ब्रिगेड ने दिया डेमो",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-16T11:33:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/K3F5KNE7wFI/hqdefault.jpg",
-          "durationSeconds": 47,
-          "durationFormatted": "00:47",
-          "views": 10,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-17T08:36:17Z"
-    },
-    {
       "clusterId": "babu-khemani",
       "topic": "Babu Khemani",
-      "videoCount": 4,
-      "trendScore": 33.8,
+      "videoCount": 5,
+      "trendScore": 35.4,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GiLZbPzDQJE/hqdefault.jpg",
           "durationSeconds": 9,
           "durationFormatted": "00:09",
-          "views": 4523,
+          "views": 7529,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eWQFLrd0qoc/hqdefault.jpg",
           "durationSeconds": 443,
           "durationFormatted": "07:23",
-          "views": 2208,
+          "views": 3546,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -453,13 +453,28 @@
           "thumbnail": "https://i.ytimg.com/vi/scPb3ucnDbE/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 119,
+          "views": 573,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
+          "videoId": "itp_3ddtRG8",
+          "title": "Babu Khemani Arrest: ऑनलाइन सट्टा गिरोह का बड़ा भंडाफोड़, मुंबई से सरगना बाबू खेमानी गिरफ्तार",
+          "description": "Online Satta Gang: ऑनलाइन क्रिकेट सट्टा के लिए कुख्यात बाबू खेमानी को पुलिस ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-17T09:56:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/itp_3ddtRG8/hqdefault.jpg",
+          "durationSeconds": 193,
+          "durationFormatted": "03:13",
+          "views": 274,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "LGIYkexPyGQ",
           "title": "Online Betting गिरोह के सरगना Babu Khemani, Mumbai से गिरफ्तार ! आधिकारिक पुष्टि अभी बाकी",
           "description": "Online Betting गिरोह के सरगना Babu Khemani Mumbai से गिरफ्तार, पुलिस की बड़ी ...",
@@ -468,13 +483,82 @@
           "thumbnail": "https://i.ytimg.com/vi/LGIYkexPyGQ/hqdefault.jpg",
           "durationSeconds": 222,
           "durationFormatted": "03:42",
-          "views": 37,
+          "views": 56,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-04-17T09:21:11Z"
+      "latestUpdateAt": "2026-04-17T09:56:25Z"
+    },
+    {
+      "clusterId": "ucc-समत",
+      "topic": "UCC समिति",
+      "videoCount": 4,
+      "trendScore": 25.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "qhKxMZoFuIg",
+          "title": "छत्तीसगढ़ में UCC की तैयारी शुरू! कैबिनेट का बड़ा कदम, विशेषज्ञ समिति गठित।",
+          "description": "छत्तीसगढ़ में समान नागरिक संहिता (UCC) को लेकर हलचल तेज हो गई है!",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-04-17T06:07:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/qhKxMZoFuIg/hqdefault.jpg",
+          "durationSeconds": 156,
+          "durationFormatted": "02:36",
+          "views": 102,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "wsy8BdGA9n8",
+          "title": "LIVE :सुप्रीम कोर्ट की रिटायर्ड जज रंजना देसाई करेंगी UCC समिति का नेतृत्व | India News MP",
+          "description": "छत्तीसगढ़ में यूनिफॉर्म सिविल कोड (UCC) को लेकर सियासत तेज हो गई है।",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-17T05:53:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/wsy8BdGA9n8/hqdefault.jpg",
+          "durationSeconds": 14524,
+          "durationFormatted": "04:02:04",
+          "views": 73,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "VqVfdJEDTZc",
+          "title": "सुप्रीम कोर्ट की रिटायर्ड जज रंजना देसाई करेंगी UCC समिति का नेतृत्व | India News MP",
+          "description": "छत्तीसगढ़ में यूनिफॉर्म सिविल कोड (UCC) को लेकर सियासत तेज हो गई है।",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-16T13:55:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/VqVfdJEDTZc/hqdefault.jpg",
+          "durationSeconds": 166,
+          "durationFormatted": "02:46",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "aU7YCwiK714",
+          "title": "दिल्ली के संसद भवन में गूंजा छत्तीसगढ़ की आवाज 🔥",
+          "description": "दिल्ली के संसद भवन में गूंजा छत्तीसगढ़ की आवाज पुसवाड़ा कांकेर का ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-04-17T10:29:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/aU7YCwiK714/hqdefault.jpg",
+          "durationSeconds": 213,
+          "durationFormatted": "03:33",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-17T10:29:07Z"
     }
   ]
 }
