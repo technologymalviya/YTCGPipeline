@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-17T21:01:05.947373Z",
+  "generatedAt": "2026-04-17T22:58:59.522099Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 80,
-      "trendScore": 62.9,
+      "trendScore": 62.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wCHur883igo/hqdefault.jpg",
           "durationSeconds": 1700,
           "durationFormatted": "28:20",
-          "views": 47493,
-          "likes": 450,
+          "views": 47582,
+          "likes": 451,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/iD2CEI3N87o/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 18400,
-          "likes": 1082,
+          "views": 18807,
+          "likes": 1089,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/i-exR1QNfq4/hqdefault.jpg",
           "durationSeconds": 442,
           "durationFormatted": "07:22",
-          "views": 9697,
-          "likes": 219,
+          "views": 10109,
+          "likes": 221,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CiiP5CFhxYs/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 6079,
-          "likes": 189,
+          "views": 6321,
+          "likes": 194,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/FPF1JlIzTBM/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 2881,
-          "likes": 23,
+          "views": 3093,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-17T18:42:31Z"
+      "latestUpdateAt": "2026-04-17T21:09:48Z"
     },
     {
       "clusterId": "omg-रयपर",
       "topic": "OMG रायपुर",
       "videoCount": 19,
-      "trendScore": 51.3,
+      "trendScore": 50.1,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JEqJWEh7b0I/hqdefault.jpg",
           "durationSeconds": 927,
           "durationFormatted": "15:27",
-          "views": 8634,
-          "likes": 194,
+          "views": 9856,
+          "likes": 197,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rRU0ijXD2UM/hqdefault.jpg",
           "durationSeconds": 1482,
           "durationFormatted": "24:42",
-          "views": 79,
+          "views": 111,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-yid",
       "topic": "Bhaskar YID",
       "videoCount": 8,
-      "trendScore": 37.5,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8aAuW7PZtXY/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 1232,
+          "views": 1239,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dSdP3JP5vdM/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 880,
+          "views": 893,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N4Am6cvIUNg/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 874,
+          "views": 883,
           "likes": 38,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JbOmYJU55yA/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 309,
+          "views": 335,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +258,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 37.0,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/U2nh1nGbggs/hqdefault.jpg",
           "durationSeconds": 553,
           "durationFormatted": "09:13",
-          "views": 233,
+          "views": 231,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "छततसगढ-सरगज",
       "topic": "छत्तीसगढ़ सरगुजा",
       "videoCount": 4,
-      "trendScore": 33.1,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WreU9oYVLOg/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 18233,
-          "likes": 220,
+          "views": 18736,
+          "likes": 223,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -396,7 +396,7 @@
       "clusterId": "bhaskar-raipur",
       "topic": "Bhaskar Raipur",
       "videoCount": 4,
-      "trendScore": 32.6,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -408,7 +408,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lPiNxwgbawA/hqdefault.jpg",
           "durationSeconds": 337,
           "durationFormatted": "05:37",
-          "views": 1134,
+          "views": 1232,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HNQLCRHtQvY/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 996,
-          "likes": 25,
+          "views": 1042,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TgB7mTguZ0A/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 72,
+          "views": 83,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -465,40 +465,25 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 5,
-      "trendScore": 32.0,
+      "trendScore": 31.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "I_EnqLMUupc",
-          "title": "#shorts  : छत्तीसगढ़ म लागू होही UCC | CG Government | Zee MPCG",
-          "description": "shorts : छत्तीसगढ़ म लागू होही UCC | CG Government | Zee MPCG #cgnews #ucc #uniformcivilcourt #reels ...",
+          "videoId": "lJMdcsllhE0",
+          "title": "🔴LIVE :  Aapki Aawaz :  &#39;महिला आरक्षण&#39; पर आर-पार ! Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : 'महिला आरक्षण' पर आर-पार ! Zee MPCG | Latest News #Live #AapkiAwaaz #mpnews ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-17T12:15:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/I_EnqLMUupc/hqdefault.jpg",
-          "durationSeconds": 94,
-          "durationFormatted": "01:34",
-          "views": 1826,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "IbbRIAU7LkQ",
-          "title": "#shorts  : अवैध कब्जों की खैर नहीं ! भोजताल बचाने का बड़ा एक्शन प्लान ! Zee MPCG",
-          "description": "reels : अवैध कब्जों की खैर नहीं ! भोजताल बचाने का बड़ा एक्शन प्लान ! फार्म ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-17T11:47:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/IbbRIAU7LkQ/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 1493,
-          "likes": 4,
+          "publishedAt": "2026-04-17T14:21:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/lJMdcsllhE0/hqdefault.jpg",
+          "durationSeconds": 1275,
+          "durationFormatted": "21:15",
+          "views": 146,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "7Bvnby6lHS0",
           "title": "🔴LIVE : Prime Time @9 : धर्म का खेल...सिस्टम क्यों खामोश? | Latest News | Zee MPCG",
           "description": "LIVE : Prime Time @9 : धर्म का खेल...सिस्टम क्यों खामोश? | Latest News | Zee MPCG #live #primetime ...",
@@ -507,28 +492,28 @@
           "thumbnail": "https://i.ytimg.com/vi/7Bvnby6lHS0/hqdefault.jpg",
           "durationSeconds": 1334,
           "durationFormatted": "22:14",
-          "views": 96,
+          "views": 112,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "ha06xpKIEhY",
-          "title": "Sabhal Controversy : संभल में बुलडोजर एक्शन! मस्जिद-मदरसों समेत कई निर्माण ध्वस्त | Zee MPCG",
-          "description": "Prime Time : संभल में अब.. 'सब' समतल होगा! मस्जिद, मदरसा, 5 दुकानें, 8 मकान बनाए, ...",
+          "index": 3,
+          "videoId": "OlA3EZCsDgI",
+          "title": "🔴LIVE : MP - CG : महिला आरक्षण पर संसद से राहुल गांधी | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : महिला आरक्षण पर संसद से राहुल गांधी | Latest News | Zee MPCG #Live #MPNews ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-17T18:30:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/ha06xpKIEhY/hqdefault.jpg",
-          "durationSeconds": 140,
-          "durationFormatted": "02:20",
-          "views": 55,
-          "likes": 4,
+          "publishedAt": "2026-04-17T21:58:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/OlA3EZCsDgI/hqdefault.jpg",
+          "durationSeconds": 1741,
+          "durationFormatted": "29:01",
+          "views": 110,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "ULAR9qER44Y",
           "title": "🔴LIVE: MP Dastak : भोपाल में कल शिक्षकों की अनुरोध यात्रा | Latest News | Zee MPCG",
           "description": "LIVE: MP Dastak : भोपाल में कल शिक्षकों की अनुरोध यात्रा | Latest News | Zee MPCG ...",
@@ -537,13 +522,28 @@
           "thumbnail": "https://i.ytimg.com/vi/ULAR9qER44Y/hqdefault.jpg",
           "durationSeconds": 1128,
           "durationFormatted": "18:48",
-          "views": 54,
+          "views": 82,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "ha06xpKIEhY",
+          "title": "Sabhal Controversy : संभल में बुलडोजर एक्शन! मस्जिद-मदरसों समेत कई निर्माण ध्वस्त | Zee MPCG",
+          "description": "Prime Time : संभल में अब.. 'सब' समतल होगा! मस्जिद, मदरसा, 5 दुकानें, 8 मकान बनाए, ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-17T18:30:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/ha06xpKIEhY/hqdefault.jpg",
+          "durationSeconds": 140,
+          "durationFormatted": "02:20",
+          "views": 70,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-17T18:30:55Z"
+      "latestUpdateAt": "2026-04-17T21:58:20Z"
     }
   ]
 }
