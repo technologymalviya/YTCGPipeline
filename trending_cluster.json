@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-18T19:07:33.168731Z",
+  "generatedAt": "2026-04-18T20:51:44.729819Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 68,
-      "trendScore": 62.7,
+      "trendScore": 61.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KTwamfIdBhY/hqdefault.jpg",
           "durationSeconds": 1493,
           "durationFormatted": "24:53",
-          "views": 62124,
+          "views": 62672,
           "likes": 450,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/i56M-oF8lb8/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 21291,
-          "likes": 336,
+          "views": 22503,
+          "likes": 339,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VEyIHspIp44/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 13687,
-          "likes": 202,
+          "views": 14664,
+          "likes": 205,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3lIDw2SnoM0/hqdefault.jpg",
           "durationSeconds": 790,
           "durationFormatted": "13:10",
-          "views": 9491,
-          "likes": 420,
+          "views": 9586,
+          "likes": 421,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/4hJm1AFcxzE/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 5954,
-          "likes": 74,
+          "views": 6331,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-18T18:37:36Z"
+      "latestUpdateAt": "2026-04-18T18:40:46Z"
     },
     {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 42.9,
+      "trendScore": 42.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vS6H9vRsaXM/hqdefault.jpg",
           "durationSeconds": 629,
           "durationFormatted": "10:29",
-          "views": 378,
+          "views": 352,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/io9vXvlqw2o/hqdefault.jpg",
           "durationSeconds": 543,
           "durationFormatted": "09:03",
-          "views": 158,
+          "views": 177,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/S239LX1GX-8/hqdefault.jpg",
           "durationSeconds": 311,
           "durationFormatted": "05:11",
-          "views": 56,
+          "views": 58,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Xz-ZqmyFLmY/hqdefault.jpg",
           "durationSeconds": 281,
           "durationFormatted": "04:41",
-          "views": 55,
+          "views": 57,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -156,97 +156,28 @@
       "latestUpdateAt": "2026-04-18T14:42:33Z"
     },
     {
-      "clusterId": "april-रजनदगव",
-      "topic": "April राजनांदगांव",
-      "videoCount": 17,
-      "trendScore": 40.9,
+      "clusterId": "tet-bhopal",
+      "topic": "TET Bhopal",
+      "videoCount": 9,
+      "trendScore": 41.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "J7PapjS3qbY",
-          "title": "18 April 2026 | Madhya Pradesh News | News from Madhya Pradesh",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-18T13:13:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/J7PapjS3qbY/hqdefault.jpg",
-          "durationSeconds": 1376,
-          "durationFormatted": "22:56",
-          "views": 116,
-          "likes": 0,
+          "videoId": "M2VC47VQEfg",
+          "title": "TET Teacher Protest :  प्रदर्शन के दौरान शिक्षकों का बड़ा ऐलान | Bhopal | MP News | Zee MPCG",
+          "description": "Bhopal Teacher Protest : TET को लेकर शिक्षकों का प्रदर्शन , प्रदर्शन के दौरान ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-18T11:20:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/M2VC47VQEfg/hqdefault.jpg",
+          "durationSeconds": 184,
+          "durationFormatted": "03:04",
+          "views": 16583,
+          "likes": 196,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Civic"
         },
         {
           "index": 2,
-          "videoId": "aYe1uVjSX5s",
-          "title": "राजनांदगांव में परशुराम जयंती की भव्य बाइक रैली, युवाओं ने निकाली शक्ति प्रदर्शन",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-18T14:10:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/aYe1uVjSX5s/hqdefault.jpg",
-          "durationSeconds": 299,
-          "durationFormatted": "04:59",
-          "views": 53,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "jg3FnFfoDAE",
-          "title": "महासमुंद में तापमान 42 डिग्री के पार, स्वास्थ्य विभाग ने जारी किया अलर्ट",
-          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-18T14:12:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/jg3FnFfoDAE/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 30,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "HOxslTgmRIA",
-          "title": "भिलाई में दिल दहला देने वाली घटना, युवती की संदिग्ध मौ.T का खुलासा",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-18T12:30:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/HOxslTgmRIA/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "hxRuvaqQCjU",
-          "title": "भिलाई में रेलवे स्टेशन के सामने जुआ खेलते 15 आरोपी गिरफ्तार, पुलिस की बड़ी कार्रवाई",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-18T12:32:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/hxRuvaqQCjU/hqdefault.jpg",
-          "durationSeconds": 42,
-          "durationFormatted": "00:42",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-04-18T14:16:46Z"
-    },
-    {
-      "clusterId": "tet-bhopal",
-      "topic": "TET Bhopal",
-      "videoCount": 6,
-      "trendScore": 38.9,
-      "topVideos": [
-        {
-          "index": 1,
           "videoId": "W4LTpH-JLRY",
           "title": "Bhopal में शिक्षकों का बड़ा प्रदर्शन, TET नियमों के खिलाफ हजारों टीचर हुए एकजुट, दी ये चेतावनी!",
           "description": "MP TET Teacher Protest: टीईटी की अनिवार्यता खत्म करने समेत कई मांगों को लेकर ...",
@@ -255,13 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/W4LTpH-JLRY/hqdefault.jpg",
           "durationSeconds": 203,
           "durationFormatted": "03:23",
-          "views": 13037,
-          "likes": 242,
+          "views": 13814,
+          "likes": 248,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 2,
+          "index": 3,
           "videoId": "A1Lcxsxm5K0",
           "title": "TET के विरोध में 50 हजार शिक्षक सड़कों पर !",
           "description": "मध्यप्रदेश की राजधानी Bhopal में सरकारी शिक्षकों का बड़ा प्रदर्शन ...",
@@ -270,13 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/A1Lcxsxm5K0/hqdefault.jpg",
           "durationSeconds": 16,
           "durationFormatted": "00:16",
-          "views": 4201,
-          "likes": 26,
+          "views": 4593,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "VJPVdC_3CDY",
           "title": "MP के शिक्षकों का आज Bhopal में प्रदर्शन: TET अनिवार्यता के खिलाफ हजारों की संख्या में जुटें शिक्षक",
           "description": "MP के शिक्षकों का आज Bhopal में प्रदर्शन: TET अनिवार्यता के खिलाफ हजारों ...",
@@ -291,127 +222,112 @@
           "genre": "Civic"
         },
         {
-          "index": 4,
-          "videoId": "lpgjFOovl24",
-          "title": "🔴LIVE : Prime Time @9 : स्कूल बंद, भविष्य पर सवाल | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : स्कूल बंद, भविष्य पर सवाल | Latest News | Zee MPCG #live #primetime #mpnews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-18T15:31:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/lpgjFOovl24/hqdefault.jpg",
-          "durationSeconds": 1246,
-          "durationFormatted": "20:46",
-          "views": 103,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 5,
-          "videoId": "uKcaaj-uncU",
-          "title": "TET Teacher Protest : स्कूल vs सरकार विवाद.. बीच में फंसे छात्र | MP News | Bhopal | Zee MPCG",
-          "description": "Prime Time : स्कूल vs सरकार.. बीच में फंसे छात्र , निजी स्कूल संचालकों का ...",
+          "videoId": "hkHoqurNOxI",
+          "title": "🔴LIVE : Johar : स्कूल बंद, भविष्य पर सवाल  | Chhattisgarh News | Latest News | CG News | Zee MPCG",
+          "description": "LIVE : Johar : स्कूल बंद, भविष्य पर सवाल | Chhattisgarh News | Latest News | CG News | Zee MPCG #Live ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-18T18:15:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/uKcaaj-uncU/hqdefault.jpg",
-          "durationSeconds": 236,
-          "durationFormatted": "03:56",
-          "views": 72,
+          "publishedAt": "2026-04-18T11:53:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/hkHoqurNOxI/hqdefault.jpg",
+          "durationSeconds": 1516,
+          "durationFormatted": "25:16",
+          "views": 149,
           "likes": 3,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-18T18:30:55Z"
     },
     {
-      "clusterId": "modi-speech",
-      "topic": "Modi Speech",
-      "videoCount": 7,
-      "trendScore": 36.9,
+      "clusterId": "april-रजनदगव",
+      "topic": "April राजनांदगांव",
+      "videoCount": 17,
+      "trendScore": 40.5,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "TwRUqYEXLZw",
-          "title": "‘नारी सब भूल जाती है अपना अपमान कभी नहीं भूलती’: PM मोदी। PM Modi Speech #shortvideo #pmmodi",
-          "description": "IBC24, 'नारी सब भूल जाती है अपना अपमान कभी नहीं भूलती': PM मोदी। PM Modi Speech ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-18T16:04:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/TwRUqYEXLZw/hqdefault.jpg",
-          "durationSeconds": 178,
-          "durationFormatted": "02:58",
-          "views": 6797,
+          "videoId": "J7PapjS3qbY",
+          "title": "18 April 2026 | Madhya Pradesh News | News from Madhya Pradesh",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-18T13:13:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/J7PapjS3qbY/hqdefault.jpg",
+          "durationSeconds": 1376,
+          "durationFormatted": "22:56",
+          "views": 152,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "vGftlBB0j6k",
-          "title": "नारी शक्ति पर PM मोदी भावुक..देश की महिलाओं से मांगी माफी। PM Modi Speech #shortvideo #pmmodi",
-          "description": "IBC24, नारी शक्ति पर PM मोदी भावुक..देश की महिलाओं से मांगी माफी। PM Modi ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-18T15:35:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/vGftlBB0j6k/hqdefault.jpg",
-          "durationSeconds": 67,
-          "durationFormatted": "01:07",
-          "views": 5246,
-          "likes": 0,
+          "videoId": "aYe1uVjSX5s",
+          "title": "राजनांदगांव में परशुराम जयंती की भव्य बाइक रैली, युवाओं ने निकाली शक्ति प्रदर्शन",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-18T14:10:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/aYe1uVjSX5s/hqdefault.jpg",
+          "durationSeconds": 299,
+          "durationFormatted": "04:59",
+          "views": 94,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "E23UMemfa00",
-          "title": "🔴PM Modi Address To The Nation : &#39;विपक्ष ने नारी शक्ति की उड़ान को रोका&#39;। PM Modi Speech",
-          "description": "IBC24, PM Modi Address To The Nation : PM मोदी देश को कर रहे हैं संबोधित । PM Modi Speech ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-18T15:35:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/E23UMemfa00/hqdefault.jpg",
-          "durationSeconds": 1740,
-          "durationFormatted": "29:00",
-          "views": 905,
+          "videoId": "jg3FnFfoDAE",
+          "title": "महासमुंद में तापमान 42 डिग्री के पार, स्वास्थ्य विभाग ने जारी किया अलर्ट",
+          "description": "chhattisgarhnews #madhyapradehnews #mahasamundnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-18T14:12:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/jg3FnFfoDAE/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "wkBxjt0oXYY",
-          "title": "PM Modi का राष्ट्र के नाम भावुक संबोधन | कहा- महिलाएं नहीं भूलेंगी हक छीनने का जश्न",
-          "description": "IBC24, PM Modi का राष्ट्र के नाम भावुक संबोधन | कहा- महिलाएं नहीं भूलेंगी ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-18T16:24:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/wkBxjt0oXYY/hqdefault.jpg",
-          "durationSeconds": 408,
-          "durationFormatted": "06:48",
-          "views": 124,
+          "videoId": "HOxslTgmRIA",
+          "title": "भिलाई में दिल दहला देने वाली घटना, युवती की संदिग्ध मौ.T का खुलासा",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-18T12:30:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/HOxslTgmRIA/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 22,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "OIOIszcVkIY",
-          "title": "PM Modi Address To Nation Live: &#39;कुछ दलों के लिए दल हित बड़ा&#39;... राष्ट्र के नाम PM मोदी का संबोधन",
-          "description": "PM Modi Nation Address: पीएम मोदी ने देश की माताओं और बहनों से माफी मांगी है।",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-18T15:46:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/OIOIszcVkIY/hqdefault.jpg",
-          "durationSeconds": 1894,
-          "durationFormatted": "31:34",
-          "views": 56,
+          "videoId": "hxRuvaqQCjU",
+          "title": "भिलाई में रेलवे स्टेशन के सामने जुआ खेलते 15 आरोपी गिरफ्तार, पुलिस की बड़ी कार्रवाई",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-18T12:32:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/hxRuvaqQCjU/hqdefault.jpg",
+          "durationSeconds": 42,
+          "durationFormatted": "00:42",
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-04-18T16:24:11Z"
+      "latestUpdateAt": "2026-04-18T14:16:46Z"
     },
     {
       "clusterId": "bhaskar-lenskart",
       "topic": "Bhaskar Lenskart",
       "videoCount": 5,
-      "trendScore": 35.9,
+      "trendScore": 35.1,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/r-EYOlpS73g/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 2583,
-          "likes": 63,
+          "views": 2665,
+          "likes": 65,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -438,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ooM1FOYRFms/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 848,
-          "likes": 20,
+          "views": 835,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AmmG6Idsn6E/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 623,
-          "likes": 36,
+          "views": 635,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CKXCkIJ_nGQ/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 532,
+          "views": 562,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Civic"
@@ -483,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2gK42ZzPGqA/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 437,
-          "likes": 14,
+          "views": 479,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -495,7 +411,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 30.5,
+      "trendScore": 29.4,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/22X0NnIDRf4/hqdefault.jpg",
           "durationSeconds": 198,
           "durationFormatted": "03:18",
-          "views": 649,
+          "views": 688,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RCOL0jb_hTg/hqdefault.jpg",
           "durationSeconds": 220,
           "durationFormatted": "03:40",
-          "views": 42,
+          "views": 56,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -549,7 +465,7 @@
       "clusterId": "वपकष-जनत",
       "topic": "विपक्ष जनता",
       "videoCount": 4,
-      "trendScore": 29.4,
+      "trendScore": 28.7,
       "topVideos": [
         {
           "index": 1,
@@ -561,7 +477,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Za5ACTVTi7s/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 738,
+          "views": 742,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -576,8 +492,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tXTfYoCmxIM/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 724,
-          "likes": 7,
+          "views": 740,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -591,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/whZ_itpNYok/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 500,
+          "views": 541,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -606,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2uvNgYWTH68/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 28,
+          "views": 36,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -615,10 +531,79 @@
       "latestUpdateAt": "2026-04-18T12:23:31Z"
     },
     {
+      "clusterId": "modi-address",
+      "topic": "Modi Address",
+      "videoCount": 4,
+      "trendScore": 25.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "wkBxjt0oXYY",
+          "title": "PM Modi का राष्ट्र के नाम भावुक संबोधन | कहा- महिलाएं नहीं भूलेंगी हक छीनने का जश्न",
+          "description": "IBC24, PM Modi का राष्ट्र के नाम भावुक संबोधन | कहा- महिलाएं नहीं भूलेंगी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-18T16:24:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/wkBxjt0oXYY/hqdefault.jpg",
+          "durationSeconds": 408,
+          "durationFormatted": "06:48",
+          "views": 124,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "n2n3DP7oiOc",
+          "title": "PM Modi Live: देश को संबोधित कर रहे पीएम मोदी, जानिए किन मुद्दों पर रख रहे हैं बात",
+          "description": "PM Modi Live: देश को संबोधित कर रहे पीएम मोदी, जानिए किन मुद्दों पर रख रहे ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-18T14:43:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/n2n3DP7oiOc/hqdefault.jpg",
+          "durationSeconds": 1748,
+          "durationFormatted": "29:08",
+          "views": 63,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "OIOIszcVkIY",
+          "title": "PM Modi Address To Nation Live: &#39;कुछ दलों के लिए दल हित बड़ा&#39;... राष्ट्र के नाम PM मोदी का संबोधन",
+          "description": "PM Modi Nation Address: पीएम मोदी ने देश की माताओं और बहनों से माफी मांगी है।",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-18T15:46:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/OIOIszcVkIY/hqdefault.jpg",
+          "durationSeconds": 1894,
+          "durationFormatted": "31:34",
+          "views": 56,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "4yKyQhczTfk",
+          "title": "PM Modi Address:  PM मोदी का बड़ा संबोधन, क्या होगा ऐलान? LIVE",
+          "description": "PM मोदी के संबोधन को लेकर सियासी और आम जनता में चर्चा तेज है। सभी की ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-18T12:30:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/4yKyQhczTfk/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "SCHEDULED",
+          "views": 0,
+          "likes": 0,
+          "videoType": "SCHEDULED",
+          "genre": "Scheduled"
+        }
+      ],
+      "latestUpdateAt": "2026-04-18T16:24:11Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 20.3,
+      "trendScore": 20.1,
       "topVideos": [
         {
           "index": 1,
@@ -630,7 +615,7 @@
           "thumbnail": "https://i.ytimg.com/vi/K6toOv_Ohhg/hqdefault.jpg",
           "durationSeconds": 1645,
           "durationFormatted": "27:25",
-          "views": 78,
+          "views": 114,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
