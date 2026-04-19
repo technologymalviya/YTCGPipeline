@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-19T16:56:54.511831Z",
+  "generatedAt": "2026-04-19T19:06:42.611957Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 64,
-      "trendScore": 62.9,
+      "videoCount": 60,
+      "trendScore": 62.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NJpTy4gx8Wg/hqdefault.jpg",
           "durationSeconds": 1648,
           "durationFormatted": "27:28",
-          "views": 39670,
-          "likes": 312,
+          "views": 41910,
+          "likes": 314,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4y4uucxDoyI/hqdefault.jpg",
           "durationSeconds": 900,
           "durationFormatted": "15:00",
-          "views": 15154,
-          "likes": 307,
+          "views": 16198,
+          "likes": 318,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,25 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/k-vF2G9U1eU/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 8446,
-          "likes": 392,
+          "views": 11773,
+          "likes": 441,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "mrGQfnhlga0",
-          "title": "Vedanta Plant के 3 और Labour ने तोड़ा दम | MP Naveen Jindal बीच में कूदे | Ex CM बघेल का आरोप |",
-          "description": "Vedanta Plant के 3 और Labour ने तोड़ा दम | MP Naveen Jindal बीच में कूदे | Ex CM बघेल का ...",
+          "videoId": "_QkjvNzAlHw",
+          "title": "महिला आरक्षण बिल पर पूर्व सीएम भूपेश बघेल का आया बयान",
+          "description": "महिला आरक्षण बिल पर पूर्व सीएम भूपेश बघेल का आया बयान Join this channel to get ...",
           "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-18T17:00:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/mrGQfnhlga0/hqdefault.jpg",
-          "durationSeconds": 652,
-          "durationFormatted": "10:52",
-          "views": 3702,
-          "likes": 105,
+          "publishedAt": "2026-04-19T16:30:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/_QkjvNzAlHw/hqdefault.jpg",
+          "durationSeconds": 124,
+          "durationFormatted": "02:04",
+          "views": 6311,
+          "likes": 80,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 5,
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/vs7dyY_pd4k/hqdefault.jpg",
           "durationSeconds": 21,
           "durationFormatted": "00:21",
-          "views": 2958,
+          "views": 3866,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-19T16:30:12Z"
+      "latestUpdateAt": "2026-04-19T18:30:25Z"
     },
     {
       "clusterId": "bhaskar-miss",
       "topic": "Bhaskar Miss",
       "videoCount": 13,
-      "trendScore": 47.7,
+      "trendScore": 46.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/41GIFbvlVGc/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 1838,
-          "likes": 58,
+          "views": 2887,
+          "likes": 73,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "D-Ir0qtNCjM",
-          "title": "Miss India East बनी भिलाई की अनुष्का सोन | CG Bhaskar",
-          "description": "Miss India East बनी भिलाई की अनुष्का सोन | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-19T08:50:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/D-Ir0qtNCjM/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 928,
-          "likes": 31,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "lE5Stq3CioU",
           "title": "रायगढ़ में हिरण बचाया फिर बांट लिया मांस | CG Bhaskar",
           "description": "रायगढ़ में हिरण बचाया फिर बांट लिया मांस | CG Bhaskar Join our Whatsapp Group ...",
@@ -132,8 +117,23 @@
           "thumbnail": "https://i.ytimg.com/vi/lE5Stq3CioU/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 887,
-          "likes": 28,
+          "views": 1149,
+          "likes": 33,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "D-Ir0qtNCjM",
+          "title": "Miss India East बनी भिलाई की अनुष्का सोन | CG Bhaskar",
+          "description": "Miss India East बनी भिलाई की अनुष्का सोन | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-19T08:50:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/D-Ir0qtNCjM/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 1002,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vAVypSjDEt8/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 779,
-          "likes": 28,
+          "views": 796,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Yj_W3aY4JHo/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 763,
-          "likes": 20,
+          "views": 778,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -171,43 +171,13 @@
       "latestUpdateAt": "2026-04-19T16:30:18Z"
     },
     {
-      "clusterId": "april",
-      "topic": "April",
+      "clusterId": "kyc-april",
+      "topic": "KYC April",
       "videoCount": 13,
-      "trendScore": 38.3,
+      "trendScore": 37.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "9NZxxV6mwC0",
-          "title": "19 April 2026 | Madhya Pradesh News | News from Madhya Pradesh",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-19T14:00:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/9NZxxV6mwC0/hqdefault.jpg",
-          "durationSeconds": 1684,
-          "durationFormatted": "28:04",
-          "views": 125,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "7GbhtkOVZC0",
-          "title": "CG सरगुजा की अनोखी शादी, दुल्हन लेकर पहुंची बारात, दूल्हे की हुई विदाई!",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-19T14:27:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/7GbhtkOVZC0/hqdefault.jpg",
-          "durationSeconds": 49,
-          "durationFormatted": "00:49",
-          "views": 11,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
           "videoId": "GiZiQny__04",
           "title": "महिलाओं के लिए जरूरी खबर: महतारी वंदन KYC में ये गलती न करें",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -216,10 +186,40 @@
           "thumbnail": "https://i.ytimg.com/vi/GiZiQny__04/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 10,
-          "likes": 1,
+          "views": 835,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "9NZxxV6mwC0",
+          "title": "19 April 2026 | Madhya Pradesh News | News from Madhya Pradesh",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-19T14:00:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/9NZxxV6mwC0/hqdefault.jpg",
+          "durationSeconds": 1684,
+          "durationFormatted": "28:04",
+          "views": 144,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "7GbhtkOVZC0",
+          "title": "CG सरगुजा की अनोखी शादी, दुल्हन लेकर पहुंची बारात, दूल्हे की हुई विदाई!",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-19T14:27:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/7GbhtkOVZC0/hqdefault.jpg",
+          "durationSeconds": 49,
+          "durationFormatted": "00:49",
+          "views": 15,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
         },
         {
           "index": 4,
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y8RZtL0XxLQ/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 8,
+          "views": 11,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Civic"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FJerUfmzZHk/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 6,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -255,10 +255,94 @@
       "latestUpdateAt": "2026-04-19T14:40:11Z"
     },
     {
+      "clusterId": "tet-newsonair",
+      "topic": "TET Newsonair",
+      "videoCount": 7,
+      "trendScore": 37.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "Wr7aWwPU_6g",
+          "title": "MP TET | भोपाल में TET के खिलाफ हजारों शिक्षकों का प्रदर्शन... नियमों में बदलाव की मांग...",
+          "description": "MP TET | भोपाल में TET के खिलाफ हजारों शिक्षकों का प्रदर्शन... नियमों में ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-19T13:21:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/Wr7aWwPU_6g/hqdefault.jpg",
+          "durationSeconds": 1179,
+          "durationFormatted": "19:39",
+          "views": 1352,
+          "likes": 16,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "L26LzVofQFQ",
+          "title": "Chhattisgarh Madhya Pradesh Weather Update: उफ! ये गर्मी | अप्रैल में आसमान छू रहा पारा | MP-CG News",
+          "description": "IBC24, Chhattisgarh Madhya Pradesh Weather Update: उफ! ये गर्मी | अप्रैल में आसमान छू रहा ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-19T17:58:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/L26LzVofQFQ/hqdefault.jpg",
+          "durationSeconds": 33489,
+          "durationFormatted": "09:18:09",
+          "views": 767,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "Q6xg-brBE_A",
+          "title": "19 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-19T13:48:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q6xg-brBE_A/hqdefault.jpg",
+          "durationSeconds": 595,
+          "durationFormatted": "09:55",
+          "views": 440,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Xdu1vfsgE1g",
+          "title": "19 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-19T13:19:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xdu1vfsgE1g/hqdefault.jpg",
+          "durationSeconds": 553,
+          "durationFormatted": "09:13",
+          "views": 134,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "f3aTPpNWtdA",
+          "title": "19 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 11.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-19T11:12:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/f3aTPpNWtdA/hqdefault.jpg",
+          "durationSeconds": 309,
+          "durationFormatted": "05:09",
+          "views": 67,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-19T18:16:01Z"
+    },
+    {
       "clusterId": "पक-खन",
       "topic": "पके खाने",
       "videoCount": 4,
-      "trendScore": 38.0,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eOXFOdMdhJs/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 86045,
-          "likes": 1297,
+          "views": 99179,
+          "likes": 1348,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EmK_exEW3Rw/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 32041,
-          "likes": 402,
+          "views": 36974,
+          "likes": 422,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DIGUutSkDLc/hqdefault.jpg",
           "durationSeconds": 590,
           "durationFormatted": "09:50",
-          "views": 585,
-          "likes": 18,
+          "views": 926,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -315,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bYCrFXAjUtE/hqdefault.jpg",
           "durationSeconds": 287,
           "durationFormatted": "04:47",
-          "views": 307,
+          "views": 364,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +411,7 @@
       "clusterId": "shorts-zee",
       "topic": "shorts Zee",
       "videoCount": 6,
-      "trendScore": 34.7,
+      "trendScore": 34.6,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SwRB7wDIdFg/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 2296,
-          "likes": 18,
+          "views": 3215,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1j07QB_69ew/hqdefault.jpg",
           "durationSeconds": 146,
           "durationFormatted": "02:26",
-          "views": 1627,
+          "views": 1747,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,28 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tJqpXRk__yY/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 1007,
+          "views": 1073,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "lnFrj9d5GJA",
-          "title": "🔴LIVE : MP-CG News :  कांग्रेस के खिलाफ...महिला जन आक्रोश पदयात्रा | Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News : कांग्रेस के खिलाफ...महिला जन आक्रोश पदयात्रा | Latest News | Zee ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-19T07:52:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/lnFrj9d5GJA/hqdefault.jpg",
-          "durationSeconds": 1448,
-          "durationFormatted": "24:08",
-          "views": 116,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "JCBpLoBEeQI",
           "title": "🔴LIVE : Khabar Apne MP Ki : शिवपुरी में विधायक प्रीतम लोधी के बेटे से पूछताछ  | Zee MPCG",
           "description": "LIVE : Khabar Apne MP Ki : शिवपुरी में विधायक प्रीतम लोधी के बेटे से पूछताछ | Zee ...",
@@ -399,19 +468,34 @@
           "thumbnail": "https://i.ytimg.com/vi/JCBpLoBEeQI/hqdefault.jpg",
           "durationSeconds": 1327,
           "durationFormatted": "22:07",
-          "views": 112,
-          "likes": 1,
+          "views": 136,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "E2uBisSNgDo",
+          "title": "🔴LIVE : Johar : स्कूल बंद, भविष्य पर सवाल  | Chhattisgarh News | Latest News | CG News | Zee MPCG",
+          "description": "LIVE : Johar : स्कूल बंद, भविष्य पर सवाल | Chhattisgarh News | Latest News | CG News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-19T11:57:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/E2uBisSNgDo/hqdefault.jpg",
+          "durationSeconds": 1332,
+          "durationFormatted": "22:12",
+          "views": 109,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-19T14:52:16Z"
+      "latestUpdateAt": "2026-04-19T17:53:59Z"
     },
     {
-      "clusterId": "xpress-कय",
-      "topic": "Xpress किया",
+      "clusterId": "xpress-दलहन",
+      "topic": "Xpress दुल्हन",
       "videoCount": 4,
-      "trendScore": 33.2,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GcpR0quXcJ8/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 1632,
-          "likes": 39,
+          "views": 2519,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -438,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OMmRgSpvfzQ/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 342,
+          "views": 354,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FEgfuvJN32k/hqdefault.jpg",
           "durationSeconds": 182,
           "durationFormatted": "03:02",
-          "views": 152,
+          "views": 156,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -468,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RYTDl9lyn4I/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 118,
+          "views": 135,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -477,94 +561,10 @@
       "latestUpdateAt": "2026-04-19T13:27:04Z"
     },
     {
-      "clusterId": "janta-cafe",
-      "topic": "Janta Cafe",
-      "videoCount": 5,
-      "trendScore": 32.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "5hWYroZWX8Q",
-          "title": "‘मल्टीपल लव’ पर क्या है Gen Z प्रतिनिधि की क्या है राय ? Multiple Love । Janta Cafe #shorts",
-          "description": "IBC24, 'मल्टीपल लव' पर क्या है Gen Z प्रतिनिधि की क्या है राय ?Multiple Love ।",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-19T14:48:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/5hWYroZWX8Q/hqdefault.jpg",
-          "durationSeconds": 123,
-          "durationFormatted": "02:03",
-          "views": 801,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "XFi-3D3TBXw",
-          "title": "‘मल्टीपल लव’ की डेफिनेशन क्या हैं? क्या है सोशल एक्टिविस्ट की राय। Multiple Love। Janta Cafe #shorts",
-          "description": "IBC24, 'मल्टीपल लव' की डेफिनेशन क्या हैं? क्या है सोशल एक्टिविस्ट की राय ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-19T15:11:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/XFi-3D3TBXw/hqdefault.jpg",
-          "durationSeconds": 136,
-          "durationFormatted": "02:16",
-          "views": 423,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "6mCNsEMdfSM",
-          "title": "🔴इश्क में बंटवारा...नहीं गंवारा! &#39;मल्टीपल लव&#39; कॉन्सेप्ट पर छिड़ी बहस..Multiple Love । Janta Cafe",
-          "description": "IBC24, इश्क में बंटवारा...नहीं गंवारा! 'मल्टीपल लव' कॉन्सेप्ट पर छिड़ी ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-19T15:18:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/6mCNsEMdfSM/hqdefault.jpg",
-          "durationSeconds": 2796,
-          "durationFormatted": "46:36",
-          "views": 294,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "cmZw4l7KZIA",
-          "title": "इस छात्रा के सवाल परबजने लगी तालियां... Multiple Love। Janta Cafe #shorts #viralvideo",
-          "description": "IBC24, इस छात्रा के सवाल परबजने लगी तालियां... Multiple Love। Janta Cafe #shorts #viralvideo ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-19T16:02:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/cmZw4l7KZIA/hqdefault.jpg",
-          "durationSeconds": 99,
-          "durationFormatted": "01:39",
-          "views": 192,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "Jagc3C4Sa5c",
-          "title": "‘मल्टीपल लव’ में आखिर क्या है दिक्कत..? Multiple Love। Janta Cafe #shorts #viralvideo",
-          "description": "IBC24, 'मल्टीपल लव' में आखिर क्या है दिक्कत..? Multiple Love। Janta Cafe #shorts #viralvideo ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-19T15:45:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/Jagc3C4Sa5c/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 80,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-19T16:02:44Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 14.8,
+      "trendScore": 12.2,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ixE08N1aCP8/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 2,
+          "views": 1,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
