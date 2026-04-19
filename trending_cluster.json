@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-19T19:06:42.611957Z",
+  "generatedAt": "2026-04-19T20:52:08.749873Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 60,
-      "trendScore": 62.0,
+      "videoCount": 59,
+      "trendScore": 61.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NJpTy4gx8Wg/hqdefault.jpg",
           "durationSeconds": 1648,
           "durationFormatted": "27:28",
-          "views": 41910,
-          "likes": 314,
+          "views": 42313,
+          "likes": 315,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4y4uucxDoyI/hqdefault.jpg",
           "durationSeconds": 900,
           "durationFormatted": "15:00",
-          "views": 16198,
+          "views": 16730,
           "likes": 318,
           "videoType": "VOD",
           "genre": "General"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/k-vF2G9U1eU/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 11773,
-          "likes": 441,
+          "views": 13187,
+          "likes": 455,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_QkjvNzAlHw/hqdefault.jpg",
           "durationSeconds": 124,
           "durationFormatted": "02:04",
-          "views": 6311,
+          "views": 9144,
           "likes": 80,
           "videoType": "VOD",
           "genre": "General"
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vs7dyY_pd4k/hqdefault.jpg",
           "durationSeconds": 21,
           "durationFormatted": "00:21",
-          "views": 3866,
+          "views": 4451,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-miss",
       "topic": "Bhaskar Miss",
       "videoCount": 13,
-      "trendScore": 46.5,
+      "trendScore": 45.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/41GIFbvlVGc/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 2887,
-          "likes": 73,
+          "views": 3516,
+          "likes": 78,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lE5Stq3CioU/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 1149,
-          "likes": 33,
+          "views": 1249,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D-Ir0qtNCjM/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 1002,
+          "views": 1048,
           "likes": 32,
           "videoType": "VOD",
           "genre": "General"
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vAVypSjDEt8/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 796,
-          "likes": 30,
+          "views": 877,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Yj_W3aY4JHo/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 778,
-          "likes": 21,
+          "views": 854,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -171,10 +171,10 @@
       "latestUpdateAt": "2026-04-19T16:30:18Z"
     },
     {
-      "clusterId": "kyc-april",
-      "topic": "KYC April",
+      "clusterId": "kyc-महलओ",
+      "topic": "KYC महिलाओं",
       "videoCount": 13,
-      "trendScore": 37.8,
+      "trendScore": 37.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GiZiQny__04/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 835,
+          "views": 1219,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7GbhtkOVZC0/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 15,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -238,111 +238,27 @@
         },
         {
           "index": 5,
-          "videoId": "FJerUfmzZHk",
-          "title": "भिलाई मैत्रीबाग में गर्मी का असर ,जानवरों के लिए शॉवर और कूलर की व्यवस्था",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "videoId": "MGgZ6uqW0_o",
+          "title": "बंगाल चुनाव से पहले 16 स्पेशल ट्रेनें क्या रेलवे कर रहा है वोट मैनेजमेंट?",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-19T12:53:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/FJerUfmzZHk/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 8,
+          "publishedAt": "2026-04-19T14:39:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/MGgZ6uqW0_o/hqdefault.jpg",
+          "durationSeconds": 55,
+          "durationFormatted": "00:55",
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-04-19T14:40:11Z"
     },
     {
-      "clusterId": "tet-newsonair",
-      "topic": "TET Newsonair",
-      "videoCount": 7,
-      "trendScore": 37.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Wr7aWwPU_6g",
-          "title": "MP TET | भोपाल में TET के खिलाफ हजारों शिक्षकों का प्रदर्शन... नियमों में बदलाव की मांग...",
-          "description": "MP TET | भोपाल में TET के खिलाफ हजारों शिक्षकों का प्रदर्शन... नियमों में ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-19T13:21:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/Wr7aWwPU_6g/hqdefault.jpg",
-          "durationSeconds": 1179,
-          "durationFormatted": "19:39",
-          "views": 1352,
-          "likes": 16,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 2,
-          "videoId": "L26LzVofQFQ",
-          "title": "Chhattisgarh Madhya Pradesh Weather Update: उफ! ये गर्मी | अप्रैल में आसमान छू रहा पारा | MP-CG News",
-          "description": "IBC24, Chhattisgarh Madhya Pradesh Weather Update: उफ! ये गर्मी | अप्रैल में आसमान छू रहा ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-19T17:58:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/L26LzVofQFQ/hqdefault.jpg",
-          "durationSeconds": 33489,
-          "durationFormatted": "09:18:09",
-          "views": 767,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "Q6xg-brBE_A",
-          "title": "19 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-19T13:48:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q6xg-brBE_A/hqdefault.jpg",
-          "durationSeconds": 595,
-          "durationFormatted": "09:55",
-          "views": 440,
-          "likes": 19,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Xdu1vfsgE1g",
-          "title": "19 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-19T13:19:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/Xdu1vfsgE1g/hqdefault.jpg",
-          "durationSeconds": 553,
-          "durationFormatted": "09:13",
-          "views": 134,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "f3aTPpNWtdA",
-          "title": "19 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 11.55 बजे.",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-19T11:12:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/f3aTPpNWtdA/hqdefault.jpg",
-          "durationSeconds": 309,
-          "durationFormatted": "05:09",
-          "views": 67,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-19T18:16:01Z"
-    },
-    {
       "clusterId": "पक-खन",
       "topic": "पके खाने",
       "videoCount": 4,
-      "trendScore": 37.1,
+      "trendScore": 36.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eOXFOdMdhJs/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 99179,
-          "likes": 1348,
+          "views": 103562,
+          "likes": 1358,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EmK_exEW3Rw/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 36974,
-          "likes": 422,
+          "views": 38627,
+          "likes": 427,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DIGUutSkDLc/hqdefault.jpg",
           "durationSeconds": 590,
           "durationFormatted": "09:50",
-          "views": 926,
+          "views": 1205,
           "likes": 26,
           "videoType": "VOD",
           "genre": "Crime"
@@ -399,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bYCrFXAjUtE/hqdefault.jpg",
           "durationSeconds": 287,
           "durationFormatted": "04:47",
-          "views": 364,
+          "views": 383,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -408,10 +324,94 @@
       "latestUpdateAt": "2026-04-19T11:30:15Z"
     },
     {
+      "clusterId": "tet-newsonair",
+      "topic": "TET Newsonair",
+      "videoCount": 7,
+      "trendScore": 36.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "Wr7aWwPU_6g",
+          "title": "MP TET | भोपाल में TET के खिलाफ हजारों शिक्षकों का प्रदर्शन... नियमों में बदलाव की मांग...",
+          "description": "MP TET | भोपाल में TET के खिलाफ हजारों शिक्षकों का प्रदर्शन... नियमों में ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-19T13:21:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/Wr7aWwPU_6g/hqdefault.jpg",
+          "durationSeconds": 1179,
+          "durationFormatted": "19:39",
+          "views": 1675,
+          "likes": 16,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "L26LzVofQFQ",
+          "title": "Chhattisgarh Madhya Pradesh Weather Update: उफ! ये गर्मी | अप्रैल में आसमान छू रहा पारा | MP-CG News",
+          "description": "IBC24, Chhattisgarh Madhya Pradesh Weather Update: उफ! ये गर्मी | अप्रैल में आसमान छू रहा ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-19T17:58:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/L26LzVofQFQ/hqdefault.jpg",
+          "durationSeconds": 33489,
+          "durationFormatted": "09:18:09",
+          "views": 839,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "Q6xg-brBE_A",
+          "title": "19 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-19T13:48:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/Q6xg-brBE_A/hqdefault.jpg",
+          "durationSeconds": 595,
+          "durationFormatted": "09:55",
+          "views": 484,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Xdu1vfsgE1g",
+          "title": "19 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-19T13:19:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xdu1vfsgE1g/hqdefault.jpg",
+          "durationSeconds": 553,
+          "durationFormatted": "09:13",
+          "views": 183,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "f3aTPpNWtdA",
+          "title": "19 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 11.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-19T11:12:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/f3aTPpNWtdA/hqdefault.jpg",
+          "durationSeconds": 309,
+          "durationFormatted": "05:09",
+          "views": 68,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-19T18:16:01Z"
+    },
+    {
       "clusterId": "shorts-zee",
       "topic": "shorts Zee",
-      "videoCount": 6,
-      "trendScore": 34.6,
+      "videoCount": 7,
+      "trendScore": 35.3,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SwRB7wDIdFg/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 3215,
+          "views": 3307,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1j07QB_69ew/hqdefault.jpg",
           "durationSeconds": 146,
           "durationFormatted": "02:26",
-          "views": 1747,
+          "views": 1797,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
@@ -453,13 +453,28 @@
           "thumbnail": "https://i.ytimg.com/vi/tJqpXRk__yY/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 1073,
+          "views": 1077,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "lnFrj9d5GJA",
+          "title": "🔴LIVE : MP-CG News :  कांग्रेस के खिलाफ...महिला जन आक्रोश पदयात्रा | Latest News | Zee MPCG",
+          "description": "LIVE : MP-CG News : कांग्रेस के खिलाफ...महिला जन आक्रोश पदयात्रा | Latest News | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-19T20:24:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/lnFrj9d5GJA/hqdefault.jpg",
+          "durationSeconds": 1465,
+          "durationFormatted": "24:25",
+          "views": 140,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "JCBpLoBEeQI",
           "title": "🔴LIVE : Khabar Apne MP Ki : शिवपुरी में विधायक प्रीतम लोधी के बेटे से पूछताछ  | Zee MPCG",
           "description": "LIVE : Khabar Apne MP Ki : शिवपुरी में विधायक प्रीतम लोधी के बेटे से पूछताछ | Zee ...",
@@ -472,30 +487,15 @@
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "E2uBisSNgDo",
-          "title": "🔴LIVE : Johar : स्कूल बंद, भविष्य पर सवाल  | Chhattisgarh News | Latest News | CG News | Zee MPCG",
-          "description": "LIVE : Johar : स्कूल बंद, भविष्य पर सवाल | Chhattisgarh News | Latest News | CG News | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-19T11:57:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/E2uBisSNgDo/hqdefault.jpg",
-          "durationSeconds": 1332,
-          "durationFormatted": "22:12",
-          "views": 109,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-19T17:53:59Z"
+      "latestUpdateAt": "2026-04-19T20:24:32Z"
     },
     {
       "clusterId": "xpress-दलहन",
       "topic": "Xpress दुल्हन",
       "videoCount": 4,
-      "trendScore": 31.8,
+      "trendScore": 31.0,
       "topVideos": [
         {
           "index": 1,
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FEgfuvJN32k/hqdefault.jpg",
           "durationSeconds": 182,
           "durationFormatted": "03:02",
-          "views": 156,
+          "views": 161,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -564,7 +564,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 12.2,
+      "trendScore": 12.6,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ixE08N1aCP8/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
