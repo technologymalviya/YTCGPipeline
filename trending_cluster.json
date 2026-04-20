@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-20T15:42:32.915344Z",
+  "generatedAt": "2026-04-20T17:17:58.211836Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 60,
-      "trendScore": 63.8,
+      "trendScore": 63.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7A9cSLJ_uIg/hqdefault.jpg",
           "durationSeconds": 1584,
           "durationFormatted": "26:24",
-          "views": 49155,
-          "likes": 342,
+          "views": 52338,
+          "likes": 348,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/fuGbV2HYQo8/hqdefault.jpg",
           "durationSeconds": 931,
           "durationFormatted": "15:31",
-          "views": 16802,
-          "likes": 248,
+          "views": 20580,
+          "likes": 280,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "_QkjvNzAlHw",
-          "title": "महिला आरक्षण बिल पर पूर्व सीएम भूपेश बघेल का आया बयान",
-          "description": "महिला आरक्षण बिल पर पूर्व सीएम भूपेश बघेल का आया बयान Join this channel to get ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-19T16:30:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/_QkjvNzAlHw/hqdefault.jpg",
-          "durationSeconds": 124,
-          "durationFormatted": "02:04",
-          "views": 14620,
-          "likes": 348,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "Q4Xa2zt0g_k",
           "title": "भिलाई के Lisztomania  क्लब में पुलिस की Raid, संचालक अरेस्ट",
           "description": "भिलाई के Lisztomania क्लब में पुलिस की Raid, संचालक अरेस्ट Report/Story: Labhesh Ghosh ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Q4Xa2zt0g_k/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 12669,
-          "likes": 310,
+          "views": 13050,
+          "likes": 315,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "7q-7edMXgXQ",
           "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
           "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/7q-7edMXgXQ/hqdefault.jpg",
           "durationSeconds": 853,
           "durationFormatted": "14:13",
-          "views": 12216,
-          "likes": 527,
+          "views": 12763,
+          "likes": 532,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "F7XIyQLsjo0",
+          "title": "सरकारी ऑफिस में फेंका बादाम। महिला अफसर को किया गया मुख्यालय अटैच। @tirandaj",
+          "description": "trending #news #bilaspurdistrict #viral #latestnews #breakingnews युवक द्वारा बादाम फेंकने की घटना ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-04-20T09:44:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/F7XIyQLsjo0/hqdefault.jpg",
+          "durationSeconds": 30,
+          "durationFormatted": "00:30",
+          "views": 10619,
+          "likes": 125,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-20T15:03:10Z"
+      "latestUpdateAt": "2026-04-20T16:40:41Z"
     },
     {
       "clusterId": "april-जजगर",
       "topic": "April जांजगीर",
-      "videoCount": 16,
-      "trendScore": 48.9,
+      "videoCount": 19,
+      "trendScore": 49.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A8Y94lukNlY/hqdefault.jpg",
           "durationSeconds": 943,
           "durationFormatted": "15:43",
-          "views": 38,
+          "views": 84,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/W4Ey-ce7jC8/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 12,
+          "views": 15,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -132,38 +132,38 @@
           "thumbnail": "https://i.ytimg.com/vi/62B9x1gzj20/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 11,
+          "views": 12,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "wL5G7tbUMmw",
-          "title": "मुंगेली: कबाड़ गोदाम में भीषण आग ,लाखों का सामान जलकर खाक ,प्रशासन पर सवाल",
-          "description": "chhattisgarhnews #madhyapradehnews #mungelinews .",
+          "videoId": "Iy72mrpmNgg",
+          "title": "राजनांदगांव: नेहरू पार्क को मिलेगा नया लुक , 40 लाख से होगा कायाकल्प ,बदल जाएगा अनुभव",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-20T11:44:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/wL5G7tbUMmw/hqdefault.jpg",
-          "durationSeconds": 176,
-          "durationFormatted": "02:56",
-          "views": 4,
+          "publishedAt": "2026-04-20T12:58:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/Iy72mrpmNgg/hqdefault.jpg",
+          "durationSeconds": 58,
+          "durationFormatted": "00:58",
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "0d8cst8XBL8",
-          "title": "जांजगीर चाम्पा: ओडिशा के कलाकारों की जंग , कभी 50 टोलियां, अब गिनती में सिमटी परंपरा",
-          "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
+          "videoId": "LlTq41MJ_3w",
+          "title": "दुर्ग ऑपरेशन विश्वास के तहत कार्रवाई ,स्मृति नगर पुलिस ने गांजा तस्कर को किया गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-20T11:41:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/0d8cst8XBL8/hqdefault.jpg",
-          "durationSeconds": 203,
-          "durationFormatted": "03:23",
-          "views": 4,
-          "likes": 0,
+          "publishedAt": "2026-04-20T12:49:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/LlTq41MJ_3w/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 6,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -173,8 +173,8 @@
     {
       "clusterId": "bhaskar-bhilai",
       "topic": "Bhaskar Bhilai",
-      "videoCount": 12,
-      "trendScore": 46.2,
+      "videoCount": 11,
+      "trendScore": 44.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nXJIpxR2fWk/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 2375,
-          "likes": 80,
+          "views": 2650,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mLx2grE4rFo/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 1278,
+          "views": 1678,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rEGcpL88FuE/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 996,
+          "views": 1040,
           "likes": 45,
           "videoType": "VOD",
           "genre": "General"
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l4M64qJ4RHc/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 736,
+          "views": 921,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/USHbAtv1YfE/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 528,
-          "likes": 19,
+          "views": 628,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +258,7 @@
       "clusterId": "newsonair-chhattisgarh",
       "topic": "Newsonair Chhattisgarh",
       "videoCount": 5,
-      "trendScore": 39.6,
+      "trendScore": 38.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/nFzex2raGTU/hqdefault.jpg",
           "durationSeconds": 329,
           "durationFormatted": "05:29",
-          "views": 283,
+          "views": 393,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "QxsgkOL1oeo",
-          "title": "20 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-20T13:17:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/QxsgkOL1oeo/hqdefault.jpg",
-          "durationSeconds": 583,
-          "durationFormatted": "09:43",
-          "views": 203,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "QoF4hMWJP4w",
           "title": "20 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "",
@@ -300,8 +285,23 @@
           "thumbnail": "https://i.ytimg.com/vi/QoF4hMWJP4w/hqdefault.jpg",
           "durationSeconds": 633,
           "durationFormatted": "10:33",
-          "views": 142,
-          "likes": 13,
+          "views": 264,
+          "likes": 22,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "QxsgkOL1oeo",
+          "title": "20 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-20T13:17:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/QxsgkOL1oeo/hqdefault.jpg",
+          "durationSeconds": 583,
+          "durationFormatted": "09:43",
+          "views": 234,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8pb4ViWFOE4/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 55,
+          "views": 82,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -339,10 +339,79 @@
       "latestUpdateAt": "2026-04-20T14:28:47Z"
     },
     {
+      "clusterId": "वमन-जशपर",
+      "topic": "विमान जशपुर",
+      "videoCount": 4,
+      "trendScore": 36.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "haYsBmp7ZTY",
+          "title": "जशपुर जिले में बड़ा विमान हादसा || घटना स्थल पर राहत व बचाव कार्य जारी ||",
+          "description": "जशपुर। जिले में एक बड़ा विमान हादसा सामने आया है। नारायणपुर ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-04-20T10:51:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/haYsBmp7ZTY/hqdefault.jpg",
+          "durationSeconds": 25,
+          "durationFormatted": "00:25",
+          "views": 12363,
+          "likes": 150,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "I9EHU_TtV-I",
+          "title": "Breaking News: छत्तीसगढ़ में प्लेन क्रैश, जंगल में गिरा विमान, इलाके में हड़कंप |",
+          "description": "जशपुर जिले में बड़ा विमान हादसा सामने आया है। नारायणपुर के रतनपहली ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-20T10:52:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/I9EHU_TtV-I/hqdefault.jpg",
+          "durationSeconds": 216,
+          "durationFormatted": "03:36",
+          "views": 2448,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "bQ96Q5Yctls",
+          "title": "Breaking News: छत्तीसगढ़ में प्लेन क्रैश, जंगल में गिरा विमान, इलाके में हड़कंप | LIVE",
+          "description": "जशपुर जिले में बड़ा विमान हादसा सामने आया है। नारायणपुर के रतनपहली ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-20T16:05:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/bQ96Q5Yctls/hqdefault.jpg",
+          "durationSeconds": 14517,
+          "durationFormatted": "04:01:57",
+          "views": 37,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "pgvtrTFoYCU",
+          "title": "Jashpur News : नारायणपुर क्षेत्र में भीषण हादसा, उठीं आग की लपटें",
+          "description": "जशपुर जिले के नारायणपुर क्षेत्र में एक प्राइवेट विमान पहाड़ से ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-20T11:54:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/pgvtrTFoYCU/hqdefault.jpg",
+          "durationSeconds": 36,
+          "durationFormatted": "00:36",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-04-20T16:05:39Z"
+    },
+    {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 6,
-      "trendScore": 32.3,
+      "videoCount": 8,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -354,13 +423,28 @@
           "thumbnail": "https://i.ytimg.com/vi/8KnofjVbnLU/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 249,
-          "likes": 2,
+          "views": 457,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
+          "videoId": "Kf_mFcfL1DA",
+          "title": "Middle East War Update : US vs Iran: शांति या सर्वनाश? | दूसरे दौर की वार्ता पर संकट | Zee MPCG",
+          "description": "Tarkash : यूएस Vs ईरान शांति या सर्वनाश ? दूसरे दौर की शांति वार्ता खतरे ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-20T14:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/Kf_mFcfL1DA/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 224,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "-vNjxeBM91U",
           "title": "🔴LIVE : MP-CG News :  धमतरी में अस्सी इलाकों में ऑनलाईन ठगी | Latest News | Zee MPCG",
           "description": "LIVE : MP-CG News : धमतरी में अस्सी इलाकों में ऑनलाईन ठगी | Latest News | Zee MPCG #Live ...",
@@ -375,21 +459,6 @@
           "genre": "Crime"
         },
         {
-          "index": 3,
-          "videoId": "Kf_mFcfL1DA",
-          "title": "Middle East War Update : US vs Iran: शांति या सर्वनाश? | दूसरे दौर की वार्ता पर संकट | Zee MPCG",
-          "description": "Tarkash : यूएस Vs ईरान शांति या सर्वनाश ? दूसरे दौर की शांति वार्ता खतरे ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-20T14:30:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/Kf_mFcfL1DA/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 151,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 4,
           "videoId": "YF29jkBFSb0",
           "title": "🔴LIVE : MP - CG : पिछौर विधायक प्रीतम लोधी के बिगड़े बोल |  Latest News | Zee MPCG",
@@ -399,67 +468,52 @@
           "thumbnail": "https://i.ytimg.com/vi/YF29jkBFSb0/hqdefault.jpg",
           "durationSeconds": 1424,
           "durationFormatted": "23:44",
-          "views": 89,
+          "views": 90,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "xXW0VUkdzxs",
-          "title": "MP Political Controversy : BJP विधायक प्रीतम लोधी का विवादित बयान | SDOP को दी चुनौती | Zee MPCG",
-          "description": "Tarkash : विधायक के बोल से बढ़ा सियासी पारा , SDOP को कहा- 'दम हो तो रोक लेना', ...",
+          "videoId": "UUu1kzrGTOU",
+          "title": "🔴LIVE : Tarkash : &#39;भ्रष्टाचार&#39;..&#39;विकास&#39; पर सवाल ! | Latest News  | Zee MPCG",
+          "description": "LIVE : Tarkash : 'भ्रष्टाचार'..'विकास' पर सवाल ! | Latest News | Zee MPCG विधायक के बिगड़े ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-20T13:39:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/xXW0VUkdzxs/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 48,
-          "likes": 1,
+          "publishedAt": "2026-04-20T11:22:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/UUu1kzrGTOU/hqdefault.jpg",
+          "durationSeconds": 1554,
+          "durationFormatted": "25:54",
+          "views": 79,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-20T14:30:21Z"
+      "latestUpdateAt": "2026-04-20T15:24:00Z"
     },
     {
       "clusterId": "jansamvad-shahdol",
       "topic": "Jansamvad Shahdol",
       "videoCount": 4,
-      "trendScore": 27.1,
+      "trendScore": 27.5,
       "topVideos": [
         {
           "index": 1,
           "videoId": "f4r0fkTlz18",
-          "title": "Jansamvad Shahdol 2026: विन्ध्य क्षेत्र में क्वालिटी एजुकेशन पर कितना हो रहा प्रयास? एक्सपर्ट की राय",
+          "title": "Jansamvad Shahdol 2026: विंध्य क्षेत्र में क्वालिटी एजुकेशन पर कितना हो रहा प्रयास? एक्सपर्ट की राय",
           "description": "IBC24, Jansamvad Shahdol 2026: विन्ध्य क्षेत्र में क्वालिटी एजुकेशन पर कितना हो ...",
           "channelTitle": "IBC24",
           "publishedAt": "2026-04-20T14:07:06Z",
           "thumbnail": "https://i.ytimg.com/vi/f4r0fkTlz18/hqdefault.jpg",
           "durationSeconds": 1137,
           "durationFormatted": "18:57",
-          "views": 68,
+          "views": 137,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "GZX3d44-Gjc",
-          "title": "Jansamvad Shahdol 2026: शिक्षा के क्षेत्र में शहडोल में कितनी चुनौती और संभावनाएं। शिक्षाविद की राय",
-          "description": "IBC24, Jansamvad Shahdol 2026: शिक्षा के क्षेत्र में शहडोल में कितनी चुनौती और ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-20T13:59:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/GZX3d44-Gjc/hqdefault.jpg",
-          "durationSeconds": 922,
-          "durationFormatted": "15:22",
-          "views": 36,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "6YB6qRimeQ8",
           "title": "Jansamvad Shahdol 2026: स्वास्थ्य के क्षेत्र में कहां है शहडोल? विन्ध्य की जनता को कितना मिल रहा लाभ",
           "description": "IBC24, Jansamvad Shahdol 2026: स्वास्थ्य के क्षेत्र में कहां है शहडोल? विन्ध्य ...",
@@ -468,7 +522,22 @@
           "thumbnail": "https://i.ytimg.com/vi/6YB6qRimeQ8/hqdefault.jpg",
           "durationSeconds": 1349,
           "durationFormatted": "22:29",
-          "views": 27,
+          "views": 68,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "GZX3d44-Gjc",
+          "title": "Jansamvad Shahdol 2026: शिक्षा के क्षेत्र में शहडोल में कितनी चुनौती और संभावनाएं। शिक्षाविद की राय",
+          "description": "IBC24, Jansamvad Shahdol 2026: शिक्षा के क्षेत्र में शहडोल में कितनी चुनौती और ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-20T13:59:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/GZX3d44-Gjc/hqdefault.jpg",
+          "durationSeconds": 922,
+          "durationFormatted": "15:22",
+          "views": 64,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -480,85 +549,16 @@
           "description": "IBC24, Jansamvad Shahdol 2026: शहडोल के विकास से कितने संतुष्ट विपक्षी नेता?",
           "channelTitle": "IBC24",
           "publishedAt": "2026-04-20T15:31:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/KK5IKkHfBRo/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 23,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        }
-      ],
-      "latestUpdateAt": "2026-04-20T15:31:00Z"
-    },
-    {
-      "clusterId": "rajnandgaon-धरमक",
-      "topic": "Rajnandgaon “धार्मिक",
-      "videoCount": 4,
-      "trendScore": 19.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Q1GH4dP8IFc",
-          "title": "MP News : “धार्मिक आयोजन में नेताओं ने दिया एकता और विकास का संदेश | India News MP",
-          "description": "अक्षय तृतीया के पावन अवसर पर भगवान परशुराम जी के प्रकट उत्सव पर एक ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-19T16:03:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q1GH4dP8IFc/hqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/KK5IKkHfBRo/hqdefault.jpg",
           "durationSeconds": 920,
           "durationFormatted": "15:20",
-          "views": 17,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "m9dE78qQdKA",
-          "title": "Rajnandgaon News : राजनांदगांव में परशुराम जयंती पर भव्य शोभायात्रा निकली",
-          "description": "राजनांदगांव में परशुराम जयंती के अवसर पर गौंड ब्राह्मण समाज द्वारा ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-20T11:04:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/m9dE78qQdKA/hqdefault.jpg",
-          "durationSeconds": 75,
-          "durationFormatted": "01:15",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "tVBbu2I6xfI",
-          "title": "Rajnandgaon News : अक्षय तृतीया पर बच्चों ने रचाई गुड़्डा गुड़िया की शादी",
-          "description": "अक्षय तृतीया के मौके पर राजनांदगांव में बच्चों ने गुड़्डा-गुड़िया ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-20T10:30:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/tVBbu2I6xfI/hqdefault.jpg",
-          "durationSeconds": 100,
-          "durationFormatted": "01:40",
-          "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "y3zzyV-GPVI",
-          "title": "Singrauli News : चितरंगी में परशुराम जन्मोत्सव पर भव्य भाग्य रैली आयोजित",
-          "description": "सिंगरौली के चितरंगी में भगवान परशुराम जन्मोत्सव पर भव्य 'भाग्य ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-20T12:29:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/y3zzyV-GPVI/hqdefault.jpg",
-          "durationSeconds": 39,
-          "durationFormatted": "00:39",
-          "views": 0,
+          "views": 53,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-20T12:29:37Z"
+      "latestUpdateAt": "2026-04-20T15:31:00Z"
     }
   ]
 }
