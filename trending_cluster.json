@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-20T10:07:46.585112Z",
+  "generatedAt": "2026-04-20T11:41:01.885608Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 70,
-      "trendScore": 64.0,
+      "trendScore": 63.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/7A9cSLJ_uIg/hqdefault.jpg",
           "durationSeconds": 1584,
           "durationFormatted": "26:24",
-          "views": 41886,
-          "likes": 314,
+          "views": 44933,
+          "likes": 317,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "k-vF2G9U1eU",
-          "title": "सरकारी अधिकारी पर लाभड़का परेशान युवक | bilaspur",
-          "description": "सरकारी अधिकारी पर लाभड़का परेशान युवक | bilaspur.",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-04-19T11:01:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/k-vF2G9U1eU/hqdefault.jpg",
-          "durationSeconds": 178,
-          "durationFormatted": "02:58",
-          "views": 20838,
-          "likes": 755,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "_QkjvNzAlHw",
           "title": "महिला आरक्षण बिल पर पूर्व सीएम भूपेश बघेल का आया बयान",
           "description": "महिला आरक्षण बिल पर पूर्व सीएम भूपेश बघेल का आया बयान Join this channel to get ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/_QkjvNzAlHw/hqdefault.jpg",
           "durationSeconds": 124,
           "durationFormatted": "02:04",
-          "views": 11870,
-          "likes": 224,
+          "views": 12620,
+          "likes": 270,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "7q-7edMXgXQ",
           "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
           "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/7q-7edMXgXQ/hqdefault.jpg",
           "durationSeconds": 853,
           "durationFormatted": "14:13",
-          "views": 10840,
-          "likes": 497,
+          "views": 11353,
+          "likes": 502,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "Q4Xa2zt0g_k",
           "title": "भिलाई के Lisztomania  क्लब में पुलिस की Raid, संचालक अरेस्ट",
           "description": "भिलाई के Lisztomania क्लब में पुलिस की Raid, संचालक अरेस्ट Report/Story: Labhesh Ghosh ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/Q4Xa2zt0g_k/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 10542,
-          "likes": 284,
+          "views": 11257,
+          "likes": 295,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "fuGbV2HYQo8",
+          "title": "#Bhilai में Wife ने Husband को सिलबट्टे से… | बेटी पर आंच आई तो “रौद्र” हो गई मां | Ground Report |",
+          "description": "Bhilai में Wife ने Husband को सिलबट्टे से… | बेटी पर आंच आई तो “रौद्र” हो गई मां ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-20T08:30:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/fuGbV2HYQo8/hqdefault.jpg",
+          "durationSeconds": 931,
+          "durationFormatted": "15:31",
+          "views": 6654,
+          "likes": 147,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-20T10:05:52Z"
+      "latestUpdateAt": "2026-04-20T11:38:14Z"
     },
     {
       "clusterId": "middle-east",
       "topic": "Middle East",
-      "videoCount": 19,
-      "trendScore": 44.7,
+      "videoCount": 21,
+      "trendScore": 46.8,
       "topVideos": [
         {
           "index": 1,
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GiZiQny__04/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 1288,
-          "likes": 2,
+          "views": 1305,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -168,46 +168,16 @@
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-04-20T09:42:33Z"
+      "latestUpdateAt": "2026-04-20T11:04:20Z"
     },
     {
       "clusterId": "bhaskar-bhilai",
       "topic": "Bhaskar Bhilai",
       "videoCount": 10,
-      "trendScore": 40.0,
+      "trendScore": 41.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "41GIFbvlVGc",
-          "title": "शुरू होगे गुड्डा-गुड़िया के बिहाव | CG Bhaskar",
-          "description": "शुरू होगे गुड्डा-गुड़िया के बिहाव Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-19T11:57:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/41GIFbvlVGc/hqdefault.jpg",
-          "durationSeconds": 35,
-          "durationFormatted": "00:35",
-          "views": 5193,
-          "likes": 98,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "lE5Stq3CioU",
-          "title": "रायगढ़ में हिरण बचाया फिर बांट लिया मांस | CG Bhaskar",
-          "description": "रायगढ़ में हिरण बचाया फिर बांट लिया मांस | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-19T11:30:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/lE5Stq3CioU/hqdefault.jpg",
-          "durationSeconds": 56,
-          "durationFormatted": "00:56",
-          "views": 2597,
-          "likes": 85,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "3f49x5O7ubg",
           "title": "राजधानी में ई-रिक्शा चालकों पर करवाई | CG Bhaskar",
           "description": "राजधानी में ई-रिक्शा चालकों पर करवाई Join our Whatsapp Group ...",
@@ -222,7 +192,22 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 2,
+          "videoId": "nXJIpxR2fWk",
+          "title": "Bhilai के नेहरू नगर चौक में थार का Accident, 1 की मौत",
+          "description": "Bhilai के नेहरू नगर चौक में थार का Accident, 1 की मौत Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-20T09:14:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/nXJIpxR2fWk/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 1249,
+          "likes": 54,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
           "videoId": "qkAvS9f-Iug",
           "title": "लिस्टोमेनिया पर पड़ा छापा संचालक हुआ गिरफ्तार | CG Bhaskar",
           "description": "लिस्टोमेनिया पर पड़ा छापा संचालक हुआ गिरफ्तार | CG Bhaskar Join our Whatsapp Group ...",
@@ -237,28 +222,43 @@
           "genre": "Crime"
         },
         {
-          "index": 5,
-          "videoId": "nXJIpxR2fWk",
-          "title": "Bhilai के नेहरू नगर चौक में थार का Accident, 1 की मौत",
-          "description": "Bhilai के नेहरू नगर चौक में थार का Accident, 1 की मौत Join our Whatsapp Group ...",
+          "index": 4,
+          "videoId": "rEGcpL88FuE",
+          "title": "Camp 2 Mu₹der केस में बेटी बनी चश्मदीद गवाह | CG Bhaskar",
+          "description": "Camp 2 Mu₹der केस में बेटी बनी चश्मदीद गवाह | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-20T09:14:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/nXJIpxR2fWk/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 653,
-          "likes": 21,
+          "publishedAt": "2026-04-20T07:33:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/rEGcpL88FuE/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 718,
+          "likes": 35,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "mqkUSIi9ZIA",
+          "title": "सास गारी देथे...स्वयंसिद्धा के मंच पर जोशी बहनों का धमाल | CG Bhaskar",
+          "description": "सास गारी देथे...स्वयंसिद्धा के मंच पर जोशी बहनों का धमाल | CG Bhaskar Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-19T12:01:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/mqkUSIi9ZIA/hqdefault.jpg",
+          "durationSeconds": 108,
+          "durationFormatted": "01:48",
+          "views": 628,
+          "likes": 37,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-20T09:14:50Z"
+      "latestUpdateAt": "2026-04-20T11:17:26Z"
     },
     {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
-      "videoCount": 5,
-      "trendScore": 35.7,
+      "videoCount": 4,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q6xg-brBE_A/hqdefault.jpg",
           "durationSeconds": 595,
           "durationFormatted": "09:55",
-          "views": 704,
+          "views": 730,
           "likes": 27,
           "videoType": "VOD",
           "genre": "General"
@@ -285,28 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Xdu1vfsgE1g/hqdefault.jpg",
           "durationSeconds": 553,
           "durationFormatted": "09:13",
-          "views": 265,
+          "views": 276,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "f3aTPpNWtdA",
-          "title": "19 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 11.55 बजे.",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-19T11:12:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/f3aTPpNWtdA/hqdefault.jpg",
-          "durationSeconds": 309,
-          "durationFormatted": "05:09",
-          "views": 89,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "8pb4ViWFOE4",
           "title": "20 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "समय - सुबह 11.55 बजे.",
@@ -315,13 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/8pb4ViWFOE4/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 34,
+          "views": 45,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "D2ST-_IWReY",
           "title": "20 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "समय - सुबह 09.55 बजे.",
@@ -330,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/D2ST-_IWReY/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 29,
+          "views": 35,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
