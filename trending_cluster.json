@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-20T20:59:42.344403Z",
+  "generatedAt": "2026-04-20T23:00:46.719772Z",
   "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 69,
-      "trendScore": 61.6,
+      "videoCount": 68,
+      "trendScore": 60.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7A9cSLJ_uIg/hqdefault.jpg",
           "durationSeconds": 1584,
           "durationFormatted": "26:24",
-          "views": 53889,
+          "views": 53902,
           "likes": 350,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fuGbV2HYQo8/hqdefault.jpg",
           "durationSeconds": 931,
           "durationFormatted": "15:31",
-          "views": 27188,
-          "likes": 299,
+          "views": 27745,
+          "likes": 300,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/F7XIyQLsjo0/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 12433,
-          "likes": 141,
+          "views": 12574,
+          "likes": 143,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WPxyr9xSvcU/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 3823,
+          "views": 3960,
           "likes": 63,
           "videoType": "VOD",
           "genre": "Politics"
@@ -90,7 +90,7 @@
       "clusterId": "april",
       "topic": "April",
       "videoCount": 19,
-      "trendScore": 44.3,
+      "trendScore": 43.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/A8Y94lukNlY/hqdefault.jpg",
           "durationSeconds": 943,
           "durationFormatted": "15:43",
-          "views": 188,
+          "views": 202,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LlTq41MJ_3w/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 7,
+          "views": 8,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-bhilai",
       "topic": "Bhaskar Bhilai",
       "videoCount": 11,
-      "trendScore": 42.7,
+      "trendScore": 41.8,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nXJIpxR2fWk/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 3065,
-          "likes": 90,
+          "views": 3077,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mLx2grE4rFo/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 1680,
+          "views": 1701,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/USHbAtv1YfE/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 839,
-          "likes": 26,
+          "views": 862,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,25 +258,10 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 38.9,
+      "trendScore": 36.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "QxsgkOL1oeo",
-          "title": "20 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-20T13:17:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/QxsgkOL1oeo/hqdefault.jpg",
-          "durationSeconds": 583,
-          "durationFormatted": "09:43",
-          "views": 294,
-          "likes": 16,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "QoF4hMWJP4w",
           "title": "20 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "",
@@ -285,8 +270,23 @@
           "thumbnail": "https://i.ytimg.com/vi/QoF4hMWJP4w/hqdefault.jpg",
           "durationSeconds": 633,
           "durationFormatted": "10:33",
-          "views": 284,
-          "likes": 22,
+          "views": 396,
+          "likes": 23,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "QxsgkOL1oeo",
+          "title": "20 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-20T13:17:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/QxsgkOL1oeo/hqdefault.jpg",
+          "durationSeconds": 583,
+          "durationFormatted": "09:43",
+          "views": 315,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8pb4ViWFOE4/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 94,
+          "views": 99,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "वमन-जशपर",
       "topic": "विमान जशपुर",
       "videoCount": 4,
-      "trendScore": 34.2,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/haYsBmp7ZTY/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 15431,
-          "likes": 158,
+          "views": 15688,
+          "likes": 161,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I9EHU_TtV-I/hqdefault.jpg",
           "durationSeconds": 216,
           "durationFormatted": "03:36",
-          "views": 4626,
+          "views": 4750,
           "likes": 31,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bQ96Q5Yctls/hqdefault.jpg",
           "durationSeconds": 14517,
           "durationFormatted": "04:01:57",
-          "views": 52,
+          "views": 51,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pgvtrTFoYCU/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 4,
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
