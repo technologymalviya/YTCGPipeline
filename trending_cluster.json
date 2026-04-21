@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-21T19:35:31.036154Z",
+  "generatedAt": "2026-04-21T21:02:45.026113Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 66,
-      "trendScore": 63.8,
+      "videoCount": 63,
+      "trendScore": 63.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4IBT6PMe8ug/hqdefault.jpg",
           "durationSeconds": 1712,
           "durationFormatted": "28:32",
-          "views": 43587,
+          "views": 43670,
           "likes": 339,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GiiH4kDWURM/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 18122,
+          "views": 18405,
           "likes": 261,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SgjDhDKMBi4/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 14522,
-          "likes": 484,
+          "views": 15531,
+          "likes": 493,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IL3LhOOpEK0/hqdefault.jpg",
           "durationSeconds": 830,
           "durationFormatted": "13:50",
-          "views": 10944,
-          "likes": 489,
+          "views": 11011,
+          "likes": 490,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,22 +78,37 @@
           "thumbnail": "https://i.ytimg.com/vi/CePpPqMBzYo/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 9712,
-          "likes": 437,
+          "views": 10403,
+          "likes": 444,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-21T18:48:48Z"
+      "latestUpdateAt": "2026-04-21T20:20:06Z"
     },
     {
       "clusterId": "bhaskar-warm",
       "topic": "Bhaskar Warm",
       "videoCount": 9,
-      "trendScore": 39.4,
+      "trendScore": 38.7,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "Fpx8rgm17x4",
+          "title": "छत्तीसगढ़ में Warm Night का अलर्ट, 5 दिन रहेगा Heat Wave | CG Bhaskar",
+          "description": "छत्तीसगढ़ में Warm Night का अलर्ट, 5 दिन रहेगा Heat Wave Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-21T07:36:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/Fpx8rgm17x4/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 1001,
+          "likes": 33,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "dFLWVcvSE30",
           "title": "निगम आयुक्त का सख्त आदेश ,नहीं लगाए जाएंगे शहर में बैनर पोस्टर",
           "description": "निगम आयुक्त का सख्त आदेश ,नहीं लगाए जाएंगे शहर में बैनर पोस्टर Join our ...",
@@ -108,22 +123,22 @@
           "genre": "General"
         },
         {
-          "index": 2,
-          "videoId": "Fpx8rgm17x4",
-          "title": "छत्तीसगढ़ में Warm Night का अलर्ट, 5 दिन रहेगा Heat Wave | CG Bhaskar",
-          "description": "छत्तीसगढ़ में Warm Night का अलर्ट, 5 दिन रहेगा Heat Wave Join our Whatsapp Group ...",
+          "index": 3,
+          "videoId": "hRV4sfOhgZI",
+          "title": "22 अप्रैल को दंतेवाड़ा पहुंचेंगे सचिन तेंदुलकर | CG Bhaskar",
+          "description": "22 अप्रैल को दंतेवाड़ा पहुंचेंगे सचिन तेंदुलकर | CG Bhaskar Join our Whatsapp ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-21T07:36:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/Fpx8rgm17x4/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 994,
-          "likes": 33,
+          "publishedAt": "2026-04-21T11:58:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/hRV4sfOhgZI/hqdefault.jpg",
+          "durationSeconds": 81,
+          "durationFormatted": "01:21",
+          "views": 976,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "GY8tZTaM9aE",
           "title": "भिलाई में परशुराम जन्मोत्सव, भजन संध्या और भूमिपूजन | CG Bhaskar",
           "description": "भिलाई में परशुराम जन्मोत्सव, भजन संध्या और भूमिपूजन | CG Bhaskar Join our ...",
@@ -138,34 +153,19 @@
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "hRV4sfOhgZI",
-          "title": "22 अप्रैल को दंतेवाड़ा पहुंचेंगे सचिन तेंदुलकर | CG Bhaskar",
-          "description": "22 अप्रैल को दंतेवाड़ा पहुंचेंगे सचिन तेंदुलकर | CG Bhaskar Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-21T11:58:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/hRV4sfOhgZI/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 895,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 5,
-          "videoId": "xEVlhcxhQBw",
-          "title": "सरगुजा के छात्रों को पसंद आया राजनांदगाँव | CG Bhaskar",
-          "description": "सरगुजा के छात्रों को पसंद आया राजनांदगाँव Join our Whatsapp Group ...",
+          "videoId": "lOrmufot23Q",
+          "title": "भीड़ से राहत: रेलवे ने चलाई कोरबा–यलहंका समर स्पेशल ट्रेन | CG Bhaskar",
+          "description": "भीड़ से राहत: रेलवे ने चलाई कोरबा–यलहंका समर स्पेशल ट्रेन | CG Bhaskar Join ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-21T08:01:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/xEVlhcxhQBw/hqdefault.jpg",
-          "durationSeconds": 165,
-          "durationFormatted": "02:45",
-          "views": 815,
-          "likes": 26,
+          "publishedAt": "2026-04-21T13:30:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/lOrmufot23Q/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 866,
+          "likes": 10,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Traffic"
         }
       ],
       "latestUpdateAt": "2026-04-21T14:40:02Z"
@@ -174,7 +174,7 @@
       "clusterId": "cgi-top",
       "topic": "CGI TOP",
       "videoCount": 14,
-      "trendScore": 38.6,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8aEbx_PO80Q/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 805,
+          "views": 935,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -201,28 +201,13 @@
           "thumbnail": "https://i.ytimg.com/vi/gwPHntYWGec/hqdefault.jpg",
           "durationSeconds": 887,
           "durationFormatted": "14:47",
-          "views": 104,
+          "views": 92,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "7GKrh_s8ErU",
-          "title": "महासमुंद -रेहटीखोल चेकपोस्ट पर बड़ी कार्रवाई ,46 लाख की चांदी जब्त",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-21T13:32:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/7GKrh_s8ErU/hqdefault.jpg",
-          "durationSeconds": 43,
-          "durationFormatted": "00:43",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "T6OQjReV8eo",
           "title": "डोंगरगढ़ में पानी भरने को लेकर विवाद ,मोहल्ले में मारपीट, पुलिस ने आरोपी को किया गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -231,25 +216,40 @@
           "thumbnail": "https://i.ytimg.com/vi/T6OQjReV8eo/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 9,
+          "views": 18,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "7GKrh_s8ErU",
+          "title": "महासमुंद -रेहटीखोल चेकपोस्ट पर बड़ी कार्रवाई ,46 लाख की चांदी जब्त",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-21T13:32:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/7GKrh_s8ErU/hqdefault.jpg",
+          "durationSeconds": 43,
+          "durationFormatted": "00:43",
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "SXCZHB7zGww",
-          "title": "राजनांदगांव जिला अस्पताल में हंगामा ,नसबंदी फॉर्म जमा न होने से मरीज परेशान",
+          "videoId": "u04jZovEMu0",
+          "title": "राजनांदगांव में शादी सीजन का असर कमजोर, दुकानदार बोले—पीक सीजन में बढ़ेगी भीड़",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-21T12:11:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/SXCZHB7zGww/hqdefault.jpg",
-          "durationSeconds": 208,
-          "durationFormatted": "03:28",
-          "views": 6,
+          "publishedAt": "2026-04-21T13:35:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/u04jZovEMu0/hqdefault.jpg",
+          "durationSeconds": 131,
+          "durationFormatted": "02:11",
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-04-21T14:26:45Z"
@@ -258,7 +258,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 36.8,
+      "trendScore": 35.4,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/a90OOyuUKdU/hqdefault.jpg",
           "durationSeconds": 639,
           "durationFormatted": "10:39",
-          "views": 381,
-          "likes": 16,
+          "views": 399,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mPDiKH6ZIaY/hqdefault.jpg",
           "durationSeconds": 563,
           "durationFormatted": "09:23",
-          "views": 152,
+          "views": 214,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -324,10 +324,94 @@
       "latestUpdateAt": "2026-04-21T14:10:07Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 8,
+      "trendScore": 34.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "ekcZdQNjaNg",
+          "title": "Mumbra Controversy:फर्जी जाति प्रमाण पत्र विवाद|‘हरे रंग वाली सहर’ पर सियासी घमासान, कुर्सी पर संकट?",
+          "description": "Prime Time : 'हरे रंग' वाली सहर मुश्किल में पड़ीं , फेक जाति प्रमाण पत्र ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-21T18:15:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/ekcZdQNjaNg/hqdefault.jpg",
+          "durationSeconds": 206,
+          "durationFormatted": "03:26",
+          "views": 158,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "t15ZECLGmxw",
+          "title": "🔴LIVE : Khabar Apne MP Ki : भोपाल में कांग्रेस IT सेल के कार्यकर्ताओं की गिरफ्तारी | Zee MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : भोपाल में कांग्रेस IT सेल के कार्यकर्ताओं की ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-21T13:23:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/t15ZECLGmxw/hqdefault.jpg",
+          "durationSeconds": 1476,
+          "durationFormatted": "24:36",
+          "views": 151,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "6j8ybzv3DLw",
+          "title": "🔴LIVE : MP-CG News :  कांकेर के राइस मिल में आग का तांडव | Latest News | Zee MPCG",
+          "description": "LIVE : MP-CG News : कांकेर के राइस मिल में आग का तांडव | Latest News | Zee MPCG #Live #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-21T20:22:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/6j8ybzv3DLw/hqdefault.jpg",
+          "durationSeconds": 1416,
+          "durationFormatted": "23:36",
+          "views": 120,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "-12QIQ_LcQ0",
+          "title": "🔴LIVE :  Aapki Aawaz : प्यासा रायपुर, सियासत भरपूर!  |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : प्यासा रायपुर, सियासत भरपूर! | Zee MPCG | Latest News #Live #AapkiAwaaz ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-21T14:52:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/-12QIQ_LcQ0/hqdefault.jpg",
+          "durationSeconds": 1525,
+          "durationFormatted": "25:25",
+          "views": 102,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "05dy4OlEH38",
+          "title": "🔴LIVE :  Aapki Aawaz : सियासत चमकाना काम ! नारी शक्ति का नाम |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : सियासत चमकाना काम ! नारी शक्ति का नाम | Zee MPCG | Latest News #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-21T14:22:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/05dy4OlEH38/hqdefault.jpg",
+          "durationSeconds": 1504,
+          "durationFormatted": "25:04",
+          "views": 85,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-21T20:22:35Z"
+    },
+    {
       "clusterId": "xpress-गरयबद",
       "topic": "Xpress गरियाबंद",
       "videoCount": 4,
-      "trendScore": 32.0,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Li5pOieSbVU/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 166,
+          "views": 271,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -393,94 +477,10 @@
       "latestUpdateAt": "2026-04-21T13:25:21Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 30.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "ekcZdQNjaNg",
-          "title": "Mumbra Controversy:फर्जी जाति प्रमाण पत्र विवाद|‘हरे रंग वाली सहर’ पर सियासी घमासान, कुर्सी पर संकट?",
-          "description": "Prime Time : 'हरे रंग' वाली सहर मुश्किल में पड़ीं , फेक जाति प्रमाण पत्र ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-21T18:15:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/ekcZdQNjaNg/hqdefault.jpg",
-          "durationSeconds": 206,
-          "durationFormatted": "03:26",
-          "views": 103,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "-12QIQ_LcQ0",
-          "title": "🔴LIVE :  Aapki Aawaz : प्यासा रायपुर, सियासत भरपूर!  |  Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz : प्यासा रायपुर, सियासत भरपूर! | Zee MPCG | Latest News #Live #AapkiAwaaz ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-21T14:52:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/-12QIQ_LcQ0/hqdefault.jpg",
-          "durationSeconds": 1525,
-          "durationFormatted": "25:25",
-          "views": 102,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "05dy4OlEH38",
-          "title": "🔴LIVE :  Aapki Aawaz : सियासत चमकाना काम ! नारी शक्ति का नाम |  Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz : सियासत चमकाना काम ! नारी शक्ति का नाम | Zee MPCG | Latest News #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-21T14:22:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/05dy4OlEH38/hqdefault.jpg",
-          "durationSeconds": 1504,
-          "durationFormatted": "25:04",
-          "views": 85,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "2bR5cLluTIA",
-          "title": "🔴LIVE : Prime Time @9 :नारी शक्ति का नाम...सियासत चमकाना काम ! Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 :नारी शक्ति का नाम...सियासत चमकाना काम ! Latest News | Zee MPCG #live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-21T15:23:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/2bR5cLluTIA/hqdefault.jpg",
-          "durationSeconds": 1472,
-          "durationFormatted": "24:32",
-          "views": 67,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "mC67fwKIkZU",
-          "title": "MP Controversy : पहले बेटे की गुंडई, अब विधायक की दबंगई | 250 किलो ‘सत्ता का वार’ | Zee MPCG",
-          "description": "Prime Time : पहले बेटे की गुंडई...अब पापा विधायक की दबंगई! 250 किलो का मुक्का.",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-21T18:31:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/mC67fwKIkZU/hqdefault.jpg",
-          "durationSeconds": 226,
-          "durationFormatted": "03:46",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-21T18:31:04Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 20.9,
+      "trendScore": 20.3,
       "topVideos": [
         {
           "index": 1,
