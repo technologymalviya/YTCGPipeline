@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-04-20T23:00:46.719772Z",
-  "clusterCount": 5,
+  "generatedAt": "2026-04-21T06:11:58.212374Z",
+  "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 68,
-      "trendScore": 60.7,
+      "videoCount": 59,
+      "trendScore": 60.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "7A9cSLJ_uIg",
-          "title": "20 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "20 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-04-19T23:34:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/7A9cSLJ_uIg/hqdefault.jpg",
-          "durationSeconds": 1584,
-          "durationFormatted": "26:24",
-          "views": 53902,
-          "likes": 350,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "fuGbV2HYQo8",
           "title": "#Bhilai में Wife ने Husband को सिलबट्टे से… | बेटी पर आंच आई तो “रौद्र” हो गई मां | Ground Report |",
           "description": "Bhilai में Wife ने Husband को सिलबट्टे से… | बेटी पर आंच आई तो “रौद्र” हो गई मां ...",
@@ -33,28 +18,28 @@
           "thumbnail": "https://i.ytimg.com/vi/fuGbV2HYQo8/hqdefault.jpg",
           "durationSeconds": 931,
           "durationFormatted": "15:31",
-          "views": 27745,
-          "likes": 300,
+          "views": 31432,
+          "likes": 358,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "4IBT6PMe8ug",
+          "title": "21 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "21 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-04-21T00:07:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/4IBT6PMe8ug/hqdefault.jpg",
+          "durationSeconds": 1712,
+          "durationFormatted": "28:32",
+          "views": 20721,
+          "likes": 261,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "7q-7edMXgXQ",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-04-19T23:04:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/7q-7edMXgXQ/hqdefault.jpg",
-          "durationSeconds": 853,
-          "durationFormatted": "14:13",
-          "views": 13318,
-          "likes": 538,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "F7XIyQLsjo0",
           "title": "सरकारी ऑफिस में फेंका बादाम। महिला अफसर को किया गया मुख्यालय अटैच। @tirandaj",
           "description": "trending #news #bilaspurdistrict #viral #latestnews #breakingnews युवक द्वारा बादाम फेंकने की घटना ...",
@@ -63,8 +48,23 @@
           "thumbnail": "https://i.ytimg.com/vi/F7XIyQLsjo0/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 12574,
-          "likes": 143,
+          "views": 13137,
+          "likes": 153,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "IL3LhOOpEK0",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-04-20T23:51:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/IL3LhOOpEK0/hqdefault.jpg",
+          "durationSeconds": 830,
+          "durationFormatted": "13:50",
+          "views": 6186,
+          "likes": 391,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/WPxyr9xSvcU/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 3960,
-          "likes": 63,
+          "views": 5022,
+          "likes": 81,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-20T20:48:43Z"
+      "latestUpdateAt": "2026-04-21T05:58:36Z"
     },
     {
       "clusterId": "april",
       "topic": "April",
-      "videoCount": 19,
-      "trendScore": 43.2,
+      "videoCount": 20,
+      "trendScore": 42.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/A8Y94lukNlY/hqdefault.jpg",
           "durationSeconds": 943,
           "durationFormatted": "15:43",
-          "views": 202,
-          "likes": 0,
+          "views": 926,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,25 +117,25 @@
           "thumbnail": "https://i.ytimg.com/vi/62B9x1gzj20/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 18,
+          "views": 26,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "W4Ey-ce7jC8",
-          "title": "जांजगीर-चांपा: मुड़पार गांव में हनुमान मंदिर में तोड़फोड़ ,मूर्ति क्षतिग्रस्त, ग्रामीणों में आक्रोश",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "videoId": "IQx7gVmpQmI",
+          "title": "राजनांदगांव: अवैध शराब के साथ युवक गिरफ्तार ,शोभा यात्रा में पुलिस की बड़ी कार्रवाई",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-20T11:41:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/W4Ey-ce7jC8/hqdefault.jpg",
-          "durationSeconds": 116,
-          "durationFormatted": "01:56",
-          "views": 15,
+          "publishedAt": "2026-04-20T12:57:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/IQx7gVmpQmI/hqdefault.jpg",
+          "durationSeconds": 47,
+          "durationFormatted": "00:47",
+          "views": 19,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         },
         {
           "index": 4,
@@ -147,34 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/LlTq41MJ_3w/hqdefault.jpg",
           "durationSeconds": 46,
           "durationFormatted": "00:46",
-          "views": 8,
+          "views": 11,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "m9dE78qQdKA",
-          "title": "Rajnandgaon News : राजनांदगांव में परशुराम जयंती पर भव्य शोभायात्रा निकली",
-          "description": "राजनांदगांव में परशुराम जयंती के अवसर पर गौंड ब्राह्मण समाज द्वारा ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-20T11:04:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/m9dE78qQdKA/hqdefault.jpg",
-          "durationSeconds": 75,
-          "durationFormatted": "01:15",
-          "views": 7,
+          "videoId": "Iy72mrpmNgg",
+          "title": "राजनांदगांव: नेहरू पार्क को मिलेगा नया लुक , 40 लाख से होगा कायाकल्प ,बदल जाएगा अनुभव",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-20T12:58:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/Iy72mrpmNgg/hqdefault.jpg",
+          "durationSeconds": 58,
+          "durationFormatted": "00:58",
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-20T14:26:10Z"
+      "latestUpdateAt": "2026-04-21T05:50:48Z"
     },
     {
       "clusterId": "bhaskar-bhilai",
       "topic": "Bhaskar Bhilai",
       "videoCount": 11,
-      "trendScore": 41.8,
+      "trendScore": 39.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nXJIpxR2fWk/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 3077,
-          "likes": 92,
+          "views": 3295,
+          "likes": 96,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mLx2grE4rFo/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 1701,
-          "likes": 19,
+          "views": 1721,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,28 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/rEGcpL88FuE/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 1112,
-          "likes": 48,
+          "views": 1315,
+          "likes": 60,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "l4M64qJ4RHc",
-          "title": "छत्तीसगढ़ में सबसे गर्म क्यों है राजनांदगांव? | CG Bhaskar",
-          "description": "छत्तीसगढ़ में सबसे गर्म क्यों है राजनांदगांव? | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-20T10:54:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/l4M64qJ4RHc/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 961,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "USHbAtv1YfE",
           "title": "भिलाई के सेक्टर 6 A मार्केट में खुलेगी शराब दुकान",
           "description": "भिलाई के सेक्टर 6 A मार्केट में खुलेगी शराब दुकान Join our Whatsapp Group ...",
@@ -246,8 +231,23 @@
           "thumbnail": "https://i.ytimg.com/vi/USHbAtv1YfE/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 862,
-          "likes": 28,
+          "views": 986,
+          "likes": 31,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "l4M64qJ4RHc",
+          "title": "छत्तीसगढ़ में सबसे गर्म क्यों है राजनांदगांव? | CG Bhaskar",
+          "description": "छत्तीसगढ़ में सबसे गर्म क्यों है राजनांदगांव? | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-20T10:54:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/l4M64qJ4RHc/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 965,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,10 +255,94 @@
       "latestUpdateAt": "2026-04-20T15:30:07Z"
     },
     {
+      "clusterId": "chhattisgarh-samachar",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 5,
+      "trendScore": 36.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "nDVFI8gEk1A",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 21 अप्रैल 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 21 अप्रैल 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-04-20T23:28:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/nDVFI8gEk1A/hqdefault.jpg",
+          "durationSeconds": 1278,
+          "durationFormatted": "21:18",
+          "views": 4272,
+          "likes": 118,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "c3Oz3VLGqT8",
+          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
+          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-21T01:03:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/c3Oz3VLGqT8/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 400,
+          "likes": 2,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 3,
+          "videoId": "WX-XWs2AXQw",
+          "title": "21 अप्रैल 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "21 अप्रैल 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-04-20T23:30:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/WX-XWs2AXQw/hqdefault.jpg",
+          "durationSeconds": 948,
+          "durationFormatted": "15:48",
+          "views": 108,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Y_UKSxMeMjk",
+          "title": "🔴LIVE, MPCG News 20 April 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-20T15:25:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/Y_UKSxMeMjk/hqdefault.jpg",
+          "durationSeconds": 42899,
+          "durationFormatted": "11:54:59",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "elo9nBbZZEI",
+          "title": "🔴LIVE, MPCG News 21 April 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-21T05:03:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/elo9nBbZZEI/hqdefault.jpg",
+          "durationSeconds": 2496,
+          "durationFormatted": "41:36",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-21T05:03:29Z"
+    },
+    {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
-      "videoCount": 4,
-      "trendScore": 36.4,
+      "videoCount": 5,
+      "trendScore": 36.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QoF4hMWJP4w/hqdefault.jpg",
           "durationSeconds": 633,
           "durationFormatted": "10:33",
-          "views": 396,
-          "likes": 23,
+          "views": 587,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QxsgkOL1oeo/hqdefault.jpg",
           "durationSeconds": 583,
           "durationFormatted": "09:43",
-          "views": 315,
+          "views": 369,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -300,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8pb4ViWFOE4/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 99,
-          "likes": 7,
+          "views": 112,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,19 +399,34 @@
           "thumbnail": "https://i.ytimg.com/vi/D2ST-_IWReY/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 57,
+          "views": 58,
           "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "4JBWvnn5MgE",
+          "title": "21 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 09.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-21T05:59:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/4JBWvnn5MgE/hqdefault.jpg",
+          "durationSeconds": 307,
+          "durationFormatted": "05:07",
+          "views": 6,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-20T14:28:47Z"
+      "latestUpdateAt": "2026-04-21T05:59:28Z"
     },
     {
       "clusterId": "वमन-जशपर",
       "topic": "विमान जशपुर",
       "videoCount": 4,
-      "trendScore": 33.3,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/haYsBmp7ZTY/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 15688,
-          "likes": 161,
+          "views": 16595,
+          "likes": 170,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -354,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/I9EHU_TtV-I/hqdefault.jpg",
           "durationSeconds": 216,
           "durationFormatted": "03:36",
-          "views": 4750,
-          "likes": 31,
+          "views": 5809,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -369,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bQ96Q5Yctls/hqdefault.jpg",
           "durationSeconds": 14517,
           "durationFormatted": "04:01:57",
-          "views": 51,
+          "views": 57,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -384,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pgvtrTFoYCU/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 5,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
