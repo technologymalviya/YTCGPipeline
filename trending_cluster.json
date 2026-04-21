@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-21T15:40:34.503768Z",
+  "generatedAt": "2026-04-21T17:14:44.654913Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 68,
-      "trendScore": 64.6,
+      "videoCount": 72,
+      "trendScore": 64.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4IBT6PMe8ug/hqdefault.jpg",
           "durationSeconds": 1712,
           "durationFormatted": "28:32",
-          "views": 40081,
-          "likes": 332,
+          "views": 41908,
+          "likes": 338,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GiiH4kDWURM/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 13186,
-          "likes": 248,
+          "views": 15819,
+          "likes": 257,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IL3LhOOpEK0/hqdefault.jpg",
           "durationSeconds": 830,
           "durationFormatted": "13:50",
-          "views": 9921,
-          "likes": 480,
+          "views": 10452,
+          "likes": 487,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SgjDhDKMBi4/hqdefault.jpg",
           "durationSeconds": 36,
           "durationFormatted": "00:36",
-          "views": 8434,
-          "likes": 302,
+          "views": 9883,
+          "likes": 438,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/CePpPqMBzYo/hqdefault.jpg",
           "durationSeconds": 143,
           "durationFormatted": "02:23",
-          "views": 6968,
-          "likes": 336,
+          "views": 8059,
+          "likes": 392,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-21T15:34:26Z"
+      "latestUpdateAt": "2026-04-21T16:59:47Z"
     },
     {
       "clusterId": "bhaskar-warm",
       "topic": "Bhaskar Warm",
       "videoCount": 9,
-      "trendScore": 40.8,
+      "trendScore": 40.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dFLWVcvSE30/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 928,
-          "likes": 23,
+          "views": 992,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Fpx8rgm17x4/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 840,
-          "likes": 29,
+          "views": 897,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xEVlhcxhQBw/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 740,
-          "likes": 21,
+          "views": 782,
+          "likes": 24,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hRV4sfOhgZI/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 483,
-          "likes": 10,
+          "views": 649,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -174,7 +174,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 40.2,
+      "trendScore": 39.8,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/a90OOyuUKdU/hqdefault.jpg",
           "durationSeconds": 639,
           "durationFormatted": "10:39",
-          "views": 158,
-          "likes": 9,
+          "views": 266,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/mPDiKH6ZIaY/hqdefault.jpg",
           "durationSeconds": 563,
           "durationFormatted": "09:23",
-          "views": 133,
-          "likes": 10,
+          "views": 152,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "hSivrD7HoG0",
+          "title": "21 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 11.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-21T06:56:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/hSivrD7HoG0/hqdefault.jpg",
+          "durationSeconds": 301,
+          "durationFormatted": "05:01",
+          "views": 70,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "4JBWvnn5MgE",
           "title": "21 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "समय - सुबह 09.55 बजे.",
@@ -220,21 +235,6 @@
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "hSivrD7HoG0",
-          "title": "21 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 11.55 बजे.",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-21T06:56:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/hSivrD7HoG0/hqdefault.jpg",
-          "durationSeconds": 301,
-          "durationFormatted": "05:01",
-          "views": 63,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-21T14:10:07Z"
@@ -243,7 +243,7 @@
       "clusterId": "cgi-top",
       "topic": "CGI TOP",
       "videoCount": 14,
-      "trendScore": 37.7,
+      "trendScore": 39.7,
       "topVideos": [
         {
           "index": 1,
@@ -255,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8aEbx_PO80Q/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 85,
-          "likes": 1,
+          "views": 530,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -270,13 +270,28 @@
           "thumbnail": "https://i.ytimg.com/vi/gwPHntYWGec/hqdefault.jpg",
           "durationSeconds": 887,
           "durationFormatted": "14:47",
-          "views": 42,
+          "views": 79,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "T6OQjReV8eo",
+          "title": "डोंगरगढ़ में पानी भरने को लेकर विवाद ,मोहल्ले में मारपीट, पुलिस ने आरोपी को किया गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-21T12:12:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/T6OQjReV8eo/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "SXCZHB7zGww",
           "title": "राजनांदगांव जिला अस्पताल में हंगामा ,नसबंदी फॉर्म जमा न होने से मरीज परेशान",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -291,34 +306,19 @@
           "genre": "Crime"
         },
         {
-          "index": 4,
-          "videoId": "n0Md-3fSx-g",
-          "title": "राजनांदगांव में गंदे पानी पर एक्शन, महापौर पहुंचे मौके पर, जांच के निर्देश",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-21T12:13:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/n0Md-3fSx-g/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 5,
-          "videoId": "T6OQjReV8eo",
-          "title": "डोंगरगढ़ में पानी भरने को लेकर विवाद ,मोहल्ले में मारपीट, पुलिस ने आरोपी को किया गिरफ्तार",
+          "videoId": "u04jZovEMu0",
+          "title": "राजनांदगांव में शादी सीजन का असर कमजोर, दुकानदार बोले—पीक सीजन में बढ़ेगी भीड़",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-21T12:12:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/T6OQjReV8eo/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 4,
+          "publishedAt": "2026-04-21T13:35:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/u04jZovEMu0/hqdefault.jpg",
+          "durationSeconds": 131,
+          "durationFormatted": "02:11",
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-04-21T14:26:45Z"
@@ -327,7 +327,7 @@
       "clusterId": "xpress-गरयबद",
       "topic": "Xpress गरियाबंद",
       "videoCount": 4,
-      "trendScore": 35.4,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KpiRaE02mwE/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 241,
-          "likes": 11,
+          "views": 321,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,13 +354,28 @@
           "thumbnail": "https://i.ytimg.com/vi/Li5pOieSbVU/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 134,
-          "likes": 5,
+          "views": 166,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "F9Aw1bZWrSM",
+          "title": "जगदलपुर -पहली बार जगदलपुर पहुचा सोमनाथ का पवित्र ज्योतिर्लिंगChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-04-21T12:55:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/F9Aw1bZWrSM/hqdefault.jpg",
+          "durationSeconds": 81,
+          "durationFormatted": "01:21",
+          "views": 46,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "8JwHS0i0q-o",
           "title": "खरोरा - अक्षय तृतीया पर ग्रामीण क्षेत्रों में कराया गया गुड्डा गुड़िया विवाहChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -373,21 +388,6 @@
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "F9Aw1bZWrSM",
-          "title": "जगदलपुर -पहली बार जगदलपुर पहुचा सोमनाथ का पवित्र ज्योतिर्लिंगChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-04-21T12:55:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/F9Aw1bZWrSM/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 24,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-21T13:25:21Z"
@@ -395,8 +395,8 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 32.7,
+      "videoCount": 6,
+      "trendScore": 32.9,
       "topVideos": [
         {
           "index": 1,
@@ -408,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/t15ZECLGmxw/hqdefault.jpg",
           "durationSeconds": 1476,
           "durationFormatted": "24:36",
-          "views": 98,
-          "likes": 4,
+          "views": 132,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -430,6 +430,21 @@
         },
         {
           "index": 3,
+          "videoId": "es9pUBc4OoQ",
+          "title": "🔴LIVE : Mudda To Hai :  सड़कें खस्ताहाल , सिस्टम फेल | Zee MPCG",
+          "description": "LIVE : Mudda To Hai : सड़कें खस्ताहाल,सिस्टम फेल | Zee MPCG मध्य प्रदेश में ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-21T12:53:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/es9pUBc4OoQ/hqdefault.jpg",
+          "durationSeconds": 1475,
+          "durationFormatted": "24:35",
+          "views": 67,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "-12QIQ_LcQ0",
           "title": "🔴LIVE :  Aapki Aawaz : प्यासा रायपुर, सियासत भरपूर!  |  Zee MPCG | Latest News",
           "description": "LIVE : Aapki Aawaz : प्यासा रायपुर, सियासत भरपूर! | Zee MPCG | Latest News #Live #AapkiAwaaz ...",
@@ -444,7 +459,7 @@
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "05dy4OlEH38",
           "title": "🔴LIVE :  Aapki Aawaz : सियासत चमकाना काम ! नारी शक्ति का नाम |  Zee MPCG | Latest News",
           "description": "LIVE : Aapki Aawaz : सियासत चमकाना काम ! नारी शक्ति का नाम | Zee MPCG | Latest News #Live ...",
@@ -453,34 +468,19 @@
           "thumbnail": "https://i.ytimg.com/vi/05dy4OlEH38/hqdefault.jpg",
           "durationSeconds": 1504,
           "durationFormatted": "25:04",
-          "views": 33,
+          "views": 35,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "es9pUBc4OoQ",
-          "title": "🔴LIVE : Mudda To Hai :  सड़कें खस्ताहाल , सिस्टम फेल | Zee MPCG",
-          "description": "LIVE : Mudda To Hai : सड़कें खस्ताहाल,सिस्टम फेल | Zee MPCG मध्य प्रदेश में ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-21T12:53:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/es9pUBc4OoQ/hqdefault.jpg",
-          "durationSeconds": 1475,
-          "durationFormatted": "24:35",
-          "views": 28,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-21T14:52:35Z"
+      "latestUpdateAt": "2026-04-21T15:23:03Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 22.6,
+      "trendScore": 21.8,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RYal_skEp7o/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 127,
+          "views": 130,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
