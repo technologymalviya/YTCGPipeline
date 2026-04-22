@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-22T19:37:28.616619Z",
+  "generatedAt": "2026-04-22T21:08:06.417378Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 50,
-      "trendScore": 64.6,
+      "videoCount": 51,
+      "trendScore": 63.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zccxU657h8E/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 54637,
-          "likes": 1320,
+          "views": 56002,
+          "likes": 1331,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MMXI35HHZfM/hqdefault.jpg",
           "durationSeconds": 1691,
           "durationFormatted": "28:11",
-          "views": 47560,
+          "views": 47693,
           "likes": 377,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oN4x8rjfMms/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 24714,
-          "likes": 699,
+          "views": 25508,
+          "likes": 702,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KBgAE9lnVpg/hqdefault.jpg",
           "durationSeconds": 799,
           "durationFormatted": "13:19",
-          "views": 17488,
-          "likes": 496,
+          "views": 17581,
+          "likes": 497,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/mW0px893DIg/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 16969,
+          "views": 16979,
           "likes": 98,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-22T19:00:05Z"
+      "latestUpdateAt": "2026-04-22T20:22:35Z"
     },
     {
       "clusterId": "chhattisgarh-sachintendulkar",
       "topic": "chhattisgarh sachintendulkar",
       "videoCount": 9,
-      "trendScore": 45.7,
+      "trendScore": 44.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/By6d91ogCPk/hqdefault.jpg",
           "durationSeconds": 32,
           "durationFormatted": "00:32",
-          "views": 68045,
-          "likes": 2035,
+          "views": 72452,
+          "likes": 2068,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/igpt1ce5ZHY/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 3292,
+          "views": 3370,
           "likes": 32,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WFMhLnvthcg/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 2516,
-          "likes": 71,
+          "views": 2816,
+          "likes": 74,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZOhIIPzPYs8/hqdefault.jpg",
           "durationSeconds": 26,
           "durationFormatted": "00:26",
-          "views": 1213,
+          "views": 1216,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Events"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VlB-hiUjpFE/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 471,
+          "views": 500,
           "likes": 20,
           "videoType": "VOD",
           "genre": "Events"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-lenskart",
       "topic": "Bhaskar Lenskart",
       "videoCount": 13,
-      "trendScore": 44.4,
+      "trendScore": 43.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/s7QEs6pSdnA/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1302,
-          "likes": 28,
+          "views": 1317,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pMA_X_OmnDI/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 834,
+          "views": 846,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HjY1aFmdVnU/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 792,
-          "likes": 46,
+          "views": 822,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NhvbDt2Glew/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 733,
+          "views": 747,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/guxAZ6q5pLo/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 472,
+          "views": 511,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Civic"
@@ -258,7 +258,7 @@
       "clusterId": "april-copy",
       "topic": "April copy",
       "videoCount": 17,
-      "trendScore": 39.9,
+      "trendScore": 39.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/S1XhsKWeyh4/hqdefault.jpg",
           "durationSeconds": 1156,
           "durationFormatted": "19:16",
-          "views": 353,
+          "views": 356,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hcBL5ROwBT8/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 38,
+          "views": 39,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/z3s6Sbw9Z0k/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 23,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "lGxOUH0vSBw",
+          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-22T12:54:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/lGxOUH0vSBw/hqdefault.jpg",
+          "durationSeconds": 675,
+          "durationFormatted": "11:15",
+          "views": 19,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "YgDiCEMefTM",
           "title": "दुर्ग में बच्चों के लिए संस्कार समर कैंप 2026 शुरू",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -319,21 +334,6 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "lGxOUH0vSBw",
-          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-22T12:54:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/lGxOUH0vSBw/hqdefault.jpg",
-          "durationSeconds": 675,
-          "durationFormatted": "11:15",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-22T14:23:07Z"
@@ -342,7 +342,7 @@
       "clusterId": "खबरदर-जनगणन",
       "topic": "खबरदार जनगणना",
       "videoCount": 5,
-      "trendScore": 39.4,
+      "trendScore": 38.7,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/O7VUMjEuIjw/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 24411,
-          "likes": 485,
+          "views": 25662,
+          "likes": 491,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/l6t6BdPQnvM/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 14768,
-          "likes": 272,
+          "views": 16083,
+          "likes": 280,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sadcXBPkDg4/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 12521,
-          "likes": 224,
+          "views": 12659,
+          "likes": 225,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -426,7 +426,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 37.5,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dvd5n1RBbxg/hqdefault.jpg",
           "durationSeconds": 623,
           "durationFormatted": "10:23",
-          "views": 531,
+          "views": 542,
           "likes": 28,
           "videoType": "VOD",
           "genre": "General"
@@ -495,7 +495,7 @@
       "clusterId": "sachin-tendulkar",
       "topic": "Sachin Tendulkar",
       "videoCount": 7,
-      "trendScore": 34.9,
+      "trendScore": 34.2,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YFAXH0xgXOA/hqdefault.jpg",
           "durationSeconds": 34110,
           "durationFormatted": "09:28:30",
-          "views": 1918,
+          "views": 2015,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6lDIpaehZcw/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 869,
+          "views": 879,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/siXvV2-JJj0/hqdefault.jpg",
           "durationSeconds": 342,
           "durationFormatted": "05:42",
-          "views": 642,
+          "views": 654,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -567,7 +567,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6EGp-ZONlzw/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 172,
+          "views": 226,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
