@@ -711,41 +711,45 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     # Crime keywords - specific and strong indicators
     crime_keywords = [
         # English - specific crime terms
-        "murder", "killed", "killing", "homicide", "assassination",
+        "murder", "killed", "killing", "homicide", "assassination", "manslaughter",
         "crime",  # e.g. "MP Crime" segments (avoid false Politics on standalone "MP")
-        "robbery", "loot", "theft", "steal", "stolen",
+        "robbery", "loot", "theft", "steal", "stolen", "burglary", "break-in", "heist", "mugging",
         "assault", "rape", "sexual assault", "sexual violence",
-        "arrest", "arrested", "suspect", "accused", "criminal",
-        "gang", "mob", "violence", "rioting", "clash", "clashes",  # Clashes/violence
+        "arrest", "arrested", "detained", "custody", "suspect", "accused", "criminal",
+        "gang", "cartel", "mafia", "mob", "violence", "rioting", "clash", "clashes",  # Clashes/violence
         "shoot", "shot", "firing", "gunfire", "bullets",
-        "stab", "knife attack", "weapon", "knife fight",
+        "stab", "stabbing", "knife attack", "weapon", "knife fight",
         "jail", "prison", "court case", "trial", "investigation",
-        "kidnapping", "abduction", "abducted",
+        "kidnapping", "abduction", "abducted", "hostage", "hijack", "hijacking", "extortion", "ransom",
         "naxal attack", "naxal violence", "naxalite attack", "naxal surrender",  # Naxal-related crimes (only when crime-related)
+        # Negative/death headlines should not remain General
+        "passes away", "passed away", "no more", "death news", "death update",
+        "last rites", "funeral", "obituary",
         "सट्टा", "satta", "betting", "match fixing", "ipl betting", "आईपीएल सट्टा", "illegal betting",
         "gas cylinder", "cylinder blast", "explode", "explosion",  # Explosions
         "ied blast", "ied", "bomb blast", "bomb explosion",  # IED/Bomb explosions
         "fire incident", "arson",  # Fire-related crimes
         "chain snatching", "snatching",  # Chain snatching
-        "fraud case", "scam case", "cheat", "swindle", "dupe",  # Fraud/scam (only when clearly crime, not political discussions)
+        "fraud case", "scam case", "cheat", "swindle", "dupe", "forgery", "money laundering",  # Fraud/scam (only when clearly crime, not political discussions)
         "corruption scam", "financial scam", "bank scam",  # Specific scams
         "cyber fraud", "cyber theft", "cyber crime", "online scam", "telegram scam",  # Cyber crimes
         "dog attack", "dog bite", "stray dog",  # Dog attacks
         "monkey attack", "leopard attack", "animal attack", "wild animal attack",  # Animal attacks
         "food poisoning", "death from food", "contaminated food",  # Food-related deaths
         "mid-day meal", "midday meal", "school meal",  # Mid-day meal food poisoning
-        "harassment", "eve teasing", "molestation", "sexual harassment",  # Harassment
+        "harassment", "eve teasing", "molestation", "sexual harassment", "abuse", "domestic violence",  # Harassment
         "stunt", "illegal stunt", "dangerous stunt", "stunt video",  # Illegal stunts
         "it raid", "income tax raid", "raid", "search",  # IT raids and searches
         "acb raid", "anti corruption bureau", "acb",  # ACB raids
         "food department raid", "food dept raid",  # Food department raids
         # Hindi/Devanagari - specific crime terms
-        "हत्या","कत्ल", "लाश", "शव", "अपराध", "अपराधी",
+        "हत्या","कत्ल", "लाश", "शव", "अपराध", "अपराधी", "हत्याकांड",
         # "मौत" only when combined with crime terms (not medical deaths)
         "हत्या में मौत", "कत्ल में मौत", "अपराध में मौत", "गोली से मौत", "चाकू से मौत",
         # Medical negligence death (crime)
         "इलाज के दौरान मरीज की मौत", "इलाज के दौरान मौत", "डॉक्टर लापरवाही", "मेडिकल नेग्लिजेंस",
         "कातिल", "जेल", "कारागार", "अदालत", "जज", "मुकदमा", "क्राइम", "मौत",
+        "निधन", "निधन की खबर", "अंतिम संस्कार", "अंतिम विदाई", "श्रद्धांजलि",
         "crime branch", "क्राइम ब्रांच",
         "missile", "मिसाइल", "drone strike", "air strike",
         "पुलिस गिरफ्तार", "पुलिस ने गिरफ्तार", "पुलिस जांच",  # Police action (crime-related)
@@ -756,12 +760,13 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "हिंसा", "दंगा", "चाकू", "चाकूबाजी", "बंदूक", "गोली", "फायरिंग",  # Violence/knife attack
         "हंगामा", "हंगामा किया", "उपद्रव",  # Riot/commotion
         "अपहरण",  # Kidnapping
+        "लापता", "missing", "फरार", "भाग गई", "भाग गया", "विवाद", "controversy",
         "नक्सली हमला", "नक्सल हिंसा", "नक्सल सरेंडर",  # Naxal-related crimes (only when crime-related)
         "सिलेंडर ब्लास्ट", "सिलेंडर विस्फोट", "विस्फोट", "आईईडी ब्लास्ट", "बम ब्लास्ट",  # Explosions
         # Fire: avoid bare "आग" (matches rice धान burning, generic fire news) — use stronger phrases
         "अग्निकांड", "भीषण आग", "आग लगी", "लगी आग", "आग से",
         "चेन छीन", "चेन स्नैचिंग", "स्नैचिंग",  # Chain snatching
-        "ठग", "ठगी", "धोखाधड़ी", "फ्रॉड",  # Fraud/scam
+        "ठग", "ठगी", "धोखाधड़ी", "फ्रॉड", "जालसाजी", "उगाही", "रंगदारी",  # Fraud/scam
         "स्कैम केस", "धोखाधड़ी केस", "भ्रष्टाचार स्कैम",  # Specific scams (not political discussions)
         "सायबर चोरी", "सायबर फ्रॉड", "ऑनलाइन स्कैम", "टेलीग्राम स्कैम",  # Cyber crimes
         "कुत्ते का आतंक", "कुत्ते ने काटा", "कुत्ता काटा", "कुत्ता",  # Dog attack
@@ -770,7 +775,7 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
         "मध्यान भोजन", "मिड डे मील", "स्कूल भोजन",  # Mid-day meal
         "छेड़छाड़", "परेशानी", "यौन उत्पीड़न", "मनचले",  # Harassment
         "स्टंट", "अवैध स्टंट", "खतरनाक स्टंट", "स्टंट का अड्डा",  # Illegal stunts
-        "दुष्कर्म", "बलात्कार",  # Rape/sexual assault
+        "दुष्कर्म", "बलात्कार", "मारपीट", "हमला",  # Rape/sexual assault
         "आईटी रेड", "आयकर रेड", "रेड", "छापा",  # IT raids (दबिश listed above)
         # Context-specific: जांच only when combined with crime terms
         "अपराध जांच", "पुलिस जांच", "हत्या जांच", "मुकदमा जांच"
@@ -779,30 +784,31 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     # Traffic keywords - specific traffic/accident terms
     traffic_keywords = [
         # English - multi-word phrases for stronger matching (check first)
-        "traffic accident", "road accident", "car accident", "vehicle accident",
-        "road crash", "car crash", "highway crash", "train crash",
-        "traffic jam", "road jam",
-        "head-on collision", "rear-end collision",
-        "fatal accident", "deadly accident",
+        "traffic accident", "road accident", "car accident", "vehicle accident", "motorcycle accident", "bike accident",
+        "road crash", "car crash", "highway crash", "train crash", "bus crash", "truck crash",
+        "traffic jam", "road jam", "gridlock",
+        "head-on collision", "rear-end collision", "pile-up", "multi-vehicle collision",
+        "fatal accident", "deadly accident", "hit-and-run", "run-over",
         "vehicle overturned", "truck overturned", "bus overturned", "tractor overturned",  # Vehicle overturning
-        "thar accident", "speed havoc",  # Specific vehicle/accident types
+        "thar accident", "speed havoc", "road rage", "drunk driving", "dui",  # Specific vehicle/accident types
         # Hindi/Devanagari - multi-word phrases (check first)
-        "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा",
+        "सड़क दुर्घटना", "कार हादसा", "वाहन हादसा", "बाइक हादसा", "मोटरसाइकिल हादसा",
         "ट्रैक्टर पलटी", "ट्रॉली पलटी", "गाड़ी पलटी", "वाहन पलटी",  # Vehicle overturned
         "रफ्तार का कहर", "थार का कहर",  # Speed/Thar vehicle accident
         "एनएच", "NH-", "हाइवे पर",  # Highway accidents
-        "ट्रैफिक जाम", "सड़क जाम",
+        "ट्रैफिक जाम", "सड़क जाम", "लंबा जाम", "भीषण जाम",
         # English - strong single-word indicators (context-specific)
         # Note: standalone "crash" omitted — matches gold/stock "price crash" (false Traffic)
-        "accident", "collision", "traffic", "jam",
+        "accident", "collision", "traffic", "jam", "congestion",
         "ambulance", "rescue", "highway", "expressway",
-        "bus accident", "train accident", "rail accident",
+        "bus accident", "train accident", "rail accident", "derailed", "derailment",
         "emergency landing", "runway", "aircraft",
         # Hindi/Devanagari - strong single-word indicators (context-specific)
-        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस", "पलटी",  # पलटी = overturned
+        "दुर्घटना", "हादसा", "टक्कर", "जाम", "एम्बुलेंस", "पलटी", "यातायात",  # पलटी = overturned
         "बस हादसा", "ट्रेन हादसा", "रेल हादसा", "रेलवे", "ट्रेन से गिरा", "चलती ट्रेन",
         "train से गिरा", "चलती train", "from train",
-        "इमरजेंसी लैंडिंग", "आपात लैंडिंग", "विमान की लैंडिंग"
+        "इमरजेंसी लैंडिंग", "आपात लैंडिंग", "विमान की लैंडिंग",
+        "हिट एंड रन", "हिट-एंड-रन", "ओवरस्पीड", "ओवर स्पीड", "नशे में ड्राइविंग"
         # Note: "घायल" (injured) removed - too generic, appears in non-traffic contexts
     ]
     
