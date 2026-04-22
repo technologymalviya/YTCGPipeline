@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-22T21:08:06.417378Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-04-22T23:02:53.198896Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 51,
-      "trendScore": 63.9,
+      "videoCount": 49,
+      "trendScore": 62.6,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zccxU657h8E/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 56002,
-          "likes": 1331,
+          "views": 56726,
+          "likes": 1335,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MMXI35HHZfM/hqdefault.jpg",
           "durationSeconds": 1691,
           "durationFormatted": "28:11",
-          "views": 47693,
+          "views": 47742,
           "likes": 377,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/oN4x8rjfMms/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 25508,
-          "likes": 702,
+          "views": 25780,
+          "likes": 704,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "KBgAE9lnVpg",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-04-21T23:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/KBgAE9lnVpg/hqdefault.jpg",
-          "durationSeconds": 799,
-          "durationFormatted": "13:19",
-          "views": 17581,
-          "likes": 497,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "mW0px893DIg",
           "title": "महिला आरक्षण बिल पर सांसद विजय ने भूपेश पर कसा तंज, राहुल को कहा-नौटंकीबाज...",
           "description": "महिला आरक्षण बिल पर सांसद विजय ने भूपेश पर कसा तंज, राहुल को ...",
@@ -82,15 +67,30 @@
           "likes": 98,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "xZzOFyz2Gck",
+          "title": "Mahtari Vandan Yojana eKYC करवा कर लौट रही Old Lady को JCB ने… | बेटे ने क्या बताया? | Labhesh |",
+          "description": "Mahtari Vandan Yojana eKYC करवा कर लौट रही Old Lady को JCB ने… | बेटे ने क्या बताया?",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-22T14:15:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/xZzOFyz2Gck/hqdefault.jpg",
+          "durationSeconds": 323,
+          "durationFormatted": "05:23",
+          "views": 5311,
+          "likes": 130,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-22T20:22:35Z"
+      "latestUpdateAt": "2026-04-22T23:00:53Z"
     },
     {
       "clusterId": "chhattisgarh-sachintendulkar",
       "topic": "chhattisgarh sachintendulkar",
       "videoCount": 9,
-      "trendScore": 44.8,
+      "trendScore": 43.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/By6d91ogCPk/hqdefault.jpg",
           "durationSeconds": 32,
           "durationFormatted": "00:32",
-          "views": 72452,
-          "likes": 2068,
+          "views": 75961,
+          "likes": 2086,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/igpt1ce5ZHY/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 3370,
+          "views": 3376,
           "likes": 32,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WFMhLnvthcg/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 2816,
-          "likes": 74,
+          "views": 2934,
+          "likes": 75,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZOhIIPzPYs8/hqdefault.jpg",
           "durationSeconds": 26,
           "durationFormatted": "00:26",
-          "views": 1216,
+          "views": 1240,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Events"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VlB-hiUjpFE/hqdefault.jpg",
           "durationSeconds": 92,
           "durationFormatted": "01:32",
-          "views": 500,
+          "views": 501,
           "likes": 20,
           "videoType": "VOD",
           "genre": "Events"
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-lenskart",
       "topic": "Bhaskar Lenskart",
       "videoCount": 13,
-      "trendScore": 43.7,
+      "trendScore": 42.8,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/s7QEs6pSdnA/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1317,
+          "views": 1335,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pMA_X_OmnDI/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 846,
+          "views": 876,
           "likes": 21,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HjY1aFmdVnU/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 822,
-          "likes": 48,
+          "views": 844,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NhvbDt2Glew/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 747,
+          "views": 751,
           "likes": 15,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/guxAZ6q5pLo/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 511,
+          "views": 519,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Civic"
@@ -258,7 +258,7 @@
       "clusterId": "april-copy",
       "topic": "April copy",
       "videoCount": 17,
-      "trendScore": 39.1,
+      "trendScore": 38.6,
       "topVideos": [
         {
           "index": 1,
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hcBL5ROwBT8/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 39,
-          "likes": 0,
+          "views": 47,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -307,21 +307,6 @@
         },
         {
           "index": 4,
-          "videoId": "lGxOUH0vSBw",
-          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-22T12:54:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/lGxOUH0vSBw/hqdefault.jpg",
-          "durationSeconds": 675,
-          "durationFormatted": "11:15",
-          "views": 19,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "YgDiCEMefTM",
           "title": "दुर्ग में बच्चों के लिए संस्कार समर कैंप 2026 शुरू",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -330,8 +315,23 @@
           "thumbnail": "https://i.ytimg.com/vi/YgDiCEMefTM/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 16,
+          "views": 23,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "lGxOUH0vSBw",
+          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-22T12:54:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/lGxOUH0vSBw/hqdefault.jpg",
+          "durationSeconds": 675,
+          "durationFormatted": "11:15",
+          "views": 20,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "खबरदर-जनगणन",
       "topic": "खबरदार जनगणना",
       "videoCount": 5,
-      "trendScore": 38.7,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/O7VUMjEuIjw/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 25662,
-          "likes": 491,
+          "views": 26139,
+          "likes": 496,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/l6t6BdPQnvM/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 16083,
-          "likes": 280,
+          "views": 16591,
+          "likes": 286,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QQ4oNgl2tBg/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 14644,
-          "likes": 398,
+          "views": 14783,
+          "likes": 399,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sadcXBPkDg4/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 12659,
-          "likes": 225,
+          "views": 12718,
+          "likes": 227,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/a2Iniocsu9g/hqdefault.jpg",
           "durationSeconds": 544,
           "durationFormatted": "09:04",
-          "views": 133,
+          "views": 170,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -426,7 +426,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 36.6,
+      "trendScore": 35.5,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dvd5n1RBbxg/hqdefault.jpg",
           "durationSeconds": 623,
           "durationFormatted": "10:23",
-          "views": 542,
+          "views": 557,
           "likes": 28,
           "videoType": "VOD",
           "genre": "General"
@@ -453,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sGh3aXncQIk/hqdefault.jpg",
           "durationSeconds": 583,
           "durationFormatted": "09:43",
-          "views": 89,
-          "likes": 9,
+          "views": 122,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -495,7 +495,7 @@
       "clusterId": "sachin-tendulkar",
       "topic": "Sachin Tendulkar",
       "videoCount": 7,
-      "trendScore": 34.2,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YFAXH0xgXOA/hqdefault.jpg",
           "durationSeconds": 34110,
           "durationFormatted": "09:28:30",
-          "views": 2015,
+          "views": 2042,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xTIbEFvAquU/hqdefault.jpg",
           "durationSeconds": 141,
           "durationFormatted": "02:21",
-          "views": 1313,
+          "views": 1338,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6lDIpaehZcw/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 879,
+          "views": 912,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -559,21 +559,90 @@
         },
         {
           "index": 5,
-          "videoId": "6EGp-ZONlzw",
-          "title": "Sachin Tendulkar Jagdalpur Visit : सचिन तेंदुलकर पहुंचे जगदलपुर आदिवासी बच्चों से करेंगे मुलाकात",
-          "description": "क्रिकेट के दिग्गज Sachin Tendulkar छत्तीसगढ़ के Jagdalpur पहुंचे, जहां वे ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-22T13:27:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/6EGp-ZONlzw/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 226,
+          "videoId": "9qzySLrn-Zs",
+          "title": "Sachin Tendulkar in Dantewada: मास्टर ब्लास्टर इन बस्तर | देखिए बदलते बस्तर की सबसे सुनहरी तस्वीर!",
+          "description": "Sachin Tendulkar in Dantewada: मास्टर ब्लास्टर इन बस्तर | देखिए बदलते बस्तर की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-22T17:58:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/9qzySLrn-Zs/hqdefault.jpg",
+          "durationSeconds": 650,
+          "durationFormatted": "10:50",
+          "views": 233,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-22T19:13:50Z"
+    },
+    {
+      "clusterId": "aaj-sagar",
+      "topic": "Aaj Sagar",
+      "videoCount": 4,
+      "trendScore": 31.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "CRnsuLYX2-M",
+          "title": "P-ब्लॉक लगाने के नाम पर कर रहे जनता को परेश!न। जनता के पैसों की बर्बा.दी। Aaj Bhilai। Sagar Sahu।",
+          "description": "P-ब्लॉक लगाने के नाम पर कर रहे जनता को परेश!न। जनता के पैसों की बर्बा.",
+          "channelTitle": "Aaj Bhilai ",
+          "publishedAt": "2026-04-22T03:49:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/CRnsuLYX2-M/hqdefault.jpg",
+          "durationSeconds": 173,
+          "durationFormatted": "02:53",
+          "views": 452,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "UqQi2MTcEBc",
+          "title": "नगर निगम भिलाई-चरोदा से वाहनों से चक्के ग!यब। कार्रव!ई कब होगी महोदय?। Aaj Bhilai। Sagar Sahu।",
+          "description": "नगर निगम भिलाई-चरोदा से वाहनों से चक्के ग!यब। कार्रव!ई कब होगी महोदय?",
+          "channelTitle": "Aaj Bhilai ",
+          "publishedAt": "2026-04-22T21:10:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/UqQi2MTcEBc/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 161,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "8nqldYGjBH0",
+          "title": "दोहरे मंडल अध्यक्ष पर बव!ल। अपर!धियों को क्यों दे रहे पदभार?। Aaj Bhilai। Sagar Sahu।",
+          "description": "दोहरे मंडल अध्यक्ष पर बव!ल। अपराधियों को क्यों दे रहे पदभार?। Aaj Bhilai।",
+          "channelTitle": "Aaj Bhilai ",
+          "publishedAt": "2026-04-22T03:58:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/8nqldYGjBH0/hqdefault.jpg",
+          "durationSeconds": 530,
+          "durationFormatted": "08:50",
+          "views": 89,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "4T8YkeEATmg",
+          "title": "नगर निगम भिलाई-चरोदा का पार्किंग या ओपन बार?। कार्रव!ई की गुंजाइश है साहब। Aaj Bhilai। Sagar Sahu।",
+          "description": "नगर निगम भिलाई-चरोदा का पार्किंग या ओपन बार?। कार्रव!ई की गुंजाइश है ...",
+          "channelTitle": "Aaj Bhilai ",
+          "publishedAt": "2026-04-22T21:04:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/4T8YkeEATmg/hqdefault.jpg",
+          "durationSeconds": 151,
+          "durationFormatted": "02:31",
+          "views": 84,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Civic"
+        }
+      ],
+      "latestUpdateAt": "2026-04-22T21:10:16Z"
     }
   ]
 }
