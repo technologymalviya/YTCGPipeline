@@ -42,6 +42,74 @@ def test_classify_genre_basic():
     assert gj.classify_genre("सरकारी नौकरी भर्ती का विज्ञापन") == gj.GENRE_JOBS or gj.classify_genre("सरकारी नौकरी भर्ती का विज्ञापन") == gj.GENRE_GENERAL
     assert gj.classify_genre("हत्या का मामला, आरोपी गिरफ्तार") == gj.GENRE_CRIME
 
+
+def test_resolve_ip_lookup_url_configurable():
+    ip = "117.198.246.216"
+    assert gj._resolve_ip_lookup_url(ip, "http://ip-api.com/json/{ip}") == "http://ip-api.com/json/117.198.246.216"
+    assert gj._resolve_ip_lookup_url(ip, "http://ip-api.com/json/") == "http://ip-api.com/json/117.198.246.216"
+    assert gj._resolve_ip_lookup_url(ip, "https://example.com/geo") == "https://example.com/geo?ip=117.198.246.216"
+
+
+def test_resolve_city_from_ip_success_and_cache():
+    class Resp:
+        status_code = 200
+        def json(self):
+            return {"status": "success", "city": "Montreal"}
+
+    gj._ip_city_cache.clear()
+    with patch("requests.get", return_value=Resp()) as mock_get:
+        city1 = gj.resolve_city_from_ip("24.48.0.1", "http://ip-api.com/json/{ip}")
+        city2 = gj.resolve_city_from_ip("24.48.0.1", "http://ip-api.com/json/{ip}")
+
+    assert city1 == "Montreal"
+    assert city2 == "Montreal"
+    # Second call should hit cache and avoid extra network call
+    assert mock_get.call_count == 1
+
+
+def test_resolve_city_from_ip_failure_safe():
+    gj._ip_city_cache.clear()
+    with patch("requests.get", side_effect=Exception("timeout")):
+        city = gj.resolve_city_from_ip("24.48.0.1", "http://ip-api.com/json/{ip}")
+    assert city == ""
+
+
+def test_generate_ott_json_adds_city_section_index_zero():
+    feed = [
+        {
+            "videoId": "v1",
+            "title": "Montreal traffic update and road closure",
+            "description": "City bulletin",
+            "channelTitle": "News Channel",
+            "genre": gj.GENRE_TRAFFIC,
+            "videoType": gj.VIDEO_TYPE_VOD,
+            "publishedAt": "2026-01-01T00:00:00Z",
+        },
+        {
+            "videoId": "v2",
+            "title": "General CG bulletin",
+            "description": "No city mention",
+            "channelTitle": "News Channel",
+            "genre": gj.GENRE_GENERAL,
+            "videoType": gj.VIDEO_TYPE_VOD,
+            "publishedAt": "2026-01-01T00:00:00Z",
+        },
+    ]
+
+    class Resp:
+        status_code = 200
+        def json(self):
+            return {"status": "success", "city": "Montreal"}
+
+    gj._ip_city_cache.clear()
+    with patch("requests.get", return_value=Resp()):
+        out = gj.generate_ott_json(feed, request_ip="24.48.0.1", ip_lookup_url="http://ip-api.com/json/{ip}")
+
+    assert out["sections"][0]["section"] == "Montreal"
+    assert out["sections"][0]["sectionIndex"] == 0
+    assert out["sections"][0]["count"] == 1
+    assert out["sections"][0]["items"][0]["videoId"] == "v1"
+
 # === Tests that mock YouTube API calls ===
 def mocked_requests_get(url, params=None, timeout=None, **kwargs):
     # Simulate search endpoint
