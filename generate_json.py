@@ -83,12 +83,19 @@ _openai_rate_limit_tracker = {
 _ip_city_cache: Dict[str, Dict[str, object]] = {}
 
 
+def _log_city(message: str):
+    """Structured logger for city/IP-section flow."""
+    print(f"[CitySection] {message}")
+
+
 def _prune_ip_city_cache():
     """Prune expired and excess cache entries."""
     now = time.time()
     expired = [k for k, v in _ip_city_cache.items() if now - float(v.get("ts", 0)) > IP_LOOKUP_CACHE_TTL_SECONDS]
     for k in expired:
         _ip_city_cache.pop(k, None)
+    if expired:
+        _log_city(f"Pruned {len(expired)} expired IP cache entries")
 
     if len(_ip_city_cache) > IP_LOOKUP_CACHE_MAX_SIZE:
         # Drop oldest entries first.
@@ -96,6 +103,7 @@ def _prune_ip_city_cache():
         overflow = len(_ip_city_cache) - IP_LOOKUP_CACHE_MAX_SIZE
         for k, _ in sorted_items[:overflow]:
             _ip_city_cache.pop(k, None)
+        _log_city(f"Pruned {overflow} overflow IP cache entries (max={IP_LOOKUP_CACHE_MAX_SIZE})")
 
 # Error Messages
 MSG_API_KEY_NOT_SET = "WARNING: YOUTUBE_API_KEY not set. Not updating output file."
@@ -1420,6 +1428,7 @@ def _resolve_ip_lookup_url(ip: str, template: Optional[str] = None) -> str:
     """
     template = (template or os.environ.get(ENV_IP_LOOKUP_URL) or IP_LOOKUP_URL_DEFAULT).strip()
     ip_q = quote_plus(ip.strip())
+    _log_city(f"Resolving lookup URL using template='{template}' and ip='{ip}'")
     if "{ip}" in template:
         return template.replace("{ip}", ip_q)
     if template.endswith("/"):
@@ -1434,30 +1443,39 @@ def resolve_city_from_ip(ip: str, lookup_template: Optional[str] = None) -> str:
     """
     ip = (ip or "").strip()
     if not _is_valid_ip(ip):
+        _log_city(f"Skipping city lookup: invalid IP '{ip}'")
         return ""
 
     _prune_ip_city_cache()
     cached = _ip_city_cache.get(ip)
     now = time.time()
     if cached and now - float(cached.get("ts", 0)) <= IP_LOOKUP_CACHE_TTL_SECONDS:
+        _log_city(f"Cache hit for IP '{ip}' -> city '{cached.get('city', '')}'")
         return str(cached.get("city", "") or "")
+    _log_city(f"Cache miss for IP '{ip}', querying city service")
 
     url = _resolve_ip_lookup_url(ip, lookup_template)
     attempts = 2
     for attempt in range(attempts):
         try:
+            _log_city(f"IP lookup attempt {attempt + 1}/{attempts}: {url}")
             response = requests.get(url, timeout=IP_LOOKUP_TIMEOUT)
             if response.status_code != 200:
+                _log_city(f"Lookup non-200 status={response.status_code} for IP '{ip}'")
                 continue
             data = response.json() if hasattr(response, "json") else {}
             city = str((data or {}).get("city", "")).strip()
             if city:
                 _ip_city_cache[ip] = {"city": city, "ts": now}
+                _log_city(f"Resolved IP '{ip}' -> city '{city}' (cached)")
                 return city
+            _log_city(f"Lookup succeeded but city missing in response for IP '{ip}'")
         except Exception:
             # Retry once, then fallback to no-city section.
             if attempt < attempts - 1:
+                _log_city(f"Lookup attempt {attempt + 1} failed for IP '{ip}', retrying")
                 continue
+    _log_city(f"Failed to resolve city for IP '{ip}', city section will be skipped")
     return ""
 
 
@@ -1465,7 +1483,9 @@ def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
     """Return videos that mention the resolved city in title/description/channel."""
     city_n = normalize(city or "")
     if not city_n:
+        _log_city("City filter skipped: empty city after normalization")
         return []
+    _log_city(f"Filtering feed by city='{city}' normalized='{city_n}', feed_size={len(feed)}")
     out: List[Dict] = []
     for v in feed:
         text = normalize(
@@ -1473,17 +1493,26 @@ def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
         )
         if city_n and city_n in text:
             out.append(v)
+    _log_city(f"City filter matched {len(out)} videos for city='{city}'")
     return out
 
 
 def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str = "") -> Dict:
     """Generate OTT-style JSON feed."""
+    _log_city(
+        f"Starting OTT JSON generation with feed_size={len(feed)}, request_ip='{request_ip or '<none>'}'"
+    )
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
     if city:
         city_items = filter_by_city(feed, city)
         if city_items:
             city_section = {"section": city, "count": len(city_items), "items": city_items, "sectionIndex": 0}
+            _log_city(f"Prepared city section '{city}' with {len(city_items)} items (index=0)")
+        else:
+            _log_city(f"Resolved city '{city}' but no matching videos found")
+    else:
+        _log_city("No city resolved, proceeding without city section")
 
     # Podcast section = genre Podcast only (assigned only for allow-listed channels + podcast signals)
     podcast_news = filter_by_genre(feed, [GENRE_PODCAST])
@@ -1514,6 +1543,7 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
 
     if city_section:
         sections = [city_section] + sections
+        _log_city("City section prepended to sections list")
 
     # Attach sectionIndex to each section using SECTION_INDEX map; default to 0 if unknown
     for sec in sections:
@@ -1521,6 +1551,7 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
             continue
         sec_name = sec.get("section", "")
         sec["sectionIndex"] = SECTION_INDEX.get(sec_name, 0)
+    _log_city(f"Completed section indexing; total_sections={len(sections)}")
     
     return {
         "generatedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
@@ -1557,6 +1588,10 @@ def main():
         feed = add_genres_to_feed(feed)
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()
+        _log_city(
+            f"Runtime config: REQUEST_IP='{request_ip or '<none>'}', "
+            f"IP_LOOKUP_URL='{ip_lookup_url or IP_LOOKUP_URL_DEFAULT}'"
+        )
         json_data = generate_ott_json(feed, request_ip=request_ip, ip_lookup_url=ip_lookup_url)
         print(f"Fetched {len(feed)} total videos")
         

@@ -56,6 +56,21 @@ jobs:
           REQUEST_IP: ${{ secrets.REQUEST_IP }}
           IP_LOOKUP_URL: ${{ secrets.IP_LOOKUP_URL }}
         run: |
+          echo "IP API lookup configuration:"
+          echo "  REQUEST_IP: ${REQUEST_IP:-<not-set>}"
+          echo "  IP_LOOKUP_URL: ${IP_LOOKUP_URL:-http://ip-api.com/json/{ip} (default)}"
+
+          # Preflight log for IP lookup (non-blocking)
+          if [ -n "${REQUEST_IP}" ]; then
+            LOOKUP_TEMPLATE="${IP_LOOKUP_URL:-http://ip-api.com/json/{ip}}"
+            LOOKUP_URL="${LOOKUP_TEMPLATE//\{ip\}/${REQUEST_IP}}"
+            echo "  Resolved lookup URL: ${LOOKUP_URL}"
+            echo "  IP API preflight response:"
+            curl -sS --max-time 5 "${LOOKUP_URL}" || echo "  (preflight failed, continuing)"
+          else
+            echo "  REQUEST_IP is not set; city-section lookup will be skipped"
+          fi
+
           python generate_json.py
           python generate_trending_clusters.py
       
