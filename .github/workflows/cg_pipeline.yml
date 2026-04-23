@@ -1,5 +1,8 @@
 name: Generate and Share JSON
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 on:
   schedule:
     # Runs every 2 hours from 6 AM IST to 12 AM IST (midnight)
@@ -14,8 +17,8 @@ on:
     # 8 PM IST = 14:30 UTC
     # 10 PM IST = 16:30 UTC
     # 12 AM IST (midnight) = 18:30 UTC
-    # Cron: minute 0, every 2 hours UTC
-   - cron: '10 4-22/2 * * *'  
+    # Cron: minute 30, every 2 hours UTC from 00:30 to 18:30
+    - cron: '30 0-18/2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -27,12 +30,12 @@ jobs:
     runs-on: ubuntu-latest    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       
@@ -59,9 +62,9 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Check if output.json has changes
-          if git diff --quiet output.json; then
-            echo "No changes to output.json - keeping existing data"
+          # Check if output artifacts have changes
+          if git diff --quiet output.json trending_cluster.json; then
+            echo "No changes to output artifacts - keeping existing data"
           else
             git add output.json trending_cluster.json
             git commit -m "Update JSON data - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
