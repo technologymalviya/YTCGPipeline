@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-23T03:38:57.400715Z",
+  "generatedAt": "2026-04-23T06:21:17.635480Z",
   "clusterCount": 1,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 6,
-      "trendScore": 38.4,
+      "videoCount": 4,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,25 +18,25 @@
           "thumbnail": "https://i.ytimg.com/vi/oN4x8rjfMms/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 26385,
-          "likes": 739,
+          "views": 28278,
+          "likes": 781,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "mW0px893DIg",
-          "title": "महिला आरक्षण बिल पर सांसद विजय ने भूपेश पर कसा तंज, राहुल को कहा-नौटंकीबाज...",
-          "description": "महिला आरक्षण बिल पर सांसद विजय ने भूपेश पर कसा तंज, राहुल को ...",
+          "videoId": "tLtcEmxv8Sw",
+          "title": "Nirmal Baba Arrest | नवरात्रि में महिला को ऐसे फंसाया और Hotel लेकर गया... | Yashwant Sahu News |",
+          "description": "Nirmal Baba Arrest | नवरात्रि में महिला को ऐसे फंसाया और Hotel लेकर गया... | Report/Story: ...",
           "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-22T05:30:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/mW0px893DIg/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 17123,
-          "likes": 102,
+          "publishedAt": "2026-04-22T15:30:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/tLtcEmxv8Sw/hqdefault.jpg",
+          "durationSeconds": 351,
+          "durationFormatted": "05:51",
+          "views": 8476,
+          "likes": 193,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Crime"
         },
         {
           "index": 3,
@@ -48,40 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/xZzOFyz2Gck/hqdefault.jpg",
           "durationSeconds": 323,
           "durationFormatted": "05:23",
-          "views": 6221,
-          "likes": 162,
+          "views": 7881,
+          "likes": 193,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "tLtcEmxv8Sw",
-          "title": "Nirmal Baba Arrest | नवरात्रि में महिला को ऐसे फंसाया और Hotel लेकर गया... | Yashwant Sahu News |",
-          "description": "Nirmal Baba Arrest | नवरात्रि में महिला को ऐसे फंसाया और Hotel लेकर गया... | Report/Story: ...",
+          "videoId": "g5Ox3UrGArQ",
+          "title": "Prem Rog Cg Movie| Anil Sinha, Shalini ने खूब हंसाया | Full Interview में ठेठ गोठबात | Yashwant Sahu",
+          "description": "Prem Rog Cg Movie| Anil Sinha, Shalini ने खूब हंसाया | Full Interview में ठेठ गोठबात | Report/Story: ...",
           "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-22T15:30:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/tLtcEmxv8Sw/hqdefault.jpg",
-          "durationSeconds": 351,
-          "durationFormatted": "05:51",
-          "views": 6056,
-          "likes": 150,
+          "publishedAt": "2026-04-23T02:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/g5Ox3UrGArQ/hqdefault.jpg",
+          "durationSeconds": 1732,
+          "durationFormatted": "28:52",
+          "views": 776,
+          "likes": 38,
           "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "QuzVNur7ADA",
-          "title": "KP News की खबर, 2 घंटे में असर, Link रोड का गड्ढा भरा, तत्काल Action || KP NEWS",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-04-22T13:03:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/QuzVNur7ADA/hqdefault.jpg",
-          "durationSeconds": 449,
-          "durationFormatted": "07:29",
-          "views": 629,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-23T02:00:37Z"
