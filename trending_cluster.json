@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-23T02:50:36.790777Z",
+  "generatedAt": "2026-04-23T03:12:55.051667Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 51,
+      "videoCount": 49,
       "trendScore": 61.5,
       "topVideos": [
         {
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/oN4x8rjfMms/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 26203,
-          "likes": 731,
+          "views": 26333,
+          "likes": 738,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mW0px893DIg/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 17100,
+          "views": 17117,
           "likes": 100,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jDDqgn8VYpQ/hqdefault.jpg",
           "durationSeconds": 1624,
           "durationFormatted": "27:04",
-          "views": 7834,
-          "likes": 190,
+          "views": 8810,
+          "likes": 199,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xZzOFyz2Gck/hqdefault.jpg",
           "durationSeconds": 323,
           "durationFormatted": "05:23",
-          "views": 5983,
-          "likes": 159,
+          "views": 6147,
+          "likes": 162,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,8 +78,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tLtcEmxv8Sw/hqdefault.jpg",
           "durationSeconds": 351,
           "durationFormatted": "05:51",
-          "views": 5591,
-          "likes": 141,
+          "views": 5862,
+          "likes": 148,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -87,10 +87,94 @@
       "latestUpdateAt": "2026-04-23T02:36:15Z"
     },
     {
+      "clusterId": "chhattisgarh-sachintendulkar",
+      "topic": "chhattisgarh sachintendulkar",
+      "videoCount": 10,
+      "trendScore": 44.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "By6d91ogCPk",
+          "title": "बस्तर पहुंचे मास्टर ब्लास्टर सचिन तेंदुलकर  #chhattisgarh #sachintendulkar #bastar #cgviral",
+          "description": "",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-22T11:00:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/By6d91ogCPk/hqdefault.jpg",
+          "durationSeconds": 32,
+          "durationFormatted": "00:32",
+          "views": 84882,
+          "likes": 2396,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "igpt1ce5ZHY",
+          "title": "बस्तर की छवि बदलेंगे सचिन तेंदुलकर, आदिवासी बच्चों से करेंगे मुलाकात...",
+          "description": "सचिन तेंदुलकर प्राइवेट जेट से पहुंचे जगदलपुर परिवार भी साथ में ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-22T09:37:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/igpt1ce5ZHY/hqdefault.jpg",
+          "durationSeconds": 120,
+          "durationFormatted": "02:00",
+          "views": 3625,
+          "likes": 34,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "WFMhLnvthcg",
+          "title": "सचिन तेंदुलकर परिवार संग पहुंचें दंतेवाड़ाबच्चों के साथ रस्साकशी खेलकर मुस्कान बाँटी",
+          "description": "सचिन तेंदुलकर परिवार संग पहुंचें दंतेवाड़ा बच्चों के साथ रस्साकशी ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-04-22T13:23:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/WFMhLnvthcg/hqdefault.jpg",
+          "durationSeconds": 58,
+          "durationFormatted": "00:58",
+          "views": 3157,
+          "likes": 83,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "ZOhIIPzPYs8",
+          "title": "दंतेवाड़ा के छिंदनार में सचिन तेंदुलकर ने मनाया अपना जन्मदिन #dantewada #sachintendulkar #adiwasi",
+          "description": "दंतेवाड़ा के छिंदनार में सचिन तेंदुलकर ने मनाया अपना जन्मदिन ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-04-22T13:55:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZOhIIPzPYs8/hqdefault.jpg",
+          "durationSeconds": 26,
+          "durationFormatted": "00:26",
+          "views": 1243,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "VlB-hiUjpFE",
+          "title": "Baster News : बस्तर पहुंचे सचिन तेंदुलकर, जगदलपुर एयरपोर्ट पर हुआ भव्य स्वागत",
+          "description": "भारत रत्न और क्रिकेट के महान खिलाड़ी सचिन तेंदुलकर के बस्तर आगमन पर ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-22T11:58:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/VlB-hiUjpFE/hqdefault.jpg",
+          "durationSeconds": 92,
+          "durationFormatted": "01:32",
+          "views": 512,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-04-23T03:00:56Z"
+    },
+    {
       "clusterId": "bhaskar-lenskart",
       "topic": "Bhaskar Lenskart",
       "videoCount": 14,
-      "trendScore": 43.2,
+      "trendScore": 43.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/s7QEs6pSdnA/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1356,
-          "likes": 33,
+          "views": 1347,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -133,7 +217,7 @@
           "durationSeconds": 178,
           "durationFormatted": "02:58",
           "views": 849,
-          "likes": 49,
+          "likes": 50,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NhvbDt2Glew/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 756,
+          "views": 754,
           "likes": 16,
           "videoType": "VOD",
           "genre": "General"
@@ -171,94 +255,10 @@
       "latestUpdateAt": "2026-04-23T02:30:34Z"
     },
     {
-      "clusterId": "chhattisgarh-sachintendulkar",
-      "topic": "chhattisgarh sachintendulkar",
-      "videoCount": 9,
-      "trendScore": 42.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "By6d91ogCPk",
-          "title": "बस्तर पहुंचे मास्टर ब्लास्टर सचिन तेंदुलकर  #chhattisgarh #sachintendulkar #bastar #cgviral",
-          "description": "",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-22T11:00:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/By6d91ogCPk/hqdefault.jpg",
-          "durationSeconds": 32,
-          "durationFormatted": "00:32",
-          "views": 82952,
-          "likes": 2363,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "igpt1ce5ZHY",
-          "title": "बस्तर की छवि बदलेंगे सचिन तेंदुलकर, आदिवासी बच्चों से करेंगे मुलाकात...",
-          "description": "सचिन तेंदुलकर प्राइवेट जेट से पहुंचे जगदलपुर परिवार भी साथ में ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-22T09:37:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/igpt1ce5ZHY/hqdefault.jpg",
-          "durationSeconds": 120,
-          "durationFormatted": "02:00",
-          "views": 3585,
-          "likes": 34,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "WFMhLnvthcg",
-          "title": "सचिन तेंदुलकर परिवार संग पहुंचें दंतेवाड़ाबच्चों के साथ रस्साकशी खेलकर मुस्कान बाँटी",
-          "description": "सचिन तेंदुलकर परिवार संग पहुंचें दंतेवाड़ा बच्चों के साथ रस्साकशी ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-04-22T13:23:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/WFMhLnvthcg/hqdefault.jpg",
-          "durationSeconds": 58,
-          "durationFormatted": "00:58",
-          "views": 3129,
-          "likes": 82,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "ZOhIIPzPYs8",
-          "title": "दंतेवाड़ा के छिंदनार में सचिन तेंदुलकर ने मनाया अपना जन्मदिन #dantewada #sachintendulkar #adiwasi",
-          "description": "दंतेवाड़ा के छिंदनार में सचिन तेंदुलकर ने मनाया अपना जन्मदिन ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-04-22T13:55:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZOhIIPzPYs8/hqdefault.jpg",
-          "durationSeconds": 26,
-          "durationFormatted": "00:26",
-          "views": 1246,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "VlB-hiUjpFE",
-          "title": "Baster News : बस्तर पहुंचे सचिन तेंदुलकर, जगदलपुर एयरपोर्ट पर हुआ भव्य स्वागत",
-          "description": "भारत रत्न और क्रिकेट के महान खिलाड़ी सचिन तेंदुलकर के बस्तर आगमन पर ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-22T11:58:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/VlB-hiUjpFE/hqdefault.jpg",
-          "durationSeconds": 92,
-          "durationFormatted": "01:32",
-          "views": 510,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-04-22T13:55:37Z"
-    },
-    {
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 5,
-      "trendScore": 39.5,
+      "trendScore": 38.9,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FYJtKvrA2C8/hqdefault.jpg",
           "durationSeconds": 1502,
           "durationFormatted": "25:02",
-          "views": 1650,
-          "likes": 79,
+          "views": 1886,
+          "likes": 84,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -342,7 +342,7 @@
       "clusterId": "west-bengal",
       "topic": "West Bengal",
       "videoCount": 8,
-      "trendScore": 38.2,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HnQAFDD6OmE/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 1755,
-          "likes": 34,
+          "views": 1898,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YQzWhlcQ4co/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 1040,
+          "views": 1156,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/DLPqsk51zcg/hqdefault.jpg",
           "durationSeconds": 427,
           "durationFormatted": "07:07",
-          "views": 483,
+          "views": 530,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -423,10 +423,10 @@
       "latestUpdateAt": "2026-04-23T02:50:07Z"
     },
     {
-      "clusterId": "april-copy",
-      "topic": "April copy",
+      "clusterId": "april-updates",
+      "topic": "April Updates",
       "videoCount": 17,
-      "trendScore": 37.2,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/S1XhsKWeyh4/hqdefault.jpg",
           "durationSeconds": 1156,
           "durationFormatted": "19:16",
-          "views": 430,
+          "views": 421,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hcBL5ROwBT8/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 68,
+          "views": 101,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 33.9,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Dvd5n1RBbxg/hqdefault.jpg",
           "durationSeconds": 623,
           "durationFormatted": "10:23",
-          "views": 628,
+          "views": 638,
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
@@ -579,7 +579,7 @@
       "clusterId": "aaj-sagar",
       "topic": "Aaj Sagar",
       "videoCount": 4,
-      "trendScore": 33.5,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -591,8 +591,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UqQi2MTcEBc/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 869,
-          "likes": 32,
+          "views": 903,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4T8YkeEATmg/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 575,
+          "views": 690,
           "likes": 23,
           "videoType": "VOD",
           "genre": "Civic"
@@ -636,7 +636,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8nqldYGjBH0/hqdefault.jpg",
           "durationSeconds": 530,
           "durationFormatted": "08:50",
-          "views": 91,
+          "views": 92,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -648,7 +648,7 @@
       "clusterId": "sachin-tendulkar",
       "topic": "Sachin Tendulkar",
       "videoCount": 6,
-      "trendScore": 30.8,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +660,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YFAXH0xgXOA/hqdefault.jpg",
           "durationSeconds": 34110,
           "durationFormatted": "09:28:30",
-          "views": 2107,
+          "views": 2074,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9qzySLrn-Zs/hqdefault.jpg",
           "durationSeconds": 650,
           "durationFormatted": "10:50",
-          "views": 1090,
+          "views": 1217,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/siXvV2-JJj0/hqdefault.jpg",
           "durationSeconds": 342,
           "durationFormatted": "05:42",
-          "views": 695,
+          "views": 697,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
