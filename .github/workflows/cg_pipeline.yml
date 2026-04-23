@@ -51,10 +51,10 @@ jobs:
           YOUTUBE_API_KEY_3: ${{ secrets.YOUTUBE_API_KEY_3 }}
           YOUTUBE_API_KEY_4: ${{ secrets.YOUTUBE_API_KEY_4 }}
           YOUTUBE_API_KEY_5: ${{ secrets.YOUTUBE_API_KEY_5 }}
-          BHILAI_CHANNELS: ${{ vars.BHILAI_CHANNELS }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          REQUEST_IP: ${{ secrets.REQUEST_IP }}
-          IP_LOOKUP_URL: ${{ secrets.IP_LOOKUP_URL }}
+          BHILAI_CHANNELS: ${{ vars.BHILAI_CHANNELS }}
+          REQUEST_IP: ${{ vars.REQUEST_IP }}
+          IP_LOOKUP_URL: ${{ vars.IP_LOOKUP_URL }}
         run: |
           echo "IP API lookup configuration:"
           echo "  REQUEST_IP: ${REQUEST_IP:-<not-set>}"
