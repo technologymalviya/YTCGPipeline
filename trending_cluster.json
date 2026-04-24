@@ -1,45 +1,15 @@
 {
-  "generatedAt": "2026-04-23T19:47:46.020891Z",
-  "clusterCount": 11,
+  "generatedAt": "2026-04-24T03:55:43.351106Z",
+  "clusterCount": 12,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 62,
-      "trendScore": 61.9,
+      "videoCount": 59,
+      "trendScore": 60.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "jDDqgn8VYpQ",
-          "title": "23 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "23 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-04-22T23:31:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/jDDqgn8VYpQ/hqdefault.jpg",
-          "durationSeconds": 1624,
-          "durationFormatted": "27:04",
-          "views": 32842,
-          "likes": 326,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "t_qUcW8PFco",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-04-22T23:00:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/t_qUcW8PFco/hqdefault.jpg",
-          "durationSeconds": 761,
-          "durationFormatted": "12:41",
-          "views": 17877,
-          "likes": 519,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "5x3tZxpH7Iw",
           "title": "Bengal Election 2026 : बंगाल में सनातन VS &#39;जमात&#39;... कौन किसे देगा मात? Mamta Banerjee  | zee mpcg",
           "description": "Prime Time : बंगाल में सनातन VS 'जमात'... कौन किसे देगा मात? 18वीं विधानसभा का ...",
@@ -48,23 +18,53 @@
           "thumbnail": "https://i.ytimg.com/vi/5x3tZxpH7Iw/hqdefault.jpg",
           "durationSeconds": 253,
           "durationFormatted": "04:13",
-          "views": 4865,
-          "likes": 54,
+          "views": 13206,
+          "likes": 74,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
-          "videoId": "g5Ox3UrGArQ",
-          "title": "Prem Rog Cg Movie| Anil Sinha, Shalini ने खूब हंसाया | Full Interview में ठेठ गोठबात | Yashwant Sahu",
-          "description": "Prem Rog Cg Movie| Anil Sinha, Shalini ने खूब हंसाया | Full Interview में ठेठ गोठबात | Report/Story: ...",
+          "index": 2,
+          "videoId": "neurCgE5K3Q",
+          "title": "24 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "24 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-04-23T23:30:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/neurCgE5K3Q/hqdefault.jpg",
+          "durationSeconds": 1592,
+          "durationFormatted": "26:32",
+          "views": 7710,
+          "likes": 178,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "1YfGMvcfFLk",
+          "title": "CG में गर्मी बढ़ेगी, 24 घंटे में पारा और चढ़ेगा; मौसम विभाग",
+          "description": "CG में गर्मी बढ़ेगी, 24 घंटे में पारा और चढ़ेगा; मौसम विभाग Report/Story: ...",
           "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-23T02:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/g5Ox3UrGArQ/hqdefault.jpg",
-          "durationSeconds": 1732,
-          "durationFormatted": "28:52",
-          "views": 2598,
-          "likes": 70,
+          "publishedAt": "2026-04-24T00:30:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/1YfGMvcfFLk/hqdefault.jpg",
+          "durationSeconds": 116,
+          "durationFormatted": "01:56",
+          "views": 5853,
+          "likes": 296,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Chg0zvoA_tw",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-04-23T23:00:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/Chg0zvoA_tw/hqdefault.jpg",
+          "durationSeconds": 775,
+          "durationFormatted": "12:55",
+          "views": 5161,
+          "likes": 370,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/6Z1D4pKfcSE/hqdefault.jpg",
           "durationSeconds": 440,
           "durationFormatted": "07:20",
-          "views": 2181,
-          "likes": 23,
+          "views": 3397,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-23T19:23:31Z"
+      "latestUpdateAt": "2026-04-24T02:59:15Z"
     },
     {
       "clusterId": "cgi-top",
       "topic": "CGI TOP",
       "videoCount": 19,
-      "trendScore": 44.6,
+      "trendScore": 41.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,23 +102,23 @@
           "thumbnail": "https://i.ytimg.com/vi/TLT7KqUs6E8/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 369,
-          "likes": 7,
+          "views": 497,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "5SiFJWLGVuI",
-          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
+          "videoId": "hFmhWmDN-Bc",
+          "title": "23 April 2026  Madhya Pradesh News  News from Madhya Pradesh copy",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-23T14:25:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/5SiFJWLGVuI/hqdefault.jpg",
-          "durationSeconds": 681,
-          "durationFormatted": "11:21",
-          "views": 53,
-          "likes": 0,
+          "publishedAt": "2026-04-23T13:52:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/hFmhWmDN-Bc/hqdefault.jpg",
+          "durationSeconds": 1180,
+          "durationFormatted": "19:40",
+          "views": 257,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,38 +132,38 @@
           "thumbnail": "https://i.ytimg.com/vi/5SiFJWLGVuI/hqdefault.jpg",
           "durationSeconds": 681,
           "durationFormatted": "11:21",
-          "views": 53,
+          "views": 69,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "hFmhWmDN-Bc",
-          "title": "23 April 2026  Madhya Pradesh News  News from Madhya Pradesh copy",
+          "videoId": "5SiFJWLGVuI",
+          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-23T13:52:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/hFmhWmDN-Bc/hqdefault.jpg",
-          "durationSeconds": 1180,
-          "durationFormatted": "19:40",
-          "views": 47,
+          "publishedAt": "2026-04-23T14:25:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/5SiFJWLGVuI/hqdefault.jpg",
+          "durationSeconds": 681,
+          "durationFormatted": "11:21",
+          "views": 69,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "3aJnDPs0cnA",
-          "title": "कांकेर में अनोखा नज़ारा! मादा भालू शावकों संग टंकी में नहाई, वीडियो वायरल",
+          "videoId": "0DCAfQUdlq8",
+          "title": "कांकेर में पांडुलिपि सर्वे शुरू, कलेक्टर ने जनता से मांगा सहयोग",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-23T11:00:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/3aJnDPs0cnA/hqdefault.jpg",
-          "durationSeconds": 79,
-          "durationFormatted": "01:19",
-          "views": 14,
-          "likes": 0,
+          "publishedAt": "2026-04-23T11:01:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/0DCAfQUdlq8/hqdefault.jpg",
+          "durationSeconds": 134,
+          "durationFormatted": "02:14",
+          "views": 36,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -171,10 +171,94 @@
       "latestUpdateAt": "2026-04-23T14:48:32Z"
     },
     {
+      "clusterId": "west-bengal",
+      "topic": "West Bengal",
+      "videoCount": 6,
+      "trendScore": 37.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "cbzEDcfm5N8",
+          "title": "🔴LIVE : West Bengal Election 2026 Violence: बंगाल में Voting के बीच बवाल | Murshidabad | Siliguri",
+          "description": "IBC24, LIVE : West Bengal Election 2026 Violence: बंगाल में Voting के बीच बवाल | Murshidabad | Siliguri ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-23T20:01:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/cbzEDcfm5N8/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 105966,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "CcT-wuUBkhA",
+          "title": "Assembly Elections 2026: West Bengal और Tamil Nadu में आज मतदान, उम्मीदवारों की किस्मत दांव पर",
+          "description": "IBC24, Assembly Elections 2026: West Bengal और Tamil Nadu में आज मतदान, उम्मीदवारों की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-23T16:12:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/CcT-wuUBkhA/hqdefault.jpg",
+          "durationSeconds": 34340,
+          "durationFormatted": "09:32:20",
+          "views": 27490,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "F4sf9nxynQo",
+          "title": "🔴LIVE : West Bengal Election 2026 Violence: मतदान के बीच बंगाल में बवाल | Murshidabad | Siliguri",
+          "description": "IBC24, LIVE : West Bengal Election 2026 Violence: मतदान के बीच बंगाल में बवाल | Murshidabad | Siliguri ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-23T19:59:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/F4sf9nxynQo/hqdefault.jpg",
+          "durationSeconds": 37844,
+          "durationFormatted": "10:30:44",
+          "views": 24754,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "r_YWEixjLu4",
+          "title": "🔴LIVE| West Bengal Election 2026 Violence: वोटिंग के बीच बंगाल से आई बड़ी खबर |Murshidabad | Siliguri",
+          "description": "IBC24, LIVE| West Bengal Election 2026 Violence: वोटिंग के बीच बंगाल से आई बड़ी खबर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-23T19:59:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/r_YWEixjLu4/hqdefault.jpg",
+          "durationSeconds": 34909,
+          "durationFormatted": "09:41:49",
+          "views": 6504,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "UG42m-Vdc2w",
+          "title": "West Bengal  Election: &#39;झालमुड़ी मैंने खाई, TMC को लगी झाल&#39;... PM मोदी का TMC पर तंज",
+          "description": "पश्चिम बंगाल की सियासत में झालमुड़ी का तड़का भी जबरदस्त लग रहा है.",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-23T16:04:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/UG42m-Vdc2w/hqdefault.jpg",
+          "durationSeconds": 195,
+          "durationFormatted": "03:15",
+          "views": 361,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-23T20:01:09Z"
+    },
+    {
       "clusterId": "bhaskar-cbse",
       "topic": "Bhaskar CBSE",
-      "videoCount": 10,
-      "trendScore": 39.5,
+      "videoCount": 9,
+      "trendScore": 35.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Nsc9Da6gnSc/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 1727,
-          "likes": 44,
+          "views": 1931,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8Ocp6-5vB-o/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 803,
+          "views": 866,
           "likes": 27,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -216,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/siSakS4E8IE/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 794,
+          "views": 801,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hDrPCX9C85M/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 608,
-          "likes": 13,
+          "views": 627,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/82ElpxhbTqg/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 391,
-          "likes": 10,
+          "views": 426,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,10 +339,79 @@
       "latestUpdateAt": "2026-04-23T15:01:29Z"
     },
     {
+      "clusterId": "chhattisgarh-samachar",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 4,
+      "trendScore": 35.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "YUV1h9bksKo",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 24 अप्रैल 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 24 अप्रैल 2026 छत्तीसगढ़ की फटाफट ताजा ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-04-24T00:32:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/YUV1h9bksKo/hqdefault.jpg",
+          "durationSeconds": 1574,
+          "durationFormatted": "26:14",
+          "views": 2296,
+          "likes": 83,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "1Jipmbj2d0U",
+          "title": "🔴LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG",
+          "description": "LIVE : Johar : छत्तीसगढ़ की आज की बड़ी खबरें | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T00:25:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/1Jipmbj2d0U/hqdefault.jpg",
+          "durationSeconds": 1576,
+          "durationFormatted": "26:16",
+          "views": 147,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "SFzhmDcM1nk",
+          "title": "🔴LIVE, MPCG News 23 April 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-23T11:55:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/SFzhmDcM1nk/hqdefault.jpg",
+          "durationSeconds": 22333,
+          "durationFormatted": "06:12:13",
+          "views": 33,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "IsRKROJGpg0",
+          "title": "🔴LIVE, MPCG News 23 April 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-23T15:15:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/IsRKROJGpg0/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 9,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
+        }
+      ],
+      "latestUpdateAt": "2026-04-24T00:32:11Z"
+    },
+    {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 37.9,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9uuEXKcCxDE/hqdefault.jpg",
           "durationSeconds": 623,
           "durationFormatted": "10:23",
-          "views": 393,
-          "likes": 22,
+          "views": 520,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_CPZdBLwREg/hqdefault.jpg",
           "durationSeconds": 591,
           "durationFormatted": "09:51",
-          "views": 242,
-          "likes": 20,
+          "views": 261,
+          "likes": 21,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/m8vMQx10-xI/hqdefault.jpg",
           "durationSeconds": 279,
           "durationFormatted": "04:39",
-          "views": 78,
+          "views": 86,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/adEiHLPCvfQ/hqdefault.jpg",
           "durationSeconds": 297,
           "durationFormatted": "04:57",
-          "views": 71,
+          "views": 72,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +480,7 @@
       "clusterId": "durg-saheli",
       "topic": "Durg Saheli",
       "videoCount": 4,
-      "trendScore": 34.0,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -339,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jnvotMfGrcg/hqdefault.jpg",
           "durationSeconds": 884,
           "durationFormatted": "14:44",
-          "views": 9725,
+          "views": 14318,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -354,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jnvotMfGrcg/hqdefault.jpg",
           "durationSeconds": 884,
           "durationFormatted": "14:44",
-          "views": 9725,
+          "views": 14318,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oZkyc0yMwZg/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 2607,
+          "views": 4594,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -384,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oZkyc0yMwZg/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 2607,
+          "views": 4594,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -393,10 +546,79 @@
       "latestUpdateAt": "2026-04-23T14:56:56Z"
     },
     {
-      "clusterId": "jaggi-case",
-      "topic": "Jaggi Case",
-      "videoCount": 5,
-      "trendScore": 33.8,
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 4,
+      "trendScore": 30.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "rzOXTzBBTfw",
+          "title": "#shorts  : कमलनाथ बनेंगे गेमचेंजर? तीसरी सीट पर फंसी कांग्रेस , हरियाणा जैसी चाल से खतरा!",
+          "description": "reels : कमलनाथ बनेंगे गेमचेंजर? तीसरी सीट पर फंसी कांग्रेस , हरियाणा ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-23T15:42:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/rzOXTzBBTfw/hqdefault.jpg",
+          "durationSeconds": 86,
+          "durationFormatted": "01:26",
+          "views": 1640,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "RrXTo_W6OsU",
+          "title": "#shorts : &#39;संन्यास&#39; या &#39;पब्लिसिटी स्टंट&#39;? हर्षा रिछारिया के संन्यास पर विवाद |  Zee MPCG",
+          "description": "reels : 'संन्यास' या 'पब्लिसिटी स्टंट'? हर्षा रिछारिया के संन्यास पर ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-23T18:12:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/RrXTo_W6OsU/hqdefault.jpg",
+          "durationSeconds": 83,
+          "durationFormatted": "01:23",
+          "views": 655,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "haYT1TzdP9w",
+          "title": "🔴LIVE :  Aapki Aawaz :बूंद बूंद के लिए जंग...पानी की आफत प्रचंड ! Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz :बूंद बूंद के लिए जंग...पानी की आफत प्रचंड ! Zee MPCG | Latest News एक ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T03:35:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/haYT1TzdP9w/hqdefault.jpg",
+          "durationSeconds": 1416,
+          "durationFormatted": "23:36",
+          "views": 189,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "nnzZSIHOczo",
+          "title": "🔴LIVE :  Aapki Aawaz : हर्षा, संन्यास और सवाल! |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : हर्षा, संन्यास और सवाल! | Zee MPCG | Latest News हर्षा रिछारिया के ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T02:59:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/nnzZSIHOczo/hqdefault.jpg",
+          "durationSeconds": 1450,
+          "durationFormatted": "24:10",
+          "views": 129,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-24T03:35:40Z"
+    },
+    {
+      "clusterId": "jaggi-murder",
+      "topic": "Jaggi Murder",
+      "videoCount": 4,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -408,7 +630,7 @@
           "thumbnail": "https://i.ytimg.com/vi/neNTEnmyGCs/hqdefault.jpg",
           "durationSeconds": 37024,
           "durationFormatted": "10:17:04",
-          "views": 10858,
+          "views": 11345,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -423,28 +645,13 @@
           "thumbnail": "https://i.ytimg.com/vi/50yxdF2E_uA/hqdefault.jpg",
           "durationSeconds": 36489,
           "durationFormatted": "10:08:09",
-          "views": 2060,
+          "views": 2102,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "CGq5eBcFDdA",
-          "title": "Jaggi Mu*der Case में सुप्रीम कोर्ट ने सुनाया बड़ा फैसला, Amit Jogi को लेकर बढ़ी सियासी हलचल तेज",
-          "description": "Jaggi Mu*der Case में सुप्रीम कोर्ट ने सुनाया बड़ा फैसला, Amit Jogi को लेकर बढ़ी ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-23T06:49:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/CGq5eBcFDdA/hqdefault.jpg",
-          "durationSeconds": 1147,
-          "durationFormatted": "19:07",
-          "views": 874,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "YK1gGKk86Mk",
           "title": "Jaggi Mur*der Case: Amit Jogi को ‘सुप्रीम’ राहत, कोर्ट ने उम्रकैद की सजा पर लगाई रोक #amitjogi",
           "description": "Jaggi Mur*der Case: Amit Jogi को 'सुप्रीम' राहत, कोर्ट ने उम्रकैद की सजा पर लगाई रोक ...",
@@ -453,13 +660,13 @@
           "thumbnail": "https://i.ytimg.com/vi/YK1gGKk86Mk/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 171,
-          "likes": 7,
+          "views": 265,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "LBB1pAgObrE",
           "title": "5 का पंच: आज की 5 बड़ी खबरें | Trump ने पार की हद! Assembly Elections 2026 | Jaggi Mur*der Case...",
           "description": "5 का पंच: आज की 5 बड़ी खबरें | Trump ने पार की हद! Assembly Elections 2026 | Jaggi Mur*der Case.",
@@ -468,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LBB1pAgObrE/hqdefault.jpg",
           "durationSeconds": 1485,
           "durationFormatted": "24:45",
-          "views": 11,
+          "views": 18,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -477,94 +684,10 @@
       "latestUpdateAt": "2026-04-23T16:47:49Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 32.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "rzOXTzBBTfw",
-          "title": "#shorts  : कमलनाथ बनेंगे गेमचेंजर? तीसरी सीट पर फंसी कांग्रेस , हरियाणा जैसी चाल से खतरा!",
-          "description": "reels : कमलनाथ बनेंगे गेमचेंजर? तीसरी सीट पर फंसी कांग्रेस , हरियाणा ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-23T15:42:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/rzOXTzBBTfw/hqdefault.jpg",
-          "durationSeconds": 86,
-          "durationFormatted": "01:26",
-          "views": 1546,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "FtZ9N0im-ko",
-          "title": "#shorts : चुनाव के बाद बढ़ेंगे पेट्रोल के दाम ? सच या अफवाह ? ग्लोबल टेंशन का पड़ेगा असर ? Zee MPCG",
-          "description": "shorts : चुनाव के बाद बढ़ेंगे पेट्रोल के दाम ? सच या अफवाह ? ग्लोबल टेंशन ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-23T13:16:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/FtZ9N0im-ko/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 708,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "RrXTo_W6OsU",
-          "title": "#shorts : &#39;संन्यास&#39; या &#39;पब्लिसिटी स्टंट&#39;? हर्षा रिछारिया के संन्यास पर विवाद |  Zee MPCG",
-          "description": "reels : 'संन्यास' या 'पब्लिसिटी स्टंट'? हर्षा रिछारिया के संन्यास पर ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-23T18:12:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/RrXTo_W6OsU/hqdefault.jpg",
-          "durationSeconds": 83,
-          "durationFormatted": "01:23",
-          "views": 349,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "haYT1TzdP9w",
-          "title": "🔴LIVE :  Aapki Aawaz :बूंद बूंद के लिए जंग...पानी की आफत प्रचंड ! Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz :बूंद बूंद के लिए जंग...पानी की आफत प्रचंड ! Zee MPCG | Latest News एक ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-23T14:54:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/haYT1TzdP9w/hqdefault.jpg",
-          "durationSeconds": 1402,
-          "durationFormatted": "23:22",
-          "views": 187,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "nnzZSIHOczo",
-          "title": "🔴LIVE :  Aapki Aawaz : हर्षा, संन्यास और सवाल! |  Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz : हर्षा, संन्यास और सवाल! | Zee MPCG | Latest News हर्षा रिछारिया के ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-23T14:25:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/nnzZSIHOczo/hqdefault.jpg",
-          "durationSeconds": 1437,
-          "durationFormatted": "23:57",
-          "views": 119,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-23T18:12:28Z"
-    },
-    {
       "clusterId": "अपमन-चनव",
       "topic": "अपमान चुनाव",
       "videoCount": 4,
-      "trendScore": 30.0,
+      "trendScore": 26.9,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +699,7 @@
           "thumbnail": "https://i.ytimg.com/vi/j6duIgDkKsQ/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 2383,
+          "views": 2408,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -591,8 +714,8 @@
           "thumbnail": "https://i.ytimg.com/vi/z-zhpVHBqHs/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 794,
-          "likes": 8,
+          "views": 991,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -606,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/01h836eOOcQ/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 710,
+          "views": 734,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -621,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iUAE7xQz7iM/hqdefault.jpg",
           "durationSeconds": 150,
           "durationFormatted": "02:30",
-          "views": 521,
+          "views": 549,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -630,103 +753,10 @@
       "latestUpdateAt": "2026-04-23T12:55:56Z"
     },
     {
-      "clusterId": "पहल-छततसगढ",
-      "topic": "पहले छत्तीसगढ़",
-      "videoCount": 4,
-      "trendScore": 29.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "2lnhLvtVaU8",
-          "title": "छत्तीसगढ़ हाईकोर्ट का स्कूल टीचर्स के पक्ष में फैसला, संविलियन से पहले की सेवा पेंशन गणना में शामिल",
-          "description": "छत्तीसगढ़ में हजारों स्कूल शिक्षकों के पक्ष में हाईकोर्ट का फैसला ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-23T11:48:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/2lnhLvtVaU8/hqdefault.jpg",
-          "durationSeconds": 26,
-          "durationFormatted": "00:26",
-          "views": 4449,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "L2xzQY22YU0",
-          "title": "कुछ सवालों के पहले भागते नज़र आए आयुक्त साहब। ऑफिस में गुटख! खाकर थूकने वालों पर कार्रव!ई कब तक?",
-          "description": "कुछ सवालों के पहले भागते नज़र आए आयुक्त साहब। ऑफिस में गुटख! खाकर ...",
-          "channelTitle": "Aaj Bhilai ",
-          "publishedAt": "2026-04-22T20:28:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/L2xzQY22YU0/hqdefault.jpg",
-          "durationSeconds": 117,
-          "durationFormatted": "01:57",
-          "views": 618,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "7HDb4Gu9rUI",
-          "title": "दुर्ग निगम के इतिहास में पहली बार शक्ति नगर तालाब की सफाई  के लिए स्वीकृत हुए 45 लाख रुपए",
-          "description": "दुर्ग निगम के इतिहास में पहली बार शक्ति नगर तालाब की सफाई के लिए ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-23T13:00:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/7HDb4Gu9rUI/hqdefault.jpg",
-          "durationSeconds": 682,
-          "durationFormatted": "11:22",
-          "views": 43,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
-          "videoId": "SXUug57U56U",
-          "title": "पहला चरणः बंगाल में बूथ कैप्चरिंग की कोशिश पड़ी भारी  वोटिंग के बीच युद्ध का मैदान बना बंगाल!",
-          "description": "पश्चिम बंगाल में चुनाव के दौरान बूथ कैप्चरिंग की कोशिश ने माहौल को ...",
-          "channelTitle": "The Rural Press",
-          "publishedAt": "2026-04-23T14:38:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/SXUug57U56U/hqdefault.jpg",
-          "durationSeconds": 309,
-          "durationFormatted": "05:09",
-          "views": 7,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-23T14:38:22Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 27.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "kXM3ctSYp1A",
-          "title": "Divyanka Death Mystery : 30 साल की उम्र में दबे पाँव मौत आ गई ! | हरियाणा की फिल्मों से बनी पहचान",
-          "description": "Divyanka Death Mystery : 30 साल की उम्र में दबे पांव मौत आ गई ! | हरियाणा की फिल्मों ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-23T13:57:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/kXM3ctSYp1A/hqdefault.jpg",
-          "durationSeconds": 143,
-          "durationFormatted": "02:23",
-          "views": 1459,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-04-23T13:57:38Z"
-    },
-    {
       "clusterId": "balod-raipur",
       "topic": "Balod Raipur",
       "videoCount": 5,
-      "trendScore": 20.3,
+      "trendScore": 24.4,
       "topVideos": [
         {
           "index": 1,
@@ -738,7 +768,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ExO7emMP0QY/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 10,
+          "views": 20,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -768,13 +798,28 @@
           "thumbnail": "https://i.ytimg.com/vi/u5zMy_JTCt8/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 2,
-          "likes": 0,
+          "views": 3,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "rhropYaYbZ0",
+          "title": "Raipur News : कांग्रेस पर संतोष पांडेय का तीखा हमला, बयान पर विवाद",
+          "description": "रायपुर में बीजेपी सांसद संतोष पांडेय ने कांग्रेस के बयान पर कड़ी ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-23T13:25:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/rhropYaYbZ0/hqdefault.jpg",
+          "durationSeconds": 111,
+          "durationFormatted": "01:51",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "Oqhep-T0VEQ",
           "title": "Raipur News : आरक्षण मुद्दे पर कांग्रेस का राज्य सरकार पर हमला",
           "description": "रायपुर में कांग्रेस ने आरक्षण और सरकारी आदेश को लेकर राज्य सरकार पर ...",
@@ -787,24 +832,33 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
-        },
+        }
+      ],
+      "latestUpdateAt": "2026-04-23T14:41:42Z"
+    },
+    {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 23.5,
+      "topVideos": [
         {
-          "index": 5,
-          "videoId": "rhropYaYbZ0",
-          "title": "Raipur News : कांग्रेस पर संतोष पांडेय का तीखा हमला, बयान पर विवाद",
-          "description": "रायपुर में बीजेपी सांसद संतोष पांडेय ने कांग्रेस के बयान पर कड़ी ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-23T13:25:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/rhropYaYbZ0/hqdefault.jpg",
-          "durationSeconds": 111,
-          "durationFormatted": "01:51",
-          "views": 0,
-          "likes": 0,
+          "index": 1,
+          "videoId": "kXM3ctSYp1A",
+          "title": "Divyanka Death Mystery : 30 साल की उम्र में दबे पाँव मौत आ गई ! | हरियाणा की फिल्मों से बनी पहचान",
+          "description": "Divyanka Death Mystery : 30 साल की उम्र में दबे पांव मौत आ गई ! | हरियाणा की फिल्मों ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-23T13:57:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/kXM3ctSYp1A/hqdefault.jpg",
+          "durationSeconds": 143,
+          "durationFormatted": "02:23",
+          "views": 1586,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-04-23T14:41:42Z"
+      "latestUpdateAt": "2026-04-23T13:57:38Z"
     }
   ]
 }
