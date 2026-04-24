@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-24T14:12:54.498051Z",
-  "clusterCount": 6,
+  "generatedAt": "2026-04-24T15:45:04.084020Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 57,
-      "trendScore": 64.4,
+      "videoCount": 55,
+      "trendScore": 64.6,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1YfGMvcfFLk/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 33120,
-          "likes": 752,
+          "views": 35008,
+          "likes": 785,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/neurCgE5K3Q/hqdefault.jpg",
           "durationSeconds": 1592,
           "durationFormatted": "26:32",
-          "views": 18644,
-          "likes": 269,
+          "views": 19127,
+          "likes": 275,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Chg0zvoA_tw/hqdefault.jpg",
           "durationSeconds": 775,
           "durationFormatted": "12:55",
-          "views": 14359,
-          "likes": 517,
+          "views": 14924,
+          "likes": 526,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V4VyWNvEc9Y/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 8392,
-          "likes": 222,
+          "views": 9138,
+          "likes": 232,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/kPORBOR9MM0/hqdefault.jpg",
           "durationSeconds": 697,
           "durationFormatted": "11:37",
-          "views": 6661,
-          "likes": 108,
+          "views": 6965,
+          "likes": 110,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-24T13:53:41Z"
+      "latestUpdateAt": "2026-04-24T15:41:46Z"
     },
     {
-      "clusterId": "रजनदगव-चतरगपत",
-      "topic": "राजनांदगांव चित्रगुप्त",
-      "videoCount": 18,
-      "trendScore": 59.0,
+      "clusterId": "रजनदगव-कररवई",
+      "topic": "राजनांदगांव कार्रवाई",
+      "videoCount": 17,
+      "trendScore": 51.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,43 +102,28 @@
           "thumbnail": "https://i.ytimg.com/vi/MGrW1PeLjmA/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 37,
+          "views": 45,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
-          "videoId": "GGoV6WlfhBk",
-          "title": "मुंगेली-लोरमी में तेज रफ्तार का कहर ,सड़क हादसे में युवक की मौ.T",
-          "description": "chhattisgarhnews #madhyapradehnews #mungelinews .",
+          "videoId": "dnJumf9k0Co",
+          "title": "जांजगीर-चांपा: महिलाओं को 33% आरक्षण पर BJP का बड़ा बयान ,कांग्रेस पर आरोप",
+          "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-24T08:59:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/GGoV6WlfhBk/hqdefault.jpg",
-          "durationSeconds": 56,
-          "durationFormatted": "00:56",
-          "views": 6,
+          "publishedAt": "2026-04-24T13:58:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/dnJumf9k0Co/hqdefault.jpg",
+          "durationSeconds": 137,
+          "durationFormatted": "02:17",
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "sia4a4g7ibo",
-          "title": "दुर्ग में अतिक्रमण हटाने की बड़ी कार्रवाई , 112 लोगों को नोटिस जारी",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-24T12:23:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/sia4a4g7ibo/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
           "videoId": "zQvnaeOKzjw",
           "title": "तिल्दा नेवरा पुलिस की बड़ी कार्रवाई ,अवैध शराब के साथ 2 आरोपी गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #tildanews .",
@@ -147,25 +132,40 @@
           "thumbnail": "https://i.ytimg.com/vi/zQvnaeOKzjw/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 4,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "sia4a4g7ibo",
-          "title": "दुर्ग में अतिक्रमण हटाने की बड़ी कार्रवाई , 112 लोगों को नोटिस जारी",
+          "index": 4,
+          "videoId": "PhkEEu6TOeI",
+          "title": "दुर्ग - सुपेला पुलिस की बड़ी कार्रवाई , 6 फरार वारंटी गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-24T12:23:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/sia4a4g7ibo/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 4,
-          "likes": 0,
+          "publishedAt": "2026-04-24T12:23:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/PhkEEu6TOeI/hqdefault.jpg",
+          "durationSeconds": 50,
+          "durationFormatted": "00:50",
+          "views": 7,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "Civic"
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "PhkEEu6TOeI",
+          "title": "दुर्ग - सुपेला पुलिस की बड़ी कार्रवाई , 6 फरार वारंटी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-24T12:23:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/PhkEEu6TOeI/hqdefault.jpg",
+          "durationSeconds": 50,
+          "durationFormatted": "00:50",
+          "views": 7,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-04-24T13:58:48Z"
@@ -173,8 +173,8 @@
     {
       "clusterId": "bjp-aap",
       "topic": "BJP AAP",
-      "videoCount": 15,
-      "trendScore": 46.8,
+      "videoCount": 16,
+      "trendScore": 48.0,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UJUs2uq7bIc/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 9631,
+          "views": 12849,
           "likes": 49,
           "videoType": "VOD",
           "genre": "Politics"
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v-PKjGEYIm0/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 2288,
+          "views": 3047,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xoB8W1a_mBI/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 1761,
-          "likes": 6,
+          "views": 1855,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jFEfEfqINsg/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 1068,
-          "likes": 11,
+          "views": 1349,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -246,19 +246,103 @@
           "thumbnail": "https://i.ytimg.com/vi/L17oX8bxTt8/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 598,
-          "likes": 9,
+          "views": 600,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-24T13:48:09Z"
+      "latestUpdateAt": "2026-04-24T15:30:00Z"
+    },
+    {
+      "clusterId": "bhaskar-पलस",
+      "topic": "Bhaskar पुलिस",
+      "videoCount": 5,
+      "trendScore": 41.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "rDJ05gh6Q-M",
+          "title": "पुलिस आरक्षक उज्ज्वल दीवान ने SP विजय अग्रवाल पर लगाये गंभीर आरोप | CG Bhaskar",
+          "description": "पुलिस आरक्षक उज्ज्वल दीवान ने SP विजय अग्रवाल पर लगाये गंभीर आरोप | CG ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-24T09:01:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/rDJ05gh6Q-M/hqdefault.jpg",
+          "durationSeconds": 178,
+          "durationFormatted": "02:58",
+          "views": 2890,
+          "likes": 124,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "P4DjhqsLm_U",
+          "title": "केदारनाथ में श्रद्धालु की मौत: शv ले जाने के लिए 55 हजार वसूले? | CG Bhaskar",
+          "description": "केदारनाथ में श्रद्धालु की मौत: शv ले जाने के लिए 55 हजार वसूले? | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-24T08:27:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/P4DjhqsLm_U/hqdefault.jpg",
+          "durationSeconds": 112,
+          "durationFormatted": "01:52",
+          "views": 576,
+          "likes": 22,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "gwu97rX0QEY",
+          "title": "राजधानी रायपुर में देर रात पुलिस ने की चेकिंग, कई आरोपी पकड़े गए | kanha | CG Bhaskar",
+          "description": "राजधानी रायपुर में देर रात पुलिस ने की चेकिंग, कई आरोपी पकड़े गए | kanha ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-24T13:30:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/gwu97rX0QEY/hqdefault.jpg",
+          "durationSeconds": 293,
+          "durationFormatted": "04:53",
+          "views": 30,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "9IVZE0py5Ik",
+          "title": "MP News :मध्य प्रदेश में बढ़े लापता केस, 14–25 उम्र की लड़कियां सबसे ज्यादा प्रभावित |",
+          "description": "मध्य प्रदेश पुलिस के ताजा डेटा में बड़ा खुलासा हुआ है, जिसमें पिछले ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T13:04:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/9IVZE0py5Ik/hqdefault.jpg",
+          "durationSeconds": 371,
+          "durationFormatted": "06:11",
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "QtRAtDkAiM0",
+          "title": "27 अप्रैल को खुलेगा देश का सबसे बड़ा गुफा, होंगे भोले के दर्शन | CG Bhaskar",
+          "description": "27 अप्रैल को खुलेगा देश का सबसे बड़ा गुफा, होंगे भोले के दर्शन | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-24T15:40:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/QtRAtDkAiM0/hqdefault.jpg",
+          "durationSeconds": 99,
+          "durationFormatted": "01:39",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-24T15:40:01Z"
     },
     {
       "clusterId": "छत-ठक",
       "topic": "छाती ठोक",
-      "videoCount": 5,
-      "trendScore": 38.2,
+      "videoCount": 4,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9DSVBssg1gk/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 4396,
-          "likes": 119,
+          "views": 8110,
+          "likes": 226,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,28 +369,13 @@
           "thumbnail": "https://i.ytimg.com/vi/KyRViX_8Et8/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 4,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "qvHw_6U07Lw",
-          "title": "बलरामपुर में पेट्रोल-डीजल संकट गहराया, पंप बंद, सड़कों पर थमी रफ्तार",
-          "description": "छत्तीसगढ़ के बलरामपुर जिले में पेट्रोल-डीजल की किल्लत ने हालात ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-24T07:30:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/qvHw_6U07Lw/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "5iiA4S7z8to",
           "title": "Balod News : गुजरात शिविर में बालोद के रोवर रेंजरों ने बढ़ाया छत्तीसगढ़ का मान",
           "description": "बालोद जिले के रोवर-रेंजरों ने गुजरात के सासण गिर में आयोजित ...",
@@ -315,13 +384,13 @@
           "thumbnail": "https://i.ytimg.com/vi/5iiA4S7z8to/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "CEij4rYZE8s",
           "title": "बलरामपुर के बरदर पंचायत में फर्जी हस्ताक्षर से भ्रष्टाचार का आरोप, जांच के आदेश",
           "description": "छत्तीसगढ़ के बलरामपुर जिले के बरदर पंचायत में भ्रष्टाचार का बड़ा ...",
@@ -330,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CEij4rYZE8s/hqdefault.jpg",
           "durationSeconds": 210,
           "durationFormatted": "03:30",
-          "views": 0,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -339,79 +408,79 @@
       "latestUpdateAt": "2026-04-24T12:40:04Z"
     },
     {
-      "clusterId": "durg-bharti",
-      "topic": "Durg Bharti",
+      "clusterId": "faizan-doctor",
+      "topic": "Faizan Doctor",
       "videoCount": 4,
-      "trendScore": 30.8,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "oZkyc0yMwZg",
-          "title": "Durg के Saheli Jwellers में महिला के साथ मारपीट, कपड़े तक फाड़ दिए! Durg Hindi News || Bharti Media",
-          "description": "Durg के Saheli Jwellers में महिला के साथ मारपीट, कपड़े तक फाड़ दिए! Durg Hindi News ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-04-23T14:56:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/oZkyc0yMwZg/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 18309,
+          "videoId": "Nw4xc37uBWw",
+          "title": "डॉ.अंबेडकर का अपमान और ज़मानत, मूलनिवासी संघ की चिंता, मिले Video! || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-04-24T08:36:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/Nw4xc37uBWw/hqdefault.jpg",
+          "durationSeconds": 911,
+          "durationFormatted": "15:11",
+          "views": 1131,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "oZkyc0yMwZg",
-          "title": "Durg के Saheli Jwellers में महिला के साथ मारपीट, कपड़े तक फाड़ दिए! Durg Hindi News || Bharti Media",
-          "description": "Durg के Saheli Jwellers में महिला के साथ मारपीट, कपड़े तक फाड़ दिए! Durg Hindi News ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-04-23T14:56:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/oZkyc0yMwZg/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 18309,
+          "videoId": "Nw4xc37uBWw",
+          "title": "डॉ.अंबेडकर का अपमान और ज़मानत, मूलनिवासी संघ की चिंता, मिले Video! || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-04-24T08:36:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/Nw4xc37uBWw/hqdefault.jpg",
+          "durationSeconds": 911,
+          "durationFormatted": "15:11",
+          "views": 1131,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "4NSn7fB09Uc",
-          "title": "Durg के Anjora में सरपंच के साथ ग्रामीणों ने किया हंगामा ! Durg Hindi News || Bharti Media Network",
-          "description": "Durg के Anjora में सरपंच के साथ ग्रामीणों ने किया हंगामा ! Durg Hindi News || Bharti ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-04-24T04:27:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/4NSn7fB09Uc/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 2468,
+          "videoId": "f7qM9stUtIs",
+          "title": "Doctor से Miss India बनी Anuska...  Bhilai की बेटी का सफर नहीं था आसान || KP News || Shivali",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-04-24T14:26:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/f7qM9stUtIs/hqdefault.jpg",
+          "durationSeconds": 1373,
+          "durationFormatted": "22:53",
+          "views": 119,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "4NSn7fB09Uc",
-          "title": "Durg के Anjora में सरपंच के साथ ग्रामीणों ने किया हंगामा ! Durg Hindi News || Bharti Media Network",
-          "description": "Durg के Anjora में सरपंच के साथ ग्रामीणों ने किया हंगामा ! Durg Hindi News || Bharti ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-04-24T04:27:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/4NSn7fB09Uc/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 2468,
+          "videoId": "f7qM9stUtIs",
+          "title": "Doctor से Miss India बनी Anuska...  Bhilai की बेटी का सफर नहीं था आसान || KP News || Shivali",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-04-24T14:26:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/f7qM9stUtIs/hqdefault.jpg",
+          "durationSeconds": 1373,
+          "durationFormatted": "22:53",
+          "views": 119,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-24T04:27:10Z"
+      "latestUpdateAt": "2026-04-24T14:26:16Z"
     },
     {
-      "clusterId": "govtemployees-chhattisgarh",
-      "topic": "govtemployees chhattisgarh",
+      "clusterId": "gehu-kharidi",
+      "topic": "Gehu Kharidi",
       "videoCount": 5,
-      "trendScore": 27.8,
+      "trendScore": 27.7,
       "topVideos": [
         {
           "index": 1,
@@ -430,6 +499,21 @@
         },
         {
           "index": 2,
+          "videoId": "eVq2hxKbwTY",
+          "title": "MP Gehu Kharidi: MP में गेहूं खरीदी का कोटा बढ़ा, केंद्र सरकार ने 100 लाख मीट्रिक टन की मंजूरी दी",
+          "description": "केंद्र सरकार ने मध्यप्रदेश में गेहूं खरीदा का कोटा बढ़ा दिया है.",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-24T14:15:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/eVq2hxKbwTY/hqdefault.jpg",
+          "durationSeconds": 229,
+          "durationFormatted": "03:49",
+          "views": 67,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
           "videoId": "uuSWc_t2TTI",
           "title": "Dongargarh में अवैध शराब से परेशान गांव, अब खुद सरकारी शराब दुकान खोलने की अनोखी मांग उठाई",
           "description": "Dongargarh में अवैध शराब से परेशान गांव, अब खुद सरकारी शराब दुकान खोलने ...",
@@ -438,22 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uuSWc_t2TTI/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 10,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "cUXghNtOwEY",
-          "title": "MP News : इंदौर की जेनिथ ड्रग्स लिमिटेड की दवा पर कार्रवाई, सप्लाई बैच पर रोक | India News MP",
-          "description": "सरकारी अस्पतालों में सप्लाई हुई बच्चों की पैरासिटामोल सिरप का एक ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T11:50:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/cUXghNtOwEY/hqdefault.jpg",
-          "durationSeconds": 185,
-          "durationFormatted": "03:05",
-          "views": 9,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,28 +537,52 @@
           "thumbnail": "https://i.ytimg.com/vi/JV_ONUXRi5g/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 7,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "eVq2hxKbwTY",
-          "title": "MP Gehu Kharidi: MP में गेहूं खरीदी का कोटा बढ़ा, केंद्र सरकार ने 100 लाख मीट्रिक टन की मंजूरी दी",
-          "description": "केंद्र सरकार ने मध्यप्रदेश में गेहूं खरीदा का कोटा बढ़ा दिया है.",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-24T13:51:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/eVq2hxKbwTY/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "00:00",
-          "views": 0,
+          "videoId": "cUXghNtOwEY",
+          "title": "MP News : इंदौर की जेनिथ ड्रग्स लिमिटेड की दवा पर कार्रवाई, सप्लाई बैच पर रोक | India News MP",
+          "description": "सरकारी अस्पतालों में सप्लाई हुई बच्चों की पैरासिटामोल सिरप का एक ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T11:50:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/cUXghNtOwEY/hqdefault.jpg",
+          "durationSeconds": 185,
+          "durationFormatted": "03:05",
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-24T13:51:05Z"
+      "latestUpdateAt": "2026-04-24T14:15:06Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 21.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "DfKG-3vCaCc",
+          "title": "Summer Holidays : बैतूल में गर्मी का टॉर्चर | स्कूली बच्चे परेशान, स्कूल बंद करने की मांग | Zee MPCG",
+          "description": "Betul : बैतूल में भीषण गर्मी का टॉर्चर , गर्मी के सितम से स्कूली बच्चे ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T15:11:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/DfKG-3vCaCc/hqdefault.jpg",
+          "durationSeconds": 141,
+          "durationFormatted": "02:21",
+          "views": 16,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-24T15:11:49Z"
     }
   ]
 }
