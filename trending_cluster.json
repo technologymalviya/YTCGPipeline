@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-24T17:28:33.302916Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-04-24T19:26:17.704577Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 60,
-      "trendScore": 64.4,
+      "videoCount": 63,
+      "trendScore": 63.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1YfGMvcfFLk/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 37224,
-          "likes": 810,
+          "views": 39819,
+          "likes": 818,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/neurCgE5K3Q/hqdefault.jpg",
           "durationSeconds": 1592,
           "durationFormatted": "26:32",
-          "views": 20173,
+          "views": 20843,
           "likes": 277,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Chg0zvoA_tw/hqdefault.jpg",
           "durationSeconds": 775,
           "durationFormatted": "12:55",
-          "views": 15975,
-          "likes": 537,
+          "views": 16609,
+          "likes": 542,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/V4VyWNvEc9Y/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 9778,
-          "likes": 242,
+          "views": 10365,
+          "likes": 253,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "kPORBOR9MM0",
-          "title": "24 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "24 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-04-23T23:24:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/kPORBOR9MM0/hqdefault.jpg",
-          "durationSeconds": 697,
-          "durationFormatted": "11:37",
-          "views": 7472,
-          "likes": 110,
+          "videoId": "vqoh7MiAfe0",
+          "title": "Bhopal: सीएम मोहन यादव आज रात 9 बजे करेंगे संबोधन, सोशल मीडिया पर होगा सीधा प्रसारण...",
+          "description": "मध्यप्रदेश के मुख्यमंत्री डॉ. मोहन यादव आज यानी 24 अप्रैल की रात 9 बजे ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-24T09:31:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/vqoh7MiAfe0/hqdefault.jpg",
+          "durationSeconds": 131,
+          "durationFormatted": "02:11",
+          "views": 8185,
+          "likes": 101,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-24T17:04:11Z"
+      "latestUpdateAt": "2026-04-24T18:23:16Z"
     },
     {
-      "clusterId": "कररवई-रजनदगव",
-      "topic": "कार्रवाई राजनांदगांव",
+      "clusterId": "रजनदगव-कररवई",
+      "topic": "राजनांदगांव कार्रवाई",
       "videoCount": 17,
-      "trendScore": 53.4,
+      "trendScore": 52.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,13 +102,28 @@
           "thumbnail": "https://i.ytimg.com/vi/MGrW1PeLjmA/hqdefault.jpg",
           "durationSeconds": 310,
           "durationFormatted": "05:10",
-          "views": 45,
+          "views": 60,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 2,
+          "videoId": "51PJOEkH4Cc",
+          "title": "राजनांदगांव में अद्भुत तपस्या , अग्नि के बीच 41 दिन का तप",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-24T12:10:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/51PJOEkH4Cc/hqdefault.jpg",
+          "durationSeconds": 343,
+          "durationFormatted": "05:43",
+          "views": 24,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "dnJumf9k0Co",
           "title": "जांजगीर-चांपा: महिलाओं को 33% आरक्षण पर BJP का बड़ा बयान ,कांग्रेस पर आरोप",
           "description": "chhattisgarhnews #madhyapradehnews #janjgir_champa .",
@@ -123,21 +138,6 @@
           "genre": "Politics"
         },
         {
-          "index": 3,
-          "videoId": "51PJOEkH4Cc",
-          "title": "राजनांदगांव में अद्भुत तपस्या , अग्नि के बीच 41 दिन का तप",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-24T12:10:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/51PJOEkH4Cc/hqdefault.jpg",
-          "durationSeconds": 343,
-          "durationFormatted": "05:43",
-          "views": 12,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "index": 4,
           "videoId": "zQvnaeOKzjw",
           "title": "तिल्दा नेवरा पुलिस की बड़ी कार्रवाई ,अवैध शराब के साथ 2 आरोपी गिरफ्तार",
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zQvnaeOKzjw/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 8,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PhkEEu6TOeI/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 8,
+          "views": 7,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -171,10 +171,94 @@
       "latestUpdateAt": "2026-04-24T13:58:48Z"
     },
     {
+      "clusterId": "bjp-raghav",
+      "topic": "BJP Raghav",
+      "videoCount": 10,
+      "trendScore": 40.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "UJUs2uq7bIc",
+          "title": "आप&#39; पार्टी छोड़ भाजपा में शामिल हुए राघव चड्ढा",
+          "description": "आप' पार्टी छोड़ भाजपा में शामिल हुए राघव चड्ढा राघव चड्ढा ने आम आदमी ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-24T11:12:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/UJUs2uq7bIc/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 12994,
+          "likes": 49,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "v-PKjGEYIm0",
+          "title": "Raghav Chadha Join BJP : राघव चड्ढा आप छोड़ बीजेपी में हुए शामिल #raghavchadha #aap #bjp #delhi",
+          "description": "IBC24, Raghav Chadha Join BJP : राघव चड्ढा आप छोड़ बीजेपी में हुए शामिल #raghavchadha ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-24T13:48:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/v-PKjGEYIm0/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 5303,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "MTXiUjWq0ls",
+          "title": "Raghav Chadha in BJP : AAP में बड़ा टूट? राघव चड्ढा के इस्तीफे और 7 सांसदों के जाने का दावा!Zee MPCG",
+          "description": "Tarkash : आम आदमी पार्टी को बड़ा झटका ! राघव चड्ढा ने छोड़ी आम आदमी पार्टी, ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T16:45:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/MTXiUjWq0ls/hqdefault.jpg",
+          "durationSeconds": 142,
+          "durationFormatted": "02:22",
+          "views": 1839,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "Jw8JJzC8DQs",
+          "title": "Raghav Chadha की BJP एंट्री | Nitin Nabin ने किया स्वागत,AAP को बड़ा झटका |Arvind Kejriwal |Politics",
+          "description": "IBC24, Raghav Chadha की BJP एंट्री | Nitin Nabin ने किया स्वागत,AAP को बड़ा झटका |Arvind ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-24T13:24:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/Jw8JJzC8DQs/hqdefault.jpg",
+          "durationSeconds": 97,
+          "durationFormatted": "01:37",
+          "views": 720,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "Lj71i3rFw8k",
+          "title": "Raghav Chadha Quits AAP: &#39;आप&#39; में बगवात..7 ने छोड़ा साथ! AAP का राज्यसभा से गेम ओवर?",
+          "description": "IBC24, Raghav Chadha Quits AAP: 'आप' में बगवात..7 ने छोड़ा साथ! AAP का राज्यसभा से गेम ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-24T17:32:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/Lj71i3rFw8k/hqdefault.jpg",
+          "durationSeconds": 723,
+          "durationFormatted": "12:03",
+          "views": 256,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-24T17:32:18Z"
+    },
+    {
       "clusterId": "bhaskar-पलस",
       "topic": "Bhaskar पुलिस",
       "videoCount": 5,
-      "trendScore": 40.4,
+      "trendScore": 39.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rDJ05gh6Q-M/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 3022,
-          "likes": 133,
+          "views": 3182,
+          "likes": 139,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -201,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P4DjhqsLm_U/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 684,
+          "views": 683,
           "likes": 24,
           "videoType": "VOD",
           "genre": "Crime"
@@ -216,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QtRAtDkAiM0/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 97,
-          "likes": 6,
+          "views": 160,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gwu97rX0QEY/hqdefault.jpg",
           "durationSeconds": 293,
           "durationFormatted": "04:53",
-          "views": 29,
+          "views": 67,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -246,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9IVZE0py5Ik/hqdefault.jpg",
           "durationSeconds": 371,
           "durationFormatted": "06:11",
-          "views": 9,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -258,7 +342,7 @@
       "clusterId": "छत-ठक",
       "topic": "छाती ठोक",
       "videoCount": 4,
-      "trendScore": 37.5,
+      "trendScore": 35.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9DSVBssg1gk/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 12040,
-          "likes": 308,
+          "views": 17845,
+          "likes": 332,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KyRViX_8Et8/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 11,
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -324,94 +408,10 @@
       "latestUpdateAt": "2026-04-24T12:40:04Z"
     },
     {
-      "clusterId": "bjp-raghav",
-      "topic": "BJP Raghav",
-      "videoCount": 7,
-      "trendScore": 35.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "v-PKjGEYIm0",
-          "title": "Raghav Chadha Join BJP : राघव चड्ढा आप छोड़ बीजेपी में हुए शामिल #raghavchadha #aap #bjp #delhi",
-          "description": "IBC24, Raghav Chadha Join BJP : राघव चड्ढा आप छोड़ बीजेपी में हुए शामिल #raghavchadha ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-24T13:48:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/v-PKjGEYIm0/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 4486,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "MTXiUjWq0ls",
-          "title": "Raghav Chadha in BJP : AAP में बड़ा टूट? राघव चड्ढा के इस्तीफे और 7 सांसदों के जाने का दावा!Zee MPCG",
-          "description": "Tarkash : आम आदमी पार्टी को बड़ा झटका ! राघव चड्ढा ने छोड़ी आम आदमी पार्टी, ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T16:45:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/MTXiUjWq0ls/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 902,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "Jw8JJzC8DQs",
-          "title": "Raghav Chadha की BJP एंट्री | Nitin Nabin ने किया स्वागत,AAP को बड़ा झटका |Arvind Kejriwal |Politics",
-          "description": "IBC24, Raghav Chadha की BJP एंट्री | Nitin Nabin ने किया स्वागत,AAP को बड़ा झटका |Arvind ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-24T13:24:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/Jw8JJzC8DQs/hqdefault.jpg",
-          "durationSeconds": 97,
-          "durationFormatted": "01:37",
-          "views": 608,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "WsaAt_WEh2Y",
-          "title": "AAP Party को बड़ा झटका | Raghav Chadha, Ashok Mittal और Sandeep Pathak BJP में शामिल",
-          "description": "AAP Party को बड़ा झटका | Raghav Chadha, Ashok Mittal और Sandeep Pathak BJP में शामिल #AAP #BJP ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-24T16:15:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/WsaAt_WEh2Y/hqdefault.jpg",
-          "durationSeconds": 320,
-          "durationFormatted": "05:20",
-          "views": 28,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "q2ABk7AUY1k",
-          "title": "5 का पंच । AAP को बड़ा झटका ।  Raghav Chadha । PM Modi का बंगाल दौरा। नकली घी का भंडाफोड़!",
-          "description": "5 का पंच । AAP को बड़ा झटका । Raghav Chadha । PM Modi का बंगाल दौरा। नकली घी का ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-24T12:23:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/q2ABk7AUY1k/hqdefault.jpg",
-          "durationSeconds": 1412,
-          "durationFormatted": "23:32",
-          "views": 15,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-24T16:45:55Z"
-    },
-    {
       "clusterId": "faizan-doctor",
       "topic": "Faizan Doctor",
       "videoCount": 4,
-      "trendScore": 30.2,
+      "trendScore": 29.4,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nw4xc37uBWw/hqdefault.jpg",
           "durationSeconds": 911,
           "durationFormatted": "15:11",
-          "views": 1359,
+          "views": 1515,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nw4xc37uBWw/hqdefault.jpg",
           "durationSeconds": 911,
           "durationFormatted": "15:11",
-          "views": 1359,
+          "views": 1515,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f7qM9stUtIs/hqdefault.jpg",
           "durationSeconds": 1373,
           "durationFormatted": "22:53",
-          "views": 251,
+          "views": 365,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f7qM9stUtIs/hqdefault.jpg",
           "durationSeconds": 1373,
           "durationFormatted": "22:53",
-          "views": 251,
+          "views": 365,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -477,79 +477,10 @@
       "latestUpdateAt": "2026-04-24T14:26:16Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 4,
-      "trendScore": 29.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Q8nP6Qg2lho",
-          "title": "🔴LIVE : Tarkash : खतरे में लोगों की सेहत, नहीं लिया सबक ! | Latest News  | Zee MPCG",
-          "description": "LIVE : Tarkash : खतरे में लोगों की सेहत, नहीं लिया सबक ! | Latest News | Zee MPCG करोड़ों ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T11:21:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q8nP6Qg2lho/hqdefault.jpg",
-          "durationSeconds": 1248,
-          "durationFormatted": "20:48",
-          "views": 85,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "GGzjQuU-0g0",
-          "title": "🔴LIVE : Prime Time @9 : फिर खतरे में लोगों की सेहत ..नहीं लिया सबक ! Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : फिर खतरे में लोगों की सेहत ..नहीं लिया सबक ! Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T15:23:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/GGzjQuU-0g0/hqdefault.jpg",
-          "durationSeconds": 1274,
-          "durationFormatted": "21:14",
-          "views": 79,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "2QI-Hz3_l5Q",
-          "title": "रायपुर में राशन दुकानदारों की मनमानी | घंटों लाइन में खड़े लोग, सिस्टम पर सवाल | Zee MPCG",
-          "description": "Tarkash : रायपुर में राशन दुकानदारों की मनमानी , तय समय पर वितरण क्यों ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T16:00:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/2QI-Hz3_l5Q/hqdefault.jpg",
-          "durationSeconds": 181,
-          "durationFormatted": "03:01",
-          "views": 24,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "-n-kjV9-0Mg",
-          "title": "Contaminated Water : पानी में जहर? टंकियों में गंदगी का खेल | सिस्टम फेल, कार्रवाई कब? Zee MPCG",
-          "description": "Tarkash : पानी की टंकियों में सिल्ट की मोटी परतें , कागजों में साफ... नलों ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T15:30:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/-n-kjV9-0Mg/hqdefault.jpg",
-          "durationSeconds": 190,
-          "durationFormatted": "03:10",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-04-24T16:00:09Z"
-    },
-    {
       "clusterId": "gehu-kharidi",
       "topic": "Gehu Kharidi",
-      "videoCount": 5,
-      "trendScore": 27.3,
+      "videoCount": 4,
+      "trendScore": 25.6,
       "topVideos": [
         {
           "index": 1,
@@ -561,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ByAkY0icMMM/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 348,
+          "views": 361,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -591,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uuSWc_t2TTI/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 22,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,22 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cUXghNtOwEY/hqdefault.jpg",
           "durationSeconds": 185,
           "durationFormatted": "03:05",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "JV_ONUXRi5g",
-          "title": "डोंगरगढ़ में ग्रामीणों ने खुद मांगी सरकारी शराब दुकान",
-          "description": "डोंगरगढ़ के ग्राम कल्याणपुर में अवैध शराब से परेशान ग्रामीणों ने ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-04-24T08:16:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/JV_ONUXRi5g/hqdefault.jpg",
-          "durationSeconds": 115,
-          "durationFormatted": "01:55",
-          "views": 11,
+          "views": 13,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -633,7 +549,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 21.5,
+      "trendScore": 20.2,
       "topVideos": [
         {
           "index": 1,
