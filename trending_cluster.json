@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-24T10:03:21.416722Z",
+  "generatedAt": "2026-04-24T11:38:29.615975Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 57,
-      "trendScore": 63.0,
+      "videoCount": 54,
+      "trendScore": 63.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1YfGMvcfFLk/hqdefault.jpg",
           "durationSeconds": 116,
           "durationFormatted": "01:56",
-          "views": 25321,
-          "likes": 699,
+          "views": 29451,
+          "likes": 720,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/neurCgE5K3Q/hqdefault.jpg",
           "durationSeconds": 1592,
           "durationFormatted": "26:32",
-          "views": 16550,
-          "likes": 248,
+          "views": 17692,
+          "likes": 261,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Chg0zvoA_tw/hqdefault.jpg",
           "durationSeconds": 775,
           "durationFormatted": "12:55",
-          "views": 12574,
-          "likes": 490,
+          "views": 13488,
+          "likes": 504,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/kPORBOR9MM0/hqdefault.jpg",
           "durationSeconds": 697,
           "durationFormatted": "11:37",
-          "views": 6016,
-          "likes": 98,
+          "views": 6400,
+          "likes": 102,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "6Z1D4pKfcSE",
-          "title": "&#39;हम अपनी शब्दावली पर अंकुश लगाएंगे&#39;...  CM हाउस से बाहर आए विधायक प्रीतम लोधी ने क्या कहा...",
-          "description": "'हम अपनी शब्दावली पर अंकुश लगाएंगे'... CM हाउस से बाहर आए विधायक प्रीतम ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-23T14:00:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/6Z1D4pKfcSE/hqdefault.jpg",
-          "durationSeconds": 440,
-          "durationFormatted": "07:20",
-          "views": 4943,
-          "likes": 37,
+          "videoId": "V4VyWNvEc9Y",
+          "title": "नेताओं की सुरक्षा पर  कितना खर्च होता है पैसा",
+          "description": "TaxPayersMoney #IndianPolitics #ChhattisgarhNews #CMSecurity #PMSecurity #VIPCulture #GroundReality #AartiBeniya ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-04-24T07:45:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/V4VyWNvEc9Y/hqdefault.jpg",
+          "durationSeconds": 167,
+          "durationFormatted": "02:47",
+          "views": 6055,
+          "likes": 178,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-24T09:31:02Z"
+      "latestUpdateAt": "2026-04-24T11:18:08Z"
     },
     {
-      "clusterId": "durg-hamar",
-      "topic": "Durg Hamar",
-      "videoCount": 20,
-      "trendScore": 45.6,
+      "clusterId": "hamar-durg",
+      "topic": "Hamar Durg",
+      "videoCount": 18,
+      "trendScore": 43.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,25 +102,25 @@
           "thumbnail": "https://i.ytimg.com/vi/TLT7KqUs6E8/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 509,
+          "views": 508,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "AEcDSOgqipQ",
-          "title": "Birthday Party में खूनी झगड़ा , भिलाई नगर पुलिस ने 2 को पकड़ा, 1 फरार",
+          "videoId": "5SiFJWLGVuI",
+          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-23T14:26:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/AEcDSOgqipQ/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 230,
-          "likes": 0,
+          "publishedAt": "2026-04-23T14:25:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/5SiFJWLGVuI/hqdefault.jpg",
+          "durationSeconds": 681,
+          "durationFormatted": "11:21",
+          "views": 161,
+          "likes": 2,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         },
         {
           "index": 3,
@@ -132,23 +132,23 @@
           "thumbnail": "https://i.ytimg.com/vi/5SiFJWLGVuI/hqdefault.jpg",
           "durationSeconds": 681,
           "durationFormatted": "11:21",
-          "views": 153,
+          "views": 161,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "5SiFJWLGVuI",
-          "title": "दुर्ग-भिलाई स्पेशल बुलेटिन न्यूज़  ख़बरें दुर्ग-भिलाई पावर हाउस के आस-पास की I Hamar Durg jila",
+          "videoId": "aeBCQp85NNk",
+          "title": "बेमेतरा में 81 लाख की सड़क उखड़ने लगी, गुणवत्ता पर उठे सवाल",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-23T14:25:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/5SiFJWLGVuI/hqdefault.jpg",
-          "durationSeconds": 681,
-          "durationFormatted": "11:21",
-          "views": 153,
-          "likes": 2,
+          "publishedAt": "2026-04-23T14:44:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/aeBCQp85NNk/hqdefault.jpg",
+          "durationSeconds": 169,
+          "durationFormatted": "02:49",
+          "views": 76,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rFy0queX3cQ/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 42,
+          "views": 46,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -171,10 +171,94 @@
       "latestUpdateAt": "2026-04-24T09:44:29Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 9,
+      "trendScore": 38.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "UJUs2uq7bIc",
+          "title": "आप&#39; पार्टी छोड़ भाजपा में शामिल हुए राघव चड्ढा",
+          "description": "आप' पार्टी छोड़ भाजपा में शामिल हुए राघव चड्ढा राघव चड्ढा ने आम आदमी ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-24T11:12:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/UJUs2uq7bIc/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 1553,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "L17oX8bxTt8",
+          "title": "🔴LIVE : राघव चड्डा ने छोड़ी आम आदमी पार्टी , BJP में जाने रा एलान | AAP | BJP | Zee MPCG",
+          "description": "LIVE : राघव चड्डा ने छोड़ी आम आदमी पार्टी , BJP में जाने रा एलान | AAP | BJP | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T10:21:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/L17oX8bxTt8/hqdefault.jpg",
+          "durationSeconds": 310,
+          "durationFormatted": "05:10",
+          "views": 236,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "6mqUaAGdBd4",
+          "title": "🔴LIVE : MP-CG News : अरुण साव जम्मू कश्मीर के लिए रवाना  | Latest News | Zee MPCG",
+          "description": "LIVE : MP-CG News : अरुण साव जम्मू कश्मीर के लिए रवाना | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T07:56:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/6mqUaAGdBd4/hqdefault.jpg",
+          "durationSeconds": 1206,
+          "durationFormatted": "20:06",
+          "views": 206,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "ZvWmhgCEbLk",
+          "title": "🔴LIVE : MP-CG News : डोसा में कॉकरोच, होटल में हड़कंप  | Zee MPCG",
+          "description": "LIVE : MP-CG News : डोसा में कॉकरोच, होटल में हड़कंप | Zee MPCG पुलिस कस्टडी से ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T07:24:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZvWmhgCEbLk/hqdefault.jpg",
+          "durationSeconds": 1412,
+          "durationFormatted": "23:32",
+          "views": 88,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "WFUTnO2uDuY",
+          "title": "#Breaking : आम आदमी पार्टी में बड़ी फूट , राघव चड्ढा ने आम आदमी पार्टी छोड़ी | AAP | BJP",
+          "description": "Breaking : आम आदमी पार्टी में बड़ी फूट , राघव चड्ढा ने आम आदमी पार्टी छोड़ी ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-24T10:28:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/WFUTnO2uDuY/hqdefault.jpg",
+          "durationSeconds": 502,
+          "durationFormatted": "08:22",
+          "views": 44,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-24T11:29:53Z"
+    },
+    {
       "clusterId": "durg-bharti",
       "topic": "Durg Bharti",
       "videoCount": 6,
-      "trendScore": 34.0,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jnvotMfGrcg/hqdefault.jpg",
           "durationSeconds": 884,
           "durationFormatted": "14:44",
-          "views": 20169,
+          "views": 20409,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -201,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jnvotMfGrcg/hqdefault.jpg",
           "durationSeconds": 884,
           "durationFormatted": "14:44",
-          "views": 20169,
+          "views": 20409,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -216,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oZkyc0yMwZg/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 10316,
+          "views": 13939,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -231,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oZkyc0yMwZg/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 10316,
+          "views": 13939,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -246,97 +330,13 @@
           "thumbnail": "https://i.ytimg.com/vi/4NSn7fB09Uc/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 1425,
+          "views": 1814,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-04-24T04:27:10Z"
-    },
-    {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 30.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "3rayiUfW1Uc",
-          "title": "🔴LIVE : MP - CG : एमपी गर्म हवाओं का अटैक | Hindi News | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : एमपी गर्म हवाओं का अटैक | Hindi News | Latest News | Zee MPCG एमपी में 10 दिन ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T04:22:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/3rayiUfW1Uc/hqdefault.jpg",
-          "durationSeconds": 1535,
-          "durationFormatted": "25:35",
-          "views": 199,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "6mqUaAGdBd4",
-          "title": "🔴LIVE : MP-CG News : अरुण साव जम्मू कश्मीर के लिए रवाना  | Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News : अरुण साव जम्मू कश्मीर के लिए रवाना | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T07:56:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/6mqUaAGdBd4/hqdefault.jpg",
-          "durationSeconds": 1206,
-          "durationFormatted": "20:06",
-          "views": 91,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "ZvWmhgCEbLk",
-          "title": "🔴LIVE : MP-CG News : डोसा में कॉकरोच, होटल में हड़कंप  | Zee MPCG",
-          "description": "LIVE : MP-CG News : डोसा में कॉकरोच, होटल में हड़कंप | Zee MPCG पुलिस कस्टडी से ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T07:24:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZvWmhgCEbLk/hqdefault.jpg",
-          "durationSeconds": 1412,
-          "durationFormatted": "23:32",
-          "views": 40,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "kCSK8Uqhmq4",
-          "title": "🔴LIVE : MP - CG : एक दिवसीय विशेष सत्र से पहले सियासत ! |  Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : एक दिवसीय विशेष सत्र से पहले सियासत ! | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T09:25:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/kCSK8Uqhmq4/hqdefault.jpg",
-          "durationSeconds": 1298,
-          "durationFormatted": "21:38",
-          "views": 35,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "oKax5CfvXx0",
-          "title": "Middle East War : मोसाद के जासूसों पर ईरान में एक्शन जारी | मेहदी फरीद को फांसी | Zee MPCG",
-          "description": "Middle East War : मोसाद के जासूसों पर ईरान में एक्शन जारी | मेहदी फरीद को ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T08:36:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/oKax5CfvXx0/hqdefault.jpg",
-          "durationSeconds": 215,
-          "durationFormatted": "03:35",
-          "views": 16,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-24T09:25:38Z"
     }
   ]
 }
