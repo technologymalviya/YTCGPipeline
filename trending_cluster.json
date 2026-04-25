@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-25T13:42:44.149322Z",
+  "generatedAt": "2026-04-25T15:05:28.264019Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 49,
-      "trendScore": 62.7,
+      "trendScore": 62.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8dKQAbNNuFk/hqdefault.jpg",
           "durationSeconds": 1593,
           "durationFormatted": "26:33",
-          "views": 28597,
-          "likes": 291,
+          "views": 29208,
+          "likes": 297,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/F1I3vEgqrrc/hqdefault.jpg",
           "durationSeconds": 822,
           "durationFormatted": "13:42",
-          "views": 12991,
-          "likes": 472,
+          "views": 13417,
+          "likes": 484,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zSBv2ZQClPg/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 9308,
-          "likes": 157,
+          "views": 10685,
+          "likes": 172,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/8Ty7rcYm1Pk/hqdefault.jpg",
           "durationSeconds": 774,
           "durationFormatted": "12:54",
-          "views": 4509,
-          "likes": 103,
+          "views": 4676,
+          "likes": 106,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "n86lVZ2-e7k",
-          "title": "CM MohanYadav Address LIVE: अब हफ्ते में 6 दिन होगी गेहूं खरीदी; स्लॉट बुकिंग 9 मई तक बढ़ी",
-          "description": "मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव ने प्रदेशवासियों को ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-24T16:02:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/n86lVZ2-e7k/hqdefault.jpg",
-          "durationSeconds": 1282,
-          "durationFormatted": "21:22",
-          "views": 3997,
-          "likes": 42,
+          "videoId": "W1tNenNckl4",
+          "title": "बागेश्वर बाबा की कथा में बाउंसरों का उत्पात | कथा में महिलाओं से बदसलूकी | @tirandaj",
+          "description": "bageshwardhamsarkar #dhirendrakrishnashastri #bouncersmisconduct #dhirendrakrishnasbouncers ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-04-25T06:55:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/W1tNenNckl4/hqdefault.jpg",
+          "durationSeconds": 44,
+          "durationFormatted": "00:44",
+          "views": 3585,
+          "likes": 32,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-25T13:34:32Z"
+      "latestUpdateAt": "2026-04-25T14:53:26Z"
     },
     {
       "clusterId": "aap-बजप",
       "topic": "AAP बीजेपी",
-      "videoCount": 25,
-      "trendScore": 56.7,
+      "videoCount": 24,
+      "trendScore": 55.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AfWLl-qWB0U/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 5990,
-          "likes": 6,
+          "views": 6042,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Jcn4umX1sSY/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 2085,
-          "likes": 4,
+          "views": 2335,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LsmjzB_JXnQ/hqdefault.jpg",
           "durationSeconds": 152,
           "durationFormatted": "02:32",
-          "views": 688,
+          "views": 727,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x6wDXu5cleE/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 609,
+          "views": 620,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -162,151 +162,37 @@
           "thumbnail": "https://i.ytimg.com/vi/xcWMN7ZKOKA/hqdefault.jpg",
           "durationSeconds": 124,
           "durationFormatted": "02:04",
-          "views": 529,
+          "views": 570,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-25T13:26:37Z"
-    },
-    {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 12,
-      "trendScore": 40.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "OtYKvxsnvYA",
-          "title": "MP Weather: भीषण गर्मी का कहर जारी, 20 से ज्यादा जिलों में लू का अलर्ट, 44°C के करीब पहुंचा तापमान",
-          "description": "मध्य प्रदेश में भीषण गर्मी का कहर जारी है। सुबह से ही तेज धूप और ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-25T03:03:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/OtYKvxsnvYA/hqdefault.jpg",
-          "durationSeconds": 87,
-          "durationFormatted": "01:27",
-          "views": 479,
-          "likes": 17,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "-PdyS-VDjow",
-          "title": "MP-CG WEATHER UPDATE: तपती गर्मी का प्रकोप, तापमान 44°C के पार, कई जिलों में लू का अलर्ट जारी",
-          "description": "मध्य प्रदेश और छत्तीसगढ़ में भीषण गर्मी ने लोगों की मुश्किलें बढ़ा ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-25T05:08:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/-PdyS-VDjow/hqdefault.jpg",
-          "durationSeconds": 367,
-          "durationFormatted": "06:07",
-          "views": 197,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "t7ZfyuwfZ9U",
-          "title": "🔴LIVE : Din Dahade : तेलंगाना में बड़ा नक्सली सरेंडर | Latest News | Zee MPCG",
-          "description": "LIVE : Din Dahade : तेलंगाना में बड़ा नक्सली सरेंडर | Latest News | Zee MPCG छत्तीसगढ़ ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-25T06:22:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/t7ZfyuwfZ9U/hqdefault.jpg",
-          "durationSeconds": 1329,
-          "durationFormatted": "22:09",
-          "views": 189,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "fsNe1FJ_Y7k",
-          "title": "🔴LIVE : MP-CG News : प्राइवेट स्कूलों में अब चलेगी सिर्फ NCERT | Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News : प्राइवेट स्कूलों में अब चलेगी सिर्फ NCERT | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-25T07:52:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/fsNe1FJ_Y7k/hqdefault.jpg",
-          "durationSeconds": 1333,
-          "durationFormatted": "22:13",
-          "views": 158,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "Xun5vTDqP7Y",
-          "title": "MP Weather Update : एमपी में तपिश भरी गर्मी | ग्वालियर-उज्जैन में आज लू का अलर्ट | Zee MPCG",
-          "description": "MP Weather Update : एमपी में तपिश भरी गर्मी | ग्वालियर-उज्जैन में आज लू का ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-25T06:00:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/Xun5vTDqP7Y/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 132,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-25T13:00:51Z"
+      "latestUpdateAt": "2026-04-25T14:34:17Z"
     },
     {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
-      "videoCount": 6,
-      "trendScore": 39.3,
+      "videoCount": 4,
+      "trendScore": 45.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "pvUpUsa5luo",
-          "title": "24 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "videoId": "iEO3Ci-kfOk",
+          "title": "25 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "",
           "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-24T14:16:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/pvUpUsa5luo/hqdefault.jpg",
-          "durationSeconds": 603,
-          "durationFormatted": "10:03",
-          "views": 775,
-          "likes": 38,
+          "publishedAt": "2026-04-25T13:41:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/iEO3Ci-kfOk/hqdefault.jpg",
+          "durationSeconds": 579,
+          "durationFormatted": "09:39",
+          "views": 116,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "EW8eth0Rp0k",
-          "title": "24 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-24T14:02:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/EW8eth0Rp0k/hqdefault.jpg",
-          "durationSeconds": 539,
-          "durationFormatted": "08:59",
-          "views": 356,
-          "likes": 20,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "MzNh05Ed2AI",
-          "title": "Chhattisgarh Madhya Pradesh Weather Update: पारा 43 के पार,अप्रैल में मई-जून वाली गर्मी | MP-CG News",
-          "description": "IBC24, Chhattisgarh Madhya Pradesh Weather Update: पारा 43 के पार,अप्रैल में मई-जून वाली ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-25T09:41:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/MzNh05Ed2AI/hqdefault.jpg",
-          "durationSeconds": 732,
-          "durationFormatted": "12:12",
-          "views": 100,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "x3mWr_m1UqE",
           "title": "25 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "समय - सुबह 11.55 बजे.",
@@ -315,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/x3mWr_m1UqE/hqdefault.jpg",
           "durationSeconds": 295,
           "durationFormatted": "04:55",
-          "views": 96,
+          "views": 107,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
+          "videoId": "wf0_h_iZ3TM",
+          "title": "25 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-25T14:15:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/wf0_h_iZ3TM/hqdefault.jpg",
+          "durationSeconds": 629,
+          "durationFormatted": "10:29",
+          "views": 96,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "kB402g-eM-Y",
           "title": "25 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "समय - सुबह 09.55 बजे.",
@@ -330,19 +231,19 @@
           "thumbnail": "https://i.ytimg.com/vi/kB402g-eM-Y/hqdefault.jpg",
           "durationSeconds": 289,
           "durationFormatted": "04:49",
-          "views": 29,
-          "likes": 5,
+          "views": 32,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-25T13:41:54Z"
+      "latestUpdateAt": "2026-04-25T14:15:27Z"
     },
     {
       "clusterId": "bhaskar-direction",
       "topic": "Bhaskar Direction",
       "videoCount": 6,
-      "trendScore": 36.7,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qWg2vB8Z534/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 999,
-          "likes": 31,
+          "views": 1029,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/NVcxjrtjm3w/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 840,
-          "likes": 9,
+          "views": 913,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "U1ITuedjQfM",
-          "title": "रायपुर में Direction बोर्ड्स पर विज्ञापन हावी!  | CG Bhaskar",
-          "description": "रायपुर में Direction बोर्ड्स पर विज्ञापन हावी! Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-25T08:30:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/U1ITuedjQfM/hqdefault.jpg",
-          "durationSeconds": 132,
-          "durationFormatted": "02:12",
-          "views": 378,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "flmajsuqyY8",
           "title": "कांकेर में मरीज़ को खाट पर लादकर पहुंचाया गया अस्पताल | CG Bhaskar",
           "description": "कांकेर में मरीज़ को खाट पर लादकर पहुंचाया गया अस्पताल | CG Bhaskar Join our ...",
@@ -399,7 +285,22 @@
           "thumbnail": "https://i.ytimg.com/vi/flmajsuqyY8/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 192,
+          "views": 514,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "U1ITuedjQfM",
+          "title": "रायपुर में Direction बोर्ड्स पर विज्ञापन हावी!  | CG Bhaskar",
+          "description": "रायपुर में Direction बोर्ड्स पर विज्ञापन हावी! Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-25T08:30:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/U1ITuedjQfM/hqdefault.jpg",
+          "durationSeconds": 132,
+          "durationFormatted": "02:12",
+          "views": 317,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -414,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LNT-2PI4VAA/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 178,
-          "likes": 2,
+          "views": 209,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -423,10 +324,94 @@
       "latestUpdateAt": "2026-04-25T12:54:19Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 6,
+      "trendScore": 30.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "fsNe1FJ_Y7k",
+          "title": "🔴LIVE : MP-CG News : प्राइवेट स्कूलों में अब चलेगी सिर्फ NCERT | Latest News | Zee MPCG",
+          "description": "LIVE : MP-CG News : प्राइवेट स्कूलों में अब चलेगी सिर्फ NCERT | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T07:52:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/fsNe1FJ_Y7k/hqdefault.jpg",
+          "durationSeconds": 1333,
+          "durationFormatted": "22:13",
+          "views": 169,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "_cJb15F8oHQ",
+          "title": "🔴LIVE : MP-CG News : बुलेट ना मिलने पर तोड़ी शादी   | Zee MPCG",
+          "description": "LIVE : MP-CG News : बुलेट ना मिलने पर तोड़ी शादी | Zee MPCGपुलिस कस्टडी से लापता ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T07:27:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/_cJb15F8oHQ/hqdefault.jpg",
+          "durationSeconds": 1242,
+          "durationFormatted": "20:42",
+          "views": 79,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "jE7QbymtUwg",
+          "title": "Lockdown In Islamabad : रास्ते बंद, जिंदगी ठप, आवाम परेशान | पाकिस्तानी कौम त्रस्त | Zee MPCG",
+          "description": "पाकिस्तान की राजधानी इस्लामाबाद में हालात बिगड़ते नजर आ रहे हैं।",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T07:37:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/jE7QbymtUwg/hqdefault.jpg",
+          "durationSeconds": 195,
+          "durationFormatted": "03:15",
+          "views": 66,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "0qpdMkizkxc",
+          "title": "🔴LIVE : Khabar Apne MP Ki : पानी के लिए बहा खून  | Zee MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : पानी के लिए बहा खून | Zee MPCG ट्रेन में खूनी संघर्ष 1.5 ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T13:20:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/0qpdMkizkxc/hqdefault.jpg",
+          "durationSeconds": 1252,
+          "durationFormatted": "20:52",
+          "views": 40,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "TlVsEOtHwmY",
+          "title": "Petrol Crisis : पेट्रोल संकट से लोग परेशान | पंपों पर खत्म हुआ स्टॉक | CG News | Zee MPCG",
+          "description": "Ambikapur : पेट्रोल की किल्लत से लोग परेशान , कई पंपों पर पेट्रोल का स्टॉक ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T13:00:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/TlVsEOtHwmY/hqdefault.jpg",
+          "durationSeconds": 120,
+          "durationFormatted": "02:00",
+          "views": 30,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-25T13:20:06Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 28.5,
+      "trendScore": 28.2,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/aT-sVG-uuW8/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 202,
-          "likes": 5,
+          "views": 228,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -450,7 +435,7 @@
       "clusterId": "bansal-mpcg",
       "topic": "Bansal MPCG",
       "videoCount": 4,
-      "trendScore": 28.5,
+      "trendScore": 27.9,
       "topVideos": [
         {
           "index": 1,
@@ -462,7 +447,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PlZ5Ycne9Uc/hqdefault_live.jpg",
           "durationSeconds": 0,
           "durationFormatted": "LIVE",
-          "views": 888,
+          "views": 963,
           "likes": 6,
           "videoType": "LIVE",
           "genre": "Live"
@@ -477,7 +462,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Acg3qH2MeaY/hqdefault.jpg",
           "durationSeconds": 886,
           "durationFormatted": "14:46",
-          "views": 386,
+          "views": 444,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -519,7 +504,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 20.9,
+      "trendScore": 26.0,
       "topVideos": [
         {
           "index": 1,
@@ -531,8 +516,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fq__jt3FggE/hqdefault.jpg",
           "durationSeconds": 1499,
           "durationFormatted": "24:59",
-          "views": 23,
-          "likes": 0,
+          "views": 40,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
