@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-25T06:02:56.609554Z",
+  "generatedAt": "2026-04-25T07:50:58.662967Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 53,
-      "trendScore": 60.4,
+      "videoCount": 49,
+      "trendScore": 61.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/8dKQAbNNuFk/hqdefault.jpg",
           "durationSeconds": 1593,
           "durationFormatted": "26:33",
-          "views": 16549,
-          "likes": 248,
+          "views": 21414,
+          "likes": 272,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "V4VyWNvEc9Y",
-          "title": "नेताओं की सुरक्षा पर  कितना खर्च होता है पैसा",
-          "description": "TaxPayersMoney #IndianPolitics #ChhattisgarhNews #CMSecurity #PMSecurity #VIPCulture #GroundReality #AartiBeniya ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-04-24T07:45:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/V4VyWNvEc9Y/hqdefault.jpg",
-          "durationSeconds": 167,
-          "durationFormatted": "02:47",
-          "views": 11130,
-          "likes": 277,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "F1I3vEgqrrc",
           "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
           "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
@@ -48,28 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/F1I3vEgqrrc/hqdefault.jpg",
           "durationSeconds": 822,
           "durationFormatted": "13:42",
-          "views": 7180,
-          "likes": 398,
+          "views": 9037,
+          "likes": 424,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "8K2RMk2wM3M",
+          "title": "#Shorts : किसानों के लिए सीएम मोहन यादव का बड़ा संदेश",
+          "description": "Shorts : किसानों के लिए सीएम मोहन यादव का बड़ा संदेश “आपका सुख ही मेरा ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T04:14:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/8K2RMk2wM3M/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 3600,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "DTvTHl8EG20",
-          "title": "राघव चड्ढा समेत AAP के 2/3 राज्यसभा सांसदों का BJP में विलय !",
-          "description": "दिल्ली की राजनीति में बहुत बड़ा उलटफेर देखने को मिला है। आम आदमी ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-24T10:31:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/DTvTHl8EG20/hqdefault.jpg",
-          "durationSeconds": 19,
-          "durationFormatted": "00:19",
-          "views": 4663,
-          "likes": 36,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "n86lVZ2-e7k",
           "title": "CM MohanYadav Address LIVE: अब हफ्ते में 6 दिन होगी गेहूं खरीदी; स्लॉट बुकिंग 9 मई तक बढ़ी",
           "description": "मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव ने प्रदेशवासियों को ...",
@@ -78,37 +63,37 @@
           "thumbnail": "https://i.ytimg.com/vi/n86lVZ2-e7k/hqdefault.jpg",
           "durationSeconds": 1282,
           "durationFormatted": "21:22",
-          "views": 2764,
-          "likes": 33,
+          "views": 3302,
+          "likes": 36,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "8Ty7rcYm1Pk",
+          "title": "25 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "25 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-04-24T23:48:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/8Ty7rcYm1Pk/hqdefault.jpg",
+          "durationSeconds": 774,
+          "durationFormatted": "12:54",
+          "views": 3172,
+          "likes": 92,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-25T04:56:46Z"
+      "latestUpdateAt": "2026-04-25T07:46:12Z"
     },
     {
-      "clusterId": "रजनदगव-कररवई",
-      "topic": "राजनांदगांव कार्रवाई",
-      "videoCount": 17,
-      "trendScore": 46.4,
+      "clusterId": "दरग-कररवई",
+      "topic": "दुर्ग कार्रवाई",
+      "videoCount": 18,
+      "trendScore": 53.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "MGrW1PeLjmA",
-          "title": "राजनांदगांव में चित्रगुप्त प्रकट उत्सव , भव्य शोभा यात्रा निकली",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-24T09:44:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/MGrW1PeLjmA/hqdefault.jpg",
-          "durationSeconds": 310,
-          "durationFormatted": "05:10",
-          "views": 66,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
           "videoId": "51PJOEkH4Cc",
           "title": "राजनांदगांव में अद्भुत तपस्या , अग्नि के बीच 41 दिन का तप",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -121,6 +106,21 @@
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "3keWKUsnpTs",
+          "title": "khairagarh News : गंजीपारा में पार्षद सुमित टांडिया को 10 में 10 अंक",
+          "description": "खैरागढ़ के वार्ड नंबर 4 गंजीपारा में पार्षद सुमित टांडिया के कामकाज ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-24T14:22:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/3keWKUsnpTs/hqdefault.jpg",
+          "durationSeconds": 387,
+          "durationFormatted": "06:27",
+          "views": 15,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
@@ -168,31 +168,16 @@
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-24T13:58:48Z"
+      "latestUpdateAt": "2026-04-25T07:30:53Z"
     },
     {
-      "clusterId": "छत-ठक",
-      "topic": "छाती ठोक",
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
       "videoCount": 11,
-      "trendScore": 44.1,
+      "trendScore": 41.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "9DSVBssg1gk",
-          "title": "छाती ठोक के बोलव हमर छत्तीसगढ़ी भाषा हे",
-          "description": "छाती ठोक के बोलव हमर छत्तीसगढ़ी भाषा हे.",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-04-24T12:10:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/9DSVBssg1gk/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 25548,
-          "likes": 464,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "dWNkhpTpjWw",
           "title": "🔴LIVE : MP-CG News : खदान में &#39;जिंदगी&#39; की तलाश  | Latest News | Zee MPCG",
           "description": "LIVE : MP-CG News : खदान में 'जिंदगी' की तलाश | Latest News | Zee MPCG #Live #MPNews ...",
@@ -201,8 +186,23 @@
           "thumbnail": "https://i.ytimg.com/vi/dWNkhpTpjWw/hqdefault.jpg",
           "durationSeconds": 1247,
           "durationFormatted": "20:47",
-          "views": 343,
+          "views": 427,
           "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "OtYKvxsnvYA",
+          "title": "MP Weather: भीषण गर्मी का कहर जारी, 20 से ज्यादा जिलों में लू का अलर्ट, 44°C के करीब पहुंचा तापमान",
+          "description": "मध्य प्रदेश में भीषण गर्मी का कहर जारी है। सुबह से ही तेज धूप और ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-25T03:03:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/OtYKvxsnvYA/hqdefault.jpg",
+          "durationSeconds": 87,
+          "durationFormatted": "01:27",
+          "views": 209,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -223,42 +223,42 @@
         },
         {
           "index": 4,
-          "videoId": "OtYKvxsnvYA",
-          "title": "MP Weather: भीषण गर्मी का कहर जारी, 20 से ज्यादा जिलों में लू का अलर्ट, 44°C के करीब पहुंचा तापमान",
-          "description": "मध्य प्रदेश में भीषण गर्मी का कहर जारी है। सुबह से ही तेज धूप और ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-25T03:03:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/OtYKvxsnvYA/hqdefault.jpg",
-          "durationSeconds": 87,
-          "durationFormatted": "01:27",
-          "views": 126,
-          "likes": 7,
+          "videoId": "9MOBlTGP6MI",
+          "title": "🔴LIVE : MP - CG : छत्तीसगढ़ में विदेशी फंडिंग! | Hindi News | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : छत्तीसगढ़ में विदेशी फंडिंग! | Hindi News | Latest News | Zee MPCG इंदौर ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T04:24:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/9MOBlTGP6MI/hqdefault.jpg",
+          "durationSeconds": 1433,
+          "durationFormatted": "23:53",
+          "views": 133,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "Q8nP6Qg2lho",
-          "title": "🔴LIVE : Tarkash : खतरे में लोगों की सेहत, नहीं लिया सबक ! | Latest News  | Zee MPCG",
-          "description": "LIVE : Tarkash : खतरे में लोगों की सेहत, नहीं लिया सबक ! | Latest News | Zee MPCG करोड़ों ...",
+          "videoId": "t7ZfyuwfZ9U",
+          "title": "🔴LIVE : Din Dahade : तेलंगाना में बड़ा नक्सली सरेंडर | Latest News | Zee MPCG",
+          "description": "LIVE : Din Dahade : तेलंगाना में बड़ा नक्सली सरेंडर | Latest News | Zee MPCG छत्तीसगढ़ ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T23:50:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q8nP6Qg2lho/hqdefault.jpg",
-          "durationSeconds": 1265,
-          "durationFormatted": "21:05",
-          "views": 107,
-          "likes": 1,
+          "publishedAt": "2026-04-25T06:22:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/t7ZfyuwfZ9U/hqdefault.jpg",
+          "durationSeconds": 1329,
+          "durationFormatted": "22:09",
+          "views": 74,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-25T06:00:52Z"
+      "latestUpdateAt": "2026-04-25T07:37:37Z"
     },
     {
       "clusterId": "bhaskar-पलस",
       "topic": "Bhaskar पुलिस",
-      "videoCount": 5,
-      "trendScore": 38.3,
+      "videoCount": 6,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rDJ05gh6Q-M/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 4716,
-          "likes": 283,
+          "views": 6888,
+          "likes": 340,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/P4DjhqsLm_U/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 717,
-          "likes": 26,
+          "views": 746,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/QtRAtDkAiM0/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 420,
-          "likes": 18,
+          "views": 541,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "L3ZHksGxF1I",
+          "title": "‘सीटें बढ़ीं तो नेताजी की बेटियां ही आएंगी..’ महिला आरक्षण बन जाएगा ‘फैमिली रिजर्वेशन’? #shorts",
+          "description": "IBC24, 'सीटें बढ़ीं तो नेताजी की बेटियां ही आएंगी..' महिला आरक्षण बन ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-25T06:39:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/L3ZHksGxF1I/hqdefault.jpg",
+          "durationSeconds": 116,
+          "durationFormatted": "01:56",
+          "views": 384,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "gwu97rX0QEY",
           "title": "राजधानी रायपुर में देर रात पुलिस ने की चेकिंग, कई आरोपी पकड़े गए | kanha | CG Bhaskar",
           "description": "राजधानी रायपुर में देर रात पुलिस ने की चेकिंग, कई आरोपी पकड़े गए | kanha ...",
@@ -315,34 +330,19 @@
           "thumbnail": "https://i.ytimg.com/vi/gwu97rX0QEY/hqdefault.jpg",
           "durationSeconds": 293,
           "durationFormatted": "04:53",
-          "views": 89,
+          "views": 106,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "9IVZE0py5Ik",
-          "title": "MP News :मध्य प्रदेश में बढ़े लापता केस, 14–25 उम्र की लड़कियां सबसे ज्यादा प्रभावित |",
-          "description": "मध्य प्रदेश पुलिस के ताजा डेटा में बड़ा खुलासा हुआ है, जिसमें पिछले ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-24T13:04:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/9IVZE0py5Ik/hqdefault.jpg",
-          "durationSeconds": 371,
-          "durationFormatted": "06:11",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-04-24T15:40:01Z"
+      "latestUpdateAt": "2026-04-25T06:39:35Z"
     },
     {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 36.9,
+      "trendScore": 37.8,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pvUpUsa5luo/hqdefault.jpg",
           "durationSeconds": 603,
           "durationFormatted": "10:03",
-          "views": 662,
+          "views": 723,
           "likes": 36,
           "videoType": "VOD",
           "genre": "General"
@@ -369,23 +369,23 @@
           "thumbnail": "https://i.ytimg.com/vi/EW8eth0Rp0k/hqdefault.jpg",
           "durationSeconds": 539,
           "durationFormatted": "08:59",
-          "views": 286,
+          "views": 326,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "SGX7DEeGYM0",
-          "title": "24 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 09.55 बजे.",
+          "videoId": "x3mWr_m1UqE",
+          "title": "25 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 11.55 बजे.",
           "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-24T06:47:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/SGX7DEeGYM0/hqdefault.jpg",
-          "durationSeconds": 273,
-          "durationFormatted": "04:33",
-          "views": 113,
-          "likes": 8,
+          "publishedAt": "2026-04-25T06:51:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/x3mWr_m1UqE/hqdefault.jpg",
+          "durationSeconds": 295,
+          "durationFormatted": "04:55",
+          "views": 36,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,37 +399,22 @@
           "thumbnail": "https://i.ytimg.com/vi/kB402g-eM-Y/hqdefault.jpg",
           "durationSeconds": 289,
           "durationFormatted": "04:49",
-          "views": 2,
-          "likes": 0,
+          "views": 8,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-25T05:45:03Z"
+      "latestUpdateAt": "2026-04-25T06:51:39Z"
     },
     {
-      "clusterId": "आप39-परट",
-      "topic": "आप&39 पार्टी",
+      "clusterId": "aap-bjp",
+      "topic": "AAP BJP",
       "videoCount": 7,
-      "trendScore": 35.1,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "UJUs2uq7bIc",
-          "title": "आप&#39; पार्टी छोड़ भाजपा में शामिल हुए राघव चड्ढा",
-          "description": "आप' पार्टी छोड़ भाजपा में शामिल हुए राघव चड्ढा राघव चड्ढा ने आम आदमी ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-24T11:12:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/UJUs2uq7bIc/hqdefault.jpg",
-          "durationSeconds": 129,
-          "durationFormatted": "02:09",
-          "views": 13048,
-          "likes": 50,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "tIdPrv_yZLc",
           "title": "बीजेपी का चस्का, केजरीवाल को धक्का !",
           "description": "बीजेपी का चस्का, केजरीवाल को धक्का ! #AAP #BJP #IndianPolitics #BreakingNews #PoliticalDrama ...",
@@ -438,13 +423,13 @@
           "thumbnail": "https://i.ytimg.com/vi/tIdPrv_yZLc/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 293,
-          "likes": 7,
+          "views": 416,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "xcWMN7ZKOKA",
           "title": "बीजेपी के हो गए AAP के 3 सांसद",
           "description": "बीजेपी के हो गए AAP के 3 सांसद #AAP #BJP #IndianPolitics #BreakingNews #PoliticalDrama #RajyaSabha ...",
@@ -453,8 +438,23 @@
           "thumbnail": "https://i.ytimg.com/vi/xcWMN7ZKOKA/hqdefault.jpg",
           "durationSeconds": 124,
           "durationFormatted": "02:04",
-          "views": 250,
-          "likes": 1,
+          "views": 400,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "x6wDXu5cleE",
+          "title": "राघव ने दिया &#39;घाव&#39;, AAP में तनाव !",
+          "description": "राघव ने दिया 'घाव', AAP में तनाव ! #AAP #BJP #IndianPolitics #BreakingNews #PoliticalDrama ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-25T06:14:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/x6wDXu5cleE/hqdefault.jpg",
+          "durationSeconds": 147,
+          "durationFormatted": "02:27",
+          "views": 258,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -464,11 +464,11 @@
           "title": "क्या आम आदमी पार्टी भी टूट जाएगी? आप के कुनबे में बड़ी फूट। BJP Vs AAP",
           "description": "क्या आम आदमी पार्टी भी टूट जाएगी? आप के कुनबे में बड़ी फूट। BJP Vs AAP #AAP ...",
           "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-24T14:23:49Z",
+          "publishedAt": "2026-04-25T07:29:35Z",
           "thumbnail": "https://i.ytimg.com/vi/e7JS6B9L0UE/hqdefault.jpg",
           "durationSeconds": 11381,
           "durationFormatted": "03:09:41",
-          "views": 203,
+          "views": 212,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -483,19 +483,19 @@
           "thumbnail": "https://i.ytimg.com/vi/46LCBM6R-HU/hqdefault.jpg",
           "durationSeconds": 131,
           "durationFormatted": "02:11",
-          "views": 117,
+          "views": 189,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-25T05:23:28Z"
+      "latestUpdateAt": "2026-04-25T07:29:35Z"
     },
     {
       "clusterId": "faizan-doctor",
       "topic": "Faizan Doctor",
       "videoCount": 4,
-      "trendScore": 25.8,
+      "trendScore": 25.4,
       "topVideos": [
         {
           "index": 1,
@@ -507,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nw4xc37uBWw/hqdefault.jpg",
           "durationSeconds": 911,
           "durationFormatted": "15:11",
-          "views": 1770,
+          "views": 1817,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nw4xc37uBWw/hqdefault.jpg",
           "durationSeconds": 911,
           "durationFormatted": "15:11",
-          "views": 1770,
+          "views": 1817,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f7qM9stUtIs/hqdefault.jpg",
           "durationSeconds": 1373,
           "durationFormatted": "22:53",
-          "views": 780,
+          "views": 884,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f7qM9stUtIs/hqdefault.jpg",
           "durationSeconds": 1373,
           "durationFormatted": "22:53",
-          "views": 780,
+          "views": 884,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
