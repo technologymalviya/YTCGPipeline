@@ -26,7 +26,7 @@ GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/MridulEcolab/TestPipeli
 GITHUB_REQUEST_TIMEOUT = 10  # seconds
 DEFAULT_PORT = 5000
 DEFAULT_HOST = "0.0.0.0"
-CACHE_TIMEOUT = 300  # 5 minutes cache timeout
+CACHE_TIMEOUT = 0  # Caching disabled: always serve fresh response
 
 # Setup logging
 logging.basicConfig(
@@ -39,7 +39,7 @@ logger = logging.getLogger(__name__)
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-# Simple cache for frequently accessed data
+# Cache container kept for compatibility, but caching is disabled by requirement.
 cache = {
     'data': None,
     'timestamp': None,
@@ -48,15 +48,8 @@ cache = {
 
 
 def load_output_json() -> Dict[str, Any]:
-    """Load and parse the output.json file with caching."""
+    """Load and parse the output.json file (fresh load, no cache)."""
     try:
-        # Check cache
-        if cache['data'] and cache['timestamp']:
-            elapsed = (datetime.now(timezone.utc) - cache['timestamp']).total_seconds()
-            if elapsed < CACHE_TIMEOUT:
-                logger.debug("Returning cached data")
-                return cache['data']
-        
         # Load fresh data
         if not os.path.exists(OUTPUT_FILE):
             logger.error(f"{OUTPUT_FILE} not found")
@@ -65,12 +58,7 @@ def load_output_json() -> Dict[str, Any]:
         with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
             data = json.load(f)
         
-        # Update cache
-        cache['data'] = data
-        cache['timestamp'] = datetime.now(timezone.utc)
-        cache['clusters'] = None  # Invalidate cluster cache
-        
-        logger.info(f"Loaded {OUTPUT_FILE} successfully")
+        logger.info(f"Loaded {OUTPUT_FILE} successfully (fresh)")
         return data
     except json.JSONDecodeError as e:
         logger.error(f"Invalid JSON in {OUTPUT_FILE}: {e}")
@@ -844,6 +832,106 @@ def is_festival_related_video(video: Dict[str, Any]) -> bool:
     return False
 
 
+def get_video_text(video: Dict[str, Any]) -> str:
+    """Get normalized search text for a video."""
+    title = (video.get('title') or '')
+    description = (video.get('description') or '')
+    channel = (video.get('channelTitle') or '')
+    return f"{title} {description} {channel}".lower()
+
+
+def is_positive_location_video(video: Dict[str, Any]) -> bool:
+    """Heuristic filter for positive/local development stories."""
+    text = get_video_text(video)
+
+    positive_terms = [
+        "inauguration", "launched", "launch", "foundation", "development", "improvement",
+        "success", "achievement", "awarded", "benefit", "welfare", "celebration",
+        "opening", "start", "initiative", "good news", "milestone", "project completed",
+        "उद्घाटन", "शुभारंभ", "लोकार्पण", "विकास", "सफल", "उपलब्धि", "सम्मान",
+        "लाभ", "खुशखबरी", "शुरुआत", "बेहतर", "पूर्ण", "समारोह", "पहल", "सुधार",
+    ]
+
+    negative_terms = [
+        "murder", "crime", "arrest", "gang", "assault", "rape", "fraud", "scam",
+        "accident", "crash", "collision", "traffic jam", "violence", "fire",
+        "death", "killed", "theft", "robbery", "kidnap", "extortion", "homicide",
+        "हत्या", "अपराध", "गिरफ्तार", "गैंग", "दुष्कर्म", "ठगी", "स्कैम",
+        "हादसा", "दुर्घटना", "जाम", "हिंसा", "आग", "मौत", "लूट", "चोरी", "अपहरण",
+    ]
+
+    if any(term in text for term in negative_terms):
+        return False
+    return any(term in text for term in positive_terms)
+
+
+def extract_location_positive_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Create location-specific positive clusters where count > 2."""
+    location_patterns = {
+        "Bhilai": ["bhilai", "भिलाई"],
+        "Raipur": ["raipur", "रायपुर"],
+        "Durg": ["durg", "दुर्ग"],
+        "Bilaspur": ["bilaspur", "बिलासपुर"],
+        "Rajnandgaon": ["rajnandgaon", "राजनांदगांव", "राजनंदगांव"],
+        "Korba": ["korba", "कोरबा"],
+        "Jagdalpur": ["jagdalpur", "जगदलपुर"],
+        "Bastar": ["bastar", "बस्तर"],
+    }
+
+    location_buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+
+    for video in videos:
+        if not is_positive_location_video(video):
+            continue
+        text = get_video_text(video)
+        for location, needles in location_patterns.items():
+            if any(n in text for n in needles):
+                location_buckets[location].append(video)
+                break
+
+    clusters: List[Dict[str, Any]] = []
+    for location, items in location_buckets.items():
+        # Create group only if and only if count > 2
+        if len(items) <= 2:
+            continue
+
+        total_views = sum(v.get('views', 0) for v in items)
+        total_likes = sum(v.get('likes', 0) for v in items)
+        engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
+        trending_velocity = round(total_views / len(items), 1) if items else 0
+        trend_score = calculate_trend_score({'section': location}, items)
+
+        latest_update = None
+        for item in items:
+            published_at = item.get('publishedAt')
+            if published_at:
+                try:
+                    pub_date = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+                    if not latest_update or pub_date > latest_update:
+                        latest_update = pub_date
+                except (ValueError, AttributeError):
+                    pass
+        latest_update_str = latest_update.isoformat().replace('+00:00', 'Z') if latest_update else None
+
+        clusters.append({
+            'clusterId': f"location-{location.lower()}",
+            'topic': location,
+            'originalCategory': 'General',
+            'videoCount': len(items),
+            'trendScore': trend_score,
+            'latestUpdateAt': latest_update_str,
+            'totalViews': total_views,
+            'totalLikes': total_likes,
+            'engagementRate': engagement_rate,
+            'trendingVelocity': trending_velocity,
+            'videos': sorted(items, key=lambda v: v.get('views', 0), reverse=True),
+        })
+
+    if clusters:
+        logger.info(f"Created {len(clusters)} location-positive clusters (count>2 rule)")
+    return clusters
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
@@ -854,10 +942,6 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     - Movie (upcoming movies, releases, trailers)
     - Festival (festival celebrations, preparations, events)
     """
-    if cache['clusters'] and cache['data'] == data:
-        logger.debug("Returning cached clusters")
-        return cache['clusters']
-    
     clusters = []
     
     # Collect all videos from all sections
@@ -1042,6 +1126,10 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(festival_cluster)
         logger.info(f"Created Festival cluster with {len(festival_videos)} videos")
     
+    # Location-based positive clusters (only if a location has >2 videos)
+    location_positive_clusters = extract_location_positive_clusters(other_videos)
+    clusters.extend(location_positive_clusters)
+
     # Group similar videos from other videos (only clusters with 4+ videos)
     video_clusters = group_similar_videos(other_videos, similarity_threshold=0.3, min_cluster_size=4)
     
@@ -1104,15 +1192,13 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         
         clusters.append(cluster)
     
-    # Cache the clusters
-    cache['clusters'] = clusters
-    
     pse_count = len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])
     movie_count = len([c for c in clusters if c.get('clusterId') == 'movie'])
     festival_count = len([c for c in clusters if c.get('clusterId') == 'festival'])
-    content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie', 'festival']])
+    location_count = len([c for c in clusters if str(c.get('clusterId', '')).startswith('location-')])
+    content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie', 'festival'] and not str(c.get('clusterId', '')).startswith('location-')])
     
-    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {festival_count} Festival + {content_count} content-based clusters)")
+    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {festival_count} Festival + {location_count} location-positive + {content_count} content-based clusters)")
     return clusters
 
 
