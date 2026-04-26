@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-26T06:22:53.497509Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-04-26T07:58:10.600670Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 52,
-      "trendScore": 62.5,
+      "trendScore": 63.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ekuqEO6s-UY/hqdefault.jpg",
           "durationSeconds": 1663,
           "durationFormatted": "27:43",
-          "views": 18555,
-          "likes": 270,
+          "views": 22812,
+          "likes": 279,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CSxey3Hm4ls/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 15835,
-          "likes": 364,
+          "views": 19096,
+          "likes": 412,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CSxey3Hm4ls/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 15835,
-          "likes": 364,
+          "views": 19096,
+          "likes": 412,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zSBv2ZQClPg/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 14924,
-          "likes": 227,
+          "views": 15277,
+          "likes": 229,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,103 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/ynDAxYG0jaA/hqdefault.jpg",
           "durationSeconds": 842,
           "durationFormatted": "14:02",
-          "views": 8404,
-          "likes": 404,
+          "views": 9960,
+          "likes": 424,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-26T06:21:16Z"
-    },
-    {
-      "clusterId": "aap-गर",
-      "topic": "AAP गिरे",
-      "videoCount": 22,
-      "trendScore": 46.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "AfWLl-qWB0U",
-          "title": "AAP से गिरे, बीजेपी में अटके",
-          "description": "AAP से गिरे, बीजेपी में अटके #AAP #BJP #IndianPolitics #BreakingNews #PoliticalDrama #RajyaSabha ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T09:34:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/AfWLl-qWB0U/hqdefault.jpg",
-          "durationSeconds": 173,
-          "durationFormatted": "02:53",
-          "views": 6081,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "LsmjzB_JXnQ",
-          "title": "आम आदमी पार्टी के पुराने साथी साथ क्यों छोड़ रहे हैं?",
-          "description": "आम आदमी पार्टी के पुराने साथी साथ क्यों छोड़ रहे हैं? #AAP #BJP #IndianPolitics ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T06:59:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/LsmjzB_JXnQ/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 3124,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "Jcn4umX1sSY",
-          "title": "भाजपा के ये दांव कांग्रेस पर कितना भारी पड़ेगा ?",
-          "description": "भाजपा के ये दांव कांग्रेस पर कितना भारी पड़ेगा ? #AAP #BJP #IndianPolitics ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T12:03:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/Jcn4umX1sSY/hqdefault.jpg",
-          "durationSeconds": 132,
-          "durationFormatted": "02:12",
-          "views": 2806,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "jTSLyQ4cWGg",
-          "title": "क्या ये सांसद भविष्य संवारने गए या वर्तमान बचाने?",
-          "description": "क्या ये सांसद भविष्य संवारने गए या वर्तमान बचाने? #AAP #BJP #IndianPolitics ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T12:30:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/jTSLyQ4cWGg/hqdefault.jpg",
-          "durationSeconds": 85,
-          "durationFormatted": "01:25",
-          "views": 792,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "e7JS6B9L0UE",
-          "title": "क्या आम आदमी पार्टी भी टूट जाएगी? आप के कुनबे में बड़ी फूट। BJP Vs AAP",
-          "description": "क्या आम आदमी पार्टी भी टूट जाएगी? आप के कुनबे में बड़ी फूट। BJP Vs AAP #AAP ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T07:29:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/e7JS6B9L0UE/hqdefault.jpg",
-          "durationSeconds": 11381,
-          "durationFormatted": "03:09:41",
-          "views": 266,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-25T14:34:17Z"
+      "latestUpdateAt": "2026-04-26T07:46:36Z"
     },
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 10,
-      "trendScore": 39.2,
+      "trendScore": 38.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/VEh53g6tSac/hqdefault.jpg",
           "durationSeconds": 145,
           "durationFormatted": "02:25",
-          "views": 3347,
+          "views": 3466,
           "likes": 36,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "jvoLDQ38gkQ",
-          "title": "Crime Story EXPOSE: सलीम वास्तिक पर शिकंजा, 25 साल से फरार आरोपी आखिरकार गिरफ्तार | Zee MPCG",
-          "description": "Prime Time : सलीम की क्राइम कुंडली EXPOSE , सलीम वास्तिक पर कसा शिकंजा ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-25T18:31:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/jvoLDQ38gkQ/hqdefault.jpg",
-          "durationSeconds": 155,
-          "durationFormatted": "02:35",
-          "views": 1978,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "sgWcaGfEpWg",
           "title": "🔴LIVE :  Aapki Aawaz : विदेशी फंडिंग...   धर्मांतरण का नेटवर्क ? |  Zee MPCG | Latest News",
           "description": "LIVE : Aapki Aawaz : विदेशी फंडिंग... धर्मांतरण का नेटवर्क ? | Zee MPCG | Latest News #Live ...",
@@ -216,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sgWcaGfEpWg/hqdefault.jpg",
           "durationSeconds": 1491,
           "durationFormatted": "24:51",
-          "views": 326,
+          "views": 329,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "t7ZfyuwfZ9U",
           "title": "🔴LIVE : Din Dahade : तेलंगाना में बड़ा नक्सली सरेंडर | Latest News | Zee MPCG",
           "description": "LIVE : Din Dahade : तेलंगाना में बड़ा नक्सली सरेंडर | Latest News | Zee MPCG छत्तीसगढ़ ...",
@@ -231,34 +132,49 @@
           "thumbnail": "https://i.ytimg.com/vi/t7ZfyuwfZ9U/hqdefault.jpg",
           "durationSeconds": 1330,
           "durationFormatted": "22:10",
-          "views": 256,
+          "views": 258,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "f3x7VAboI4w",
-          "title": "🔴LIVE : Tarkash : 3 लाख में बिक रहा..मौत का परमिट ! | Latest News  | Zee MPCG",
-          "description": "LIVE : Tarkash : 3 लाख में बिक रहा..मौत का परमिट ! | Latest News | Zee MPCG विदेशी फंडिंग.",
+          "index": 4,
+          "videoId": "QG2XGAgeqrI",
+          "title": "🔴LIVE: छत्तीसगढ़ी भाखा म समाचार | Chhattisgarhi News Bulletin | Hamar Bhakha Hamar Raj | Zee MPCG",
+          "description": "LIVE: छत्तीसगढ़ी भाखा म समाचार | Chhattisgarhi News Bulletin | Hamar Bhakha Hamar Raj | Zee MPCG ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-25T23:49:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/f3x7VAboI4w/hqdefault.jpg",
-          "durationSeconds": 1216,
-          "durationFormatted": "20:16",
-          "views": 183,
-          "likes": 2,
+          "publishedAt": "2026-04-26T02:26:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/QG2XGAgeqrI/hqdefault.jpg",
+          "durationSeconds": 1471,
+          "durationFormatted": "24:31",
+          "views": 206,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "ZNTJvN6ayEE",
+          "title": "🔴LIVE : MP - CG : आठ राउंड फायर.. बाल-बाल बचे ट्रंप ! | Hindi News | Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : आठ राउंड फायर.. बाल-बाल बचे ट्रंप ! | Hindi News | Latest News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-26T04:24:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZNTJvN6ayEE/hqdefault.jpg",
+          "durationSeconds": 1535,
+          "durationFormatted": "25:35",
+          "views": 189,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-26T04:24:57Z"
+      "latestUpdateAt": "2026-04-26T06:52:27Z"
     },
     {
-      "clusterId": "newsonair-weather",
-      "topic": "Newsonair Weather",
-      "videoCount": 6,
-      "trendScore": 35.8,
+      "clusterId": "weather-newsonair",
+      "topic": "Weather Newsonair",
+      "videoCount": 5,
+      "trendScore": 34.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wf0_h_iZ3TM/hqdefault.jpg",
           "durationSeconds": 629,
           "durationFormatted": "10:29",
-          "views": 660,
-          "likes": 32,
+          "views": 687,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AzacZLdIb4k/hqdefault.jpg",
           "durationSeconds": 32156,
           "durationFormatted": "08:55:56",
-          "views": 651,
+          "views": 658,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -300,23 +216,23 @@
           "thumbnail": "https://i.ytimg.com/vi/iEO3Ci-kfOk/hqdefault.jpg",
           "durationSeconds": 579,
           "durationFormatted": "09:39",
-          "views": 272,
+          "views": 295,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "x3mWr_m1UqE",
-          "title": "25 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "समय - सुबह 11.55 बजे.",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-04-25T06:51:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/x3mWr_m1UqE/hqdefault.jpg",
-          "durationSeconds": 295,
-          "durationFormatted": "04:55",
-          "views": 145,
-          "likes": 9,
+          "videoId": "6SU7qIbKHFE",
+          "title": "MP-CG Weather Update: MP में 27 अप्रैल से  बन रहे बारिश के आसार, मौसम विभाग ने जारी किया लू का अलर्ट",
+          "description": "मध्य प्रदेश में भीषण गर्मी पड़ रही है। ग्वालियर, चंबल, सागर और रीवा ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-26T05:15:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/6SU7qIbKHFE/hqdefault.jpg",
+          "durationSeconds": 471,
+          "durationFormatted": "07:51",
+          "views": 209,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/COcx6rqmIME/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 76,
+          "views": 202,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -339,10 +255,178 @@
       "latestUpdateAt": "2026-04-26T05:15:19Z"
     },
     {
+      "clusterId": "कररवई-मवश",
+      "topic": "कार्रवाई मवेशी",
+      "videoCount": 15,
+      "trendScore": 31.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "V2hT9fHPCe8",
+          "title": "दुर्ग में मवेशी तस्करी पर बड़ी कार्रवाई, 4 आरोपी गिरफ्तार, पिकअप से 6 मवेशी बरामद",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-25T13:24:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/V2hT9fHPCe8/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 15,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "V2hT9fHPCe8",
+          "title": "दुर्ग में मवेशी तस्करी पर बड़ी कार्रवाई, 4 आरोपी गिरफ्तार, पिकअप से 6 मवेशी बरामद",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-25T13:24:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/V2hT9fHPCe8/hqdefault.jpg",
+          "durationSeconds": 59,
+          "durationFormatted": "00:59",
+          "views": 15,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "8cO-JLtcr3E",
+          "title": "जगदलपुर में छात्रों को एआई और रोबोटिक्स की ट्रेनिंग विवेकानंद स्कूल में डिजिटल स्किल्स पर जोर",
+          "description": "chhattisgarhnews #madhyapradehnews #jagdalpur .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-25T14:33:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/8cO-JLtcr3E/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "3jly9JoP4Os",
+          "title": "भिलाई में जानलेवा हमला: पुरानी रंजिश में हिंसा, दो आरोपी गिरफ्तार, पुलिस की बड़ी कार्रवाई",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-25T13:22:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/3jly9JoP4Os/hqdefault.jpg",
+          "durationSeconds": 54,
+          "durationFormatted": "00:54",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "p94dRxRafEw",
+          "title": "राजनांदगांव में महंत दिग्विजय दास जयंती, वैष्णव समाज ने दी श्रद्धांजलि, लिया संकल्प",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-25T14:22:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/p94dRxRafEw/hqdefault.jpg",
+          "durationSeconds": 339,
+          "durationFormatted": "05:39",
+          "views": 11,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-04-26T07:34:03Z"
+    },
+    {
+      "clusterId": "modi-baat",
+      "topic": "Modi Baat",
+      "videoCount": 5,
+      "trendScore": 31.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "6TlISKNqVQU",
+          "title": "🔴LIVE : PM Narendra Modi : Mann ki Baat 133वां Episode | Narendra Modi | Man Ki Baat",
+          "description": "LIVE: PM Narendra Modi : Mann ki Baat 133वां Episode | Narendra Modi | Man Ki Baat #NarendraModi #MannKiBaat #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-26T05:24:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/6TlISKNqVQU/hqdefault.jpg",
+          "durationSeconds": 1287,
+          "durationFormatted": "21:27",
+          "views": 314,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "jMQDSMnmv-M",
+          "title": "🔴 Mann Ki Baat 133th Episode LIVE: PM Modi के मन की बात का 133वीं कड़ी। देखिए सीधा प्रसारण..",
+          "description": "Mann Ki Baat 133th Episode LIVE: PM Modi के मन की बात का 133वीं कड़ी। देखिए सीधा ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-26T05:55:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/jMQDSMnmv-M/hqdefault.jpg",
+          "durationSeconds": 926,
+          "durationFormatted": "15:26",
+          "views": 195,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "CBGmlc4FJyY",
+          "title": "🔴 Mann Ki Baat 133th Episode LIVE: PM Modi के मन की बात का 133वीं कड़ी। देखिए सीधा प्रसारण..",
+          "description": "Mann Ki Baat 133th Episode LIVE: PM Modi के मन की बात का 133वीं कड़ी। देखिए सीधा ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-26T07:06:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/CBGmlc4FJyY/hqdefault.jpg",
+          "durationSeconds": 1246,
+          "durationFormatted": "20:46",
+          "views": 192,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "WbV3dcohjvE",
+          "title": "PM Modi Mann Ki Baat LIVE: &#39;Wind Energy में आगे बढ़ रहा भारत..&#39;, मन की बात में बोले पीएम मोदी...",
+          "description": "PM Modi Mann Ki Baat LIVE: 'Wind Energy में आगे बढ़ रहा भारत..', मन की बात में बोले पीएम ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-26T06:11:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/WbV3dcohjvE/hqdefault.jpg",
+          "durationSeconds": 1951,
+          "durationFormatted": "32:31",
+          "views": 32,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "1sDsd65PHPY",
+          "title": "Mann Ki Baat में PM Modi ने Chhattisgarh का किया जिक्र, काले हिरणों की वापसी पर कही बड़ी बात",
+          "description": "Mann Ki Baat में PM Modi ने Chhattisgarh का किया जिक्र, काले हिरणों की वापसी पर कही ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-26T07:15:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/1sDsd65PHPY/hqdefault.jpg",
+          "durationSeconds": 100,
+          "durationFormatted": "01:40",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-04-26T07:15:47Z"
+    },
+    {
       "clusterId": "bhaskar-direction",
       "topic": "Bhaskar Direction",
-      "videoCount": 6,
-      "trendScore": 31.1,
+      "videoCount": 5,
+      "trendScore": 28.7,
       "topVideos": [
         {
           "index": 1,
@@ -354,28 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/flmajsuqyY8/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 1850,
-          "likes": 37,
+          "views": 1936,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "qWg2vB8Z534",
-          "title": "बीमार पत्नी को खाट पर बांधकर मदद की तलाश में भटका पति | CG Bhaskar",
-          "description": "बीमार पत्नी को खाट पर बांधकर मदद की तलाश में भटका पति | CG Bhaskar Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-25T07:14:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/qWg2vB8Z534/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 1330,
-          "likes": 41,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "NVcxjrtjm3w",
           "title": "जिसे आप चिरौंजी समझते हैं, वो असल में जंगल का चार है! | CG Bhaskar",
           "description": "जिसे आप चिरौंजी समझते हैं, वो असल में जंगल का चार है! | CG Bhaskar Join our Whatsapp ...",
@@ -390,7 +459,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "U1ITuedjQfM",
           "title": "रायपुर में Direction बोर्ड्स पर विज्ञापन हावी!  | CG Bhaskar",
           "description": "रायपुर में Direction बोर्ड्स पर विज्ञापन हावी! Join our Whatsapp Group ...",
@@ -405,7 +474,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "LNT-2PI4VAA",
           "title": "कल होगी मंडी उप निरीक्षक की परीक्षा, जानें डिटेल | CG Bhaskar",
           "description": "कल होगी मंडी उप निरीक्षक की परीक्षा, जानें डिटेल | CG Bhaskar Join our Whatsapp ...",
@@ -418,15 +487,69 @@
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "jEnElLBxt0M",
+          "title": "भीषण धूप से त्वचा कैसे बचाएं?जानें Expert Advice | CG Bhaskar",
+          "description": "भीषण धूप से त्वचा कैसे बचाएं? जानें Expert Advice Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-25T08:00:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/jEnElLBxt0M/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 297,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-25T12:54:19Z"
     },
     {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 2,
+      "trendScore": 28.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "fq__jt3FggE",
+          "title": "बोली ठोली म आज मिलव पर्यावरण प्रेमी डॉ. पदम जैन ले। BOLI THOLI BANSAL NEWS PROGRAM",
+          "description": "छत्तीसगढ़ी भाषा और संस्कृति को समर्पित कार्यक्रम “बोली ठोली” में इस ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-25T11:53:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/fq__jt3FggE/hqdefault.jpg",
+          "durationSeconds": 1499,
+          "durationFormatted": "24:59",
+          "views": 198,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "H3hUzlEQtDw",
+          "title": "Bhopal School Holiday: भोपाल में गर्मी के चलते 1 से 8वीं तक स्कूल बंद, 30 अप्रैल तक छुट्टी",
+          "description": "भोपाल के सभी स्कूलों में पहली से आठवीं तक की 30 अप्रैल तक छुट्टी ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-26T06:44:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/H3hUzlEQtDw/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 107,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-26T06:44:56Z"
+    },
+    {
       "clusterId": "america-वदश",
       "topic": "America विदेशी",
       "videoCount": 4,
-      "trendScore": 27.0,
+      "trendScore": 26.6,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6hYPEUqLjKI/hqdefault.jpg",
           "durationSeconds": 1651,
           "durationFormatted": "27:31",
-          "views": 759,
+          "views": 926,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -453,28 +576,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sVUD3yZUzp8/hqdefault.jpg",
           "durationSeconds": 256,
           "durationFormatted": "04:16",
-          "views": 423,
+          "views": 607,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "PPUmpwVW0PA",
-          "title": "छत्तीसगढ़: तेलंगाना पुलिस के सामने 47 नक्सलियों का सरेंडर, 34 आधुनिक हथियारों के साथ किया आत्मसमर्पण",
-          "description": "छत्तीसगढ़ी के नक्सलियों का सरेंडर तेलंगाना पुलिस के सामने डाले ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-25T11:54:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/PPUmpwVW0PA/hqdefault.jpg",
-          "durationSeconds": 109,
-          "durationFormatted": "01:49",
-          "views": 107,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "xJwGFUuv5pA",
           "title": "CG News : ED का एक्शन..धर्मांतरण के सामने आए कनेक्शन | बेंगलुरु से विदेशी नागरिक गिरफ्तार",
           "description": "IBC24, CG News : ED का एक्शन..धर्मांतरण के सामने आए कनेक्शन | बेंगलुरु से ...",
@@ -483,8 +591,23 @@
           "thumbnail": "https://i.ytimg.com/vi/xJwGFUuv5pA/hqdefault.jpg",
           "durationSeconds": 333,
           "durationFormatted": "05:33",
-          "views": 81,
+          "views": 152,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "PPUmpwVW0PA",
+          "title": "छत्तीसगढ़: तेलंगाना पुलिस के सामने 47 नक्सलियों का सरेंडर, 34 आधुनिक हथियारों के साथ किया आत्मसमर्पण",
+          "description": "छत्तीसगढ़ी के नक्सलियों का सरेंडर तेलंगाना पुलिस के सामने डाले ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-04-25T11:54:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/PPUmpwVW0PA/hqdefault.jpg",
+          "durationSeconds": 109,
+          "durationFormatted": "01:49",
+          "views": 119,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -492,34 +615,10 @@
       "latestUpdateAt": "2026-04-26T05:08:36Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 25.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "fq__jt3FggE",
-          "title": "बोली ठोली म आज मिलव पर्यावरण प्रेमी डॉ. पदम जैन ले। BOLI THOLI BANSAL NEWS PROGRAM",
-          "description": "छत्तीसगढ़ी भाषा और संस्कृति को समर्पित कार्यक्रम “बोली ठोली” में इस ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-25T11:53:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/fq__jt3FggE/hqdefault.jpg",
-          "durationSeconds": 1499,
-          "durationFormatted": "24:59",
-          "views": 169,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-25T11:53:07Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 3,
-      "trendScore": 24.0,
+      "trendScore": 23.5,
       "topVideos": [
         {
           "index": 1,
