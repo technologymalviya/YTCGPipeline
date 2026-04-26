@@ -1,45 +1,15 @@
 {
-  "generatedAt": "2026-04-25T19:14:40.412694Z",
+  "generatedAt": "2026-04-26T03:59:59.426735Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 47,
-      "trendScore": 62.9,
+      "videoCount": 45,
+      "trendScore": 61.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "8dKQAbNNuFk",
-          "title": "25 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "25 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-04-24T23:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/8dKQAbNNuFk/hqdefault.jpg",
-          "durationSeconds": 1593,
-          "durationFormatted": "26:33",
-          "views": 31848,
-          "likes": 304,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "F1I3vEgqrrc",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-04-24T23:00:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/F1I3vEgqrrc/hqdefault.jpg",
-          "durationSeconds": 822,
-          "durationFormatted": "13:42",
-          "views": 15505,
-          "likes": 495,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "zSBv2ZQClPg",
           "title": "गर्मी का असर: बदल गई आंगनबाड़ी केंद्र की टाइमिंग",
           "description": "गर्मी का असर: बदल गई आंगनबाड़ी केंद्र की टाइमिंग Report/Story: Yashwant Sahu ...",
@@ -48,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/zSBv2ZQClPg/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 13822,
-          "likes": 208,
+          "views": 14665,
+          "likes": 220,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
-          "videoId": "8Ty7rcYm1Pk",
-          "title": "25 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "25 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-04-24T23:48:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/8Ty7rcYm1Pk/hqdefault.jpg",
-          "durationSeconds": 774,
-          "durationFormatted": "12:54",
-          "views": 5666,
-          "likes": 109,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
+          "index": 2,
           "videoId": "CSxey3Hm4ls",
           "title": "Durg Double मर्डR; चश्मदीद ने क्या बताया? | Yashwant Sahu | Bhilai Times News 2026 | Gaurav Yadav |",
           "description": "Durg Double मर्डR; चश्मदीद ने क्या बताया? Report/Story: Yashwant Sahu Camera: Gaurav Yadav Video ...",
@@ -78,19 +33,64 @@
           "thumbnail": "https://i.ytimg.com/vi/CSxey3Hm4ls/hqdefault.jpg",
           "durationSeconds": 86,
           "durationFormatted": "01:26",
-          "views": 5563,
-          "likes": 157,
+          "views": 12446,
+          "likes": 289,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "CSxey3Hm4ls",
+          "title": "Durg Double मर्डR; चश्मदीद ने क्या बताया? | Yashwant Sahu | Bhilai Times News 2026 | Gaurav Yadav |",
+          "description": "Durg Double मर्डR; चश्मदीद ने क्या बताया? Report/Story: Yashwant Sahu Camera: Gaurav Yadav Video ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-25T16:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/CSxey3Hm4ls/hqdefault.jpg",
+          "durationSeconds": 86,
+          "durationFormatted": "01:26",
+          "views": 12446,
+          "likes": 289,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "ekuqEO6s-UY",
+          "title": "26 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "26 April 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-04-25T23:30:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/ekuqEO6s-UY/hqdefault.jpg",
+          "durationSeconds": 1663,
+          "durationFormatted": "27:43",
+          "views": 11268,
+          "likes": 219,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "ynDAxYG0jaA",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-04-25T23:00:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/ynDAxYG0jaA/hqdefault.jpg",
+          "durationSeconds": 842,
+          "durationFormatted": "14:02",
+          "views": 5292,
+          "likes": 354,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-25T18:26:26Z"
+      "latestUpdateAt": "2026-04-26T03:41:46Z"
     },
     {
       "clusterId": "aap-बजप",
       "topic": "AAP बीजेपी",
       "videoCount": 24,
-      "trendScore": 53.2,
+      "trendScore": 49.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/AfWLl-qWB0U/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 6068,
+          "views": 6078,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "Jcn4umX1sSY",
-          "title": "भाजपा के ये दांव कांग्रेस पर कितना भारी पड़ेगा ?",
-          "description": "भाजपा के ये दांव कांग्रेस पर कितना भारी पड़ेगा ? #AAP #BJP #IndianPolitics ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T12:03:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/Jcn4umX1sSY/hqdefault.jpg",
-          "durationSeconds": 132,
-          "durationFormatted": "02:12",
-          "views": 2793,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "LsmjzB_JXnQ",
           "title": "आम आदमी पार्टी के पुराने साथी साथ क्यों छोड़ रहे हैं?",
           "description": "आम आदमी पार्टी के पुराने साथी साथ क्यों छोड़ रहे हैं? #AAP #BJP #IndianPolitics ...",
@@ -132,7 +117,22 @@
           "thumbnail": "https://i.ytimg.com/vi/LsmjzB_JXnQ/hqdefault.jpg",
           "durationSeconds": 152,
           "durationFormatted": "02:32",
-          "views": 805,
+          "views": 3110,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "Jcn4umX1sSY",
+          "title": "भाजपा के ये दांव कांग्रेस पर कितना भारी पड़ेगा ?",
+          "description": "भाजपा के ये दांव कांग्रेस पर कितना भारी पड़ेगा ? #AAP #BJP #IndianPolitics ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-04-25T12:03:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/Jcn4umX1sSY/hqdefault.jpg",
+          "durationSeconds": 132,
+          "durationFormatted": "02:12",
+          "views": 2806,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jTSLyQ4cWGg/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 681,
+          "views": 751,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
@@ -162,7 +162,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x6wDXu5cleE/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 622,
+          "views": 629,
           "likes": 5,
           "videoType": "VOD",
           "genre": "Politics"
@@ -174,7 +174,7 @@
       "clusterId": "bengal-election",
       "topic": "Bengal Election",
       "videoCount": 4,
-      "trendScore": 37.6,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/L_PfXoyvd6A/hqdefault.jpg",
           "durationSeconds": 237,
           "durationFormatted": "03:57",
-          "views": 26667,
-          "likes": 127,
+          "views": 28031,
+          "likes": 131,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -201,22 +201,22 @@
           "thumbnail": "https://i.ytimg.com/vi/ElQy8nQzFGI/hqdefault.jpg",
           "durationSeconds": 42897,
           "durationFormatted": "11:54:57",
-          "views": 8327,
+          "views": 8932,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "ag8punip7lI",
-          "title": "🔴 Vande Bharat Prime Time Bulletin LIVE |  कौन जितेगा बंगाल की बाजी? West Bengal Election 2026",
-          "description": "Vande Bharat Prime Time Bulletin LIVE | कौन जितेगा बंगाल की बाजी? West Bengal Election 2026 MP-CG ...",
+          "videoId": "LEPH5KS1XSg",
+          "title": "🔴West Bengal Election 2026: उत्तर 24 परगना में किसका माहौल टाइट? BJP । TMC । Mamata Banerjee",
+          "description": "IBC24, West Bengal Election 2026: उत्तर 24 परगना में किसका माहौल टाइट? BJP । TMC । Mamata ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-04-25T15:52:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/ag8punip7lI/hqdefault.jpg",
-          "durationSeconds": 1476,
-          "durationFormatted": "24:36",
-          "views": 255,
+          "publishedAt": "2026-04-25T19:16:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/LEPH5KS1XSg/hqdefault.jpg",
+          "durationSeconds": 32491,
+          "durationFormatted": "09:01:31",
+          "views": 1105,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -231,19 +231,19 @@
           "thumbnail": "https://i.ytimg.com/vi/YnBfOalZzDE/hqdefault.jpg",
           "durationSeconds": 365,
           "durationFormatted": "06:05",
-          "views": 48,
+          "views": 137,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-25T19:13:27Z"
+      "latestUpdateAt": "2026-04-25T19:16:08Z"
     },
     {
       "clusterId": "newsonair-chhattisgarh",
       "topic": "Newsonair Chhattisgarh",
       "videoCount": 5,
-      "trendScore": 37.0,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -255,7 +255,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AzacZLdIb4k/hqdefault.jpg",
           "durationSeconds": 32156,
           "durationFormatted": "08:55:56",
-          "views": 487,
+          "views": 612,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wf0_h_iZ3TM/hqdefault.jpg",
           "durationSeconds": 629,
           "durationFormatted": "10:29",
-          "views": 391,
-          "likes": 24,
+          "views": 581,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iEO3Ci-kfOk/hqdefault.jpg",
           "durationSeconds": 579,
           "durationFormatted": "09:39",
-          "views": 237,
+          "views": 268,
           "likes": 14,
           "videoType": "VOD",
           "genre": "General"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/x3mWr_m1UqE/hqdefault.jpg",
           "durationSeconds": 295,
           "durationFormatted": "04:55",
-          "views": 143,
+          "views": 146,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kB402g-eM-Y/hqdefault.jpg",
           "durationSeconds": 289,
           "durationFormatted": "04:49",
-          "views": 42,
+          "views": 47,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -324,10 +324,94 @@
       "latestUpdateAt": "2026-04-25T19:11:08Z"
     },
     {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 5,
+      "trendScore": 32.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "sgWcaGfEpWg",
+          "title": "🔴LIVE :  Aapki Aawaz : विदेशी फंडिंग...   धर्मांतरण का नेटवर्क ? |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : विदेशी फंडिंग... धर्मांतरण का नेटवर्क ? | Zee MPCG | Latest News #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-26T03:28:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/sgWcaGfEpWg/hqdefault.jpg",
+          "durationSeconds": 1491,
+          "durationFormatted": "24:51",
+          "views": 322,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "f3x7VAboI4w",
+          "title": "🔴LIVE : Tarkash : 3 लाख में बिक रहा..मौत का परमिट ! | Latest News  | Zee MPCG",
+          "description": "LIVE : Tarkash : 3 लाख में बिक रहा..मौत का परमिट ! | Latest News | Zee MPCG विदेशी फंडिंग.",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-25T23:49:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/f3x7VAboI4w/hqdefault.jpg",
+          "durationSeconds": 1216,
+          "durationFormatted": "20:16",
+          "views": 170,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "qbPFGBeh7sk",
+          "title": "🔴LIVE :  Aapki Aawaz : शिक्षा को बना दिया बाजार ! |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : शिक्षा को बना दिया बाजार ! | Zee MPCG | Latest News जंगल में कब्जे की ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-26T02:59:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/qbPFGBeh7sk/hqdefault.jpg",
+          "durationSeconds": 1561,
+          "durationFormatted": "26:01",
+          "views": 155,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "0qpdMkizkxc",
+          "title": "🔴LIVE : Khabar Apne MP Ki : पानी के लिए बहा खून  | Zee MPCG",
+          "description": "LIVE : Khabar Apne MP Ki : पानी के लिए बहा खून | Zee MPCG ट्रेन में खूनी संघर्ष 1.5 ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-26T01:53:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/0qpdMkizkxc/hqdefault.jpg",
+          "durationSeconds": 1255,
+          "durationFormatted": "20:55",
+          "views": 102,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "uYBOAtrycm8",
+          "title": "🔴LIVE : Mudda To Hai : राजधानी में ट्रैफिक नियमों की धज्जियां |  Zee MPCG  | Latest News",
+          "description": "LIVE : Mudda To Hai : राजधानी में ट्रैफिक नियमों की धज्जियां | Zee MPCG | Latest News ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-26T01:23:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/uYBOAtrycm8/hqdefault.jpg",
+          "durationSeconds": 1300,
+          "durationFormatted": "21:40",
+          "views": 72,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-26T03:28:40Z"
+    },
+    {
       "clusterId": "bhaskar-direction",
       "topic": "Bhaskar Direction",
       "videoCount": 6,
-      "trendScore": 35.1,
+      "trendScore": 31.6,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/flmajsuqyY8/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 1474,
-          "likes": 31,
+          "views": 1699,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qWg2vB8Z534/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 1135,
-          "likes": 36,
+          "views": 1182,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NVcxjrtjm3w/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 949,
+          "views": 999,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/U1ITuedjQfM/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 407,
+          "views": 911,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -399,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/LNT-2PI4VAA/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 383,
-          "likes": 6,
+          "views": 494,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -408,94 +492,10 @@
       "latestUpdateAt": "2026-04-25T12:54:19Z"
     },
     {
-      "clusterId": "foreign-funding",
-      "topic": "Foreign Funding",
-      "videoCount": 5,
-      "trendScore": 31.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "WpSeWJxdKUU",
-          "title": "CG में ईसाई धर्म के प्रचार के लिए विदेशी फंडिंग| 95 करोड़ पहुंचा, Bastar-Dhamtari में 6.5 करोड़ खर्च",
-          "description": "Chhattisgarh में ईसाई धर्म के प्रचार के लिए विदेशी फंडिंग | 95 करोड़ पहुंचा, ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T06:38:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/WpSeWJxdKUU/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 1754,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "u5lVoodvTHI",
-          "title": "विदेशी फंडिंग का मामला कितना संवेदनशील और कहां तक जुड़ेंगे इसके तार?  Foreign Funding in CG",
-          "description": "विदेशी फंडिंग का मामला कितना संवेदनशील और कहां तक जुड़ेंगे इसके ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-25T15:36:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/u5lVoodvTHI/hqdefault.jpg",
-          "durationSeconds": 150,
-          "durationFormatted": "02:30",
-          "views": 830,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "M4pm2Kpr5QU",
-          "title": "विदेशी फंडिंग को कौन दे रहा संरक्षण?  Foreign Funding in CG #shorts #viralvideo #cgnews",
-          "description": "विदेशी फंडिंग को कौन दे रहा संरक्षण? Foreign Funding in CG #shorts #viralvideo #cgnews ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-25T16:05:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/M4pm2Kpr5QU/hqdefault.jpg",
-          "durationSeconds": 121,
-          "durationFormatted": "02:01",
-          "views": 493,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "zvtsOdqgvl0",
-          "title": "विदेशी फंडिंग से Chhattisgarh में बड़ा खेल? 95 करोड़ की एंट्री पर ED का खुलासा! Foreign Funding",
-          "description": "विदेशी फंडिंग से Chhattisgarh में बड़ा खेल? 95 करोड़ की एंट्री पर ED का ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-04-25T07:44:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/zvtsOdqgvl0/hqdefault.jpg",
-          "durationSeconds": 1508,
-          "durationFormatted": "25:08",
-          "views": 114,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "qJnsoZ53L6g",
-          "title": "Chhattisgarh Foreign Funding Case: ED का बड़ा खुलासा | Bastar-Dhamtari में ₹6.5 करोड़ खपाए",
-          "description": "Chhattisgarh Foreign Funding Case: ED का बड़ा खुलासा | Bastar-Dhamtari में ₹6.5 करोड़ खपाए ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-25T13:09:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/qJnsoZ53L6g/hqdefault.jpg",
-          "durationSeconds": 160,
-          "durationFormatted": "02:40",
-          "views": 23,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-25T16:05:15Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 30.7,
+      "trendScore": 25.9,
       "topVideos": [
         {
           "index": 1,
@@ -507,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fq__jt3FggE/hqdefault.jpg",
           "durationSeconds": 1499,
           "durationFormatted": "24:59",
-          "views": 96,
-          "likes": 5,
+          "views": 141,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -519,7 +519,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 3,
-      "trendScore": 29.1,
+      "trendScore": 24.9,
       "topVideos": [
         {
           "index": 1,
@@ -531,7 +531,7 @@
           "thumbnail": "https://i.ytimg.com/vi/aT-sVG-uuW8/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 299,
+          "views": 342,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -546,7 +546,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3fgo5KgXOoM/hqdefault.jpg",
           "durationSeconds": 1462,
           "durationFormatted": "24:22",
-          "views": 135,
+          "views": 179,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -561,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3fgo5KgXOoM/hqdefault.jpg",
           "durationSeconds": 1462,
           "durationFormatted": "24:22",
-          "views": 135,
+          "views": 179,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
