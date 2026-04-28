@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-28T07:12:32.936813Z",
+  "generatedAt": "2026-04-28T10:28:48.150219Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 60,
-      "trendScore": 62.0,
+      "videoCount": 71,
+      "trendScore": 62.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UqICCE4wAX0/hqdefault.jpg",
           "durationSeconds": 1612,
           "durationFormatted": "26:52",
-          "views": 14868,
-          "likes": 263,
+          "views": 19778,
+          "likes": 292,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/snUxdvsJSJo/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 14659,
-          "likes": 484,
+          "views": 18648,
+          "likes": 563,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "e23s-F8sbe0",
-          "title": "CGPSC 2025 MAINS की तारीख बढ़ाने की मांग तैयारी के लिए समय कम और गर्मी का प्रकोप",
-          "description": "cgpsc #psc #mains #cgbox CG Box News छत्तीसगढ़ का अपना डिजिटल न्यूज़ प्लेटफॉर्म ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-04-27T09:22:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/e23s-F8sbe0/hqdefault.jpg",
-          "durationSeconds": 40,
-          "durationFormatted": "00:40",
-          "views": 13020,
-          "likes": 559,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "C15ItzD31Mk",
           "title": "UP के IPS ने शुरू किया बंगाल के बदमाशों का इलाज | IPS Ajay Pal Sharma | @tirandaj",
           "description": "westbengalelections #UPsingham #IPSajaypalsharma #ajaypalsharmavideo #viralvideo #पश्चिमबंगालचुनाव ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/C15ItzD31Mk/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 7185,
-          "likes": 153,
+          "views": 13187,
+          "likes": 197,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "v0yNElfRJwQ",
           "title": "चुनाव लड़ने के सवाल पर क्या बोले, छत्तीसगढ़ नीति आयोग के उपाध्यक्ष GS मिश्रा?...",
           "description": "चुनाव लड़ने के सवाल पर क्या बोले, छत्तीसगढ़ नीति आयोग के उपाध्यक्ष ...",
@@ -78,19 +63,187 @@
           "thumbnail": "https://i.ytimg.com/vi/v0yNElfRJwQ/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 7132,
-          "likes": 61,
+          "views": 8293,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "Kx9wfSIr3FA",
+          "title": "Khairagarh मंडीपखोल गुफा| नदी को सोलह बार करना होता है पार| CG की सबसे बड़ी गुफा से ग्राउंड रिपोर्ट|",
+          "description": "Khairagarh मंडीपखोल गुफा| नदी को सोलह बार करना होता है पार| CG की सबसे बड़ी ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-28T02:00:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/Kx9wfSIr3FA/hqdefault.jpg",
+          "durationSeconds": 867,
+          "durationFormatted": "14:27",
+          "views": 5720,
+          "likes": 228,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-28T07:03:59Z"
+      "latestUpdateAt": "2026-04-28T10:16:26Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 4,
+      "trendScore": 42.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "T5uU0kDiLdk",
+          "title": "क्या नहीं रहीं पद्मश्री से सम्मानित तीजन बाई? सोशल मीडिया पर फैली अफवाहों के बीच क्या है पूरी सच्चाई",
+          "description": "क्या नहीं रहीं पद्मश्री से सम्मानित तीजन बाई? सोशल मीडिया पर फैली ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-27T14:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/T5uU0kDiLdk/hqdefault.jpg",
+          "durationSeconds": 769,
+          "durationFormatted": "12:49",
+          "views": 5235,
+          "likes": 144,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "mRP_7FftFtc",
+          "title": "कल दोपहर ढाई बजे 10वीं-12वीं के नतीजे...",
+          "description": "कल दोपहर ढाई बजे 10वीं-12वीं के नतीजे... Join this channel to get access to the perks: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-04-28T09:30:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/mRP_7FftFtc/hqdefault.jpg",
+          "durationSeconds": 140,
+          "durationFormatted": "02:20",
+          "views": 4245,
+          "likes": 303,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "6ewNM9kVvOA",
+          "title": "Padma Vibhushan Teejan Bai की मौत की अफवाह | अफवाह से परिजन परेशान | Pandwani Singer",
+          "description": "IBC24, Padma Vibhushan Teejan Bai की मौत की अफवाह | अफवाह से परिजन परेशान | Pandwani Singer ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-28T08:01:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/6ewNM9kVvOA/hqdefault.jpg",
+          "durationSeconds": 93,
+          "durationFormatted": "01:33",
+          "views": 166,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "Ok0JzyyC1u8",
+          "title": "बालोद में नईदुनिया की पहल: बस स्टैंड पर शुरू हुआ नि:शुल्क प्याऊ, गर्मी में लोगों को राहत",
+          "description": "बालोद के नए बस स्टैंड में भीषण गर्मी के बीच नईदुनिया द्वारा नि:शुल्क ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-04-28T10:12:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ok0JzyyC1u8/hqdefault.jpg",
+          "durationSeconds": 51,
+          "durationFormatted": "00:51",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-28T10:12:57Z"
+    },
+    {
+      "clusterId": "bhaskar-अपरल",
+      "topic": "Bhaskar अप्रैल",
+      "videoCount": 8,
+      "trendScore": 40.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "wOSN0SzbbMQ",
+          "title": "भिलाई के रेल चौक में हुआ कार हाdसा, नंबर प्लेट निकाल कर भागने लगा  | CG Bhaskar",
+          "description": "भिलाई के रेल चौक में हुआ कार हाdसा, नंबर प्लेट निकाल कर भागने लगा Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-27T13:31:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/wOSN0SzbbMQ/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 2265,
+          "likes": 51,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "qlm6f0abeHw",
+          "title": "मोहित की शादी में टीम CG Bhaskar की मस्ती | CG Bhaskar",
+          "description": "मोहित की शादी में टीम CG Bhaskar की मस्ती | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-27T16:40:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/qlm6f0abeHw/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 1262,
+          "likes": 38,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "KmOqBXX5kp0",
+          "title": "30 अप्रैल को जारी होगा 10वीं-12वीं का रिजल्ट | CG Bhaskar",
+          "description": "30 अप्रैल को जारी होगा 10वीं-12वीं का रिजल्ट | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-28T07:51:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/KmOqBXX5kp0/hqdefault.jpg",
+          "durationSeconds": 35,
+          "durationFormatted": "00:35",
+          "views": 922,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "bt_ftt2EPXs",
+          "title": "अजय चंद्राकर के भाई के घर रेड, 15 घंटे चली जांच | CG Bhaskar",
+          "description": "अजय चंद्राकर के भाई के घर रेड, 15 घंटे चली जांच | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-28T10:00:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/bt_ftt2EPXs/hqdefault.jpg",
+          "durationSeconds": 107,
+          "durationFormatted": "01:47",
+          "views": 861,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "XXEIA69Ip50",
+          "title": "उरला रोड की बदहाल हालत, बढ़ रहे हादसे | CG Bhaskar",
+          "description": "उरला रोड की बदहाल हालत, बढ़ रहे हादसे Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-27T14:01:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/XXEIA69Ip50/hqdefault.jpg",
+          "durationSeconds": 101,
+          "durationFormatted": "01:41",
+          "views": 796,
+          "likes": 29,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-28T10:27:41Z"
     },
     {
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 39.6,
+      "trendScore": 37.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/agbXKf1GFkU/hqdefault.jpg",
           "durationSeconds": 613,
           "durationFormatted": "10:13",
-          "views": 625,
-          "likes": 36,
+          "views": 690,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Qwcvo9td6Kk/hqdefault.jpg",
           "durationSeconds": 559,
           "durationFormatted": "09:19",
-          "views": 289,
+          "views": 299,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -132,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dy0MJEhDEvY/hqdefault.jpg",
           "durationSeconds": 301,
           "durationFormatted": "05:01",
-          "views": 28,
-          "likes": 3,
+          "views": 40,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/gcH2KM7SL2E/hqdefault.jpg",
           "durationSeconds": 271,
           "durationFormatted": "04:31",
-          "views": 0,
-          "likes": 0,
+          "views": 15,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -158,8 +311,8 @@
     {
       "clusterId": "april-copy",
       "topic": "April copy",
-      "videoCount": 13,
-      "trendScore": 34.9,
+      "videoCount": 10,
+      "trendScore": 33.6,
       "topVideos": [
         {
           "index": 1,
@@ -171,28 +324,13 @@
           "thumbnail": "https://i.ytimg.com/vi/noFHBDRDBbQ/hqdefault.jpg",
           "durationSeconds": 1814,
           "durationFormatted": "30:14",
-          "views": 532,
+          "views": 539,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "_s_sqWK-hQI",
-          "title": "कांकेर से बालोद जा रही बारात की बस में भीषण आग, नेशनल हाईवे पर मचा हड़कंप",
-          "description": "chhattisgarhnews #madhyapradehnews #balod .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-27T10:38:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/_s_sqWK-hQI/hqdefault.jpg",
-          "durationSeconds": 50,
-          "durationFormatted": "00:50",
-          "views": 182,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "rXvXMkIuQjk",
           "title": "Rajnandgaon: दीवानझिटिया पंचायत में फर्जी NOC, सरपंच पर खाली कागजों पर हस्ताक्षर कराने का आरोप",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -201,28 +339,28 @@
           "thumbnail": "https://i.ytimg.com/vi/rXvXMkIuQjk/hqdefault.jpg",
           "durationSeconds": 400,
           "durationFormatted": "06:40",
-          "views": 49,
-          "likes": 2,
+          "views": 64,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "-xC524l76PU",
+          "title": "राजनांदगांव में 42 डिग्री की भीषण गर्मी, हीट वेव और लू का अलर्ट जारी, मौसम विभाग की चेतावनी",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-27T12:46:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/-xC524l76PU/hqdefault.jpg",
+          "durationSeconds": 40,
+          "durationFormatted": "00:40",
+          "views": 58,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "NlfH-7rJIJY",
-          "title": "राजनांदगांव कलेक्ट्रेट में शिवसेना का उपवास धरना, गौ माता को राष्ट्र माता दर्जा देने की मांग तेज",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-27T10:25:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/NlfH-7rJIJY/hqdefault.jpg",
-          "durationSeconds": 270,
-          "durationFormatted": "04:30",
-          "views": 43,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "K5Fji4-cWIc",
           "title": "बेमेतरा में गौवंश संरक्षण को लेकर विशाल पदयात्रा, राष्ट्रिय स्तर पर सम्मान दिलाने की मांग",
           "description": "chhattisgarhnews #madhyapradehnews #bemetaranews .",
@@ -231,103 +369,34 @@
           "thumbnail": "https://i.ytimg.com/vi/K5Fji4-cWIc/hqdefault.jpg",
           "durationSeconds": 190,
           "durationFormatted": "03:10",
-          "views": 32,
+          "views": 41,
           "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-27T13:40:15Z"
-    },
-    {
-      "clusterId": "bhaskar-durg",
-      "topic": "Bhaskar Durg",
-      "videoCount": 7,
-      "trendScore": 34.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "wOSN0SzbbMQ",
-          "title": "भिलाई के रेल चौक में हुआ कार हाdसा, नंबर प्लेट निकाल कर भागने लगा  | CG Bhaskar",
-          "description": "भिलाई के रेल चौक में हुआ कार हाdसा, नंबर प्लेट निकाल कर भागने लगा Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-27T13:31:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/wOSN0SzbbMQ/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 1948,
-          "likes": 49,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "8q3YSRrZi0k",
-          "title": "Durg में तेज रफ़्तार के चलते बाराती बस पलटी , 19 लोग घायल | Khush | CG Bhaskar",
-          "description": "Durg में तेज रफ़्तार के चलते बाराती बस पलटी , 19 लोग घायल | Khush Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-27T09:29:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/8q3YSRrZi0k/hqdefault.jpg",
-          "durationSeconds": 261,
-          "durationFormatted": "04:21",
-          "views": 1846,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "8q3YSRrZi0k",
-          "title": "Durg में तेज रफ़्तार के चलते बाराती बस पलटी , 19 लोग घायल | Khush | CG Bhaskar",
-          "description": "Durg में तेज रफ़्तार के चलते बाराती बस पलटी , 19 लोग घायल | Khush Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-27T09:29:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/8q3YSRrZi0k/hqdefault.jpg",
-          "durationSeconds": 261,
-          "durationFormatted": "04:21",
-          "views": 1846,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "2oZtw_sfYz4",
-          "title": "बारातियों से भरी बस में लगी आG | CG Bhaskar",
-          "description": "बारातियों से भरी बस में लगी आG | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-27T08:53:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/2oZtw_sfYz4/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 1384,
-          "likes": 38,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "qlm6f0abeHw",
-          "title": "मोहित की शादी में टीम CG Bhaskar की मस्ती | CG Bhaskar",
-          "description": "मोहित की शादी में टीम CG Bhaskar की मस्ती | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-27T16:40:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/qlm6f0abeHw/hqdefault.jpg",
-          "durationSeconds": 85,
-          "durationFormatted": "01:25",
-          "views": 962,
-          "likes": 35,
+          "videoId": "I5iLh5-wTkE",
+          "title": "खैरागढ़ की मंडीप खोल गुफा का रहस्य, साल में एक दिन खुलती है गुफा, हजारों श्रद्धालु करते हैं दर्शन",
+          "description": "chhattisgarhnews #madhyapradehnews #khairagarh .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-27T12:46:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/I5iLh5-wTkE/hqdefault.jpg",
+          "durationSeconds": 114,
+          "durationFormatted": "01:54",
+          "views": 25,
+          "likes": 2,
           "videoType": "VOD",
-          "genre": "Events"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-27T16:40:10Z"
+      "latestUpdateAt": "2026-04-28T08:44:40Z"
     },
     {
       "clusterId": "आवस-पएम",
       "topic": "आवास पीएम",
-      "videoCount": 5,
-      "trendScore": 34.2,
+      "videoCount": 4,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -339,28 +408,13 @@
           "thumbnail": "https://i.ytimg.com/vi/GCEeRvCTNHY/hqdefault.jpg",
           "durationSeconds": 163,
           "durationFormatted": "02:43",
-          "views": 18413,
-          "likes": 184,
+          "views": 20193,
+          "likes": 204,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "UNrDqffE80I",
-          "title": "गो माता को राष्ट्रीय माता का दर्जा दिलाने यादव समाज उतरा सड़कों पर | CG Bhaskar",
-          "description": "गो माता को राष्ट्रीय माता का दर्जा दिलाने यादव समाज उतरा सड़कों पर ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-27T10:00:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/UNrDqffE80I/hqdefault.jpg",
-          "durationSeconds": 146,
-          "durationFormatted": "02:26",
-          "views": 591,
-          "likes": 24,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "jcodHi6T-Hw",
           "title": "दुर्ग उरला में सड़क निर्माण नहीं, पानी की किल्लत—मूलभूत सुविधाओं से जूझ रहे लोग | CG Bhaskar",
           "description": "दुर्ग उरला में सड़क निर्माण नहीं, पानी की किल्लत—मूलभूत सुविधाओं ...",
@@ -369,13 +423,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jcodHi6T-Hw/hqdefault.jpg",
           "durationSeconds": 99,
           "durationFormatted": "01:39",
-          "views": 160,
-          "likes": 2,
+          "views": 379,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "_1qupwJ0rvY",
           "title": "दुर्ग उरला में सड़क निर्माण नहीं, पानी की किल्लत—मूलभूत सुविधाओं से जूझ रहे लोग | CG Bhaskar",
           "description": "दुर्ग उरला में सड़क निर्माण नहीं, पानी की किल्लत—मूलभूत सुविधाओं ...",
@@ -384,13 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/_1qupwJ0rvY/hqdefault.jpg",
           "durationSeconds": 278,
           "durationFormatted": "04:38",
-          "views": 71,
+          "views": 104,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "GLomXtL3YO4",
           "title": "राजनांदगांव में खाद्य सुरक्षा विभाग की कार्रवाई, शहर के 12 फूड स्टॉल का निरक्षण | CG Bhaskar",
           "description": "राजनांदगांव में खाद्य सुरक्षा विभाग की कार्रवाई, शहर के 12 फूड स्टॉल ...",
@@ -399,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GLomXtL3YO4/hqdefault.jpg",
           "durationSeconds": 220,
           "durationFormatted": "03:40",
-          "views": 38,
+          "views": 84,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -410,21 +464,21 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 5,
-      "trendScore": 29.9,
+      "videoCount": 6,
+      "trendScore": 31.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "C823HDYKsBc",
-          "title": "🔴LIVE : MP-CG News DMF घोटाला मामले में जमानत याचिका खारिज | Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News DMF घोटाला मामले में जमानत याचिका खारिज | Latest News | Zee MPCG #Live ...",
+          "videoId": "QZxv_VMtqg0",
+          "title": "🔴LIVE: छत्तीसगढ़ी भाखा म समाचार | Chhattisgarhi News Bulletin | Hamar Bhakha Hamar Raj | Zee MPCG",
+          "description": "LIVE: छत्तीसगढ़ी भाखा म समाचार | Chhattisgarhi News Bulletin | Hamar Bhakha Hamar Raj | Zee MPCG ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-27T20:27:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/C823HDYKsBc/hqdefault.jpg",
-          "durationSeconds": 1375,
-          "durationFormatted": "22:55",
-          "views": 241,
-          "likes": 1,
+          "publishedAt": "2026-04-28T02:25:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/QZxv_VMtqg0/hqdefault.jpg",
+          "durationSeconds": 1525,
+          "durationFormatted": "25:25",
+          "views": 175,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -438,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/o0B15h2W6Rs/hqdefault.jpg",
           "durationSeconds": 1491,
           "durationFormatted": "24:51",
-          "views": 151,
+          "views": 152,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -453,28 +507,13 @@
           "thumbnail": "https://i.ytimg.com/vi/RTpXTuysgVg/hqdefault.jpg",
           "durationSeconds": 1416,
           "durationFormatted": "23:36",
-          "views": 138,
+          "views": 144,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "hy9tyS84M7s",
-          "title": "🔴LIVE : Mudda To Hai : पानी की परेशानी...सिस्टम की आनाकानी  |  Zee MPCG  | Latest News",
-          "description": "LIVE : Mudda To Hai : पानी की परेशानी...सिस्टम की आनाकानी | Zee MPCG | Latest News मध्य ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-28T01:31:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/hy9tyS84M7s/hqdefault.jpg",
-          "durationSeconds": 1566,
-          "durationFormatted": "26:06",
-          "views": 128,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "x4Bk65_MeVU",
           "title": "🔴LIVE : Din Dahade : बालाघाट : 45 साल बाद वनभैंसों की वापसी | Latest News | Zee MPCG",
           "description": "LIVE : Din Dahade : बालाघाट : 45 साल बाद वनभैंसों की वापसी | Latest News | Zee MPCG ...",
@@ -483,43 +522,34 @@
           "thumbnail": "https://i.ytimg.com/vi/x4Bk65_MeVU/hqdefault.jpg",
           "durationSeconds": 1519,
           "durationFormatted": "25:19",
-          "views": 39,
+          "views": 115,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "FxP2UOA3u-Y",
+          "title": "🔴LIVE : MP - CG : इंदौर:अवैध निर्माण पर निगम का एक्शन  |  Latest News | Zee MPCG",
+          "description": "LIVE : MP - CG : इंदौर:अवैध निर्माण पर निगम का एक्शन | Latest News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-28T09:22:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/FxP2UOA3u-Y/hqdefault.jpg",
+          "durationSeconds": 1490,
+          "durationFormatted": "24:50",
+          "views": 42,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-28T06:22:55Z"
+      "latestUpdateAt": "2026-04-28T09:22:14Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 29.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "T5uU0kDiLdk",
-          "title": "क्या नहीं रहीं पद्मश्री से सम्मानित तीजन बाई? सोशल मीडिया पर फैली अफवाहों के बीच क्या है पूरी सच्चाई",
-          "description": "क्या नहीं रहीं पद्मश्री से सम्मानित तीजन बाई? सोशल मीडिया पर फैली ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-04-27T14:00:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/T5uU0kDiLdk/hqdefault.jpg",
-          "durationSeconds": 769,
-          "durationFormatted": "12:49",
-          "views": 4442,
-          "likes": 132,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-04-27T14:00:44Z"
-    },
-    {
-      "clusterId": "bhilai-supela",
-      "topic": "Bhilai Supela",
-      "videoCount": 4,
-      "trendScore": 26.2,
+      "clusterId": "bhilai-janvi",
+      "topic": "Bhilai Janvi",
+      "videoCount": 6,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -531,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l_KLhNNiYGI/hqdefault.jpg",
           "durationSeconds": 830,
           "durationFormatted": "13:50",
-          "views": 2354,
+          "views": 3038,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -546,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/l_KLhNNiYGI/hqdefault.jpg",
           "durationSeconds": 830,
           "durationFormatted": "13:50",
-          "views": 2354,
+          "views": 3038,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -561,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/b2w7rucF6_Q/hqdefault.jpg",
           "durationSeconds": 396,
           "durationFormatted": "06:36",
-          "views": 596,
+          "views": 753,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -576,13 +606,28 @@
           "thumbnail": "https://i.ytimg.com/vi/b2w7rucF6_Q/hqdefault.jpg",
           "durationSeconds": 396,
           "durationFormatted": "06:36",
-          "views": 596,
+          "views": 753,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "NQBWT8mxi5U",
+          "title": "Bhilai मे नाली जाम.. 3 बच्चों को पीलिया,  लोग घर छोड़ने मजबूर! || KP News || Janvi",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-04-28T09:15:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/NQBWT8mxi5U/hqdefault.jpg",
+          "durationSeconds": 808,
+          "durationFormatted": "13:28",
+          "views": 165,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-27T15:01:17Z"
+      "latestUpdateAt": "2026-04-28T09:15:04Z"
     }
   ]
 }
