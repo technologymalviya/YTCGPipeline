@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-28T17:59:36.202420Z",
+  "generatedAt": "2026-04-28T19:59:57.912056Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 63,
-      "trendScore": 63.8,
+      "videoCount": 66,
+      "trendScore": 63.2,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UqICCE4wAX0/hqdefault.jpg",
           "durationSeconds": 1612,
           "durationFormatted": "26:52",
-          "views": 24236,
+          "views": 24647,
           "likes": 305,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/C15ItzD31Mk/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 16974,
-          "likes": 219,
+          "views": 17317,
+          "likes": 217,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v0yNElfRJwQ/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 9849,
+          "views": 10091,
           "likes": 82,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Kx9wfSIr3FA/hqdefault.jpg",
           "durationSeconds": 867,
           "durationFormatted": "14:27",
-          "views": 9205,
-          "likes": 286,
+          "views": 9792,
+          "likes": 290,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,37 +78,22 @@
           "thumbnail": "https://i.ytimg.com/vi/QVg0jGs4Jyg/hqdefault.jpg",
           "durationSeconds": 769,
           "durationFormatted": "12:49",
-          "views": 5448,
-          "likes": 98,
+          "views": 5652,
+          "likes": 99,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-28T17:53:11Z"
+      "latestUpdateAt": "2026-04-28T19:17:21Z"
     },
     {
-      "clusterId": "रजनदगव-मग",
-      "topic": "राजनांदगांव मांग",
-      "videoCount": 18,
-      "trendScore": 45.3,
+      "clusterId": "जच-रजनदगव",
+      "topic": "जांच राजनांदगांव",
+      "videoCount": 17,
+      "trendScore": 43.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "uqzkKVrI1MY",
-          "title": "राजनांदगांव में आस्था मूकबधिर शाला के शिक्षक मानदेय बढ़ाने की मांग को लेकर परेशान आर्थिक संकट बढ़ा",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-28T10:30:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/uqzkKVrI1MY/hqdefault.jpg",
-          "durationSeconds": 175,
-          "durationFormatted": "02:55",
-          "views": 29,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "qeNACAenDX0",
           "title": "राजनांदगांव में छत्तीसगढ़िया क्रांति सेना ने जनगणना में छत्तीसगढ़ी भाषा शामिल करने की मांग की",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -117,13 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/qeNACAenDX0/hqdefault.jpg",
           "durationSeconds": 362,
           "durationFormatted": "06:02",
-          "views": 18,
+          "views": 35,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "ato_eecqxYc",
           "title": "मुंगेली सेंगुड़ा अग्निकांड मामले में पत्नी ने पति को निर्दोष बताया निष्पक्ष जांच की मांग तेज",
           "description": "chhattisgarhnews #madhyapradehnews #mungelinews .",
@@ -132,10 +117,25 @@
           "thumbnail": "https://i.ytimg.com/vi/ato_eecqxYc/hqdefault.jpg",
           "durationSeconds": 240,
           "durationFormatted": "04:00",
+          "views": 19,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "77MzuoML6kg",
+          "title": "मुंगेली लोरमी बटहा गांव में सांसद घर की दीवारों पर विवादित शब्द लिखे गए जांच जारी",
+          "description": "chhattisgarhnews #madhyapradehnews #mungelinews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-28T12:04:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/77MzuoML6kg/hqdefault.jpg",
+          "durationSeconds": 68,
+          "durationFormatted": "01:08",
           "views": 16,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Politics"
         },
         {
           "index": 4,
@@ -154,18 +154,18 @@
         },
         {
           "index": 5,
-          "videoId": "77MzuoML6kg",
-          "title": "मुंगेली लोरमी बटहा गांव में सांसद घर की दीवारों पर विवादित शब्द लिखे गए जांच जारी",
-          "description": "chhattisgarhnews #madhyapradehnews #mungelinews .",
+          "videoId": "IvVxtEIuktk",
+          "title": "गरियाबंद में बैलगाड़ी से निकली अनोखी बारात सादगी में दिखी असली शान और परंपरा का संदेश",
+          "description": "chhattisgarhnews #madhyapradehnews #gariyabandnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-28T12:04:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/77MzuoML6kg/hqdefault.jpg",
-          "durationSeconds": 68,
-          "durationFormatted": "01:08",
-          "views": 10,
+          "publishedAt": "2026-04-28T11:43:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/IvVxtEIuktk/hqdefault.jpg",
+          "durationSeconds": 72,
+          "durationFormatted": "01:12",
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-04-28T14:25:12Z"
@@ -174,7 +174,7 @@
       "clusterId": "newsonair-अपरल",
       "topic": "Newsonair अप्रैल",
       "videoCount": 4,
-      "trendScore": 45.0,
+      "trendScore": 41.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ukD0ICe8dY0/hqdefault.jpg",
           "durationSeconds": 633,
           "durationFormatted": "10:33",
-          "views": 292,
-          "likes": 28,
+          "views": 398,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -243,7 +243,7 @@
       "clusterId": "bhaskar-bjp",
       "topic": "Bhaskar BJP",
       "videoCount": 9,
-      "trendScore": 40.6,
+      "trendScore": 39.9,
       "topVideos": [
         {
           "index": 1,
@@ -255,8 +255,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KmOqBXX5kp0/hqdefault.jpg",
           "durationSeconds": 35,
           "durationFormatted": "00:35",
-          "views": 2722,
-          "likes": 28,
+          "views": 3085,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bt_ftt2EPXs/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 2137,
-          "likes": 48,
+          "views": 2261,
+          "likes": 52,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/z3YwwpBnaoY/hqdefault.jpg",
           "durationSeconds": 135,
           "durationFormatted": "02:15",
-          "views": 1233,
-          "likes": 2,
+          "views": 1310,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JqB_r2ZyoUY/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 1082,
-          "likes": 37,
+          "views": 1217,
+          "likes": 42,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/969nrqMr2BI/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 672,
-          "likes": 18,
+          "views": 715,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -327,7 +327,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 39.8,
+      "trendScore": 38.4,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mRP_7FftFtc/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 41474,
-          "likes": 1374,
+          "views": 47505,
+          "likes": 1405,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yN1-fWL5gdY/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 33,
+          "views": 35,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ok0JzyyC1u8/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 0,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -378,112 +378,13 @@
       "latestUpdateAt": "2026-04-28T10:48:55Z"
     },
     {
-      "clusterId": "shorts-zee",
-      "topic": "Shorts ZEE",
-      "videoCount": 7,
-      "trendScore": 38.2,
+      "clusterId": "raghuvanshi-murder",
+      "topic": "Raghuvanshi Murder",
+      "videoCount": 5,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "dR9p-xkFnEg",
-          "title": "#shorts : इंदौर के राजा रघुवंशी मर्डर केस में अब आया है बड़ा ट्विस्ट… | Zee MPCG |",
-          "description": "reels : हनीमून… प्यार… और फिर 30 फीट गहरी खाई में मिली लाश…इंदौर के राजा ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-28T12:40:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/dR9p-xkFnEg/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 4467,
-          "likes": 84,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "v1GKjM-8RmY",
-          "title": "#Shorts : 8000 रुपये… और 33 साल की बेचैनीवक्त बीता | ZEE MPCG",
-          "description": "Shorts : 8000 रुपये… और 33 साल की बेचैनी वक्त बीता, लेकिन अंतरात्मा की आवाज़ ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-28T13:48:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/v1GKjM-8RmY/hqdefault.jpg",
-          "durationSeconds": 93,
-          "durationFormatted": "01:33",
-          "views": 918,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "8n1in6PYfB0",
-          "title": "🔴LIVE : Mudda To Hai : सड़क पर किसान...हमारी भी सुनिए &#39;सरकार&#39;  |  Zee MPCG  | Latest News",
-          "description": "LIVE : Mudda To Hai : सड़क पर किसान...हमारी भी सुनिए 'सरकार' | Zee MPCG | Latest News मध्य ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-28T12:52:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/8n1in6PYfB0/hqdefault.jpg",
-          "durationSeconds": 1398,
-          "durationFormatted": "23:18",
-          "views": 145,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "ecOGbd_Jnm8",
-          "title": "🔴LIVE : Johar : कहां ED अफसरों से हाथापाई ? | Chhattisgarh News | Latest News | CG News | Zee MPCG",
-          "description": "LIVE : Johar : कहां ED अफसरों से हाथापाई ? | Chhattisgarh News | Latest News | CG News | Zee MPCG फिर ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-28T11:54:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/ecOGbd_Jnm8/hqdefault.jpg",
-          "durationSeconds": 1498,
-          "durationFormatted": "24:58",
-          "views": 98,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "n_faZW7FsR0",
-          "title": "🔴LIVE : Prime Time @9 : UCC बनेगा नारा ...सियासत का नया सहारा? | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : UCC बनेगा नारा ...सियासत का नया सहारा? | Latest News | Zee MPCG #live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-28T15:22:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/n_faZW7FsR0/hqdefault.jpg",
-          "durationSeconds": 1314,
-          "durationFormatted": "21:54",
-          "views": 56,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-04-28T15:22:26Z"
-    },
-    {
-      "clusterId": "raja-raghuvanshi",
-      "topic": "Raja Raghuvanshi",
-      "videoCount": 4,
-      "trendScore": 34.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "sjhdPk2rvGM",
-          "title": "Raja Raghuvanshi Murder Case में आरोपी Sonam को मिली जमानत। राजा की मां बोली- मेरी हार हो गई और उनकी",
-          "description": "IBC24, Raja Raghuvanshi Murder Case में आरोपी Sonam को मिली जमानत। राजा की मां बोली- ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-04-28T14:56:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/sjhdPk2rvGM/hqdefault.jpg",
-          "durationSeconds": 275,
-          "durationFormatted": "04:35",
-          "views": 17246,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "Ev1et4lA2qs",
           "title": "Indore: राजा रघुवंशी हत्याकांड में आरोपी सोनम रघुवंशी को जमानत, शिलांग जेल से मिलेगी राहत",
           "description": "Raja Raghuvanshi murder case: इंदौर के चर्चित राजा रघुववंशी हत्याकांड की आरोपी ...",
@@ -492,13 +393,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Ev1et4lA2qs/hqdefault.jpg",
           "durationSeconds": 321,
           "durationFormatted": "05:21",
-          "views": 2111,
-          "likes": 29,
+          "views": 2400,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "Fg6PiWtHzdU",
           "title": "Raja Raghuvanshi Murder Case: सोनम को शिलांग कोर्ट से मिली जमानत, पीड़ित परिवार का छलका दर्द...",
           "description": "राजा रघुवंशी हत्याकांड में मुख्य आरोपी सोनम रघुवंशी को गिरफ्तारी ...",
@@ -507,13 +408,43 @@
           "thumbnail": "https://i.ytimg.com/vi/Fg6PiWtHzdU/hqdefault.jpg",
           "durationSeconds": 817,
           "durationFormatted": "13:37",
-          "views": 1273,
-          "likes": 27,
+          "views": 1976,
+          "likes": 30,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "s3MQSnLmt3Q",
+          "title": "🔴Raja Raghuvanshi Murder Case: राजा रघुवंशी मर्डर केस अपडेट। सोनम रघुवंशी को मिली जमानत",
+          "description": "IBC24, Raja Raghuvanshi Murder Case: राजा रघुवंशी हत्याकांड में बड़ा अपडेट। सोनम ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-28T19:35:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/s3MQSnLmt3Q/hqdefault.jpg",
+          "durationSeconds": 27095,
+          "durationFormatted": "07:31:35",
+          "views": 1721,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
+          "videoId": "cHcQeHu4ljo",
+          "title": "Raja Raghuwanshi Murder Case में बड़ा अपडेट। जमानत के बावजूद Indore नहीं आ सकेगी Sonam Raghuwanshi",
+          "description": "IBC24, Raja Raghuwanshi Murder Case में बड़ा अपडेट। जमानत के बावजूद Indore नहीं आ ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-04-28T18:47:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/cHcQeHu4ljo/hqdefault.jpg",
+          "durationSeconds": 232,
+          "durationFormatted": "03:52",
+          "views": 100,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "jp65Or8Wnss",
           "title": "Raja Raghuvanshi केस में नया मोड़ | सोनम रघुवंशी बाहर, परिवार में दुख का माहौल |",
           "description": "राजा रघुवंशी हत्याकांड मामले में एक बड़ा अपडेट सामने आया है।",
@@ -528,13 +459,82 @@
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-04-28T14:56:11Z"
+      "latestUpdateAt": "2026-04-28T19:35:30Z"
+    },
+    {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 4,
+      "trendScore": 29.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "v1GKjM-8RmY",
+          "title": "#Shorts : 8000 रुपये… और 33 साल की बेचैनीवक्त बीता | ZEE MPCG",
+          "description": "Shorts : 8000 रुपये… और 33 साल की बेचैनी वक्त बीता, लेकिन अंतरात्मा की आवाज़ ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-28T13:48:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/v1GKjM-8RmY/hqdefault.jpg",
+          "durationSeconds": 93,
+          "durationFormatted": "01:33",
+          "views": 1233,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "n_faZW7FsR0",
+          "title": "🔴LIVE : Prime Time @9 : UCC बनेगा नारा ...सियासत का नया सहारा? | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : UCC बनेगा नारा ...सियासत का नया सहारा? | Latest News | Zee MPCG #live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-28T15:22:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/n_faZW7FsR0/hqdefault.jpg",
+          "durationSeconds": 1314,
+          "durationFormatted": "21:54",
+          "views": 142,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "C3MJQRt-WHI",
+          "title": "🔴LIVE :  Aapki Aawaz : UCC बनेगा नारा ...सियासत का नया सहारा? |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : UCC बनेगा नारा ...सियासत का नया सहारा? | Zee MPCG | Latest News #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-28T14:23:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/C3MJQRt-WHI/hqdefault.jpg",
+          "durationSeconds": 1519,
+          "durationFormatted": "25:19",
+          "views": 93,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "P1zAaUsFJ58",
+          "title": "🔴LIVE :  Aapki Aawaz : रायपुर में &#39;स्ट्रेंजर पार्टी&#39;...बवाल भारी! |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : रायपुर में 'स्ट्रेंजर पार्टी'...बवाल भारी! | Zee MPCG | Latest News ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-04-28T14:54:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/P1zAaUsFJ58/hqdefault.jpg",
+          "durationSeconds": 1312,
+          "durationFormatted": "21:52",
+          "views": 83,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-28T15:22:26Z"
     },
     {
       "clusterId": "bhilai-janvi",
       "topic": "Bhilai Janvi",
       "videoCount": 4,
-      "trendScore": 29.3,
+      "trendScore": 28.5,
       "topVideos": [
         {
           "index": 1,
@@ -546,7 +546,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NQBWT8mxi5U/hqdefault.jpg",
           "durationSeconds": 808,
           "durationFormatted": "13:28",
-          "views": 735,
+          "views": 748,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -561,7 +561,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NQBWT8mxi5U/hqdefault.jpg",
           "durationSeconds": 808,
           "durationFormatted": "13:28",
-          "views": 735,
+          "views": 748,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -576,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BwYLaUKALMI/hqdefault.jpg",
           "durationSeconds": 518,
           "durationFormatted": "08:38",
-          "views": 273,
+          "views": 418,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -591,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BwYLaUKALMI/hqdefault.jpg",
           "durationSeconds": 518,
           "durationFormatted": "08:38",
-          "views": 273,
+          "views": 418,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
