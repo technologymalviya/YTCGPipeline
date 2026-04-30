@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-30T14:30:16.324495Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-04-30T16:01:22.680652Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 77,
+      "videoCount": 76,
       "trendScore": 67.9,
       "topVideos": [
         {
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sHv13jMkH8k/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 295435,
-          "likes": 7446,
+          "views": 329572,
+          "likes": 8211,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kW5HUhiTYR4/hqdefault.jpg",
           "durationSeconds": 120,
           "durationFormatted": "02:00",
-          "views": 35282,
-          "likes": 1138,
+          "views": 38350,
+          "likes": 1224,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zTUhoXRF6Ao/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 33579,
-          "likes": 780,
+          "views": 35737,
+          "likes": 811,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HtkfFEoGMHM/hqdefault.jpg",
           "durationSeconds": 136,
           "durationFormatted": "02:16",
-          "views": 22852,
-          "likes": 322,
+          "views": 26207,
+          "likes": 384,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/lH5FrSmHL3Q/hqdefault.jpg",
           "durationSeconds": 1634,
           "durationFormatted": "27:14",
-          "views": 21506,
-          "likes": 280,
+          "views": 22487,
+          "likes": 284,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-04-30T14:05:12Z"
+      "latestUpdateAt": "2026-04-30T15:46:56Z"
     },
     {
       "clusterId": "bhaskar-bjp",
       "topic": "Bhaskar BJP",
-      "videoCount": 11,
-      "trendScore": 44.0,
+      "videoCount": 12,
+      "trendScore": 45.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9Zcr7tYH59Y/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 1253,
-          "likes": 16,
+          "views": 1652,
+          "likes": 18,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -117,25 +117,25 @@
           "thumbnail": "https://i.ytimg.com/vi/QfKAqjwTi-8/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 1160,
-          "likes": 25,
+          "views": 1342,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "_HwRrfzf_tU",
-          "title": "ट्रक और ट्रेलर के बीच जोरदार टक्कर, ड्राइवर की मौT | CG Bhaskar",
-          "description": "ट्रक और ट्रेलर के बीच जोरदार टक्कर, ड्राइवर की मौT Join our Whatsapp Group ...",
+          "videoId": "syblE9X1-ws",
+          "title": "CG में सबसे गर्म राजनांदगांव, अब बारिश का अलर्ट जारी | CG Bhaskar",
+          "description": "CG में सबसे गर्म राजनांदगांव, अब बारिश का अलर्ट जारीJ oin our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-29T15:30:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/_HwRrfzf_tU/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 923,
-          "likes": 15,
+          "publishedAt": "2026-04-30T10:01:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/syblE9X1-ws/hqdefault.jpg",
+          "durationSeconds": 87,
+          "durationFormatted": "01:27",
+          "views": 859,
+          "likes": 60,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "General"
         },
         {
           "index": 4,
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hpjMn74geag/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 772,
-          "likes": 24,
+          "views": 805,
+          "likes": 26,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/l-_tyBXWvyM/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 727,
-          "likes": 16,
+          "views": 796,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-30T12:30:21Z"
+      "latestUpdateAt": "2026-04-30T15:00:11Z"
     },
     {
       "clusterId": "रजनदगव-परणम",
       "topic": "राजनांदगांव पूर्णिमा",
       "videoCount": 15,
-      "trendScore": 43.9,
+      "trendScore": 42.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2m9IY_zVbkI/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 165,
+          "views": 267,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "wJFONfnaFRs",
-          "title": "Rajnandgaon News: टक्कर बनी मौ#त की वजह! युवक को पीट-पीटकर मारा, इलाके में आक्रोश, जांच जारी",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-30T10:21:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/wJFONfnaFRs/hqdefault.jpg",
-          "durationSeconds": 203,
-          "durationFormatted": "03:23",
-          "views": 13,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
           "videoId": "-SSyFAVbu_I",
           "title": "29 April 2026  Madhya Pradesh News  News from Madhya Pradesh copy",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -216,28 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/-SSyFAVbu_I/hqdefault.jpg",
           "durationSeconds": 752,
           "durationFormatted": "12:32",
-          "views": 8,
+          "views": 42,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "wJFONfnaFRs",
+          "title": "Rajnandgaon News: टक्कर बनी मौ#त की वजह! युवक को पीट-पीटकर मारा, इलाके में आक्रोश, जांच जारी",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-30T10:21:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/wJFONfnaFRs/hqdefault.jpg",
+          "durationSeconds": 203,
+          "durationFormatted": "03:23",
+          "views": 21,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Traffic"
         },
         {
           "index": 4,
-          "videoId": "6p2gsEDINRc",
-          "title": "राजनांदगांव में मेधावी छात्रों का सम्मान शिक्षा ही सफलता की कुंजी कलेक्टर ने किया सम्मानित",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-30T10:26:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/6p2gsEDINRc/hqdefault.jpg",
-          "durationSeconds": 121,
-          "durationFormatted": "02:01",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "TuD9_VPHKYI",
           "title": "बेमेतरा में सुशासन तिहार और डिजिटल जनगणना की तैयारी, 38 शिविर होंगे आयोजित”",
           "description": "chhattisgarhnews #madhyapradehnews #bemetaranews .",
@@ -246,7 +231,22 @@
           "thumbnail": "https://i.ytimg.com/vi/TuD9_VPHKYI/hqdefault.jpg",
           "durationSeconds": 147,
           "durationFormatted": "02:27",
-          "views": 4,
+          "views": 8,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "eNFOQi1dWP0",
+          "title": "कुपोषण में बड़ी गिरावट राजनांदगांव में 3.68% कमी",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-30T10:25:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/eNFOQi1dWP0/hqdefault.jpg",
+          "durationSeconds": 199,
+          "durationFormatted": "03:19",
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -255,10 +255,94 @@
       "latestUpdateAt": "2026-04-30T14:07:21Z"
     },
     {
+      "clusterId": "newsonair-chhattisgarh",
+      "topic": "Newsonair Chhattisgarh",
+      "videoCount": 6,
+      "trendScore": 41.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "JQpPtEiKeFY",
+          "title": "30 अप्रैल, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-30T15:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/JQpPtEiKeFY/hqdefault.jpg",
+          "durationSeconds": 613,
+          "durationFormatted": "10:13",
+          "views": 162,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "E4IR6JnRQi8",
+          "title": "छत्तीसगढ़ में अब बाइक में पीछे बैठने वाले के लिए भी हेलमेट अनिवार्य #RoadSafety #Helmet #Chhattisgarh",
+          "description": "छत्तीसगढ़ में अब बाइक में पीछे बैठने वाले के लिए भी हेलमेट अनिवार्य ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-04-30T12:11:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/E4IR6JnRQi8/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 100,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "9_Hx3XrWBYA",
+          "title": "30 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "समय - सुबह 11.55 बजे.",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-30T06:58:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/9_Hx3XrWBYA/hqdefault.jpg",
+          "durationSeconds": 293,
+          "durationFormatted": "04:53",
+          "views": 92,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "3a9Gb3seWXo",
+          "title": "30 अप्रैल, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-30T14:56:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/3a9Gb3seWXo/hqdefault.jpg",
+          "durationSeconds": 513,
+          "durationFormatted": "08:33",
+          "views": 84,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "2p_zdbw-dI8",
+          "title": "30 अप्रैल, 2026 | मॉर्निंग प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-04-30T06:12:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/2p_zdbw-dI8/hqdefault.jpg",
+          "durationSeconds": 299,
+          "durationFormatted": "04:59",
+          "views": 71,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-30T15:00:44Z"
+    },
+    {
       "clusterId": "xpress-पमगढ",
       "topic": "Xpress पामगढ़",
       "videoCount": 4,
-      "trendScore": 36.8,
+      "trendScore": 35.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sPq0-kwG0B0/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 152,
+          "views": 220,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "xzMvnZpppGM",
-          "title": "खरोरा - टॉप 10 में 5 वां स्थान लाकर क्षेत्र का बढ़ाया मानChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-04-30T03:05:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/xzMvnZpppGM/hqdefault.jpg",
-          "durationSeconds": 192,
-          "durationFormatted": "03:12",
-          "views": 145,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "cfPcu8b6XV8",
           "title": "पामगढ़ - शराब कोचिया गिरफ्तार, आबकारी एक्ट के तहत कार्यवाहीChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -300,8 +369,23 @@
           "thumbnail": "https://i.ytimg.com/vi/cfPcu8b6XV8/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 130,
-          "likes": 4,
+          "views": 180,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "xzMvnZpppGM",
+          "title": "खरोरा - टॉप 10 में 5 वां स्थान लाकर क्षेत्र का बढ़ाया मानChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-04-30T03:05:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/xzMvnZpppGM/hqdefault.jpg",
+          "durationSeconds": 192,
+          "durationFormatted": "03:12",
+          "views": 177,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -327,7 +411,7 @@
       "clusterId": "weather-बदल",
       "topic": "Weather बदला",
       "videoCount": 6,
-      "trendScore": 35.2,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/16dpi5JyBHk/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 1540,
-          "likes": 29,
+          "views": 2225,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AGot7WXmdOw/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 608,
+          "views": 1748,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -369,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ikYQYz05JvE/hqdefault.jpg",
           "durationSeconds": 464,
           "durationFormatted": "07:44",
-          "views": 206,
-          "likes": 4,
+          "views": 319,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z1X1gkQb0tE/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 10,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -411,7 +495,7 @@
       "clusterId": "durg-collectorate",
       "topic": "Durg Collectorate",
       "videoCount": 4,
-      "trendScore": 30.5,
+      "trendScore": 29.8,
       "topVideos": [
         {
           "index": 1,
@@ -423,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fP2vRNmkRbk/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 1709,
+          "views": 1746,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -438,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fP2vRNmkRbk/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 1709,
+          "views": 1746,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mz_1yh72nZU/hqdefault.jpg",
           "durationSeconds": 516,
           "durationFormatted": "08:36",
-          "views": 296,
+          "views": 395,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -468,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mz_1yh72nZU/hqdefault.jpg",
           "durationSeconds": 516,
           "durationFormatted": "08:36",
-          "views": 296,
+          "views": 395,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -477,148 +561,10 @@
       "latestUpdateAt": "2026-04-30T09:28:09Z"
     },
     {
-      "clusterId": "bhaskar-ऑफस",
-      "topic": "Bhaskar ऑफिस",
-      "videoCount": 4,
-      "trendScore": 30.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "AcB5j0NK074",
-          "title": "CG की अनोखी परंपरा, जलते अंगारों पर चलते हैं दूल्हा-दुल्हन और परिवार | CG Bhaskar",
-          "description": "CG की अनोखी परंपरा, जलते अंगारों पर चलते हैं दूल्हा-दुल्हन और परिवार ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-29T15:30:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/AcB5j0NK074/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 453,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "3s0q2-ahuLc",
-          "title": "रायपुर से मानवता की शर्मसार कर देने वाली घटना जानिए पूरा मामला।कान्हा  | CG Bhaskar",
-          "description": "रायपुर से मानवता की शर्मसार कर देने वाली घटना जानिए पूरा मामला।",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-29T15:30:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/3s0q2-ahuLc/hqdefault.jpg",
-          "durationSeconds": 601,
-          "durationFormatted": "10:01",
-          "views": 373,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "gg8VzatDp4c",
-          "title": "ऑडिट ऑफिस के पीछे प्लास्टिक ऑफिस में लगी भयंकर आग कई किलोमीटर तक धुएँ का ग़ुबार ।कान्हा | CG Bhaskar",
-          "description": "ऑडिट ऑफिस के पीछे प्लास्टिक ऑफिस में लगी भयंकर आग कई किलोमीटर तक ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T09:04:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/gg8VzatDp4c/hqdefault.jpg",
-          "durationSeconds": 313,
-          "durationFormatted": "05:13",
-          "views": 92,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "iYTQxv5TmT8",
-          "title": "बलौदाबाजार में शराबी दूल्हे की वजह से टूटी शादी, लड़कीवालों ने बारातियों को बनाया बंधक | CG Bhaskar",
-          "description": "बलौदाबाजार में शराबी दूल्हे की वजह से टूटी शादी, लड़कीवालों ने ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T13:30:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/iYTQxv5TmT8/hqdefault.jpg",
-          "durationSeconds": 390,
-          "durationFormatted": "06:30",
-          "views": 40,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-04-30T13:30:59Z"
-    },
-    {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 4,
-      "trendScore": 29.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "pB-7qNsZcYA",
-          "title": "🔴LIVE : MP-CG News :रायपुर की फैक्ट्री में आग का तांडव &#39; | Latest News | Zee MPCG",
-          "description": "LIVE : MP-CG News :रायपुर की फैक्ट्री में आग का तांडव ' | Latest News | Zee MPCG #Live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-30T08:20:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/pB-7qNsZcYA/hqdefault.jpg",
-          "durationSeconds": 950,
-          "durationFormatted": "15:50",
-          "views": 118,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "jbE0ic-Y2jg",
-          "title": "🔴LIVE : Khabar Apne MP Ki : एमपी में &#39;राहत&#39; कीबारिश ! | Zee MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : एमपी में 'राहत' कीबारिश ! | Zee MPCG आतंकवाद केस में बड़ा ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-30T13:19:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/jbE0ic-Y2jg/hqdefault.jpg",
-          "durationSeconds": 1464,
-          "durationFormatted": "24:24",
-          "views": 72,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "bnPk_GJtxdI",
-          "title": "🔴LIVE : कर्मचारियों का प्रदर्शन  | MP News  | Latest News  | Zee MPCG",
-          "description": "LIVE : कर्मचारियों का प्रदर्शन | MP News | Latest News | Zee MPCG गर्मी का सितम.",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-30T11:23:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/bnPk_GJtxdI/hqdefault.jpg",
-          "durationSeconds": 1270,
-          "durationFormatted": "21:10",
-          "views": 60,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "xjchdokuS30",
-          "title": "🔴LIVE : Johar : महिला हक या सियासी स्टंट ? | Chhattisgarh News | Latest News | CG News | Zee MPCG",
-          "description": "LIVE : Johar : महिला हक या सियासी स्टंट ? | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-04-30T11:50:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/xjchdokuS30/hqdefault.jpg",
-          "durationSeconds": 1558,
-          "durationFormatted": "25:58",
-          "views": 44,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-04-30T13:19:52Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 24.8,
+      "trendScore": 23.8,
       "topVideos": [
         {
           "index": 1,
@@ -630,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oB-QXzfYz78/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 46,
+          "views": 48,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -645,7 +591,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oB-QXzfYz78/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 46,
+          "views": 48,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
