@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-05-01T08:28:04.935846Z",
+  "generatedAt": "2026-05-01T10:04:36.741846Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 73,
-      "trendScore": 61.9,
+      "videoCount": 65,
+      "trendScore": 62.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "XFlsLUFRqzc",
-          "title": "1 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "1 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-04-30T23:30:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/XFlsLUFRqzc/hqdefault.jpg",
-          "durationSeconds": 1649,
-          "durationFormatted": "27:29",
-          "views": 16170,
-          "likes": 263,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
           "videoId": "UETUyMCsGYU",
           "title": "इस बार भीषण गर्मी वाली CGPSC मेंस की परीक्षा...",
           "description": "इस बार भीषण गर्मी वाली CGPSC मेंस की परीक्षा... Join this channel to get access to the perks: ...",
@@ -33,10 +18,25 @@
           "thumbnail": "https://i.ytimg.com/vi/UETUyMCsGYU/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 14836,
-          "likes": 564,
+          "views": 20332,
+          "likes": 634,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "XFlsLUFRqzc",
+          "title": "1 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "1 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-04-30T23:30:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/XFlsLUFRqzc/hqdefault.jpg",
+          "durationSeconds": 1649,
+          "durationFormatted": "27:29",
+          "views": 18044,
+          "likes": 266,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 3,
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/S8XBWKjsHQc/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 12906,
-          "likes": 262,
+          "views": 14088,
+          "likes": 274,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dLce9pebvb4/hqdefault.jpg",
           "durationSeconds": 798,
           "durationFormatted": "13:18",
-          "views": 9259,
-          "likes": 389,
+          "views": 10530,
+          "likes": 408,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/HUTAq7ikUko/hqdefault.jpg",
           "durationSeconds": 561,
           "durationFormatted": "09:21",
-          "views": 6208,
-          "likes": 117,
+          "views": 6837,
+          "likes": 123,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-01T08:21:03Z"
+      "latestUpdateAt": "2026-05-01T09:33:35Z"
     },
     {
-      "clusterId": "accident-cruise",
-      "topic": "Accident Cruise",
-      "videoCount": 11,
-      "trendScore": 43.9,
+      "clusterId": "jabalpur-accident",
+      "topic": "Jabalpur Accident",
+      "videoCount": 17,
+      "trendScore": 51.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,25 +102,25 @@
           "thumbnail": "https://i.ytimg.com/vi/L2qCgq_JePY/hqdefault.jpg",
           "durationSeconds": 8,
           "durationFormatted": "00:08",
-          "views": 10027,
+          "views": 14232,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "YLhthXlKV5o",
-          "title": "🔴Jabalpur Bargi Dam Cruise Accident: अचानक आए तूफान ने पलटा क्रूज, 30 लोग डूबे, अब तक इतने शव बरामद",
-          "description": "IBC24, Jabalpur Bargi Dam Cruise Accident: अचानक आए तूफान ने पलटा क्रूज, 30 लोग डूबे, अब ...",
+          "videoId": "FPA8V1EabQ4",
+          "title": "Bargi Cruise Accident:18 घंटे बाद शुरू हुआ सबसे बड़ा ऑपरेशन,केबल और क्रेन से खींचा जा रहा डूबा क्रूज",
+          "description": "Jabalpur Cruise Accident : Bargi Cruise Accident:18 घंटे बाद शुरू हुआ सबसे बड़ा ऑपरेशन,केबल ...",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T01:31:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/YLhthXlKV5o/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 7031,
+          "publishedAt": "2026-05-01T08:16:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/FPA8V1EabQ4/hqdefault.jpg",
+          "durationSeconds": 305,
+          "durationFormatted": "05:05",
+          "views": 10268,
           "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
+          "videoType": "VOD",
+          "genre": "Traffic"
         },
         {
           "index": 3,
@@ -132,28 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/sKjpFw2EAsI/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 6028,
+          "views": 7760,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
           "index": 4,
-          "videoId": "Cf-ncQQ9wxg",
-          "title": "Bargi Dam Cruise Accident: जबलपुर के बरगी डैम में क्रूज डूबा, 5 लोगों की मौत, 15 तैरकर बाहर निकले...",
-          "description": "Bargi Dam Cruise Accident Jabalpur: जबलपुर में बड़ा हादसा हो गया। बरगी डैम में क्रूज ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-04-30T15:32:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/Cf-ncQQ9wxg/hqdefault.jpg",
-          "durationSeconds": 1210,
-          "durationFormatted": "20:10",
-          "views": 3646,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
           "videoId": "cXuwptHVyFw",
           "title": "Jabalpur Cruise Accident : मौत के मंजर से लौटा शख्स, क्रूज हादसे का बताया डरावना सच! #CruiseAccident",
           "description": "IBC24, Jabalpur Cruise Accident : मौत के मंजर से लौटा शख्स, क्रूज हादसे का बताया ...",
@@ -162,103 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/cXuwptHVyFw/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 3612,
+          "views": 7263,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "PdDF7ZsMy1U",
+          "title": "Bargi Dam Accident की ये तस्वीर देख खुद मंत्री Rakesh Singh हुए भावुक #shorts #ytshorts #shortvideo",
+          "description": "IBC24, Bargi Dam Accident की ये तस्वीर देख खुद मंत्री Rakesh Singh हुए भावुक #jabalpur ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T07:50:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/PdDF7ZsMy1U/hqdefault.jpg",
+          "durationSeconds": 23,
+          "durationFormatted": "00:23",
+          "views": 7121,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-05-01T08:16:12Z"
-    },
-    {
-      "clusterId": "bhaskar-bjp",
-      "topic": "Bhaskar BJP",
-      "videoCount": 10,
-      "trendScore": 39.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "9Zcr7tYH59Y",
-          "title": "श्मशान घाट पर हुई शादी! | CG Bhaskar",
-          "description": "श्मशान घाट पर हुई शादी! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T10:58:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/9Zcr7tYH59Y/hqdefault.jpg",
-          "durationSeconds": 158,
-          "durationFormatted": "02:38",
-          "views": 3448,
-          "likes": 28,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "syblE9X1-ws",
-          "title": "CG में सबसे गर्म राजनांदगांव, अब बारिश का अलर्ट जारी | CG Bhaskar",
-          "description": "CG में सबसे गर्म राजनांदगांव, अब बारिश का अलर्ट जारीJ oin our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T10:01:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/syblE9X1-ws/hqdefault.jpg",
-          "durationSeconds": 87,
-          "durationFormatted": "01:27",
-          "views": 2647,
-          "likes": 203,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "QfKAqjwTi-8",
-          "title": "BJP नेता और राम रसोई के संचालक के घर रेड | CG Bhaskar",
-          "description": "BJP नेता और राम रसोई के संचालक के घर रेड | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T10:19:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/QfKAqjwTi-8/hqdefault.jpg",
-          "durationSeconds": 106,
-          "durationFormatted": "01:46",
-          "views": 1751,
-          "likes": 48,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "GetYb0NfakQ",
-          "title": "कोलकाता पुलिस क्यों पहनती है सफेद वर्दी? | CG Bhaskar",
-          "description": "कोलकाता पुलिस क्यों पहनती है सफेद वर्दी? Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T09:30:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/GetYb0NfakQ/hqdefault.jpg",
-          "durationSeconds": 122,
-          "durationFormatted": "02:02",
-          "views": 663,
-          "likes": 31,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "B0sx2fMocXQ",
-          "title": "CG Bhaskar की खबर का असर चंद घंटों में फूटे पाइपलाइन की मरम्मत | CG Bhaskar",
-          "description": "CG Bhaskar की खबर का असर चंद घंटों में फूटे पाइपलाइन की मरम्मत Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T13:56:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/B0sx2fMocXQ/hqdefault.jpg",
-          "durationSeconds": 154,
-          "durationFormatted": "02:34",
-          "views": 367,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Civic"
-        }
-      ],
-      "latestUpdateAt": "2026-04-30T15:00:11Z"
+      "latestUpdateAt": "2026-05-01T09:42:56Z"
     },
     {
       "clusterId": "newsonair-roadsafety",
       "topic": "Newsonair RoadSafety",
       "videoCount": 5,
-      "trendScore": 36.7,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JQpPtEiKeFY/hqdefault.jpg",
           "durationSeconds": 613,
           "durationFormatted": "10:13",
-          "views": 629,
+          "views": 649,
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
@@ -285,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/E4IR6JnRQi8/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 346,
+          "views": 376,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -315,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JDVDxKoW5v4/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 32,
-          "likes": 3,
+          "views": 51,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EWWFwnyeAys/hqdefault.jpg",
           "durationSeconds": 289,
           "durationFormatted": "04:49",
-          "views": 25,
-          "likes": 4,
+          "views": 29,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -341,8 +257,8 @@
     {
       "clusterId": "april-copy",
       "topic": "April copy",
-      "videoCount": 13,
-      "trendScore": 33.5,
+      "videoCount": 12,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -376,21 +292,6 @@
         },
         {
           "index": 3,
-          "videoId": "TuD9_VPHKYI",
-          "title": "बेमेतरा में सुशासन तिहार और डिजिटल जनगणना की तैयारी, 38 शिविर होंगे आयोजित”",
-          "description": "chhattisgarhnews #madhyapradehnews #bemetaranews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-04-30T11:56:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/TuD9_VPHKYI/hqdefault.jpg",
-          "durationSeconds": 147,
-          "durationFormatted": "02:27",
-          "views": 29,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "MADQ4htHT60",
           "title": "दुर्ग में अवैध शराब पर बड़ी कार्रवाई, छावनी पुलिस ने आरोपी को किया गिरफ्तार",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -405,7 +306,7 @@
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "j1p9vwROY2o",
           "title": "भिलाई निगम चुनाव- आम आदमी पार्टी की बड़ी तैयारी, सभी 70 वार्डों में उतरेगी AAP",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -418,15 +319,114 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "AtDtHUdJ9ZM",
+          "title": "राजनांदगांव में राजस्व पखवाड़ा गांव-गांव पहुंची टीम, लंबित मामलों का निपटारा",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-04-30T13:58:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/AtDtHUdJ9ZM/hqdefault.jpg",
+          "durationSeconds": 109,
+          "durationFormatted": "01:49",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-01T08:00:40Z"
+      "latestUpdateAt": "2026-05-01T09:41:55Z"
+    },
+    {
+      "clusterId": "bhaskar-bjp",
+      "topic": "Bhaskar BJP",
+      "videoCount": 7,
+      "trendScore": 31.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "9Zcr7tYH59Y",
+          "title": "श्मशान घाट पर हुई शादी! | CG Bhaskar",
+          "description": "श्मशान घाट पर हुई शादी! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-30T10:58:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/9Zcr7tYH59Y/hqdefault.jpg",
+          "durationSeconds": 158,
+          "durationFormatted": "02:38",
+          "views": 3684,
+          "likes": 30,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "QfKAqjwTi-8",
+          "title": "BJP नेता और राम रसोई के संचालक के घर रेड | CG Bhaskar",
+          "description": "BJP नेता और राम रसोई के संचालक के घर रेड | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-30T10:19:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/QfKAqjwTi-8/hqdefault.jpg",
+          "durationSeconds": 106,
+          "durationFormatted": "01:46",
+          "views": 1794,
+          "likes": 51,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "B0sx2fMocXQ",
+          "title": "CG Bhaskar की खबर का असर चंद घंटों में फूटे पाइपलाइन की मरम्मत | CG Bhaskar",
+          "description": "CG Bhaskar की खबर का असर चंद घंटों में फूटे पाइपलाइन की मरम्मत Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-30T13:56:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/B0sx2fMocXQ/hqdefault.jpg",
+          "durationSeconds": 154,
+          "durationFormatted": "02:34",
+          "views": 367,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 4,
+          "videoId": "5oWy-WwGez4",
+          "title": "Wish पूरी करने वाला Viral App… आखिर कितना खतरनाक? | CG Bhaskar",
+          "description": "Wish पूरी करने वाला Viral App… आखिर कितना खतरनाक? Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-30T15:00:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/5oWy-WwGez4/hqdefault.jpg",
+          "durationSeconds": 102,
+          "durationFormatted": "01:42",
+          "views": 247,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "AbVgr3GsrfA",
+          "title": "कैंप 2 बना कचरों का भंडार, सो रहा निगम! | CG Bhaskar",
+          "description": "कैंप 2 बना कचरों का भंडार, सो रहा निगम! Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-30T11:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/AbVgr3GsrfA/hqdefault.jpg",
+          "durationSeconds": 113,
+          "durationFormatted": "01:53",
+          "views": 245,
+          "likes": 14,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-04-30T15:00:11Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 19.6,
+      "trendScore": 19.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oB-QXzfYz78/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 275,
+          "views": 298,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oB-QXzfYz78/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 275,
+          "views": 298,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
