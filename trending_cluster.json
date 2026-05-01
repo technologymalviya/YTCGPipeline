@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-01T10:04:36.741846Z",
+  "generatedAt": "2026-05-01T11:36:30.058185Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 65,
-      "trendScore": 62.6,
+      "trendScore": 63.7,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UETUyMCsGYU/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 20332,
-          "likes": 634,
+          "views": 25509,
+          "likes": 681,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XFlsLUFRqzc/hqdefault.jpg",
           "durationSeconds": 1649,
           "durationFormatted": "27:29",
-          "views": 18044,
-          "likes": 266,
+          "views": 19521,
+          "likes": 269,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/S8XBWKjsHQc/hqdefault.jpg",
           "durationSeconds": 125,
           "durationFormatted": "02:05",
-          "views": 14088,
-          "likes": 274,
+          "views": 15405,
+          "likes": 280,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dLce9pebvb4/hqdefault.jpg",
           "durationSeconds": 798,
           "durationFormatted": "13:18",
-          "views": 10530,
-          "likes": 408,
+          "views": 11575,
+          "likes": 413,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,37 +78,22 @@
           "thumbnail": "https://i.ytimg.com/vi/HUTAq7ikUko/hqdefault.jpg",
           "durationSeconds": 561,
           "durationFormatted": "09:21",
-          "views": 6837,
-          "likes": 123,
+          "views": 7256,
+          "likes": 124,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-01T09:33:35Z"
+      "latestUpdateAt": "2026-05-01T11:30:25Z"
     },
     {
-      "clusterId": "jabalpur-accident",
-      "topic": "Jabalpur Accident",
-      "videoCount": 17,
-      "trendScore": 51.4,
+      "clusterId": "accident-cruise",
+      "topic": "Accident Cruise",
+      "videoCount": 18,
+      "trendScore": 51.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "L2qCgq_JePY",
-          "title": "आंधी, लहरें और चीखें..देखें बरगी डैम में क्रूज डूबने का VIDEO #jabalpur #bargidam #CruiseAccident",
-          "description": "IBC24, आंधी, लहरें और चीखें..देखें बरगी डैम में क्रूज डूबने का VIDEO #jabalpur ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T07:19:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/L2qCgq_JePY/hqdefault.jpg",
-          "durationSeconds": 8,
-          "durationFormatted": "00:08",
-          "views": 14232,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "FPA8V1EabQ4",
           "title": "Bargi Cruise Accident:18 घंटे बाद शुरू हुआ सबसे बड़ा ऑपरेशन,केबल और क्रेन से खींचा जा रहा डूबा क्रूज",
           "description": "Jabalpur Cruise Accident : Bargi Cruise Accident:18 घंटे बाद शुरू हुआ सबसे बड़ा ऑपरेशन,केबल ...",
@@ -117,43 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/FPA8V1EabQ4/hqdefault.jpg",
           "durationSeconds": 305,
           "durationFormatted": "05:05",
-          "views": 10268,
+          "views": 18235,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
-          "index": 3,
-          "videoId": "sKjpFw2EAsI",
-          "title": "Jabalpur Cruise Accident : कैसे डूबा क्रूज, लड़की ने बताया आंखों देखा हाल #cruiseaccident #jabalpur",
-          "description": "Jabalpur Cruise Accident : कैसे डूबा क्रूज, लड़की ने बताया आंखों देखा हाल ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T07:39:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/sKjpFw2EAsI/hqdefault.jpg",
-          "durationSeconds": 22,
-          "durationFormatted": "00:22",
-          "views": 7760,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "cXuwptHVyFw",
-          "title": "Jabalpur Cruise Accident : मौत के मंजर से लौटा शख्स, क्रूज हादसे का बताया डरावना सच! #CruiseAccident",
-          "description": "IBC24, Jabalpur Cruise Accident : मौत के मंजर से लौटा शख्स, क्रूज हादसे का बताया ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T07:49:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/cXuwptHVyFw/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 7263,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
+          "index": 2,
           "videoId": "PdDF7ZsMy1U",
           "title": "Bargi Dam Accident की ये तस्वीर देख खुद मंत्री Rakesh Singh हुए भावुक #shorts #ytshorts #shortvideo",
           "description": "IBC24, Bargi Dam Accident की ये तस्वीर देख खुद मंत्री Rakesh Singh हुए भावुक #jabalpur ...",
@@ -162,19 +117,64 @@
           "thumbnail": "https://i.ytimg.com/vi/PdDF7ZsMy1U/hqdefault.jpg",
           "durationSeconds": 23,
           "durationFormatted": "00:23",
-          "views": 7121,
+          "views": 13245,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "cXuwptHVyFw",
+          "title": "Jabalpur Cruise Accident : मौत के मंजर से लौटा शख्स, क्रूज हादसे का बताया डरावना सच! #CruiseAccident",
+          "description": "IBC24, Jabalpur Cruise Accident : मौत के मंजर से लौटा शख्स, क्रूज हादसे का बताया ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T07:49:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/cXuwptHVyFw/hqdefault.jpg",
+          "durationSeconds": 52,
+          "durationFormatted": "00:52",
+          "views": 13021,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "ShSFZBqcLSE",
+          "title": "Jabalpur Cruise Accident : क्रूज को बाहर निकालते रेस्क्यू टीम #CruiseAccident #jabalpur #bargidam",
+          "description": "IBC24, Jabalpur Cruise Accident : क्रूज को बाहर निकालते रेस्क्यू टीम #CruiseAccident #jabalpur ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T08:09:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/ShSFZBqcLSE/hqdefault.jpg",
+          "durationSeconds": 167,
+          "durationFormatted": "02:47",
+          "views": 7146,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "Wh25upgOWIM",
+          "title": "Jabalpur Cruise Accident : क्रूज हादसे पर क्या बोले जबलपुर सांसद Ashish Dubey #CruiseAccident",
+          "description": "IBC24, Jabalpur Cruise Accident : क्रूज हादसे पर क्या बोले जबलपुर सांसद Ashish Dubey ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T08:38:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/Wh25upgOWIM/hqdefault.jpg",
+          "durationSeconds": 24,
+          "durationFormatted": "00:24",
+          "views": 4423,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         }
       ],
-      "latestUpdateAt": "2026-05-01T09:42:56Z"
+      "latestUpdateAt": "2026-05-01T11:17:30Z"
     },
     {
       "clusterId": "newsonair-roadsafety",
       "topic": "Newsonair RoadSafety",
       "videoCount": 5,
-      "trendScore": 36.0,
+      "trendScore": 35.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JQpPtEiKeFY/hqdefault.jpg",
           "durationSeconds": 613,
           "durationFormatted": "10:13",
-          "views": 649,
+          "views": 665,
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/E4IR6JnRQi8/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 376,
-          "likes": 12,
+          "views": 426,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JDVDxKoW5v4/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 51,
+          "views": 54,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EWWFwnyeAys/hqdefault.jpg",
           "durationSeconds": 289,
           "durationFormatted": "04:49",
-          "views": 29,
-          "likes": 5,
+          "views": 36,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -257,8 +257,8 @@
     {
       "clusterId": "april-copy",
       "topic": "April copy",
-      "videoCount": 12,
-      "trendScore": 33.2,
+      "videoCount": 13,
+      "trendScore": 34.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-SSyFAVbu_I/hqdefault.jpg",
           "durationSeconds": 752,
           "durationFormatted": "12:32",
-          "views": 247,
+          "views": 385,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WAMOP8N4TMA/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 53,
+          "views": 58,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -339,43 +339,13 @@
       "latestUpdateAt": "2026-05-01T09:41:55Z"
     },
     {
-      "clusterId": "bhaskar-bjp",
-      "topic": "Bhaskar BJP",
-      "videoCount": 7,
-      "trendScore": 31.8,
+      "clusterId": "bhaskar-wish",
+      "topic": "Bhaskar Wish",
+      "videoCount": 5,
+      "trendScore": 28.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "9Zcr7tYH59Y",
-          "title": "श्मशान घाट पर हुई शादी! | CG Bhaskar",
-          "description": "श्मशान घाट पर हुई शादी! | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T10:58:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/9Zcr7tYH59Y/hqdefault.jpg",
-          "durationSeconds": 158,
-          "durationFormatted": "02:38",
-          "views": 3684,
-          "likes": 30,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "QfKAqjwTi-8",
-          "title": "BJP नेता और राम रसोई के संचालक के घर रेड | CG Bhaskar",
-          "description": "BJP नेता और राम रसोई के संचालक के घर रेड | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T10:19:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/QfKAqjwTi-8/hqdefault.jpg",
-          "durationSeconds": 106,
-          "durationFormatted": "01:46",
-          "views": 1794,
-          "likes": 51,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
           "videoId": "B0sx2fMocXQ",
           "title": "CG Bhaskar की खबर का असर चंद घंटों में फूटे पाइपलाइन की मरम्मत | CG Bhaskar",
           "description": "CG Bhaskar की खबर का असर चंद घंटों में फूटे पाइपलाइन की मरम्मत Join our Whatsapp ...",
@@ -384,13 +354,13 @@
           "thumbnail": "https://i.ytimg.com/vi/B0sx2fMocXQ/hqdefault.jpg",
           "durationSeconds": 154,
           "durationFormatted": "02:34",
-          "views": 367,
-          "likes": 7,
+          "views": 390,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
-          "index": 4,
+          "index": 2,
           "videoId": "5oWy-WwGez4",
           "title": "Wish पूरी करने वाला Viral App… आखिर कितना खतरनाक? | CG Bhaskar",
           "description": "Wish पूरी करने वाला Viral App… आखिर कितना खतरनाक? Join our Whatsapp Group ...",
@@ -399,34 +369,64 @@
           "thumbnail": "https://i.ytimg.com/vi/5oWy-WwGez4/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 247,
+          "views": 272,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "AbVgr3GsrfA",
-          "title": "कैंप 2 बना कचरों का भंडार, सो रहा निगम! | CG Bhaskar",
-          "description": "कैंप 2 बना कचरों का भंडार, सो रहा निगम! Join our Whatsapp Group ...",
+          "index": 3,
+          "videoId": "L4T_gcYybSM",
+          "title": "बोर्ड रिजल्ट से पहले आया ठगों का फोन,पास करने के लिए मांगे 5 हजार! | CG Bhaskar",
+          "description": "बोर्ड रिजल्ट से पहले आया ठगों का फोन,पास करने के लिए मांगे 5 हजार! Join our ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-04-30T11:30:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/AbVgr3GsrfA/hqdefault.jpg",
-          "durationSeconds": 113,
-          "durationFormatted": "01:53",
-          "views": 245,
-          "likes": 14,
+          "publishedAt": "2026-04-30T12:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/L4T_gcYybSM/hqdefault.jpg",
+          "durationSeconds": 72,
+          "durationFormatted": "01:12",
+          "views": 220,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "XS2IRtolZg4",
+          "title": "Neet Exam से पहले ये वीडियो जरूर देखें, गाइडलाइंस जारी | CG Bhaskar",
+          "description": "Neet Exam से पहले ये वीडियो जरूर देखें, गाइडलाइंस जारी | CG Bhaskar Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-04-30T12:00:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/XS2IRtolZg4/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 126,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "wd5uKnmzVz4",
+          "title": "छत्तीसगढ़ में शुरू हुआ सुशासन तिहार | CG Bhaskar",
+          "description": "छत्तीसगढ़ में शुरू हुआ सुशासन तिहार Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-01T11:30:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/wd5uKnmzVz4/hqdefault.jpg",
+          "durationSeconds": 83,
+          "durationFormatted": "01:23",
+          "views": 8,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-04-30T15:00:11Z"
+      "latestUpdateAt": "2026-05-01T11:30:00Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 19.3,
+      "trendScore": 19.1,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oB-QXzfYz78/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 298,
+          "views": 318,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oB-QXzfYz78/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 298,
+          "views": 318,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
