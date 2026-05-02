@@ -832,6 +832,29 @@ def is_festival_related_video(video: Dict[str, Any]) -> bool:
     return False
 
 
+def _video_dedupe_key(video: Dict[str, Any]) -> str:
+    """Stable key for deduplicating video entries (cross-section / cross-cluster)."""
+    vid = video.get('videoId')
+    if vid:
+        return f"id:{vid}"
+    title = (video.get('title') or '')[:200]
+    pub = video.get('publishedAt') or ''
+    return f"fallback:{title}|{pub}"
+
+
+def dedupe_videos_by_video_id(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Keep first occurrence per videoId (or fallback key); preserves order."""
+    seen: Set[str] = set()
+    out: List[Dict[str, Any]] = []
+    for v in videos:
+        key = _video_dedupe_key(v)
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(v)
+    return out
+
+
 def get_video_text(video: Dict[str, Any]) -> str:
     """Get normalized search text for a video."""
     title = (video.get('title') or '')
@@ -840,33 +863,11 @@ def get_video_text(video: Dict[str, Any]) -> str:
     return f"{title} {description} {channel}".lower()
 
 
-def is_positive_location_video(video: Dict[str, Any]) -> bool:
-    """Heuristic filter for positive/local development stories."""
-    text = get_video_text(video)
-
-    positive_terms = [
-        "inauguration", "launched", "launch", "foundation", "development", "improvement",
-        "success", "achievement", "awarded", "benefit", "welfare", "celebration",
-        "opening", "start", "initiative", "good news", "milestone", "project completed",
-        "उद्घाटन", "शुभारंभ", "लोकार्पण", "विकास", "सफल", "उपलब्धि", "सम्मान",
-        "लाभ", "खुशखबरी", "शुरुआत", "बेहतर", "पूर्ण", "समारोह", "पहल", "सुधार",
-    ]
-
-    negative_terms = [
-        "murder", "crime", "arrest", "gang", "assault", "rape", "fraud", "scam",
-        "accident", "crash", "collision", "traffic jam", "violence", "fire",
-        "death", "killed", "theft", "robbery", "kidnap", "extortion", "homicide",
-        "हत्या", "अपराध", "गिरफ्तार", "गैंग", "दुष्कर्म", "ठगी", "स्कैम",
-        "हादसा", "दुर्घटना", "जाम", "हिंसा", "आग", "मौत", "लूट", "चोरी", "अपहरण",
-    ]
-
-    if any(term in text for term in negative_terms):
-        return False
-    return any(term in text for term in positive_terms)
-
-
-def extract_location_positive_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Create location-specific positive clusters where count > 2."""
+def extract_city_news_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Group local news that mentions a known city (title/description/channel).
+    One cluster per city with topic = city name. Only created when count > 2 (3+ videos).
+    """
     location_patterns = {
         "Bhilai": ["bhilai", "भिलाई"],
         "Raipur": ["raipur", "रायपुर"],
@@ -881,8 +882,6 @@ def extract_location_positive_clusters(videos: List[Dict[str, Any]]) -> List[Dic
     location_buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
 
     for video in videos:
-        if not is_positive_location_video(video):
-            continue
         text = get_video_text(video)
         for location, needles in location_patterns.items():
             if any(n in text for n in needles):
@@ -890,8 +889,8 @@ def extract_location_positive_clusters(videos: List[Dict[str, Any]]) -> List[Dic
                 break
 
     clusters: List[Dict[str, Any]] = []
-    for location, items in location_buckets.items():
-        # Create group only if and only if count > 2
+    for location, raw_items in location_buckets.items():
+        items = dedupe_videos_by_video_id(raw_items)
         if len(items) <= 2:
             continue
 
@@ -928,7 +927,7 @@ def extract_location_positive_clusters(videos: List[Dict[str, Any]]) -> List[Dic
         })
 
     if clusters:
-        logger.info(f"Created {len(clusters)} location-positive clusters (count>2 rule)")
+        logger.info(f"Created {len(clusters)} city-news clusters (3+ videos per city)")
     return clusters
 
 
@@ -951,6 +950,8 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     for section in sections:
         items = section.get('items', [])
         all_videos.extend(items)
+
+    all_videos = dedupe_videos_by_video_id(all_videos)
     
     if not all_videos:
         logger.info("No videos found in data")
@@ -1126,11 +1127,15 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(festival_cluster)
         logger.info(f"Created Festival cluster with {len(festival_videos)} videos")
     
-    # Location-based positive clusters (only if a location has >2 videos)
-    location_positive_clusters = extract_location_positive_clusters(other_videos)
-    clusters.extend(location_positive_clusters)
+    # City-based news clusters (3+ videos mentioning the same city); exclude from similarity clustering
+    city_news_clusters = extract_city_news_clusters(other_videos)
+    clusters.extend(city_news_clusters)
+    city_video_keys = {
+        _video_dedupe_key(v) for c in city_news_clusters for v in c.get('videos', [])
+    }
+    other_videos = [v for v in other_videos if _video_dedupe_key(v) not in city_video_keys]
 
-    # Group similar videos from other videos (only clusters with 4+ videos)
+    # Group similar videos from remaining other videos (only clusters with 4+ videos)
     video_clusters = group_similar_videos(other_videos, similarity_threshold=0.3, min_cluster_size=4)
     
     # Create cluster objects for each similar video group
@@ -1198,7 +1203,7 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     location_count = len([c for c in clusters if str(c.get('clusterId', '')).startswith('location-')])
     content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie', 'festival'] and not str(c.get('clusterId', '')).startswith('location-')])
     
-    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {festival_count} Festival + {location_count} location-positive + {content_count} content-based clusters)")
+    logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {festival_count} Festival + {location_count} city-news + {content_count} content-based clusters)")
     return clusters
 
 
@@ -1223,10 +1228,19 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
     # Create summary clusters with topVideos
     summary_clusters = []
     for cluster in sorted_clusters:
-        # Get top 3-5 videos by views
+        # Top videos by views, unique videoId (avoids duplicate IDs in trending JSON)
         videos = cluster.get('videos', [])
         sorted_videos = sorted(videos, key=lambda v: v.get('views', 0), reverse=True)
-        top_videos = sorted_videos[:5]  # Top 5 videos
+        seen_keys: Set[str] = set()
+        top_videos: List[Dict[str, Any]] = []
+        for v in sorted_videos:
+            k = _video_dedupe_key(v)
+            if k in seen_keys:
+                continue
+            seen_keys.add(k)
+            top_videos.append(v)
+            if len(top_videos) >= 5:
+                break
         
         # Create clean video summaries with full fields from output.json
         top_video_summaries = []
