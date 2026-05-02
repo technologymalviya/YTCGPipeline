@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-02T03:56:51.548365Z",
+  "generatedAt": "2026-05-02T06:23:20.973166Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 57,
-      "trendScore": 62.7,
+      "videoCount": 60,
+      "trendScore": 63.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TPJYKDY6INc/hqdefault.jpg",
           "durationSeconds": 172,
           "durationFormatted": "02:52",
-          "views": 25346,
-          "likes": 1012,
+          "views": 27374,
+          "likes": 1045,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/c7LrV13ZMcY/hqdefault.jpg",
           "durationSeconds": 1665,
           "durationFormatted": "27:45",
-          "views": 9050,
-          "likes": 199,
+          "views": 13886,
+          "likes": 237,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wsru2JvGOGg/hqdefault.jpg",
           "durationSeconds": 863,
           "durationFormatted": "14:23",
-          "views": 4541,
-          "likes": 316,
+          "views": 7647,
+          "likes": 388,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/OFOLSl9m_hw/hqdefault.jpg",
           "durationSeconds": 763,
           "durationFormatted": "12:43",
-          "views": 3483,
-          "likes": 85,
+          "views": 5838,
+          "likes": 98,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "4rO0dRbKfEQ",
-          "title": "दादा दादी ने सोशल मीडिया में ढाया कहर | बंपर वायरल हो रहे ये दादा-दादी | Viral VVideo |@tirandaj",
-          "description": "viralgrandparents #viralvideo #grandparentstrendingonsocialmedia #वायरलदादादादी #वायरलवीडियो ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-05-01T04:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/4rO0dRbKfEQ/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 3257,
-          "likes": 64,
+          "videoId": "kmMzRvM-TyA",
+          "title": "CG में कांग्रेस का बोरे-बासी तिहार | पूर्व CM भूपेश बघेल ने नून-चटनी खाकर लिया आनंद | Gaurav Yadav |",
+          "description": "CG में कांग्रेस का बोरे-बासी तिहार | पूर्व CM भूपेश बघेल ने नून-चटनी ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-01T15:30:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/kmMzRvM-TyA/hqdefault.jpg",
+          "durationSeconds": 516,
+          "durationFormatted": "08:36",
+          "views": 4114,
+          "likes": 156,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-02T03:54:42Z"
+      "latestUpdateAt": "2026-05-02T06:01:22Z"
     },
     {
       "clusterId": "दरग-सरकर",
       "topic": "दुर्ग सरकार",
-      "videoCount": 23,
-      "trendScore": 57.2,
+      "videoCount": 22,
+      "trendScore": 56.2,
       "topVideos": [
         {
           "index": 1,
@@ -102,13 +102,28 @@
           "thumbnail": "https://i.ytimg.com/vi/wP6gDj-1z5E/hqdefault.jpg",
           "durationSeconds": 1568,
           "durationFormatted": "26:08",
-          "views": 295,
+          "views": 415,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "qB5wQR1DICE",
+          "title": "बोरे बासी खाते दिखे भूपेश बघेल, मजदूरों को दी बधाई और सरकार पर किया हमला",
+          "description": "बोरे बासी खाते दिखे Bhupesh Baghe, मजदूरों को दी बधाई और सरकार पर किया ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-05-01T12:51:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/qB5wQR1DICE/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 182,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
           "videoId": "6szWcCsDGoE",
           "title": "तिल्दा नेवरा: देवरी सरपंच के खिलाफ ग्रामीणों का ज्ञापन, थाने में जांच की मांग, फर्जी NOC के आरोप",
           "description": "chhattisgarhnews #madhyapradehnews #tilda ........................................................................................................................................... India ...",
@@ -123,21 +138,6 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "qB5wQR1DICE",
-          "title": "बोरे बासी खाते दिखे भूपेश बघेल, मजदूरों को दी बधाई और सरकार पर किया हमला",
-          "description": "बोरे बासी खाते दिखे Bhupesh Baghe, मजदूरों को दी बधाई और सरकार पर किया ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-01T12:51:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/qB5wQR1DICE/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 151,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
           "index": 4,
           "videoId": "0TfjROGM_lY",
           "title": "दुर्ग में अतिथि शिक्षकों का प्रदर्शन , नियमितीकरण की मांग, सरकार के खिलाफ नारेबाजी",
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0TfjROGM_lY/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 141,
-          "likes": 40,
+          "views": 163,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -162,19 +162,103 @@
           "thumbnail": "https://i.ytimg.com/vi/0TfjROGM_lY/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 141,
-          "likes": 40,
+          "views": 163,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-01T14:25:10Z"
+      "latestUpdateAt": "2026-05-02T05:59:30Z"
+    },
+    {
+      "clusterId": "cruise-accident",
+      "topic": "Cruise Accident",
+      "videoCount": 10,
+      "trendScore": 39.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "Tu5Dfgo576k",
+          "title": "Jabalpur Cruise Accident VIDEO: डूब रहा था क्रूज, मचा हड़कंप, दिल दहलाने वाला VIDEO #cruiseaccident",
+          "description": "IBC24, Jabalpur Cruise Accident : डूब रहा था क्रूज, अंदर मचा हड़कंप, दिल दहलाने वाला ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-02T04:00:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/Tu5Dfgo576k/hqdefault.jpg",
+          "durationSeconds": 11,
+          "durationFormatted": "00:11",
+          "views": 21483,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "YLhthXlKV5o",
+          "title": "🔴Jabalpur Bargi Dam Cruise Accident: अचानक आए तूफान ने पलटा क्रूज, 30 लोग डूबे, अब तक इतने शव बरामद",
+          "description": "IBC24, Jabalpur Bargi Dam Cruise Accident: अचानक आए तूफान ने पलटा क्रूज, 30 लोग डूबे, अब ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T19:50:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/YLhthXlKV5o/hqdefault.jpg",
+          "durationSeconds": 42899,
+          "durationFormatted": "11:54:59",
+          "views": 16711,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 3,
+          "videoId": "9Mn81EEnEJY",
+          "title": "Jabalpur Cruise Accident के बाद Bhopal Boat Club पर सख्ती। बिना लाइफ जैकेट के बोटिंग पर मनाही। देखिए",
+          "description": "IBC24, Jabalpur Cruise Accident के बाद Bhopal Boat Club पर सख्ती। बिना लाइफ जैकेट के ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T19:03:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/9Mn81EEnEJY/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 3515,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 4,
+          "videoId": "e9ic1yo-eRQ",
+          "title": "Jabalpur Cruise Accident: माँ और बच्चे की तस्वीर ने झकझोरा दिल | LIVE",
+          "description": "मध्यप्रदेश के Jabalpur में हुए क्रूज हादसे के बाद एक बेहद भावुक तस्वीर ...",
+          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-01T17:36:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/e9ic1yo-eRQ/hqdefault.jpg",
+          "durationSeconds": 14551,
+          "durationFormatted": "04:02:31",
+          "views": 1368,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "avGH0i4O5lk",
+          "title": "Jabalpur Cruise Accident News: क्रूज हादसे पर अपडेट..IBC24 से बातचीत में SDERF कमांडेंट का बड़ा बयान",
+          "description": "IBC24, Jabalpur Cruise Accident News: क्रूज हादसे पर अपडेट..IBC24 से बातचीत में SDERF ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-01T18:57:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/avGH0i4O5lk/hqdefault.jpg",
+          "durationSeconds": 251,
+          "durationFormatted": "04:11",
+          "views": 1036,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-05-02T05:47:26Z"
     },
     {
       "clusterId": "दलह-रख",
       "topic": "दूल्हे रखी",
-      "videoCount": 6,
-      "trendScore": 37.7,
+      "videoCount": 5,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MP5xO_9Yr-I/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 88790,
-          "likes": 1392,
+          "views": 94967,
+          "likes": 1470,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -201,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QRuaYnmxTLk/hqdefault.jpg",
           "durationSeconds": 128,
           "durationFormatted": "02:08",
-          "views": 4861,
-          "likes": 136,
+          "views": 8796,
+          "likes": 210,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z9Y2hqk9yhs/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 4405,
+          "views": 4705,
           "likes": 52,
           "videoType": "VOD",
           "genre": "General"
@@ -231,118 +315,34 @@
           "thumbnail": "https://i.ytimg.com/vi/iwSL-aCOiv8/hqdefault.jpg",
           "durationSeconds": 251,
           "durationFormatted": "04:11",
-          "views": 55,
+          "views": 63,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "oF0XNk59HaI",
-          "title": "तेंदूपत्ता बना हरा सोना, लेकिन लाभ पर सवाल",
-          "description": "छत्तीसगढ़ के जंगलों में मिलने वाला तेंदूपत्ता आज “हरा सोना” बन चुका ...",
+          "videoId": "Ox6skE5nYsw",
+          "title": "भिलाई में छत्तीसगढ़ स्तरीय प्रतियोगिता का भव्य समापन, 100 प्रतिभागी सम्मानित",
+          "description": "भिलाई में केईए कैरावी एजुकेशनल अकादमी द्वारा आयोजित छत्तीसगढ़ ...",
           "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-05-01T10:44:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/oF0XNk59HaI/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 42,
+          "publishedAt": "2026-05-01T12:01:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ox6skE5nYsw/hqdefault.jpg",
+          "durationSeconds": 222,
+          "durationFormatted": "03:42",
+          "views": 3,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-05-01T17:27:52Z"
     },
     {
-      "clusterId": "cruise-accident",
-      "topic": "Cruise Accident",
-      "videoCount": 10,
-      "trendScore": 37.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "YLhthXlKV5o",
-          "title": "🔴Jabalpur Bargi Dam Cruise Accident: अचानक आए तूफान ने पलटा क्रूज, 30 लोग डूबे, अब तक इतने शव बरामद",
-          "description": "IBC24, Jabalpur Bargi Dam Cruise Accident: अचानक आए तूफान ने पलटा क्रूज, 30 लोग डूबे, अब ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T19:50:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/YLhthXlKV5o/hqdefault.jpg",
-          "durationSeconds": 42899,
-          "durationFormatted": "11:54:59",
-          "views": 16545,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "sBF-m8x2lNI",
-          "title": "🔴Jabalpur Cruise Accident : क्रूज को बाहर निकालते रेस्क्यू टीम | Bargi Dam Cruise Accident | MP News",
-          "description": "Jabalpur Cruise Accident : क्रूज को बाहर निकालते रेस्क्यू टीम | Bargi Dam Cruise Accident | MP ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T18:02:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/sBF-m8x2lNI/hqdefault.jpg",
-          "durationSeconds": 31780,
-          "durationFormatted": "08:49:40",
-          "views": 11769,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "0aVW9Gd8MDs",
-          "title": "Jabalpur Cruise Accident LIVE Update:क्रूज को बाहर निकाल रही रेस्क्यू टीम |Bargi Dam Cruise Accident",
-          "description": "IBC24, Jabalpur Cruise Accident LIVE Update: क्रूज को बाहर निकाल रही रेस्क्यू टीम | Bargi Dam ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T17:50:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/0aVW9Gd8MDs/hqdefault.jpg",
-          "durationSeconds": 31026,
-          "durationFormatted": "08:37:06",
-          "views": 4752,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 4,
-          "videoId": "9Mn81EEnEJY",
-          "title": "Jabalpur Cruise Accident के बाद Bhopal Boat Club पर सख्ती। बिना लाइफ जैकेट के बोटिंग पर मनाही। देखिए",
-          "description": "IBC24, Jabalpur Cruise Accident के बाद Bhopal Boat Club पर सख्ती। बिना लाइफ जैकेट के ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-01T19:03:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/9Mn81EEnEJY/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 2914,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
-          "videoId": "e9ic1yo-eRQ",
-          "title": "Jabalpur Cruise Accident: माँ और बच्चे की तस्वीर ने झकझोरा दिल | LIVE",
-          "description": "मध्यप्रदेश के Jabalpur में हुए क्रूज हादसे के बाद एक बेहद भावुक तस्वीर ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-01T17:36:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/e9ic1yo-eRQ/hqdefault.jpg",
-          "durationSeconds": 14551,
-          "durationFormatted": "04:02:31",
-          "views": 1196,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-05-01T19:50:35Z"
-    },
-    {
-      "clusterId": "धयन-रह",
-      "topic": "ध्यान रहे",
+      "clusterId": "छततसगढ-बर",
+      "topic": "छत्तीसगढ़ बोरे",
       "videoCount": 4,
-      "trendScore": 36.9,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DwHy5HiEzNE/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 43054,
-          "likes": 856,
+          "views": 50415,
+          "likes": 933,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9cFTTjC8E6w/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 15546,
-          "likes": 311,
+          "views": 16952,
+          "likes": 328,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8z758kpLvfc/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 4326,
-          "likes": 69,
+          "views": 4446,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NjIBUKa_q40/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 1584,
-          "likes": 30,
+          "views": 2741,
+          "likes": 44,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -410,8 +410,8 @@
     {
       "clusterId": "newsonair-chhattisgarh",
       "topic": "Newsonair Chhattisgarh",
-      "videoCount": 5,
-      "trendScore": 34.6,
+      "videoCount": 6,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -423,8 +423,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ydEm7Gj484Y/hqdefault.jpg",
           "durationSeconds": 605,
           "durationFormatted": "10:05",
-          "views": 445,
-          "likes": 27,
+          "views": 527,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c0N80p2S8bM/hqdefault.jpg",
           "durationSeconds": 198,
           "durationFormatted": "03:18",
-          "views": 188,
+          "views": 297,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JDVDxKoW5v4/hqdefault.jpg",
           "durationSeconds": 299,
           "durationFormatted": "04:59",
-          "views": 100,
+          "views": 112,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -483,19 +483,103 @@
           "thumbnail": "https://i.ytimg.com/vi/5mkXcFcPJw8/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 5,
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-01T18:43:21Z"
+      "latestUpdateAt": "2026-05-02T05:48:50Z"
+    },
+    {
+      "clusterId": "zee-mpcg",
+      "topic": "Zee MPCG",
+      "videoCount": 7,
+      "trendScore": 34.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "bwHdhv1EMfY",
+          "title": "🔴LIVE :  Aapki Aawaz : कोरिया में जर्जर नहरें, बहता पानी, जिम्मेदार कहां? |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : कोरिया में जर्जर नहरें, बहता पानी, जिम्मेदार कहां? | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-02T03:31:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/bwHdhv1EMfY/hqdefault.jpg",
+          "durationSeconds": 1526,
+          "durationFormatted": "25:26",
+          "views": 228,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "n8rrtn58fsc",
+          "title": "🔴LIVE : MP-CG News : जबलपुर:डैम से निकाला जा रहा क्रूज  | Zee MPCG",
+          "description": "LIVE : MP-CG News : जबलपुर:डैम से निकाला जा रहा क्रूज | Zee MPCG हाय ये गर्मी.",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-01T20:23:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/n8rrtn58fsc/hqdefault.jpg",
+          "durationSeconds": 1585,
+          "durationFormatted": "26:25",
+          "views": 224,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "Nj9mClnAID0",
+          "title": "🔴LIVE : Johar : किसके विधायक बदलेंगे पाला ?  | Chhattisgarh News | Latest News | CG News | Zee MPCG",
+          "description": "LIVE : Johar : किसके विधायक बदलेंगे पाला ? | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-02T00:22:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/Nj9mClnAID0/hqdefault.jpg",
+          "durationSeconds": 1276,
+          "durationFormatted": "21:16",
+          "views": 151,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "JAL3FJkj3wQ",
+          "title": "🔴LIVE :  Aapki Aawaz : दिग्विजय की खरी-खरी...पटवारी को &#39;खली&#39;?  |  Zee MPCG | Latest News",
+          "description": "LIVE : Aapki Aawaz : दिग्विजय की खरी-खरी...पटवारी को 'खली'? | Zee MPCG | Latest News मध्य ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-02T03:06:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/JAL3FJkj3wQ/hqdefault.jpg",
+          "durationSeconds": 1355,
+          "durationFormatted": "22:35",
+          "views": 149,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "NdHBqQTSHO4",
+          "title": "🔴LIVE : Prime Time @9 : छत्तीसगढ़ कांग्रेस में, बदलाव की सुगबुगाहट ! | Latest News | Zee MPCG",
+          "description": "LIVE : Prime Time @9 : छत्तीसगढ़ कांग्रेस में, बदलाव की सुगबुगाहट ! | Latest News | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-02T03:54:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/NdHBqQTSHO4/hqdefault.jpg",
+          "durationSeconds": 1335,
+          "durationFormatted": "22:15",
+          "views": 135,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-05-02T06:22:35Z"
     },
     {
       "clusterId": "bhaskar-करड",
       "topic": "Bhaskar करोड़ों",
       "videoCount": 7,
-      "trendScore": 33.6,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -507,8 +591,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bSE6XdagETQ/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 1323,
-          "likes": 33,
+          "views": 1635,
+          "likes": 44,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -522,8 +606,8 @@
           "thumbnail": "https://i.ytimg.com/vi/89vERXNxqe0/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 443,
-          "likes": 7,
+          "views": 483,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -567,7 +651,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-bfr_Q2-BWQ/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 189,
+          "views": 191,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -576,94 +660,10 @@
       "latestUpdateAt": "2026-05-01T15:30:32Z"
     },
     {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 6,
-      "trendScore": 33.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "S0EzygODomg",
-          "title": "🔴LIVE : MP - CG : बड़गी डैम में तबाही ! 9 लोगों की मौत | Hindi News | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : बड़गी डैम में तबाही ! 9 लोगों की मौत | Hindi News | Latest News | Zee MPCG 'मौत ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-01T16:55:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/S0EzygODomg/hqdefault.jpg",
-          "durationSeconds": 1416,
-          "durationFormatted": "23:36",
-          "views": 627,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "bwHdhv1EMfY",
-          "title": "🔴LIVE :  Aapki Aawaz : कोरिया में जर्जर नहरें, बहता पानी, जिम्मेदार कहां? |  Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz : कोरिया में जर्जर नहरें, बहता पानी, जिम्मेदार कहां? | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-02T03:31:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/bwHdhv1EMfY/hqdefault.jpg",
-          "durationSeconds": 1526,
-          "durationFormatted": "25:26",
-          "views": 214,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "n8rrtn58fsc",
-          "title": "🔴LIVE : MP-CG News : जबलपुर:डैम से निकाला जा रहा क्रूज  | Zee MPCG",
-          "description": "LIVE : MP-CG News : जबलपुर:डैम से निकाला जा रहा क्रूज | Zee MPCG हाय ये गर्मी.",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-01T20:23:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/n8rrtn58fsc/hqdefault.jpg",
-          "durationSeconds": 1585,
-          "durationFormatted": "26:25",
-          "views": 211,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "Nj9mClnAID0",
-          "title": "🔴LIVE : Johar : किसके विधायक बदलेंगे पाला ?  | Chhattisgarh News | Latest News | CG News | Zee MPCG",
-          "description": "LIVE : Johar : किसके विधायक बदलेंगे पाला ? | Chhattisgarh News | Latest News | CG News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-02T00:22:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/Nj9mClnAID0/hqdefault.jpg",
-          "durationSeconds": 1276,
-          "durationFormatted": "21:16",
-          "views": 145,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "JAL3FJkj3wQ",
-          "title": "🔴LIVE :  Aapki Aawaz : दिग्विजय की खरी-खरी...पटवारी को &#39;खली&#39;?  |  Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz : दिग्विजय की खरी-खरी...पटवारी को 'खली'? | Zee MPCG | Latest News मध्य ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-02T03:06:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/JAL3FJkj3wQ/hqdefault.jpg",
-          "durationSeconds": 1355,
-          "durationFormatted": "22:35",
-          "views": 132,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-02T03:54:21Z"
-    },
-    {
       "clusterId": "durg-faizan",
       "topic": "Durg Faizan",
       "videoCount": 4,
-      "trendScore": 29.2,
+      "trendScore": 28.6,
       "topVideos": [
         {
           "index": 1,
@@ -675,7 +675,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hY-OplilYa8/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 8640,
+          "views": 9729,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +690,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hY-OplilYa8/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 8640,
+          "views": 9729,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Of7VGD4rqRw/hqdefault.jpg",
           "durationSeconds": 754,
           "durationFormatted": "12:34",
-          "views": 694,
+          "views": 900,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Of7VGD4rqRw/hqdefault.jpg",
           "durationSeconds": 754,
           "durationFormatted": "12:34",
-          "views": 694,
+          "views": 900,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
