@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-03T04:26:14.419456Z",
-  "clusterCount": 12,
+  "generatedAt": "2026-05-03T07:04:32.242350Z",
+  "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 40,
-      "trendScore": 65.5,
+      "videoCount": 47,
+      "trendScore": 66.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DueNqJOeaBQ/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 20146,
-          "likes": 2194,
+          "views": 24186,
+          "likes": 2507,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qOdq0-lWIpI/hqdefault.jpg",
           "durationSeconds": 765,
           "durationFormatted": "12:45",
-          "views": 17040,
-          "likes": 334,
+          "views": 22071,
+          "likes": 398,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Ht2PhqtfLUc/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 11227,
+          "views": 16318,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EIjdQwXwbqU/hqdefault.jpg",
           "durationSeconds": 909,
           "durationFormatted": "15:09",
-          "views": 7316,
-          "likes": 357,
+          "views": 12294,
+          "likes": 449,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,37 +78,22 @@
           "thumbnail": "https://i.ytimg.com/vi/o6VZ2GIHREc/hqdefault.jpg",
           "durationSeconds": 1703,
           "durationFormatted": "28:23",
-          "views": 3287,
-          "likes": 107,
+          "views": 5098,
+          "likes": 133,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-03T04:12:11Z"
+      "latestUpdateAt": "2026-05-03T06:35:53Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 24,
-      "trendScore": 56.1,
+      "videoCount": 19,
+      "trendScore": 52.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "xXPBxvMYp9g",
-          "title": "महंगाई का तगड़ा झटका || चाय-नाश्ता, खाना सब महंगा !",
-          "description": "breakingnews #raipur #trendingnow #raipur #viralnews #gas.",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-05-02T04:30:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/xXPBxvMYp9g/hqdefault.jpg",
-          "durationSeconds": 129,
-          "durationFormatted": "02:09",
-          "views": 25297,
-          "likes": 413,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "YvD0hFuPxFw",
           "title": "रायपुर में IPL के लिए ऐसे मिलेगी टिकट !",
           "description": "रायपुर में IPL के लिए ऐसे मिलेगी टिकट !",
@@ -117,13 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/YvD0hFuPxFw/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 16216,
-          "likes": 229,
+          "views": 17976,
+          "likes": 269,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "vKjanft3JNc",
           "title": "CG || शराब में पीने में नंबर 1 बना छत्तीसगढ़ || रायपुर सबसे आगे ! thiha chhattsigarh  news ||",
           "description": "latestnews #latestnews #hindinews #newslive #breakingnews #chhattisgarh #cgnews #sharabkanoon #liquorrules ...",
@@ -132,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/vKjanft3JNc/hqdefault.jpg",
           "durationSeconds": 468,
           "durationFormatted": "07:48",
-          "views": 7384,
-          "likes": 174,
+          "views": 9624,
+          "likes": 201,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "Q55GwE38gTA",
           "title": "गुपचुप पानी में जहर कैंसर का खतरा ?",
           "description": "viralnews #latestnews #trendingnow #cg #cgreels #cgsongs #chhattisgarh #raipur #cgnews #shorts #cgshorts #ytshorts #cgvideo ...",
@@ -147,13 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Q55GwE38gTA/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 1921,
-          "likes": 64,
+          "views": 7186,
+          "likes": 219,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "EpvY1kftXIc",
           "title": "IPL Match In Raipur: कल से मिलेंगे टिकट, जानिए कैसे करें बुकिंग #ipl2026 #raipur #rcb #rcbvsmi",
           "description": "IPL Match In Raipur: कल से मिलेंगे टिकट, जानिए कैसे करें बुकिंग #ipl2026 #raipur #rcb ...",
@@ -162,19 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/EpvY1kftXIc/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 1426,
-          "likes": 28,
+          "views": 1617,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "Pvwi7qxxXcQ",
+          "title": "🔴LIVE : पेयजल संकट से जूझता रायपुर! दूषित पानी से बढ़ा खतरा | Water Crisis in Raipur | CG News",
+          "description": "IBC24, LIVE : पेयजल संकट से जूझता रायपुर! दूषित पानी से बढ़ा खतरा | Water Crisis in ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-03T01:39:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/Pvwi7qxxXcQ/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 969,
+          "likes": 0,
+          "videoType": "LIVE",
+          "genre": "Live"
         }
       ],
-      "latestUpdateAt": "2026-05-03T03:30:30Z"
+      "latestUpdateAt": "2026-05-03T06:35:24Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
-      "videoCount": 14,
-      "trendScore": 47.7,
+      "videoCount": 13,
+      "trendScore": 48.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,28 +186,13 @@
           "thumbnail": "https://i.ytimg.com/vi/g-HcfE6XvQg/hqdefault.jpg",
           "durationSeconds": 775,
           "durationFormatted": "12:55",
-          "views": 29487,
-          "likes": 821,
+          "views": 34398,
+          "likes": 900,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "5iZ_q_y8sGk",
-          "title": "Bhilai में हाइड्रोलिक मशीन से Hygienic गन्ना रस गज़ब! #Bhilai #SugarcaneJuice #GanneKaJuice",
-          "description": "",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-05-02T07:41:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/5iZ_q_y8sGk/hqdefault.jpg",
-          "durationSeconds": 154,
-          "durationFormatted": "02:34",
-          "views": 10243,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "UIF2cD-_Z_0",
           "title": "अब आधार कार्ड से बिना गारंटी मिलेगा 90 हजार तक का लोन...",
           "description": "अब आधार कार्ड से बिना गारंटी मिलेगा 90 हजार तक का लोन... #chhattisgarh #news ...",
@@ -216,10 +201,25 @@
           "thumbnail": "https://i.ytimg.com/vi/UIF2cD-_Z_0/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 8274,
-          "likes": 255,
+          "views": 12927,
+          "likes": 308,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "5iZ_q_y8sGk",
+          "title": "Bhilai में हाइड्रोलिक मशीन से Hygienic गन्ना रस गज़ब! #Bhilai #SugarcaneJuice #GanneKaJuice",
+          "description": "",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-05-02T07:41:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/5iZ_q_y8sGk/hqdefault.jpg",
+          "durationSeconds": 154,
+          "durationFormatted": "02:34",
+          "views": 10402,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 4,
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CDgxKoQEKIc/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 4179,
-          "likes": 237,
+          "views": 10246,
+          "likes": 964,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,103 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/XSbYzAbFTdc/hqdefault.jpg",
           "durationSeconds": 767,
           "durationFormatted": "12:47",
-          "views": 3177,
-          "likes": 103,
+          "views": 4477,
+          "likes": 126,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-03T03:30:17Z"
-    },
-    {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 10,
-      "trendScore": 38.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "31H5FukRK0E",
-          "title": "MP Weather Update : एमपी के 21 जिलों में बारिश का Alert | दोपहर बाद मौसम बदलने की संभावना | Zee MPCG",
-          "description": "MP Weather Update : एमपी के 21 जिलों में बारिश का Alert | दोपहर बाद मौसम बदलने की ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-02T17:33:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/31H5FukRK0E/hqdefault.jpg",
-          "durationSeconds": 101,
-          "durationFormatted": "01:41",
-          "views": 298,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "Qet2RuzwnEA",
-          "title": "🔴LIVE : Din Dahade : उज्जैन में बुलडोजर एक्शन  | Latest News | Zee MPCG",
-          "description": "LIVE : Din Dahade : उज्जैन में बुलडोजर एक्शन | Latest News | Zee MPCG सीहोर के बाबरी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-02T18:53:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/Qet2RuzwnEA/hqdefault.jpg",
-          "durationSeconds": 1316,
-          "durationFormatted": "21:56",
-          "views": 257,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "0t5qqL_iQJE",
-          "title": "🔴LIVE : MP - CG :भोपाल: झुग्गी परिवारों के विस्थापन की कार्रवाई | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG :भोपाल: झुग्गी परिवारों के विस्थापन की कार्रवाई | Latest News | Zee ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-02T17:28:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/0t5qqL_iQJE/hqdefault.jpg",
-          "durationSeconds": 1585,
-          "durationFormatted": "26:25",
-          "views": 243,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "XNtlevNbDHY",
-          "title": "🔴LIVE : Prime Time @9 : मई की तपती गर्मी में पानी का संकट ! | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : मई की तपती गर्मी में पानी का संकट ! | Latest News | Zee MPCG #live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-03T03:58:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/XNtlevNbDHY/hqdefault.jpg",
-          "durationSeconds": 1426,
-          "durationFormatted": "23:46",
-          "views": 228,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "9XwYFJ4OtIg",
-          "title": "🔴LIVE :  Aapki Aawaz : हर घर नल...कहां है जल? |  Zee MPCG | Latest News",
-          "description": "LIVE : Aapki Aawaz : हर घर नल...कहां है जल? | Zee MPCG | Latest News #Live #AapkiAwaaz #mpnews #cgnews ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-03T03:27:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/9XwYFJ4OtIg/hqdefault.jpg",
-          "durationSeconds": 1535,
-          "durationFormatted": "25:35",
-          "views": 159,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-03T03:58:40Z"
+      "latestUpdateAt": "2026-05-03T05:04:29Z"
     },
     {
       "clusterId": "location-bilaspur",
       "topic": "Bilaspur",
       "videoCount": 4,
-      "trendScore": 37.9,
+      "trendScore": 37.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WA3Ol-rYoSQ/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 7681,
-          "likes": 277,
+          "views": 8173,
+          "likes": 291,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Md3G6bf3Swo/hqdefault.jpg",
           "durationSeconds": 903,
           "durationFormatted": "15:03",
-          "views": 6590,
-          "likes": 349,
+          "views": 7096,
+          "likes": 363,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MkIOjmuwwKo/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 2477,
-          "likes": 178,
+          "views": 2996,
+          "likes": 205,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -399,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/U8qmo73thR4/hqdefault.jpg",
           "durationSeconds": 495,
           "durationFormatted": "08:15",
-          "views": 548,
-          "likes": 11,
+          "views": 634,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -408,79 +324,79 @@
       "latestUpdateAt": "2026-05-02T13:37:22Z"
     },
     {
-      "clusterId": "bhaskar-bjp",
-      "topic": "Bhaskar BJP",
+      "clusterId": "xpress-lpg",
+      "topic": "Xpress LPG",
       "videoCount": 4,
-      "trendScore": 33.1,
+      "trendScore": 31.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "rR_Utl_Y-IE",
-          "title": "&#39; BJP के संपर्क में हैं छत्तीसगढ़ के कई कांग्रेस विधायक!&#39; | CG Bhaskar",
-          "description": "' BJP के संपर्क में हैं छत्तीसगढ़ के कई कांग्रेस विधायक!' Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-02T07:30:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/rR_Utl_Y-IE/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 2808,
-          "likes": 70,
+          "videoId": "X_oGzAIsusc",
+          "title": "महासमुंद - 6 LPG कैप्सूल से डेढ़ करोड़ का गैस चोरीChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-02T13:39:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/X_oGzAIsusc/hqdefault.jpg",
+          "durationSeconds": 316,
+          "durationFormatted": "05:16",
+          "views": 315,
+          "likes": 6,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "ckE54rOIHbM",
-          "title": "कांकेर-नारायणपुर सीमा पर आईडी ब्लॉस्ट,तीन जवान शहीद | CG Bhaskar",
-          "description": "कांकेर-नारायणपुर सीमा पर आईडी ब्लॉस्ट,तीन जवान शहीद | CG Bhaskar Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-02T10:30:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/ckE54rOIHbM/hqdefault.jpg",
-          "durationSeconds": 72,
-          "durationFormatted": "01:12",
-          "views": 1537,
-          "likes": 50,
+          "videoId": "zdUOANkoMx0",
+          "title": "मस्तूरी - रेत घाट के लिए जन सुनवाई में खुलेआम बांटे गए पैसेChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-02T12:09:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/zdUOANkoMx0/hqdefault.jpg",
+          "durationSeconds": 133,
+          "durationFormatted": "02:13",
+          "views": 208,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "AleV6723AkI",
-          "title": "छत्तीसगढ़ में 5 दिन बारिश और ओले गिरने का अलर्ट | CG Bhaskar",
-          "description": "छत्तीसगढ़ में 5 दिन बारिश और ओले गिरने का अलर्ट Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-02T06:41:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/AleV6723AkI/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 764,
-          "likes": 26,
+          "videoId": "8GcfBD4wcug",
+          "title": "जांजगीर चांपा - तेज रफ्तार यात्री बस पलटी, 10 से ज्यादा यात्री घायलChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-03T05:29:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/8GcfBD4wcug/hqdefault.jpg",
+          "durationSeconds": 86,
+          "durationFormatted": "01:26",
+          "views": 175,
+          "likes": 3,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Traffic"
         },
         {
           "index": 4,
-          "videoId": "jZJ4z-_X3EY",
-          "title": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar",
-          "description": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T02:30:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/jZJ4z-_X3EY/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 273,
-          "likes": 7,
+          "videoId": "JeypxQ0cwtM",
+          "title": "खरोरा - बग्गी में बिठाकर शिक्षक को दिया गया विदाईChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-03T04:27:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/JeypxQ0cwtM/hqdefault.jpg",
+          "durationSeconds": 98,
+          "durationFormatted": "01:38",
+          "views": 37,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-03T02:30:38Z"
+      "latestUpdateAt": "2026-05-03T05:29:56Z"
     },
     {
       "clusterId": "location-durg",
       "topic": "Durg",
-      "videoCount": 7,
-      "trendScore": 31.0,
+      "videoCount": 6,
+      "trendScore": 28.9,
       "topVideos": [
         {
           "index": 1,
@@ -492,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2QxQNMA0_mk/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 539,
-          "likes": 14,
+          "views": 608,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -507,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8UNY5xyBjBM/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 16,
+          "views": 20,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -522,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9_OU5UBps4M/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 14,
-          "likes": 1,
+          "views": 16,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -537,23 +453,23 @@
           "thumbnail": "https://i.ytimg.com/vi/IUn1QESSTe8/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 8,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "bZJGuLrUM7g",
-          "title": "Durg News : मजदूर दिवस पर दुर्ग में श्रमिकों को मिली बड़ी सौगात",
-          "description": "दुर्ग में अंतरराष्ट्रीय मजदूर दिवस के अवसर पर श्रमिकों को बड़ी ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-05-02T10:50:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/bZJGuLrUM7g/hqdefault.jpg",
-          "durationSeconds": 127,
-          "durationFormatted": "02:07",
-          "views": 8,
-          "likes": 2,
+          "videoId": "MCq7JUruzAs",
+          "title": "दुर्ग में मजदूर दिवस कार्यक्रम, 21 कुम्हारों को इलेक्ट्रिक चाक और 200 ई-रिक्शा चालकों को अनुदान",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-02T12:50:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/MCq7JUruzAs/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 5,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -563,8 +479,8 @@
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 6,
-      "trendScore": 29.6,
+      "videoCount": 5,
+      "trendScore": 28.2,
       "topVideos": [
         {
           "index": 1,
@@ -576,8 +492,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nC9PaEl6kVg/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1328,
-          "likes": 27,
+          "views": 1432,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -591,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JBvGym2_jZs/hqdefault.jpg",
           "durationSeconds": 388,
           "durationFormatted": "06:28",
-          "views": 394,
-          "likes": 6,
+          "views": 439,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -621,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oSFizhHpR8o/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 29,
+          "views": 34,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -636,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZdI3QFq9lQA/hqdefault.jpg",
           "durationSeconds": 198,
           "durationFormatted": "03:18",
-          "views": 7,
+          "views": 8,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -648,7 +564,7 @@
       "clusterId": "bhaskar-छततसगढ",
       "topic": "Bhaskar छत्तीसगढ़",
       "videoCount": 4,
-      "trendScore": 29.0,
+      "trendScore": 28.1,
       "topVideos": [
         {
           "index": 1,
@@ -660,8 +576,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fYrda5zXycY/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 772,
-          "likes": 18,
+          "views": 784,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -675,8 +591,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EdVu5KEbnHc/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 331,
-          "likes": 15,
+          "views": 384,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -690,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PFHn2bcsOr8/hqdefault.jpg",
           "durationSeconds": 1603,
           "durationFormatted": "26:43",
-          "views": 286,
+          "views": 361,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nI_Ncg5sxNU/hqdefault.jpg",
           "durationSeconds": 37,
           "durationFormatted": "00:37",
-          "views": 19,
+          "views": 21,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -714,10 +630,79 @@
       "latestUpdateAt": "2026-05-02T14:00:30Z"
     },
     {
+      "clusterId": "बदल-मसम",
+      "topic": "बदला मौसम",
+      "videoCount": 4,
+      "trendScore": 28.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "GhW4FtzUp6Q",
+          "title": "लखनपुर में अचानक बदला मौसम, तेज आंधी-बारिश से जनजीवन प्रभावित",
+          "description": "chhattisgarhnews #madhyapradehnews #lakhanpur .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-02T13:50:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/GhW4FtzUp6Q/hqdefault.jpg",
+          "durationSeconds": 114,
+          "durationFormatted": "01:54",
+          "views": 48,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "G-FEKK7c1QI",
+          "title": "जांजगीर चांपा ब्रेकिंग -कोरबा से सरिया जा रही बस हादसे का शिकार, 60 से अधिक यात्री सवार",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-03T06:09:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/G-FEKK7c1QI/hqdefault.jpg",
+          "durationSeconds": 88,
+          "durationFormatted": "01:28",
+          "views": 8,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "tJNo_Xbk4Ac",
+          "title": "जांजगीर-चांपा में मौसम बदला, तेज हवा के साथ बारिश, कई जगह नुकसान",
+          "description": "chhattisgarhnews #madhyapradehnews #breakingnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-02T14:16:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/tJNo_Xbk4Ac/hqdefault.jpg",
+          "durationSeconds": 93,
+          "durationFormatted": "01:33",
+          "views": 7,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "VxcOy35VeNI",
+          "title": "दिल्ली के विवेक विहार में चार मंजिला इमारत में भीषण आग, 9 लोगों की मौ.T",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-03T06:07:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/VxcOy35VeNI/hqdefault.jpg",
+          "durationSeconds": 88,
+          "durationFormatted": "01:28",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-05-03T06:09:03Z"
+    },
+    {
       "clusterId": "opec-कय",
       "topic": "OPEC क्या",
-      "videoCount": 6,
-      "trendScore": 27.5,
+      "videoCount": 5,
+      "trendScore": 26.0,
       "topVideos": [
         {
           "index": 1,
@@ -729,7 +714,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9Xixo4kd3z8/hqdefault.jpg",
           "durationSeconds": 97,
           "durationFormatted": "01:37",
-          "views": 605,
+          "views": 627,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -744,7 +729,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1h2QoEOAtzY/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 536,
+          "views": 549,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -759,7 +744,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cRvpHfa4W3o/hqdefault.jpg",
           "durationSeconds": 169,
           "durationFormatted": "02:49",
-          "views": 507,
+          "views": 515,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -774,7 +759,7 @@
           "thumbnail": "https://i.ytimg.com/vi/WAZFJrn5xpo/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 500,
+          "views": 504,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -798,64 +783,10 @@
       "latestUpdateAt": "2026-05-02T12:07:05Z"
     },
     {
-      "clusterId": "location-bastar",
-      "topic": "Bastar",
-      "videoCount": 3,
-      "trendScore": 26.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Q1AWIyjJmVM",
-          "title": "नारायणपुर में बड़ा हादसा: IED ब्लास्ट में 2 जवान और 1 TI शहीद, बस्तर IG सुदंरराज ने की पुष्टि",
-          "description": "छत्तीसगढ़ के कांकेर में शनिवार को सर्च ऑपरेशन के दौरान एक हादसा हो ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-05-02T09:50:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q1AWIyjJmVM/hqdefault.jpg",
-          "durationSeconds": 874,
-          "durationFormatted": "14:34",
-          "views": 1791,
-          "likes": 29,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "tZ6C6hq3AXE",
-          "title": "Kanker से इस वक्त की बड़ी खबर, नक्सली डंप बरामद करने के दौरान बड़ा हादसा।  Bastar IG ने की पुष्टि",
-          "description": "Kanker से इस वक्त की बड़ी खबर, नक्सली डंप बरामद करने के दौरान बड़ा हादसा ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-02T10:31:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/tZ6C6hq3AXE/hqdefault.jpg",
-          "durationSeconds": 195,
-          "durationFormatted": "03:15",
-          "views": 632,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 3,
-          "videoId": "cD09oTZxu2A",
-          "title": "Kanker News : कांकेर के 125 गांवों में पहले दिन लगे जनकल्याण शिविर",
-          "description": "छत्तीसगढ़ के बस्तर संभाग में “बस्तर मुन्ने, नियद नेल्लानार 2.0” और ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-05-02T12:17:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/cD09oTZxu2A/hqdefault.jpg",
-          "durationSeconds": 42,
-          "durationFormatted": "00:42",
-          "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-02T12:17:02Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 21.6,
+      "trendScore": 21.1,
       "topVideos": [
         {
           "index": 1,
@@ -867,8 +798,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2_GTuwzCkAw/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 525,
-          "likes": 2,
+          "views": 538,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -882,7 +813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Z7wQhGmyktQ/hqdefault.jpg",
           "durationSeconds": 642,
           "durationFormatted": "10:42",
-          "views": 147,
+          "views": 151,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
