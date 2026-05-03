@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-03T13:52:39.643243Z",
+  "generatedAt": "2026-05-03T15:09:50.364732Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 50,
-      "trendScore": 63.9,
+      "videoCount": 57,
+      "trendScore": 64.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qOdq0-lWIpI/hqdefault.jpg",
           "durationSeconds": 765,
           "durationFormatted": "12:45",
-          "views": 32735,
-          "likes": 506,
+          "views": 33585,
+          "likes": 514,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EIjdQwXwbqU/hqdefault.jpg",
           "durationSeconds": 909,
           "durationFormatted": "15:09",
-          "views": 18903,
-          "likes": 520,
+          "views": 19335,
+          "likes": 528,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/o6VZ2GIHREc/hqdefault.jpg",
           "durationSeconds": 1703,
           "durationFormatted": "28:23",
-          "views": 9299,
-          "likes": 153,
+          "views": 9604,
+          "likes": 159,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/v9OmlfEehaQ/hqdefault.jpg",
           "durationSeconds": 816,
           "durationFormatted": "13:36",
-          "views": 5369,
-          "likes": 111,
+          "views": 5444,
+          "likes": 114,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "4QJx4Hqgzfo",
-          "title": "कांकेर शहीदों को अंतिम सलामी | आखिर हुआ क्या था| देखिए ये पूरी रिपोर्ट | Yashwant | Bhilai Times |",
-          "description": "कांकेर शहीदों को अंतिम सलामी | आखिर हुआ क्या था| देखिए ये पूरी ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-03T10:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/4QJx4Hqgzfo/hqdefault.jpg",
-          "durationSeconds": 791,
-          "durationFormatted": "13:11",
-          "views": 2272,
-          "likes": 110,
+          "videoId": "IQG0Vzw-PhA",
+          "title": "&#39;करोड़ों के घोटाले करने वाला आज CM हैं&#39; #JantaCafe #BJP #assam #himantabiswasarma",
+          "description": "'करोड़ों के घोटाले करने वाला आज CM हैं' #JantaCafe #BJP #assam #himantabiswasarma ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-03T14:21:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/IQG0Vzw-PhA/hqdefault.jpg",
+          "durationSeconds": 102,
+          "durationFormatted": "01:42",
+          "views": 4848,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-03T13:46:39Z"
+      "latestUpdateAt": "2026-05-03T15:04:47Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 23,
-      "trendScore": 55.8,
+      "videoCount": 20,
+      "trendScore": 52.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7Wm8Dp8Paes/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 3217,
-          "likes": 37,
+          "views": 4464,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/gcZmUVItsaw/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 3095,
+          "views": 3408,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "Pvwi7qxxXcQ",
-          "title": "🔴LIVE : पेयजल संकट से जूझता रायपुर! दूषित पानी से बढ़ा खतरा | Water Crisis in Raipur | CG News",
-          "description": "IBC24, LIVE : पेयजल संकट से जूझता रायपुर! दूषित पानी से बढ़ा खतरा | Water Crisis in ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-03T13:04:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/Pvwi7qxxXcQ/hqdefault.jpg",
-          "durationSeconds": 38551,
-          "durationFormatted": "10:42:31",
-          "views": 1197,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
           "videoId": "qhqkVt8_xX8",
           "title": "रायपुर में NEET UG 2026 परीक्षा, 26 केंद्रों पर कड़ी व्यवस्था, लेट आने वालों को नहीं मिलेगी एंट्री",
           "description": "NEET-UG 2026 Exam Today: छत्तीसगढ़ सहित देशभर में आज NEET-UG 2026 की परीक्षा ...",
@@ -147,34 +132,49 @@
           "thumbnail": "https://i.ytimg.com/vi/qhqkVt8_xX8/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 1110,
+          "views": 1449,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "sfxVkBQ7UQU",
-          "title": "02 मई, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-05-02T14:06:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/sfxVkBQ7UQU/hqdefault.jpg",
-          "durationSeconds": 629,
-          "durationFormatted": "10:29",
-          "views": 846,
-          "likes": 38,
+          "index": 4,
+          "videoId": "Pvwi7qxxXcQ",
+          "title": "🔴LIVE : पेयजल संकट से जूझता रायपुर! दूषित पानी से बढ़ा खतरा | Water Crisis in Raipur | CG News",
+          "description": "IBC24, LIVE : पेयजल संकट से जूझता रायपुर! दूषित पानी से बढ़ा खतरा | Water Crisis in ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-03T13:04:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/Pvwi7qxxXcQ/hqdefault.jpg",
+          "durationSeconds": 38551,
+          "durationFormatted": "10:42:31",
+          "views": 1261,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Civic"
+        },
+        {
+          "index": 5,
+          "videoId": "hb0f7E9Gaig",
+          "title": "Raipur IPL Match Ticket Booking: IPL मैच की टिकट बुकिंग शुरु। RCB की वेबसाइट से हो रही बुकिंग",
+          "description": "IBC24, Raipur IPL Match Ticket Booking: IPL मैच की टिकट बुकिंग शुरु। RCB की वेबसाइट से हो ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-03T11:18:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/hb0f7E9Gaig/hqdefault.jpg",
+          "durationSeconds": 122,
+          "durationFormatted": "02:02",
+          "views": 749,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-05-03T13:44:37Z"
+      "latestUpdateAt": "2026-05-03T13:53:25Z"
     },
     {
       "clusterId": "location-durg",
       "topic": "Durg",
-      "videoCount": 10,
-      "trendScore": 43.7,
+      "videoCount": 11,
+      "trendScore": 46.5,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/yONDN1TuXjM/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 4094,
-          "likes": 94,
+          "views": 5704,
+          "likes": 198,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JGBBrKolrQY/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 476,
+          "views": 512,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -238,18 +238,18 @@
         },
         {
           "index": 5,
-          "videoId": "hgoEa8au3pI",
-          "title": "दुर्ग फिल्टर प्लांट में आग , ब्लीचिंग पाउडर स्टोर में हादसा , तेज आंधी से शॉर्ट सर्किट",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews #hindinews #bhilainews .",
+          "videoId": "u3ecT-Ysemk",
+          "title": "दुर्ग-जामुल पुलिस की बड़ी सफलता , 48 घंटे में स्कूटी चोरी का खुलासा, आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews #durgnews .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-03T12:39:43Z",
-          "thumbnail": "https://i.ytimg.com/vi/hgoEa8au3pI/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 2,
+          "publishedAt": "2026-05-03T12:55:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/u3ecT-Ysemk/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-05-03T13:00:11Z"
@@ -257,26 +257,11 @@
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
-      "videoCount": 7,
-      "trendScore": 41.9,
+      "videoCount": 6,
+      "trendScore": 38.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "g-HcfE6XvQg",
-          "title": "Kanker में 4 जवान शहीद | IED रिकवर के दौरान क्या हुआ? | Yashwant Sahu | Bhilai Times News 2026 |",
-          "description": "Kanker में 4 जवान शहीद | IED रिकवर के दौरान क्या हुआ? | Yashwant Sahu | Bhilai Times News ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-02T14:01:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/g-HcfE6XvQg/hqdefault.jpg",
-          "durationSeconds": 775,
-          "durationFormatted": "12:55",
-          "views": 42659,
-          "likes": 994,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "XSbYzAbFTdc",
           "title": "Plastic में कब से मिलेगी मदिरा | लोगों का रिएक्शन सुन हो जाएंगे हैरान | Gaurav Yadav | Bhilai Times",
           "description": "Plastic में कब से मिलेगी मदिरा | लोगों का रिएक्शन सुन हो जाएंगे हैरान ...",
@@ -285,13 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/XSbYzAbFTdc/hqdefault.jpg",
           "durationSeconds": 767,
           "durationFormatted": "12:47",
-          "views": 6818,
+          "views": 6838,
           "likes": 166,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "s2Aou318i_U",
           "title": "Durg-Bhilai में Police की Checking से क्या हुआ? | Acc!dent में De@th हुए कम | NH-SH में खतरा क़ायम",
           "description": "Durg-Bhilai में Police की Checking से क्या हुआ? | Acc!dent में De@th हुए कम | NH-SH में खतरा ...",
@@ -300,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/s2Aou318i_U/hqdefault.jpg",
           "durationSeconds": 430,
           "durationFormatted": "07:10",
-          "views": 2396,
-          "likes": 79,
+          "views": 2547,
+          "likes": 80,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "OH5jSY8f38g",
           "title": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं पहुंचे | Khush",
           "description": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं ...",
@@ -315,13 +300,13 @@
           "thumbnail": "https://i.ytimg.com/vi/OH5jSY8f38g/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 816,
-          "likes": 35,
+          "views": 946,
+          "likes": 41,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "l68Ruur48hU",
           "title": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं पहुंचे | Khush",
           "description": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं ...",
@@ -330,10 +315,25 @@
           "thumbnail": "https://i.ytimg.com/vi/l68Ruur48hU/hqdefault.jpg",
           "durationSeconds": 301,
           "durationFormatted": "05:01",
-          "views": 346,
-          "likes": 13,
+          "views": 490,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "twGvs2OnEz4",
+          "title": "Bhilai में दुकानदारों की मनमानी... अवैध अतिक्रमण से बढ़ रही परेशान || KP News || Nagmani",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-05-03T13:01:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/twGvs2OnEz4/hqdefault.jpg",
+          "durationSeconds": 946,
+          "durationFormatted": "15:46",
+          "views": 408,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
         }
       ],
       "latestUpdateAt": "2026-05-03T13:01:07Z"
@@ -341,8 +341,8 @@
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 10,
-      "trendScore": 38.6,
+      "videoCount": 9,
+      "trendScore": 37.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bvwI-Iw6MW8/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 358,
-          "likes": 9,
+          "views": 407,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FKsXex8kYTI/hqdefault.jpg",
           "durationSeconds": 325,
           "durationFormatted": "05:25",
-          "views": 88,
-          "likes": 0,
+          "views": 268,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,13 +384,28 @@
           "thumbnail": "https://i.ytimg.com/vi/Yjf82AWSUsg/hqdefault.jpg",
           "durationSeconds": 466,
           "durationFormatted": "07:46",
-          "views": 85,
+          "views": 93,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 4,
+          "videoId": "FaPa31vDL-k",
+          "title": "राजनांदगांव चौपाटी में मस्ती की पाठशाला! बच्चों ने दिखाया टैलेंट, हर रविवार होगा आयोजन",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-03T08:07:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/FaPa31vDL-k/hqdefault.jpg",
+          "durationSeconds": 126,
+          "durationFormatted": "02:06",
+          "views": 25,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "qNtO5DLSNKk",
           "title": "राजनांदगांव: मस्ती की पाठशाला कार्यक्रम से पहले टिकट घर में चोरी, पुलिस जांच शुरू",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -403,21 +418,6 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "eCGKXB78IOw",
-          "title": "राजनांदगांव में आधुनिक क्रिकेट अकादमी को मंजूरी, 5 एकड़ भूमि आवंटित",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-03T08:06:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/eCGKXB78IOw/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 9,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-05-03T13:26:01Z"
@@ -426,7 +426,7 @@
       "clusterId": "bhaskar-दकषण",
       "topic": "Bhaskar दक्षिण",
       "videoCount": 4,
-      "trendScore": 35.3,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -438,43 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/MznxwPyoAss/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 1539,
-          "likes": 33,
+          "views": 1586,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "jZJ4z-_X3EY",
-          "title": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar",
-          "description": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T02:30:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/jZJ4z-_X3EY/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 782,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "v6EYJrvdx6M",
-          "title": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी | CG Bhaskar",
-          "description": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T09:01:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/v6EYJrvdx6M/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 698,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
           "videoId": "2wl_f5mu8-0",
           "title": "डेविड तिर्की अरेस्ट, नशे की हालत में दो लोगों को था रौंदा! | CG Bhaskar",
           "description": "डेविड तिर्की अरेस्ट, नशे की हालत में दो लोगों को था रौंदा! Join our Whatsapp ...",
@@ -483,10 +453,40 @@
           "thumbnail": "https://i.ytimg.com/vi/2wl_f5mu8-0/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 631,
-          "likes": 25,
+          "views": 815,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "jZJ4z-_X3EY",
+          "title": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar",
+          "description": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T02:30:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/jZJ4z-_X3EY/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 803,
+          "likes": 23,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "v6EYJrvdx6M",
+          "title": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी | CG Bhaskar",
+          "description": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T09:01:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/v6EYJrvdx6M/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 727,
+          "likes": 12,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-05-03T11:11:14Z"
@@ -494,8 +494,8 @@
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 7,
-      "trendScore": 31.7,
+      "videoCount": 6,
+      "trendScore": 30.2,
       "topVideos": [
         {
           "index": 1,
@@ -507,28 +507,13 @@
           "thumbnail": "https://i.ytimg.com/vi/pK6MutX0VWI/hqdefault.jpg",
           "durationSeconds": 2482,
           "durationFormatted": "41:22",
-          "views": 360,
+          "views": 377,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "XNtlevNbDHY",
-          "title": "🔴LIVE : Prime Time @9 : मई की तपती गर्मी में पानी का संकट ! | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : मई की तपती गर्मी में पानी का संकट ! | Latest News | Zee MPCG #live ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-03T03:58:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/XNtlevNbDHY/hqdefault.jpg",
-          "durationSeconds": 1426,
-          "durationFormatted": "23:46",
-          "views": 250,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "Gc0iArLlspQ",
           "title": "🔴LIVE : MP-CG News : पीथमपुर इकोनॉमिक कॉरिडोर का भूमि पूजन  | Zee MPCG",
           "description": "LIVE : MP-CG News : पीथमपुर इकोनॉमिक कॉरिडोर का भूमि पूजन | Zee MPCG #Live #MPNews ...",
@@ -537,10 +522,25 @@
           "thumbnail": "https://i.ytimg.com/vi/Gc0iArLlspQ/hqdefault.jpg",
           "durationSeconds": 1731,
           "durationFormatted": "28:51",
-          "views": 247,
+          "views": 236,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "2j6qsvqep1M",
+          "title": "Delhi AC Blast : एसी फटने से मकान में लगी भीषण आग | हादसे में 9 लोगों की जलकर मौत | Zee MPCG",
+          "description": "Delhi AC Blast: एसी फटने से मकान में भीषण आग, 9 लोगों की दर्दनाक मौत | Zee MPCG ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-03T08:09:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/2j6qsvqep1M/hqdefault.jpg",
+          "durationSeconds": 770,
+          "durationFormatted": "12:50",
+          "views": 214,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Crime"
         },
         {
           "index": 4,
@@ -552,25 +552,25 @@
           "thumbnail": "https://i.ytimg.com/vi/7iGOjnbvHGs/hqdefault.jpg",
           "durationSeconds": 1441,
           "durationFormatted": "24:01",
-          "views": 148,
+          "views": 147,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 5,
-          "videoId": "2j6qsvqep1M",
-          "title": "Delhi AC Blast : एसी फटने से मकान में लगी भीषण आग | हादसे में 9 लोगों की जलकर मौत | Zee MPCG",
-          "description": "Delhi AC Blast: एसी फटने से मकान में भीषण आग, 9 लोगों की दर्दनाक मौत | Zee MPCG ...",
+          "videoId": "IY-QcUY4PKw",
+          "title": "🔴LIVE : अब दूध भी करेगा जेब ढीली ! | MP News  | Latest News  | Zee MPCG",
+          "description": "LIVE : अब दूध भी करेगा जेब ढीली ! | MP News | Latest News | Zee MPCG बेजुबानों के हक में ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-03T08:09:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/2j6qsvqep1M/hqdefault.jpg",
-          "durationSeconds": 770,
-          "durationFormatted": "12:50",
-          "views": 142,
+          "publishedAt": "2026-05-03T11:21:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/IY-QcUY4PKw/hqdefault.jpg",
+          "durationSeconds": 1418,
+          "durationFormatted": "23:38",
+          "views": 129,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-05-03T12:52:52Z"
