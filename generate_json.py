@@ -1480,7 +1480,7 @@ def resolve_city_from_ip(ip: str, lookup_template: Optional[str] = None) -> str:
 
 
 def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
-    """Return videos that mention the resolved city in title/description/channel."""
+    """Return videos whose title mentions the resolved city (not channel name or description alone)."""
     city_n = normalize(city or "")
     if not city_n:
         _log_city("City filter skipped: empty city after normalization")
@@ -1488,9 +1488,7 @@ def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
     _log_city(f"Filtering feed by city='{city}' normalized='{city_n}', feed_size={len(feed)}")
     out: List[Dict] = []
     for v in feed:
-        text = normalize(
-            f"{v.get('title', '')} {v.get('description', '')} {v.get('channelTitle', '')}"
-        )
+        text = normalize(v.get('title', '') or '')
         if city_n and city_n in text:
             out.append(v)
     _log_city(f"City filter matched {len(out)} videos for city='{city}'")

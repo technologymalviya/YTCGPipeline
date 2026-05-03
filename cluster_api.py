@@ -855,17 +855,14 @@ def dedupe_videos_by_video_id(videos: List[Dict[str, Any]]) -> List[Dict[str, An
     return out
 
 
-def get_video_text(video: Dict[str, Any]) -> str:
-    """Get normalized search text for a video."""
-    title = (video.get('title') or '')
-    description = (video.get('description') or '')
-    channel = (video.get('channelTitle') or '')
-    return f"{title} {description} {channel}".lower()
+def _city_cluster_match_text(video: Dict[str, Any]) -> str:
+    """Lowercase video title only — city trending clusters must not match on channel or description."""
+    return (video.get('title') or '').lower()
 
 
 def extract_city_news_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
-    Group local news that mentions a known city (title/description/channel).
+    Group local news where the video title mentions a known city.
     One cluster per city with topic = city name. Only created when count > 2 (3+ videos).
     """
     location_patterns = {
@@ -882,7 +879,7 @@ def extract_city_news_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, A
     location_buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
 
     for video in videos:
-        text = get_video_text(video)
+        text = _city_cluster_match_text(video)
         for location, needles in location_patterns.items():
             if any(n in text for n in needles):
                 location_buckets[location].append(video)
