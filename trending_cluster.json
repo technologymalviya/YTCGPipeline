@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-05-03T15:09:50.364732Z",
+  "generatedAt": "2026-05-03T17:13:15.088960Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 57,
-      "trendScore": 64.0,
+      "videoCount": 55,
+      "trendScore": 63.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "qOdq0-lWIpI",
-          "title": "Durg Double M*rder Case Big Update | रीना के पिता का चौंकाने वाला खुलासा | Yashwant Sahu |",
-          "description": "Durg Double M*rder Case Big Update | रीना के पिता का चौंकाने वाला खुलासा | Report/Story: ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-02T15:30:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/qOdq0-lWIpI/hqdefault.jpg",
-          "durationSeconds": 765,
-          "durationFormatted": "12:45",
-          "views": 33585,
-          "likes": 514,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "EIjdQwXwbqU",
           "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
           "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
@@ -33,13 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/EIjdQwXwbqU/hqdefault.jpg",
           "durationSeconds": 909,
           "durationFormatted": "15:09",
-          "views": 19335,
-          "likes": 528,
+          "views": 20816,
+          "likes": 538,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "o6VZ2GIHREc",
           "title": "3 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
           "description": "3 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
@@ -48,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/o6VZ2GIHREc/hqdefault.jpg",
           "durationSeconds": 1703,
           "durationFormatted": "28:23",
-          "views": 9604,
-          "likes": 159,
+          "views": 10506,
+          "likes": 167,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
-          "videoId": "v9OmlfEehaQ",
-          "title": "3 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "3 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-05-02T23:40:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/v9OmlfEehaQ/hqdefault.jpg",
-          "durationSeconds": 816,
-          "durationFormatted": "13:36",
-          "views": 5444,
-          "likes": 114,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
+          "index": 3,
           "videoId": "IQG0Vzw-PhA",
           "title": "&#39;करोड़ों के घोटाले करने वाला आज CM हैं&#39; #JantaCafe #BJP #assam #himantabiswasarma",
           "description": "'करोड़ों के घोटाले करने वाला आज CM हैं' #JantaCafe #BJP #assam #himantabiswasarma ...",
@@ -78,19 +48,49 @@
           "thumbnail": "https://i.ytimg.com/vi/IQG0Vzw-PhA/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 4848,
+          "views": 6415,
           "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "4QJx4Hqgzfo",
+          "title": "कांकेर शहीदों को अंतिम सलामी | आखिर हुआ क्या था| देखिए ये पूरी रिपोर्ट | Yashwant | Bhilai Times |",
+          "description": "कांकेर शहीदों को अंतिम सलामी | आखिर हुआ क्या था| देखिए ये पूरी ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-03T10:30:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/4QJx4Hqgzfo/hqdefault.jpg",
+          "durationSeconds": 791,
+          "durationFormatted": "13:11",
+          "views": 6246,
+          "likes": 189,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "v9OmlfEehaQ",
+          "title": "3 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "3 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-05-02T23:40:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/v9OmlfEehaQ/hqdefault.jpg",
+          "durationSeconds": 816,
+          "durationFormatted": "13:36",
+          "views": 5682,
+          "likes": 115,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-03T15:04:47Z"
+      "latestUpdateAt": "2026-05-03T16:20:07Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 20,
-      "trendScore": 52.5,
+      "videoCount": 22,
+      "trendScore": 54.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/7Wm8Dp8Paes/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 4464,
-          "likes": 43,
+          "views": 6373,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gcZmUVItsaw/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 3408,
+          "views": 3470,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qhqkVt8_xX8/hqdefault.jpg",
           "durationSeconds": 303,
           "durationFormatted": "05:03",
-          "views": 1449,
+          "views": 1779,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -147,33 +147,33 @@
           "thumbnail": "https://i.ytimg.com/vi/Pvwi7qxxXcQ/hqdefault.jpg",
           "durationSeconds": 38551,
           "durationFormatted": "10:42:31",
-          "views": 1261,
+          "views": 1375,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
         },
         {
           "index": 5,
-          "videoId": "hb0f7E9Gaig",
-          "title": "Raipur IPL Match Ticket Booking: IPL मैच की टिकट बुकिंग शुरु। RCB की वेबसाइट से हो रही बुकिंग",
-          "description": "IBC24, Raipur IPL Match Ticket Booking: IPL मैच की टिकट बुकिंग शुरु। RCB की वेबसाइट से हो ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-03T11:18:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/hb0f7E9Gaig/hqdefault.jpg",
-          "durationSeconds": 122,
-          "durationFormatted": "02:02",
-          "views": 749,
-          "likes": 0,
+          "videoId": "6Td-7y-RUbI",
+          "title": "रायपुर में चाकूबाजी,युवक पर जानलेवा Hमला | CG Bhaskar",
+          "description": "रायपुर में चाकूबाजी,युवक पर जानलेवा Hमला | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T11:37:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/6Td-7y-RUbI/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 751,
+          "likes": 23,
           "videoType": "VOD",
-          "genre": "Events"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-03T13:53:25Z"
+      "latestUpdateAt": "2026-05-03T16:39:47Z"
     },
     {
       "clusterId": "location-durg",
       "topic": "Durg",
-      "videoCount": 11,
+      "videoCount": 12,
       "trendScore": 46.5,
       "topVideos": [
         {
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/yONDN1TuXjM/hqdefault.jpg",
           "durationSeconds": 27,
           "durationFormatted": "00:27",
-          "views": 5704,
-          "likes": 198,
+          "views": 14593,
+          "likes": 341,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JGBBrKolrQY/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 512,
-          "likes": 5,
+          "views": 531,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,25 +216,25 @@
           "thumbnail": "https://i.ytimg.com/vi/ViYOYLeFAsQ/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 405,
+          "views": 506,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "z85Y7-IGN68",
-          "title": "Durg News : दुर्ग के फिल्टर प्लांट में आग, पेयजल सप्लाई प्रभावित",
-          "description": "छत्तीसगढ़ के दुर्ग शहर में 42 एमएलडी फिल्टर प्लांट के ब्लीचिंग ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-05-03T11:03:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/z85Y7-IGN68/hqdefault.jpg",
-          "durationSeconds": 115,
-          "durationFormatted": "01:55",
-          "views": 4,
-          "likes": 0,
+          "videoId": "lqliRaQwjYE",
+          "title": "Durg के इस Gaon में सिर्फ 1 बोर| 1 बाल्टी पानी के लिए 3 घंटे इंतज़ार| सुबह 4 बजे से लगती है लाइन |",
+          "description": "Durg के इस Gaon में सिर्फ 1 बोर| 1 बाल्टी पानी के लिए 3 घंटे इंतज़ार| सुबह 4 ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-03T17:01:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/lqliRaQwjYE/hqdefault.jpg",
+          "durationSeconds": 880,
+          "durationFormatted": "14:40",
+          "views": 160,
+          "likes": 10,
           "videoType": "VOD",
-          "genre": "Civic"
+          "genre": "General"
         },
         {
           "index": 5,
@@ -246,37 +246,22 @@
           "thumbnail": "https://i.ytimg.com/vi/u3ecT-Ysemk/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 4,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-03T13:00:11Z"
+      "latestUpdateAt": "2026-05-03T17:01:02Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 6,
-      "trendScore": 38.6,
+      "trendScore": 37.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "XSbYzAbFTdc",
-          "title": "Plastic में कब से मिलेगी मदिरा | लोगों का रिएक्शन सुन हो जाएंगे हैरान | Gaurav Yadav | Bhilai Times",
-          "description": "Plastic में कब से मिलेगी मदिरा | लोगों का रिएक्शन सुन हो जाएंगे हैरान ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-02T17:03:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/XSbYzAbFTdc/hqdefault.jpg",
-          "durationSeconds": 767,
-          "durationFormatted": "12:47",
-          "views": 6838,
-          "likes": 166,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "s2Aou318i_U",
           "title": "Durg-Bhilai में Police की Checking से क्या हुआ? | Acc!dent में De@th हुए कम | NH-SH में खतरा क़ायम",
           "description": "Durg-Bhilai में Police की Checking से क्या हुआ? | Acc!dent में De@th हुए कम | NH-SH में खतरा ...",
@@ -285,13 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/s2Aou318i_U/hqdefault.jpg",
           "durationSeconds": 430,
           "durationFormatted": "07:10",
-          "views": 2547,
-          "likes": 80,
+          "views": 2612,
+          "likes": 84,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "OH5jSY8f38g",
           "title": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं पहुंचे | Khush",
           "description": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं ...",
@@ -300,28 +285,28 @@
           "thumbnail": "https://i.ytimg.com/vi/OH5jSY8f38g/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 946,
-          "likes": 41,
+          "views": 1087,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "8LDPznZv2oo",
+          "title": "Bhilai के Nandani Road में हुआ दर्दनाक सड़क हा५सा || Bhilai Truck Accident News || Bharti Media ||",
+          "description": "Bhilai के Nandani Road में हुआ दर्दनाक सड़क हा५सा || Bhilai Truck Accident News || Bharti Media ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-05-03T15:18:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/8LDPznZv2oo/hqdefault.jpg",
+          "durationSeconds": 757,
+          "durationFormatted": "12:37",
+          "views": 1079,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
         },
         {
           "index": 4,
-          "videoId": "l68Ruur48hU",
-          "title": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं पहुंचे | Khush",
-          "description": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T05:04:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/l68Ruur48hU/hqdefault.jpg",
-          "durationSeconds": 301,
-          "durationFormatted": "05:01",
-          "views": 490,
-          "likes": 16,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "twGvs2OnEz4",
           "title": "Bhilai में दुकानदारों की मनमानी... अवैध अतिक्रमण से बढ़ रही परेशान || KP News || Nagmani",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -330,19 +315,118 @@
           "thumbnail": "https://i.ytimg.com/vi/twGvs2OnEz4/hqdefault.jpg",
           "durationSeconds": 946,
           "durationFormatted": "15:46",
-          "views": 408,
+          "views": 874,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 5,
+          "videoId": "l68Ruur48hU",
+          "title": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं पहुंचे | Khush",
+          "description": "Bhilai Breaking | टाउनशिप में हजारों लीटर पानी बर्बाद | एक कर्मचारी तक नहीं ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T05:04:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/l68Ruur48hU/hqdefault.jpg",
+          "durationSeconds": 301,
+          "durationFormatted": "05:01",
+          "views": 492,
+          "likes": 16,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-03T13:01:07Z"
+      "latestUpdateAt": "2026-05-03T15:18:26Z"
+    },
+    {
+      "clusterId": "bhaskar-दकषण",
+      "topic": "Bhaskar दक्षिण",
+      "videoCount": 5,
+      "trendScore": 36.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "MznxwPyoAss",
+          "title": "दक्षिण छत्तीसगढ़ में मौसम विभाग का रेड अलर्ट | CG Bhaskar",
+          "description": "दक्षिण छत्तीसगढ़ में मौसम विभाग का रेड अलर्ट | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T07:25:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/MznxwPyoAss/hqdefault.jpg",
+          "durationSeconds": 45,
+          "durationFormatted": "00:45",
+          "views": 1673,
+          "likes": 36,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "2wl_f5mu8-0",
+          "title": "डेविड तिर्की अरेस्ट, नशे की हालत में दो लोगों को था रौंदा! | CG Bhaskar",
+          "description": "डेविड तिर्की अरेस्ट, नशे की हालत में दो लोगों को था रौंदा! Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T11:11:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/2wl_f5mu8-0/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 1120,
+          "likes": 45,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "jZJ4z-_X3EY",
+          "title": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar",
+          "description": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T02:30:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/jZJ4z-_X3EY/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 843,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "v6EYJrvdx6M",
+          "title": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी | CG Bhaskar",
+          "description": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T09:01:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/v6EYJrvdx6M/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 782,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "NExqG-RyBpY",
+          "title": "रजिस्ट्रेशन कराओ, सिर्फ 1 रुपये में चश्मा पाओ! | CG Bhaskar",
+          "description": "रजिस्ट्रेशन कराओ, सिर्फ 1 रुपये में चश्मा पाओ! Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-03T15:59:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/NExqG-RyBpY/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 465,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-05-03T15:59:57Z"
     },
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 9,
-      "trendScore": 37.3,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bvwI-Iw6MW8/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 407,
+          "views": 421,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FKsXex8kYTI/hqdefault.jpg",
           "durationSeconds": 325,
           "durationFormatted": "05:25",
-          "views": 268,
+          "views": 277,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Yjf82AWSUsg/hqdefault.jpg",
           "durationSeconds": 466,
           "durationFormatted": "07:46",
-          "views": 93,
+          "views": 101,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Events"
@@ -399,103 +483,34 @@
           "thumbnail": "https://i.ytimg.com/vi/FaPa31vDL-k/hqdefault.jpg",
           "durationSeconds": 126,
           "durationFormatted": "02:06",
-          "views": 25,
+          "views": 34,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "qNtO5DLSNKk",
-          "title": "राजनांदगांव: मस्ती की पाठशाला कार्यक्रम से पहले टिकट घर में चोरी, पुलिस जांच शुरू",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "videoId": "eCGKXB78IOw",
+          "title": "राजनांदगांव में आधुनिक क्रिकेट अकादमी को मंजूरी, 5 एकड़ भूमि आवंटित",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-03T08:05:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/qNtO5DLSNKk/hqdefault.jpg",
-          "durationSeconds": 221,
-          "durationFormatted": "03:41",
-          "views": 13,
-          "likes": 1,
+          "publishedAt": "2026-05-03T08:06:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/eCGKXB78IOw/hqdefault.jpg",
+          "durationSeconds": 125,
+          "durationFormatted": "02:05",
+          "views": 15,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-05-03T13:26:01Z"
     },
     {
-      "clusterId": "bhaskar-दकषण",
-      "topic": "Bhaskar दक्षिण",
-      "videoCount": 4,
-      "trendScore": 34.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "MznxwPyoAss",
-          "title": "दक्षिण छत्तीसगढ़ में मौसम विभाग का रेड अलर्ट | CG Bhaskar",
-          "description": "दक्षिण छत्तीसगढ़ में मौसम विभाग का रेड अलर्ट | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T07:25:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/MznxwPyoAss/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 1586,
-          "likes": 35,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "2wl_f5mu8-0",
-          "title": "डेविड तिर्की अरेस्ट, नशे की हालत में दो लोगों को था रौंदा! | CG Bhaskar",
-          "description": "डेविड तिर्की अरेस्ट, नशे की हालत में दो लोगों को था रौंदा! Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T11:11:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/2wl_f5mu8-0/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 815,
-          "likes": 33,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "jZJ4z-_X3EY",
-          "title": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar",
-          "description": "कैंप की बेटी ने बोर्ड में किया टॉप | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T02:30:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/jZJ4z-_X3EY/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 803,
-          "likes": 23,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "v6EYJrvdx6M",
-          "title": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी | CG Bhaskar",
-          "description": "लाइफ इंश्योरेंस के नाम पर 63 लाख की ठगी Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-03T09:01:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/v6EYJrvdx6M/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 727,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-05-03T11:11:14Z"
-    },
-    {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 6,
-      "trendScore": 30.2,
+      "trendScore": 30.4,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Gc0iArLlspQ/hqdefault.jpg",
           "durationSeconds": 1731,
           "durationFormatted": "28:51",
-          "views": 236,
+          "views": 258,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -537,28 +552,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2j6qsvqep1M/hqdefault.jpg",
           "durationSeconds": 770,
           "durationFormatted": "12:50",
-          "views": 214,
+          "views": 246,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "7iGOjnbvHGs",
-          "title": "🔴LIVE : Din Dahade : जशपुर: खड़ी इलेक्ट्रिक स्कूटी में लगी आग  | Latest News | Zee MPCG",
-          "description": "LIVE : Din Dahade : जशपुर: खड़ी इलेक्ट्रिक स्कूटी में लगी आग | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-03T06:24:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/7iGOjnbvHGs/hqdefault.jpg",
-          "durationSeconds": 1441,
-          "durationFormatted": "24:01",
-          "views": 147,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
           "videoId": "IY-QcUY4PKw",
           "title": "🔴LIVE : अब दूध भी करेगा जेब ढीली ! | MP News  | Latest News  | Zee MPCG",
           "description": "LIVE : अब दूध भी करेगा जेब ढीली ! | MP News | Latest News | Zee MPCG बेजुबानों के हक में ...",
@@ -571,9 +571,24 @@
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "5Sp1zuO0NL0",
+          "title": "🔴LIVE : Mudda To Hai : विकास बनाम विस्थापन...रुंझ डैम पर बढ़ता बवाल |  Zee MPCG  | Latest News",
+          "description": "LIVE : Mudda To Hai : विकास बनाम विस्थापन...रुंझ डैम पर बढ़ता बवाल | Zee MPCG | Latest ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-03T12:52:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/5Sp1zuO0NL0/hqdefault.jpg",
+          "durationSeconds": 1335,
+          "durationFormatted": "22:15",
+          "views": 96,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-03T12:52:52Z"
+      "latestUpdateAt": "2026-05-03T15:19:29Z"
     }
   ]
 }
