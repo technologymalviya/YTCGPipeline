@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-05-04T17:57:22.299534Z",
+  "generatedAt": "2026-05-04T20:00:02.180825Z",
   "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "election-bjp",
       "topic": "Election BJP",
-      "videoCount": 39,
-      "trendScore": 66.4,
+      "videoCount": 44,
+      "trendScore": 65.0,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "50EXWCGJ1B4",
+          "title": "West Bengal Election Result 2026 LIVE: हो गया खेला..भवानीपुर सीट से Mamata Banerjee पीछे। TMC Vs BJP",
+          "description": "IBC24, West Bengal Election Result 2026 LIVE: हो गया खेला..भवानीपुर सीट से Mamata Banerjee पीछे ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-04T19:07:57Z",
+          "thumbnail": "https://i.ytimg.com/vi/50EXWCGJ1B4/hqdefault.jpg",
+          "durationSeconds": 42900,
+          "durationFormatted": "11:55:00",
+          "views": 218313,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
           "videoId": "3CD7oI85qBo",
           "title": "ये कैसा जश्न?; जाम में फंसी रही एंबुलेंस, BJP कार्यकर्ता फोड़ रहे थे पटाखे ...",
           "description": "ये कैसा जश्न?; जाम में फंसी रही एंबुलेंस, BJP कार्यकर्ता फोड़ रहे थे ...",
@@ -18,28 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/3CD7oI85qBo/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 46293,
-          "likes": 2270,
+          "views": 56471,
+          "likes": 2345,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
-          "index": 2,
-          "videoId": "_0g953Zk7ow",
-          "title": "West Bengal Election Result 2026 LIVE: बंगाल में बवाल! Mamta Banerjee का BJP पर सनसनीखेज आरोप",
-          "description": "IBC24, West Bengal Election Result 2026 LIVE: बंगाल में बवाल! Mamta Banerjee का BJP पर सनसनीखेज ...",
+          "index": 3,
+          "videoId": "OihKV4MFzF4",
+          "title": "🔴 Tamilnadu Election Result 2026 LIVE: TVK ने बदला खेल..Thalapathy Vijay के आगे सब फेल। देखिए..",
+          "description": "IBC24, Tamilnadu Election Result 2026 LIVE: TVK ने बदला खेल..Thalapathy Vijay के आगे सब फेल।",
           "channelTitle": "IBC24",
-          "publishedAt": "2026-05-04T15:51:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/_0g953Zk7ow/hqdefault.jpg",
-          "durationSeconds": 55,
-          "durationFormatted": "00:55",
-          "views": 39587,
+          "publishedAt": "2026-05-04T19:02:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/OihKV4MFzF4/hqdefault.jpg",
+          "durationSeconds": 42896,
+          "durationFormatted": "11:54:56",
+          "views": 52567,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "XfPBChoftKs",
           "title": "Bengal Election 2026 : बंगाल में बीजेपी की बल्ले-बल्ले | दिल्ली बीजेपी मुख्यालय में जश्न",
           "description": "Bengal Election 2026 : बंगाल में बीजेपी की बल्ले-बल्ले | दिल्ली बीजेपी ...",
@@ -48,49 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/XfPBChoftKs/hqdefault.jpg",
           "durationSeconds": 528,
           "durationFormatted": "08:48",
-          "views": 4645,
-          "likes": 68,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "-0kpG205Gko",
-          "title": "Bhabanipur Election Result 2026:Suvendu Adhikari करेंगे Mamata Banerjee का सूपड़ा साफ?बनाई जोरदार बढ़त",
-          "description": "IBC24, Bhabanipur Election Result 2026:Suvendu Adhikari करेंगे Mamata Banerjee का सूपड़ा साफ?बनाई ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-04T15:53:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/-0kpG205Gko/hqdefault.jpg",
-          "durationSeconds": 50,
-          "durationFormatted": "00:50",
-          "views": 4416,
-          "likes": 0,
+          "views": 14069,
+          "likes": 106,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "ZoAvNbpj6Ys",
-          "title": "बंगाल-असम में BJP की बड़ी जीत | असम में कांग्रेस को बड़ा झटका | Election Results 2026",
-          "description": "बंगाल-असम में BJP की बड़ी जीत | असम में कांग्रेस को बड़ा झटका | Election Results ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T15:46:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZoAvNbpj6Ys/hqdefault.jpg",
-          "durationSeconds": 32,
-          "durationFormatted": "00:32",
-          "views": 3022,
-          "likes": 18,
+          "videoId": "za9nJkcfXzA",
+          "title": "Kerala Election Result 2026: केरल में बड़ा उलटफेर! 10 साल बाद LDF की हार, Congress की सत्ता वापसी",
+          "description": "IBC24, Kerala Election Result 2026: केरल में बड़ा उलटफेर! 10 साल बाद LDF की हार, Congress की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-04T18:23:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/za9nJkcfXzA/hqdefault.jpg",
+          "durationSeconds": 146,
+          "durationFormatted": "02:26",
+          "views": 5908,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-04T17:46:11Z"
+      "latestUpdateAt": "2026-05-04T19:07:57Z"
     },
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 60,
-      "trendScore": 62.9,
+      "videoCount": 57,
+      "trendScore": 61.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Sr18QK2nKBk/hqdefault.jpg",
           "durationSeconds": 1706,
           "durationFormatted": "28:26",
-          "views": 13433,
+          "views": 13856,
           "likes": 206,
           "videoType": "VOD",
           "genre": "Politics"
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/p6Fiw-4W8Ag/hqdefault.jpg",
           "durationSeconds": 846,
           "durationFormatted": "14:06",
-          "views": 12968,
+          "views": 13223,
           "likes": 404,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "7UgycG-yaic",
-          "title": "4  May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "4 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-05-03T23:24:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/7UgycG-yaic/hqdefault.jpg",
-          "durationSeconds": 579,
-          "durationFormatted": "09:39",
-          "views": 5629,
-          "likes": 94,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "h0QsDJ_7_CA",
           "title": "​मां की मौत के बाद अब पैसों के लिए संघर्ष । दिल दहला देने वाला वीडियो वायरल । @tirandaj",
           "description": "RaigarhNews #ChhattisgarhNews #ViralVideo #BreakingNews #HindiNews #GroundReport #RealityOfSystem #EmotionalStory ...",
@@ -147,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/h0QsDJ_7_CA/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 4290,
-          "likes": 159,
+          "views": 6913,
+          "likes": 206,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "7UgycG-yaic",
+          "title": "4  May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "4 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-05-03T23:24:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/7UgycG-yaic/hqdefault.jpg",
+          "durationSeconds": 579,
+          "durationFormatted": "09:39",
+          "views": 5755,
+          "likes": 94,
+          "videoType": "VOD",
+          "genre": "Politics"
         },
         {
           "index": 5,
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/223ahYBc0UQ/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 3524,
+          "views": 3611,
           "likes": 38,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-04T17:54:36Z"
+      "latestUpdateAt": "2026-05-04T18:24:46Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 14,
-      "trendScore": 49.5,
+      "videoCount": 15,
+      "trendScore": 49.3,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EpCt5dRIhUM/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 29956,
-          "likes": 729,
+          "views": 38973,
+          "likes": 763,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,13 +201,28 @@
           "thumbnail": "https://i.ytimg.com/vi/KMTv2E0F0C4/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 835,
-          "likes": 27,
+          "views": 925,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 3,
+          "videoId": "EccCucTn0Sk",
+          "title": "05 मई 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
+          "description": "04 मई 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
+          "channelTitle": "Chhattisgarh ka awaaz 07 ",
+          "publishedAt": "2026-05-03T23:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/EccCucTn0Sk/hqdefault.jpg",
+          "durationSeconds": 922,
+          "durationFormatted": "15:22",
+          "views": 643,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "g_X84m58X0E",
           "title": "रायपुर में टॉपर्स को मिलेगा आईपीएल मैच देखने का मौका",
           "description": "रायपुर से छात्रों के लिए एक शानदार पहल सामने आई है, जहां 10वीं और 12वीं ...",
@@ -216,25 +231,10 @@
           "thumbnail": "https://i.ytimg.com/vi/g_X84m58X0E/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 573,
-          "likes": 3,
+          "views": 597,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "EccCucTn0Sk",
-          "title": "04 मई 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "04 मई 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-05-03T23:30:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/EccCucTn0Sk/hqdefault.jpg",
-          "durationSeconds": 922,
-          "durationFormatted": "15:22",
-          "views": 538,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
         },
         {
           "index": 5,
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/WmV2awXrWuo/hqdefault.jpg",
           "durationSeconds": 613,
           "durationFormatted": "10:13",
-          "views": 400,
+          "views": 522,
           "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-04T17:14:23Z"
+      "latestUpdateAt": "2026-05-04T18:55:51Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 11,
-      "trendScore": 44.7,
+      "trendScore": 43.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rKYKj6mCQw0/hqdefault.jpg",
           "durationSeconds": 829,
           "durationFormatted": "13:49",
-          "views": 22979,
-          "likes": 440,
+          "views": 25602,
+          "likes": 451,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4QAiYeiWZCw/hqdefault.jpg",
           "durationSeconds": 1575,
           "durationFormatted": "26:15",
-          "views": 4608,
-          "likes": 159,
+          "views": 6740,
+          "likes": 173,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TVHkrBDCLfo/hqdefault.jpg",
           "durationSeconds": 784,
           "durationFormatted": "13:04",
-          "views": 1704,
+          "views": 2102,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fOjXNCl8auo/hqdefault.jpg",
           "durationSeconds": 994,
           "durationFormatted": "16:34",
-          "views": 943,
+          "views": 1080,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5rQTO1WAmGY/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 739,
+          "views": 786,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -341,8 +341,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 8,
-      "trendScore": 39.5,
+      "videoCount": 6,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jtsk4V2iw70/hqdefault.jpg",
           "durationSeconds": 1031,
           "durationFormatted": "17:11",
-          "views": 405,
-          "likes": 25,
+          "views": 477,
+          "likes": 27,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -399,34 +399,34 @@
           "thumbnail": "https://i.ytimg.com/vi/QWFVoiKfHqI/hqdefault.jpg",
           "durationSeconds": 1151,
           "durationFormatted": "19:11",
-          "views": 172,
-          "likes": 13,
+          "views": 225,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "BALh2bZ33AI",
-          "title": "Election Result 2026: झालमुड़ी के साथ चुनावी चौपाल, 5 राज्यों के नतीजों पर सीधा सवाल |Bengal |Kerala",
-          "description": "IBC24, Election Result 2026: झालमुड़ी के साथ चुनावी चौपाल, 5 राज्यों के नतीजों पर ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-04T16:34:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/BALh2bZ33AI/hqdefault.jpg",
-          "durationSeconds": 1005,
-          "durationFormatted": "16:45",
-          "views": 156,
+          "videoId": "RucX0X8KZBs",
+          "title": "Assembly Election Result: बंगाल में चुनाव नतीजों के बाद उड़ा गुलाल, देखें क्या बोले दिग्गज नेता?",
+          "description": "Assembly Election Result 2026: बंगाल में चुनाव नतीजों के बाद उड़ा गुलाल, देखें ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-05-04T10:51:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/RucX0X8KZBs/hqdefault.jpg",
+          "durationSeconds": 1394,
+          "durationFormatted": "23:14",
+          "views": 45,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-04T17:00:12Z"
+      "latestUpdateAt": "2026-05-04T15:15:28Z"
     },
     {
       "clusterId": "bhaskar-बन",
       "topic": "Bhaskar बना",
       "videoCount": 5,
-      "trendScore": 36.7,
+      "trendScore": 35.5,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XcnSxjLOgZA/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 1894,
-          "likes": 47,
+          "views": 2188,
+          "likes": 51,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,8 +453,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Es8WplDMi3g/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 439,
-          "likes": 15,
+          "views": 573,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TBY-7kxtysY/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 336,
+          "views": 436,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -483,8 +483,8 @@
           "thumbnail": "https://i.ytimg.com/vi/zdnreol73-E/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 290,
-          "likes": 19,
+          "views": 348,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -498,8 +498,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uHyC4XwnukI/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 123,
-          "likes": 2,
+          "views": 129,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -510,7 +510,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 5,
-      "trendScore": 34.2,
+      "trendScore": 32.8,
       "topVideos": [
         {
           "index": 1,
@@ -522,8 +522,8 @@
           "thumbnail": "https://i.ytimg.com/vi/e0Ga8a2pFxY/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 183,
-          "likes": 7,
+          "views": 216,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rDjfZgc8tIo/hqdefault.jpg",
           "durationSeconds": 428,
           "durationFormatted": "07:08",
-          "views": 75,
+          "views": 93,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5nObe3M1KHA/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 14,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -594,7 +594,7 @@
       "clusterId": "chhattisgarh-may",
       "topic": "Chhattisgarh May",
       "videoCount": 8,
-      "trendScore": 33.6,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SasuVenjsIs/hqdefault.jpg",
           "durationSeconds": 37,
           "durationFormatted": "00:37",
-          "views": 450,
+          "views": 607,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -621,7 +621,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f_nrBhHAL0g/hqdefault.jpg",
           "durationSeconds": 949,
           "durationFormatted": "15:49",
-          "views": 324,
+          "views": 413,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -636,28 +636,13 @@
           "thumbnail": "https://i.ytimg.com/vi/ITWv8-ZzxnI/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 211,
+          "views": 249,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "TNuCYuMJEpw",
-          "title": "जांजगीर-चांपा में हड़कंप! विधायक Byas Kashyap का धरना, कलेक्ट्रेट की Entry बंद",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T12:53:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/TNuCYuMJEpw/hqdefault.jpg",
-          "durationSeconds": 150,
-          "durationFormatted": "02:30",
-          "views": 17,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "UbG8-MgRdrQ",
           "title": "माहेश्वरी भवन का भूमिपूजन , समाज के सपने को मिली नई शुरुआत",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews #bhilainews .",
@@ -666,10 +651,25 @@
           "thumbnail": "https://i.ytimg.com/vi/UbG8-MgRdrQ/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 17,
+          "views": 20,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "TNuCYuMJEpw",
+          "title": "जांजगीर-चांपा में हड़कंप! विधायक Byas Kashyap का धरना, कलेक्ट्रेट की Entry बंद",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-04T12:53:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/TNuCYuMJEpw/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 20,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-05-04T15:50:08Z"
@@ -678,7 +678,7 @@
       "clusterId": "location-jagdalpur",
       "topic": "Jagdalpur",
       "videoCount": 5,
-      "trendScore": 33.4,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -690,8 +690,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6OFL7SxONvI/hqdefault.jpg",
           "durationSeconds": 212,
           "durationFormatted": "03:32",
-          "views": 78,
-          "likes": 3,
+          "views": 117,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -705,7 +705,7 @@
           "thumbnail": "https://i.ytimg.com/vi/V32izz8Mur4/hqdefault.jpg",
           "durationSeconds": 805,
           "durationFormatted": "13:25",
-          "views": 40,
+          "views": 66,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -720,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H98lPReP9Lk/hqdefault.jpg",
           "durationSeconds": 755,
           "durationFormatted": "12:35",
-          "views": 22,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -735,7 +735,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4CF4IAWk5XY/hqdefault.jpg",
           "durationSeconds": 241,
           "durationFormatted": "04:01",
-          "views": 16,
+          "views": 18,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -762,7 +762,7 @@
       "clusterId": "xpress-पमगढ",
       "topic": "Xpress पामगढ़",
       "videoCount": 4,
-      "trendScore": 30.9,
+      "trendScore": 29.7,
       "topVideos": [
         {
           "index": 1,
@@ -774,7 +774,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P_QN7Adwr-4/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 1178,
+          "views": 1483,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -789,7 +789,7 @@
           "thumbnail": "https://i.ytimg.com/vi/v3Y16Q-78ck/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 463,
+          "views": 602,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
@@ -804,7 +804,7 @@
           "thumbnail": "https://i.ytimg.com/vi/i65_hu6d0mc/hqdefault.jpg",
           "durationSeconds": 47,
           "durationFormatted": "00:47",
-          "views": 117,
+          "views": 132,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -819,8 +819,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uU3RHIUMfpA/hqdefault.jpg",
           "durationSeconds": 254,
           "durationFormatted": "04:14",
-          "views": 25,
-          "likes": 5,
+          "views": 44,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
