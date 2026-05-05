@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-05T03:54:45.713146Z",
+  "generatedAt": "2026-05-05T06:32:37.176628Z",
   "clusterCount": 12,
   "clusters": [
     {
       "clusterId": "bjp-election",
       "topic": "BJP Election",
-      "videoCount": 36,
-      "trendScore": 61.7,
+      "videoCount": 32,
+      "trendScore": 63.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/50EXWCGJ1B4/hqdefault.jpg",
           "durationSeconds": 42900,
           "durationFormatted": "11:55:00",
-          "views": 219469,
+          "views": 219668,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3CD7oI85qBo/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 66503,
-          "likes": 2601,
+          "views": 73517,
+          "likes": 2807,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OihKV4MFzF4/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 54270,
+          "views": 54749,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/KC0sggatXSg/hqdefault.jpg",
           "durationSeconds": 305,
           "durationFormatted": "05:05",
-          "views": 9827,
+          "views": 10838,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/wCQXkoVhR08/hqdefault.jpg",
           "durationSeconds": 220,
           "durationFormatted": "03:40",
-          "views": 8436,
+          "views": 9220,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-05T03:11:51Z"
+      "latestUpdateAt": "2026-05-05T06:30:24Z"
     },
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 52,
-      "trendScore": 59.7,
+      "videoCount": 49,
+      "trendScore": 60.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6DPKOzL49QE/hqdefault.jpg",
           "durationSeconds": 432,
           "durationFormatted": "07:12",
-          "views": 34857,
-          "likes": 237,
+          "views": 69050,
+          "likes": 299,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/h0QsDJ_7_CA/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 12014,
-          "likes": 301,
+          "views": 14453,
+          "likes": 364,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "223ahYBc0UQ",
-          "title": "पश्चिम बंगाल विधानसभा चुनाव 2026: भाजपा दफ्तर में &#39;झालमुड़ी&#39; के साथ जश्न",
-          "description": "पश्चिम बंगाल विधानसभा चुनाव 2026 की मतगणना में भारतीय जनता पार्टी (BJP) ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-05-04T08:37:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/223ahYBc0UQ/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 3684,
-          "likes": 39,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "vftbElw_mcw",
           "title": "5 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
           "description": "5 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
@@ -147,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/vftbElw_mcw/hqdefault.jpg",
           "durationSeconds": 1583,
           "durationFormatted": "26:23",
-          "views": 3529,
-          "likes": 113,
+          "views": 5372,
+          "likes": 143,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "pI9bvpd1QNs",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-05T00:49:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/pI9bvpd1QNs/hqdefault.jpg",
+          "durationSeconds": 871,
+          "durationFormatted": "14:31",
+          "views": 5196,
+          "likes": 288,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/YjmdpFrbFWM/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 3187,
+          "views": 3199,
           "likes": 32,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-05T03:10:05Z"
+      "latestUpdateAt": "2026-05-05T06:28:04Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 16,
-      "trendScore": 48.4,
+      "videoCount": 22,
+      "trendScore": 56.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/EpCt5dRIhUM/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 48344,
-          "likes": 942,
+          "views": 57939,
+          "likes": 1025,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/KMTv2E0F0C4/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 1164,
-          "likes": 44,
+          "views": 1391,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WmV2awXrWuo/hqdefault.jpg",
           "durationSeconds": 613,
           "durationFormatted": "10:13",
-          "views": 647,
-          "likes": 38,
+          "views": 726,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/g_X84m58X0E/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 607,
+          "views": 613,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/CFWY8yPb6Tk/hqdefault.jpg",
           "durationSeconds": 431,
           "durationFormatted": "07:11",
-          "views": 374,
-          "likes": 10,
+          "views": 446,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-05-05T03:25:36Z"
+      "latestUpdateAt": "2026-05-05T06:19:25Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
-      "videoCount": 10,
-      "trendScore": 39.7,
+      "videoCount": 11,
+      "trendScore": 43.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rKYKj6mCQw0/hqdefault.jpg",
           "durationSeconds": 829,
           "durationFormatted": "13:49",
-          "views": 28220,
-          "likes": 493,
+          "views": 30121,
+          "likes": 515,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,13 +285,28 @@
           "thumbnail": "https://i.ytimg.com/vi/4QAiYeiWZCw/hqdefault.jpg",
           "durationSeconds": 1575,
           "durationFormatted": "26:15",
-          "views": 8616,
-          "likes": 201,
+          "views": 9439,
+          "likes": 215,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
+          "videoId": "sbhqh3-9QUY",
+          "title": "&quot;भिलाई Times&quot; की खबर के बाद ईशा को मिली मदद, इंद्रजीत सिंह &quot;छोटू&quot; ने बढ़ाया हाथ",
+          "description": "\"भिलाई Times\" की खबर के बाद ईशा को मिली मदद, इंद्रजीत सिंह \"छोटू\" ने ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-05T05:30:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/sbhqh3-9QUY/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 4349,
+          "likes": 307,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "TVHkrBDCLfo",
           "title": "Bhilai में Mayor के ख़िलाफ़ इतना गुस्सा... BJP का हल्ला बोल.. दरवाज़े तोड़े || KP News || Nagmani",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -300,13 +315,13 @@
           "thumbnail": "https://i.ytimg.com/vi/TVHkrBDCLfo/hqdefault.jpg",
           "durationSeconds": 784,
           "durationFormatted": "13:04",
-          "views": 2552,
+          "views": 2759,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "fOjXNCl8auo",
           "title": "Bhilai में National Highway 53 किया ब्लॉक! Bhilai Nagar Nigam में खुलेआम भ्रष्टाचार ? Bharti Media ",
           "description": "Bhilai में National Highway 53 किया ब्लॉक! Bhilai Nagar Nigam में खुलेआम भ्रष्टाचार ?",
@@ -315,34 +330,88 @@
           "thumbnail": "https://i.ytimg.com/vi/fOjXNCl8auo/hqdefault.jpg",
           "durationSeconds": 994,
           "durationFormatted": "16:34",
-          "views": 1177,
+          "views": 1307,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-05-05T05:30:25Z"
+    },
+    {
+      "clusterId": "chhattisgarh-samachar",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 4,
+      "trendScore": 34.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "CvnrSEA1aas",
+          "title": "छत्तीसगढ़ आज की मुख्य समाचार | 5 मई 2026 छत्तीसगढ़ की फटाफट ताजा खबरें | Chhattisgarh Samachar",
+          "description": "छत्तीसगढ़ आज की मुख्य समाचार | 5 मई 2026 छत्तीसगढ़ की फटाफट ताजा खबरें ...",
+          "channelTitle": "छत्तीसगढ़ महतारी समाचार ",
+          "publishedAt": "2026-05-04T23:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/CvnrSEA1aas/hqdefault.jpg",
+          "durationSeconds": 1544,
+          "durationFormatted": "25:44",
+          "views": 4426,
+          "likes": 114,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "5rQTO1WAmGY",
-          "title": "छिपकर चल रहा था हुक्का कारोबार, पुलिस ने मारा छापा—6 लोग गिरफ्तार...#bhilainews   #shortsfeed",
-          "description": "छिपकर चल रहा था हुक्का कारोबार, पुलिस ने मारा छापा—6 लोग गिरफ्तार.",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-05-04T13:09:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/5rQTO1WAmGY/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 822,
+          "index": 2,
+          "videoId": "C7geH-pr9vQ",
+          "title": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें",
+          "description": "Bansal News LIVE| MPCG Live Update| मध्य प्रदेश-छत्तीसगढ़ की खबरें ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-05-05T01:28:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/C7geH-pr9vQ/hqdefault_live.jpg",
+          "durationSeconds": 0,
+          "durationFormatted": "LIVE",
+          "views": 395,
+          "likes": 2,
+          "videoType": "LIVE",
+          "genre": "Live"
+        },
+        {
+          "index": 3,
+          "videoId": "qHQtSHrCtUY",
+          "title": "🔴LIVE, MPCG News 04 May 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-05-04T18:07:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/qHQtSHrCtUY/hqdefault.jpg",
+          "durationSeconds": 2599,
+          "durationFormatted": "43:19",
+          "views": 118,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "fiOJ8wHeZlw",
+          "title": "🔴LIVE, MPCG News 04 May 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
+          "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-05-04T23:38:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/fiOJ8wHeZlw/hqdefault.jpg",
+          "durationSeconds": 1378,
+          "durationFormatted": "22:58",
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-04T14:00:06Z"
+      "latestUpdateAt": "2026-05-05T01:28:27Z"
     },
     {
       "clusterId": "zeempcg-elections",
       "topic": "ZeeMPCG Elections",
-      "videoCount": 7,
-      "trendScore": 36.6,
+      "videoCount": 6,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/yb9SPQcN5sA/hqdefault.jpg",
           "durationSeconds": 1656,
           "durationFormatted": "27:36",
-          "views": 2280,
+          "views": 2299,
           "likes": 9,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,28 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/SgxVQrNLPmg/hqdefault.jpg",
           "durationSeconds": 2900,
           "durationFormatted": "48:20",
-          "views": 2037,
+          "views": 2045,
           "likes": 12,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "DQDQKhuBt8Y",
-          "title": "🔴LIVE : पांच राज्यों में मतगणना जारी | Latest News | ZeeMPCG",
-          "description": "LIVE : पांच राज्यों में मतगणना जारी | Latest News | ZeeMPCG #election2026 #assemblyelectionresults ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-04T17:29:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/DQDQKhuBt8Y/hqdefault.jpg",
-          "durationSeconds": 1683,
-          "durationFormatted": "28:03",
-          "views": 2003,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "sK9DR9C0qRk",
           "title": "🔴LIVE Elections 2026 : किसके सिर पर ताज ?   | Latest News | ZeeMPCG",
           "description": "LIVE Elections 2026 : किसके सिर पर ताज ? | Latest News | ZeeMPCG #election2026 #assemblyelectionresults ...",
@@ -414,19 +468,202 @@
           "thumbnail": "https://i.ytimg.com/vi/sK9DR9C0qRk/hqdefault.jpg",
           "durationSeconds": 1480,
           "durationFormatted": "24:40",
-          "views": 1465,
+          "views": 1473,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "wIc3s_LiMRE",
+          "title": "🔴LIVE Elections 2026 : चल गया मोदी मैजिक ?  | Latest News | ZeeMPCG",
+          "description": "LIVE Elections 2026 : चल गया मोदी मैजिक ? | Latest News | ZeeMPCG #election2026 #assemblyelectionresults ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-04T21:50:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/wIc3s_LiMRE/hqdefault.jpg",
+          "durationSeconds": 1437,
+          "durationFormatted": "23:57",
+          "views": 1364,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-05-05T00:30:09Z"
     },
     {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 6,
+      "trendScore": 34.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "4E2BapW_g_E",
+          "title": "बंगाल चुनाव के बीच “हंबा-हंबा, रंबा-रंबा” वायरल 🔥",
+          "description": "West Bengal में चुनावी नतीजों के बीच “हंबा-हंबा, रंबा-रंबा” अचानक सोशल ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-05-04T09:30:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/4E2BapW_g_E/hqdefault.jpg",
+          "durationSeconds": 27,
+          "durationFormatted": "00:27",
+          "views": 1124,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "jtsk4V2iw70",
+          "title": "Vidhansabha Election 2026: पश्चिम बंगाल में BJP ने जीता चुनाव, रायपुर में भाजपा ने मना डाली दिवाली",
+          "description": "Vidhansabha Election 2026: पश्चिम बंगाल में BJP ने जीता चुनाव, रायपुर में भाजपा ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-05-04T12:32:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/jtsk4V2iw70/hqdefault.jpg",
+          "durationSeconds": 1031,
+          "durationFormatted": "17:11",
+          "views": 567,
+          "likes": 28,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "Dgm-v0lHctE",
+          "title": "🔴LIVE : The BreakFast Show : भगवा गुलाल से जश्न-ए-बंगाल ! | Latest News | ZeeMPCG",
+          "description": "LIVE : The BreakFast Show : भगवा गुलाल से जश्न-ए-बंगाल ! | Latest News | ZeeMPCG नतीजों के ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-05T01:22:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/Dgm-v0lHctE/hqdefault.jpg",
+          "durationSeconds": 3507,
+          "durationFormatted": "58:27",
+          "views": 461,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "QWFVoiKfHqI",
+          "title": "आज का मुद्दा: बंगाल में बीजेपी &#39;धुरंधर&#39;, संगठन बना &#39;गेमचेंजर&#39;, तृणमूल का किला ढहा..",
+          "description": "पांच राज्यों के चुनाव नतीजों ने देश की सियासत की दिशा बदल दी है..सबसे ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-05-04T15:15:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/QWFVoiKfHqI/hqdefault.jpg",
+          "durationSeconds": 1151,
+          "durationFormatted": "19:11",
+          "views": 324,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "qNYkH_fgb_M",
+          "title": "&#39;नतीजे&#39; खास, रच गया इतिहास !",
+          "description": "'नतीजे' खास, रच गया इतिहास ! #bengalelectionresults #assamelectionresult #tamilnaduelectionresult ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-05-05T05:43:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/qNYkH_fgb_M/hqdefault.jpg",
+          "durationSeconds": 176,
+          "durationFormatted": "02:56",
+          "views": 203,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-05-05T05:43:20Z"
+    },
+    {
+      "clusterId": "may-chhattisgarh",
+      "topic": "May Chhattisgarh",
+      "videoCount": 9,
+      "trendScore": 32.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "f_nrBhHAL0g",
+          "title": "4 May 2026 | Madhya Pradesh News | News from Madhya Pradesh",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-04T13:37:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/f_nrBhHAL0g/hqdefault.jpg",
+          "durationSeconds": 949,
+          "durationFormatted": "15:49",
+          "views": 1159,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "SasuVenjsIs",
+          "title": "Chhattisgarh शिक्षा विभाग में 350+ तबादले | मैनुअल साइन पर उठे सवाल | CG News",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-04T15:50:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/SasuVenjsIs/hqdefault.jpg",
+          "durationSeconds": 37,
+          "durationFormatted": "00:37",
+          "views": 680,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "ITWv8-ZzxnI",
+          "title": "सुशासन तिहार में पहुंचे मुख्यमत्री विष्णु देव साय का भव्य स्वागत",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-04T15:32:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/ITWv8-ZzxnI/hqdefault.jpg",
+          "durationSeconds": 113,
+          "durationFormatted": "01:53",
+          "views": 324,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "9mrCRC2oQ8E",
+          "title": "CG Liquor Scam Case: छत्तीसगढ़ ACB-EOW की बड़ी कार्रवाई | CA समेत 7 कंपनी के डायरेक्टर गिरफ्तार",
+          "description": "IBC24, CG Liquor Scam Case: छत्तीसगढ़ ACB-EOW की बड़ी कार्रवाई | CA समेत 7 कंपनी के ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-05T04:40:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/9mrCRC2oQ8E/hqdefault.jpg",
+          "durationSeconds": 257,
+          "durationFormatted": "04:17",
+          "views": 91,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "TNuCYuMJEpw",
+          "title": "जांजगीर-चांपा में हड़कंप! विधायक Byas Kashyap का धरना, कलेक्ट्रेट की Entry बंद",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-04T12:53:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/TNuCYuMJEpw/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 23,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-05-05T06:04:22Z"
+    },
+    {
       "clusterId": "bhaskar-बन",
       "topic": "Bhaskar बना",
       "videoCount": 5,
-      "trendScore": 32.6,
+      "trendScore": 32.1,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +675,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XcnSxjLOgZA/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 2567,
-          "likes": 61,
+          "views": 2756,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,8 +690,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Es8WplDMi3g/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 737,
-          "likes": 24,
+          "views": 855,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,8 +705,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TBY-7kxtysY/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 595,
-          "likes": 13,
+          "views": 706,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -483,7 +720,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zdnreol73-E/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 432,
+          "views": 468,
           "likes": 23,
           "videoType": "VOD",
           "genre": "General"
@@ -498,7 +735,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uHyC4XwnukI/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 175,
+          "views": 199,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -510,7 +747,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 3,
-      "trendScore": 32.3,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
@@ -522,8 +759,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pQClTAnZ2mg/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 1184,
-          "likes": 39,
+          "views": 2319,
+          "likes": 70,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -561,94 +798,10 @@
       "latestUpdateAt": "2026-05-05T02:30:42Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 5,
-      "trendScore": 31.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "4E2BapW_g_E",
-          "title": "बंगाल चुनाव के बीच “हंबा-हंबा, रंबा-रंबा” वायरल 🔥",
-          "description": "West Bengal में चुनावी नतीजों के बीच “हंबा-हंबा, रंबा-रंबा” अचानक सोशल ...",
-          "channelTitle": "The Rural Press",
-          "publishedAt": "2026-05-04T09:30:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/4E2BapW_g_E/hqdefault.jpg",
-          "durationSeconds": 27,
-          "durationFormatted": "00:27",
-          "views": 1107,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "jtsk4V2iw70",
-          "title": "Vidhansabha Election 2026: पश्चिम बंगाल में BJP ने जीता चुनाव, रायपुर में भाजपा ने मना डाली दिवाली",
-          "description": "Vidhansabha Election 2026: पश्चिम बंगाल में BJP ने जीता चुनाव, रायपुर में भाजपा ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-05-04T12:32:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/jtsk4V2iw70/hqdefault.jpg",
-          "durationSeconds": 1031,
-          "durationFormatted": "17:11",
-          "views": 507,
-          "likes": 27,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "QWFVoiKfHqI",
-          "title": "आज का मुद्दा: बंगाल में बीजेपी &#39;धुरंधर&#39;, संगठन बना &#39;गेमचेंजर&#39;, तृणमूल का किला ढहा..",
-          "description": "पांच राज्यों के चुनाव नतीजों ने देश की सियासत की दिशा बदल दी है..सबसे ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-05-04T15:15:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/QWFVoiKfHqI/hqdefault.jpg",
-          "durationSeconds": 1151,
-          "durationFormatted": "19:11",
-          "views": 281,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "RucX0X8KZBs",
-          "title": "Assembly Election Result: बंगाल में चुनाव नतीजों के बाद उड़ा गुलाल, देखें क्या बोले दिग्गज नेता?",
-          "description": "Assembly Election Result 2026: बंगाल में चुनाव नतीजों के बाद उड़ा गुलाल, देखें ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-04T10:51:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/RucX0X8KZBs/hqdefault.jpg",
-          "durationSeconds": 1394,
-          "durationFormatted": "23:14",
-          "views": 217,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "Y7vGbPRX0KM",
-          "title": "पांच राज्यों के नतीजों पर Kartikeya Sharma बोले—जनता ने दिया स्पष्ट संदेश | India News MP",
-          "description": "पांच राज्यों के चुनावी नतीजों पर प्रतिक्रिया देते हुए Kartikeya Sharma ने ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-04T15:07:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/Y7vGbPRX0KM/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 101,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-04T15:15:28Z"
-    },
-    {
       "clusterId": "location-jagdalpur",
       "topic": "Jagdalpur",
       "videoCount": 5,
-      "trendScore": 27.9,
+      "trendScore": 26.9,
       "topVideos": [
         {
           "index": 1,
@@ -660,7 +813,7 @@
           "thumbnail": "https://i.ytimg.com/vi/6OFL7SxONvI/hqdefault.jpg",
           "durationSeconds": 212,
           "durationFormatted": "03:32",
-          "views": 121,
+          "views": 133,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -675,7 +828,7 @@
           "thumbnail": "https://i.ytimg.com/vi/V32izz8Mur4/hqdefault.jpg",
           "durationSeconds": 805,
           "durationFormatted": "13:25",
-          "views": 77,
+          "views": 79,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -690,7 +843,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H98lPReP9Lk/hqdefault.jpg",
           "durationSeconds": 755,
           "durationFormatted": "12:35",
-          "views": 44,
+          "views": 41,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -705,7 +858,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4CF4IAWk5XY/hqdefault.jpg",
           "durationSeconds": 241,
           "durationFormatted": "04:01",
-          "views": 32,
+          "views": 33,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
@@ -729,94 +882,10 @@
       "latestUpdateAt": "2026-05-04T14:06:12Z"
     },
     {
-      "clusterId": "may-chhattisgarh",
-      "topic": "May Chhattisgarh",
-      "videoCount": 6,
-      "trendScore": 27.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "f_nrBhHAL0g",
-          "title": "4 May 2026 | Madhya Pradesh News | News from Madhya Pradesh",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T13:37:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/f_nrBhHAL0g/hqdefault.jpg",
-          "durationSeconds": 949,
-          "durationFormatted": "15:49",
-          "views": 775,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "SasuVenjsIs",
-          "title": "Chhattisgarh शिक्षा विभाग में 350+ तबादले | मैनुअल साइन पर उठे सवाल | CG News",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T15:50:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/SasuVenjsIs/hqdefault.jpg",
-          "durationSeconds": 37,
-          "durationFormatted": "00:37",
-          "views": 631,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "ITWv8-ZzxnI",
-          "title": "सुशासन तिहार में पहुंचे मुख्यमत्री विष्णु देव साय का भव्य स्वागत",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T15:32:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/ITWv8-ZzxnI/hqdefault.jpg",
-          "durationSeconds": 113,
-          "durationFormatted": "01:53",
-          "views": 312,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "TNuCYuMJEpw",
-          "title": "जांजगीर-चांपा में हड़कंप! विधायक Byas Kashyap का धरना, कलेक्ट्रेट की Entry बंद",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T12:53:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/TNuCYuMJEpw/hqdefault.jpg",
-          "durationSeconds": 150,
-          "durationFormatted": "02:30",
-          "views": 22,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "UbG8-MgRdrQ",
-          "title": "माहेश्वरी भवन का भूमिपूजन , समाज के सपने को मिली नई शुरुआत",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T11:38:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/UbG8-MgRdrQ/hqdefault.jpg",
-          "durationSeconds": 139,
-          "durationFormatted": "02:19",
-          "views": 21,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-05-04T15:50:08Z"
-    },
-    {
       "clusterId": "location-durg",
       "topic": "Durg",
-      "videoCount": 5,
-      "trendScore": 27.4,
+      "videoCount": 4,
+      "trendScore": 25.6,
       "topVideos": [
         {
           "index": 1,
@@ -828,7 +897,7 @@
           "thumbnail": "https://i.ytimg.com/vi/e0Ga8a2pFxY/hqdefault.jpg",
           "durationSeconds": 121,
           "durationFormatted": "02:01",
-          "views": 362,
+          "views": 353,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -843,7 +912,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rDjfZgc8tIo/hqdefault.jpg",
           "durationSeconds": 428,
           "durationFormatted": "07:08",
-          "views": 215,
+          "views": 246,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
@@ -877,93 +946,9 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "xdKO9Czvykk",
-          "title": "दुर्ग में जिला स्तरीय निषाद समाज क्रिकेट प्रतियोगिता आयोजित, 13 टीमों ने लिया हिस्सा",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-04T11:32:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/xdKO9Czvykk/hqdefault.jpg",
-          "durationSeconds": 54,
-          "durationFormatted": "00:54",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-05-04T14:30:42Z"
-    },
-    {
-      "clusterId": "xpress-पमगढ",
-      "topic": "Xpress पामगढ़",
-      "videoCount": 4,
-      "trendScore": 27.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "P_QN7Adwr-4",
-          "title": "पामगढ़ - रिहायशी इलाके में भालू पहुंचने से ग्रामीणों में दहशतChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-04T04:19:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/P_QN7Adwr-4/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 1603,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "v3Y16Q-78ck",
-          "title": "भाटापारा - आखिर अपने आप नीचे कैसे धंस रहा है गांव का जमीनChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-04T05:53:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/v3Y16Q-78ck/hqdefault.jpg",
-          "durationSeconds": 115,
-          "durationFormatted": "01:55",
-          "views": 651,
-          "likes": 9,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "i65_hu6d0mc",
-          "title": "बलौदाबाजार - नवपदस्थ पुलिस अधीक्षक ने पुलिसिंग मजबूत करने का दिया निर्देशChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-04T04:49:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/i65_hu6d0mc/hqdefault.jpg",
-          "durationSeconds": 47,
-          "durationFormatted": "00:47",
-          "views": 136,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "uU3RHIUMfpA",
-          "title": "शिवरीनारायण -  12 वी बोर्ड परीक्षा में शिवेंद्र ने हासिल किया 97.5% अंकChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-04T14:38:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/uU3RHIUMfpA/hqdefault.jpg",
-          "durationSeconds": 254,
-          "durationFormatted": "04:14",
-          "views": 53,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-04T14:38:29Z"
     }
   ]
 }
