@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-06T04:11:15.918453Z",
-  "clusterCount": 10,
+  "generatedAt": "2026-05-06T07:13:43.530725Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 64,
-      "trendScore": 59.6,
+      "videoCount": 63,
+      "trendScore": 60.1,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4WTkOfHl3zs/hqdefault.jpg",
           "durationSeconds": 1781,
           "durationFormatted": "29:41",
-          "views": 12901,
-          "likes": 206,
+          "views": 24187,
+          "likes": 268,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/gmB7fE0s8vs/hqdefault.jpg",
           "durationSeconds": 57,
           "durationFormatted": "00:57",
-          "views": 10718,
+          "views": 10908,
           "likes": 228,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z0ZVmC69fKE/hqdefault.jpg",
           "durationSeconds": 42896,
           "durationFormatted": "11:54:56",
-          "views": 10221,
+          "views": 10642,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,34 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/m070tBf3twU/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 8007,
-          "likes": 186,
+          "views": 9171,
+          "likes": 214,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "7BlkiPKSBm8",
-          "title": "THE PS SHOW: कुरुद में अवैध रेत खदानों का मालिक एक । Ft. Neelam Chandrakar Podcast",
-          "description": "Kurud विधानसभा, जिसे छत्तीसगढ़ की सबसे हाई प्रोफाइल सीटों में गिना ...",
-          "channelTitle": "The PS Show",
-          "publishedAt": "2026-05-05T06:37:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/7BlkiPKSBm8/hqdefault.jpg",
-          "durationSeconds": 5157,
-          "durationFormatted": "01:25:57",
-          "views": 5449,
-          "likes": 121,
+          "videoId": "-yzGvjUz4x0",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-05T23:14:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/-yzGvjUz4x0/hqdefault.jpg",
+          "durationSeconds": 887,
+          "durationFormatted": "14:47",
+          "views": 9065,
+          "likes": 415,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-06T04:09:45Z"
+      "latestUpdateAt": "2026-05-06T07:11:02Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 14,
-      "trendScore": 45.1,
+      "videoCount": 15,
+      "trendScore": 47.5,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/fZzts4RQMy0/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 47581,
-          "likes": 772,
+          "views": 59247,
+          "likes": 871,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/GGb4em1Gdq8/hqdefault.jpg",
           "durationSeconds": 203,
           "durationFormatted": "03:23",
-          "views": 2748,
+          "views": 6344,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "fnxArVHysEE",
-          "title": "OMG: रायपुर में मजदूरों को मिलता है कम पैसा, परिवार चलना मुश्किल | सुनकर रो पड़ेंगे आप | Thiha CG ",
-          "description": "OMG: रायपुर में मजदूरों को मिलता है कम पैसा, परिवार चलना मुश्किल ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-05-05T06:15:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/fnxArVHysEE/hqdefault.jpg",
-          "durationSeconds": 1517,
-          "durationFormatted": "25:17",
-          "views": 2432,
-          "likes": 72,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "3_opFK0qY34",
           "title": "Raipur में 365 दिन मुफ़्त में खाना, ये स्टोरी आपका दिल छू लेगी || KP NEWS || Janvi Sahu",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -147,13 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/3_opFK0qY34/hqdefault.jpg",
           "durationSeconds": 982,
           "durationFormatted": "16:22",
-          "views": 1710,
+          "views": 2063,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "AwHKy3Iit6s",
           "title": "05 मई, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "",
@@ -162,37 +147,37 @@
           "thumbnail": "https://i.ytimg.com/vi/AwHKy3Iit6s/hqdefault.jpg",
           "durationSeconds": 629,
           "durationFormatted": "10:29",
-          "views": 516,
+          "views": 632,
           "likes": 35,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "Yu35g7gJ2oA",
+          "title": "Raipur के Mirror Chhattisgarh चैनल में चल रहा था खेला ? Mirror Chhattisgarh Exposed || Raipur News ",
+          "description": "Raipur के Mirror Chhattisgarh चैनल में चल रहा था खेला ? Mirror Chhattisgarh Exposed || Raipur News ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-05-06T05:26:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/Yu35g7gJ2oA/hqdefault.jpg",
+          "durationSeconds": 1552,
+          "durationFormatted": "25:52",
+          "views": 259,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-05T23:30:15Z"
+      "latestUpdateAt": "2026-05-06T07:05:25Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 8,
-      "trendScore": 42.6,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "sbhqh3-9QUY",
-          "title": "&quot;भिलाई Times&quot; की खबर के बाद ईशा को मिली मदद, इंद्रजीत सिंह &quot;छोटू&quot; ने बढ़ाया हाथ",
-          "description": "\"भिलाई Times\" की खबर के बाद ईशा को मिली मदद, इंद्रजीत सिंह \"छोटू\" ने ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-05T05:30:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/sbhqh3-9QUY/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 78203,
-          "likes": 2675,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "uPdIIyED6BY",
           "title": "Bhilai के Posh Area Nehru Nagar में High Profile चोरी | 50 लाख के जेवर पार? | Police Fail? | Labhesh",
           "description": "Bhilai के Posh Area Nehru Nagar में High Profile चोरी | 50 लाख के जेवर पार? | Police Fail? | Labhesh ...",
@@ -201,8 +186,23 @@
           "thumbnail": "https://i.ytimg.com/vi/uPdIIyED6BY/hqdefault.jpg",
           "durationSeconds": 501,
           "durationFormatted": "08:21",
-          "views": 9473,
-          "likes": 190,
+          "views": 10591,
+          "likes": 196,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "mZBAozkDuKE",
+          "title": "भिलाई के नेहरू नगर में 50 लाख की बड़ी चोरी, शादी में गया परिवार बना निशाना  | CG Bhaskar",
+          "description": "भिलाई के नेहरू नगर में 50 लाख की बड़ी चोरी, शादी में गया परिवार बना ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-06T04:01:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/mZBAozkDuKE/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 638,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JE9wc68w3mY/hqdefault.jpg",
           "durationSeconds": 649,
           "durationFormatted": "10:49",
-          "views": 283,
+          "views": 308,
           "likes": 19,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/90vzjsTGV_0/hqdefault.jpg",
           "durationSeconds": 353,
           "durationFormatted": "05:53",
-          "views": 149,
-          "likes": 7,
+          "views": 244,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,19 +246,19 @@
           "thumbnail": "https://i.ytimg.com/vi/tm1V6-XoshY/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 13,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-05T15:30:10Z"
+      "latestUpdateAt": "2026-05-06T04:01:54Z"
     },
     {
       "clusterId": "bhaskar-board",
       "topic": "Bhaskar Board",
-      "videoCount": 8,
-      "trendScore": 37.8,
+      "videoCount": 6,
+      "trendScore": 36.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/xh6czE-tGZw/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 3541,
-          "likes": 65,
+          "views": 4285,
+          "likes": 99,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3GUg_eXlQZ4/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 1606,
-          "likes": 123,
+          "views": 1806,
+          "likes": 161,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Be0ArqsVRUQ/hqdefault.jpg",
           "durationSeconds": 119,
           "durationFormatted": "01:59",
-          "views": 1577,
-          "likes": 29,
+          "views": 1730,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SrUgMr6p4Gs/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 1420,
-          "likes": 57,
+          "views": 1628,
+          "likes": 67,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -330,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tKMwePOj1PI/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 1405,
-          "likes": 38,
+          "views": 1488,
+          "likes": 41,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -342,7 +342,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 11,
-      "trendScore": 33.4,
+      "trendScore": 32.2,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7aEDxJtJVJs/hqdefault.jpg",
           "durationSeconds": 503,
           "durationFormatted": "08:23",
-          "views": 474,
+          "views": 499,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NzMRtVJq3jM/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 125,
+          "views": 130,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_TzqGFh5jjg/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 17,
+          "views": 27,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_i75198g-N0/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 13,
+          "views": 19,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -414,7 +414,7 @@
           "thumbnail": "https://i.ytimg.com/vi/7t0wDAqFDY4/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 8,
+          "views": 14,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -423,94 +423,10 @@
       "latestUpdateAt": "2026-05-05T18:41:00Z"
     },
     {
-      "clusterId": "location-rajnandgaon",
-      "topic": "Rajnandgaon",
-      "videoCount": 5,
-      "trendScore": 32.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "M6o92L_yhfc",
-          "title": "Double murdR: देवर-भाभी का अफेयर पति ने उड़ाया पत्नी का गRdn ! Rajnandgaon | Lalbag | Somani | Thiha",
-          "description": "Double murdR: देवर-भाभी का अफेयर पति ने उड़ाया पत्नी का गRdn ! Rajnandgaon | Lalbag ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-05-05T13:16:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/M6o92L_yhfc/hqdefault.jpg",
-          "durationSeconds": 855,
-          "durationFormatted": "14:15",
-          "views": 1164,
-          "likes": 41,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "-d5MK3JoSdQ",
-          "title": "राजनांदगांव में तेंदूपत्ता तोड़ने गए ग्रामीणों पर जंगली सूअर का Hमला, 10 घायल 2 गंभीर | CG Bhaskar",
-          "description": "राजनांदगांव में तेंदूपत्ता तोड़ने गए ग्रामीणों पर जंगली सूअर का ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-05T09:17:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/-d5MK3JoSdQ/hqdefault.jpg",
-          "durationSeconds": 423,
-          "durationFormatted": "07:03",
-          "views": 727,
-          "likes": 22,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "uj5e_qgp17U",
-          "title": "राजनांदगांव : पद्मश्री फूल बासन बाई को किडनैप करने की कोशिश, हाथ-मुंह बांधकर ले जा रहे थे 4 लोग...",
-          "description": "छत्तीसगढ़ के राजनांदगांव में पद्मश्री अवॉर्ड पाने वाली सामाजिक ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-05-05T11:51:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/uj5e_qgp17U/hqdefault.jpg",
-          "durationSeconds": 143,
-          "durationFormatted": "02:23",
-          "views": 171,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "5HXQV146Dow",
-          "title": "राजनांदगांव: पद्मश्री फुलबासन बाई यादव के अपहरण की कोशिश नाकाम, पुलिस ने चार आरोपियों को पकड़ा",
-          "description": "राजनांदगांव में पद्मश्री फुलबासन बाई यादव के अपहरण की साजिश को ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-05-05T13:05:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/5HXQV146Dow/hqdefault.jpg",
-          "durationSeconds": 187,
-          "durationFormatted": "03:07",
-          "views": 105,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "471ImWfsghE",
-          "title": "Rajnandgaon News: दिनदहाड़े पद्मश्री फूलबासन बाई को अगवा करने की कोशिश, लोगों ने ऐसे बचाई जान",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-05T13:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/471ImWfsghE/hqdefault.jpg",
-          "durationSeconds": 379,
-          "durationFormatted": "06:19",
-          "views": 34,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-05T13:16:52Z"
-    },
-    {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 7,
-      "trendScore": 31.8,
+      "videoCount": 5,
+      "trendScore": 30.0,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tmkcYus45Qs/hqdefault.jpg",
           "durationSeconds": 1671,
           "durationFormatted": "27:51",
-          "views": 199,
+          "views": 203,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -537,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uzbKKxOMeWs/hqdefault.jpg",
           "durationSeconds": 1471,
           "durationFormatted": "24:31",
-          "views": 181,
+          "views": 190,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -552,28 +468,13 @@
           "thumbnail": "https://i.ytimg.com/vi/kVnaJMsBcJ4/hqdefault.jpg",
           "durationSeconds": 2200,
           "durationFormatted": "36:40",
-          "views": 179,
+          "views": 186,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "dI0oBMf2LrM",
-          "title": "🔴LIVE : Prime Time @9 : बीजेपी आई...अब बाबरी का क्या होगा? | Latest News | Zee MPCG",
-          "description": "LIVE : Prime Time @9 : बीजेपी आई...अब बाबरी का क्या होगा? | Latest News | Zee MPCG बंगाल की ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-05T15:22:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/dI0oBMf2LrM/hqdefault.jpg",
-          "durationSeconds": 1406,
-          "durationFormatted": "23:26",
-          "views": 146,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "cwl7l6BxM2Y",
           "title": "🔴LIVE :  Aapki Aawaz : जनादेश पर सवाल, सच या शोर?  | Zee MPCG | Latest News",
           "description": "LIVE : Aapki Aawaz : जनादेश पर सवाल, सच या शोर? | Zee MPCG | Latest News #Live #AapkiAwaaz #mpnews ...",
@@ -582,19 +483,88 @@
           "thumbnail": "https://i.ytimg.com/vi/cwl7l6BxM2Y/hqdefault.jpg",
           "durationSeconds": 1591,
           "durationFormatted": "26:31",
-          "views": 129,
+          "views": 140,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "_xxAJK2gq-M",
+          "title": "🔴LIVE: Khabar Dinbhar Ki : महिला की मौत पर हंगामा | Zee MPCG",
+          "description": "LIVE: Khabar Dinbhar Ki : महिला की मौत पर हंगामा | Zee MPCG #Live #KhabarDinbharKi #MadhyaPradesh ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-06T06:52:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/_xxAJK2gq-M/hqdefault.jpg",
+          "durationSeconds": 1641,
+          "durationFormatted": "27:21",
+          "views": 115,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
-      "latestUpdateAt": "2026-05-06T02:56:44Z"
+      "latestUpdateAt": "2026-05-06T06:52:54Z"
+    },
+    {
+      "clusterId": "location-rajnandgaon",
+      "topic": "Rajnandgaon",
+      "videoCount": 3,
+      "trendScore": 29.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "M6o92L_yhfc",
+          "title": "Double murdR: देवर-भाभी का अफेयर पति ने उड़ाया पत्नी का गRdn ! Rajnandgaon | Lalbag | Somani | Thiha",
+          "description": "Double murdR: देवर-भाभी का अफेयर पति ने उड़ाया पत्नी का गRdn ! Rajnandgaon | Lalbag ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-05-05T13:16:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/M6o92L_yhfc/hqdefault.jpg",
+          "durationSeconds": 855,
+          "durationFormatted": "14:15",
+          "views": 1400,
+          "likes": 47,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "-d5MK3JoSdQ",
+          "title": "राजनांदगांव में तेंदूपत्ता तोड़ने गए ग्रामीणों पर जंगली सूअर का Hमला, 10 घायल 2 गंभीर | CG Bhaskar",
+          "description": "राजनांदगांव में तेंदूपत्ता तोड़ने गए ग्रामीणों पर जंगली सूअर का ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-05T09:17:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/-d5MK3JoSdQ/hqdefault.jpg",
+          "durationSeconds": 423,
+          "durationFormatted": "07:03",
+          "views": 854,
+          "likes": 22,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "5HXQV146Dow",
+          "title": "राजनांदगांव: पद्मश्री फुलबासन बाई यादव के अपहरण की कोशिश नाकाम, पुलिस ने चार आरोपियों को पकड़ा",
+          "description": "राजनांदगांव में पद्मश्री फुलबासन बाई यादव के अपहरण की साजिश को ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-05-05T13:05:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/5HXQV146Dow/hqdefault.jpg",
+          "durationSeconds": 187,
+          "durationFormatted": "03:07",
+          "views": 162,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-05-05T13:16:52Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 27.6,
+      "trendScore": 26.0,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +576,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zucN2ViOPbg/hqdefault.jpg",
           "durationSeconds": 427,
           "durationFormatted": "07:07",
-          "views": 857,
+          "views": 1078,
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
@@ -621,82 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/hNR3gRXAbeY/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 88,
+          "views": 107,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Jobs"
         }
       ],
       "latestUpdateAt": "2026-05-05T16:43:43Z"
-    },
-    {
-      "clusterId": "बगल-ममत",
-      "topic": "बंगाल ममता",
-      "videoCount": 4,
-      "trendScore": 27.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "gt5M2KWZS4s",
-          "title": "केरलम ने दिया कांग्रेस को सहारा",
-          "description": "केरलम ने दिया कांग्रेस को सहारा #bengalelectionresults #assamelectionresult ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-05T10:51:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/gt5M2KWZS4s/hqdefault.jpg",
-          "durationSeconds": 96,
-          "durationFormatted": "01:36",
-          "views": 6389,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "VIaT3gwz0ks",
-          "title": "बंगाल में ममता की हार के पीछे बड़ी वजह !",
-          "description": "बंगाल में ममता की हार के पीछे बड़ी वजह ! #bengalelectionresults #assamelectionresult ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-05T08:26:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/VIaT3gwz0ks/hqdefault.jpg",
-          "durationSeconds": 163,
-          "durationFormatted": "02:43",
-          "views": 2208,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "fZFuogxMgiM",
-          "title": "क्या बंगाल में ममता को अति आत्मविश्वास ले डूबा ?",
-          "description": "क्या बंगाल में ममता को अति आत्मविश्वास ले डूबा ? #bengalelectionresults ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-05T08:29:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/fZFuogxMgiM/hqdefault.jpg",
-          "durationSeconds": 120,
-          "durationFormatted": "02:00",
-          "views": 1630,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "XhJKlOIima4",
-          "title": "बंगाल की जीत कितना हैरत में डाल रही है ?",
-          "description": "बंगाल की जीत कितना हैरत में डाल रही है ? #bengalelectionresults #assamelectionresult ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-05T10:15:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/XhJKlOIima4/hqdefault.jpg",
-          "durationSeconds": 148,
-          "durationFormatted": "02:28",
-          "views": 897,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-05T10:51:50Z"
     },
     {
       "clusterId": "festival",
@@ -714,7 +615,7 @@
           "thumbnail": "https://i.ytimg.com/vi/f_oaOrsbSAg/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 2,
+          "views": 3,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
