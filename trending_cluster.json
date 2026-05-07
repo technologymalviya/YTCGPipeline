@@ -1,60 +1,15 @@
 {
-  "generatedAt": "2026-05-07T18:01:37.899489Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-05-07T19:58:44.451445Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 63,
-      "trendScore": 65.2,
+      "videoCount": 68,
+      "trendScore": 64.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "-stjozF_Hbk",
-          "title": "7 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "7 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-05-06T23:35:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/-stjozF_Hbk/hqdefault.jpg",
-          "durationSeconds": 1818,
-          "durationFormatted": "30:18",
-          "views": 26765,
-          "likes": 308,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "z-xuEXIdjhY",
-          "title": "CG Comedy King Pappu Chandrakar Untold Story| पहली बार ऐसा Interview| Yashwant Sahu |",
-          "description": "CG Comedy King Pappu Chandrakar Untold Story| पहली बार ऐसा Interview| Yashwant Sahu | Report/Story: Yashwant ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-07T02:01:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/z-xuEXIdjhY/hqdefault.jpg",
-          "durationSeconds": 1463,
-          "durationFormatted": "24:23",
-          "views": 23896,
-          "likes": 669,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "muWZm7mp428",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-05-06T23:49:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/muWZm7mp428/hqdefault.jpg",
-          "durationSeconds": 858,
-          "durationFormatted": "14:18",
-          "views": 17296,
-          "likes": 522,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "BIw0cpAj1io",
           "title": "Mamta Banerjee Resignation: ममता ने नहीं दिया इस्तीफ़ा तो क्या होगा, जानिए क्या कहता है कानून ?",
           "description": "\"पश्चिम बंगाल से एक ऐसी खबर आ रही है जिसने देश के बड़े-बड़े संविधान ...",
@@ -63,34 +18,79 @@
           "thumbnail": "https://i.ytimg.com/vi/BIw0cpAj1io/hqdefault.jpg",
           "durationSeconds": 221,
           "durationFormatted": "03:41",
-          "views": 8108,
-          "likes": 202,
+          "views": 33398,
+          "likes": 251,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "-stjozF_Hbk",
+          "title": "7 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "7 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-05-06T23:35:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/-stjozF_Hbk/hqdefault.jpg",
+          "durationSeconds": 1818,
+          "durationFormatted": "30:18",
+          "views": 28234,
+          "likes": 310,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "z-xuEXIdjhY",
+          "title": "CG Comedy King Pappu Chandrakar Untold Story| पहली बार ऐसा Interview| Yashwant Sahu |",
+          "description": "CG Comedy King Pappu Chandrakar Untold Story| पहली बार ऐसा Interview| Yashwant Sahu | Report/Story: Yashwant ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-07T02:01:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/z-xuEXIdjhY/hqdefault.jpg",
+          "durationSeconds": 1463,
+          "durationFormatted": "24:23",
+          "views": 26497,
+          "likes": 681,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "muWZm7mp428",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-06T23:49:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/muWZm7mp428/hqdefault.jpg",
+          "durationSeconds": 858,
+          "durationFormatted": "14:18",
+          "views": 17738,
+          "likes": 524,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "4DOFXoEQ1iw",
-          "title": "Chhattisgarh, एक घंटे की बारिश में बिखरा smart city bilaspur",
-          "description": "cgbox #chhattisgarh #latestnews #chhattisgarhsamachar #news #viralnews #hindinews #viralvideo #bilaspur #bilaspurnews ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-05-07T07:02:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/4DOFXoEQ1iw/hqdefault.jpg",
-          "durationSeconds": 40,
-          "durationFormatted": "00:40",
-          "views": 6826,
-          "likes": 223,
+          "videoId": "Kth92y4JmIs",
+          "title": "OMG: रायपुर के एक घर में मिली बM बनाने की सामग्री | Raipur | Rawabhatha | Ground Report | Thiha CG",
+          "description": "OMG: रायपुर के एक घर में मिली बM बनाने की सामग्री | Raipur | Rawabhatha | Ground Report ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-05-07T13:34:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/Kth92y4JmIs/hqdefault.jpg",
+          "durationSeconds": 1089,
+          "durationFormatted": "18:09",
+          "views": 9253,
+          "likes": 278,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-07T17:58:51Z"
+      "latestUpdateAt": "2026-05-07T19:42:31Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 23,
-      "trendScore": 59.1,
+      "videoCount": 21,
+      "trendScore": 55.6,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BtLravmdGBo/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 30094,
-          "likes": 701,
+          "views": 38685,
+          "likes": 715,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/BNt0-Df75wY/hqdefault.jpg",
           "durationSeconds": 574,
           "durationFormatted": "09:34",
-          "views": 9037,
-          "likes": 236,
+          "views": 12946,
+          "likes": 256,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/n7uNWPzZ41s/hqdefault.jpg",
           "durationSeconds": 124,
           "durationFormatted": "02:04",
-          "views": 3104,
+          "views": 3530,
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
@@ -147,7 +147,7 @@
           "thumbnail": "https://i.ytimg.com/vi/eF7R135J2l0/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 1928,
+          "views": 2456,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QdlXzHYDnzI/hqdefault.jpg",
           "durationSeconds": 424,
           "durationFormatted": "07:04",
-          "views": 1214,
-          "likes": 12,
+          "views": 1809,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -173,8 +173,8 @@
     {
       "clusterId": "location-durg",
       "topic": "Durg",
-      "videoCount": 14,
-      "trendScore": 46.0,
+      "videoCount": 13,
+      "trendScore": 44.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TVdm1KJDZPQ/hqdefault.jpg",
           "durationSeconds": 893,
           "durationFormatted": "14:53",
-          "views": 5030,
-          "likes": 122,
+          "views": 5367,
+          "likes": 125,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UhqlFc8HNAw/hqdefault.jpg",
           "durationSeconds": 692,
           "durationFormatted": "11:32",
-          "views": 1122,
+          "views": 1591,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -216,28 +216,13 @@
           "thumbnail": "https://i.ytimg.com/vi/da365MwyHik/hqdefault.jpg",
           "durationSeconds": 1123,
           "durationFormatted": "18:43",
-          "views": 360,
-          "likes": 24,
+          "views": 850,
+          "likes": 47,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "9PaMShGBLg0",
-          "title": "यातायात के नियमों का पालन करने दुर्ग सांसद विजय बघेल ने दिलाई सपथ",
-          "description": "",
-          "channelTitle": "SABKA SANDESH NEWS",
-          "publishedAt": "2026-05-06T19:36:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/9PaMShGBLg0/hqdefault.jpg",
-          "durationSeconds": 118,
-          "durationFormatted": "01:58",
-          "views": 130,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 5,
           "videoId": "I8R8wsUjHIo",
           "title": "दुर्ग के बोराई गांव में ईंट भट्ठे के मालिक की मनमानी से परेशान लोग, कलेक्टोरेट में की शिकायत",
           "description": "दुर्ग के बोराई गांव में ईंट भट्ठे के मालिक की मनमानी से परेशान लोग, ...",
@@ -250,6 +235,21 @@
           "likes": 6,
           "videoType": "VOD",
           "genre": "Civic"
+        },
+        {
+          "index": 5,
+          "videoId": "6vwuZKM8YDk",
+          "title": "दुर्ग: हथियार दिखाकर दुकानदार से लूट, 4 बदमाश गिरफ्तार | Durg Crime News",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-07T13:02:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/6vwuZKM8YDk/hqdefault.jpg",
+          "durationSeconds": 58,
+          "durationFormatted": "00:58",
+          "views": 22,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-05-07T17:01:02Z"
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-rjn",
       "topic": "Bhaskar RJN",
       "videoCount": 10,
-      "trendScore": 44.0,
+      "trendScore": 42.5,
       "topVideos": [
         {
           "index": 1,
@@ -270,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/g3BM0oT2HnY/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 1457,
+          "views": 1613,
           "likes": 42,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "Htznzp9kxQc",
-          "title": "यात्रियों को गर्मी से राहत, RJN स्टेशन पर मिस्ट कूलिंग शुरू | CG Bhaskar",
-          "description": "यात्रियों को गर्मी से राहत, RJN स्टेशन पर मिस्ट कूलिंग शुरू | CG Bhaskar Join ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-07T09:32:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/Htznzp9kxQc/hqdefault.jpg",
-          "durationSeconds": 56,
-          "durationFormatted": "00:56",
-          "views": 1072,
-          "likes": 26,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
           "videoId": "qvs-TMEmbWY",
           "title": "&#39;मेरे नाम का कुत्ता पाल लेना&#39; विधायक का बयान | CG Bhaskar",
           "description": "'मेरे नाम का कुत्ता पाल लेना' विधायक का बयान | CG Bhaskar Join our Whatsapp Group ...",
@@ -300,28 +285,28 @@
           "thumbnail": "https://i.ytimg.com/vi/qvs-TMEmbWY/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 999,
-          "likes": 45,
+          "views": 1356,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
-          "videoId": "5Ypuk8Nx83M",
-          "title": "7 मई को बंद रहेगा मुंबई एयरपोर्ट! | CG Bhaskar",
-          "description": "7 मई को बंद रहेगामुंबई एयरपोर्ट! | CG Bhaskar Join our Whatsapp Group ...",
+          "index": 3,
+          "videoId": "Htznzp9kxQc",
+          "title": "यात्रियों को गर्मी से राहत, RJN स्टेशन पर मिस्ट कूलिंग शुरू | CG Bhaskar",
+          "description": "यात्रियों को गर्मी से राहत, RJN स्टेशन पर मिस्ट कूलिंग शुरू | CG Bhaskar Join ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-07T05:24:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/5Ypuk8Nx83M/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 858,
-          "likes": 19,
+          "publishedAt": "2026-05-07T09:32:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/Htznzp9kxQc/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 1193,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "q5s7GV2b-8s",
           "title": "पं. प्रदीप मिश्रा की कथा करने के नाम पर 21 लाख की ठगी! | CG Bhaskar",
           "description": "पं. प्रदीप मिश्रा की कथा करने के नाम पर 21 लाख की ठगी! | CG Bhaskar Join our Whatsapp ...",
@@ -330,10 +315,25 @@
           "thumbnail": "https://i.ytimg.com/vi/q5s7GV2b-8s/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 728,
-          "likes": 33,
+          "views": 1078,
+          "likes": 36,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "5Ypuk8Nx83M",
+          "title": "7 मई को बंद रहेगा मुंबई एयरपोर्ट! | CG Bhaskar",
+          "description": "7 मई को बंद रहेगामुंबई एयरपोर्ट! | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-07T05:24:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/5Ypuk8Nx83M/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 929,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-05-07T15:01:28Z"
@@ -341,8 +341,8 @@
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 7,
-      "trendScore": 35.3,
+      "videoCount": 8,
+      "trendScore": 35.8,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/r5IOUR-2ZVU/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 896,
-          "likes": 21,
+          "views": 970,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/enGY_CsleDY/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 28,
+          "views": 32,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -378,19 +378,34 @@
           "index": 3,
           "videoId": "cfaStw9NRnk",
           "title": "Fulbasan Yadav ने बयाँ किया अपहरण का खौफनाक मंजर #chhattisgarh #cgnews #rajnandgaon",
-          "description": "Fulbasan Yadav ने बयाँ किया अपहरण का खौफनाक मंजर #chhattisgarh #cgnews #rajnandgaon Related ...",
+          "description": "Fulbasan Yadav ने बयाँ किया अपहरण का खौफनाक मंजर #chhattisgarh #cgnews #rajnandgaon ...",
           "channelTitle": "Vayam Chhattisgarh",
           "publishedAt": "2026-05-07T08:27:19Z",
           "thumbnail": "https://i.ytimg.com/vi/cfaStw9NRnk/hqdefault.jpg",
           "durationSeconds": 49,
           "durationFormatted": "00:49",
-          "views": 21,
-          "likes": 0,
+          "views": 30,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
+          "videoId": "wDP1wRDSAoY",
+          "title": "Rajnandgaon में Pt Pradeep Mishra की कथा के नाम पर ठगी। भोलेनाथ सेवा समिति ने SP से की शिकायत",
+          "description": "IBC24, Rajnandgaon में Pt Pradeep Mishra की कथा के नाम पर ठगी। भोलेनाथ सेवा समिति ने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-07T18:09:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/wDP1wRDSAoY/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
           "videoId": "Ic9850ELnSw",
           "title": "राजनांदगांव: अपहरण घटना के बाद फूलबासन बाई यादव से मिले विधायक",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -399,34 +414,19 @@
           "thumbnail": "https://i.ytimg.com/vi/Ic9850ELnSw/hqdefault.jpg",
           "durationSeconds": 533,
           "durationFormatted": "08:53",
-          "views": 13,
+          "views": 14,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "1D7PS9W8POQ",
-          "title": "राजनांदगांव: जलभराव से परेशान कॉलोनीवासियों को राहत, महापौर ने दिए निर्देश",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-07T12:46:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/1D7PS9W8POQ/hqdefault.jpg",
-          "durationSeconds": 45,
-          "durationFormatted": "00:45",
-          "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-07T14:54:53Z"
+      "latestUpdateAt": "2026-05-07T18:09:41Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 5,
-      "trendScore": 34.5,
+      "trendScore": 33.4,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/wla4fXVhRBQ/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 890,
+          "views": 929,
           "likes": 38,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FSjnpO4VobM/hqdefault.jpg",
           "durationSeconds": 496,
           "durationFormatted": "08:16",
-          "views": 452,
+          "views": 460,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/-BtLwbOzpAs/hqdefault.jpg",
           "durationSeconds": 1214,
           "durationFormatted": "20:14",
-          "views": 157,
+          "views": 169,
           "likes": 13,
           "videoType": "VOD",
           "genre": "Crime"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/3klWattsVzM/hqdefault.jpg",
           "durationSeconds": 356,
           "durationFormatted": "05:56",
-          "views": 106,
+          "views": 154,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -510,7 +510,7 @@
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
       "videoCount": 4,
-      "trendScore": 32.7,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8TVdYDeM_h4/hqdefault.jpg",
           "durationSeconds": 102,
           "durationFormatted": "01:42",
-          "views": 2044,
+          "views": 2125,
           "likes": 10,
           "videoType": "VOD",
           "genre": "Crime"
@@ -537,8 +537,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JMeuEWMCi2A/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 491,
-          "likes": 8,
+          "views": 734,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -552,52 +552,28 @@
           "thumbnail": "https://i.ytimg.com/vi/yZPTAFhVLk0/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 475,
-          "likes": 3,
+          "views": 677,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 4,
-          "videoId": "3029aGazN0Q",
-          "title": "🔴LIVE : Mudda To Hai : गेहूं खरीदी पर क्लेश, बीजेपी बनाम कांग्रेस! |  Zee MPCG",
-          "description": "LIVE : Mudda To Hai : गेहूं खरीदी पर क्लेश, बीजेपी बनाम कांग्रेस! | Zee MPCG ...",
+          "videoId": "VKVyxLrNmEs",
+          "title": "🔴LIVE : Din Dahade : कांग्रेस का हल्लाबोल...हाईवे पर घेराव | Latest News | Zee MPCG",
+          "description": "LIVE : Din Dahade : कांग्रेस का हल्लाबोल...हाईवे पर घेराव | Latest News | Zee MPCG बंगाल ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-07T12:42:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/3029aGazN0Q/hqdefault.jpg",
-          "durationSeconds": 1307,
-          "durationFormatted": "21:47",
-          "views": 85,
-          "likes": 1,
+          "publishedAt": "2026-05-07T19:01:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/VKVyxLrNmEs/hqdefault.jpg",
+          "durationSeconds": 1851,
+          "durationFormatted": "30:51",
+          "views": 324,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-07T15:30:12Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 24.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "tXifRb2Vp88",
-          "title": "🔴छत्तीसगढ़ में भी रोंहिग्या पर रण..बंगाल के नतीजों ने बढ़ाई सियासी गर्मी! CG Ki Baat | CG Politics",
-          "description": "IBC24, #ChhattisgarhNews #MadhyaPradeshNews #mpbreakingnews #cgbreakingnews #TodayNews #BreakingNews ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-07T15:30:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/tXifRb2Vp88/hqdefault.jpg",
-          "durationSeconds": 1248,
-          "durationFormatted": "20:48",
-          "views": 153,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-07T15:30:11Z"
+      "latestUpdateAt": "2026-05-07T19:01:40Z"
     }
   ]
 }
