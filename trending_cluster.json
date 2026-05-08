@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-08T17:49:55.303880Z",
+  "generatedAt": "2026-05-08T19:50:18.466145Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 63,
-      "trendScore": 62.9,
+      "videoCount": 66,
+      "trendScore": 62.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tGijKiq90P8/hqdefault.jpg",
           "durationSeconds": 196,
           "durationFormatted": "03:16",
-          "views": 45933,
-          "likes": 202,
+          "views": 47272,
+          "likes": 204,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/P6CS8sF2XiE/hqdefault.jpg",
           "durationSeconds": 1743,
           "durationFormatted": "29:03",
-          "views": 19149,
+          "views": 20017,
           "likes": 241,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 3,
-          "videoId": "AiVqtK6LqF4",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-05-07T23:13:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/AiVqtK6LqF4/hqdefault.jpg",
-          "durationSeconds": 840,
-          "durationFormatted": "14:00",
-          "views": 11357,
-          "likes": 426,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "rsCPv37-bcQ",
           "title": "Tamilnadu New CM: थलापति विजय होंगे तमिलनाडु के नए मुख्यमंत्री। #thalapathyvijay #viralshorts",
           "description": "IBC24, Tamilnadu New CM: थलापति विजय होंगे तमिलनाडु के नए मुख्यमंत्री।",
@@ -63,10 +48,25 @@
           "thumbnail": "https://i.ytimg.com/vi/rsCPv37-bcQ/hqdefault.jpg",
           "durationSeconds": 15,
           "durationFormatted": "00:15",
-          "views": 7994,
+          "views": 11882,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "AiVqtK6LqF4",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-07T23:13:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/AiVqtK6LqF4/hqdefault.jpg",
+          "durationSeconds": 840,
+          "durationFormatted": "14:00",
+          "views": 11647,
+          "likes": 426,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -78,37 +78,22 @@
           "thumbnail": "https://i.ytimg.com/vi/Gs0JFHv_mDI/hqdefault.jpg",
           "durationSeconds": 954,
           "durationFormatted": "15:54",
-          "views": 7955,
-          "likes": 83,
+          "views": 8601,
+          "likes": 85,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-08T17:32:46Z"
+      "latestUpdateAt": "2026-05-08T19:44:57Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 20,
-      "trendScore": 56.3,
+      "trendScore": 55.2,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "ncHlD8tnps8",
-          "title": "रायपुर में घर में मिला बम, बताई असली सच्चाई",
-          "description": "रायपुर में घर में मिला बम, बताई असली सच्चाई.",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-05-08T03:56:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/ncHlD8tnps8/hqdefault.jpg",
-          "durationSeconds": 102,
-          "durationFormatted": "01:42",
-          "views": 33641,
-          "likes": 433,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "X-dppOc6sCE",
           "title": "रायपुर में ऐसे लोगों से सावधान",
           "description": "रायपुर में ऐसे लोगों से सावधान.",
@@ -117,8 +102,23 @@
           "thumbnail": "https://i.ytimg.com/vi/X-dppOc6sCE/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 29140,
-          "likes": 868,
+          "views": 40532,
+          "likes": 904,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "ncHlD8tnps8",
+          "title": "रायपुर में घर में मिला बम, बताई असली सच्चाई",
+          "description": "रायपुर में घर में मिला बम, बताई असली सच्चाई.",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-05-08T03:56:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/ncHlD8tnps8/hqdefault.jpg",
+          "durationSeconds": 102,
+          "durationFormatted": "01:42",
+          "views": 36335,
+          "likes": 439,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NRMZcf99FyY/hqdefault.jpg",
           "durationSeconds": 1254,
           "durationFormatted": "20:54",
-          "views": 6248,
-          "likes": 151,
+          "views": 6520,
+          "likes": 153,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -147,34 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/2gQ8irlNbdk/hqdefault.jpg",
           "durationSeconds": 431,
           "durationFormatted": "07:11",
-          "views": 2360,
-          "likes": 74,
+          "views": 3058,
+          "likes": 78,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "oLWJwAdJEWI",
-          "title": "Raipur में फिर गूंजेगा International Cricket! #Raipur #womencricket #indiavszimbabwe #T20Series",
-          "description": "रायपुर में फिर गूंजेगा इंटरनेशनल क्रिकेट! #Raipur #IndiaWomenTeam ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-05-08T08:25:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/oLWJwAdJEWI/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 917,
-          "likes": 19,
+          "videoId": "VycyvyPoW_8",
+          "title": "OMG: रायपुर में ऐसे लोगों से सावधान ! महिलाओं को बनाते हैं निशाना | Raipur | Tilda Newra | Thiha CG",
+          "description": "OMG: रायपुर में ऐसे लोगों से सावधान ! महिलाओं को बनाते हैं निशाना | Raipur ...",
+          "channelTitle": "Thiha Chhattisgarh",
+          "publishedAt": "2026-05-08T13:43:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/VycyvyPoW_8/hqdefault.jpg",
+          "durationSeconds": 526,
+          "durationFormatted": "08:46",
+          "views": 1100,
+          "likes": 18,
           "videoType": "VOD",
-          "genre": "Events"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-08T16:27:11Z"
+      "latestUpdateAt": "2026-05-08T18:22:41Z"
     },
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 12,
-      "trendScore": 46.1,
+      "trendScore": 44.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/IK9FjDFiRnM/hqdefault.jpg",
           "durationSeconds": 531,
           "durationFormatted": "08:51",
-          "views": 6785,
-          "likes": 211,
+          "views": 9592,
+          "likes": 235,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1JzmpKHQSeg/hqdefault.jpg",
           "durationSeconds": 386,
           "durationFormatted": "06:26",
-          "views": 392,
+          "views": 523,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/h5dYr0joE_s/hqdefault.jpg",
           "durationSeconds": 638,
           "durationFormatted": "10:38",
-          "views": 289,
+          "views": 398,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/jh_F3RRe4MQ/hqdefault.jpg",
           "durationSeconds": 194,
           "durationFormatted": "03:14",
-          "views": 36,
-          "likes": 2,
+          "views": 50,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/utzjECIaAMU/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 26,
+          "views": 35,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Events"
@@ -258,7 +258,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 4,
-      "trendScore": 40.3,
+      "trendScore": 36.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VNI5A3KvVZg/hqdefault.jpg",
           "durationSeconds": 459,
           "durationFormatted": "07:39",
-          "views": 803,
-          "likes": 50,
+          "views": 1617,
+          "likes": 63,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/z6i0If0XgWg/hqdefault.jpg",
           "durationSeconds": 30,
           "durationFormatted": "00:30",
-          "views": 77,
+          "views": 96,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -300,7 +300,7 @@
           "thumbnail": "https://i.ytimg.com/vi/T83fAniBhEU/hqdefault.jpg",
           "durationSeconds": 132,
           "durationFormatted": "02:12",
-          "views": 4,
+          "views": 7,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -315,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vctYLzMg0jA/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 0,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -327,7 +327,7 @@
       "clusterId": "bhaskar-rjn",
       "topic": "Bhaskar RJN",
       "videoCount": 5,
-      "trendScore": 36.2,
+      "trendScore": 35.1,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/RiE3LwAtX4c/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 1315,
-          "likes": 31,
+          "views": 1364,
+          "likes": 32,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ijtWdoYVsKA/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 601,
-          "likes": 14,
+          "views": 662,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0cqwXJZj0Fs/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 435,
+          "views": 470,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Crime"
@@ -384,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UvvZKa_Zw1E/hqdefault.jpg",
           "durationSeconds": 167,
           "durationFormatted": "02:47",
-          "views": 430,
-          "likes": 18,
+          "views": 454,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -399,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dZQvywB30Wk/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 346,
-          "likes": 11,
+          "views": 440,
+          "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -411,7 +411,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 24.2,
+      "trendScore": 23.2,
       "topVideos": [
         {
           "index": 1,
