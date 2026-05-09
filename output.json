@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T17:27:23.925620Z",
+  "generatedAt": "2026-05-09T19:39:03.810065Z",
   "sections": [
     {
       "section": "Durg",
@@ -14,8 +14,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GiAz4ccGXBA/hqdefault.jpg",
           "durationSeconds": 1513,
           "durationFormatted": "25:13",
-          "views": 70,
-          "likes": 2,
+          "views": 109,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -28,7 +28,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OwpdoZs9hdA/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -52,23 +52,8 @@
     },
     {
       "section": "Live",
-      "count": 1,
-      "items": [
-        {
-          "videoId": "f4ljIqc3pws",
-          "title": "Colonel Sophia Qureshi पर मंत्री शाह की विवादित टिप्पणी। बयान से SC नाराज..क्या शाह पर गिरेगी गाज?",
-          "description": "IBC24, Colonel Sophia Qureshi पर मंत्री शाह का विवादित बयान। बयान से SC नाराज.",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T17:24:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/f4ljIqc3pws/hqdefault_live.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 4,
-          "likes": 0,
-          "videoType": "LIVE",
-          "genre": "Live"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "sectionIndex": 0
     },
     {
@@ -79,8 +64,92 @@
     },
     {
       "section": "General",
-      "count": 96,
+      "count": 95,
       "items": [
+        {
+          "videoId": "1f3ZijD6peQ",
+          "title": "दुर्लभ महायज्ञ श्री श्री 108 कुण्डीय सहस्र चंडी अतिरुद्र महायज्ञ। DAY 1। Sadhvi Harsha NAND Giri",
+          "description": "IBC24, विश्व का सबसे दुर्लभ महायज्ञ श्री श्री 108 कुण्डीय सहस्र चंडी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T19:13:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/1f3ZijD6peQ/hqdefault.jpg",
+          "durationSeconds": 22755,
+          "durationFormatted": "06:19:15",
+          "views": 785,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "q0i3u6wh25Q",
+          "title": "CG Weather Update: छत्तीसगढ़ में भारी बारिश का अलर्ट! #cgnews #cgweathernews #viralshorts",
+          "description": "IBC24, CG Weather Update: छत्तीसगढ़ में भारी बारिश का अलर्ट! #cgnews #cgweathernews ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T18:58:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/q0i3u6wh25Q/hqdefault.jpg",
+          "durationSeconds": 12,
+          "durationFormatted": "00:12",
+          "views": 1158,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "t2E1ESkVB9E",
+          "title": "Gwalior News: मानसून की आहट..जनप्रतिनिधियों में घबराहट! महापौर ने अफसरों को 15 दिन का दिया अल्टीमेटम",
+          "description": "IBC24, Gwalior News: मानसून की आहट..जनप्रतिनिधियों में घबराहट! महापौर ने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T18:54:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/t2E1ESkVB9E/hqdefault.jpg",
+          "durationSeconds": 310,
+          "durationFormatted": "05:10",
+          "views": 20,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "7KZtVjHDa00",
+          "title": "#reels : रायपुर के मौसम अइसे  IPL मैच कइसे होही कल ?",
+          "description": "reels : रायपुर के मौसम अइसे IPL मैच कइसे होही कल ? #ipl #reelsi̇nstagram #cgnews #raipur ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T18:39:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/7KZtVjHDa00/hqdefault.jpg",
+          "durationSeconds": 50,
+          "durationFormatted": "00:50",
+          "views": 38,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "w1Uh3bV6j-0",
+          "title": "🔴LIVE : Kolkata : सुवेंदु की शपथ... बंगाल का अग्निपथ | Latest News | Zee MPCG",
+          "description": "LIVE : Kolkata : सुवेंदु की शपथ... बंगाल का अग्निपथ | Latest News | Zee MPCG #Live #MPNews ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T18:31:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/w1Uh3bV6j-0/hqdefault.jpg",
+          "durationSeconds": 2711,
+          "durationFormatted": "45:11",
+          "views": 629,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "o1pQOEdlWM0",
+          "title": "चलती सिटी बस में अचानक लगी आG | CG Bhaskar",
+          "description": "चलती सिटी बस में अचानक लगी आG | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-09T17:30:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/o1pQOEdlWM0/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 57,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
         {
           "videoId": "s_qDhZsKe7g",
           "title": "स्कूल में पालिका की जगह पंचायत ने लगवाया शेड ।। आखिर कितने का हो गया भ्रष्ट्राचार | CG Bhaskar",
@@ -90,8 +159,8 @@
           "thumbnail": "https://i.ytimg.com/vi/s_qDhZsKe7g/hqdefault.jpg",
           "durationSeconds": 235,
           "durationFormatted": "03:55",
-          "views": 0,
-          "likes": 0,
+          "views": 4,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -104,8 +173,8 @@
           "thumbnail": "https://i.ytimg.com/vi/SrtfA1kPsy8/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 4,
-          "likes": 0,
+          "views": 11,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -118,8 +187,8 @@
           "thumbnail": "https://i.ytimg.com/vi/AQ0bPVdxxgw/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 83,
-          "likes": 1,
+          "views": 458,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/SPAnEyGSnWw/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 1067,
+          "views": 3061,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -146,7 +215,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MFAUzu3ifYY/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 4,
+          "views": 0,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -160,7 +229,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NK62clYWtok/hqdefault.jpg",
           "durationSeconds": 2748,
           "durationFormatted": "45:48",
-          "views": 170,
+          "views": 299,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -174,8 +243,8 @@
           "thumbnail": "https://i.ytimg.com/vi/HGRp8mmWhEg/hqdefault.jpg",
           "durationSeconds": 1559,
           "durationFormatted": "25:59",
-          "views": 78,
-          "likes": 0,
+          "views": 109,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -188,7 +257,7 @@
           "thumbnail": "https://i.ytimg.com/vi/TDMJO1RZXyM/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 4539,
+          "views": 6123,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -202,8 +271,8 @@
           "thumbnail": "https://i.ytimg.com/vi/akYCfR4RFj4/hqdefault.jpg",
           "durationSeconds": 537,
           "durationFormatted": "08:57",
-          "views": 671,
-          "likes": 27,
+          "views": 1464,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iIX4t3JVPOQ/hqdefault.jpg",
           "durationSeconds": 1171,
           "durationFormatted": "19:31",
-          "views": 8,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -230,7 +299,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ZQtgvLvcyKk/hqdefault.jpg",
           "durationSeconds": 2766,
           "durationFormatted": "46:06",
-          "views": 1094,
+          "views": 1754,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -244,7 +313,7 @@
           "thumbnail": "https://i.ytimg.com/vi/VqEy2eK3iz8/hqdefault.jpg",
           "durationSeconds": 298,
           "durationFormatted": "04:58",
-          "views": 24,
+          "views": 83,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +327,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8T_JB--K_vk/hqdefault.jpg",
           "durationSeconds": 129,
           "durationFormatted": "02:09",
-          "views": 33,
+          "views": 38,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -272,8 +341,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NkqSmr5qWCo/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 901,
-          "likes": 31,
+          "views": 1393,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -286,7 +355,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nm_MfFn9THk/hqdefault.jpg",
           "durationSeconds": 437,
           "durationFormatted": "07:17",
-          "views": 40,
+          "views": 44,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -314,7 +383,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JoIblu9n4XY/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 2,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -328,8 +397,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3p9UiPIpmRI/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 386,
-          "likes": 4,
+          "views": 591,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -342,7 +411,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ypNYGI3Ul64/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -356,7 +425,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Wxb-O_ZmErI/hqdefault.jpg",
           "durationSeconds": 212,
           "durationFormatted": "03:32",
-          "views": 220,
+          "views": 308,
           "likes": 9,
           "videoType": "VOD",
           "genre": "General"
@@ -370,7 +439,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jFzRtWDnZMM/hqdefault.jpg",
           "durationSeconds": 607,
           "durationFormatted": "10:07",
-          "views": 346,
+          "views": 508,
           "likes": 28,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cjHC0KGEsQo/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 4,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -398,7 +467,7 @@
           "thumbnail": "https://i.ytimg.com/vi/K-6wp-1Kbfg/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 1,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -426,8 +495,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3_VpvWsYb8M/hqdefault.jpg",
           "durationSeconds": 54,
           "durationFormatted": "00:54",
-          "views": 272,
-          "likes": 1,
+          "views": 360,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -440,7 +509,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nDsOVqTrOGw/hqdefault.jpg",
           "durationSeconds": 852,
           "durationFormatted": "14:12",
-          "views": 3,
+          "views": 20,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -454,7 +523,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9WvWdcC2hTU/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 2,
+          "views": 3,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vvuYkfMOnGU/hqdefault.jpg",
           "durationSeconds": 577,
           "durationFormatted": "09:37",
-          "views": 152,
+          "views": 197,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
@@ -482,7 +551,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hzl_YG-xNa8/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 16,
+          "views": 48,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -502,20 +571,6 @@
           "genre": "General"
         },
         {
-          "videoId": "t77HzwtB7oE",
-          "title": "🔴 सुप्रीम कोर्ट सख्त… Vijay Shah  पर अब क्या कार्रवाई?  MP Ki Baat | शह मात The Big Debate",
-          "description": "सुप्रीम कोर्ट सख्त… विजय शाह पर अब क्या कार्रवाई? MP Ki Baat | शह मात The Big ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:51:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/t77HzwtB7oE/hqdefault.jpg",
-          "durationSeconds": 1115,
-          "durationFormatted": "18:35",
-          "views": 510,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "videoId": "15hiNmciX_Q",
           "title": "CG Weather | 10 मई को RCB और MI के बीच मुकाबला | ग्राउंड पर लगाई गई वाटर प्रूफ सीट | IPL Raipur",
           "description": "CG Weather | 10 मई को RCB और MI के बीच मुकाबला | ग्राउंड पर लगाई गई वाटर प्रूफ ...",
@@ -524,8 +579,8 @@
           "thumbnail": "https://i.ytimg.com/vi/15hiNmciX_Q/hqdefault.jpg",
           "durationSeconds": 162,
           "durationFormatted": "02:42",
-          "views": 39,
-          "likes": 1,
+          "views": 90,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,7 +607,7 @@
           "thumbnail": "https://i.ytimg.com/vi/bfQJdkRCA5Y/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 7,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -566,8 +621,8 @@
           "thumbnail": "https://i.ytimg.com/vi/RhxbPS1s7zc/hqdefault.jpg",
           "durationSeconds": 1647,
           "durationFormatted": "27:27",
-          "views": 64,
-          "likes": 4,
+          "views": 84,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -580,7 +635,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vL2WfuwuWEs/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -600,48 +655,6 @@
           "genre": "General"
         },
         {
-          "videoId": "WR6UFC2B1CY",
-          "title": "Hantavirus vs Covid-19: कौन ज्यादा खतरनाक और कैसे फैलता है वायरस? WHO की बड़ी चेतावनी",
-          "description": "Hantavirus vs Covid-19: कौन ज्यादा खतरनाक और कैसे फैलता है वायरस? WHO की बड़ी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T13:30:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/WR6UFC2B1CY/hqdefault.jpg",
-          "durationSeconds": 147,
-          "durationFormatted": "02:27",
-          "views": 5833,
-          "likes": 41,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "j6CcYcW50Rw",
-          "title": "CG Naxal News: गणपति के नेतृत्व में फिर संगठित हो रहे माओवादी! माओवादियों का कथित पत्र हो रहा वायरल",
-          "description": "IBC24, CG Naxal News: गणपति के नेतृत्व में फिर संगठित हो रहे माओवादी!",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:28:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/j6CcYcW50Rw/hqdefault.jpg",
-          "durationSeconds": 111,
-          "durationFormatted": "01:51",
-          "views": 2666,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "G8V3-g1Rzpw",
-          "title": "Shani Karenge Shubh: कुंडली में शनि और वैवाहिक तनाव का रहस्य। क्या जिम्मेदार है शनि? देखिए",
-          "description": "IBC24, Shani Karenge Shubh: कुंडली में शनि और वैवाहिक तनाव का रहस्य। क्या ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:25:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/G8V3-g1Rzpw/hqdefault.jpg",
-          "durationSeconds": 1485,
-          "durationFormatted": "24:45",
-          "views": 78,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "videoId": "1ycrYq8rlyI",
           "title": "छत्तीसगढ़: मौसम का बड़ा बदलाव, कई जिलों में बारिश और आंधी का अलर्ट जारी",
           "description": "रायपुर: प्रदेश के कई जिलों में बदलेगा मौसम मौसम विभाग ने जारी किया ...",
@@ -650,7 +663,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1ycrYq8rlyI/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 179,
+          "views": 201,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -664,8 +677,8 @@
           "thumbnail": "https://i.ytimg.com/vi/mSeur3usS9w/hqdefault.jpg",
           "durationSeconds": 98,
           "durationFormatted": "01:38",
-          "views": 9126,
-          "likes": 217,
+          "views": 12423,
+          "likes": 229,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -678,7 +691,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Xf31f8uKGBs/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 5,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -726,20 +739,6 @@
           "genre": "General"
         },
         {
-          "videoId": "3CBnvKvpsj8",
-          "title": "Bhopal 90 Degree Overbridge Case में सस्पेंड 7 इंजीनियरों की बहाली। 11 महीने बाद निलंबन खत्म",
-          "description": "IBC24, Bhopal 90 Degree Overbridge Case में सस्पेंड 7 इंजीनियरों की बहाली। 11 महीने ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:10:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/3CBnvKvpsj8/hqdefault.jpg",
-          "durationSeconds": 172,
-          "durationFormatted": "02:52",
-          "views": 88,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "videoId": "4gs6T_SnyXg",
           "title": "🔴LIVE, MPCG News 09 May 2026: छत्तीसगढ़/मध्यप्रदेश की बड़ी खबर। unampcg | UNA News LIVE",
           "description": "UNA MPCG न्यूज़ चैनल – मध्यप्रदेश और छत्तीसगढ़ की सबसे तेज़ और ...",
@@ -754,34 +753,6 @@
           "genre": "General"
         },
         {
-          "videoId": "lM0FKT-iXy8",
-          "title": "#shorts : आधे दाम में बेचता था 500 के नोट, भोपाल में MBBS डॉक्टर गिरफ्तार",
-          "description": "shorts : आधे दाम में बेचता था 500 के नोट, भोपाल में MBBS डॉक्टर गिरफ्तार ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T13:01:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/lM0FKT-iXy8/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 4332,
-          "likes": 59,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "gd2Kwzf13Cs",
-          "title": "🔴LIVE : Mudda To Hai : पानी पर हाहाकार...सिस्टम लाचार ! Zee MPCG  | Water Scarcity",
-          "description": "LIVE : Mudda To Hai : पानी पर हाहाकार...सिस्टम लाचार ! Zee MPCG | Water Scarcity मध्य ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T12:48:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/gd2Kwzf13Cs/hqdefault.jpg",
-          "durationSeconds": 1332,
-          "durationFormatted": "22:12",
-          "views": 151,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
           "videoId": "IXxIhIeFwzs",
           "title": "Varanasi Bulldozer Action: दाल मंडी में बड़ी कार्रवाई से हलचल |",
           "description": "उत्तर प्रदेश के Varanasi स्थित दाल मंडी इलाके में प्रशासन की बड़ी ...",
@@ -790,7 +761,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IXxIhIeFwzs/hqdefault.jpg",
           "durationSeconds": 14440,
           "durationFormatted": "04:00:40",
-          "views": 819,
+          "views": 830,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -804,7 +775,7 @@
           "thumbnail": "https://i.ytimg.com/vi/elHRUVmV0Xo/hqdefault.jpg",
           "durationSeconds": 1591,
           "durationFormatted": "26:31",
-          "views": 52,
+          "views": 78,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -818,8 +789,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OylLMVgqpVA/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 10222,
-          "likes": 211,
+          "views": 14673,
+          "likes": 227,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -832,8 +803,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ENSaUaNwOQE/hqdefault.jpg",
           "durationSeconds": 170,
           "durationFormatted": "02:50",
-          "views": 365,
-          "likes": 4,
+          "views": 537,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -846,7 +817,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LAKNsJDuMT4/hqdefault.jpg",
           "durationSeconds": 443,
           "durationFormatted": "07:23",
-          "views": 13,
+          "views": 14,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -860,7 +831,7 @@
           "thumbnail": "https://i.ytimg.com/vi/y7hNtz6hBSc/hqdefault.jpg",
           "durationSeconds": 1441,
           "durationFormatted": "24:01",
-          "views": 44,
+          "views": 84,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -888,7 +859,7 @@
           "thumbnail": "https://i.ytimg.com/vi/m0SUNnzgbgY/hqdefault.jpg",
           "durationSeconds": 236,
           "durationFormatted": "03:56",
-          "views": 187,
+          "views": 220,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -902,7 +873,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cjeSb66Czrg/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 22,
+          "views": 26,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -916,7 +887,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y2uN02gidQg/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 3,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -930,7 +901,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UbuTeZ1Iw7w/hqdefault.jpg",
           "durationSeconds": 1627,
           "durationFormatted": "27:07",
-          "views": 37,
+          "views": 43,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -972,8 +943,8 @@
           "thumbnail": "https://i.ytimg.com/vi/t-EmzD19msQ/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 368,
-          "likes": 9,
+          "views": 496,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -986,8 +957,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZjVUPyWeWvc/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 48,
-          "likes": 1,
+          "views": 67,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1000,7 +971,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qh7MhYORABY/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 56,
+          "views": 54,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1042,7 +1013,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H1o4mIXONiU/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 44,
+          "views": 48,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1056,7 +1027,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EQ-IlGS0lhE/hqdefault.jpg",
           "durationSeconds": 141,
           "durationFormatted": "02:21",
-          "views": 542,
+          "views": 571,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -1070,8 +1041,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V2enYDI5s10/hqdefault.jpg",
           "durationSeconds": 741,
           "durationFormatted": "12:21",
-          "views": 27614,
-          "likes": 516,
+          "views": 33404,
+          "likes": 552,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1098,7 +1069,7 @@
           "thumbnail": "https://i.ytimg.com/vi/M4mOMqpfgTQ/hqdefault.jpg",
           "durationSeconds": 210,
           "durationFormatted": "03:30",
-          "views": 70,
+          "views": 72,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1112,8 +1083,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XA9WruOPyKY/hqdefault.jpg",
           "durationSeconds": 215,
           "durationFormatted": "03:35",
-          "views": 176,
-          "likes": 6,
+          "views": 199,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1126,7 +1097,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mGvHm8e6Wqo/hqdefault.jpg",
           "durationSeconds": 425,
           "durationFormatted": "07:05",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -1154,7 +1125,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OrcK0fIYK8w/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 468,
+          "views": 489,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -1182,8 +1153,8 @@
           "thumbnail": "https://i.ytimg.com/vi/z8lsklx9ito/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 184,
-          "likes": 4,
+          "views": 196,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1196,7 +1167,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iaFDqLlfagc/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 2214,
+          "views": 2302,
           "likes": 68,
           "videoType": "VOD",
           "genre": "General"
@@ -1210,7 +1181,7 @@
           "thumbnail": "https://i.ytimg.com/vi/FH4JH93Zz0g/hqdefault.jpg",
           "durationSeconds": 442,
           "durationFormatted": "07:22",
-          "views": 453,
+          "views": 628,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
@@ -1224,8 +1195,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qNWWgP8QJBM/hqdefault.jpg",
           "durationSeconds": 467,
           "durationFormatted": "07:47",
-          "views": 17401,
-          "likes": 413,
+          "views": 19334,
+          "likes": 427,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1238,8 +1209,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZtC8NPbmUP4/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 291,
-          "likes": 10,
+          "views": 299,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1252,7 +1223,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Y9CaYEtss7E/hqdefault.jpg",
           "durationSeconds": 247,
           "durationFormatted": "04:07",
-          "views": 56,
+          "views": 66,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -1266,7 +1237,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iv2DPlZMHUI/hqdefault.jpg",
           "durationSeconds": 283,
           "durationFormatted": "04:43",
-          "views": 85,
+          "views": 92,
           "likes": 5,
           "videoType": "VOD",
           "genre": "General"
@@ -1280,7 +1251,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dZbtoFxv-Xw/hqdefault.jpg",
           "durationSeconds": 252,
           "durationFormatted": "04:12",
-          "views": 87,
+          "views": 93,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -1294,7 +1265,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zWwKY6FDjVY/hqdefault.jpg",
           "durationSeconds": 139,
           "durationFormatted": "02:19",
-          "views": 18,
+          "views": 19,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -1308,8 +1279,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_Z0XB8kGCo0/hqdefault.jpg",
           "durationSeconds": 114,
           "durationFormatted": "01:54",
-          "views": 4750,
-          "likes": 160,
+          "views": 5103,
+          "likes": 166,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1322,7 +1293,7 @@
           "thumbnail": "https://i.ytimg.com/vi/o6p2b25-nyA/hqdefault.jpg",
           "durationSeconds": 43,
           "durationFormatted": "00:43",
-          "views": 979,
+          "views": 1060,
           "likes": 20,
           "videoType": "VOD",
           "genre": "General"
@@ -1336,7 +1307,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0KcAHCw1xyQ/hqdefault.jpg",
           "durationSeconds": 365,
           "durationFormatted": "06:05",
-          "views": 132,
+          "views": 141,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -1350,8 +1321,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3Xj9d_gkdAY/hqdefault.jpg",
           "durationSeconds": 2505,
           "durationFormatted": "41:45",
-          "views": 133,
-          "likes": 7,
+          "views": 142,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1364,7 +1335,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c4IRmaVWO8A/hqdefault.jpg",
           "durationSeconds": 670,
           "durationFormatted": "11:10",
-          "views": 3865,
+          "views": 3957,
           "likes": 85,
           "videoType": "VOD",
           "genre": "General"
@@ -1378,8 +1349,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n-iQRFa85po/hqdefault.jpg",
           "durationSeconds": 1565,
           "durationFormatted": "26:05",
-          "views": 25732,
-          "likes": 314,
+          "views": 27788,
+          "likes": 315,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1406,8 +1377,8 @@
           "thumbnail": "https://i.ytimg.com/vi/wE9nklD1F9I/hqdefault.jpg",
           "durationSeconds": 828,
           "durationFormatted": "13:48",
-          "views": 13128,
-          "likes": 440,
+          "views": 13655,
+          "likes": 441,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -1420,7 +1391,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ysfPgT8scCk/hqdefault.jpg",
           "durationSeconds": 979,
           "durationFormatted": "16:19",
-          "views": 12753,
+          "views": 13054,
           "likes": 265,
           "videoType": "VOD",
           "genre": "General"
@@ -1441,8 +1412,8 @@
           "thumbnail": "https://i.ytimg.com/vi/uQjUbd99YR0/hqdefault.jpg",
           "durationSeconds": 2909,
           "durationFormatted": "48:29",
-          "views": 1442,
-          "likes": 148,
+          "views": 3522,
+          "likes": 228,
           "videoType": "VOD",
           "genre": "Podcast"
         },
@@ -1455,8 +1426,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QZz1Z9cVup0/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 1362,
-          "likes": 47,
+          "views": 1839,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "Podcast"
         },
@@ -1469,7 +1440,7 @@
           "thumbnail": "https://i.ytimg.com/vi/nueCulqmLKU/hqdefault.jpg",
           "durationSeconds": 71,
           "durationFormatted": "01:11",
-          "views": 792,
+          "views": 801,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Podcast"
@@ -1500,8 +1471,134 @@
     },
     {
       "section": "Politics",
-      "count": 47,
+      "count": 52,
       "items": [
+        {
+          "videoId": "Xn8UzvlwnSQ",
+          "title": "विधायक देवेन्द्र यादव का एंग्री यंगमैन अंदाज | बेमेतरा में तहसीलदार पर फायर हो गए MLA |@tirandaj",
+          "description": "MLAdevendrayadav #devendrayadavanger #cattledeathsinbemetara #congressprotest ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-05-09T19:24:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xn8UzvlwnSQ/hqdefault.jpg",
+          "durationSeconds": 18,
+          "durationFormatted": "00:18",
+          "views": 349,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "igVsNWsLfV0",
+          "title": "TCS Conversion Case : कॉरपोरेट धर्मांतरण का &#39;ओवैसी गैंग&#39; कनेक्शन ! निदा खान गिरफ्तारी से बड़ा खुलासा",
+          "description": "Prime Time : कॉरपोरेट धर्मांतरण का 'ओवैसी गैंग' कनेक्शन ! पुलिस ट्रैकिंग ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T19:00:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/igVsNWsLfV0/hqdefault.jpg",
+          "durationSeconds": 330,
+          "durationFormatted": "05:30",
+          "views": 40,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "iZNwRrUqYEg",
+          "title": "Congress Project M : कांग्रेस का नया दांव, बीजेपी का वार | अल्पसंख्यक महिलाओं पर फोकस",
+          "description": "Prime Time : कांग्रेस का नया दांव, बीजेपी का वार ,अल्पसंख्यक महिलाओं पर ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T19:00:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/iZNwRrUqYEg/hqdefault.jpg",
+          "durationSeconds": 221,
+          "durationFormatted": "03:41",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "mQmc1dWchs8",
+          "title": "CG BJP Meeting : 12 और 13 May  को BJP की बड़ी बैठक। आगामी विधानसभा चुनाव के लिहाज से अहम बैठक",
+          "description": "IBC24, CG BJP Meeting : 12 और 13 May को BJP की बड़ी बैठक। आगामी विधानसभा चुनाव के ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T18:36:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/mQmc1dWchs8/hqdefault.jpg",
+          "durationSeconds": 217,
+          "durationFormatted": "03:37",
+          "views": 18,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "ZUk3f-_EZ9U",
+          "title": "Bengal New CM : बंगाल में भय-काल का अंत... भरोसे का सेवा काल प्रारंभ ! Suvendu Adhikari | Zee MPCG",
+          "description": "Prime Time : शुभेंदु सरकार का पहला 'ओपिनियन पोल'! भय-काल का अंत... भरोसे का ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T18:30:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZUk3f-_EZ9U/hqdefault.jpg",
+          "durationSeconds": 345,
+          "durationFormatted": "05:45",
+          "views": 153,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "DgeO8XSDcXM",
+          "title": "Terror Alert Delhi: दिल्ली पर मंडरा रहा आतंकी खतरा! BJP मुख्यालय-सरकारी इमारतों की बढ़ाई गई सुरक्षा",
+          "description": "IBC24, Terror Alert Delhi: दिल्ली पर मंडरा रहा आतंकी खतरा! BJP मुख्यालय-सरकारी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T18:27:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/DgeO8XSDcXM/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 124,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "p-BbNDd4xqA",
+          "title": "#shorts  : “जनता श्राप दे के जाथे” विधायक भड़किस",
+          "description": "shorts : “जनता श्राप दे के जाथे” विधायक भड़किस #cgnews #balrampur #statement #reels #zeempcg ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T18:04:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/p-BbNDd4xqA/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 52,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "kgFIqC7kTHE",
+          "title": "Tamilnadu New CM Thalapathy Vijay: विजय को मिला 121 MLA का समर्थन। #thalapathyvijay #viralshorts",
+          "description": "IBC24, Tamilnadu New CM Thalapathy Vijay: विजय को मिला 121 MLA का समर्थन। #thalapathyvijay #viralshorts ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T17:57:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/kgFIqC7kTHE/hqdefault.jpg",
+          "durationSeconds": 12,
+          "durationFormatted": "00:12",
+          "views": 7355,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "videoId": "f4ljIqc3pws",
+          "title": "Colonel Sophia Qureshi पर मंत्री शाह की विवादित टिप्पणी। बयान से SC नाराज..क्या शाह पर गिरेगी गाज?",
+          "description": "IBC24, Colonel Sophia Qureshi पर मंत्री शाह का विवादित बयान। बयान से SC नाराज.",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T17:24:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/f4ljIqc3pws/hqdefault.jpg",
+          "durationSeconds": 212,
+          "durationFormatted": "03:32",
+          "views": 55,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
         {
           "videoId": "Yn4a6J4lEHQ",
           "title": "&#39;TMC और Mamata के कुशासन का अंत हुआ&#39;। Bengal से लौटते ही CM Vishnudeo Sai का बड़ा बयान। देखिए..",
@@ -1511,7 +1608,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Yn4a6J4lEHQ/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 24,
+          "views": 79,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1525,7 +1622,7 @@
           "thumbnail": "https://i.ytimg.com/vi/786A5YYhsB0/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 5591,
+          "views": 8692,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1539,8 +1636,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6q58xQ3gOJo/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 84,
-          "likes": 3,
+          "views": 124,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1553,7 +1650,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ECmRCbUW0-0/hqdefault.jpg",
           "durationSeconds": 163,
           "durationFormatted": "02:43",
-          "views": 35,
+          "views": 67,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1567,7 +1664,7 @@
           "thumbnail": "https://i.ytimg.com/vi/htmbwPFrnaI/hqdefault.jpg",
           "durationSeconds": 1248,
           "durationFormatted": "20:48",
-          "views": 160,
+          "views": 338,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1581,8 +1678,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GiAz4ccGXBA/hqdefault.jpg",
           "durationSeconds": 1513,
           "durationFormatted": "25:13",
-          "views": 70,
-          "likes": 2,
+          "views": 109,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1595,8 +1692,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CwFMLfp_muU/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 714,
-          "likes": 6,
+          "views": 1107,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1609,7 +1706,7 @@
           "thumbnail": "https://i.ytimg.com/vi/s4iM5AI2EtI/hqdefault.jpg",
           "durationSeconds": 1385,
           "durationFormatted": "23:05",
-          "views": 195,
+          "views": 458,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1623,8 +1720,8 @@
           "thumbnail": "https://i.ytimg.com/vi/A_Kit5-ozhM/hqdefault.jpg",
           "durationSeconds": 1717,
           "durationFormatted": "28:37",
-          "views": 142,
-          "likes": 5,
+          "views": 268,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1637,7 +1734,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ko4BOleuWxs/hqdefault.jpg",
           "durationSeconds": 320,
           "durationFormatted": "05:20",
-          "views": 17,
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1651,7 +1748,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rYPLXfmKsrA/hqdefault.jpg",
           "durationSeconds": 126,
           "durationFormatted": "02:06",
-          "views": 8365,
+          "views": 10038,
           "likes": 95,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1665,8 +1762,8 @@
           "thumbnail": "https://i.ytimg.com/vi/TuazQJ1Wbqw/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 2078,
-          "likes": 58,
+          "views": 3211,
+          "likes": 76,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1679,7 +1776,7 @@
           "thumbnail": "https://i.ytimg.com/vi/H5MVrG1SLdc/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 131,
+          "views": 223,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1693,7 +1790,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pDZxduI0Ibs/hqdefault.jpg",
           "durationSeconds": 239,
           "durationFormatted": "03:59",
-          "views": 76,
+          "views": 107,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1721,7 +1818,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2aHgh9zj-fo/hqdefault.jpg",
           "durationSeconds": 63,
           "durationFormatted": "01:03",
-          "views": 1,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1735,7 +1832,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vx_ldb48BL8/hqdefault.jpg",
           "durationSeconds": 1323,
           "durationFormatted": "22:03",
-          "views": 4,
+          "views": 12,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1749,22 +1846,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GmSGTMrvN-s/hqdefault.jpg",
           "durationSeconds": 192,
           "durationFormatted": "03:12",
-          "views": 2,
+          "views": 3,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "buwGqGCjpn0",
-          "title": "Bengal New CM : सुवेंदु अधिकारी ने ली CM  पद की शपथ | बंगाल में &#39;अधिकारी&#39; राज.. उम्मीद की आस !",
-          "description": "Bengal New CM : सुवेंदु अधिकारी ने ली CM पद की शपथ | बंगाल में 'अधिकारी' राज.",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T13:08:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/buwGqGCjpn0/hqdefault.jpg",
-          "durationSeconds": 228,
-          "durationFormatted": "03:48",
-          "views": 2846,
-          "likes": 31,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1777,36 +1860,8 @@
           "thumbnail": "https://i.ytimg.com/vi/55lkk8C5vr4/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 354,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "DmrxJ-OQGP4",
-          "title": "Tamil Nadu Government Formation:  Vijay का CM बनने का रास्ता साफ, लेकिन टिकेगी नहीं सरकार ! | TVK",
-          "description": "तमिलनाडु की राजनीति में बड़ा उलटफेर! थलपति विजय (Thalapathy Vijay) की पार्टी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T12:41:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/DmrxJ-OQGP4/hqdefault.jpg",
-          "durationSeconds": 304,
-          "durationFormatted": "05:04",
-          "views": 12776,
-          "likes": 118,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "4lznodVcXhs",
-          "title": "Water Crisis : पानी के लिए परेशान जनता | टैंकर चलाने मैदान में उतरे पार्षद | Zee MPCG",
-          "description": "Chhindwara : पीने के पानी के लिए मजबूर लोग , खुद मैदान में उतरे जनप्रतिनिधि ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T12:31:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/4lznodVcXhs/hqdefault.jpg",
-          "durationSeconds": 160,
-          "durationFormatted": "02:40",
-          "views": 24,
-          "likes": 1,
+          "views": 472,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1819,7 +1874,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9jtz0Uyvon4/hqdefault.jpg",
           "durationSeconds": 497,
           "durationFormatted": "08:17",
-          "views": 21,
+          "views": 22,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1833,7 +1888,7 @@
           "thumbnail": "https://i.ytimg.com/vi/N9uOntltZVk/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 28,
+          "views": 33,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1847,8 +1902,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tXHVIU8QQIE/hqdefault.jpg",
           "durationSeconds": 100,
           "durationFormatted": "01:40",
-          "views": 12,
-          "likes": 0,
+          "views": 18,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1861,7 +1916,7 @@
           "thumbnail": "https://i.ytimg.com/vi/83GiGYCCe1o/hqdefault.jpg",
           "durationSeconds": 113,
           "durationFormatted": "01:53",
-          "views": 10,
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1903,8 +1958,8 @@
           "thumbnail": "https://i.ytimg.com/vi/F-Zdy3n2XS4/hqdefault.jpg",
           "durationSeconds": 138,
           "durationFormatted": "02:18",
-          "views": 3517,
-          "likes": 194,
+          "views": 5768,
+          "likes": 226,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1931,8 +1986,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hJy9NKwzgss/hqdefault.jpg",
           "durationSeconds": 89,
           "durationFormatted": "01:29",
-          "views": 5660,
-          "likes": 12,
+          "views": 5730,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1945,8 +2000,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2CLZkuztk7w/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 5369,
-          "likes": 66,
+          "views": 9781,
+          "likes": 91,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1959,8 +2014,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8xmcLk3dmpQ/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 2563,
-          "likes": 94,
+          "views": 2936,
+          "likes": 109,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -1973,7 +2028,7 @@
           "thumbnail": "https://i.ytimg.com/vi/BcaxecehwrY/hqdefault.jpg",
           "durationSeconds": 149,
           "durationFormatted": "02:29",
-          "views": 553,
+          "views": 566,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -1987,8 +2042,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n-QFZ0vboLY/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 77,
-          "likes": 1,
+          "views": 108,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2021,20 +2076,6 @@
           "genre": "Politics"
         },
         {
-          "videoId": "LRqCAtCwOP0",
-          "title": "नगरपालिका अध्यक्ष के साथ विधायक के संबंध कैसे है ?",
-          "description": "नगरपालिका अध्यक्ष के साथ विधायक के संबंध कैसे है ? #Bemetara #Bemetarajilasamvad ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-09T08:25:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/LRqCAtCwOP0/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 510,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
           "videoId": "XtIdO1iU0n8",
           "title": "क्या बेमेतरा विधायक दीपेश साहू के मंत्री दयालदास बघेल से संबंध अच्छे नहीं है ?",
           "description": "क्या बेमेतरा विधायक दीपेश साहू के मंत्री दयालदास बघेल से संबंध ...",
@@ -2043,8 +2084,8 @@
           "thumbnail": "https://i.ytimg.com/vi/XtIdO1iU0n8/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 810,
-          "likes": 7,
+          "views": 950,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2057,7 +2098,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9qKYIdC5_kA/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2071,7 +2112,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sUOHWreg9V8/hqdefault.jpg",
           "durationSeconds": 12,
           "durationFormatted": "00:12",
-          "views": 1127,
+          "views": 1154,
           "likes": 28,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2085,7 +2126,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4VRprLFKx4k/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 223,
+          "views": 224,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2099,8 +2140,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Oe_nXo62WFg/hqdefault.jpg",
           "durationSeconds": 2780,
           "durationFormatted": "46:20",
-          "views": 591,
-          "likes": 9,
+          "views": 877,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2113,8 +2154,8 @@
           "thumbnail": "https://i.ytimg.com/vi/31J96Y6xoJA/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 1358,
-          "likes": 40,
+          "views": 1472,
+          "likes": 41,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2127,8 +2168,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-Rn0DP4FAN8/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 18157,
-          "likes": 438,
+          "views": 18512,
+          "likes": 439,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -2141,7 +2182,7 @@
           "thumbnail": "https://i.ytimg.com/vi/5N_isFVHne4/hqdefault.jpg",
           "durationSeconds": 138,
           "durationFormatted": "02:18",
-          "views": 4906,
+          "views": 5157,
           "likes": 76,
           "videoType": "VOD",
           "genre": "Politics"
@@ -2155,8 +2196,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K6TnFPSgUWY/hqdefault.jpg",
           "durationSeconds": 1721,
           "durationFormatted": "28:41",
-          "views": 14413,
-          "likes": 214,
+          "views": 15096,
+          "likes": 215,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -2165,8 +2206,36 @@
     },
     {
       "section": "Events",
-      "count": 15,
+      "count": 14,
       "items": [
+        {
+          "videoId": "fiRxu4cpyJU",
+          "title": "Bengal Oath Ceremony : Bengal में Oath Ceremony के मौके पर ऐतिहासिक तस्वीरें मंच से मोदी का &#39;नमन&#39;",
+          "description": "Prime Time : मंच से मोदी का 'नमन' , दंडवत प्रणाम.. कार्यकर्ता को सम्मान , Bengal ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T18:45:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/fiRxu4cpyJU/hqdefault.jpg",
+          "durationSeconds": 220,
+          "durationFormatted": "03:40",
+          "views": 1486,
+          "likes": 16,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "videoId": "G37UoU2PTHY",
+          "title": "Suvendu Adhikari Oath Ceremony Live: शुभेंदु अधिकारी का शपथ ग्रहण | West Bengal CM Oath",
+          "description": "Suvendu Adhikari Oath Ceremony Live: शुभेंदु अधिकारी का शपथ ग्रहण | West Bengal CM Oath ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-05-09T18:23:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/G37UoU2PTHY/hqdefault.jpg",
+          "durationSeconds": 2756,
+          "durationFormatted": "45:56",
+          "views": 66,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
         {
           "videoId": "lOkM5kW72pQ",
           "title": "West Bengal New CM Oath Ceremony: बंगाल में आज से BJP सरकार। Suvendu Adhikari ने ली CM पद की शपथ",
@@ -2176,7 +2245,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lOkM5kW72pQ/hqdefault.jpg",
           "durationSeconds": 590,
           "durationFormatted": "09:50",
-          "views": 664,
+          "views": 1062,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -2190,7 +2259,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I3Hl-HrHTSU/hqdefault.jpg",
           "durationSeconds": 261,
           "durationFormatted": "04:21",
-          "views": 36,
+          "views": 97,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -2204,7 +2273,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PE1TOGSWbmE/hqdefault.jpg",
           "durationSeconds": 205,
           "durationFormatted": "03:25",
-          "views": 70,
+          "views": 130,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -2218,8 +2287,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-2UUM0w24E4/hqdefault.jpg",
           "durationSeconds": 511,
           "durationFormatted": "08:31",
-          "views": 50,
-          "likes": 2,
+          "views": 80,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -2232,22 +2301,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0QRAkBMumBk/hqdefault.jpg",
           "durationSeconds": 213,
           "durationFormatted": "03:33",
-          "views": 2814,
-          "likes": 39,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "videoId": "yCUAmXR5p_w",
-          "title": "Surajpur Viral Video: विधायक के जन्मदिन में सजी अफसरों की महफिल। मंच पर सुर साधते नजर आए जिम्मेदार",
-          "description": "IBC24, Surajpur Viral Video: विधायक के जन्मदिन में सजी अफसरों की महफिल। मंच पर सुर ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:36:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/yCUAmXR5p_w/hqdefault.jpg",
-          "durationSeconds": 77,
-          "durationFormatted": "01:17",
-          "views": 98,
-          "likes": 0,
+          "views": 4229,
+          "likes": 40,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -2260,22 +2315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/0-JflAQ2n8A/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 772,
+          "views": 821,
           "likes": 14,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "videoId": "oxATMzU6YGQ",
-          "title": "🔴IBC24 पर कीजिए सालासर बालाजी धाम के Live दर्शन । Shree Salasar Balaji Dham Mandir से Aarti Live",
-          "description": "IBC24, IBC24 पर कीजिए सालासर बालाजी धाम के Live दर्शन , Shree Salasar Balaji Dham Mandir से ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:02:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/oxATMzU6YGQ/hqdefault.jpg",
-          "durationSeconds": 725,
-          "durationFormatted": "12:05",
-          "views": 130,
-          "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -2288,8 +2329,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WWg1KQamBXg/hqdefault.jpg",
           "durationSeconds": 1057,
           "durationFormatted": "17:37",
-          "views": 196,
-          "likes": 5,
+          "views": 287,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "Events"
         },
@@ -2316,7 +2357,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JdOARScbDdY/hqdefault.jpg",
           "durationSeconds": 41,
           "durationFormatted": "00:41",
-          "views": 1308,
+          "views": 1329,
           "likes": 55,
           "videoType": "VOD",
           "genre": "Events"
@@ -2330,7 +2371,7 @@
           "thumbnail": "https://i.ytimg.com/vi/qAD0ZFtJ_r4/hqdefault.jpg",
           "durationSeconds": 3335,
           "durationFormatted": "55:35",
-          "views": 4,
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -2362,27 +2403,13 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
-        },
-        {
-          "videoId": "EbpnMaTWb9g",
-          "title": "Bengal CM Oath Ceremony LIVE: Suvendu Adhikari का शपथ ग्रहण समारोह | Suvendu Adhikari Shapath Grahan",
-          "description": "Bengal CM Oath Ceremony LIVE: Suvendu Adhikari का शपथ ग्रहण समारोह | Suvendu Adhikari Shapath Grahan ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T05:55:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/EbpnMaTWb9g/hqdefault.jpg",
-          "durationSeconds": 3290,
-          "durationFormatted": "54:50",
-          "views": 51,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
         }
       ],
       "sectionIndex": 5
     },
     {
       "section": "Civic",
-      "count": 5,
+      "count": 3,
       "items": [
         {
           "videoId": "l_grWIYybsM",
@@ -2413,34 +2440,6 @@
           "genre": "Civic"
         },
         {
-          "videoId": "AYlGiC89M5E",
-          "title": "Ambikapur Bulldozer Action News: अतिक्रमण हटाने गई टीम बैरंग लौटी। कामोद रिसॉर्ट पहुंची थी टीम",
-          "description": "IBC24, Ambikapur Bulldozer Action News: अतिक्रमण हटाने गई टीम बैरंग लौटी। कामोद ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:01:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/AYlGiC89M5E/hqdefault.jpg",
-          "durationSeconds": 206,
-          "durationFormatted": "03:26",
-          "views": 250,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "videoId": "RmGcT9f_3CQ",
-          "title": "Contaminated Water : दूषित पानी की सप्लाई से हड़कंप | जल प्रदाय गृह पर जनता का विरोध | Zee MPCG",
-          "description": "Korea : 22 वार्डों में दूषित जल सप्लाई से हड़कंप , लोगों ने जल प्रदाय गृह ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T13:00:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/RmGcT9f_3CQ/hqdefault.jpg",
-          "durationSeconds": 141,
-          "durationFormatted": "02:21",
-          "views": 20,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
           "videoId": "OwpdoZs9hdA",
           "title": "Durg News: धार्मिक टिप्पणी को लेकर नगर निगम कार्यालय में तनाव |",
           "description": "छत्तीसगढ़ के Durg नगर निगम कार्यालय में उस समय तनाव फैल गया जब निगम ...",
@@ -2449,7 +2448,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OwpdoZs9hdA/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -2459,22 +2458,8 @@
     },
     {
       "section": "Traffic",
-      "count": 6,
+      "count": 5,
       "items": [
-        {
-          "videoId": "J7IT3rak7uE",
-          "title": "Raipur City Bus Fire News: चलत सिटी बस म लगिस आगि। पुराना विधानसभा रोड म लगिस लंबा जाम। देखव..",
-          "description": "IBC24, Raipur City Bus Fire News: चलत सिटी बस म लगिस आगि। पुराना विधानसभा रोड म लगिस ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T14:49:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/J7IT3rak7uE/hqdefault.jpg",
-          "durationSeconds": 146,
-          "durationFormatted": "02:26",
-          "views": 968,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
         {
           "videoId": "UKu7HiPwTSM",
           "title": "मनगटा रिसॉर्ट के स्विमिंग पूल में करंट से बच्चे की मौ-T, गुस्साए लोगों ने नेशनल हाईवे किया जाम",
@@ -2484,8 +2469,8 @@
           "thumbnail": "https://i.ytimg.com/vi/UKu7HiPwTSM/hqdefault.jpg",
           "durationSeconds": 751,
           "durationFormatted": "12:31",
-          "views": 132,
-          "likes": 8,
+          "views": 217,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -2512,8 +2497,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sAMgrsnyJpI/hqdefault.jpg",
           "durationSeconds": 837,
           "durationFormatted": "13:57",
-          "views": 4792,
-          "likes": 127,
+          "views": 7149,
+          "likes": 143,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -2526,7 +2511,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HFFvxmaSuYs/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 10,
+          "views": 11,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
@@ -2540,8 +2525,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5AvUMk1YuDA/hqdefault.jpg",
           "durationSeconds": 214,
           "durationFormatted": "03:34",
-          "views": 6,
-          "likes": 0,
+          "views": 12,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Traffic"
         }
@@ -2550,8 +2535,64 @@
     },
     {
       "section": "Crime",
-      "count": 24,
+      "count": 26,
       "items": [
+        {
+          "videoId": "fHXGisDi_18",
+          "title": "Raipur Tonhi Case: टोनही के शक में दंपति को मारने की कोशिश! चाकू की नोक पर कराया अनुष्ठान",
+          "description": "IBC24, Raipur Tonhi Case: टोनही के शक में दंपति को मारने की कोशिश! चाकू की नोक पर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T18:33:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/fHXGisDi_18/hqdefault.jpg",
+          "durationSeconds": 168,
+          "durationFormatted": "02:48",
+          "views": 39,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "videoId": "_3Yl0lXyzwo",
+          "title": "MP Farmers:कब होगी किसानों की परेशानी कम ,हक के लिए किसान परेशान ,खरीदी केंद्रों पर व्यवस्थाएं बदहाल",
+          "description": "MP Farmers : कब होगी किसानों की परेशानी कम, हक के लिए किसाम परेशान ,खरीदी ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-09T18:15:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/_3Yl0lXyzwo/hqdefault.jpg",
+          "durationSeconds": 184,
+          "durationFormatted": "03:04",
+          "views": 8,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "videoId": "0-SzUMTnMQg",
+          "title": "Raipur Chakubaji News: रायपुर में फिर चाकूबाजी की वारदात। शराब पीने से रोका..वकील को चाकू घोंपा",
+          "description": "IBC24, Raipur Chakubaji News: रायपुर में फिर चाकूबाजी की वारदात। शराब पीने से ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T17:42:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/0-SzUMTnMQg/hqdefault.jpg",
+          "durationSeconds": 165,
+          "durationFormatted": "02:45",
+          "views": 141,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "videoId": "LyCMVi3dfF4",
+          "title": "MLA Daleshwar Sahu Viral Video: &#39;मेरे नाम का कुत्ता पाल लेना&#39;। विधायक दलेश्वर साहू की फिसली जुबान",
+          "description": "IBC24, MLA Daleshwar Sahu Viral Video: 'मेरे नाम का कुत्ता पाल लेना'। विधायक दलेश्वर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T17:37:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/LyCMVi3dfF4/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 17,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
         {
           "videoId": "JsxdrJGjPig",
           "title": "ED Raid in Chandigarh: मान के मंत्री की गिरफ्तारी..तनाव भारी! Kejriwal ने ED पर लगाए गंभीर आरोप",
@@ -2561,7 +2602,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JsxdrJGjPig/hqdefault.jpg",
           "durationSeconds": 323,
           "durationFormatted": "05:23",
-          "views": 439,
+          "views": 1527,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2575,8 +2616,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DkYbv77narU/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 128,
-          "likes": 0,
+          "views": 164,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2589,7 +2630,7 @@
           "thumbnail": "https://i.ytimg.com/vi/doYaCxLR-qc/hqdefault.jpg",
           "durationSeconds": 94,
           "durationFormatted": "01:34",
-          "views": 1455,
+          "views": 2450,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2617,7 +2658,7 @@
           "thumbnail": "https://i.ytimg.com/vi/__9tlqDRoMM/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 13,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2631,8 +2672,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_M8OCBZFCSQ/hqdefault.jpg",
           "durationSeconds": 209,
           "durationFormatted": "03:29",
-          "views": 111370,
-          "likes": 1413,
+          "views": 232007,
+          "likes": 1521,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2645,22 +2686,8 @@
           "thumbnail": "https://i.ytimg.com/vi/APMgnF5NvX4/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 321,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "videoId": "5QwJbkX2weE",
-          "title": "Mahasamund News: करोड़ों की LPG चोरी पर बड़ी कार्रवाई। खाद्य अधिकारी और गैस चूल्हा विक्रेता Arrest",
-          "description": "IBC24, Mahasamund News: करोड़ों की LPG चोरी पर बड़ी कार्रवाई। खाद्य अधिकारी ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:46:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/5QwJbkX2weE/hqdefault.jpg",
-          "durationSeconds": 152,
-          "durationFormatted": "02:32",
-          "views": 241,
-          "likes": 0,
+          "views": 440,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2673,22 +2700,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_Y6oe_jGTx4/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 2,
+          "views": 3,
           "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "videoId": "WDdZyqvLwKY",
-          "title": "🔴LIVE : Khabar Apne MP Ki : शाहपुर में बुलडोजर एक्शन  | Zee MPCG",
-          "description": "LIVE : Khabar Apne MP Ki : शाहपुर में बुलडोजर एक्शन | Zee MPCG दमोह: लापता बच्चे का ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T13:21:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/WDdZyqvLwKY/hqdefault.jpg",
-          "durationSeconds": 1469,
-          "durationFormatted": "24:29",
-          "views": 243,
-          "likes": 3,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2701,7 +2714,7 @@
           "thumbnail": "https://i.ytimg.com/vi/B1gA0YjNcWI/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 8,
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2715,8 +2728,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CTSzpoHNFhw/hqdefault.jpg",
           "durationSeconds": 199,
           "durationFormatted": "03:19",
-          "views": 211,
-          "likes": 4,
+          "views": 267,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2743,7 +2756,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Nn7-e1JNwq4/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 15,
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2757,7 +2770,7 @@
           "thumbnail": "https://i.ytimg.com/vi/RU1dOZKxmYs/hqdefault.jpg",
           "durationSeconds": 413,
           "durationFormatted": "06:53",
-          "views": 86,
+          "views": 96,
           "likes": 6,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2785,7 +2798,7 @@
           "thumbnail": "https://i.ytimg.com/vi/khS0BMtLhc0/hqdefault.jpg",
           "durationSeconds": 461,
           "durationFormatted": "07:41",
-          "views": 4012,
+          "views": 4686,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2799,8 +2812,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Rm8Z-w1bdUE/hqdefault.jpg",
           "durationSeconds": 632,
           "durationFormatted": "10:32",
-          "views": 902,
-          "likes": 68,
+          "views": 1152,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2813,7 +2826,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sQdWnLKtwtk/hqdefault.jpg",
           "durationSeconds": 519,
           "durationFormatted": "08:39",
-          "views": 2971,
+          "views": 3419,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -2827,8 +2840,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CH4c68N6Pr0/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 242,
-          "likes": 2,
+          "views": 315,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2841,8 +2854,8 @@
           "thumbnail": "https://i.ytimg.com/vi/COKcEQgzD6E/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 1629,
-          "likes": 22,
+          "views": 1763,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2855,8 +2868,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5e8OFqXEnUg/hqdefault.jpg",
           "durationSeconds": 483,
           "durationFormatted": "08:03",
-          "views": 2267,
-          "likes": 45,
+          "views": 2426,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2869,8 +2882,8 @@
           "thumbnail": "https://i.ytimg.com/vi/z6qaYkl5UBM/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 2288,
-          "likes": 69,
+          "views": 2339,
+          "likes": 71,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -2883,8 +2896,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Vu2zTtLFPbo/hqdefault.jpg",
           "durationSeconds": 393,
           "durationFormatted": "06:33",
-          "views": 17797,
-          "likes": 363,
+          "views": 18706,
+          "likes": 365,
           "videoType": "VOD",
           "genre": "Crime"
         }

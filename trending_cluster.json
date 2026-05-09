@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-09T17:27:24.346080Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-05-09T19:39:04.356596Z",
+  "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 62,
-      "trendScore": 64.3,
+      "videoCount": 60,
+      "trendScore": 63.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-Rn0DP4FAN8/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 18157,
-          "likes": 438,
+          "views": 18512,
+          "likes": 439,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K6TnFPSgUWY/hqdefault.jpg",
           "durationSeconds": 1721,
           "durationFormatted": "28:41",
-          "views": 14413,
-          "likes": 214,
+          "views": 15096,
+          "likes": 215,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,23 +48,23 @@
           "thumbnail": "https://i.ytimg.com/vi/wE9nklD1F9I/hqdefault.jpg",
           "durationSeconds": 828,
           "durationFormatted": "13:48",
-          "views": 13128,
-          "likes": 440,
+          "views": 13655,
+          "likes": 441,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "DmrxJ-OQGP4",
-          "title": "Tamil Nadu Government Formation:  Vijay का CM बनने का रास्ता साफ, लेकिन टिकेगी नहीं सरकार ! | TVK",
-          "description": "तमिलनाडु की राजनीति में बड़ा उलटफेर! थलपति विजय (Thalapathy Vijay) की पार्टी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T12:41:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/DmrxJ-OQGP4/hqdefault.jpg",
-          "durationSeconds": 304,
-          "durationFormatted": "05:04",
-          "views": 12776,
-          "likes": 118,
+          "videoId": "2CLZkuztk7w",
+          "title": "कोलकाता की गलियों से मंच तक…हर तरफ सिर्फ “मोदी-मोदी” की गूंज! 🔥🇮🇳",
+          "description": "Kolkata में प्रधानमंत्री Narendra Modi के आगमन को लेकर जबरदस्त उत्साह देखने ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-05-09T10:40:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/2CLZkuztk7w/hqdefault.jpg",
+          "durationSeconds": 7,
+          "durationFormatted": "00:07",
+          "views": 9781,
+          "likes": 91,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/786A5YYhsB0/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 5591,
+          "views": 8692,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-09T17:24:06Z"
+      "latestUpdateAt": "2026-05-09T19:24:02Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 13,
-      "trendScore": 46.0,
+      "videoCount": 16,
+      "trendScore": 48.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OylLMVgqpVA/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 10222,
-          "likes": 211,
+          "views": 14673,
+          "likes": 227,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,7 +132,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jFzRtWDnZMM/hqdefault.jpg",
           "durationSeconds": 607,
           "durationFormatted": "10:07",
-          "views": 346,
+          "views": 508,
           "likes": 28,
           "videoType": "VOD",
           "genre": "General"
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ZtC8NPbmUP4/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 291,
-          "likes": 10,
+          "views": 299,
+          "likes": 11,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/vvuYkfMOnGU/hqdefault.jpg",
           "durationSeconds": 577,
           "durationFormatted": "09:37",
-          "views": 152,
+          "views": 197,
           "likes": 10,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-09T14:21:52Z"
+      "latestUpdateAt": "2026-05-09T18:39:30Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 10,
-      "trendScore": 43.6,
+      "trendScore": 42.4,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V2enYDI5s10/hqdefault.jpg",
           "durationSeconds": 741,
           "durationFormatted": "12:21",
-          "views": 27614,
-          "likes": 516,
+          "views": 33404,
+          "likes": 552,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/khS0BMtLhc0/hqdefault.jpg",
           "durationSeconds": 461,
           "durationFormatted": "07:41",
-          "views": 4012,
+          "views": 4686,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -216,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/sQdWnLKtwtk/hqdefault.jpg",
           "durationSeconds": 519,
           "durationFormatted": "08:39",
-          "views": 2971,
+          "views": 3419,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -231,25 +231,25 @@
           "thumbnail": "https://i.ytimg.com/vi/FH4JH93Zz0g/hqdefault.jpg",
           "durationSeconds": 442,
           "durationFormatted": "07:22",
-          "views": 453,
+          "views": 628,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "Kd0xvg1yhnw",
-          "title": "Durg -Bhilai Breaking |  सुशासन तिहार में बांटी गई खराब दवाइयां ? क्या है सच ? Exclusive News",
-          "description": "Durg -Bhilai Breaking | सुशांत सुशासन तिहाड़ में बांटी गई खराब दवाइयां ? क्या है ...",
-          "channelTitle": "THE CG KHABAR",
-          "publishedAt": "2026-05-09T09:58:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/Kd0xvg1yhnw/hqdefault.jpg",
-          "durationSeconds": 335,
-          "durationFormatted": "05:35",
-          "views": 75,
-          "likes": 3,
+          "videoId": "-2UUM0w24E4",
+          "title": "MLA रिकेश सेन ने किया भिलाई के पहले सखी सेंटर का उद्घाटन, महिलाओं को मिलेगा बड़ा फायदा",
+          "description": "MLA रिकेश सेन ने किया भिलाई के पहले सखी सेंटर का उद्घाटन, महिलाओं को ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-09T14:50:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/-2UUM0w24E4/hqdefault.jpg",
+          "durationSeconds": 511,
+          "durationFormatted": "08:31",
+          "views": 80,
+          "likes": 7,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-05-09T15:05:39Z"
@@ -257,8 +257,8 @@
     {
       "clusterId": "bhaskar-khursipar",
       "topic": "Bhaskar Khursipar",
-      "videoCount": 8,
-      "trendScore": 40.4,
+      "videoCount": 9,
+      "trendScore": 40.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5e8OFqXEnUg/hqdefault.jpg",
           "durationSeconds": 483,
           "durationFormatted": "08:03",
-          "views": 2267,
-          "likes": 45,
+          "views": 2426,
+          "likes": 48,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -285,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iaFDqLlfagc/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 2214,
+          "views": 2302,
           "likes": 68,
           "videoType": "VOD",
           "genre": "General"
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/COKcEQgzD6E/hqdefault.jpg",
           "durationSeconds": 44,
           "durationFormatted": "00:44",
-          "views": 1629,
-          "likes": 22,
+          "views": 1763,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -315,8 +315,8 @@
           "thumbnail": "https://i.ytimg.com/vi/55lkk8C5vr4/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 354,
-          "likes": 11,
+          "views": 472,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -330,19 +330,19 @@
           "thumbnail": "https://i.ytimg.com/vi/m0SUNnzgbgY/hqdefault.jpg",
           "durationSeconds": 236,
           "durationFormatted": "03:56",
-          "views": 187,
+          "views": 220,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-09T17:00:28Z"
+      "latestUpdateAt": "2026-05-09T17:30:20Z"
     },
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 7,
-      "trendScore": 38.3,
+      "trendScore": 36.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/NkqSmr5qWCo/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 901,
-          "likes": 31,
+          "views": 1393,
+          "likes": 38,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,13 +369,28 @@
           "thumbnail": "https://i.ytimg.com/vi/cjHC0KGEsQo/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 4,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "K-6wp-1Kbfg",
+          "title": "RAJNANDGAON | खरीफ सीजन 2026 के लिए खाद वितरण की नई गाइडलाइन जारी |",
+          "description": "chhattisgarhnews #rajnandgaon #framers ........................................................................................................................................... India ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-09T14:19:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/K-6wp-1Kbfg/hqdefault.jpg",
+          "durationSeconds": 56,
+          "durationFormatted": "00:56",
+          "views": 4,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "Y2uN02gidQg",
           "title": "राजनांदगांव: 13 पंचायतों के ग्रामीणों को मिली बड़ी राहत जनसमस्या निवारण शिविर में मौके पर हुआ समाधान",
           "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
@@ -384,13 +399,13 @@
           "thumbnail": "https://i.ytimg.com/vi/Y2uN02gidQg/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 3,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "WfTKHYzRj4k",
           "title": "राजनांदगांव में अवैध रेत परिवहन पर कार्रवाई, शिवनाथ नदी किनारे से दो माजदा वाहन जप्त",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -403,21 +418,6 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "K-6wp-1Kbfg",
-          "title": "RAJNANDGAON | खरीफ सीजन 2026 के लिए खाद वितरण की नई गाइडलाइन जारी |",
-          "description": "chhattisgarhnews #rajnandgaon #framers ........................................................................................................................................... India ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-09T14:19:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/K-6wp-1Kbfg/hqdefault.jpg",
-          "durationSeconds": 56,
-          "durationFormatted": "00:56",
-          "views": 1,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-05-09T14:52:30Z"
@@ -426,7 +426,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 34.1,
+      "trendScore": 33.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,8 +438,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n-iQRFa85po/hqdefault.jpg",
           "durationSeconds": 1565,
           "durationFormatted": "26:05",
-          "views": 25732,
-          "likes": 314,
+          "views": 27788,
+          "likes": 315,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -453,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ysfPgT8scCk/hqdefault.jpg",
           "durationSeconds": 979,
           "durationFormatted": "16:19",
-          "views": 12753,
+          "views": 13054,
           "likes": 265,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +468,7 @@
           "thumbnail": "https://i.ytimg.com/vi/c4IRmaVWO8A/hqdefault.jpg",
           "durationSeconds": 670,
           "durationFormatted": "11:10",
-          "views": 3865,
+          "views": 3957,
           "likes": 85,
           "videoType": "VOD",
           "genre": "General"
@@ -483,7 +483,7 @@
           "thumbnail": "https://i.ytimg.com/vi/mGvHm8e6Wqo/hqdefault.jpg",
           "durationSeconds": 425,
           "durationFormatted": "07:05",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -495,7 +495,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 9,
-      "trendScore": 33.0,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -507,8 +507,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GiAz4ccGXBA/hqdefault.jpg",
           "durationSeconds": 1513,
           "durationFormatted": "25:13",
-          "views": 70,
-          "likes": 2,
+          "views": 109,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -522,7 +522,7 @@
           "thumbnail": "https://i.ytimg.com/vi/B1gA0YjNcWI/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 8,
+          "views": 14,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -537,7 +537,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OwpdoZs9hdA/hqdefault.jpg",
           "durationSeconds": 181,
           "durationFormatted": "03:01",
-          "views": 6,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -552,7 +552,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Xf31f8uKGBs/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 5,
+          "views": 7,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -576,112 +576,13 @@
       "latestUpdateAt": "2026-05-09T15:30:07Z"
     },
     {
-      "clusterId": "water-zee",
-      "topic": "Water Zee",
-      "videoCount": 5,
-      "trendScore": 29.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "gd2Kwzf13Cs",
-          "title": "🔴LIVE : Mudda To Hai : पानी पर हाहाकार...सिस्टम लाचार ! Zee MPCG  | Water Scarcity",
-          "description": "LIVE : Mudda To Hai : पानी पर हाहाकार...सिस्टम लाचार ! Zee MPCG | Water Scarcity मध्य ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T12:48:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/gd2Kwzf13Cs/hqdefault.jpg",
-          "durationSeconds": 1332,
-          "durationFormatted": "22:12",
-          "views": 151,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "EvIbj-KgVN8",
-          "title": "Chhindwara Water Crisis : छिंदवाड़ा में गहराया &#39;जल संकट&#39; गर्मी में पीने के पानी को मजबूर लोग",
-          "description": "Chhindwara Water Crisis : छिंदवाड़ा में गहराया 'जल संकट' गर्मी में पीने के पानी ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T14:43:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/EvIbj-KgVN8/hqdefault.jpg",
-          "durationSeconds": 109,
-          "durationFormatted": "01:49",
-          "views": 68,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "4lznodVcXhs",
-          "title": "Water Crisis : पानी के लिए परेशान जनता | टैंकर चलाने मैदान में उतरे पार्षद | Zee MPCG",
-          "description": "Chhindwara : पीने के पानी के लिए मजबूर लोग , खुद मैदान में उतरे जनप्रतिनिधि ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T12:31:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/4lznodVcXhs/hqdefault.jpg",
-          "durationSeconds": 160,
-          "durationFormatted": "02:40",
-          "views": 24,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "VqEy2eK3iz8",
-          "title": "Chhindwara Water Crisis : हर घर जल के दावे Fail ! | भीषण गर्मी के बीच पानी की किल्लत सड़कों पर लोग !",
-          "description": "Chhindwara Water Crisis : हर घर जल के दावे Fail ! | भीषण गर्मी के बीच पानी की किल्लत ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T15:15:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/VqEy2eK3iz8/hqdefault.jpg",
-          "durationSeconds": 298,
-          "durationFormatted": "04:58",
-          "views": 24,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "RmGcT9f_3CQ",
-          "title": "Contaminated Water : दूषित पानी की सप्लाई से हड़कंप | जल प्रदाय गृह पर जनता का विरोध | Zee MPCG",
-          "description": "Korea : 22 वार्डों में दूषित जल सप्लाई से हड़कंप , लोगों ने जल प्रदाय गृह ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T13:00:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/RmGcT9f_3CQ/hqdefault.jpg",
-          "durationSeconds": 141,
-          "durationFormatted": "02:21",
-          "views": 20,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        }
-      ],
-      "latestUpdateAt": "2026-05-09T15:15:03Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 2,
-      "trendScore": 28.7,
+      "videoCount": 1,
+      "trendScore": 18.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "j6CcYcW50Rw",
-          "title": "CG Naxal News: गणपति के नेतृत्व में फिर संगठित हो रहे माओवादी! माओवादियों का कथित पत्र हो रहा वायरल",
-          "description": "IBC24, CG Naxal News: गणपति के नेतृत्व में फिर संगठित हो रहे माओवादी!",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T13:28:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/j6CcYcW50Rw/hqdefault.jpg",
-          "durationSeconds": 111,
-          "durationFormatted": "01:51",
-          "views": 2666,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "UbuTeZ1Iw7w",
           "title": "बोली ठोली आज मिलव छत्तीसगढ़ के पहले ट्रैवल ब्लॉगर दीपक पटेल ले । BOLI THOLI BANSAL NEWS PROGRAM",
           "description": "छत्तीसगढ़ी म खास कार्यक्रम बोली ठोली, बोली ठोली म पिरीत हे, नता हे अउ ...",
@@ -690,13 +591,13 @@
           "thumbnail": "https://i.ytimg.com/vi/UbuTeZ1Iw7w/hqdefault.jpg",
           "durationSeconds": 1627,
           "durationFormatted": "27:07",
-          "views": 37,
+          "views": 43,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-09T13:28:51Z"
+      "latestUpdateAt": "2026-05-09T11:36:06Z"
     }
   ]
 }
