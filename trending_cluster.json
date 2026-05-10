@@ -1,96 +1,12 @@
 {
-  "generatedAt": "2026-05-10T15:29:27.204872Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-05-10T17:27:37.871795Z",
+  "clusterCount": 9,
   "clusters": [
-    {
-      "clusterId": "public-sector-exam",
-      "topic": "Public Sector Exam",
-      "videoCount": 60,
-      "trendScore": 61.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "URHraStfIas",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-05-09T23:37:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/URHraStfIas/hqdefault.jpg",
-          "durationSeconds": 898,
-          "durationFormatted": "14:58",
-          "views": 14307,
-          "likes": 468,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "gCpFv94tgeQ",
-          "title": "10 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "10 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-05-09T23:30:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/gCpFv94tgeQ/hqdefault.jpg",
-          "durationSeconds": 1644,
-          "durationFormatted": "27:24",
-          "views": 8694,
-          "likes": 178,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "LxO4ouBXUO4",
-          "title": "UP Cabinet Expansion Live: योगी कैबिनेट का दूसरा विस्तार । 6 विधायक ले  रहे मंत्री पद की शपथ",
-          "description": "IBC24, UP Cabinet Expansion Live: योगी कैबिनेट का दूसरा विस्तार । 6 विधायक ले रहे ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-10T10:20:11Z",
-          "thumbnail": "https://i.ytimg.com/vi/LxO4ouBXUO4/hqdefault.jpg",
-          "durationSeconds": 806,
-          "durationFormatted": "13:26",
-          "views": 8526,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "Xn8UzvlwnSQ",
-          "title": "विधायक देवेन्द्र यादव का एंग्री यंगमैन अंदाज | बेमेतरा में तहसीलदार पर फायर हो गए MLA |@tirandaj",
-          "description": "MLAdevendrayadav #devendrayadavanger #cattledeathsinbemetara #congressprotest ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-05-09T19:24:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/Xn8UzvlwnSQ/hqdefault.jpg",
-          "durationSeconds": 18,
-          "durationFormatted": "00:18",
-          "views": 8116,
-          "likes": 71,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "446tucV_xV8",
-          "title": "10  May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
-          "description": "10 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-05-10T00:33:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/446tucV_xV8/hqdefault.jpg",
-          "durationSeconds": 738,
-          "durationFormatted": "12:18",
-          "views": 2482,
-          "likes": 65,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-05-10T14:45:32Z"
-    },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 25,
-      "trendScore": 61.2,
+      "videoCount": 27,
+      "trendScore": 62.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PCtF5agMpO8/hqdefault.jpg",
           "durationSeconds": 575,
           "durationFormatted": "09:35",
-          "views": 4258,
-          "likes": 190,
+          "views": 7971,
+          "likes": 282,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/nAG4bi1tp1w/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 1992,
-          "likes": 35,
+          "views": 2843,
+          "likes": 34,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "f419c8lorw0",
-          "title": "Raipur में Mirror Chhattisgarh के Founder का गुंडागर्दी का Video Viral || Bharti Media Network ||",
-          "description": "Raipur में Mirror Chhattisgarh के Founder का गुंडागर्दी का Video Viral || Bharti Media Network ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-05-10T09:33:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/f419c8lorw0/hqdefault.jpg",
-          "durationSeconds": 1008,
-          "durationFormatted": "16:48",
-          "views": 1007,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "miVGKB0KPBw",
           "title": "रायपुर IPL मैच से पहले VIP मेहमानों के लिए शाही दावत, स्टेडियम के बाहर महक उठा जायकों का मेला",
           "description": "राजधानी रायपुर स्थित शहीद वीर नारायण सिंह अंतरराष्ट्रीय क्रिकेट ...",
@@ -147,34 +48,133 @@
           "thumbnail": "https://i.ytimg.com/vi/miVGKB0KPBw/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 975,
-          "likes": 16,
+          "views": 1530,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "f419c8lorw0",
+          "title": "Raipur में Mirror Chhattisgarh के Founder का गुंडागर्दी का Video Viral || Bharti Media Network ||",
+          "description": "Raipur में Mirror Chhattisgarh के Founder का गुंडागर्दी का Video Viral || Bharti Media Network ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-05-10T09:33:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/f419c8lorw0/hqdefault.jpg",
+          "durationSeconds": 1008,
+          "durationFormatted": "16:48",
+          "views": 1385,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "aGCrRf52THM",
+          "title": "RCB vs MI IPL 2026 Match in Raipur: Toss जीतकर RCB ने चुनी गेंदबाजी | रायपुर में हाई वोल्टेज मुकाबला",
+          "description": "IBC24, RCB vs MI IPL 2026 Match in Raipur: Toss जीतकर RCB ने चुनी गेंदबाजी | रायपुर में हाई ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-10T14:07:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/aGCrRf52THM/hqdefault.jpg",
+          "durationSeconds": 49,
+          "durationFormatted": "00:49",
+          "views": 615,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-05-10T17:25:26Z"
+    },
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 54,
+      "trendScore": 61.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "URHraStfIas",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-09T23:37:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/URHraStfIas/hqdefault.jpg",
+          "durationSeconds": 898,
+          "durationFormatted": "14:58",
+          "views": 15326,
+          "likes": 478,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "gCpFv94tgeQ",
+          "title": "10 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
+          "description": "10 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-05-09T23:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/gCpFv94tgeQ/hqdefault.jpg",
+          "durationSeconds": 1644,
+          "durationFormatted": "27:24",
+          "views": 9284,
+          "likes": 181,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "Xn8UzvlwnSQ",
+          "title": "विधायक देवेन्द्र यादव का एंग्री यंगमैन अंदाज | बेमेतरा में तहसीलदार पर फायर हो गए MLA |@tirandaj",
+          "description": "MLAdevendrayadav #devendrayadavanger #cattledeathsinbemetara #congressprotest ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-05-09T19:24:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/Xn8UzvlwnSQ/hqdefault.jpg",
+          "durationSeconds": 18,
+          "durationFormatted": "00:18",
+          "views": 8179,
+          "likes": 74,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "zCc2lrWkK3s",
+          "title": "Vijay Thalapathy Oath Ceremony: Tamil Nadu में अब &#39;विजय&#39; सरकार। 9वें मुख्यमंत्री बने विजय | TVK",
+          "description": "IBC24, Vijay Thalapathy Oath Ceremony: Tamil Nadu में अब 'विजय' सरकार। 9वें मुख्यमंत्री ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-10T16:53:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/zCc2lrWkK3s/hqdefault.jpg",
+          "durationSeconds": 250,
+          "durationFormatted": "04:10",
+          "views": 3694,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 5,
-          "videoId": "0XTEwcDrgCE",
-          "title": "10 मई 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi",
-          "description": "10 मई 2026 | छत्तीसगढ़ का ताजा खबर| CG News | Raipur News Today | Chattisgarh News Hindi ...",
-          "channelTitle": "Chhattisgarh ka awaaz 07 ",
-          "publishedAt": "2026-05-09T23:30:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/0XTEwcDrgCE/hqdefault.jpg",
-          "durationSeconds": 1802,
-          "durationFormatted": "30:02",
-          "views": 434,
-          "likes": 6,
+          "videoId": "yxt5Zfim6sg",
+          "title": "Ladli Bahan Yojna: लाडली बहनों के लिए ख़ुशख़बरी इस दिन आएंगे खाते में पैसे ! | Mohan Yadav | #shorts",
+          "description": "लाड़ली बहनों के लिए बड़ी खुशखबरी! मुख्यमंत्री डॉ. मोहन यादव जल्द ही ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-10T12:45:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/yxt5Zfim6sg/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 2801,
+          "likes": 34,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-10T15:04:06Z"
+      "latestUpdateAt": "2026-05-10T17:19:41Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 13,
-      "trendScore": 45.2,
+      "trendScore": 44.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/txxjZ_bBCVY/hqdefault.jpg",
           "durationSeconds": 550,
           "durationFormatted": "09:10",
-          "views": 5801,
-          "likes": 179,
+          "views": 6329,
+          "likes": 191,
           "videoType": "VOD",
           "genre": "Traffic"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2bBE02ZvZbQ/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 2724,
+          "views": 3027,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ig2wiWLvLBA/hqdefault.jpg",
           "durationSeconds": 772,
           "durationFormatted": "12:52",
-          "views": 1784,
-          "likes": 28,
+          "views": 2065,
+          "likes": 33,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -231,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/HeyjKa0iTa8/hqdefault.jpg",
           "durationSeconds": 694,
           "durationFormatted": "11:34",
-          "views": 1164,
+          "views": 1237,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dXehG2776iY/hqdefault.jpg",
           "durationSeconds": 518,
           "durationFormatted": "08:38",
-          "views": 610,
+          "views": 1200,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -255,10 +255,10 @@
       "latestUpdateAt": "2026-05-10T14:30:09Z"
     },
     {
-      "clusterId": "bhaskar-फरज",
-      "topic": "Bhaskar फर्जी",
+      "clusterId": "bhaskar-मल",
+      "topic": "Bhaskar मिला",
       "videoCount": 10,
-      "trendScore": 43.7,
+      "trendScore": 42.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/x2ozeAQjNmM/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 2489,
-          "likes": 78,
+          "views": 2931,
+          "likes": 94,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lrJuvhAk5kk/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 1974,
-          "likes": 75,
+          "views": 2038,
+          "likes": 76,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/C7gl_Ys830s/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 725,
-          "likes": 19,
+          "views": 911,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,23 +315,23 @@
           "thumbnail": "https://i.ytimg.com/vi/m1hFHJfR35Y/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 665,
-          "likes": 13,
+          "views": 737,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "o1pQOEdlWM0",
-          "title": "चलती सिटी बस में अचानक लगी आG | CG Bhaskar",
-          "description": "चलती सिटी बस में अचानक लगी आG | CG Bhaskar Join our Whatsapp Group ...",
+          "videoId": "vyBZLS6oxuk",
+          "title": "कोरियर बॉय से गुमहुई लाखों की चांदी | CG Bhaskar",
+          "description": "कोरियर बॉय से गुमहुई लाखों की चांदी | CG Bhaskar Join our Whatsapp Group ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-09T17:30:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/o1pQOEdlWM0/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 234,
-          "likes": 8,
+          "publishedAt": "2026-05-10T10:15:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/vyBZLS6oxuk/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 297,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -339,10 +339,64 @@
       "latestUpdateAt": "2026-05-10T15:01:13Z"
     },
     {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 3,
+      "trendScore": 42.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "QLBC-sKmhxY",
+          "title": "पिंकू सिंह ठिकाने पर durg Police की कार्यवाही, चोरी का &quot;लोहा और डी आई ज़ब्त&quot;",
+          "description": "hindinews #viralnews #breakingnews #latestnews #trendingnews #cgnews #indianews #localnews #newsupdate #bhilainews ...",
+          "channelTitle": "JANMAT ",
+          "publishedAt": "2026-05-10T08:56:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/QLBC-sKmhxY/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 92,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "VKaI2fuQ40w",
+          "title": "दुर्ग में UPI से 1.67 लाख की चोरी, घरेलू कर्मचारी निकला शातिर आरोपी",
+          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-10T12:07:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/VKaI2fuQ40w/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 8,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "vrgDrZp36DE",
+          "title": "Durg News: अछोटी के राजा तालाब के पास पुलिस की रेड, बोरी में शराब भरकर बेचता तस्कर गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-10T13:30:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/vrgDrZp36DE/hqdefault.jpg",
+          "durationSeconds": 41,
+          "durationFormatted": "00:41",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-05-10T13:30:42Z"
+    },
+    {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 3,
-      "trendScore": 42.8,
+      "trendScore": 41.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +408,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OL-llZkrH38/hqdefault.jpg",
           "durationSeconds": 564,
           "durationFormatted": "09:24",
-          "views": 3434,
-          "likes": 193,
+          "views": 8002,
+          "likes": 382,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -369,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/abrlBcvXk1A/hqdefault.jpg",
           "durationSeconds": 371,
           "durationFormatted": "06:11",
-          "views": 11,
+          "views": 12,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -384,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/I-q56aUY208/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 6,
+          "views": 8,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -393,10 +447,34 @@
       "latestUpdateAt": "2026-05-10T14:00:40Z"
     },
     {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 30.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "X-4R-1G4rlo",
+          "title": "Jewellery Shop Robbery: ज्वेलरी शॉप में चकमा देकर ऐसे की लाखों की लूट ! | #shorts #viralnews",
+          "description": "सावधान! ज्वेलरी शोरूम में खरीददार बनकर आए बदमाशों ने फिल्मी अंदाज ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-05-10T15:30:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/X-4R-1G4rlo/hqdefault.jpg",
+          "durationSeconds": 40,
+          "durationFormatted": "00:40",
+          "views": 313,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-05-10T15:30:30Z"
+    },
+    {
       "clusterId": "may",
       "topic": "May",
-      "videoCount": 5,
-      "trendScore": 30.4,
+      "videoCount": 4,
+      "trendScore": 30.3,
       "topVideos": [
         {
           "index": 1,
@@ -408,8 +486,8 @@
           "thumbnail": "https://i.ytimg.com/vi/dbH-hikzqUE/hqdefault.jpg",
           "durationSeconds": 1000,
           "durationFormatted": "16:40",
-          "views": 458,
-          "likes": 2,
+          "views": 1611,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -423,7 +501,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lV0Kd0Se25k/hqdefault.jpg",
           "durationSeconds": 237,
           "durationFormatted": "03:57",
-          "views": 15,
+          "views": 17,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
@@ -438,7 +516,7 @@
           "thumbnail": "https://i.ytimg.com/vi/PhWhqoHsEJE/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 8,
+          "views": 12,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -453,22 +531,7 @@
           "thumbnail": "https://i.ytimg.com/vi/CEI00mYdqOs/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "VKaI2fuQ40w",
-          "title": "दुर्ग में UPI से 1.67 लाख की चोरी, घरेलू कर्मचारी निकला शातिर आरोपी",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-10T12:07:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/VKaI2fuQ40w/hqdefault.jpg",
-          "durationSeconds": 63,
-          "durationFormatted": "01:03",
-          "views": 0,
+          "views": 4,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -480,7 +543,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 16.1,
+      "trendScore": 16.9,
       "topVideos": [
         {
           "index": 1,
@@ -492,7 +555,7 @@
           "thumbnail": "https://i.ytimg.com/vi/1kVsphKKPtY/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 2,
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
