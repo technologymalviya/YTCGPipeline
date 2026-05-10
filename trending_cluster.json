@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-10T04:30:03.970652Z",
+  "generatedAt": "2026-05-10T07:12:10.536233Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 64,
-      "trendScore": 60.4,
+      "videoCount": 70,
+      "trendScore": 62.3,
       "topVideos": [
         {
           "index": 1,
@@ -18,43 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2CLZkuztk7w/hqdefault.jpg",
           "durationSeconds": 7,
           "durationFormatted": "00:07",
-          "views": 20372,
-          "likes": 121,
+          "views": 20425,
+          "likes": 124,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "kgFIqC7kTHE",
-          "title": "Tamilnadu New CM Thalapathy Vijay: विजय को मिला 121 MLA का समर्थन। #thalapathyvijay #viralshorts",
-          "description": "IBC24, Tamilnadu New CM Thalapathy Vijay: विजय को मिला 121 MLA का समर्थन। #thalapathyvijay #viralshorts ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T17:57:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/kgFIqC7kTHE/hqdefault.jpg",
-          "durationSeconds": 12,
-          "durationFormatted": "00:12",
-          "views": 16740,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "786A5YYhsB0",
-          "title": "Tamilnadu New CM Thalapathy Vijay: विजय का राज्याभिषेक तय! कल CM पद की शपथ लेंगे थलापति विजय",
-          "description": "IBC24, Tamilnadu New CM Thalapathy Vijay: विजय का राज्याभिषेक तय! कल CM पद की शपथ लेंगे ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T16:49:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/786A5YYhsB0/hqdefault.jpg",
-          "durationSeconds": 83,
-          "durationFormatted": "01:23",
-          "views": 11115,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "F-Zdy3n2XS4",
           "title": "ये गाना सरकार न ही सुने तो अच्छा है | दिव्यांग संजय केवट ने भारी रगड़ दिया | Raipur News |@tirandaj",
           "description": "differentlyabledprotestraipur #artistsanjaykewat #attackongovernmentviasong #raipurnews #tutaprotestsiteraipur ...",
@@ -63,13 +33,28 @@
           "thumbnail": "https://i.ytimg.com/vi/F-Zdy3n2XS4/hqdefault.jpg",
           "durationSeconds": 138,
           "durationFormatted": "02:18",
-          "views": 8843,
-          "likes": 375,
+          "views": 11756,
+          "likes": 491,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 5,
+          "index": 3,
+          "videoId": "URHraStfIas",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-09T23:37:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/URHraStfIas/hqdefault.jpg",
+          "durationSeconds": 898,
+          "durationFormatted": "14:58",
+          "views": 9863,
+          "likes": 398,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
           "videoId": "uQjUbd99YR0",
           "title": "BASTAR&#39;s Viral Dancer Actor LAVANYA DAS | Priyanka Chopra, Jacklin Janvi kapoor shares story Podcast",
           "description": "36garhpodcast Chhattisgarh Podcast Instagram https://www.instagram.com/36garhpodcast/ Facebook ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/uQjUbd99YR0/hqdefault.jpg",
           "durationSeconds": 2909,
           "durationFormatted": "48:29",
-          "views": 7340,
-          "likes": 318,
+          "views": 9396,
+          "likes": 379,
           "videoType": "VOD",
           "genre": "Podcast"
+        },
+        {
+          "index": 5,
+          "videoId": "RoNpRPMeQoQ",
+          "title": "Thalapathy Vijay की शपथ के दौरान भावुक हुए माता-पिता। #cmvijay #tamilnadunewcm #viralshorts",
+          "description": "IBC24, Thalapathy Vijay की शपथ के दौरान भावुक हुए माता-पिता। #cmvijay #tamilnadunewcm ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-10T06:40:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/RoNpRPMeQoQ/hqdefault.jpg",
+          "durationSeconds": 24,
+          "durationFormatted": "00:24",
+          "views": 8702,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-10T03:45:02Z"
+      "latestUpdateAt": "2026-05-10T06:59:25Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 17,
-      "trendScore": 47.5,
+      "videoCount": 16,
+      "trendScore": 47.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/OylLMVgqpVA/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 18105,
-          "likes": 284,
+          "views": 19746,
+          "likes": 306,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/kKGj_XjNfwo/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 1507,
-          "likes": 1,
+          "views": 1636,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,28 +132,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jFzRtWDnZMM/hqdefault.jpg",
           "durationSeconds": 607,
           "durationFormatted": "10:07",
-          "views": 660,
+          "views": 722,
           "likes": 36,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "0-SzUMTnMQg",
-          "title": "Raipur Chakubaji News: रायपुर में फिर चाकूबाजी की वारदात। शराब पीने से रोका..वकील को चाकू घोंपा",
-          "description": "IBC24, Raipur Chakubaji News: रायपुर में फिर चाकूबाजी की वारदात। शराब पीने से ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-09T17:42:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/0-SzUMTnMQg/hqdefault.jpg",
-          "durationSeconds": 165,
-          "durationFormatted": "02:45",
-          "views": 450,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
           "videoId": "ZtC8NPbmUP4",
           "title": "रायपुर पहुंची RCB, कोहली का दिखा अलग अंदाज",
           "description": "रायपुर पहुंची RCB, कोहली का दिखा अलग अंदाज Join our Whatsapp Group ...",
@@ -162,19 +147,34 @@
           "thumbnail": "https://i.ytimg.com/vi/ZtC8NPbmUP4/hqdefault.jpg",
           "durationSeconds": 112,
           "durationFormatted": "01:52",
-          "views": 380,
-          "likes": 18,
+          "views": 425,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "vvuYkfMOnGU",
+          "title": "09 मई, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-05-09T14:03:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/vvuYkfMOnGU/hqdefault.jpg",
+          "durationSeconds": 577,
+          "durationFormatted": "09:37",
+          "views": 280,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-10T03:37:26Z"
+      "latestUpdateAt": "2026-05-10T06:18:20Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 13,
-      "trendScore": 44.0,
+      "trendScore": 43.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V2enYDI5s10/hqdefault.jpg",
           "durationSeconds": 741,
           "durationFormatted": "12:21",
-          "views": 38424,
-          "likes": 640,
+          "views": 41706,
+          "likes": 683,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/khS0BMtLhc0/hqdefault.jpg",
           "durationSeconds": 461,
           "durationFormatted": "07:41",
-          "views": 5239,
+          "views": 5519,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -216,13 +216,28 @@
           "thumbnail": "https://i.ytimg.com/vi/sQdWnLKtwtk/hqdefault.jpg",
           "durationSeconds": 519,
           "durationFormatted": "08:39",
-          "views": 3811,
+          "views": 3996,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
+          "videoId": "2bBE02ZvZbQ",
+          "title": "Simplex कास्टिंग की डायरेक्टर Sangeeta Ketan Shah पर FIR...#scam #shorts #shortsfeed #bhilainews",
+          "description": "Simplex कास्टिंग की डायरेक्टर Sangeeta Ketan Shah पर FIR...#scam #shorts #shortsfeed #bhilainews ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-05-10T02:26:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/2bBE02ZvZbQ/hqdefault.jpg",
+          "durationSeconds": 84,
+          "durationFormatted": "01:24",
+          "views": 1031,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "FH4JH93Zz0g",
           "title": "Bhilai च|कू बाज़ी की सनक,  ने दो लोगों की ह.त्य|..!",
           "description": "hindinews #viralnews #breakingnews #latestnews #newsupdate #trendingnews #cgnews #indianews #localnews #bhilainews ...",
@@ -235,48 +250,18 @@
           "likes": 18,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "2bBE02ZvZbQ",
-          "title": "Simplex कास्टिंग की डायरेक्टर Sangeeta Ketan Shah पर FIR...#scam #shorts #shortsfeed #bhilainews",
-          "description": "Simplex कास्टिंग की डायरेक्टर Sangeeta Ketan Shah पर FIR...#scam #shorts #shortsfeed #bhilainews ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-05-10T02:26:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/2bBE02ZvZbQ/hqdefault.jpg",
-          "durationSeconds": 84,
-          "durationFormatted": "01:24",
-          "views": 458,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-10T03:00:19Z"
+      "latestUpdateAt": "2026-05-10T04:57:45Z"
     },
     {
-      "clusterId": "bhaskar-khursipar",
-      "topic": "Bhaskar Khursipar",
-      "videoCount": 11,
-      "trendScore": 41.2,
+      "clusterId": "bhaskar-mla",
+      "topic": "Bhaskar MLA",
+      "videoCount": 9,
+      "trendScore": 39.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "5e8OFqXEnUg",
-          "title": "Khursipar Case | आपसी विवाद या कुछ और? | 2 लोगों की मौT | Khush | CG Bhaskar",
-          "description": "Khursipar Case | आपसी विवाद या कुछ और? | 2 लोगों की मौT | Khush | CG Bhaskar Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-09T06:54:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/5e8OFqXEnUg/hqdefault.jpg",
-          "durationSeconds": 483,
-          "durationFormatted": "08:03",
-          "views": 2638,
-          "likes": 49,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "iaFDqLlfagc",
           "title": "मनगटा के इस रिसॉर्ट में नाबालिग की मौT से सनसनी | CG Bhaskar",
           "description": "मनगटा के इस रिसॉर्ट में नाबालिग की मौT से सनसनी Join our Whatsapp Group ...",
@@ -285,28 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/iaFDqLlfagc/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 2545,
-          "likes": 76,
+          "views": 2692,
+          "likes": 78,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "COKcEQgzD6E",
-          "title": "Khursipar में आपसी विवाद में 2 लोगों की Hत्या, जानें पूरा मामला  | Khush | CG Bhaskar",
-          "description": "Khursipar में आपसी विवाद में 2 लोगों की Hत्या, जानें पूरा मामला | Khush | CG ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-09T08:02:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/COKcEQgzD6E/hqdefault.jpg",
-          "durationSeconds": 44,
-          "durationFormatted": "00:44",
-          "views": 1906,
-          "likes": 30,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
+          "index": 2,
           "videoId": "lrJuvhAk5kk",
           "title": "6 साल से गायब कपल का जंगल में मिला कंकाल | CG Bhaskar",
           "description": "6 साल से गायब कपल का जंगल में मिला कंकाल | CG Bhaskar Join our Whatsapp Group ...",
@@ -315,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lrJuvhAk5kk/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 896,
-          "likes": 56,
+          "views": 1353,
+          "likes": 65,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "55lkk8C5vr4",
           "title": "नवविवाहितों को MLA रिकेश का ‘सेफ्टी गिफ्ट’ | CG Bhaskar",
           "description": "नवविवाहितों को MLA रिकेश का 'सेफ्टी गिफ्ट' | CG Bhaskar Join our Whatsapp Group ...",
@@ -330,19 +300,118 @@
           "thumbnail": "https://i.ytimg.com/vi/55lkk8C5vr4/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 513,
+          "views": 521,
           "likes": 15,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "m0SUNnzgbgY",
+          "title": "Bilaspur में फैंसी स्टोर में भयंकर आGजनी, लाखों का सामान जलकर राख | CG Bhaskar",
+          "description": "Bilaspur में फैंसी स्टोर में भयंकर आGजनी, लाखों का सामान जलकर राख Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-09T11:47:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/m0SUNnzgbgY/hqdefault.jpg",
+          "durationSeconds": 236,
+          "durationFormatted": "03:56",
+          "views": 293,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "DkYbv77narU",
+          "title": "Digital Arrest का जाल: महिला से 1 करोड़ की ठगी! | CG Bhaskar",
+          "description": "Digital Arrest का जाल: महिला से 1 करोड़ की ठगी! Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-09T15:30:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/DkYbv77narU/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 256,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-05-10T03:30:07Z"
     },
     {
+      "clusterId": "weather-cgnews",
+      "topic": "Weather cgnews",
+      "videoCount": 4,
+      "trendScore": 31.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "q0i3u6wh25Q",
+          "title": "CG Weather Update: छत्तीसगढ़ में भारी बारिश का अलर्ट! #cgnews #cgweathernews #viralshorts",
+          "description": "IBC24, CG Weather Update: छत्तीसगढ़ में भारी बारिश का अलर्ट! #cgnews #cgweathernews ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-09T18:58:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/q0i3u6wh25Q/hqdefault.jpg",
+          "durationSeconds": 12,
+          "durationFormatted": "00:12",
+          "views": 6017,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "1ycrYq8rlyI",
+          "title": "छत्तीसगढ़: मौसम का बड़ा बदलाव, कई जिलों में बारिश और आंधी का अलर्ट जारी",
+          "description": "रायपुर: प्रदेश के कई जिलों में बदलेगा मौसम मौसम विभाग ने जारी किया ...",
+          "channelTitle": "Bansal News MPCG",
+          "publishedAt": "2026-05-09T13:25:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/1ycrYq8rlyI/hqdefault.jpg",
+          "durationSeconds": 110,
+          "durationFormatted": "01:50",
+          "views": 278,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "-YbupfD02do",
+          "title": "CG Weather Update: छत्तीसगढ़ म बिहनिया घाम..मंझनिया झमाझम बारिस। 4 दिन बर मौसम विभाग जारी करिस अलर्ट",
+          "description": "IBC24, CG Weather Update: छत्तीसगढ़ म बिहनिया घाम..मंझनिया झमाझम बारिस। 4 दिन ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-10T06:00:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/-YbupfD02do/hqdefault.jpg",
+          "durationSeconds": 66,
+          "durationFormatted": "01:06",
+          "views": 110,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "ybQo5WTFWjU",
+          "title": "आलीराजपुर के कई गांवों में अलर्ट, प्रशासन ने जारी की चेतावनी",
+          "description": "आलीराजपुर जिले के जोबट क्षेत्र के ग्राम चमार बेगड़ा में तेंदुआ ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-05-10T06:23:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/ybQo5WTFWjU/hqdefault.jpg",
+          "durationSeconds": 48,
+          "durationFormatted": "00:48",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-05-10T06:23:49Z"
+    },
+    {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 8,
-      "trendScore": 33.1,
+      "videoCount": 5,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -354,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NkqSmr5qWCo/hqdefault.jpg",
           "durationSeconds": 40,
           "durationFormatted": "00:40",
-          "views": 1960,
+          "views": 1954,
           "likes": 43,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cjHC0KGEsQo/hqdefault.jpg",
           "durationSeconds": 42,
           "durationFormatted": "00:42",
-          "views": 22,
+          "views": 29,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,7 +453,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xrYYjbcikJ8/hqdefault.jpg",
           "durationSeconds": 166,
           "durationFormatted": "02:46",
-          "views": 15,
+          "views": 16,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -399,22 +468,22 @@
           "thumbnail": "https://i.ytimg.com/vi/K-6wp-1Kbfg/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 11,
+          "views": 15,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "Y2uN02gidQg",
-          "title": "राजनांदगांव: 13 पंचायतों के ग्रामीणों को मिली बड़ी राहत जनसमस्या निवारण शिविर में मौके पर हुआ समाधान",
-          "description": "chhattisgarhnews #madhyapradehnews #TodayNews .",
+          "videoId": "ZPs96ycoeok",
+          "title": "राजनांदगांव PDS राशन वितरण की अंतिम तिथि बढ़ी, अब 15 मई तक मिलेगा 3 माह का अनाज",
+          "description": "chhattisgarhnews #rajnandgaon #pds ........................................................................................................................................... India Town ...",
           "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-09T11:40:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/Y2uN02gidQg/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 8,
+          "publishedAt": "2026-05-09T14:16:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZPs96ycoeok/hqdefault.jpg",
+          "durationSeconds": 57,
+          "durationFormatted": "00:57",
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -426,7 +495,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 9,
-      "trendScore": 31.1,
+      "trendScore": 29.3,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +507,7 @@
           "thumbnail": "https://i.ytimg.com/vi/GiAz4ccGXBA/hqdefault.jpg",
           "durationSeconds": 1513,
           "durationFormatted": "25:13",
-          "views": 212,
+          "views": 262,
           "likes": 8,
           "videoType": "VOD",
           "genre": "Politics"
@@ -453,43 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/B1gA0YjNcWI/hqdefault.jpg",
           "durationSeconds": 45,
           "durationFormatted": "00:45",
-          "views": 68,
+          "views": 163,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 3,
-          "videoId": "Xf31f8uKGBs",
-          "title": "दुर्ग में पुलिस का नाइट रैपिड एक्शन  6 चौकों पर चेकिंग, 13 अड्डेबाजों पर कार्रवाई",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-09T13:12:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/Xf31f8uKGBs/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 8,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "OwpdoZs9hdA",
-          "title": "Durg News: धार्मिक टिप्पणी को लेकर नगर निगम कार्यालय में तनाव |",
-          "description": "छत्तीसगढ़ के Durg नगर निगम कार्यालय में उस समय तनाव फैल गया जब निगम ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-05-09T10:22:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/OwpdoZs9hdA/hqdefault.jpg",
-          "durationSeconds": 181,
-          "durationFormatted": "03:01",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 5,
           "videoId": "MY5QfPfXi74",
           "title": "दुर्ग के ढौर गांव में सुशासन तिहार,  जनता ने विधायक के सामने रखीं समस्याएं",
           "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
@@ -498,37 +537,43 @@
           "thumbnail": "https://i.ytimg.com/vi/MY5QfPfXi74/hqdefault.jpg",
           "durationSeconds": 151,
           "durationFormatted": "02:31",
-          "views": 6,
+          "views": 42,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-05-09T15:30:07Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 15.0,
-      "topVideos": [
+        },
         {
-          "index": 1,
-          "videoId": "UbuTeZ1Iw7w",
-          "title": "बोली ठोली आज मिलव छत्तीसगढ़ के पहले ट्रैवल ब्लॉगर दीपक पटेल ले । BOLI THOLI BANSAL NEWS PROGRAM",
-          "description": "छत्तीसगढ़ी म खास कार्यक्रम बोली ठोली, बोली ठोली म पिरीत हे, नता हे अउ ...",
-          "channelTitle": "Bansal News MPCG",
-          "publishedAt": "2026-05-09T11:36:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/UbuTeZ1Iw7w/hqdefault.jpg",
-          "durationSeconds": 1627,
-          "durationFormatted": "27:07",
-          "views": 49,
+          "index": 4,
+          "videoId": "Ait6N6WvL_Q",
+          "title": "दुर्ग में ज्वेलरी शॉप पर ठगी का मामला पुलिस ने रेलवे स्टेशन से दबोचे आरोपी",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-09T13:11:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ait6N6WvL_Q/hqdefault.jpg",
+          "durationSeconds": 78,
+          "durationFormatted": "01:18",
+          "views": 20,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 5,
+          "videoId": "LYKC2nTHfdw",
+          "title": "दुर्ग में ऑपरेशन तलाश की बड़ी सफलता  683 गुमशुदा सुरक्षित मिले",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-09T13:12:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/LYKC2nTHfdw/hqdefault.jpg",
+          "durationSeconds": 79,
+          "durationFormatted": "01:19",
+          "views": 19,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-09T11:36:06Z"
+      "latestUpdateAt": "2026-05-09T15:30:07Z"
     }
   ]
 }
