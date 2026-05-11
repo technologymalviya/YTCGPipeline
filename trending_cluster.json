@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-11T17:07:43.851824Z",
-  "clusterCount": 8,
+  "generatedAt": "2026-05-11T20:11:26.357973Z",
+  "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 52,
-      "trendScore": 63.9,
+      "videoCount": 49,
+      "trendScore": 63.0,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CbRwwECCtB8/hqdefault.jpg",
           "durationSeconds": 1640,
           "durationFormatted": "27:20",
-          "views": 27049,
-          "likes": 320,
+          "views": 29172,
+          "likes": 322,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/I4UvEVrANIo/hqdefault.jpg",
           "durationSeconds": 34,
           "durationFormatted": "00:34",
-          "views": 21548,
-          "likes": 323,
+          "views": 21973,
+          "likes": 327,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lixPNyujjDI/hqdefault.jpg",
           "durationSeconds": 134,
           "durationFormatted": "02:14",
-          "views": 14075,
-          "likes": 469,
+          "views": 20989,
+          "likes": 543,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "e_1L2BC9B4Q",
-          "title": "दांतों से छाल खुरचकर निकालता है प्राकृतिक औषधि । जंगल की हर छाल में छिपा है एक रहस्य। @tirandaj",
-          "description": "Tanzania #JungleSafari #TribalLife #NaturalMedicine #Wildlife #AfricanTribe #NatureHealing #Adventure तंजानिया के ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-05-10T17:24:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/e_1L2BC9B4Q/hqdefault.jpg",
-          "durationSeconds": 21,
-          "durationFormatted": "00:21",
-          "views": 12140,
-          "likes": 83,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "6cf2f6DgWtM",
           "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
           "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/6cf2f6DgWtM/hqdefault.jpg",
           "durationSeconds": 828,
           "durationFormatted": "13:48",
-          "views": 11915,
-          "likes": 408,
+          "views": 12477,
+          "likes": 409,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "ld-02FGX-kQ",
+          "title": "Vijay Thalapathy Oath Ceremony: Tamil Nadu में अब &#39;विजय&#39; सरकार। 9वें मुख्यमंत्री बने विजय | TVK",
+          "description": "IBC24, Vijay Thalapathy Oath Ceremony: Tamil Nadu में अब 'विजय' सरकार। 9वें मुख्यमंत्री ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-05-11T19:12:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/ld-02FGX-kQ/hqdefault.jpg",
+          "durationSeconds": 42901,
+          "durationFormatted": "11:55:01",
+          "views": 11994,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-05-11T17:01:02Z"
+      "latestUpdateAt": "2026-05-11T19:12:14Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 20,
-      "trendScore": 58.9,
+      "videoCount": 23,
+      "trendScore": 59.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/1L2y_n9zLn8/hqdefault.jpg",
           "durationSeconds": 115,
           "durationFormatted": "01:55",
-          "views": 21472,
-          "likes": 808,
+          "views": 41760,
+          "likes": 958,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6UuZXEujteo/hqdefault.jpg",
           "durationSeconds": 573,
           "durationFormatted": "09:33",
-          "views": 8400,
-          "likes": 341,
+          "views": 8962,
+          "likes": 347,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/2aljQZ3XmGQ/hqdefault.jpg",
           "durationSeconds": 130,
           "durationFormatted": "02:10",
-          "views": 2035,
-          "likes": 56,
+          "views": 3571,
+          "likes": 69,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/tM-OGybag-0/hqdefault.jpg",
           "durationSeconds": 72,
           "durationFormatted": "01:12",
-          "views": 1170,
-          "likes": 34,
+          "views": 1752,
+          "likes": 46,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/5Btbs0RmlvA/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 663,
-          "likes": 8,
+          "views": 794,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-11T17:05:02Z"
+      "latestUpdateAt": "2026-05-11T18:57:51Z"
     },
     {
       "clusterId": "bhaskar-dps",
       "topic": "Bhaskar DPS",
       "videoCount": 11,
-      "trendScore": 43.8,
+      "trendScore": 42.2,
       "topVideos": [
         {
           "index": 1,
@@ -186,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/j5etbQa5gpE/hqdefault.jpg",
           "durationSeconds": 165,
           "durationFormatted": "02:45",
-          "views": 5690,
+          "views": 7131,
           "likes": 35,
           "videoType": "VOD",
           "genre": "Politics"
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/RrRxyxZzzFc/hqdefault.jpg",
           "durationSeconds": 31,
           "durationFormatted": "00:31",
-          "views": 2287,
-          "likes": 63,
+          "views": 3194,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6ZZ7qwe9xas/hqdefault.jpg",
           "durationSeconds": 135,
           "durationFormatted": "02:15",
-          "views": 1139,
-          "likes": 35,
+          "views": 1352,
+          "likes": 45,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/v6KqAdnwSGI/hqdefault.jpg",
           "durationSeconds": 48,
           "durationFormatted": "00:48",
-          "views": 914,
-          "likes": 27,
+          "views": 1112,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -246,7 +246,7 @@
           "thumbnail": "https://i.ytimg.com/vi/pgKa6x0bq40/hqdefault.jpg",
           "durationSeconds": 803,
           "durationFormatted": "13:23",
-          "views": 501,
+          "views": 665,
           "likes": 14,
           "videoType": "VOD",
           "genre": "Politics"
@@ -258,7 +258,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 7,
-      "trendScore": 42.7,
+      "trendScore": 39.8,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qDg-9Kdj67w/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 4274,
-          "likes": 174,
+          "views": 8243,
+          "likes": 237,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5PwhH6abR78/hqdefault.jpg",
           "durationSeconds": 385,
           "durationFormatted": "06:25",
-          "views": 429,
-          "likes": 20,
+          "views": 792,
+          "likes": 22,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,13 +300,28 @@
           "thumbnail": "https://i.ytimg.com/vi/FqYYRklqyY0/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 9,
+          "views": 10,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "ZOySEVbzakM",
+          "title": "DURG |  नंदिनी नगर पुलिस की बड़ी कार्रवाई ,अवैध शराब विक्रेता गिरफ्तार |",
+          "description": "chhattisgarhnews #durgnews #crimenews ........................................................................................................................................... India ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-11T13:45:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZOySEVbzakM/hqdefault.jpg",
+          "durationSeconds": 51,
+          "durationFormatted": "00:51",
+          "views": 6,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "saM5VNPxFGk",
           "title": "Durg News | दुर्ग में पुलिस की बड़ी स्ट्राइक | खुर्सीपार और देवार बस्ती में सघन चेकिंग |",
           "description": "chhattisgarhnews #durgnews #policechecking ........................................................................................................................................... India ...",
@@ -319,132 +334,18 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "ZOySEVbzakM",
-          "title": "DURG |  नंदिनी नगर पुलिस की बड़ी कार्रवाई ,अवैध शराब विक्रेता गिरफ्तार |",
-          "description": "chhattisgarhnews #durgnews #crimenews ........................................................................................................................................... India ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-11T13:45:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZOySEVbzakM/hqdefault.jpg",
-          "durationSeconds": 51,
-          "durationFormatted": "00:51",
-          "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-05-11T14:30:46Z"
     },
     {
-      "clusterId": "location-rajnandgaon",
-      "topic": "Rajnandgaon",
-      "videoCount": 6,
-      "trendScore": 41.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "wqYD5AnZxPs",
-          "title": "Rajnandgaon: शिव महापुराण आयोजन विवाद खत्म , समिति और पक्ष में बनी सहमति",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-11T12:54:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/wqYD5AnZxPs/hqdefault.jpg",
-          "durationSeconds": 203,
-          "durationFormatted": "03:23",
-          "views": 69,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "w4w2XSOYTCc",
-          "title": "Rajnandgaon News: रेलवे स्टेशन के बाहर प्याऊ घर की शुरुआत,भीषण गर्मी में यात्रियों को मिलेगा ठंडा जल",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-11T14:23:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/w4w2XSOYTCc/hqdefault.jpg",
-          "durationSeconds": 245,
-          "durationFormatted": "04:05",
-          "views": 8,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "P2lD7M1bsFk",
-          "title": "Rajnandgaon: ABVP ने डॉ. रमन सिंह को सौंपा ज्ञापन , प्राचार्य हटाने की मांग",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-11T12:51:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/P2lD7M1bsFk/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 7,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "EqEmUTuf-Lg",
-          "title": "राजनांदगांव Weather Update बंगाल की खाड़ी में लो प्रेशर एक्टिव ,जिले में फिर बारिश के आसार",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-11T12:52:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/EqEmUTuf-Lg/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "xJoh47x5XgQ",
-          "title": "Rajnandgaon: रेलवे निर्माण कार्य बना मुसीबत , वेटिंग टिकट पर सफर को मजबूर लोग",
-          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-11T12:53:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/xJoh47x5XgQ/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        }
-      ],
-      "latestUpdateAt": "2026-05-11T14:23:28Z"
-    },
-    {
       "clusterId": "nursing-training",
       "topic": "Nursing Training",
       "videoCount": 6,
-      "trendScore": 40.3,
+      "trendScore": 39.3,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "avDyI9WgCdg",
-          "title": "बालोद के 8 प्राचार्य सस्पेंड, 14 का इंक्रीमेंट रोका...",
-          "description": "बालोद के 8 प्राचार्य सस्पेंड, 14 का इंक्रीमेंट रोका... Join this channel to get access ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-11T04:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/avDyI9WgCdg/hqdefault.jpg",
-          "durationSeconds": 135,
-          "durationFormatted": "02:15",
-          "views": 29048,
-          "likes": 544,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "iuexmOGjHR0",
           "title": "Nursing Training के नाम पर बड़ा खेल! CG की 35 लड़कियां गायब",
           "description": "Nursing Training के नाम पर बड़ा खेल! CG की 35 लड़कियां गायब Join this channel to get access to the ...",
@@ -453,8 +354,23 @@
           "thumbnail": "https://i.ytimg.com/vi/iuexmOGjHR0/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 28093,
-          "likes": 545,
+          "views": 31959,
+          "likes": 582,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "avDyI9WgCdg",
+          "title": "बालोद के 8 प्राचार्य सस्पेंड, 14 का इंक्रीमेंट रोका...",
+          "description": "बालोद के 8 प्राचार्य सस्पेंड, 14 का इंक्रीमेंट रोका... Join this channel to get access ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-11T04:30:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/avDyI9WgCdg/hqdefault.jpg",
+          "durationSeconds": 135,
+          "durationFormatted": "02:15",
+          "views": 29513,
+          "likes": 547,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -468,25 +384,25 @@
           "thumbnail": "https://i.ytimg.com/vi/m0MRFwdDc7Q/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 9707,
-          "likes": 200,
+          "views": 10743,
+          "likes": 208,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
           "index": 4,
-          "videoId": "FxW18J66QHM",
-          "title": "लहर मारे लहर बुंदिया: जानिए इस सुपरहिट गीत की दिलचस्प कहानी...",
-          "description": "लहर मारे लहर बुंदिया: जानिए इस सुपरहिट गीत की दिलचस्प कहानी... Join this ...",
+          "videoId": "RvhVoML3_Ec",
+          "title": "गुपचुप खाने के बाद 25 लोग अस्पताल में भर्ती...",
+          "description": "गुपचुप खाने के बाद 25 लोग अस्पताल में भर्ती... Join this channel to get access to the perks: ...",
           "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-11T02:30:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/FxW18J66QHM/hqdefault.jpg",
-          "durationSeconds": 148,
-          "durationFormatted": "02:28",
-          "views": 2788,
-          "likes": 54,
+          "publishedAt": "2026-05-11T16:30:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/RvhVoML3_Ec/hqdefault.jpg",
+          "durationSeconds": 90,
+          "durationFormatted": "01:30",
+          "views": 9279,
+          "likes": 293,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Jobs"
         },
         {
           "index": 5,
@@ -498,8 +414,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5-uaE5mqOhM/hqdefault.jpg",
           "durationSeconds": 90,
           "durationFormatted": "01:30",
-          "views": 2534,
-          "likes": 90,
+          "views": 2936,
+          "likes": 100,
           "videoType": "VOD",
           "genre": "Events"
         }
@@ -507,10 +423,94 @@
       "latestUpdateAt": "2026-05-11T16:30:24Z"
     },
     {
+      "clusterId": "location-rajnandgaon",
+      "topic": "Rajnandgaon",
+      "videoCount": 6,
+      "trendScore": 37.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "wqYD5AnZxPs",
+          "title": "Rajnandgaon: शिव महापुराण आयोजन विवाद खत्म , समिति और पक्ष में बनी सहमति",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-11T12:54:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/wqYD5AnZxPs/hqdefault.jpg",
+          "durationSeconds": 203,
+          "durationFormatted": "03:23",
+          "views": 114,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "w4w2XSOYTCc",
+          "title": "Rajnandgaon News: रेलवे स्टेशन के बाहर प्याऊ घर की शुरुआत,भीषण गर्मी में यात्रियों को मिलेगा ठंडा जल",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-11T14:23:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/w4w2XSOYTCc/hqdefault.jpg",
+          "durationSeconds": 245,
+          "durationFormatted": "04:05",
+          "views": 17,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "EqEmUTuf-Lg",
+          "title": "राजनांदगांव Weather Update बंगाल की खाड़ी में लो प्रेशर एक्टिव ,जिले में फिर बारिश के आसार",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-11T12:52:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/EqEmUTuf-Lg/hqdefault.jpg",
+          "durationSeconds": 52,
+          "durationFormatted": "00:52",
+          "views": 10,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "P2lD7M1bsFk",
+          "title": "Rajnandgaon: ABVP ने डॉ. रमन सिंह को सौंपा ज्ञापन , प्राचार्य हटाने की मांग",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-11T12:51:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/P2lD7M1bsFk/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 8,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "xJoh47x5XgQ",
+          "title": "Rajnandgaon: रेलवे निर्माण कार्य बना मुसीबत , वेटिंग टिकट पर सफर को मजबूर लोग",
+          "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-11T12:53:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/xJoh47x5XgQ/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 4,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        }
+      ],
+      "latestUpdateAt": "2026-05-11T14:23:28Z"
+    },
+    {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 10,
-      "trendScore": 36.9,
+      "trendScore": 35.7,
       "topVideos": [
         {
           "index": 1,
@@ -522,43 +522,13 @@
           "thumbnail": "https://i.ytimg.com/vi/RkWiY6po1dI/hqdefault.jpg",
           "durationSeconds": 368,
           "durationFormatted": "06:08",
-          "views": 1297,
+          "views": 1514,
           "likes": 11,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "_FMaNsFFU70",
-          "title": "Bhilai में नशा और‌ मामूली विवाद, छोटे भाई ने फावड़े से बड़े भाई की ले ली जIन || KP NEWS || Faizan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-05-11T13:24:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/_FMaNsFFU70/hqdefault.jpg",
-          "durationSeconds": 345,
-          "durationFormatted": "05:45",
-          "views": 511,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "9rRZdcm2Wic",
-          "title": "Bhilai में नलों से गंदा पानी, पीलिया का कहर! Nagar Nigam पर फूटा AAP का गुस्सा | KP NEWS |Janvi Sahu",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-05-11T10:02:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/9rRZdcm2Wic/hqdefault.jpg",
-          "durationSeconds": 595,
-          "durationFormatted": "09:55",
-          "views": 293,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "VE2Vv_qyEPw",
           "title": "Bhilai के Amrapali में चोर मचा रहा शोर...Durg Police लगा रही ज़ोर | Seemant Kashyap | KP News ",
           "description": "",
@@ -567,7 +537,37 @@
           "thumbnail": "https://i.ytimg.com/vi/VE2Vv_qyEPw/hqdefault.jpg",
           "durationSeconds": 334,
           "durationFormatted": "05:34",
-          "views": 240,
+          "views": 1132,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "_FMaNsFFU70",
+          "title": "Bhilai में नशा और‌ मामूली विवाद, छोटे भाई ने फावड़े से बड़े भाई की ले ली जIन || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-05-11T13:24:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/_FMaNsFFU70/hqdefault.jpg",
+          "durationSeconds": 345,
+          "durationFormatted": "05:45",
+          "views": 749,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "9rRZdcm2Wic",
+          "title": "Bhilai में नलों से गंदा पानी, पीलिया का कहर! Nagar Nigam पर फूटा AAP का गुस्सा | KP NEWS |Janvi Sahu",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-05-11T10:02:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/9rRZdcm2Wic/hqdefault.jpg",
+          "durationSeconds": 595,
+          "durationFormatted": "09:55",
+          "views": 307,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -582,8 +582,8 @@
           "thumbnail": "https://i.ytimg.com/vi/B83BvcMV1hY/hqdefault.jpg",
           "durationSeconds": 702,
           "durationFormatted": "11:42",
-          "views": 28,
-          "likes": 4,
+          "views": 61,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "Civic"
         }
@@ -594,7 +594,7 @@
       "clusterId": "xpress-फरज",
       "topic": "Xpress फर्जी",
       "videoCount": 7,
-      "trendScore": 36.7,
+      "trendScore": 34.7,
       "topVideos": [
         {
           "index": 1,
@@ -606,7 +606,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fHTApNyvdFg/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 516,
+          "views": 675,
           "likes": 7,
           "videoType": "VOD",
           "genre": "General"
@@ -621,13 +621,28 @@
           "thumbnail": "https://i.ytimg.com/vi/-H1nXgSCILw/hqdefault.jpg",
           "durationSeconds": 93,
           "durationFormatted": "01:33",
-          "views": 375,
+          "views": 410,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
+          "videoId": "jwxWKOwhOyk",
+          "title": "सूरजपुर - हत्या करने वाले भाई भाभी गिरफ्तारChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-11T11:55:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/jwxWKOwhOyk/hqdefault.jpg",
+          "durationSeconds": 82,
+          "durationFormatted": "01:22",
+          "views": 155,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
           "videoId": "Vvda0g8lOig",
           "title": "जांजगीर चांपा - फर्जी दस्तावेज के आधार पर नौकरीChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -642,37 +657,46 @@
           "genre": "Civic"
         },
         {
-          "index": 4,
-          "videoId": "jwxWKOwhOyk",
-          "title": "सूरजपुर - हत्या करने वाले भाई भाभी गिरफ्तारChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-11T11:55:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/jwxWKOwhOyk/hqdefault.jpg",
-          "durationSeconds": 82,
-          "durationFormatted": "01:22",
-          "views": 128,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
           "index": 5,
-          "videoId": "KncPsDFACEA",
-          "title": "सूरजपुर - जुआ खेलते रंगे हाथों पकड़ाए 5 जुआरीChhattisgarh Xpress News",
+          "videoId": "kBG44v96-SQ",
+          "title": "खरोरा - स्वामी आत्मानंद स्कूल में प्रवेश के लिए लॉटरी प्रक्रिया पूराChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
           "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-11T13:23:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/KncPsDFACEA/hqdefault.jpg",
-          "durationSeconds": 63,
-          "durationFormatted": "01:03",
-          "views": 52,
-          "likes": 4,
+          "publishedAt": "2026-05-11T14:05:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/kBG44v96-SQ/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 86,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-05-11T14:44:27Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 16.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "zB8CbnddnM4",
+          "title": "Mamata Banerjee के भतीजे TMC सांसद Abhishek Banerjee को HC से राहत | गिरफ्तारी वारंट पर लगाई रोक",
+          "description": "Mamata Banerjee के भतीजे TMC सांसद Abhishek Banerjee को HC से राहत | गिरफ्तारी वारंट ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-05-11T17:48:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/zB8CbnddnM4/hqdefault.jpg",
+          "durationSeconds": 54,
+          "durationFormatted": "00:54",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-05-11T17:48:16Z"
     }
   ]
 }
