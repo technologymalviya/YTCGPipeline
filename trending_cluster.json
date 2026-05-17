@@ -1,60 +1,15 @@
 {
-  "generatedAt": "2026-05-16T19:37:56.015766Z",
+  "generatedAt": "2026-05-17T04:36:53.103944Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 56,
-      "trendScore": 62.3,
+      "videoCount": 54,
+      "trendScore": 59.9,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "KyoB4zqzyn8",
-          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
-          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
-          "channelTitle": "Dainik Chhattisgarh",
-          "publishedAt": "2026-05-15T22:58:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/KyoB4zqzyn8/hqdefault.jpg",
-          "durationSeconds": 935,
-          "durationFormatted": "15:35",
-          "views": 19324,
-          "likes": 529,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "kJWI6Men6YA",
-          "title": "16 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "16 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-05-15T23:33:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/kJWI6Men6YA/hqdefault.jpg",
-          "durationSeconds": 1674,
-          "durationFormatted": "27:54",
-          "views": 14865,
-          "likes": 241,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "N37EiD2-VnU",
-          "title": "16  May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai ",
-          "description": "16 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-05-15T23:24:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/N37EiD2-VnU/hqdefault.jpg",
-          "durationSeconds": 738,
-          "durationFormatted": "12:18",
-          "views": 11217,
-          "likes": 144,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
           "videoId": "7BhH82XyccY",
           "title": "Raipur News || डीजल ऑटो वालों का दर्द, ई-रिक्शा वालों की चांदी!",
           "description": "RaipurNews #ERickshaw #AutoWale #ChhattisgarhNews #GroundReport #DieselAuto #viralnewstoday.",
@@ -63,13 +18,43 @@
           "thumbnail": "https://i.ytimg.com/vi/7BhH82XyccY/hqdefault.jpg",
           "durationSeconds": 723,
           "durationFormatted": "12:03",
-          "views": 3498,
-          "likes": 88,
+          "views": 5034,
+          "likes": 112,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 2,
+          "videoId": "fJLtqR3w06M",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-05-16T23:00:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/fJLtqR3w06M/hqdefault.jpg",
+          "durationSeconds": 871,
+          "durationFormatted": "14:31",
+          "views": 5001,
+          "likes": 328,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "DHDVW3fD0o8",
+          "title": "17 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai",
+          "description": "17 May 2026 CG News Today | Chhattisgarh Breaking News | CG Fatafat News | CM Vishnu Deo Sai #ChhattisgarhNews ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-05-16T23:30:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/DHDVW3fD0o8/hqdefault.jpg",
+          "durationSeconds": 1664,
+          "durationFormatted": "27:44",
+          "views": 4409,
+          "likes": 149,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
           "videoId": "flWb7renvPE",
           "title": "जनसमस्या को जानने E-रिक्शा में घूम रहे मंत्री जी! | CG Bhaskar",
           "description": "जनसमस्या को जानने E-रिक्शा में घूम रहे मंत्री जी! Join our Whatsapp Group ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/flWb7renvPE/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 3278,
-          "likes": 18,
+          "views": 3322,
+          "likes": 20,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "_xU7rWBjL7g",
+          "title": "विदेश में नौकरी चाहिए तो ये वीडियो देख लो | विदेश में जॉब का आसान और सुरक्षित तरीका |@tirandaj",
+          "description": "jobsabroad #howtogetoverseasjob #goingabroadpath #howtosecureoverseasjob #lifestyle #विदेशमेंजॉब ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-05-16T08:49:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/_xU7rWBjL7g/hqdefault.jpg",
+          "durationSeconds": 168,
+          "durationFormatted": "02:48",
+          "views": 2540,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Jobs"
         }
       ],
-      "latestUpdateAt": "2026-05-16T18:54:51Z"
+      "latestUpdateAt": "2026-05-17T04:31:56Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 16,
-      "trendScore": 46.7,
+      "videoCount": 18,
+      "trendScore": 46.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,7 +102,7 @@
           "thumbnail": "https://i.ytimg.com/vi/0TIhPWjncQM/hqdefault.jpg",
           "durationSeconds": 14953,
           "durationFormatted": "04:09:13",
-          "views": 6700,
+          "views": 9749,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/PiruxglQZa4/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 777,
-          "likes": 12,
+          "views": 875,
+          "likes": 13,
           "videoType": "VOD",
           "genre": "Civic"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n42KxSIJ5J0/hqdefault.jpg",
           "durationSeconds": 635,
           "durationFormatted": "10:35",
-          "views": 489,
-          "likes": 27,
+          "views": 703,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ezeep-33QA4/hqdefault.jpg",
           "durationSeconds": 589,
           "durationFormatted": "09:49",
-          "views": 445,
-          "likes": 24,
+          "views": 547,
+          "likes": 28,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,19 +162,19 @@
           "thumbnail": "https://i.ytimg.com/vi/BGvv4xNGmXg/hqdefault.jpg",
           "durationSeconds": 75,
           "durationFormatted": "01:15",
-          "views": 377,
-          "likes": 25,
+          "views": 499,
+          "likes": 31,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-16T19:08:26Z"
+      "latestUpdateAt": "2026-05-17T03:44:56Z"
     },
     {
       "clusterId": "bhaskar-sbi",
       "topic": "Bhaskar SBI",
       "videoCount": 10,
-      "trendScore": 43.9,
+      "trendScore": 41.1,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/VfQAmR-negQ/hqdefault.jpg",
           "durationSeconds": 65,
           "durationFormatted": "01:05",
-          "views": 2525,
-          "likes": 106,
+          "views": 4816,
+          "likes": 182,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/_HJggW6kr5s/hqdefault.jpg",
           "durationSeconds": 87,
           "durationFormatted": "01:27",
-          "views": 1624,
-          "likes": 69,
+          "views": 1956,
+          "likes": 83,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/9dlJr40fQSc/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 1606,
-          "likes": 53,
+          "views": 1718,
+          "likes": 72,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GZ_ZltnzA2s/hqdefault.jpg",
           "durationSeconds": 56,
           "durationFormatted": "00:56",
-          "views": 1227,
-          "likes": 32,
+          "views": 1579,
+          "likes": 49,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -246,8 +246,8 @@
           "thumbnail": "https://i.ytimg.com/vi/o6sqC-0ZnEU/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 834,
-          "likes": 21,
+          "views": 877,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -258,7 +258,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 5,
-      "trendScore": 42.3,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/nm3g2HynlMQ/hqdefault.jpg",
           "durationSeconds": 60,
           "durationFormatted": "01:00",
-          "views": 3155,
-          "likes": 179,
+          "views": 17114,
+          "likes": 653,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -285,28 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/DNWEUTbSuIQ/hqdefault.jpg",
           "durationSeconds": 551,
           "durationFormatted": "09:11",
-          "views": 180,
+          "views": 228,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "f-38oAOgyxI",
-          "title": "Bhilai News: थानों में जमा 65 लाख की अवैध शराब पर चला बुलडोजर, 15 हजार लीटर मदिरा नष्ट",
-          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-16T14:41:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/f-38oAOgyxI/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 12,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "aShDTYRcdG8",
           "title": "भिलाई में रवीन्द्र जयंती का भव्य आयोजन , श्यामा नृत्य-नाटिका होगी आकर्षण",
           "description": "chhattisgarhnews #bhilainews #celebration ........................................................................................................................................... India ...",
@@ -315,10 +300,25 @@
           "thumbnail": "https://i.ytimg.com/vi/aShDTYRcdG8/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 6,
+          "views": 17,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "f-38oAOgyxI",
+          "title": "Bhilai News: थानों में जमा 65 लाख की अवैध शराब पर चला बुलडोजर, 15 हजार लीटर मदिरा नष्ट",
+          "description": "chhattisgarhnews #madhyapradehnews #bhilainews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-16T14:41:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/f-38oAOgyxI/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 16,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -330,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lZsSXpaOQlQ/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 4,
+          "views": 5,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -339,94 +339,34 @@
       "latestUpdateAt": "2026-05-16T17:30:11Z"
     },
     {
-      "clusterId": "xpress-रयगढ",
-      "topic": "Xpress रायगढ़",
-      "videoCount": 6,
-      "trendScore": 34.7,
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 37.4,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "4Qvw_R8wx4o",
-          "title": "रायगढ़ - इंस्टाग्राम में दोस्ती फिर भेजा अश्लील वीडियोChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-16T08:09:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/4Qvw_R8wx4o/hqdefault.jpg",
-          "durationSeconds": 57,
-          "durationFormatted": "00:57",
-          "views": 799,
-          "likes": 17,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "RZ3P7UkeoJ4",
-          "title": "रायगढ़ - पेट्रोल डीजल की कमी को लेकर अधिकारियों का क्या है कहना देखें वीडियोChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-16T06:49:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/RZ3P7UkeoJ4/hqdefault.jpg",
-          "durationSeconds": 503,
-          "durationFormatted": "08:23",
-          "views": 313,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "1Tpl_jddnLc",
-          "title": "महासमुंद - जरूरत के हिसाब से नहीं मिल रही है पेट्रोल, डीजलChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे #महासमुंद #PetrolDieselCrisis #DieselShortage ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-16T06:06:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/1Tpl_jddnLc/hqdefault.jpg",
-          "durationSeconds": 204,
-          "durationFormatted": "03:24",
-          "views": 171,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "DurKWLVfX3Y",
-          "title": "रायगढ़ - मध्य भारत का सबसे बड़ा सट्टा गिरोह का पर्दाफाशChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-16T13:13:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/DurKWLVfX3Y/hqdefault.jpg",
-          "durationSeconds": 270,
-          "durationFormatted": "04:30",
-          "views": 131,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "Sxd4nVy3Obk",
-          "title": "जगदलपुर - कुमार जयदेव के नेतृत्व में पुजारी,सिरहा ,गुनिया हो रहे लामबंदChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-16T12:25:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/Sxd4nVy3Obk/hqdefault.jpg",
-          "durationSeconds": 163,
-          "durationFormatted": "02:43",
-          "views": 27,
-          "likes": 3,
+          "videoId": "gq0Pl1EfSnI",
+          "title": "कैसे बनी थी CG ब्लॉकबस्टर `फिल्म मयारू भौजी&#39; ?...",
+          "description": "कैसे बनी थी CG ब्लॉकबस्टर `फिल्म मयारू भौजी' ?... Join this channel to get access to the perks: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-17T02:30:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/gq0Pl1EfSnI/hqdefault.jpg",
+          "durationSeconds": 109,
+          "durationFormatted": "01:49",
+          "views": 2983,
+          "likes": 108,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-05-16T14:09:29Z"
+      "latestUpdateAt": "2026-05-17T02:30:25Z"
     },
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 11,
-      "trendScore": 34.4,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +378,7 @@
           "thumbnail": "https://i.ytimg.com/vi/fS37lVqJ-hA/hqdefault.jpg",
           "durationSeconds": 924,
           "durationFormatted": "15:24",
-          "views": 674,
+          "views": 1379,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +393,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ADDRCSWpXUo/hqdefault.jpg",
           "durationSeconds": 179,
           "durationFormatted": "02:59",
-          "views": 31,
+          "views": 80,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -468,7 +408,7 @@
           "thumbnail": "https://i.ytimg.com/vi/zdE_JcNp2FU/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 18,
+          "views": 60,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -483,23 +423,23 @@
           "thumbnail": "https://i.ytimg.com/vi/vCWfKm222Kc/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 9,
+          "views": 10,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "OI9Yh74hqHg",
-          "title": "Durg News : दुर्ग एलएलबी रिजल्ट विवाद पर बजरंग दल ने यूनिवर्सिटी में जड़ा ताला",
-          "description": "दुर्ग के हेमचंद यादव विश्वविद्यालय में एलएलबी प्रथम सेमेस्टर के ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-05-16T10:12:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/OI9Yh74hqHg/hqdefault.jpg",
-          "durationSeconds": 192,
-          "durationFormatted": "03:12",
-          "views": 8,
-          "likes": 0,
+          "videoId": "P5m7ySIRM-M",
+          "title": "दुर्ग पुलिस की कार्रवाई करहिडीह में जुआ फड़ पर पुलिस का छापा ,7 आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-16T14:38:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/P5m7ySIRM-M/hqdefault.jpg",
+          "durationSeconds": 49,
+          "durationFormatted": "00:49",
+          "views": 10,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "Crime"
         }
@@ -507,10 +447,94 @@
       "latestUpdateAt": "2026-05-16T17:16:11Z"
     },
     {
+      "clusterId": "xpress-रयगढ",
+      "topic": "Xpress रायगढ़",
+      "videoCount": 6,
+      "trendScore": 31.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "4Qvw_R8wx4o",
+          "title": "रायगढ़ - इंस्टाग्राम में दोस्ती फिर भेजा अश्लील वीडियोChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-16T08:09:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/4Qvw_R8wx4o/hqdefault.jpg",
+          "durationSeconds": 57,
+          "durationFormatted": "00:57",
+          "views": 943,
+          "likes": 19,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "RZ3P7UkeoJ4",
+          "title": "रायगढ़ - पेट्रोल डीजल की कमी को लेकर अधिकारियों का क्या है कहना देखें वीडियोChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-16T06:49:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/RZ3P7UkeoJ4/hqdefault.jpg",
+          "durationSeconds": 503,
+          "durationFormatted": "08:23",
+          "views": 334,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "1Tpl_jddnLc",
+          "title": "महासमुंद - जरूरत के हिसाब से नहीं मिल रही है पेट्रोल, डीजलChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे #महासमुंद #PetrolDieselCrisis #DieselShortage ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-16T06:06:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/1Tpl_jddnLc/hqdefault.jpg",
+          "durationSeconds": 204,
+          "durationFormatted": "03:24",
+          "views": 242,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "DurKWLVfX3Y",
+          "title": "रायगढ़ - मध्य भारत का सबसे बड़ा सट्टा गिरोह का पर्दाफाशChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-16T13:13:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/DurKWLVfX3Y/hqdefault.jpg",
+          "durationSeconds": 270,
+          "durationFormatted": "04:30",
+          "views": 157,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "A1aoPfOONpw",
+          "title": "खरोरा - वट सावित्री व्रत पर सुहागिन महिलाओं ने किया पूजा अर्चनाChhattisgarh Xpress News",
+          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
+          "channelTitle": "Chhattisgarh Xpress News",
+          "publishedAt": "2026-05-16T14:09:29Z",
+          "thumbnail": "https://i.ytimg.com/vi/A1aoPfOONpw/hqdefault.jpg",
+          "durationSeconds": 125,
+          "durationFormatted": "02:05",
+          "views": 82,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-05-16T14:09:29Z"
+    },
+    {
       "clusterId": "location-bilaspur",
       "topic": "Bilaspur",
       "videoCount": 3,
-      "trendScore": 33.0,
+      "trendScore": 29.0,
       "topVideos": [
         {
           "index": 1,
@@ -522,8 +546,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K6LwfN4fh-0/hqdefault.jpg",
           "durationSeconds": 434,
           "durationFormatted": "07:14",
-          "views": 498,
-          "likes": 15,
+          "views": 749,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -537,8 +561,8 @@
           "thumbnail": "https://i.ytimg.com/vi/3ww32eJ_kQw/hqdefault.jpg",
           "durationSeconds": 516,
           "durationFormatted": "08:36",
-          "views": 407,
-          "likes": 15,
+          "views": 469,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -552,8 +576,8 @@
           "thumbnail": "https://i.ytimg.com/vi/JsFQWGjZLGs/hqdefault.jpg",
           "durationSeconds": 251,
           "durationFormatted": "04:11",
-          "views": 12,
-          "likes": 1,
+          "views": 76,
+          "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -564,7 +588,7 @@
       "clusterId": "may",
       "topic": "May",
       "videoCount": 4,
-      "trendScore": 27.6,
+      "trendScore": 27.2,
       "topVideos": [
         {
           "index": 1,
@@ -576,8 +600,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ipOF_NNvLEs/hqdefault.jpg",
           "durationSeconds": 1318,
           "durationFormatted": "21:58",
-          "views": 1190,
-          "likes": 4,
+          "views": 4662,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -591,7 +615,7 @@
           "thumbnail": "https://i.ytimg.com/vi/tNey_e7Uywo/hqdefault.jpg",
           "durationSeconds": 59,
           "durationFormatted": "00:59",
-          "views": 7,
+          "views": 9,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -606,8 +630,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WcIbkoNPfWw/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 5,
-          "likes": 0,
+          "views": 6,
+          "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -630,34 +654,10 @@
       "latestUpdateAt": "2026-05-16T13:17:18Z"
     },
     {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 24.8,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "6PtUr44NZB8",
-          "title": "Dhurandhar 2 ने Pakistan में मचाया तहलका। फिल्म रिलीज होते ही Netflix का सर्वर हुआ क्रैश। देखिए..",
-          "description": "IBC24, Dhurandhar 2 ने Pakistan में मचाया तहलका। 'धुरंधर 2' ने Pakistan Box Office पर मारी ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-16T16:44:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/6PtUr44NZB8/hqdefault.jpg",
-          "durationSeconds": 104,
-          "durationFormatted": "01:44",
-          "views": 246,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-16T16:44:31Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 23.9,
+      "trendScore": 20.3,
       "topVideos": [
         {
           "index": 1,
@@ -669,7 +669,7 @@
           "thumbnail": "https://i.ytimg.com/vi/MnN8rG7STGM/hqdefault.jpg",
           "durationSeconds": 62,
           "durationFormatted": "01:02",
-          "views": 227,
+          "views": 260,
           "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
@@ -684,7 +684,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9QG_dqTAZ9w/hqdefault.jpg",
           "durationSeconds": 1687,
           "durationFormatted": "28:07",
-          "views": 26,
+          "views": 37,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -696,7 +696,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 3,
-      "trendScore": 18.3,
+      "trendScore": 14.9,
       "topVideos": [
         {
           "index": 1,
@@ -708,7 +708,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ueO4pOjbMBw/hqdefault.jpg",
           "durationSeconds": 53,
           "durationFormatted": "00:53",
-          "views": 20,
+          "views": 23,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
