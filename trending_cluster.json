@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-25T18:05:57.634834Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-05-25T20:06:17.581508Z",
+  "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 36,
-      "trendScore": 65.5,
+      "videoCount": 18,
+      "trendScore": 55.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-nwHfLR-ZF4/hqdefault.jpg",
           "durationSeconds": 177,
           "durationFormatted": "02:57",
-          "views": 69546,
-          "likes": 1970,
+          "views": 83940,
+          "likes": 2033,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WFXKFsI1QO0/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 27994,
-          "likes": 694,
+          "views": 30527,
+          "likes": 707,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/MIJRG6BvMkw/hqdefault.jpg",
           "durationSeconds": 1149,
           "durationFormatted": "19:09",
-          "views": 9186,
-          "likes": 338,
+          "views": 9638,
+          "likes": 340,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
           "index": 4,
-          "videoId": "rx7viStnciU",
-          "title": "25 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "25 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-05-24T23:30:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/rx7viStnciU/hqdefault.jpg",
-          "durationSeconds": 1560,
-          "durationFormatted": "26:00",
-          "views": 8726,
-          "likes": 156,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
           "videoId": "AJiBFerA9lI",
           "title": "हाईवे पर डिप्टी CM विजय शर्मा ने किया Dial-112 सेवा का औचक परीक्षण",
           "description": "हाईवे पर डिप्टी CM विजय शर्मा ने किया Dial-112 सेवा का औचक परीक्षण #news ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/AJiBFerA9lI/hqdefault.jpg",
           "durationSeconds": 58,
           "durationFormatted": "00:58",
-          "views": 8429,
-          "likes": 86,
+          "views": 9034,
+          "likes": 91,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "rx7viStnciU",
+          "title": "25 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
+          "description": "25 May 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-05-24T23:30:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/rx7viStnciU/hqdefault.jpg",
+          "durationSeconds": 1560,
+          "durationFormatted": "26:00",
+          "views": 9009,
+          "likes": 156,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-05-25T17:30:01Z"
+      "latestUpdateAt": "2026-05-25T18:42:11Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 11,
-      "trendScore": 44.8,
+      "trendScore": 43.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/QCcVFDmUW2Y/hqdefault.jpg",
           "durationSeconds": 172,
           "durationFormatted": "02:52",
-          "views": 16149,
-          "likes": 303,
+          "views": 17761,
+          "likes": 310,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jzcFyTdqDIQ/hqdefault.jpg",
           "durationSeconds": 659,
           "durationFormatted": "10:59",
-          "views": 1336,
+          "views": 1444,
           "likes": 29,
           "videoType": "VOD",
           "genre": "General"
@@ -132,13 +132,28 @@
           "thumbnail": "https://i.ytimg.com/vi/1252RXv0sfA/hqdefault.jpg",
           "durationSeconds": 459,
           "durationFormatted": "07:39",
-          "views": 546,
-          "likes": 17,
+          "views": 745,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "YdLy2RsxX0U",
+          "title": "फिर महंगा हुआ Petrol- Diesal ! Raipur में ₹107.96 पहुंचा दाम #PetrolPriceHike #DieselPrice",
+          "description": "फिर महंगा हुआ Petrol- Diesal ! Raipur में ₹107.96 पहुंचा दाम #PetrolPriceHike #DieselPrice ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-05-25T11:35:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/YdLy2RsxX0U/hqdefault.jpg",
+          "durationSeconds": 52,
+          "durationFormatted": "00:52",
+          "views": 591,
+          "likes": 11,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "bQvgURYBLgw",
           "title": "25 मई 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/छत्तीसगढ़ Newsonair",
           "description": "",
@@ -147,23 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/bQvgURYBLgw/hqdefault.jpg",
           "durationSeconds": 633,
           "durationFormatted": "10:33",
-          "views": 446,
-          "likes": 29,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "koEeqdRKti8",
-          "title": "OMG: बजरंग दल के सामने पुलिस के छूटे पसीने ! salem school raipur | thiha cg",
-          "description": "OMG: बजरंग दल के सामने पुलिस के छूटे पसीने ! salem school raipur | thiha cg.",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-05-25T13:51:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/koEeqdRKti8/hqdefault.jpg",
-          "durationSeconds": 606,
-          "durationFormatted": "10:06",
-          "views": 378,
-          "likes": 28,
+          "views": 588,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -171,10 +171,94 @@
       "latestUpdateAt": "2026-05-25T15:45:02Z"
     },
     {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 8,
+      "trendScore": 39.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "q4PPVWjhLwM",
+          "title": "चोरी के मास्टरमाइंड को पकड़ने दिल्ली में बकरा बेचने वाली बनी दुर्ग पुलिस",
+          "description": "चोरी के मास्टरमाइंड को पकड़ने दिल्ली में बकरा बेचने वाली बनी दुर्ग ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-05-25T18:30:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/q4PPVWjhLwM/hqdefault.jpg",
+          "durationSeconds": 180,
+          "durationFormatted": "03:00",
+          "views": 1517,
+          "likes": 82,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "FrxdU40SMsE",
+          "title": "दुर्ग में अब जब्त होंगी ‘POLICE’ लिखी निजी गाड़ियां | CG Bhaskar",
+          "description": "दुर्ग में अब जब्त होंगी 'POLICE' लिखी निजी गाड़ियां | CG Bhaskar Join our Whatsapp ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-05-25T12:40:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/FrxdU40SMsE/hqdefault.jpg",
+          "durationSeconds": 60,
+          "durationFormatted": "01:00",
+          "views": 1339,
+          "likes": 45,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "YBc_q4oqqiE",
+          "title": "Durg Police ने बकरा बेचने वाला बनकर, चोर गिरोह के मास्टरमाइंड को पकड़ा! || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-05-25T15:30:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/YBc_q4oqqiE/hqdefault.jpg",
+          "durationSeconds": 562,
+          "durationFormatted": "09:22",
+          "views": 807,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "8qeR4j7c8Ds",
+          "title": "Durg Collectrate में Rasmada के मजदूरों का हल्लाबोल! Durg News || Bharti Media Network || Shivali ",
+          "description": "Durg Collectrate में Rasmada के मजदूरों का हल्लाबोल! Durg News || Bharti Media Network || Shivali ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-05-25T10:49:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/8qeR4j7c8Ds/hqdefault.jpg",
+          "durationSeconds": 628,
+          "durationFormatted": "10:28",
+          "views": 805,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "LgHSWLdVzvE",
+          "title": "दुर्ग में अवैध शराब के साथ दो आरोपी गिरफ्तार, मोहन नगर पुलिस की बड़ी कार्रवाई!",
+          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-05-25T12:23:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/LgHSWLdVzvE/hqdefault.jpg",
+          "durationSeconds": 46,
+          "durationFormatted": "00:46",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-05-25T18:30:37Z"
+    },
+    {
       "clusterId": "bhaskar-ebola",
       "topic": "Bhaskar Ebola",
       "videoCount": 7,
-      "trendScore": 40.0,
+      "trendScore": 38.7,
       "topVideos": [
         {
           "index": 1,
@@ -186,8 +270,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rEEUBYQBrs0/hqdefault.jpg",
           "durationSeconds": 74,
           "durationFormatted": "01:14",
-          "views": 2817,
-          "likes": 110,
+          "views": 3109,
+          "likes": 115,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/XQj7kyV7ukA/hqdefault.jpg",
           "durationSeconds": 152,
           "durationFormatted": "02:32",
-          "views": 2400,
+          "views": 2676,
           "likes": 17,
           "videoType": "VOD",
           "genre": "General"
@@ -216,8 +300,8 @@
           "thumbnail": "https://i.ytimg.com/vi/rlL5etmvg04/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 1111,
-          "likes": 42,
+          "views": 1210,
+          "likes": 43,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,7 +315,7 @@
           "thumbnail": "https://i.ytimg.com/vi/QrH4Xo2K1Oo/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 792,
+          "views": 842,
           "likes": 24,
           "videoType": "VOD",
           "genre": "Crime"
@@ -246,7 +330,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OyWHispMZz8/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 419,
+          "views": 568,
           "likes": 22,
           "videoType": "VOD",
           "genre": "General"
@@ -258,7 +342,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 8,
-      "trendScore": 37.4,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -270,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/OIiaQvF_L6E/hqdefault.jpg",
           "durationSeconds": 103,
           "durationFormatted": "01:43",
-          "views": 9322,
+          "views": 10498,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -285,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/o5qSVwz48Gg/hqdefault.jpg",
           "durationSeconds": 1037,
           "durationFormatted": "17:17",
-          "views": 394,
-          "likes": 11,
+          "views": 675,
+          "likes": 14,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -300,8 +384,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Ozo5hbLH3pA/hqdefault.jpg",
           "durationSeconds": 546,
           "durationFormatted": "09:06",
-          "views": 274,
-          "likes": 9,
+          "views": 523,
+          "likes": 16,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,8 +399,8 @@
           "thumbnail": "https://i.ytimg.com/vi/qhcky9NTQvA/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 43,
-          "likes": 3,
+          "views": 80,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -339,112 +423,13 @@
       "latestUpdateAt": "2026-05-25T17:28:20Z"
     },
     {
-      "clusterId": "location-durg",
-      "topic": "Durg",
-      "videoCount": 8,
-      "trendScore": 37.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "FrxdU40SMsE",
-          "title": "दुर्ग में अब जब्त होंगी ‘POLICE’ लिखी निजी गाड़ियां | CG Bhaskar",
-          "description": "दुर्ग में अब जब्त होंगी 'POLICE' लिखी निजी गाड़ियां | CG Bhaskar Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-05-25T12:40:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/FrxdU40SMsE/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 995,
-          "likes": 44,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "8qeR4j7c8Ds",
-          "title": "Durg Collectrate में Rasmada के मजदूरों का हल्लाबोल! Durg News || Bharti Media Network || Shivali ",
-          "description": "Durg Collectrate में Rasmada के मजदूरों का हल्लाबोल! Durg News || Bharti Media Network || Shivali ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-05-25T10:49:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/8qeR4j7c8Ds/hqdefault.jpg",
-          "durationSeconds": 628,
-          "durationFormatted": "10:28",
-          "views": 647,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "CtnpM9vlR3c",
-          "title": "दुर्ग - अचानक धंस गई सड़क, 5 फीट का बना गड्ढाChhattisgarh Xpress News",
-          "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
-          "channelTitle": "Chhattisgarh Xpress News",
-          "publishedAt": "2026-05-25T06:40:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/CtnpM9vlR3c/hqdefault.jpg",
-          "durationSeconds": 161,
-          "durationFormatted": "02:41",
-          "views": 580,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "YBc_q4oqqiE",
-          "title": "Durg Police ने बकरा बेचने वाला बनकर, चोर गिरोह के मास्टरमाइंड को पकड़ा! || KP NEWS || Faizan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-05-25T15:30:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/YBc_q4oqqiE/hqdefault.jpg",
-          "durationSeconds": 562,
-          "durationFormatted": "09:22",
-          "views": 506,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 5,
-          "videoId": "LgHSWLdVzvE",
-          "title": "दुर्ग में अवैध शराब के साथ दो आरोपी गिरफ्तार, मोहन नगर पुलिस की बड़ी कार्रवाई!",
-          "description": "chhattisgarhnews #madhyapradehnews #durgnews .",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-05-25T12:23:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/LgHSWLdVzvE/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 5,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-25T15:30:10Z"
-    },
-    {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 4,
-      "trendScore": 35.3,
+      "videoCount": 3,
+      "trendScore": 28.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "oXwYHfqi90s",
-          "title": "राजनांदगांव जिले में एक और धान घोटाला, प्रबंधक और ऑपरेटर ने पार कर दिए 52.57 लाख का धान",
-          "description": "राजनांदगांव जिले में एक और धान घोटाला, प्रबंधक और ऑपरेटर ने पार कर ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-05-24T18:30:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/oXwYHfqi90s/hqdefault.jpg",
-          "durationSeconds": 155,
-          "durationFormatted": "02:35",
-          "views": 19341,
-          "likes": 270,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "j-3w68Cg_JY",
           "title": "राजनंदगांव में सूखत के नाम पर 19 करोड़ का धान गायब! EOW जांच की मांग | CG News",
           "description": "chhattisgarhnews #madhyapradehnews #dhankhotala .",
@@ -453,13 +438,13 @@
           "thumbnail": "https://i.ytimg.com/vi/j-3w68Cg_JY/hqdefault.jpg",
           "durationSeconds": 69,
           "durationFormatted": "01:09",
-          "views": 611,
+          "views": 686,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "b2sldFaY5K8",
           "title": "CG धान घोटाला? राजनंदगांव में 19 करोड़ का धान लापता, अब EOW करेगी जांच!",
           "description": "CG धान घोटाला? राजनंदगांव में 19 करोड़ का धान लापता, अब EOW करेगी जांच!",
@@ -468,13 +453,13 @@
           "thumbnail": "https://i.ytimg.com/vi/b2sldFaY5K8/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 407,
+          "views": 545,
           "likes": 7,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "GRyjPjdkoCE",
           "title": "राजनांदगांव: नौतपा शुरू होते ही स्वास्थ्य विभाग अलर्ट , हीट स्ट्रोक के लिए खास इंतजाम",
           "description": "chhattisgarhnews #madhyapradehnews #rajnandgaon .",
@@ -490,123 +475,6 @@
         }
       ],
       "latestUpdateAt": "2026-05-25T13:51:18Z"
-    },
-    {
-      "clusterId": "petrol-diesel",
-      "topic": "Petrol Diesel",
-      "videoCount": 4,
-      "trendScore": 29.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "4XyVn31qIXY",
-          "title": "Petrol Diesel Price Hike: महंगाई की मार.. जनता लाचार! | 11 दिन में चौथी बार बढ़े पेट्रोल-डीजल के दाम",
-          "description": "IBC24, Petrol Diesel Price Hike: मई में महंगाई की मार.. जनता लाचार! | 11 दिन में चौथी बार ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-05-25T16:42:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/4XyVn31qIXY/hqdefault.jpg",
-          "durationSeconds": 226,
-          "durationFormatted": "03:46",
-          "views": 1933,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "Av4IBjpN46k",
-          "title": "महंगाई का महाझटका! 11 दिनों में चौथी बार बढ़े Petrol-Diesel के दाम, अब क्या होगा महंगा?",
-          "description": "महंगाई का महाझटका! 11 दिनों में चौथी बार बढ़े Petrol-Diesel के दाम, अब क्या ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-25T13:53:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/Av4IBjpN46k/hqdefault.jpg",
-          "durationSeconds": 12006,
-          "durationFormatted": "03:20:06",
-          "views": 251,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "WWjC6zSdHvY",
-          "title": "Petrol Diesel Price Hike: पेट्रोल-डीजल फिर महंगा, लगातार चौथी बार बढ़े दाम, जानिए आपके शहर के नए रेट",
-          "description": "Petrol Diesel Price Hike: पेट्रोल-डीजल फिर महंगा, लगातार चौथी बार बढ़े दाम, जानिए ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-25T06:40:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/WWjC6zSdHvY/hqdefault.jpg",
-          "durationSeconds": 220,
-          "durationFormatted": "03:40",
-          "views": 28,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "rdXi8_3N8iA",
-          "title": "Petrol-Diesel Price Hike : पेट्रोल-डीजल ने फिर दिया झटका, जानिए आज कितने बढ़ गए दाम...",
-          "description": "Petrol-Diesel Price Hike : पेट्रोल-डीजल ने फिर दिया झटका, जानिए आज कितने बढ़ गए ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-05-25T12:44:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/rdXi8_3N8iA/hqdefault.jpg",
-          "durationSeconds": 244,
-          "durationFormatted": "04:04",
-          "views": 15,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-25T16:42:26Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 28.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "HfPqznyLl4o",
-          "title": "बंगाल में तख्तापलट के बाद महा-एक्शन! ममता के भतीजे अभिषेक बनर्जी के घर घुसी पुलिस!",
-          "description": "कोलकाता नगर निगम (KMC) द्वारा अवैध निर्माण को लेकर जारी किए गए नोटिस ...",
-          "channelTitle": "The Rural Press",
-          "publishedAt": "2026-05-25T12:08:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/HfPqznyLl4o/hqdefault.jpg",
-          "durationSeconds": 14,
-          "durationFormatted": "00:14",
-          "views": 1474,
-          "likes": 15,
-          "videoType": "VOD",
-          "genre": "Civic"
-        }
-      ],
-      "latestUpdateAt": "2026-05-25T12:08:48Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 24.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "6t5Um9Wy1ps",
-          "title": "जसप्रीत बुमराह को फुटबॉलर बोलकर फंसे राम चरण, फैंस ने लिए मजे !",
-          "description": "साउथ सुपरस्टार राम चरण ने भोपाल में फिल्म 'पेड्डी' के प्रमोशन के ...",
-          "channelTitle": "Bansal News",
-          "publishedAt": "2026-05-25T08:35:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/6t5Um9Wy1ps/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 972,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-05-25T08:35:42Z"
     }
   ]
 }
