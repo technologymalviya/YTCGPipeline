@@ -1,5 +1,213 @@
 {
-  "generatedAt": "2026-06-06T19:51:12.934854Z",
-  "clusterCount": 0,
-  "clusters": []
+  "generatedAt": "2026-06-07T05:01:26.616589Z",
+  "clusterCount": 3,
+  "clusters": [
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 23,
+      "trendScore": 54.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "UwEzGGBE828",
+          "title": "कांग्रेस विधायक दल की बैठक में Kamalnath नहीं पहुंचे! नेता प्रतिपक्ष ने सभी विधायकों के साइन कराएं",
+          "description": "भोपाल: कांग्रेस विधायक दल की बैठक जारी, नेता प्रतिपक्ष ने सभी विधायक ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-06T12:52:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/UwEzGGBE828/hqdefault.jpg",
+          "durationSeconds": 378,
+          "durationFormatted": "06:18",
+          "views": 14396,
+          "likes": 188,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "UsP0WWf31dA",
+          "title": "Chhattisgarh Samachar : CG News Today, Chhattisgarh News, CG News, CG Latest News Today, IBC 24 CG",
+          "description": "ChhattisgarhNews #CGNewsToday #BreakingNewsCG #RaipurNews #DainikChhattisgarh #CGSamachar #CGSarkariYojana ...",
+          "channelTitle": "Dainik Chhattisgarh",
+          "publishedAt": "2026-06-06T23:38:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/UsP0WWf31dA/hqdefault.jpg",
+          "durationSeconds": 920,
+          "durationFormatted": "15:20",
+          "views": 8208,
+          "likes": 429,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "9vuwyhFNWk8",
+          "title": "भोपाल: तीसरी राज्यसभा सीट पर बढ़ी सियासी हलचल, भूपेंद्र सिंह बोले- कांग्रेस के कई विधायक नाराज",
+          "description": "MP बीजेपी में तीसरी सीट को लेकर बढ़ी हलचल पूर्व मंत्री भूपेंद्र सिंह ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-06T07:04:42Z",
+          "thumbnail": "https://i.ytimg.com/vi/9vuwyhFNWk8/hqdefault.jpg",
+          "durationSeconds": 298,
+          "durationFormatted": "04:58",
+          "views": 5770,
+          "likes": 50,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "zYbIq-taapQ",
+          "title": "कांग्रेस विधायक दल की बैठक खत्म होने के बाद क्या बोलीं Congress उम्मीदवार मीनाक्षी नटराजन",
+          "description": "MP Rajya Sabha Election 2026: मध्य प्रदेश में कांग्रेस पार्टी ने जैसे ही ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-06T14:04:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/zYbIq-taapQ/hqdefault.jpg",
+          "durationSeconds": 85,
+          "durationFormatted": "01:25",
+          "views": 1600,
+          "likes": 31,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "M3P0ZwhRhFk",
+          "title": "बिलासपुर के थाने में पदस्थ आरक्षक का वीडियो वायरलबैरक में आरक्षक से साथ हैं शराब और बियर की बोतलें |",
+          "description": "बिलासपुर के थाने में पदस्थ आरक्षक का वीडियो वायरल बैरक में आरक्षक ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-06-06T14:00:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/M3P0ZwhRhFk/hqdefault.jpg",
+          "durationSeconds": 175,
+          "durationFormatted": "02:55",
+          "views": 967,
+          "likes": 28,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-06-07T01:30:33Z"
+    },
+    {
+      "clusterId": "bhaskar-छततसगढ़",
+      "topic": "Bhaskar छत्तीसगढ़",
+      "videoCount": 5,
+      "trendScore": 32.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "mQ241QMplUs",
+          "title": "छत्तीसगढ़ में प्री मानसून का जल्द | CG Bhaskar",
+          "description": "छत्तीसगढ़ में प्री मानसून का जल्द | CG Bhaskar छत्तीसगढ़ में 2 से 3 दिनों ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-06-06T11:04:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/mQ241QMplUs/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 1616,
+          "likes": 40,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "i_e7TIZUyJQ",
+          "title": "छत्तीसगढ़ में पीलिया की दस्तक, तीन की मौt | CG Bhaskar",
+          "description": "छत्तीसगढ़ में पीलिया की दस्तक, तीन की मौt | CG Bhaskar सरगुजा जिले के ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-06-06T08:30:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/i_e7TIZUyJQ/hqdefault.jpg",
+          "durationSeconds": 77,
+          "durationFormatted": "01:17",
+          "views": 1481,
+          "likes": 51,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "cR4c8obzr6o",
+          "title": "कुवैत से रायपुर की पत्नी को ट्रिपल तलाक! | CG Bhaskar",
+          "description": "कुवैत से रायपुर की पत्नी को ट्रिपल तलाक! | CG Bhaskar राजधानी रायपुर में ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-06-06T10:30:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/cR4c8obzr6o/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 842,
+          "likes": 24,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "JcdIt6uLmYc",
+          "title": "रील के बंटी-बबली का रियल क्राइम | CG Bhaskar",
+          "description": "रील के बंटी-बबली का रियल क्राइम | CG Bhaskar छत्तीसगढ़ के कांकेर में रील ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-06-06T12:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/JcdIt6uLmYc/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 700,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "0FbEjdLDFjY",
+          "title": "दुर्ग पुलिस का बड़ा एक्शन, अंतरराज्यीय ऑनलाइन सट्टा सिंडिकेट का भंडाफोड़ | CG Bhaskar",
+          "description": "दुर्ग पुलिस का बड़ा एक्शन, अंतरराज्यीय ऑनलाइन सट्टा सिंडिकेट का ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-06-06T13:09:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/0FbEjdLDFjY/hqdefault.jpg",
+          "durationSeconds": 330,
+          "durationFormatted": "05:30",
+          "views": 322,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-06-06T13:09:33Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 2,
+      "trendScore": 20.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "JJPDcuE6sx8",
+          "title": "बोली ठोली आज मिलव बांसुरी वादक ओ.पी. देवांगन ले। BOLI THOLI BANSAL NEWS PROGRAM",
+          "description": "छत्तीसगढ़ी लोक संस्कृति और संगीत को नई पहचान देने वाले बांसुरी ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-06T12:26:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/JJPDcuE6sx8/hqdefault.jpg",
+          "durationSeconds": 1687,
+          "durationFormatted": "28:07",
+          "views": 124,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "DSYU0z1uL6o",
+          "title": "CJP में सोनम वांगचुक की एंट्री  #viralvideo  #ViralShorts",
+          "description": "CJP में सोनम वांगचुक की एंट्री Sonam Wangchuk, Sonam Wangchuk latest news, Sonam Wangchuk ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-06-06T10:27:45Z",
+          "thumbnail": "https://i.ytimg.com/vi/DSYU0z1uL6o/hqdefault.jpg",
+          "durationSeconds": 7,
+          "durationFormatted": "00:07",
+          "views": 122,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-06-06T12:26:55Z"
+    }
+  ]
 }
