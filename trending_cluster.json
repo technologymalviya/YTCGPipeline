@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-14T17:54:25.781828Z",
+  "generatedAt": "2026-06-14T20:02:44.787007Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 9,
-      "trendScore": 39.4,
+      "trendScore": 38.2,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "xpress-लग",
       "topic": "Xpress लोगों",
       "videoCount": 6,
-      "trendScore": 36.0,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "durg-faizan",
       "topic": "Durg Faizan",
       "videoCount": 4,
-      "trendScore": 31.3,
+      "trendScore": 30.3,
       "topVideos": [
         {
           "index": 1,
