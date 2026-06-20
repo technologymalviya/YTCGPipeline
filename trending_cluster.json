@@ -1,15 +1,30 @@
 {
-  "generatedAt": "2026-06-20T17:51:30.207391Z",
-  "clusterCount": 2,
+  "generatedAt": "2026-06-20T20:01:16.013194Z",
+  "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 8,
-      "trendScore": 37.4,
+      "videoCount": 6,
+      "trendScore": 37.8,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "CjJWr5GrKYI",
+          "title": "Muskan Tiwari Full Report Mangata मामले में 3 Accused? क्या सच में | KP News | Seemant Kashyap ",
+          "description": "",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-20T17:58:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/CjJWr5GrKYI/hqdefault.jpg",
+          "durationSeconds": 1147,
+          "durationFormatted": "19:07",
+          "views": 1666,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
           "videoId": "YKH2wp0IGtc",
           "title": "Balod में आज दिनभर क्या हुआ | Ground Report | Gaurav Yadav | Yashwant Sahu | Bhilai Times News 2026",
           "description": "Balod में आज दिनभर क्या हुआ | Ground Report | Report/Story: Yashwant Sahu, Gaurav Yadav Camera: Yogesh ...",
@@ -18,79 +33,64 @@
           "thumbnail": "https://i.ytimg.com/vi/YKH2wp0IGtc/hqdefault.jpg",
           "durationSeconds": 1637,
           "durationFormatted": "27:17",
-          "views": 206,
-          "likes": 12,
+          "views": 860,
+          "likes": 66,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
-          "videoId": "Mvmd5EMdet4",
-          "title": "MP News : भोपाल में पटवारी ट्रांसफर पर बवाल ! 24 घंटे में बदली लिस्ट; मंत्री ने मांगी जांच |",
-          "description": "भोपाल में पटवारियों की ट्रांसफर लिस्ट को लेकर बड़ा विवाद सामने आया ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-06-20T08:13:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/Mvmd5EMdet4/hqdefault.jpg",
-          "durationSeconds": 595,
-          "durationFormatted": "09:55",
-          "views": 18,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
           "index": 3,
-          "videoId": "me_keQes8pI",
-          "title": "MP News : CM  मोहन यादव और मनोहर लाल खट्टर का बड़ा फैसला , इंदौर-उज्जैन हाईवे को मिली हरी झंडी!",
-          "description": "मुख्यमंत्री डॉ. मोहन यादव और केंद्रीय मंत्री मनोहर लाल खट्टर ने ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-06-20T09:09:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/me_keQes8pI/hqdefault.jpg",
-          "durationSeconds": 561,
-          "durationFormatted": "09:21",
-          "views": 15,
-          "likes": 0,
+          "videoId": "QorhoMlzEEY",
+          "title": "अभनपुर पहुंचे सचिन पायलट, संगठन सृजन अभियान का होगा आगाज, कांग्रेस कार्यकर्ताओं में दिखा उत्साह",
+          "description": "अभनपुर: कांग्रेस प्रभारी सचिन पायलट पहुंचे अभनपुर एयरपोर्ट से सीधे ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-20T12:45:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/QorhoMlzEEY/hqdefault.jpg",
+          "durationSeconds": 317,
+          "durationFormatted": "05:17",
+          "views": 314,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "y05WGORBZVQ",
-          "title": "MP News :   इंदौर से महाकाल तक सफर होगा आसान, 48 KM ग्रीनफील्ड फोरलेन शुरू |",
-          "description": "इंदौर-उज्जैन ग्रीनफील्ड फोरलेन परियोजना का शिलान्यास ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-06-20T10:16:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/y05WGORBZVQ/hqdefault.jpg",
-          "durationSeconds": 2255,
-          "durationFormatted": "37:35",
-          "views": 13,
-          "likes": 0,
+          "videoId": "uz0AJYWQKWw",
+          "title": "&#39;विरासत और विकास&#39; बना मध्यप्रदेश मॉडल, खट्टर ने की तारीफ; CM मोहन बोले- नहीं रुकेगा विकास का कारवां",
+          "description": "एंकर - मध्यप्रदेश के विकास मॉडल की गूंज अब देशभर में सुनाई दे रही है.",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-20T14:12:14Z",
+          "thumbnail": "https://i.ytimg.com/vi/uz0AJYWQKWw/hqdefault.jpg",
+          "durationSeconds": 205,
+          "durationFormatted": "03:25",
+          "views": 83,
+          "likes": 1,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "fDiMiNNDrkQ",
-          "title": "Ujjain पहुंचे CM मोहन यादव, मनोहर लाल खट्टर संग किए बाबा महाकाल के दर्शन  | India News MP",
-          "description": "उज्जैन में मुख्यमंत्री डॉ. मोहन यादव, केंद्रीय मंत्री मनोहर लाल ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-06-20T06:21:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/fDiMiNNDrkQ/hqdefault.jpg",
-          "durationSeconds": 140,
-          "durationFormatted": "02:20",
-          "views": 10,
-          "likes": 0,
+          "videoId": "RGOlCbQVYlc",
+          "title": "जगदलपुर: नीट मुद्दे पर कांग्रेस की सरकार को घेरने रणनीति, युवाओं को दिखाई जाएगी राहुल गांधी की क्लिप",
+          "description": "जगदलपुर में नीट परीक्षा को लेकर कांग्रेस ने सरकार को घेरने की अपनी ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-20T10:14:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/RGOlCbQVYlc/hqdefault.jpg",
+          "durationSeconds": 242,
+          "durationFormatted": "04:02",
+          "views": 77,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-06-20T17:30:38Z"
+      "latestUpdateAt": "2026-06-20T17:58:25Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 32.6,
+      "trendScore": 31.4,
       "topVideos": [
         {
           "index": 1,
@@ -102,13 +102,91 @@
           "thumbnail": "https://i.ytimg.com/vi/1VmpbopMvNo/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 7870,
-          "likes": 94,
+          "views": 11351,
+          "likes": 97,
           "videoType": "VOD",
           "genre": "Events"
         }
       ],
       "latestUpdateAt": "2026-06-20T12:45:12Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 29.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "bd1veHCjqk8",
+          "title": "बोली ठोली म आज मिलव लोक कलाकार मन के समूह ले । Boli Tholi Bansal News Program",
+          "description": "आपमन देखत हव 'बोली ठोली' छत्तीसगढ़ी म खास कार्यक्रम 'बोली ठोली' बोली ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-06-20T11:42:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/bd1veHCjqk8/hqdefault.jpg",
+          "durationSeconds": 1298,
+          "durationFormatted": "21:38",
+          "views": 34,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-06-20T11:42:39Z"
+    },
+    {
+      "clusterId": "location-bhilai",
+      "topic": "Bhilai",
+      "videoCount": 3,
+      "trendScore": 27.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "fN2UzYY3ffQ",
+          "title": "Bhilai में Traffic Alert! Underbridge कार्य... से बढ़ेगी परेशानी",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-20T05:31:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/fN2UzYY3ffQ/hqdefault.jpg",
+          "durationSeconds": 54,
+          "durationFormatted": "00:54",
+          "views": 3341,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Traffic"
+        },
+        {
+          "index": 2,
+          "videoId": "bLtJcsvQnKA",
+          "title": "Bhilai में डंपर ने कुचलI युवक का सि.र, चालक फरार..न्याय का इंतजार! || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-20T10:00:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/bLtJcsvQnKA/hqdefault.jpg",
+          "durationSeconds": 583,
+          "durationFormatted": "09:43",
+          "views": 3110,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "bCTNwdbhai0",
+          "title": "Bhilai के घरों में नाली का पानी, बढ़ा बीमारी का खतरा, परेशान जनता... || KP NEWS || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-20T07:00:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/bCTNwdbhai0/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 1264,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
+        }
+      ],
+      "latestUpdateAt": "2026-06-20T10:00:01Z"
     }
   ]
 }
