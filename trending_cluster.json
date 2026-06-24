@@ -1,5 +1,90 @@
 {
-  "generatedAt": "2026-06-23T20:28:57.758039Z",
-  "clusterCount": 0,
-  "clusters": []
+  "generatedAt": "2026-06-24T04:44:32.292639Z",
+  "clusterCount": 1,
+  "clusters": [
+    {
+      "clusterId": "bhilai-durg",
+      "topic": "Bhilai Durg",
+      "videoCount": 5,
+      "trendScore": 26.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "l9PX6eCCM4s",
+          "title": "Durg : ईसाई समाज के आरोपों पर भड़के हिंदू जागरण मंच के कार्यकर्ता || KP News || Faizan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-23T13:45:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/l9PX6eCCM4s/hqdefault.jpg",
+          "durationSeconds": 1120,
+          "durationFormatted": "18:40",
+          "views": 3695,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "4UMcnTKoDII",
+          "title": "Bhilai वालों तैयार हो जाओ...ऐसा Tournamemt कभी देखा नहीं होगा.",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-23T06:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/4UMcnTKoDII/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 1664,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "C1T7uhKyxQg",
+          "title": "Bhilai में E-rickshaw vs rickshaw चालक हाईवे पर ई-रिक्शा पर विवाद || KP NEWS || Janvi Sahu",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-23T06:08:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/C1T7uhKyxQg/hqdefault.jpg",
+          "durationSeconds": 784,
+          "durationFormatted": "13:04",
+          "views": 1495,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "C-LRKzepuqE",
+          "title": "बाप रे ..Solar Plant का ये सच, जानेंगे तो हैरान हो जाएंगे!",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-23T05:30:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/C-LRKzepuqE/hqdefault.jpg",
+          "durationSeconds": 91,
+          "durationFormatted": "01:31",
+          "views": 1084,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "YZhFAHkqQDs",
+          "title": "International Yoga Day: सर्वोच्च सत्ता से जुड़ने का सशक्त माध्यम है योग || KP NEWS",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-23T05:16:54Z",
+          "thumbnail": "https://i.ytimg.com/vi/YZhFAHkqQDs/hqdefault.jpg",
+          "durationSeconds": 67,
+          "durationFormatted": "01:07",
+          "views": 196,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-06-23T13:45:35Z"
+    }
+  ]
 }
