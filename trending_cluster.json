@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-26T18:08:09.399637Z",
+  "generatedAt": "2026-06-26T20:15:17.319270Z",
   "clusterCount": 1,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 8,
-      "trendScore": 41.8,
+      "videoCount": 4,
+      "trendScore": 37.6,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pWCbpYAZyu8/hqdefault.jpg",
           "durationSeconds": 77,
           "durationFormatted": "01:17",
-          "views": 17808,
-          "likes": 274,
+          "views": 18499,
+          "likes": 279,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,58 +33,43 @@
           "thumbnail": "https://i.ytimg.com/vi/XgKHfL8bWiw/hqdefault.jpg",
           "durationSeconds": 867,
           "durationFormatted": "14:27",
-          "views": 2343,
-          "likes": 152,
+          "views": 5018,
+          "likes": 229,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "TDzL-89t1Ic",
-          "title": "बिजली बिल पर 75% तक की छूट!30 जून से पहले उठाएं फायदा | CG Bhaskar",
-          "description": "बिजली बिल पर 75% तक की छूट! 30 जून से पहले उठाएं फायदा | CG Bhaskar छत्तीसगढ़ ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-06-26T12:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/TDzL-89t1Ic/hqdefault.jpg",
-          "durationSeconds": 53,
-          "durationFormatted": "00:53",
-          "views": 1192,
-          "likes": 20,
+          "videoId": "J72KrmMYH6E",
+          "title": "दूल्हा और रिश्तेदार नशे में, दुल्हन ने शादी से किया इंकार | बड़ा हंगामा | @tirandaj",
+          "description": "शराबीदूल्हा #दुल्हननेकियाइनकार M#champanews #janjgirchampa #cgnews #breakingnews ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-06-26T08:26:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/J72KrmMYH6E/hqdefault.jpg",
+          "durationSeconds": 176,
+          "durationFormatted": "02:56",
+          "views": 1618,
+          "likes": 28,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "QjqmwVjq_Sw",
-          "title": "री-चेकिंग के बाद बदली रैंक! जिला टॉपर बने भूपेंद्र चंदेल | CG Bhaskar",
-          "description": "री-चेकिंग के बाद बदली रैंक! जिला टॉपर बने भूपेंद्र चंदेल Join our Whatsapp ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-06-26T11:05:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/QjqmwVjq_Sw/hqdefault.jpg",
-          "durationSeconds": 177,
-          "durationFormatted": "02:57",
-          "views": 708,
-          "likes": 22,
+          "videoId": "Wj3bShpBYhY",
+          "title": "रायपुर के नकटी गांव में हड़कंप | आधी रात नकटी गांव खाली कराने पहुंची पुलिस | Raipur News |@tirandaj",
+          "description": "PanicInNaktiVillage #VacateNaktiVillage #SammanpurNaktiVillage #RaipurNews #PoliceArriveToClearVillage ...",
+          "channelTitle": "Tirandaj",
+          "publishedAt": "2026-06-26T18:17:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/Wj3bShpBYhY/hqdefault.jpg",
+          "durationSeconds": 637,
+          "durationFormatted": "10:37",
+          "views": 97,
+          "likes": 10,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "bEdDbwtpuso",
-          "title": "‘छात्रों की गूंज’, कांग्रेस ने शुरू किया अभियान Helpline number - 08044186998  | CG Bhaskar",
-          "description": "Helpline number - 08044186998 कैप्शन: बिलासपुर में कांग्रेस ने \"छात्रों की गूंज\" ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-06-26T08:41:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/bEdDbwtpuso/hqdefault.jpg",
-          "durationSeconds": 66,
-          "durationFormatted": "01:06",
-          "views": 441,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-06-26T17:00:01Z"
+      "latestUpdateAt": "2026-06-26T18:17:44Z"
     }
   ]
 }
