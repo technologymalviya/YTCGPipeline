@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-27T14:11:50.642466Z",
+  "generatedAt": "2026-06-27T15:45:31.781878Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 30,
-      "trendScore": 64.9,
+      "trendScore": 64.1,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 13,
-      "trendScore": 48.2,
+      "trendScore": 47.3,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "छततसगढ-भरषटचर",
       "topic": "छत्तीसगढ़ भ्रष्टाचार",
       "videoCount": 4,
-      "trendScore": 41.5,
+      "trendScore": 40.5,
       "topVideos": [
         {
           "index": 1,
@@ -243,7 +243,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 6,
-      "trendScore": 38.8,
+      "trendScore": 38.2,
       "topVideos": [
         {
           "index": 1,
@@ -327,7 +327,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 36.5,
+      "trendScore": 35.8,
       "topVideos": [
         {
           "index": 1,
@@ -396,7 +396,7 @@
       "clusterId": "bhaskar-वयपर",
       "topic": "Bhaskar व्यापारी",
       "videoCount": 4,
-      "trendScore": 31.1,
+      "trendScore": 30.3,
       "topVideos": [
         {
           "index": 1,
@@ -465,7 +465,7 @@
       "clusterId": "xpress-बलद",
       "topic": "Xpress बालोद",
       "videoCount": 4,
-      "trendScore": 30.4,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -534,7 +534,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 30.0,
+      "trendScore": 29.2,
       "topVideos": [
         {
           "index": 1,
@@ -558,7 +558,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 24.6,
+      "trendScore": 23.5,
       "topVideos": [
         {
           "index": 1,
