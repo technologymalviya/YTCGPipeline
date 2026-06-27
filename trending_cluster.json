@@ -1,81 +1,12 @@
 {
-  "generatedAt": "2026-06-27T17:35:09.118038Z",
+  "generatedAt": "2026-06-27T19:49:55.700846Z",
   "clusterCount": 3,
   "clusters": [
-    {
-      "clusterId": "public-sector-exam",
-      "topic": "Public Sector Exam",
-      "videoCount": 4,
-      "trendScore": 40.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "1WsJbT_tGGs",
-          "title": "Bhilai है Sonu Sood का ससुराल | Press conference में दिल खोलकर बातें | Yashwant Sahu",
-          "description": "Bhilai है Sonu Sood का ससुराल | Press conference में दिल खोलकर बातें | Yashwant Sahu Report/Story: ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-06-27T14:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/1WsJbT_tGGs/hqdefault.jpg",
-          "durationSeconds": 2235,
-          "durationFormatted": "37:15",
-          "views": 7611,
-          "likes": 434,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "_ZBJ3Z9itmc",
-          "title": "खाद-बीज के बाद अब Water Crisis| Kisano की बढ़ी चिंता| अब कैसे होगी खेती ? Ground Report |",
-          "description": "खाद-बीज के बाद अब Water Crisis| Kisano की बढ़ी चिंता| अब कैसे होगी खेती ? Ground Report ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-06-27T02:00:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/_ZBJ3Z9itmc/hqdefault.jpg",
-          "durationSeconds": 579,
-          "durationFormatted": "09:39",
-          "views": 4971,
-          "likes": 129,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 3,
-          "videoId": "IQYgwzNQLfo",
-          "title": "Bhilai पहुंचे Actor Sonu Sood बताया, क्यों करने लगे समाज सेवा! || KP NEWS || Faizan Khan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-06-27T13:25:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/IQYgwzNQLfo/hqdefault.jpg",
-          "durationSeconds": 918,
-          "durationFormatted": "15:18",
-          "views": 742,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "46KIRk01SN4",
-          "title": "छत्तीसगढ़: बिजली बिल पर मिलेगा 75% तक डिस्काउंट, जल्द भरे फॉर्म #electricitybill #cspdcl",
-          "description": "छत्तीसगढ़: बिजली बिल पर मिलेगा 75% तक डिस्काउंट, जल्द भरे फॉर्म ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-06-27T09:39:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/46KIRk01SN4/hqdefault.jpg",
-          "durationSeconds": 73,
-          "durationFormatted": "01:13",
-          "views": 722,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-06-27T14:00:37Z"
-    },
     {
       "clusterId": "छततसगढ-भरषटचर",
       "topic": "छत्तीसगढ़ भ्रष्टाचार",
       "videoCount": 4,
-      "trendScore": 40.4,
+      "trendScore": 39.3,
       "topVideos": [
         {
           "index": 1,
@@ -141,10 +72,79 @@
       "latestUpdateAt": "2026-06-27T13:00:02Z"
     },
     {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 4,
+      "trendScore": 39.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "1WsJbT_tGGs",
+          "title": "Bhilai है Sonu Sood का ससुराल | Press conference में दिल खोलकर बातें | Yashwant Sahu",
+          "description": "Bhilai है Sonu Sood का ससुराल | Press conference में दिल खोलकर बातें | Yashwant Sahu Report/Story: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-06-27T14:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/1WsJbT_tGGs/hqdefault.jpg",
+          "durationSeconds": 2235,
+          "durationFormatted": "37:15",
+          "views": 7611,
+          "likes": 434,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "_ZBJ3Z9itmc",
+          "title": "खाद-बीज के बाद अब Water Crisis| Kisano की बढ़ी चिंता| अब कैसे होगी खेती ? Ground Report |",
+          "description": "खाद-बीज के बाद अब Water Crisis| Kisano की बढ़ी चिंता| अब कैसे होगी खेती ? Ground Report ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-06-27T02:00:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/_ZBJ3Z9itmc/hqdefault.jpg",
+          "durationSeconds": 579,
+          "durationFormatted": "09:39",
+          "views": 4971,
+          "likes": 129,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 3,
+          "videoId": "IQYgwzNQLfo",
+          "title": "Bhilai पहुंचे Actor Sonu Sood बताया, क्यों करने लगे समाज सेवा! || KP NEWS || Faizan Khan",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-06-27T13:25:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/IQYgwzNQLfo/hqdefault.jpg",
+          "durationSeconds": 918,
+          "durationFormatted": "15:18",
+          "views": 742,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "46KIRk01SN4",
+          "title": "छत्तीसगढ़: बिजली बिल पर मिलेगा 75% तक डिस्काउंट, जल्द भरे फॉर्म #electricitybill #cspdcl",
+          "description": "छत्तीसगढ़: बिजली बिल पर मिलेगा 75% तक डिस्काउंट, जल्द भरे फॉर्म ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-06-27T09:39:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/46KIRk01SN4/hqdefault.jpg",
+          "durationSeconds": 73,
+          "durationFormatted": "01:13",
+          "views": 722,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-06-27T14:00:37Z"
+    },
+    {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 3,
-      "trendScore": 27.9,
+      "trendScore": 27.4,
       "topVideos": [
         {
           "index": 1,
