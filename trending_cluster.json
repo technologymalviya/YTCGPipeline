@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-28T14:20:10.908787Z",
+  "generatedAt": "2026-06-28T15:45:50.913648Z",
   "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 31,
-      "trendScore": 63.6,
+      "trendScore": 62.9,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 9,
-      "trendScore": 42.7,
+      "trendScore": 41.8,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-mla",
       "topic": "Bhaskar MLA",
       "videoCount": 5,
-      "trendScore": 37.1,
+      "trendScore": 36.2,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "chhattisgarh-samachar",
       "topic": "Chhattisgarh Samachar",
       "videoCount": 4,
-      "trendScore": 36.1,
+      "trendScore": 35.5,
       "topVideos": [
         {
           "index": 1,
@@ -327,7 +327,7 @@
       "clusterId": "ram-mandir",
       "topic": "Ram Mandir",
       "videoCount": 4,
-      "trendScore": 29.9,
+      "trendScore": 29.0,
       "topVideos": [
         {
           "index": 1,
