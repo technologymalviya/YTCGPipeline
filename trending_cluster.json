@@ -1,5 +1,30 @@
 {
-  "generatedAt": "2026-06-28T19:50:59.005688Z",
-  "clusterCount": 0,
-  "clusters": []
+  "generatedAt": "2026-06-29T05:07:46.027803Z",
+  "clusterCount": 1,
+  "clusters": [
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 1,
+      "trendScore": 26.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "vf3NNcIAYSc",
+          "title": "सिरसा अंडर ब्रिज 60 दिनों के लिए बंद! जनता का फूटा गुस्सा | Bhilai 3 Sirsa Underbridge Closed",
+          "description": "भिलाई-3 के सिरसा अंडर ब्रिज (Sirsa Under Bridge Bhilai-3) को मरम्मत कार्य के कारण ...",
+          "channelTitle": "JANMAT ",
+          "publishedAt": "2026-06-28T10:48:27Z",
+          "thumbnail": "https://i.ytimg.com/vi/vf3NNcIAYSc/hqdefault.jpg",
+          "durationSeconds": 671,
+          "durationFormatted": "11:11",
+          "views": 1201,
+          "likes": 33,
+          "videoType": "VOD",
+          "genre": "Civic"
+        }
+      ],
+      "latestUpdateAt": "2026-06-28T10:48:27Z"
+    }
+  ]
 }
