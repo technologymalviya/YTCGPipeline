@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-02T14:34:51.121992Z",
+  "generatedAt": "2026-07-02T18:09:07.565183Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 42,
-      "trendScore": 67.2,
+      "trendScore": 65.4,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 12,
-      "trendScore": 45.4,
+      "trendScore": 43.3,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-collector",
       "topic": "Bhaskar Collector",
       "videoCount": 6,
-      "trendScore": 35.1,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 5,
-      "trendScore": 32.5,
+      "trendScore": 30.6,
       "topVideos": [
         {
           "index": 1,
@@ -342,7 +342,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 4,
-      "trendScore": 28.8,
+      "trendScore": 26.9,
       "topVideos": [
         {
           "index": 1,
@@ -411,7 +411,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 26.5,
+      "trendScore": 24.7,
       "topVideos": [
         {
           "index": 1,
@@ -435,7 +435,7 @@
       "clusterId": "day-doctor",
       "topic": "Day Doctor",
       "videoCount": 4,
-      "trendScore": 25.7,
+      "trendScore": 23.8,
       "topVideos": [
         {
           "index": 1,
@@ -504,7 +504,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 6,
-      "trendScore": 24.8,
+      "trendScore": 22.6,
       "topVideos": [
         {
           "index": 1,
