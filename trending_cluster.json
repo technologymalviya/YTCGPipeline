@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-02T09:40:07.133727Z",
+  "generatedAt": "2026-07-02T12:24:58.823794Z",
   "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 61,
-      "trendScore": 66.3,
+      "trendScore": 66.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,28 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/ZfAv802vPao/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 40324,
-          "likes": 2085,
+          "views": 115182,
+          "likes": 3329,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "BOlDCajFGgY",
-          "title": "MP News: किसानों की हुई बल्ले-बल्ले! CM मोहन यादव ने दिया किसानों को ₹1000 बोनस की सौगात |",
-          "description": "सिवनी में आयोजित राज्य स्तरीय किसान सम्मेलन में मुख्यमंत्री डॉ.",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-07-01T12:02:54Z",
-          "thumbnail": "https://i.ytimg.com/vi/BOlDCajFGgY/hqdefault.jpg",
-          "durationSeconds": 1765,
-          "durationFormatted": "29:25",
-          "views": 13115,
-          "likes": 60,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
           "videoId": "lj3csDQe2bA",
           "title": "पूर्व CM भूपेश बघेल ने बताया कैसे बच सकता था नकटी गांव | नकटी गांव पर बोले भूपेश बघेल | @tirandaj",
           "description": "raipur #naktigaon #nakti #bhupeshbaghel #chhattisgarh #chhattisgarhpolitics #raipurnews #cgnews #politicalcontroversy ...",
@@ -48,13 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/lj3csDQe2bA/hqdefault.jpg",
           "durationSeconds": 29,
           "durationFormatted": "00:29",
-          "views": 12598,
-          "likes": 176,
+          "views": 20926,
+          "likes": 290,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 4,
+          "index": 3,
           "videoId": "UvTeU_6U3UQ",
           "title": "CG में Poonam Chauhan की 4 लाख में Contract Killing की पूरी Story | Police ने 9 को दबोचा | Labhesh",
           "description": "CG में Poonam Chauhan की 4 लाख में Contract Killing की पूरी Story | Police ने 9 को दबोचा ...",
@@ -63,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/UvTeU_6U3UQ/hqdefault.jpg",
           "durationSeconds": 353,
           "durationFormatted": "05:53",
-          "views": 12451,
-          "likes": 206,
+          "views": 14130,
+          "likes": 232,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 5,
+          "index": 4,
           "videoId": "rfmklS8MtDE",
           "title": "नकटी के बेघर परिवार रायपुर में डटे | ग्रामीणों ने कांग्रेस के साथ मिलकर कलेक्ट्रेट घेरी |@tirandaj",
           "description": "naktivillagersprotest #collectorategherao #naktidisputeupdate #raipurnakticaseupdate #नकटीवालोंकाधरना ...",
@@ -78,37 +63,37 @@
           "thumbnail": "https://i.ytimg.com/vi/rfmklS8MtDE/hqdefault.jpg",
           "durationSeconds": 1354,
           "durationFormatted": "22:34",
-          "views": 8247,
-          "likes": 132,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-02T09:15:06Z"
-    },
-    {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 15,
-      "trendScore": 52.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "TxUCU8V2LtA",
-          "title": "रायपुर कलेक्ट्रेट घेरने पहुंचा पूरा नकटी गांव!",
-          "description": "latestnews #raipur #cgvideo #trending #latestnews #viralnews #nakti #naktigao.",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-07-01T11:32:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/TxUCU8V2LtA/hqdefault.jpg",
-          "durationSeconds": 134,
-          "durationFormatted": "02:14",
-          "views": 97168,
-          "likes": 2590,
+          "views": 9491,
+          "likes": 137,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
+          "index": 5,
+          "videoId": "JHaBqrXvZoQ",
+          "title": "2 July 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
+          "description": "2 July 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
+          "channelTitle": "Republic Chhattisgarh",
+          "publishedAt": "2026-07-01T23:01:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/JHaBqrXvZoQ/hqdefault.jpg",
+          "durationSeconds": 1418,
+          "durationFormatted": "23:38",
+          "views": 7729,
+          "likes": 188,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-07-02T12:22:53Z"
+    },
+    {
+      "clusterId": "location-raipur",
+      "topic": "Raipur",
+      "videoCount": 11,
+      "trendScore": 43.6,
+      "topVideos": [
+        {
+          "index": 1,
           "videoId": "yrjVtI6ncUU",
           "title": "रायपुर कलेक्ट्रेट घेरने पहुंचे नकटी गांव के लोग! अब क्या होगा? Raipur | nakati Gaon | Thiha CG News",
           "description": "रायपुर कलेक्ट्रेट घेरने पहुंचे नकटी गांव के लोग! अब क्या होगा? Raipur ...",
@@ -117,28 +102,13 @@
           "thumbnail": "https://i.ytimg.com/vi/yrjVtI6ncUU/hqdefault.jpg",
           "durationSeconds": 1300,
           "durationFormatted": "21:40",
-          "views": 45078,
-          "likes": 1061,
+          "views": 53110,
+          "likes": 1182,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "_WIJ8YvPlQY",
-          "title": "Raipur nakati ganv, nakati village, की सच्चाई जो पहले थी वो अब भी है",
-          "description": "raipur #nakati #raipurnews #chhattisgarh #cgbox #anujsharma #bjp #bjpindia #cgnews #breakingnews #latestnews #hindinews ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-07-01T10:41:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/_WIJ8YvPlQY/hqdefault.jpg",
-          "durationSeconds": 1224,
-          "durationFormatted": "20:24",
-          "views": 41829,
-          "likes": 2932,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
+          "index": 2,
           "videoId": "jdnXhgPFh0U",
           "title": "Raipur के नकटी गांव वालों ने किया कलेक्ट्रेट घेराव ! Raipur Nakti Hindi News || Bharti Media Network",
           "description": "Raipur के नकटी गांव वालों ने किया कलेक्ट्रेट घेराव ! Raipur Nakti Hindi News || Bharti ...",
@@ -147,13 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jdnXhgPFh0U/hqdefault.jpg",
           "durationSeconds": 1460,
           "durationFormatted": "24:20",
-          "views": 25508,
+          "views": 29492,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "goHrnsuusg8",
           "title": "01 जुलाई, 2026 | प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
           "description": "",
@@ -162,37 +132,52 @@
           "thumbnail": "https://i.ytimg.com/vi/goHrnsuusg8/hqdefault.jpg",
           "durationSeconds": 631,
           "durationFormatted": "10:31",
-          "views": 1058,
-          "likes": 54,
+          "views": 1100,
+          "likes": 55,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "NlMvW_CZQa4",
+          "title": "Raipur के Nakti गांव के पुनर्वास पर उठे सवाल !दस्तावेज थे,फिर भी बेघर! || Bharti Media || Naveen",
+          "description": "Raipur के Nakti गांव के पुनर्वास पर उठे सवाल !दस्तावेज थे,फिर भी बेघर! || Raipur ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-07-02T06:39:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/NlMvW_CZQa4/hqdefault.jpg",
+          "durationSeconds": 490,
+          "durationFormatted": "08:10",
+          "views": 904,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "HtTixxdBwXg",
+          "title": "रायपुर में बदमाशों की शामत! पुलिस ने चलाया ऑपरेशन कालचक्र...| raipurpolice  | operationkalchakra",
+          "description": "रायपुर में बदमाशों की शामत! पुलिस ने चलाया ऑपरेशन कालचक्र... #raipurpolice ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-07-02T10:02:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/HtTixxdBwXg/hqdefault.jpg",
+          "durationSeconds": 49,
+          "durationFormatted": "00:49",
+          "views": 443,
+          "likes": 6,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-07-02T06:59:08Z"
+      "latestUpdateAt": "2026-07-02T10:02:06Z"
     },
     {
       "clusterId": "dongakohraud-demand",
       "topic": "Dongakohraud Demand",
       "videoCount": 4,
-      "trendScore": 45.9,
+      "trendScore": 42.7,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "a-MfFcrQeKU",
-          "title": "public Demand rode  , viral video में देखिए dongakohraud गांव के लोगों ने किस तरह विरोध दर्ज कराया",
-          "description": "cgboxnews #PublicDemand #RoadIssue #RoadConstruction #RoadSafety #RoadRepair #BadRoads #PublicVoice ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-07-01T12:47:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/a-MfFcrQeKU/hqdefault.jpg",
-          "durationSeconds": 841,
-          "durationFormatted": "14:01",
-          "views": 12482,
-          "likes": 623,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "zV8J4eouqJc",
           "title": "public Demand rode  , viral video में देखिए Dongakohraud Gaon के लोगों ने किस तरह विरोध दर्ज कराया",
           "description": "cgboxnews #PublicDemand #RoadIssue #RoadConstruction #RoadSafety #RoadRepair #BadRoads #PublicVoice ...",
@@ -201,8 +186,23 @@
           "thumbnail": "https://i.ytimg.com/vi/zV8J4eouqJc/hqdefault.jpg",
           "durationSeconds": 38,
           "durationFormatted": "00:38",
-          "views": 8106,
-          "likes": 574,
+          "views": 25265,
+          "likes": 930,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "a-MfFcrQeKU",
+          "title": "public Demand road  , viral video में देखिए dongakohraud गांव के लोगों ने किस तरह विरोध दर्ज कराया",
+          "description": "cgboxnews #PublicDemand #RoadIssue #RoadConstruction #RoadSafety #RoadRepair #BadRoads #PublicVoice ...",
+          "channelTitle": "CG BOX",
+          "publishedAt": "2026-07-01T12:47:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/a-MfFcrQeKU/hqdefault.jpg",
+          "durationSeconds": 841,
+          "durationFormatted": "14:01",
+          "views": 13214,
+          "likes": 649,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -216,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Y2Z2F3WfJqc/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 1876,
-          "likes": 117,
+          "views": 3215,
+          "likes": 235,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -231,8 +231,8 @@
           "thumbnail": "https://i.ytimg.com/vi/pWZaGiEUVMk/hqdefault.jpg",
           "durationSeconds": 158,
           "durationFormatted": "02:38",
-          "views": 1722,
-          "likes": 177,
+          "views": 3043,
+          "likes": 270,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -242,8 +242,8 @@
     {
       "clusterId": "नकट-गव",
       "topic": "नकटी गाँव",
-      "videoCount": 10,
-      "trendScore": 43.3,
+      "videoCount": 7,
+      "trendScore": 40.2,
       "topVideos": [
         {
           "index": 1,
@@ -255,43 +255,13 @@
           "thumbnail": "https://i.ytimg.com/vi/psyeOxapHDs/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 113469,
-          "likes": 2483,
+          "views": 140792,
+          "likes": 2838,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
-          "videoId": "GcjZwZDfrDU",
-          "title": "नकटी बस्ती विवाद में नया मोड़! कार्रवाई वाली जमीन के रिकॉर्ड ने बढ़ाए सवाल",
-          "description": "रायपुर की नकटी बस्ती में बुलडोज़र कार्रवाई के बाद अब मामला नए मोड़ ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-01T14:08:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/GcjZwZDfrDU/hqdefault.jpg",
-          "durationSeconds": 46,
-          "durationFormatted": "00:46",
-          "views": 1141,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "ryZFVSL7LFw",
-          "title": "घटनास्थल पर नशे की हालत में पहुंचा आरक्षक | CG Bhaskar",
-          "description": "घटनास्थल पर नशे की हालत में पहुंचा आरक्षक | CG Bhaskar - ये वीडियो रायपुर ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-07-01T10:13:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/ryZFVSL7LFw/hqdefault.jpg",
-          "durationSeconds": 108,
-          "durationFormatted": "01:48",
-          "views": 971,
-          "likes": 31,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "0l8OCgYud60",
           "title": "नकटी के पीड़ितों को Collector का आश्वासन | 24 घंटो में होगा कुछ ना कुछ हल | CG Bhaskar",
           "description": "नकटी के पीड़ितों को Collector का आश्वासन | 24 घंटो में होगा कुछ ना कुछ हल | CG ...",
@@ -300,13 +270,13 @@
           "thumbnail": "https://i.ytimg.com/vi/0l8OCgYud60/hqdefault.jpg",
           "durationSeconds": 88,
           "durationFormatted": "01:28",
-          "views": 811,
-          "likes": 18,
+          "views": 1287,
+          "likes": 37,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
+          "index": 3,
           "videoId": "XuEpKtR00L8",
           "title": "राशन दुकानों में 5 जुलाई से लग जाएंगे ताले ? | CG Bhaskar",
           "description": "राशन दुकानों में 5 जुलाई से लग जाएंगे ताले ? | CG Bhaskar राशन दुकान संचालक ...",
@@ -315,10 +285,40 @@
           "thumbnail": "https://i.ytimg.com/vi/XuEpKtR00L8/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 536,
+          "views": 595,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "YgqdJHixVh0",
+          "title": "किसी और की लापरवाही ले सकती है किसी और की जाN | CG Bhaskar",
+          "description": "दुर्ग के डिपरापारा से पोटिया कला को जोड़ने वाले मार्ग पर पुल का ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-07-02T09:28:17Z",
+          "thumbnail": "https://i.ytimg.com/vi/YgqdJHixVh0/hqdefault.jpg",
+          "durationSeconds": 178,
+          "durationFormatted": "02:58",
+          "views": 298,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "crUJk4eCbJo",
+          "title": "शादी के नाम पर 10 लाख की ठगी | CG Bhaskar",
+          "description": "रायपुर में शादी का झांसा देकर एक सेवानिवृत्त टेक्निशियन से 9.50 लाख ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-07-01T14:36:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/crUJk4eCbJo/hqdefault.jpg",
+          "durationSeconds": 110,
+          "durationFormatted": "01:50",
+          "views": 269,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-07-02T09:28:17Z"
@@ -327,7 +327,7 @@
       "clusterId": "location-bilaspur",
       "topic": "Bilaspur",
       "videoCount": 6,
-      "trendScore": 39.8,
+      "trendScore": 38.0,
       "topVideos": [
         {
           "index": 1,
@@ -339,8 +339,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CgsaBnwb6n0/hqdefault.jpg",
           "durationSeconds": 683,
           "durationFormatted": "11:23",
-          "views": 2249,
-          "likes": 103,
+          "views": 2333,
+          "likes": 105,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -354,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EytL6K5_hOg/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 253,
+          "views": 322,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -369,7 +369,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vinsqALWF5Q/hqdefault.jpg",
           "durationSeconds": 267,
           "durationFormatted": "04:27",
-          "views": 60,
+          "views": 88,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/APf9mqN_bTs/hqdefault.jpg",
           "durationSeconds": 224,
           "durationFormatted": "03:44",
-          "views": 51,
+          "views": 56,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -399,7 +399,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9Go0P0zOdN8/hqdefault.jpg",
           "durationSeconds": 444,
           "durationFormatted": "07:24",
-          "views": 26,
+          "views": 51,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -408,79 +408,10 @@
       "latestUpdateAt": "2026-07-02T07:25:19Z"
     },
     {
-      "clusterId": "amarnath-yatra",
-      "topic": "Amarnath Yatra",
-      "videoCount": 4,
-      "trendScore": 33.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "quR5WAxARTU",
-          "title": "Amarnath Yatra : बाबा बर्फानी के दरबार को पहला जत्था रवाना | कड़ी सुरक्षा के बीच बाबा के दरबार की ओर",
-          "description": "Amarnath Yatra 2026: बाबा बर्फानी के पवित्र दर्शन के लिए अमरनाथ यात्रा का ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-07-02T07:00:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/quR5WAxARTU/hqdefault.jpg",
-          "durationSeconds": 865,
-          "durationFormatted": "14:25",
-          "views": 1628,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "DcjiYqMDnqU",
-          "title": "अमरनाथ यात्रा 2026 का शुभारंभ पहला जत्था रवाना",
-          "description": "बम बम भोले के जयघोष के बीच अमरनाथ यात्रा 2026 का पहला जत्था रवाना हो ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-07-02T05:31:45Z",
-          "thumbnail": "https://i.ytimg.com/vi/DcjiYqMDnqU/hqdefault.jpg",
-          "durationSeconds": 37,
-          "durationFormatted": "00:37",
-          "views": 307,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 3,
-          "videoId": "wAPsPXOLklE",
-          "title": "Amarnath Yatra 2026 LIVE: अमरनाथ यात्रा का पहला जत्था जम्मू से रवाना। उपराज्यपाल ने दिखाई हरी झंडी",
-          "description": "IBC24, Amarnath Yatra 2026 LIVE: अमरनाथ यात्रा का पहला जत्था जम्मू से रवाना।",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-07-02T06:33:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/wAPsPXOLklE/hqdefault.jpg",
-          "durationSeconds": 149,
-          "durationFormatted": "02:29",
-          "views": 227,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "IHdrg2ehVQo",
-          "title": "Amarnath Yatra 2026: बाबा बर्फानी के दर्शन के लिए पहला जत्था रवाना, कड़ी सुरक्षा के बीच यात्रा शुरू|",
-          "description": "भगवती नगर बेस कैंप से बाबा अमरनाथ यात्रा का पहला जत्था रवाना हो गया।",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-07-02T03:59:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/IHdrg2ehVQo/hqdefault.jpg",
-          "durationSeconds": 115,
-          "durationFormatted": "01:55",
-          "views": 6,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-07-02T07:00:14Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 29.5,
+      "videoCount": 2,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -496,48 +427,33 @@
           "likes": 6,
           "videoType": "VOD",
           "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-07-02T08:12:33Z"
-    },
-    {
-      "clusterId": "zee-mpcg",
-      "topic": "Zee MPCG",
-      "videoCount": 4,
-      "trendScore": 29.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "6ERi-L1ETXw",
-          "title": "🔴LIVE :  Aap ki Aawaz :करोड़ों का ऑडिटोरियम, बदहाली की तस्वीर!  | Zee MPCG | Latest News",
-          "description": "LIVE : Aap ki Aawaz :करोड़ों का ऑडिटोरियम, बदहाली की तस्वीर! | Zee MPCG | Latest News ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-07-02T03:28:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/6ERi-L1ETXw/hqdefault.jpg",
-          "durationSeconds": 1441,
-          "durationFormatted": "24:01",
-          "views": 70,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
         },
         {
           "index": 2,
-          "videoId": "KIRwxQq1-cg",
-          "title": "🔴LIVE : MP - CG : मध्यप्रदेश में मानसून ने पकड़ी रफ्तार | Latest News | Zee MPCG",
-          "description": "LIVE : MP - CG : मध्यप्रदेश में मानसून ने पकड़ी रफ्तार | Latest News | Zee MPCG ...",
-          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-07-02T04:25:46Z",
-          "thumbnail": "https://i.ytimg.com/vi/KIRwxQq1-cg/hqdefault.jpg",
-          "durationSeconds": 1569,
-          "durationFormatted": "26:09",
-          "views": 55,
-          "likes": 3,
+          "videoId": "3YKT_0wB-vI",
+          "title": "Kya Difference hai AI Aur Humans m? Gitesh Yadav | AI filmmaker | Manish Rathore | 36garhpodcast",
+          "description": "36garhpodcast Chhattisgarh Podcast Instagram https://www.instagram.com/36garhpodcast/ Facebook ...",
+          "channelTitle": "Chhattisgarh Podcast",
+          "publishedAt": "2026-07-02T10:30:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/3YKT_0wB-vI/hqdefault.jpg",
+          "durationSeconds": 53,
+          "durationFormatted": "00:53",
+          "views": 504,
+          "likes": 10,
           "videoType": "VOD",
-          "genre": "General"
-        },
+          "genre": "Podcast"
+        }
+      ],
+      "latestUpdateAt": "2026-07-02T10:30:52Z"
+    },
+    {
+      "clusterId": "zee-mpcg",
+      "topic": "ZEE MPCG",
+      "videoCount": 7,
+      "trendScore": 30.2,
+      "topVideos": [
         {
-          "index": 3,
+          "index": 1,
           "videoId": "jKF3puMRCnE",
           "title": "🔴LIVE : MP-CG News : उज्जैन : कार से किया स्टंट...कट गया चालान | MP News | Zee MPCG",
           "description": "LIVE : MP-CG News : उज्जैन : कार से किया स्टंट...कट गया चालान | MP News | Zee MPCG ...",
@@ -546,13 +462,13 @@
           "thumbnail": "https://i.ytimg.com/vi/jKF3puMRCnE/hqdefault.jpg",
           "durationSeconds": 1454,
           "durationFormatted": "24:14",
-          "views": 20,
+          "views": 52,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 2,
           "videoId": "2CqCWn6b-6A",
           "title": "🔴LIVE : Din Dahade : सोनम रघुवंशी की जमानत को SC में चुनौती | Latest News | Zee MPCG",
           "description": "LIVE : Din Dahade : सोनम रघुवंशी की जमानत को SC में चुनौती | Latest News | Zee MPCG ...",
@@ -561,37 +477,67 @@
           "thumbnail": "https://i.ytimg.com/vi/2CqCWn6b-6A/hqdefault.jpg",
           "durationSeconds": 1325,
           "durationFormatted": "22:05",
-          "views": 11,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-02T07:27:01Z"
-    },
-    {
-      "clusterId": "location-durg",
-      "topic": "Durg",
-      "videoCount": 4,
-      "trendScore": 27.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "0mMq-Xtk-c0",
-          "title": "Durg: पंचतत्व चिकित्सा से लोगों का इलाज! Bajrang Dal ने लगाया FREE Health Camp || KP NEWS || Ajay",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-07-01T16:00:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/0mMq-Xtk-c0/hqdefault.jpg",
-          "durationSeconds": 983,
-          "durationFormatted": "16:23",
-          "views": 475,
+          "views": 33,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 2,
+          "index": 3,
+          "videoId": "eZKSaNd7nPk",
+          "title": "🔴LIVE : एमपी में गजब इंजीनियरिंग | MP News | Zee MPCG",
+          "description": "LIVE : एमपी में गजब इंजीनियरिंग | MP News | Zee MPCG उमंग सिंघार और दिग्विजय ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-07-02T09:25:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/eZKSaNd7nPk/hqdefault.jpg",
+          "durationSeconds": 1277,
+          "durationFormatted": "21:17",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Cr9iPttL1xA",
+          "title": "FIFA World Cup 2026 : बेल्जियम का दमदार कमबैक | Zee MPCG",
+          "description": "FIFA World Cup 2026 : बेल्जियम का दमदार कमबैक हैरी केन के डबल गोल से जीता ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-07-02T08:45:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/Cr9iPttL1xA/hqdefault.jpg",
+          "durationSeconds": 110,
+          "durationFormatted": "01:50",
+          "views": 19,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "54gk4qJgwUc",
+          "title": "🔴LIVE :स्कूलों में मंत्रोच्चार, क्यों मचा घमासान ? | Chhattisgarh News | CG News | Zee MPCG",
+          "description": "LIVE :स्कूलों में मंत्रोच्चार, क्यों मचा घमासान ? | Chhattisgarh News | CG News | Zee ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-07-02T11:55:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/54gk4qJgwUc/hqdefault.jpg",
+          "durationSeconds": 1319,
+          "durationFormatted": "21:59",
+          "views": 13,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-07-02T11:55:07Z"
+    },
+    {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 4,
+      "trendScore": 29.9,
+      "topVideos": [
+        {
+          "index": 1,
           "videoId": "AVewmG3pHVI",
           "title": "दुर्ग कलेक्टोरेट में ही सुविधाएं फेल! | CG Bhaskar",
           "description": "Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx Follow us on Social Media Facebook ...",
@@ -600,28 +546,28 @@
           "thumbnail": "https://i.ytimg.com/vi/AVewmG3pHVI/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 368,
-          "likes": 5,
+          "views": 2334,
+          "likes": 16,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "0mMq-Xtk-c0",
+          "title": "Durg: पंचतत्व चिकित्सा से लोगों का इलाज! Bajrang Dal ने लगाया FREE Health Camp || KP NEWS || Ajay",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-07-01T16:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/0mMq-Xtk-c0/hqdefault.jpg",
+          "durationSeconds": 983,
+          "durationFormatted": "16:23",
+          "views": 571,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "WhexjxVEBzM",
-          "title": "बिजली हुई महंगी, दुर्ग में टूटे सैकड़ों स्मार्ट मीटर | CG Bhaskar",
-          "description": "Join our Whatsapp Group https://chat.whatsapp.com/Der1Etf9PedCNRo3cUZZxx Follow us on Social Media Facebook ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-07-01T12:00:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/WhexjxVEBzM/hqdefault.jpg",
-          "durationSeconds": 164,
-          "durationFormatted": "02:44",
-          "views": 341,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "MJQY7WeQv2M",
           "title": "दुर्ग: AI पोस्ट विवाद, प्रशासन से सख्त कार्रवाई की मांग",
           "description": "आप हमारे चैनल की सदस्यता मुफ्त में लें, ताकि आप हमारे चैनल की और ...",
@@ -630,37 +576,37 @@
           "thumbnail": "https://i.ytimg.com/vi/MJQY7WeQv2M/hqdefault.jpg",
           "durationSeconds": 223,
           "durationFormatted": "03:43",
-          "views": 83,
+          "views": 93,
           "likes": 4,
           "videoType": "VOD",
           "genre": "Crime"
+        },
+        {
+          "index": 4,
+          "videoId": "WcfCt01D1Tk",
+          "title": "Durg: पंचतत्व से इलाज और मुफ्त जांच! बजरंग दल की अनोखी पहल... @KPNews_",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-07-02T12:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/WcfCt01D1Tk/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-07-02T09:00:15Z"
+      "latestUpdateAt": "2026-07-02T12:00:37Z"
     },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 3,
-      "trendScore": 27.1,
+      "trendScore": 27.0,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "qtcIiiarlpc",
-          "title": "भिलाई 3 चरोदा निगम में भाजपा ने किया जंगी प्रदर्शन",
-          "description": "",
-          "channelTitle": "SABKA SANDESH NEWS",
-          "publishedAt": "2026-07-01T10:28:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/qtcIiiarlpc/hqdefault.jpg",
-          "durationSeconds": 271,
-          "durationFormatted": "04:31",
-          "views": 80,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 2,
           "videoId": "4qAl4-wAo8E",
           "title": "भिलाई 3 - चरोदा निगम में BJP का जंगी हल्ला बोल प्रदर्शन |  Exclusive Political News |",
           "description": "भिलाई 3 - चरोदा निगम में BJP का जंगी हल्ला बोल प्रदर्शन | Exclusive Political News ...",
@@ -669,13 +615,13 @@
           "thumbnail": "https://i.ytimg.com/vi/4qAl4-wAo8E/hqdefault.jpg",
           "durationSeconds": 835,
           "durationFormatted": "13:55",
-          "views": 54,
-          "likes": 1,
+          "views": 59,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "Bq06bryM43c",
           "title": "Bhimrao Bagde, AICCTU central Leader speaks about Ist july Saheed Diwas at Bhilai Powerhouse,Cg",
           "description": "Bhimrao Bagde, AICCTU central Leader speaks about Ist july Saheed Diwas at Bhilai Powerhouse ...",
@@ -684,13 +630,82 @@
           "thumbnail": "https://i.ytimg.com/vi/Bq06bryM43c/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 3,
+          "views": 5,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "nU6sdW0x87c",
+          "title": "Dr Priya Sahu , Pathologist,jlnh,Sec9,bhilai, Chhattisgarh express her thoughts on Doctor&#39;s Day",
+          "description": "Dr Priya Sahu , Pathologist,jlnh,Sec9,bhilai, Chhattisgarh express her thoughts on Doctor's ...",
+          "channelTitle": "Awaaz Hind 24",
+          "publishedAt": "2026-07-02T12:15:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/nU6sdW0x87c/hqdefault.jpg",
+          "durationSeconds": 79,
+          "durationFormatted": "01:19",
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-07-02T07:13:50Z"
+      "latestUpdateAt": "2026-07-02T12:15:18Z"
+    },
+    {
+      "clusterId": "location-rajnandgaon",
+      "topic": "Rajnandgaon",
+      "videoCount": 3,
+      "trendScore": 20.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "gawwOox8mnA",
+          "title": "RJN राजनांदगांव में GPS ट्रैकिंग सिस्टम लागू, अब हर बस पर रहेगी डिजिटल नजर",
+          "description": "chhattisgarhnews #rajnandgaon #gps ........................................................................................................................................... India Town ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-07-02T10:47:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/gawwOox8mnA/hqdefault.jpg",
+          "durationSeconds": 136,
+          "durationFormatted": "02:16",
+          "views": 4,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "Ma9__UTRWSQ",
+          "title": "RJN   राजनांदगांव बना मिसाल-छत पर Solar Panel लगाओ, बिजली बचाओ और कमाई भी करो",
+          "description": "chhattisgarhnews #rajnandgaon #solarsystem ........................................................................................................................................... India ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-07-02T10:04:40Z",
+          "thumbnail": "https://i.ytimg.com/vi/Ma9__UTRWSQ/hqdefault.jpg",
+          "durationSeconds": 108,
+          "durationFormatted": "01:48",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "kgDHhQslsaU",
+          "title": "RJN राजनांदगांव-शादी का झांसा देकर युवती से दु!ष्कर्म का आरोप, आरोपी गिरफ्तार",
+          "description": "chhattisgarhnews #rajnandgaon #crimenews ........................................................................................................................................... India ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-07-02T10:47:03Z",
+          "thumbnail": "https://i.ytimg.com/vi/kgDHhQslsaU/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
+      "latestUpdateAt": "2026-07-02T10:47:03Z"
     }
   ]
 }
