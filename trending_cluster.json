@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-02T19:58:11.783066Z",
+  "generatedAt": "2026-07-03T04:14:45.289223Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 5,
-      "trendScore": 44.8,
+      "trendScore": 41.5,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "day-school",
       "topic": "Day School",
       "videoCount": 4,
-      "trendScore": 25.7,
+      "trendScore": 22.1,
       "topVideos": [
         {
           "index": 1,
