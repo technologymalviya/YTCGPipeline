@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-06T18:23:32.977749Z",
+  "generatedAt": "2026-07-06T20:19:11.623496Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 34,
-      "trendScore": 68.5,
+      "trendScore": 67.4,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 13,
-      "trendScore": 46.2,
+      "trendScore": 45.2,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "zee-mpcg",
       "topic": "ZEE MPCG",
       "videoCount": 12,
-      "trendScore": 42.1,
+      "trendScore": 40.8,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "पहल-बरश",
       "topic": "पहली बारिश",
       "videoCount": 5,
-      "trendScore": 39.1,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -342,7 +342,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 36.1,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
@@ -396,7 +396,7 @@
       "clusterId": "bhaskar-atm",
       "topic": "Bhaskar ATM",
       "videoCount": 4,
-      "trendScore": 35.2,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -465,7 +465,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 32.1,
+      "trendScore": 30.9,
       "topVideos": [
         {
           "index": 1,
@@ -489,7 +489,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 3,
-      "trendScore": 31.0,
+      "trendScore": 30.0,
       "topVideos": [
         {
           "index": 1,
@@ -543,7 +543,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 25.2,
+      "trendScore": 24.4,
       "topVideos": [
         {
           "index": 1,
