@@ -1,135 +1,12 @@
 {
-  "generatedAt": "2026-07-09T20:13:56.673967Z",
-  "clusterCount": 3,
+  "generatedAt": "2026-07-10T04:29:55.758275Z",
+  "clusterCount": 1,
   "clusters": [
-    {
-      "clusterId": "public-sector-exam",
-      "topic": "Public Sector Exam",
-      "videoCount": 11,
-      "trendScore": 45.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "oThCic3KSxI",
-          "title": "9 July 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai",
-          "description": "9 July 2026 CG News Today | CG Fatafat News | Chhattisgarh Breaking News | CM Vishnu Deo Sai #ChhattisgarhSamachar ...",
-          "channelTitle": "Republic Chhattisgarh",
-          "publishedAt": "2026-07-08T23:30:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/oThCic3KSxI/hqdefault.jpg",
-          "durationSeconds": 1537,
-          "durationFormatted": "25:37",
-          "views": 12456,
-          "likes": 216,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "AO1F5RS2ZSM",
-          "title": "बलौदा बाजार के बाद बालोद और राजनांदगांव में भी खुले पाताल के द्वार! | ग्रामीणों में डर |@tirandaj",
-          "description": "underworldgatewayinbalod #underworldgatewayinrajnandgaon #geologicalphenomenon #crackedearthinbalod ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-07-09T03:00:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/AO1F5RS2ZSM/hqdefault.jpg",
-          "durationSeconds": 164,
-          "durationFormatted": "02:44",
-          "views": 10796,
-          "likes": 106,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "4CTU2TmnXiA",
-          "title": "CGPSC 2026 New Syllabus में Mains Exam को लेकर शिक्षकों ने क्या बताया जो अन्याय है",
-          "description": "cgpsc2026 #cgpscmains #chhattisgarh #CGPSCSyllabus2026 #CGPSCExam2026 #cgpscpreparation #CGPSCUpdate ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-07-09T07:18:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/4CTU2TmnXiA/hqdefault.jpg",
-          "durationSeconds": 43,
-          "durationFormatted": "00:43",
-          "views": 9854,
-          "likes": 577,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "ri81YsJlvS0",
-          "title": "ट्रेन की AC बोगी में सुहागरात की सेज | ट्रेन में सुहागरात की सेज में TTE सस्पेंड |  @tirandaj",
-          "description": "weddingnightsetupintrain #nandigramexpress #weddingnightinACcoach #weddingnightsetupviralvideo ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-07-09T15:22:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/ri81YsJlvS0/hqdefault.jpg",
-          "durationSeconds": 41,
-          "durationFormatted": "00:41",
-          "views": 1379,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "J8ULoRh3xE0",
-          "title": "&#39;नकटी उजाड़ने पर कलेक्टर, तहसीलदार, जेसीबी चालकों पर हो FIR&#39; | अब कानूनी लड़ाई की तैयारी |@tirandaj​",
-          "description": "nakaticaseupdate #raipurcollector #FIRagainstcollector #raipurnakati #नकटीकेसअपडेट #रायपुरकलेक्टर ...",
-          "channelTitle": "Tirandaj",
-          "publishedAt": "2026-07-09T16:55:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/J8ULoRh3xE0/hqdefault.jpg",
-          "durationSeconds": 1094,
-          "durationFormatted": "18:14",
-          "views": 1171,
-          "likes": 49,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-09T16:55:26Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 2,
-      "trendScore": 43.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Rf7eNoi0jx8",
-          "title": "पद्मविभूषण Teejan बाई के नाम पर chhattisgarh में राज्य अलंकरण सम्मान दिया जाएगा",
-          "description": "teejanbai #pandwani #folksong #chhattisgarh #chhattisgarhi #cgnews #cgshorts #bjp #viralvideo #viralnews #viralnewstoday ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-07-09T13:23:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/Rf7eNoi0jx8/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 31738,
-          "likes": 1664,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "cjL4_xbKWJw",
-          "title": "पोंड़ी भूमि विवाद खत्म, वक्फ बोर्ड ने छोड़ा दावा; अब सिर्फ मस्जिद और ईदगाह की जमीन पर रहेगा अधिकार",
-          "description": "कबीरधाम जिले के ग्राम पोंड़ी में लंबे समय से चल रहा भूमि विवाद अब ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-09T15:24:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/cjL4_xbKWJw/hqdefault.jpg",
-          "durationSeconds": 231,
-          "durationFormatted": "03:51",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-07-09T15:24:16Z"
-    },
     {
       "clusterId": "xpress-थन",
       "topic": "Xpress थाना",
       "videoCount": 5,
-      "trendScore": 30.1,
+      "trendScore": 26.4,
       "topVideos": [
         {
           "index": 1,
@@ -141,7 +18,7 @@
           "thumbnail": "https://i.ytimg.com/vi/IJPB5xNMqSw/hqdefault.jpg",
           "durationSeconds": 111,
           "durationFormatted": "01:51",
-          "views": 154,
+          "views": 193,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -156,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ap5G-Tv4MDE/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 125,
+          "views": 160,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -171,7 +48,7 @@
           "thumbnail": "https://i.ytimg.com/vi/JTDWfREXyK8/hqdefault.jpg",
           "durationSeconds": 212,
           "durationFormatted": "03:32",
-          "views": 98,
+          "views": 106,
           "likes": 3,
           "videoType": "VOD",
           "genre": "Politics"
@@ -186,7 +63,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ndEmpcg9RUo/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 61,
+          "views": 92,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -201,7 +78,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Mv5v3iux1zU/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 42,
+          "views": 71,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
