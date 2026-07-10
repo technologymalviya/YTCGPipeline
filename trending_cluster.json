@@ -1,114 +1,15 @@
 {
-  "generatedAt": "2026-07-10T18:06:35.393478Z",
-  "clusterCount": 3,
+  "generatedAt": "2026-07-10T19:56:39.555865Z",
+  "clusterCount": 2,
   "clusters": [
     {
-      "clusterId": "public-sector-exam",
-      "topic": "Public Sector Exam",
-      "videoCount": 6,
-      "trendScore": 41.9,
+      "clusterId": "bhilai-कमर",
+      "topic": "Bhilai कमरे",
+      "videoCount": 7,
+      "trendScore": 34.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "V6Z3pm2ukQs",
-          "title": "शराबी दुल्हा कहकर लौटाया, 16 दिन बाद शादी | Yashwant Sahu |",
-          "description": "शराबी दुल्हा कहकर लौटाया, 16 दिन बाद शादी | Yashwant Sahu | Report/Story: Yashwant Sahu ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-10T08:30:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/V6Z3pm2ukQs/hqdefault.jpg",
-          "durationSeconds": 333,
-          "durationFormatted": "05:33",
-          "views": 15425,
-          "likes": 279,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "SwnggXQo85U",
-          "title": "Dhamtari में पति-पत्नी और वो... | पति का खौफनाक कदम | Yashwant Sahu",
-          "description": "Dhamtari में पति-पत्नी और वो... | पति का खौफनाक कदम | Yashwant Sahu Report/Story: Yashwant Sahu ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-10T15:30:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/SwnggXQo85U/hqdefault.jpg",
-          "durationSeconds": 470,
-          "durationFormatted": "07:50",
-          "views": 4848,
-          "likes": 206,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "CL1YJBx2psI",
-          "title": "24 IPS अफसरों का तबादला, कई जिलों के पुलिस कप्तान भी बदले गये...",
-          "description": "24 IPS अफसरों का तबादला, कई जिलों के पुलिस कप्तान भी बदले गये... Report/Story: ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-10T17:30:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/CL1YJBx2psI/hqdefault.jpg",
-          "durationSeconds": 135,
-          "durationFormatted": "02:15",
-          "views": 1249,
-          "likes": 60,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "KgQrhq9awuI",
-          "title": "Surajpur: जिला शिक्षा अधिकारी ने लिया एक्शन, शराबी हेडमास्टर निलंबित || @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-07-10T14:15:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/KgQrhq9awuI/hqdefault.jpg",
-          "durationSeconds": 122,
-          "durationFormatted": "02:02",
-          "views": 255,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "-PqRsktRh-Y",
-          "title": "भिलाई में इस Sunday फिटनेस का ध्यान रखें और पाएं शानदार उपहार! || @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-07-10T14:45:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/-PqRsktRh-Y/hqdefault.jpg",
-          "durationSeconds": 128,
-          "durationFormatted": "02:08",
-          "views": 170,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-10T17:30:34Z"
-    },
-    {
-      "clusterId": "location-bhilai",
-      "topic": "Bhilai",
-      "videoCount": 3,
-      "trendScore": 39.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "xJ28lTsO2aU",
-          "title": "अब ATM से मिलेगा Rashan, भिलाई में लगा पहला सेटअप",
-          "description": "अब ATM से मिलेगा Rashan, भिलाई में लगा पहला सेटअप Join this channel to get access to the perks: ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-10T02:30:07Z",
-          "thumbnail": "https://i.ytimg.com/vi/xJ28lTsO2aU/hqdefault.jpg",
-          "durationSeconds": 119,
-          "durationFormatted": "01:59",
-          "views": 54053,
-          "likes": 1627,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
           "videoId": "oT-pgXWuy64",
           "title": "Bhilai : कमरे के अंदर युवती को युवक ने चाकू से कर दिया ख.त्म!",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -117,13 +18,13 @@
           "thumbnail": "https://i.ytimg.com/vi/oT-pgXWuy64/hqdefault.jpg",
           "durationSeconds": 25,
           "durationFormatted": "00:25",
-          "views": 4017,
+          "views": 6158,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
-          "index": 3,
+          "index": 2,
           "videoId": "2ZTZNdQ9Qh8",
           "title": "Bhilai के इस दुकान से अगर पैसे नहीं है तब भी कर सकते हैं Shopping",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -132,22 +33,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2ZTZNdQ9Qh8/hqdefault.jpg",
           "durationSeconds": 80,
           "durationFormatted": "01:20",
-          "views": 350,
+          "views": 402,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-10T14:20:34Z"
-    },
-    {
-      "clusterId": "formula-supela",
-      "topic": "Formula Supela",
-      "videoCount": 5,
-      "trendScore": 28.8,
-      "topVideos": [
+        },
         {
-          "index": 1,
+          "index": 3,
           "videoId": "fOQPrq9B3cU",
           "title": "किस Formula से निकलेगा Supela के Traffic जाम का हल ?",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -156,13 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/fOQPrq9B3cU/hqdefault.jpg",
           "durationSeconds": 122,
           "durationFormatted": "02:02",
-          "views": 272,
+          "views": 346,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
-          "index": 2,
+          "index": 4,
           "videoId": "qt2Tp_NtF4c",
           "title": "कवर्धा शहर के होटल, ढाबों और रेस्टोरेंटों में पुलिस ने सरप्राइज चेकिंग",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -171,13 +63,13 @@
           "thumbnail": "https://i.ytimg.com/vi/qt2Tp_NtF4c/hqdefault.jpg",
           "durationSeconds": 51,
           "durationFormatted": "00:51",
-          "views": 108,
+          "views": 143,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 5,
           "videoId": "MNFkCFKjUW8",
           "title": "Solar पे चर्चा | Market का सबसे बड़ा सच!",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -186,43 +78,67 @@
           "thumbnail": "https://i.ytimg.com/vi/MNFkCFKjUW8/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 92,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "2y2pfnKKrV8",
-          "title": "महादेव ऑनलाइन बेटिं.ग नेटवर्क के कथित संचालक सौरभ चंद्राकर को ओमान में हिरासत में",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-07-10T13:50:04Z",
-          "thumbnail": "https://i.ytimg.com/vi/2y2pfnKKrV8/hqdefault.jpg",
-          "durationSeconds": 110,
-          "durationFormatted": "01:50",
-          "views": 66,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "7-jxC7JBFow",
-          "title": "पहली ही बारिश में उजागर हुई खैरागढ़–राजनांदगांव मार्ग की बदहाली @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-07-10T14:00:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/7-jxC7JBFow/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 29,
+          "views": 103,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-07-10T14:40:34Z"
+    },
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 3,
+      "trendScore": 26.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "KgQrhq9awuI",
+          "title": "Surajpur: जिला शिक्षा अधिकारी ने लिया एक्शन, शराबी हेडमास्टर निलंबित || @KPNews_",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-07-10T14:15:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/KgQrhq9awuI/hqdefault.jpg",
+          "durationSeconds": 122,
+          "durationFormatted": "02:02",
+          "views": 316,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "-PqRsktRh-Y",
+          "title": "भिलाई में इस Sunday फिटनेस का ध्यान रखें और पाएं शानदार उपहार! || @KPNews_",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-07-10T14:45:16Z",
+          "thumbnail": "https://i.ytimg.com/vi/-PqRsktRh-Y/hqdefault.jpg",
+          "durationSeconds": 128,
+          "durationFormatted": "02:08",
+          "views": 209,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "XOF9oMN1sTY",
+          "title": "12 July | sunday | सिर्फ़ Surya TI Mall, Bhilai Chhattisgarh",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-07-10T13:40:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/XOF9oMN1sTY/hqdefault.jpg",
+          "durationSeconds": 37,
+          "durationFormatted": "00:37",
+          "views": 127,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-07-10T14:45:16Z"
     }
   ]
 }
