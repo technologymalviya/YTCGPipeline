@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-11T03:49:30.871473Z",
+  "generatedAt": "2026-07-11T06:31:27.497819Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "bhilai-कमर",
       "topic": "Bhilai कमरे",
       "videoCount": 7,
-      "trendScore": 30.9,
+      "trendScore": 29.9,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 3,
-      "trendScore": 22.5,
+      "trendScore": 21.5,
       "topVideos": [
         {
           "index": 1,
