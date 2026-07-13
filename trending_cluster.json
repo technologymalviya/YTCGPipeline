@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-12T19:36:05.362526Z",
+  "generatedAt": "2026-07-13T04:06:45.774658Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "bhaskar-कर",
       "topic": "Bhaskar कार",
       "videoCount": 6,
-      "trendScore": 33.4,
+      "trendScore": 30.7,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 8,
-      "trendScore": 32.6,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 3,
-      "trendScore": 27.4,
+      "trendScore": 23.7,
       "topVideos": [
         {
           "index": 1,
