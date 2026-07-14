@@ -1,30 +1,15 @@
 {
-  "generatedAt": "2026-07-14T03:42:05.410337Z",
-  "clusterCount": 3,
+  "generatedAt": "2026-07-14T06:32:00.477032Z",
+  "clusterCount": 1,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 12,
-      "trendScore": 40.0,
+      "videoCount": 5,
+      "trendScore": 35.6,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "eQCOe4zUy84",
-          "title": "Chingrapagar Waterfall में BJYM कार्यकर्ताओं के बवाल की Story क्या है? | 5 Arrest | Yashwant Sahu |",
-          "description": "Chingrapagar Waterfall में BJYM कार्यकर्ताओं के बवाल की Story क्या है? | 5 Arrest | Report/Story: ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-13T15:30:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/eQCOe4zUy84/hqdefault.jpg",
-          "durationSeconds": 522,
-          "durationFormatted": "08:42",
-          "views": 5114,
-          "likes": 248,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
           "videoId": "tJSM41KE95c",
           "title": "Chhattisgarh में शिक्षकों का हाल-बेहाल!शिक्षा मंत्री Gajendra Yadav पर भड़के लोग...! Bharti Media",
           "description": "Chhattisgarh में शिक्षकों का हाल-बेहाल!शिक्षा मंत्री Gajendra Yadav पर भड़के ...",
@@ -33,10 +18,25 @@
           "thumbnail": "https://i.ytimg.com/vi/tJSM41KE95c/hqdefault.jpg",
           "durationSeconds": 1486,
           "durationFormatted": "24:46",
-          "views": 3117,
+          "views": 8961,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "Z1mmH3tAi3Y",
+          "title": "PSC के प्रश्न पत्र में छत्तीसगढ़ ही नही है",
+          "description": "chhattisgarh #cgteachervacancy #cgteacherrecruitment #teachervacancy2026 #cgvyapam #teacherrecruitment #chhattisgarhjobs ...",
+          "channelTitle": "CG BOX",
+          "publishedAt": "2026-07-13T09:31:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/Z1mmH3tAi3Y/hqdefault.jpg",
+          "durationSeconds": 104,
+          "durationFormatted": "01:44",
+          "views": 5335,
+          "likes": 369,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 3,
@@ -44,11 +44,11 @@
           "title": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 13 जुलाई 2026",
           "description": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 13 ...",
           "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-07-13T05:45:54Z",
+          "publishedAt": "2026-07-13T18:35:09Z",
           "thumbnail": "https://i.ytimg.com/vi/DIMeq7WTR5k/hqdefault.jpg",
-          "durationSeconds": 2677,
-          "durationFormatted": "44:37",
-          "views": 2895,
+          "durationSeconds": 2630,
+          "durationFormatted": "43:50",
+          "views": 3067,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -63,121 +63,28 @@
           "thumbnail": "https://i.ytimg.com/vi/H0NCiVFjX5o/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 671,
+          "views": 1106,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 5,
-          "videoId": "l2penU4UFas",
-          "title": "Bilaspur News : बिलासपुर में सुरक्षा व्यवस्था पर सवाल, गार्ड की मौ** के बाद जांच तेज",
-          "description": "बिलासपुर के बाल संप्रेक्षण गृह में सुरक्षा गार्ड नरेंद्र कुमार ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-13T08:08:34Z",
-          "thumbnail": "https://i.ytimg.com/vi/l2penU4UFas/hqdefault.jpg",
-          "durationSeconds": 341,
-          "durationFormatted": "05:41",
-          "views": 35,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-13T15:35:26Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 26.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "eKc5hODfBhM",
-          "title": "Teejan Bai की खास शिष्या इंस्पेक्टर Taruna  Sahu इंटरव्यू, तीजन बाई को याद कर रो पड़ी तरुणा साहू।",
-          "description": "Teejan Bai की खास शिष्या इंस्पेक्टर Taruna Sahu इंटरव्यू, तीजन बाई को याद कर ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-13T02:00:16Z",
-          "thumbnail": "https://i.ytimg.com/vi/eKc5hODfBhM/hqdefault.jpg",
-          "durationSeconds": 2705,
-          "durationFormatted": "45:05",
-          "views": 4404,
-          "likes": 108,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-07-13T02:00:16Z"
-    },
-    {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 4,
-      "trendScore": 23.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "38MFZv8cIvU",
-          "title": "Raipur में सरपंच की गुंडागर्दी,सबको देता है धमकी ? Raipur Crime News || Bharti Media Network || ",
-          "description": "Raipur में सरपंच की गुंडागर्दी,सबको देता है धमकी ? Raipur Crime News || Bharti Media ...",
+          "videoId": "9SQdm8XJU1k",
+          "title": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 14 जुलाई 2026",
+          "description": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 13 ...",
           "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-07-13T12:21:40Z",
-          "thumbnail": "https://i.ytimg.com/vi/38MFZv8cIvU/hqdefault.jpg",
-          "durationSeconds": 1692,
-          "durationFormatted": "28:12",
-          "views": 1055,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "j7DiOlEJvYM",
-          "title": "Durg Breaking: Atithi Shikshak Raipur March Stopped",
-          "description": "दुर्ग में नियमितीकरण और समान काम के लिए समान वेतन की मांग को लेकर ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-13T14:08:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/j7DiOlEJvYM/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 7,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 3,
-          "videoId": "NW-BokKcLmc",
-          "title": "Raipur News : रायपुर में आदर्श मित्रता दिवस पर अंतरधार्मिक मित्रों का होगा सम्मान",
-          "description": "रायपुर में मुस्लिम इंटेलेक्चुअल फोरम एवं सर्व आस्था मंच की ओर से दो ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-13T12:55:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/NW-BokKcLmc/hqdefault.jpg",
-          "durationSeconds": 77,
-          "durationFormatted": "01:17",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "wCnXFjXCnkk",
-          "title": "Raipur News : नकटी मुद्दे पर आम आदमी पार्टी का प्रदर्शन, पुनर्वास की मांग",
-          "description": "रायपुर में आम आदमी पार्टी ने नकटी गांव के प्रभावित परिवारों को ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-13T10:22:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/wCnXFjXCnkk/hqdefault.jpg",
-          "durationSeconds": 65,
-          "durationFormatted": "01:05",
-          "views": 2,
+          "publishedAt": "2026-07-14T05:49:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/9SQdm8XJU1k/hqdefault.jpg",
+          "durationSeconds": 656,
+          "durationFormatted": "10:56",
+          "views": 327,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-07-13T14:08:10Z"
+      "latestUpdateAt": "2026-07-14T05:49:25Z"
     }
   ]
 }
