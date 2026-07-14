@@ -1,45 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:37:45.794932Z",
-  "clusterCount": 1,
-  "clusters": [
-    {
-      "clusterId": "public-sector-exam",
-      "topic": "Public Sector Exam",
-      "videoCount": 2,
-      "trendScore": 24.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "DIMeq7WTR5k",
-          "title": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 13 जुलाई 2026",
-          "description": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 13 ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-07-13T18:35:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/DIMeq7WTR5k/hqdefault.jpg",
-          "durationSeconds": 2630,
-          "durationFormatted": "43:50",
-          "views": 3193,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "lPxqA1jf7wE",
-          "title": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 14 जुलाई 2026",
-          "description": "CG Vidhan Sabha LIVE | छत्तीसगढ़ विधानसभा प्रश्नकाल | मानसून सत्र 2026 | 14 ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-07-14T05:49:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/lPxqA1jf7wE/hqdefault.jpg",
-          "durationSeconds": 2517,
-          "durationFormatted": "41:57",
-          "views": 2600,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-07-14T05:49:08Z"
-    }
-  ]
+  "generatedAt": "2026-07-14T19:49:50.194315Z",
+  "clusterCount": 0,
+  "clusters": []
 }
