@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-15T15:57:52.325473Z",
+  "generatedAt": "2026-07-15T17:43:04.336755Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 35.3,
+      "trendScore": 34.8,
       "topVideos": [
         {
           "index": 1,
@@ -45,7 +45,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 2,
-      "trendScore": 34.6,
+      "trendScore": 33.9,
       "topVideos": [
         {
           "index": 1,
