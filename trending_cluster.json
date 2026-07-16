@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-16T17:43:51.636727Z",
+  "generatedAt": "2026-07-16T19:37:31.814757Z",
   "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 10,
-      "trendScore": 47.7,
+      "trendScore": 46.9,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 5,
-      "trendScore": 38.2,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -171,79 +171,10 @@
       "latestUpdateAt": "2026-07-16T15:00:16Z"
     },
     {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 4,
-      "trendScore": 30.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "WkByP4KD0Fo",
-          "title": "Raipur के नकटी गांव बुलडोजर कार्रवाई को लेकर हुआ हंगामा ! कांग्रेसियों ने दिया चेतावनी!Naveen Gautam",
-          "description": "Raipur के नकटी गांव बुलडोजर कार्रवाई को लेकर हुआ हंगामा ! कांग्रेसियों ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-07-16T08:36:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/WkByP4KD0Fo/hqdefault.jpg",
-          "durationSeconds": 1913,
-          "durationFormatted": "31:53",
-          "views": 1422,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "lZDLVBfp8r8",
-          "title": "रायपुर का नवीन कन्याशाला बना हाdसों का पाठशाला, बाल-बाल बचीं थी प्रिंसिपल | CG Bhaskar",
-          "description": "रायपुर का नवीन कन्याशाला बना हाdसों का पाठशाला, बाल-बाल बचीं थी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-07-16T07:33:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/lZDLVBfp8r8/hqdefault.jpg",
-          "durationSeconds": 942,
-          "durationFormatted": "15:42",
-          "views": 250,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "wxv-XKwabbg",
-          "title": "रायपुर के गुढ़ियारी में 20 साल पुराने झोपड़ी वाले जगन्नाथ मंदिर में रथयात्रा पर उमड़े श्रद्धालु |",
-          "description": "रायपुर के गुढ़ियारी में 20 साल पुराने झोपड़ी वाले जगन्नाथ मंदिर में ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-07-16T11:15:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/wxv-XKwabbg/hqdefault.jpg",
-          "durationSeconds": 541,
-          "durationFormatted": "09:01",
-          "views": 116,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "wvPVNO8m264",
-          "title": "राजधानी रायपुर में भगवान जगन्नाथ की रथ यात्रा खिंचने पहुँचें हज़ारों लोग । कान्हा | CG Bhaskar",
-          "description": "राजधानी रायपुर में भगवान जगन्नाथ की रथ यात्रा खिंचने पहुँचें ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-07-16T15:15:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/wvPVNO8m264/hqdefault.jpg",
-          "durationSeconds": 742,
-          "durationFormatted": "12:22",
-          "views": 14,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-07-16T15:15:10Z"
-    },
-    {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 4,
-      "trendScore": 30.5,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -309,10 +240,79 @@
       "latestUpdateAt": "2026-07-16T13:15:39Z"
     },
     {
+      "clusterId": "location-raipur",
+      "topic": "Raipur",
+      "videoCount": 4,
+      "trendScore": 29.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "WkByP4KD0Fo",
+          "title": "Raipur के नकटी गांव बुलडोजर कार्रवाई को लेकर हुआ हंगामा ! कांग्रेसियों ने दिया चेतावनी!Naveen Gautam",
+          "description": "Raipur के नकटी गांव बुलडोजर कार्रवाई को लेकर हुआ हंगामा ! कांग्रेसियों ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-07-16T08:36:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/WkByP4KD0Fo/hqdefault.jpg",
+          "durationSeconds": 1913,
+          "durationFormatted": "31:53",
+          "views": 1422,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "lZDLVBfp8r8",
+          "title": "रायपुर का नवीन कन्याशाला बना हाdसों का पाठशाला, बाल-बाल बचीं थी प्रिंसिपल | CG Bhaskar",
+          "description": "रायपुर का नवीन कन्याशाला बना हाdसों का पाठशाला, बाल-बाल बचीं थी ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-07-16T07:33:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/lZDLVBfp8r8/hqdefault.jpg",
+          "durationSeconds": 942,
+          "durationFormatted": "15:42",
+          "views": 250,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "wxv-XKwabbg",
+          "title": "रायपुर के गुढ़ियारी में 20 साल पुराने झोपड़ी वाले जगन्नाथ मंदिर में रथयात्रा पर उमड़े श्रद्धालु |",
+          "description": "रायपुर के गुढ़ियारी में 20 साल पुराने झोपड़ी वाले जगन्नाथ मंदिर में ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-07-16T11:15:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/wxv-XKwabbg/hqdefault.jpg",
+          "durationSeconds": 541,
+          "durationFormatted": "09:01",
+          "views": 116,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "wvPVNO8m264",
+          "title": "राजधानी रायपुर में भगवान जगन्नाथ की रथ यात्रा खिंचने पहुँचें हज़ारों लोग । कान्हा | CG Bhaskar",
+          "description": "राजधानी रायपुर में भगवान जगन्नाथ की रथ यात्रा खिंचने पहुँचें ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-07-16T15:15:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/wvPVNO8m264/hqdefault.jpg",
+          "durationSeconds": 742,
+          "durationFormatted": "12:22",
+          "views": 14,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-07-16T15:15:10Z"
+    },
+    {
       "clusterId": "kumhari-दरदनक",
       "topic": "kumhari दर्दनाक",
       "videoCount": 4,
-      "trendScore": 29.9,
+      "trendScore": 28.9,
       "topVideos": [
         {
           "index": 1,
