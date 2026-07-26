@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-26T15:35:05.810733Z",
+  "generatedAt": "2026-07-26T17:29:44.430674Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 5,
-      "trendScore": 41.7,
+      "trendScore": 40.9,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "amit-baghel",
       "topic": "Amit Baghel",
       "videoCount": 6,
-      "trendScore": 39.1,
+      "trendScore": 38.4,
       "topVideos": [
         {
           "index": 1,
