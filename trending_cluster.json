@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-29T19:49:54.507438Z",
+  "generatedAt": "2026-07-30T03:39:18.686892Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 10,
-      "trendScore": 45.7,
+      "trendScore": 42.6,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "smart-meter",
       "topic": "Smart Meter",
       "videoCount": 5,
-      "trendScore": 41.0,
+      "trendScore": 38.1,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 37.2,
+      "trendScore": 34.2,
       "topVideos": [
         {
           "index": 1,
@@ -213,7 +213,7 @@
       "clusterId": "bhaskar-सबज",
       "topic": "Bhaskar सब्जी",
       "videoCount": 4,
-      "trendScore": 35.2,
+      "trendScore": 31.8,
       "topVideos": [
         {
           "index": 1,
@@ -282,7 +282,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 5,
-      "trendScore": 32.7,
+      "trendScore": 29.8,
       "topVideos": [
         {
           "index": 1,
@@ -366,7 +366,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 29.8,
+      "trendScore": 27.5,
       "topVideos": [
         {
           "index": 1,
@@ -405,7 +405,7 @@
       "clusterId": "bhilai-snake",
       "topic": "Bhilai Snake",
       "videoCount": 5,
-      "trendScore": 29.3,
+      "trendScore": 26.5,
       "topVideos": [
         {
           "index": 1,
@@ -489,7 +489,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 3,
-      "trendScore": 27.0,
+      "trendScore": 24.4,
       "topVideos": [
         {
           "index": 1,
