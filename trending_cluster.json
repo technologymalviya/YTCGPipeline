@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-31T14:44:27.363642Z",
+  "generatedAt": "2026-07-31T17:59:07.261677Z",
   "clusterCount": 11,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 51,
-      "trendScore": 65.4,
+      "trendScore": 63.6,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 8,
-      "trendScore": 45.1,
+      "trendScore": 43.4,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "shivnath-rjn",
       "topic": "Shivnath RJN",
       "videoCount": 7,
-      "trendScore": 42.8,
+      "trendScore": 41.2,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "bhaskar-बदहल",
       "topic": "Bhaskar बदहाल",
       "videoCount": 7,
-      "trendScore": 41.6,
+      "trendScore": 39.7,
       "topVideos": [
         {
           "index": 1,
@@ -342,7 +342,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 9,
-      "trendScore": 40.6,
+      "trendScore": 38.8,
       "topVideos": [
         {
           "index": 1,
@@ -426,7 +426,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 7,
-      "trendScore": 39.3,
+      "trendScore": 37.8,
       "topVideos": [
         {
           "index": 1,
@@ -510,7 +510,7 @@
       "clusterId": "cgvideo-chhattisgarhnews",
       "topic": "cgvideo chhattisgarhnews",
       "videoCount": 5,
-      "trendScore": 31.8,
+      "trendScore": 29.7,
       "topVideos": [
         {
           "index": 1,
@@ -594,7 +594,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 27.9,
+      "trendScore": 26.6,
       "topVideos": [
         {
           "index": 1,
@@ -648,7 +648,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 4,
-      "trendScore": 27.4,
+      "trendScore": 25.7,
       "topVideos": [
         {
           "index": 1,
@@ -717,7 +717,7 @@
       "clusterId": "parking-supela",
       "topic": "Parking Supela",
       "videoCount": 5,
-      "trendScore": 26.3,
+      "trendScore": 25.2,
       "topVideos": [
         {
           "index": 1,
@@ -801,7 +801,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 2,
-      "trendScore": 24.1,
+      "trendScore": 23.3,
       "topVideos": [
         {
           "index": 1,
