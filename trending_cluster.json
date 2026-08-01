@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T10:13:41.195769Z",
+  "generatedAt": "2026-08-01T11:38:52.791491Z",
   "clusterCount": 9,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 57,
-      "trendScore": 64.2,
+      "videoCount": 64,
+      "trendScore": 64.4,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vCz-xQMgLQU/hqdefault.jpg",
           "durationSeconds": 137,
           "durationFormatted": "02:17",
-          "views": 78230,
-          "likes": 1422,
+          "views": 85641,
+          "likes": 1468,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FJ4cCnDIBks/hqdefault.jpg",
           "durationSeconds": 681,
           "durationFormatted": "11:21",
-          "views": 18095,
-          "likes": 598,
+          "views": 19531,
+          "likes": 613,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -48,23 +48,23 @@
           "thumbnail": "https://i.ytimg.com/vi/nR1yl2y6MEA/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 8609,
-          "likes": 62,
+          "views": 9133,
+          "likes": 65,
           "videoType": "VOD",
           "genre": "Jobs"
         },
         {
           "index": 4,
-          "videoId": "GynjQgoR5q0",
-          "title": "Chhattisgarh की Rail Connectivity होगी मजबूत, CM साय ने की Rail मंत्री से चर्चा",
-          "description": "Chhattisgarh की Rail Connectivity होगी मजबूत, CM साय ने की Rail मंत्री से चर्चा Join this ...",
+          "videoId": "ozdmAccBoi8",
+          "title": "PM Modi से मिले CM साय, क्या मांगा...?",
+          "description": "PM Modi से मिले CM साय, क्या मांगा...? Join this channel to get access to the perks: ...",
           "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-07-31T10:30:27Z",
-          "thumbnail": "https://i.ytimg.com/vi/GynjQgoR5q0/hqdefault.jpg",
-          "durationSeconds": 86,
-          "durationFormatted": "01:26",
-          "views": 7886,
-          "likes": 248,
+          "publishedAt": "2026-08-01T07:45:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/ozdmAccBoi8/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 7753,
+          "likes": 497,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/_uW5PuOCBsg/hqdefault.jpg",
           "durationSeconds": 106,
           "durationFormatted": "01:46",
-          "views": 6417,
+          "views": 6509,
           "likes": 70,
           "videoType": "VOD",
           "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-08-01T09:55:26Z"
+      "latestUpdateAt": "2026-08-01T11:36:04Z"
     },
     {
       "clusterId": "terror-attack",
       "topic": "Terror Attack",
-      "videoCount": 21,
-      "trendScore": 59.1,
+      "videoCount": 20,
+      "trendScore": 58.0,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/8sYDZcRxx1U/hqdefault.jpg",
           "durationSeconds": 96,
           "durationFormatted": "01:36",
-          "views": 20003,
-          "likes": 883,
+          "views": 25122,
+          "likes": 955,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/Cwxj9J9aI8s/hqdefault.jpg",
           "durationSeconds": 140,
           "durationFormatted": "02:20",
-          "views": 5841,
-          "likes": 55,
+          "views": 5919,
+          "likes": 56,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -132,49 +132,133 @@
           "thumbnail": "https://i.ytimg.com/vi/iyPhcQTnLVQ/hqdefault.jpg",
           "durationSeconds": 729,
           "durationFormatted": "12:09",
-          "views": 1584,
+          "views": 1820,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
         },
         {
           "index": 4,
-          "videoId": "CI6uBZKggqs",
-          "title": "CG Weather Update : छत्तीसगढ़ में बारिश होगी कम | धूप-बादलों की लुकाछिपी, कई जिलों में हल्की बारिश",
-          "description": "CG Weather Update : छत्तीसगढ़ में बारिश होगी कम | धूप-बादलों की लुकाछिपी, कई ...",
+          "videoId": "y9XPhCZb_Qk",
+          "title": "Kulgam Terror Attack : धर्म पूछकर आतंकियों ने बरसाईं गोलियां! कश्मीर में CG के 2 मजदूरों की हत्या",
+          "description": "IBC24, Kulgam Terror Attack : धर्म पूछकर आतंकियों ने बरसाईं गोलियां! कश्मीर में CG ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-01T11:22:56Z",
+          "thumbnail": "https://i.ytimg.com/vi/y9XPhCZb_Qk/hqdefault.jpg",
+          "durationSeconds": 289,
+          "durationFormatted": "04:49",
+          "views": 717,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 5,
+          "videoId": "Hff3-MEmCwc",
+          "title": "Terror Attack : कुलगाम आतंकी हमले के पीड़ितों को ₹10-10 लाख की मदद | एक और परिवार उजड़ा | Zee MPCG",
+          "description": "Terror Attack : कुलगाम आतंकी हमले के पीड़ितों को ₹10-10 लाख की मदद | एक और ...",
           "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-08-01T04:09:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/CI6uBZKggqs/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 368,
-          "likes": 12,
+          "publishedAt": "2026-08-01T08:45:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/Hff3-MEmCwc/hqdefault.jpg",
+          "durationSeconds": 615,
+          "durationFormatted": "10:15",
+          "views": 420,
+          "likes": 9,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-01T11:30:06Z"
+    },
+    {
+      "clusterId": "location-raipur",
+      "topic": "Raipur",
+      "videoCount": 11,
+      "trendScore": 41.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "eMueToTizbs",
+          "title": "रायपुर का महादेवघाट श्मशान हुआ जलमग्न, लौट रही अंतिम यात्रा। madhvi | CG Bhaskar",
+          "description": "रायपुर का महादेवघाट श्मशान हुआ जलमग्न, लौट रही अंतिम यात्रा। madhvi | CG ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-07-31T13:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/eMueToTizbs/hqdefault.jpg",
+          "durationSeconds": 389,
+          "durationFormatted": "06:29",
+          "views": 958,
+          "likes": 10,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "ebp4FVjreZw",
+          "title": "31 जुलाई, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-07-31T14:00:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/ebp4FVjreZw/hqdefault.jpg",
+          "durationSeconds": 571,
+          "durationFormatted": "09:31",
+          "views": 881,
+          "likes": 30,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 5,
-          "videoId": "C-Tjj5eH8K0",
-          "title": "कुलगाम आतंकी हमला: CG के मजदूरों को नाम पूछकर मारी गोली, हमले में एक मजदूर की मौत",
-          "description": "जम्मू-कश्मीर के कुलगाम में आतंकियों ने प्रवासी मजदूरों पर हमला कर ...",
+          "index": 3,
+          "videoId": "QE9KsrLG2Z0",
+          "title": "31 जुलाई, 2026 I प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
+          "description": "",
+          "channelTitle": "CHHATTISGARH AIR NEWS",
+          "publishedAt": "2026-07-31T14:44:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/QE9KsrLG2Z0/hqdefault.jpg",
+          "durationSeconds": 641,
+          "durationFormatted": "10:41",
+          "views": 873,
+          "likes": 39,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "obBNV2r8NEs",
+          "title": "Raipur:अमानक डेयरी उत्पादों पर सख्त कार्रवाई, &#39;डेयरी एनालॉग&#39; की बिक्री पर तत्काल प्रतिबंध...",
+          "description": "छत्तीसगढ़ में अमानक डेयरी उत्पादों के खिलाफ सरकार ने बड़ा कदम ...",
           "channelTitle": "Bansal News",
-          "publishedAt": "2026-08-01T02:43:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/C-Tjj5eH8K0/hqdefault.jpg",
-          "durationSeconds": 277,
-          "durationFormatted": "04:37",
-          "views": 355,
+          "publishedAt": "2026-08-01T06:59:18Z",
+          "thumbnail": "https://i.ytimg.com/vi/obBNV2r8NEs/hqdefault.jpg",
+          "durationSeconds": 145,
+          "durationFormatted": "02:25",
+          "views": 71,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 5,
+          "videoId": "qYPkiXEiYwE",
+          "title": "Raipur News : रायपुर में सजा टेंट उद्योग का भव्य व्यापारिक एक्सपो",
+          "description": "रायपुर के लाभांडी में आयोजित सीजी टेंट एंड डेकोर एक्सपो दो हजार ...",
+          "channelTitle": "UNA MPCG",
+          "publishedAt": "2026-07-31T14:55:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/qYPkiXEiYwE/hqdefault.jpg",
+          "durationSeconds": 61,
+          "durationFormatted": "01:01",
+          "views": 62,
           "likes": 2,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-08-01T09:15:20Z"
+      "latestUpdateAt": "2026-08-01T11:30:22Z"
     },
     {
       "clusterId": "bhaskar-fraud",
       "topic": "Bhaskar Fraud",
-      "videoCount": 10,
-      "trendScore": 38.7,
+      "videoCount": 9,
+      "trendScore": 37.6,
       "topVideos": [
         {
           "index": 1,
@@ -186,13 +270,28 @@
           "thumbnail": "https://i.ytimg.com/vi/0DI_enExLF4/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 1416,
-          "likes": 43,
+          "views": 1448,
+          "likes": 46,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "OBvdOCQgcuA",
+          "title": "14 अगस्त को 101 उम्रकैद के कैदी आएंगे जेल से बाहर | CG Bhaskar",
+          "description": "14 अगस्त को 101 उम्रकैद के कैदी आएंगे जेल से बाहर | CG Bhaskar छत्तीसगढ़ से ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-01T02:30:05Z",
+          "thumbnail": "https://i.ytimg.com/vi/OBvdOCQgcuA/hqdefault.jpg",
+          "durationSeconds": 65,
+          "durationFormatted": "01:05",
+          "views": 1354,
+          "likes": 41,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
           "videoId": "2CTxAXlbcEA",
           "title": "9 करोड़ का पुल भरभराकर गिर गया | CG Bhaskar",
           "description": "9 करोड़ का पुल भरभराकर गिर गया | CG Bhaskar लगातार बारिश ने 9 करोड़ के ...",
@@ -205,21 +304,6 @@
           "likes": 31,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "OBvdOCQgcuA",
-          "title": "14 अगस्त को 101 उम्रकैद के कैदी आएंगे जेल से बाहर | CG Bhaskar",
-          "description": "14 अगस्त को 101 उम्रकैद के कैदी आएंगे जेल से बाहर | CG Bhaskar छत्तीसगढ़ से ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-01T02:30:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/OBvdOCQgcuA/hqdefault.jpg",
-          "durationSeconds": 65,
-          "durationFormatted": "01:05",
-          "views": 1206,
-          "likes": 34,
-          "videoType": "VOD",
-          "genre": "Crime"
         },
         {
           "index": 4,
@@ -246,8 +330,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ViW1LRT913w/hqdefault.jpg",
           "durationSeconds": 173,
           "durationFormatted": "02:53",
-          "views": 228,
-          "likes": 6,
+          "views": 315,
+          "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -255,94 +339,10 @@
       "latestUpdateAt": "2026-08-01T09:03:55Z"
     },
     {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 9,
-      "trendScore": 38.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "eMueToTizbs",
-          "title": "रायपुर का महादेवघाट श्मशान हुआ जलमग्न, लौट रही अंतिम यात्रा। madhvi | CG Bhaskar",
-          "description": "रायपुर का महादेवघाट श्मशान हुआ जलमग्न, लौट रही अंतिम यात्रा। madhvi | CG ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-07-31T13:30:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/eMueToTizbs/hqdefault.jpg",
-          "durationSeconds": 389,
-          "durationFormatted": "06:29",
-          "views": 883,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "QE9KsrLG2Z0",
-          "title": "31 जुलाई, 2026 I प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-07-31T14:44:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/QE9KsrLG2Z0/hqdefault.jpg",
-          "durationSeconds": 641,
-          "durationFormatted": "10:41",
-          "views": 873,
-          "likes": 39,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "ebp4FVjreZw",
-          "title": "31 जुलाई, 2026 छत्तीसगढ़ी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-07-31T14:00:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/ebp4FVjreZw/hqdefault.jpg",
-          "durationSeconds": 571,
-          "durationFormatted": "09:31",
-          "views": 865,
-          "likes": 30,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "obBNV2r8NEs",
-          "title": "Raipur:अमानक डेयरी उत्पादों पर सख्त कार्रवाई, &#39;डेयरी एनालॉग&#39; की बिक्री पर तत्काल प्रतिबंध...",
-          "description": "छत्तीसगढ़ में अमानक डेयरी उत्पादों के खिलाफ सरकार ने बड़ा कदम ...",
-          "channelTitle": "Bansal News",
-          "publishedAt": "2026-08-01T06:59:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/obBNV2r8NEs/hqdefault.jpg",
-          "durationSeconds": 145,
-          "durationFormatted": "02:25",
-          "views": 65,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "qYPkiXEiYwE",
-          "title": "Raipur News : रायपुर में सजा टेंट उद्योग का भव्य व्यापारिक एक्सपो",
-          "description": "रायपुर के लाभांडी में आयोजित सीजी टेंट एंड डेकोर एक्सपो दो हजार ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-07-31T14:55:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/qYPkiXEiYwE/hqdefault.jpg",
-          "durationSeconds": 61,
-          "durationFormatted": "01:01",
-          "views": 43,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-01T08:12:29Z"
-    },
-    {
       "clusterId": "location-durg",
       "topic": "Durg",
-      "videoCount": 6,
-      "trendScore": 36.4,
+      "videoCount": 4,
+      "trendScore": 35.4,
       "topVideos": [
         {
           "index": 1,
@@ -354,8 +354,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6Uq11H6PAjE/hqdefault.jpg",
           "durationSeconds": 73,
           "durationFormatted": "01:13",
-          "views": 1186,
-          "likes": 52,
+          "views": 1218,
+          "likes": 55,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -369,8 +369,8 @@
           "thumbnail": "https://i.ytimg.com/vi/lmciXFRFQmc/hqdefault.jpg",
           "durationSeconds": 1179,
           "durationFormatted": "19:39",
-          "views": 289,
-          "likes": 22,
+          "views": 387,
+          "likes": 29,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -384,7 +384,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8Y-9JASw7vI/hqdefault.jpg",
           "durationSeconds": 169,
           "durationFormatted": "02:49",
-          "views": 56,
+          "views": 58,
           "likes": 6,
           "videoType": "VOD",
           "genre": "General"
@@ -403,30 +403,54 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "50VI0f2R0w4",
-          "title": "दुर्ग जिला अस्पताल में बनेगा ₹4.85 करोड़ का अत्याधुनिक सर्जिकल विंग, मिलेगी प्राइवेट जैसी सुविधा",
-          "description": "chhattisgarhnews #durgnews #districthospital ........................................................................................................................................... India ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-07-31T12:24:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/50VI0f2R0w4/hqdefault.jpg",
-          "durationSeconds": 160,
-          "durationFormatted": "02:40",
-          "views": 7,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-08-01T08:08:31Z"
     },
     {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 2,
+      "trendScore": 35.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "ZflBsLeDi5A",
+          "title": "दतिया: उम्मीदवार दामोदर यादव का बड़ा आरोप, बोले- &#39; नरोत्तम मिश्रा के कहने पर मिला कांग्रेस टिकट&#39;",
+          "description": "दतिया में चुनावी नतीजों से पहले सियासत गरमा गई है। उम्मीदवार ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-08-01T09:30:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZflBsLeDi5A/hqdefault.jpg",
+          "durationSeconds": 233,
+          "durationFormatted": "03:53",
+          "views": 830,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "yWPzEi4ftV4",
+          "title": "Datiya Upchunav Update:नतीजों से पहले सियासत,कांग्रेस में घमासान, आज़ाद समाज पार्टी ने भी दी चेतावनी",
+          "description": "दतिया में नतीजों से पहले गरमाया सियासी पारा कांग्रेस में कलह, आजाद ...",
+          "channelTitle": "Bansal News",
+          "publishedAt": "2026-08-01T08:41:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/yWPzEi4ftV4/hqdefault.jpg",
+          "durationSeconds": 277,
+          "durationFormatted": "04:37",
+          "views": 743,
+          "likes": 27,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-01T09:30:02Z"
+    },
+    {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
-      "videoCount": 6,
-      "trendScore": 32.5,
+      "videoCount": 4,
+      "trendScore": 31.6,
       "topVideos": [
         {
           "index": 1,
@@ -438,7 +462,7 @@
           "thumbnail": "https://i.ytimg.com/vi/oBFBlR2FZpg/hqdefault.jpg",
           "durationSeconds": 553,
           "durationFormatted": "09:13",
-          "views": 1330,
+          "views": 1397,
           "likes": 34,
           "videoType": "VOD",
           "genre": "Civic"
@@ -453,7 +477,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ozsSTuZTO9w/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 685,
+          "views": 880,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Crime"
@@ -468,7 +492,7 @@
           "thumbnail": "https://i.ytimg.com/vi/8GJqROMQKNA/hqdefault.jpg",
           "durationSeconds": 539,
           "durationFormatted": "08:59",
-          "views": 331,
+          "views": 583,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -483,88 +507,19 @@
           "thumbnail": "https://i.ytimg.com/vi/SRWySY-6PH8/hqdefault.jpg",
           "durationSeconds": 118,
           "durationFormatted": "01:58",
-          "views": 239,
+          "views": 268,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "-ZT3P5mDGpE",
-          "title": "भिलाई में वाहन हटाने को लेकर खूनी विवाद, जैक रॉड-हॉकी स्टिक से हमला, 4 गिरफ्तार",
-          "description": "chhattisgarhnews #bhilainews #crimenews ........................................................................................................................................... India ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-07-31T12:22:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/-ZT3P5mDGpE/hqdefault.jpg",
-          "durationSeconds": 90,
-          "durationFormatted": "01:30",
-          "views": 14,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
         }
       ],
       "latestUpdateAt": "2026-08-01T08:51:54Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 3,
-      "trendScore": 30.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "-FqzNklQhdw",
-          "title": "Datia By Election : 69.36% वोटिंग के साथ दतिया का फैसला EVM में कैद, नतीजों का इंतजार |",
-          "description": "मध्य प्रदेश के दतिया में मतदान शांतिपूर्ण ढंग से संपन्न हो गया। शाम ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-07-31T10:46:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/-FqzNklQhdw/hqdefault.jpg",
-          "durationSeconds": 14462,
-          "durationFormatted": "04:01:02",
-          "views": 1238,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "yWPzEi4ftV4",
-          "title": "Datiya Upchunav Update:नतीजों से पहले सियासत,कांग्रेस में घमासान, आज़ाद समाज पार्टी ने भी दी चेतावनी",
-          "description": "दतिया में नतीजों से पहले गरमाया सियासी पारा कांग्रेस में कलह, आजाद ...",
-          "channelTitle": "Bansal News",
-          "publishedAt": "2026-08-01T08:41:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/yWPzEi4ftV4/hqdefault.jpg",
-          "durationSeconds": 277,
-          "durationFormatted": "04:37",
-          "views": 321,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "ZflBsLeDi5A",
-          "title": "दतिया: उम्मीदवार दामोदर यादव का बड़ा आरोप, बोले- &#39; नरोत्तम मिश्रा के कहने पर मिला कांग्रेस टिकट&#39;",
-          "description": "दतिया में चुनावी नतीजों से पहले सियासत गरमा गई है। उम्मीदवार ...",
-          "channelTitle": "Bansal News",
-          "publishedAt": "2026-08-01T09:30:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZflBsLeDi5A/hqdefault.jpg",
-          "durationSeconds": 233,
-          "durationFormatted": "03:53",
-          "views": 252,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-08-01T09:30:02Z"
-    },
-    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 25.6,
+      "trendScore": 24.9,
       "topVideos": [
         {
           "index": 1,
@@ -576,7 +531,7 @@
           "thumbnail": "https://i.ytimg.com/vi/P7MHcFUYEMY/hqdefault.jpg",
           "durationSeconds": 68,
           "durationFormatted": "01:08",
-          "views": 417,
+          "views": 465,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -587,8 +542,8 @@
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 3,
-      "trendScore": 21.6,
+      "videoCount": 5,
+      "trendScore": 24.5,
       "topVideos": [
         {
           "index": 1,
@@ -634,9 +589,39 @@
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "eHMQOcRKFwA",
+          "title": "Rajnandgaon News-अपराध रोकने के लिए लगाए थे कैमरे, अब बंद! सुरक्षा व्यवस्था पर बड़ा सवाल",
+          "description": "chhattisgarhnews #rajnandgaonnews #systemfailure .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-01T11:34:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/eHMQOcRKFwA/hqdefault.jpg",
+          "durationSeconds": 82,
+          "durationFormatted": "01:22",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "_0A-e3vU8ZA",
+          "title": "Rajnandgaon की सुंदरता पर अवैध पोस्टरों का कब्जा, नगर निगम की कार्रवाई पर सवाल",
+          "description": "chhattisgarh #rajnandgaon #cgnews ........................................................................................................................................... India Town ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-01T11:37:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/_0A-e3vU8ZA/hqdefault.jpg",
+          "durationSeconds": 77,
+          "durationFormatted": "01:17",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Civic"
         }
       ],
-      "latestUpdateAt": "2026-08-01T09:43:50Z"
+      "latestUpdateAt": "2026-08-01T11:37:02Z"
     }
   ]
 }
