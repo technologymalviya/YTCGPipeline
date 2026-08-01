@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-01T03:58:06.863467Z",
+  "generatedAt": "2026-08-01T06:44:32.826599Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 12,
-      "trendScore": 46.5,
+      "trendScore": 45.4,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "shivnath-rjn",
       "topic": "Shivnath RJN",
       "videoCount": 5,
-      "trendScore": 35.8,
+      "trendScore": 35.0,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 22.3,
+      "trendScore": 21.5,
       "topVideos": [
         {
           "index": 1,
