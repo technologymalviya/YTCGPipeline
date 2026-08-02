@@ -1,5 +1,198 @@
 {
-  "generatedAt": "2026-08-02T17:29:49.329946Z",
-  "clusterCount": 0,
-  "clusters": []
+  "generatedAt": "2026-08-02T19:40:43.069649Z",
+  "clusterCount": 3,
+  "clusters": [
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 3,
+      "trendScore": 27.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "726DsInh_bg",
+          "title": "Datia By Election 2026 Result : मतगणना का शुरू काउंटडाउन..कल आएंगे नतीजे | Ashutosh Vs Ghanshyam",
+          "description": "Datia By Election 2026 Result : मतगणना का शुरू काउंटडाउन..कल आएंगे नतीजे | Ashutosh Vs ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T16:20:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/726DsInh_bg/hqdefault.jpg",
+          "durationSeconds": 397,
+          "durationFormatted": "06:37",
+          "views": 230,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "zHUF4SaWALw",
+          "title": "Datia By Election के नतीजे से पहले कांग्रेस का एक्शन | Rajendra Bharti को किया गया पार्टी से बाहर",
+          "description": "IBC24, Datia By Election के नतीजे से पहले कांग्रेस का एक्शन | Rajendra Bharti को किया गया ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T17:56:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/zHUF4SaWALw/hqdefault.jpg",
+          "durationSeconds": 237,
+          "durationFormatted": "03:57",
+          "views": 116,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "9dT-k3iI3W4",
+          "title": "Rajendra Bharti को किया गया पार्टी से बाहर |Datia By Election के नतीजे से पहले Congress का बड़ा एक्शन",
+          "description": "Rajendra Bharti को किया गया पार्टी से बाहर | Datia By Election के नतीजे से पहले ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T19:03:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/9dT-k3iI3W4/hqdefault.jpg",
+          "durationSeconds": 487,
+          "durationFormatted": "08:07",
+          "views": 28,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-08-02T19:03:01Z"
+    },
+    {
+      "clusterId": "location-raipur",
+      "topic": "Raipur",
+      "videoCount": 4,
+      "trendScore": 27.5,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "EzyfbL8PjL8",
+          "title": "Raipur News: Bharatmala Scam मामले में ED की कार्रवाई |62चल और अचल संपत्तियां अस्थायी रूप से जब्त की",
+          "description": "Raipur News: Bharatmala Scam मामले में ED की कार्रवाई | 62 चल और अचल संपत्तियां ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T16:11:46Z",
+          "thumbnail": "https://i.ytimg.com/vi/EzyfbL8PjL8/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 163,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "ZQuBvDw-h8E",
+          "title": "राजधानी Raipur में निकली भव्य कांवड़ यात्रा | शिव-पार्वती की झांकी बनी आकर्षण का केंद्र",
+          "description": "IBC24, राजधानी Raipur में निकली भव्य कांवड़ यात्रा | शिव-पार्वती की झांकी ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T17:21:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZQuBvDw-h8E/hqdefault.jpg",
+          "durationSeconds": 100,
+          "durationFormatted": "01:40",
+          "views": 45,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 3,
+          "videoId": "FY8DcUzq7WU",
+          "title": "Raipur News: परीक्षा केंद्र पर स्लीव काटने का निर्देश | बांह काटकर लौटी, फिर भी नहीं मिली एंट्री",
+          "description": "IBC24, Raipur News: परीक्षा केंद्र पर स्लीव काटने का निर्देश | बांह काटकर ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T18:38:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/FY8DcUzq7WU/hqdefault.jpg",
+          "durationSeconds": 173,
+          "durationFormatted": "02:53",
+          "views": 16,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "Zv3WbxCtuFY",
+          "title": "Raipur News: Kidspreneur 2026 में बच्चों का बिजनेस स्टॉल | बच्चों ने खुद संभाले सेल्स और कस्टमर",
+          "description": "IBC24, Raipur News: Kidspreneur 2026 में बच्चों का बिजनेस स्टॉल | बच्चों ने खुद ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T19:00:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/Zv3WbxCtuFY/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 9,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-02T19:00:51Z"
+    },
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 4,
+      "trendScore": 25.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "E_0yPdp-exk",
+          "title": "MP को मिली अतिरिक्त टैक्स राशि | CM Dr. Mohan Yadav ने PM Modi और वित्त मंत्री का जताया आभार",
+          "description": "IBC24, MP को मिली अतिरिक्त टैक्स राशि | CM Dr. Mohan Yadav ने PM Modi और वित्त ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T17:20:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/E_0yPdp-exk/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 36,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "2VMNbO_SDv8",
+          "title": "Raipur News: Helping Hands Club Foundation का सेवा का संकल्प | रक्तदान कर बचाई अनगिनत जिंदगियां",
+          "description": "IBC24, Raipur News: Helping Hands Club Foundation का सेवा का संकल्प | रक्तदान कर बचाई ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T18:33:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/2VMNbO_SDv8/hqdefault.jpg",
+          "durationSeconds": 132,
+          "durationFormatted": "02:12",
+          "views": 22,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "3NdVsaw5-KE",
+          "title": "UP Vidhan Sabha मानसून सत्र से पहले NDA विधानमंडल की बैठक | विपक्ष को जवाब देने की रणनीति तैयार",
+          "description": "IBC24, UP Vidhan Sabha मानसून सत्र से पहले NDA विधानमंडल की बैठक | विपक्ष को ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T18:11:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/3NdVsaw5-KE/hqdefault.jpg",
+          "durationSeconds": 84,
+          "durationFormatted": "01:24",
+          "views": 16,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "7Z_WHlAp7Qs",
+          "title": "Bhopal News: मैनिट में &#39;नशा मुक्त युवा&#39; अभियान का आयोजन | CM Mohan बोले- अब लक्ष्य नशा मुक्त MP",
+          "description": "IBC24, Bhopal News: मैनिट में 'नशा मुक्त युवा' अभियान का आयोजन | CM Mohan बोले- अब ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-08-02T18:39:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/7Z_WHlAp7Qs/hqdefault.jpg",
+          "durationSeconds": 92,
+          "durationFormatted": "01:32",
+          "views": 12,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-08-02T18:39:01Z"
+    }
+  ]
 }
