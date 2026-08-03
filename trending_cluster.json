@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T19:40:43.069649Z",
+  "generatedAt": "2026-08-03T04:03:42.180890Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 3,
-      "trendScore": 27.6,
+      "trendScore": 22.8,
       "topVideos": [
         {
           "index": 1,
@@ -60,7 +60,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 4,
-      "trendScore": 27.5,
+      "trendScore": 22.8,
       "topVideos": [
         {
           "index": 1,
@@ -129,7 +129,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 4,
-      "trendScore": 25.8,
+      "trendScore": 21.0,
       "topVideos": [
         {
           "index": 1,
