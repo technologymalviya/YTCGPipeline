@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-04T20:05:46.013329Z",
+  "generatedAt": "2026-08-05T03:41:19.847535Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "mla-दनश",
       "topic": "MLA दिनेश",
       "videoCount": 5,
-      "trendScore": 43.4,
+      "trendScore": 41.0,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 40.5,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -141,94 +141,10 @@
       "latestUpdateAt": "2026-08-04T18:30:20Z"
     },
     {
-      "clusterId": "bhaskar-jail",
-      "topic": "Bhaskar Jail",
-      "videoCount": 8,
-      "trendScore": 40.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "hiNlygSG-OI",
-          "title": "आखिर कौन है भानेश्वरी देवी? यहां की भभूत है चमत्कारी! | CG Bhaskar",
-          "description": "आखिर कौन है भानेश्वरी देवी? यहां की भभूत है चमत्कारी! | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-04T06:53:53Z",
-          "thumbnail": "https://i.ytimg.com/vi/hiNlygSG-OI/hqdefault.jpg",
-          "durationSeconds": 88,
-          "durationFormatted": "01:28",
-          "views": 2492,
-          "likes": 82,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "dXW-ItWR6NM",
-          "title": "यात्री वाहन ड्राइवर ध्यान दें, शराब पीकर चलाई गाड़ी तो होगी Jail | CG Bhaskar",
-          "description": "यात्री वाहन ड्राइवर ध्यान दें, शराब पीकर चलाई गाड़ी तो होगी Jail | CG ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-04T09:15:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/dXW-ItWR6NM/hqdefault.jpg",
-          "durationSeconds": 89,
-          "durationFormatted": "01:29",
-          "views": 2337,
-          "likes": 59,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "TkuV46NYx-Q",
-          "title": "राजिम में है 2500 साल पुराना मौर्यकालीन कुआँ! | CG Bhaskar",
-          "description": "राजिम में है 2500 साल पुराना मौर्यकालीन कुआँ! | CG Bhaskar छत्तीसगढ़ के ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-04T11:15:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/TkuV46NYx-Q/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 2280,
-          "likes": 65,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "jTOiHZTH16U",
-          "title": "स्कूलों में मोबाइल मेडिकल यूनिट, बच्चों का हेल्थ चेकअप | CG Bhaskar",
-          "description": "स्कूलों में मोबाइल मेडिकल यूनिट, बच्चों का हेल्थ चेकअप | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-04T12:09:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/jTOiHZTH16U/hqdefault.jpg",
-          "durationSeconds": 150,
-          "durationFormatted": "02:30",
-          "views": 159,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "_WmzAgrN7GM",
-          "title": "नकटीवासियों ने रुद्राभिषेक कर विष्णुदेव सरकार के लिए मांगा सद्बुद्धि | CG Bhaskar",
-          "description": "नकटीवासियों ने रुद्राभिषेक कर विष्णुदेव सरकार के लिए मांगा ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-04T09:30:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/_WmzAgrN7GM/hqdefault.jpg",
-          "durationSeconds": 537,
-          "durationFormatted": "08:57",
-          "views": 159,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-08-04T16:30:25Z"
-    },
-    {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 7,
-      "trendScore": 39.8,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -307,6 +223,90 @@
         }
       ],
       "latestUpdateAt": "2026-08-04T15:30:13Z"
+    },
+    {
+      "clusterId": "bhaskar-jail",
+      "topic": "Bhaskar Jail",
+      "videoCount": 8,
+      "trendScore": 37.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "hiNlygSG-OI",
+          "title": "आखिर कौन है भानेश्वरी देवी? यहां की भभूत है चमत्कारी! | CG Bhaskar",
+          "description": "आखिर कौन है भानेश्वरी देवी? यहां की भभूत है चमत्कारी! | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-04T06:53:53Z",
+          "thumbnail": "https://i.ytimg.com/vi/hiNlygSG-OI/hqdefault.jpg",
+          "durationSeconds": 88,
+          "durationFormatted": "01:28",
+          "views": 2492,
+          "likes": 82,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "dXW-ItWR6NM",
+          "title": "यात्री वाहन ड्राइवर ध्यान दें, शराब पीकर चलाई गाड़ी तो होगी Jail | CG Bhaskar",
+          "description": "यात्री वाहन ड्राइवर ध्यान दें, शराब पीकर चलाई गाड़ी तो होगी Jail | CG ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-04T09:15:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/dXW-ItWR6NM/hqdefault.jpg",
+          "durationSeconds": 89,
+          "durationFormatted": "01:29",
+          "views": 2337,
+          "likes": 59,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "TkuV46NYx-Q",
+          "title": "राजिम में है 2500 साल पुराना मौर्यकालीन कुआँ! | CG Bhaskar",
+          "description": "राजिम में है 2500 साल पुराना मौर्यकालीन कुआँ! | CG Bhaskar छत्तीसगढ़ के ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-04T11:15:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/TkuV46NYx-Q/hqdefault.jpg",
+          "durationSeconds": 62,
+          "durationFormatted": "01:02",
+          "views": 2280,
+          "likes": 65,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "jTOiHZTH16U",
+          "title": "स्कूलों में मोबाइल मेडिकल यूनिट, बच्चों का हेल्थ चेकअप | CG Bhaskar",
+          "description": "स्कूलों में मोबाइल मेडिकल यूनिट, बच्चों का हेल्थ चेकअप | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-04T12:09:44Z",
+          "thumbnail": "https://i.ytimg.com/vi/jTOiHZTH16U/hqdefault.jpg",
+          "durationSeconds": 150,
+          "durationFormatted": "02:30",
+          "views": 159,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "_WmzAgrN7GM",
+          "title": "नकटीवासियों ने रुद्राभिषेक कर विष्णुदेव सरकार के लिए मांगा सद्बुद्धि | CG Bhaskar",
+          "description": "नकटीवासियों ने रुद्राभिषेक कर विष्णुदेव सरकार के लिए मांगा ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-04T09:30:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/_WmzAgrN7GM/hqdefault.jpg",
+          "durationSeconds": 537,
+          "durationFormatted": "08:57",
+          "views": 159,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "Politics"
+        }
+      ],
+      "latestUpdateAt": "2026-08-04T16:30:25Z"
     }
   ]
 }
