@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-05T14:42:31.502216Z",
+  "generatedAt": "2026-08-05T17:59:25.438479Z",
   "clusterCount": 8,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 34,
-      "trendScore": 65.3,
+      "trendScore": 63.6,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-emi",
       "topic": "Bhaskar EMI",
       "videoCount": 8,
-      "trendScore": 44.3,
+      "trendScore": 42.6,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "xpress-छततसगढ",
       "topic": "Xpress छत्तीसगढ़",
       "videoCount": 4,
-      "trendScore": 43.9,
+      "trendScore": 41.8,
       "topVideos": [
         {
           "index": 1,
@@ -243,7 +243,7 @@
       "clusterId": "scooty-rescue",
       "topic": "Scooty Rescue",
       "videoCount": 6,
-      "trendScore": 41.1,
+      "trendScore": 39.5,
       "topVideos": [
         {
           "index": 1,
@@ -327,7 +327,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 7,
-      "trendScore": 38.3,
+      "trendScore": 36.5,
       "topVideos": [
         {
           "index": 1,
@@ -411,7 +411,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 34.0,
+      "trendScore": 32.3,
       "topVideos": [
         {
           "index": 1,
@@ -435,7 +435,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 29.7,
+      "trendScore": 27.9,
       "topVideos": [
         {
           "index": 1,
@@ -459,7 +459,7 @@
       "clusterId": "bjp-badi",
       "topic": "BJP Badi",
       "videoCount": 4,
-      "trendScore": 22.4,
+      "trendScore": 21.6,
       "topVideos": [
         {
           "index": 1,
