@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-08T03:49:03.751394Z",
+  "generatedAt": "2026-08-08T05:13:09.593045Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 13,
-      "trendScore": 48.5,
+      "trendScore": 47.9,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 3,
-      "trendScore": 23.3,
+      "trendScore": 22.8,
       "topVideos": [
         {
           "index": 1,
