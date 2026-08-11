@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-11T15:27:00.344579Z",
+  "generatedAt": "2026-08-11T17:24:20.117615Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 19,
-      "trendScore": 47.9,
+      "trendScore": 46.8,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "durg-atm",
       "topic": "Durg ATM",
       "videoCount": 9,
-      "trendScore": 35.1,
+      "trendScore": 34.0,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "xpress-kiss",
       "topic": "Xpress kiss",
       "videoCount": 4,
-      "trendScore": 32.6,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -243,7 +243,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 6,
-      "trendScore": 29.8,
+      "trendScore": 28.9,
       "topVideos": [
         {
           "index": 1,
