@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-12T03:01:40.518866Z",
+  "generatedAt": "2026-08-12T05:51:21.181154Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "bhaskar-durg",
       "topic": "Bhaskar Durg",
       "videoCount": 7,
-      "trendScore": 33.5,
+      "trendScore": 32.6,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 4,
-      "trendScore": 29.1,
+      "trendScore": 28.2,
       "topVideos": [
         {
           "index": 1,
