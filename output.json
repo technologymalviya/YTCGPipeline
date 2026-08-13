@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T13:54:08.379161Z",
+  "generatedAt": "2026-08-13T15:27:52.907516Z",
   "sections": [
     {
       "section": "Bhilai",
@@ -14,8 +14,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6tbRj4KNEa8/hqdefault.jpg",
           "durationSeconds": 665,
           "durationFormatted": "11:05",
-          "views": 27,
-          "likes": 0,
+          "views": 76,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -28,8 +28,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eiyh-dAkvF0/hqdefault.jpg",
           "durationSeconds": 438,
           "durationFormatted": "07:18",
-          "views": 407,
-          "likes": 13,
+          "views": 737,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -42,8 +42,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WoSm3xqcdgU/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 862,
-          "likes": 15,
+          "views": 1064,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -64,8 +64,50 @@
     },
     {
       "section": "General",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "videoId": "cBzJCcA2rVw",
+          "title": "नो स्टाइपेंड नो ड्यूटी, इंटर्न डॉक्टरों का रायपुर में बड़ा आंदोलन | CG Bhaskar",
+          "description": "नो स्टाइपेंड नो ड्यूटी, इंटर्न डॉक्टरों का रायपुर में बड़ा आंदोलन ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T15:15:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/cBzJCcA2rVw/hqdefault.jpg",
+          "durationSeconds": 440,
+          "durationFormatted": "07:20",
+          "views": 0,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "dtdknZiWSbw",
+          "title": "Pandit Pradeep Mishra की कथा से पहले पहुंचे भक्त | भजन सुना कर बना दिया शिवमय माहौल | khush",
+          "description": "Pandit Pradeep Mishra की कथा से पहले पहुंचे भक्त | भजन सुना कर बना दिया शिवमय ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T14:15:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/dtdknZiWSbw/hqdefault.jpg",
+          "durationSeconds": 867,
+          "durationFormatted": "14:27",
+          "views": 84,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "2ubNsqniLjY",
+          "title": "छत्तीसगढ़ में फिर एक्टिव हुई ED! 3 ठिकानों पर छापेमारी से मचा हड़कंप  #rajnandgaon #edraid",
+          "description": "छत्तीसगढ़ में फिर एक्टिव हुई ED! 3 ठिकानों पर छापेमारी से मचा हड़कंप ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-08-13T13:46:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/2ubNsqniLjY/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 21,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
         {
           "videoId": "UYPtKj4ShQ4",
           "title": "रिहायशी इलाकों में पहुँच रहा भालू | CG Bhaskar",
@@ -75,7 +117,7 @@
           "thumbnail": "https://i.ytimg.com/vi/UYPtKj4ShQ4/hqdefault.jpg",
           "durationSeconds": 127,
           "durationFormatted": "02:07",
-          "views": 0,
+          "views": 6,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -89,8 +131,8 @@
           "thumbnail": "https://i.ytimg.com/vi/M7bHkUJdu9I/hqdefault.jpg",
           "durationSeconds": 176,
           "durationFormatted": "02:56",
-          "views": 96,
-          "likes": 4,
+          "views": 236,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -103,7 +145,7 @@
           "thumbnail": "https://i.ytimg.com/vi/AeKZhQTzLbA/hqdefault.jpg",
           "durationSeconds": 740,
           "durationFormatted": "12:20",
-          "views": 19,
+          "views": 24,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -117,8 +159,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DnfsBFdkTAE/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 106,
-          "likes": 3,
+          "views": 215,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -131,8 +173,8 @@
           "thumbnail": "https://i.ytimg.com/vi/cy3Q_GPsbBU/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 140,
-          "likes": 4,
+          "views": 188,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -145,7 +187,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cL0TCktShEE/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 190,
+          "views": 257,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -159,8 +201,8 @@
           "thumbnail": "https://i.ytimg.com/vi/eiyh-dAkvF0/hqdefault.jpg",
           "durationSeconds": 438,
           "durationFormatted": "07:18",
-          "views": 407,
-          "likes": 13,
+          "views": 737,
+          "likes": 35,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -173,8 +215,8 @@
           "thumbnail": "https://i.ytimg.com/vi/B5fpA49sisA/hqdefault.jpg",
           "durationSeconds": 70,
           "durationFormatted": "01:10",
-          "views": 425,
-          "likes": 12,
+          "views": 457,
+          "likes": 17,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -187,8 +229,22 @@
           "thumbnail": "https://i.ytimg.com/vi/3NzVe-KXH0A/hqdefault.jpg",
           "durationSeconds": 175,
           "durationFormatted": "02:55",
-          "views": 158,
-          "likes": 6,
+          "views": 180,
+          "likes": 7,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "videoId": "f8iW3CA4cdo",
+          "title": "पाट जात्रा के साथ शुरू हुआ 75 दिनों का बस्तर दशहरा #bastar #culturalfestival #dussehra #tribes",
+          "description": "पाट जात्रा के साथ शुरू हुआ 75 दिनों का बस्तर दशहरा #Bastar #Chhattisgarh #PaatJatra ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-08-13T10:11:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/f8iW3CA4cdo/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 274,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -201,8 +257,8 @@
           "thumbnail": "https://i.ytimg.com/vi/WoSm3xqcdgU/hqdefault.jpg",
           "durationSeconds": 22,
           "durationFormatted": "00:22",
-          "views": 862,
-          "likes": 15,
+          "views": 1064,
+          "likes": 19,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -215,7 +271,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kf_mF6C3JtA/hqdefault.jpg",
           "durationSeconds": 624,
           "durationFormatted": "10:24",
-          "views": 18,
+          "views": 32,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -229,8 +285,8 @@
           "thumbnail": "https://i.ytimg.com/vi/O-ve7POG16I/hqdefault.jpg",
           "durationSeconds": 76,
           "durationFormatted": "01:16",
-          "views": 450,
-          "likes": 14,
+          "views": 562,
+          "likes": 15,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -243,7 +299,7 @@
           "thumbnail": "https://i.ytimg.com/vi/blQIKYqUVas/hqdefault.jpg",
           "durationSeconds": 108,
           "durationFormatted": "01:48",
-          "views": 384,
+          "views": 465,
           "likes": 13,
           "videoType": "VOD",
           "genre": "General"
@@ -257,8 +313,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4uA3umHOvMc/hqdefault.jpg",
           "durationSeconds": 1008,
           "durationFormatted": "16:48",
-          "views": 902,
-          "likes": 18,
+          "views": 1589,
+          "likes": 25,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -271,50 +327,8 @@
           "thumbnail": "https://i.ytimg.com/vi/5LpQsgGfFuo/hqdefault.jpg",
           "durationSeconds": 67,
           "durationFormatted": "01:07",
-          "views": 371,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "vi2deNJBqOI",
-          "title": "गुड़ फैक्ट्री में 1.30 लाख रुपये की चोरी का खुलासा, आरोपी गिरफ्तार! @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T17:31:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/vi2deNJBqOI/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 147,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "svvaYE3gDT4",
-          "title": "Kabirdham में नकली नोटों का खेल खत्म, 3 आरोपी गिरफ्तार! || @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T17:30:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/svvaYE3gDT4/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 251,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "videoId": "1YRvJVjbptQ",
-          "title": "राजधानी के तेलीबांधा में हरेली कार्यक्रम, डिप्टी सीएम अरुण साव ने किया बड़ा ऐलान।कान्हा | CG Bhaskar",
-          "description": "राजधानी के तेलीबांधा में हरेली कार्यक्रम, डिप्टी सीएम अरुण साव ने ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-12T16:00:05Z",
-          "thumbnail": "https://i.ytimg.com/vi/1YRvJVjbptQ/hqdefault.jpg",
-          "durationSeconds": 665,
-          "durationFormatted": "11:05",
-          "views": 355,
-          "likes": 11,
+          "views": 430,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -335,7 +349,7 @@
     },
     {
       "section": "Politics",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "videoId": "6tbRj4KNEa8",
@@ -346,22 +360,8 @@
           "thumbnail": "https://i.ytimg.com/vi/6tbRj4KNEa8/hqdefault.jpg",
           "durationSeconds": 665,
           "durationFormatted": "11:05",
-          "views": 27,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "videoId": "Q3S0aaWYNGY",
-          "title": "CM हाउस में मना हरेली त्यौहार, दिखी छत्तीसगढ़ की लोकसंस्कृति की झलक | CG Bhaskar",
-          "description": "CM हाउस में मना हरेली त्यौहार, दिखी छत्तीसगढ़ की लोकसंस्कृति की झलक ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-12T17:00:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q3S0aaWYNGY/hqdefault.jpg",
-          "durationSeconds": 458,
-          "durationFormatted": "07:38",
-          "views": 467,
-          "likes": 10,
+          "views": 76,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Politics"
         }
@@ -370,7 +370,7 @@
     },
     {
       "section": "Events",
-      "count": 3,
+      "count": 1,
       "items": [
         {
           "videoId": "Q81nYg1gANc",
@@ -381,35 +381,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Q81nYg1gANc/hqdefault.jpg",
           "durationSeconds": 142,
           "durationFormatted": "02:22",
-          "views": 13,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "videoId": "x1kCPvY9NQ4",
-          "title": "Hareli Agricultural Festival Celebration at Ex CM Bhupesh Baghel&#39;s Raipur House#shortsfeed#news",
-          "description": "Hareli Agricultural Festival Celebration at Ex CM Bhupesh Baghel's Raipur House#shortsfeed#news#bhupeshbaghel#hareli.",
-          "channelTitle": "Awaaz Hind 24",
-          "publishedAt": "2026-08-13T05:53:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/x1kCPvY9NQ4/hqdefault.jpg",
-          "durationSeconds": 162,
-          "durationFormatted": "02:42",
-          "views": 52,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "videoId": "AUU8LQY9_vs",
-          "title": "Awaaz Hind 24 News Exclusive Hareli Festival Coverage at Ex CM,CG Bhupesh Baghel&#39;s Raipur House",
-          "description": "Awaaz Hind 24 News Exclusive Hareli Festival Coverage at Ex CM,CG Bhupesh Baghel's Raipur House, Sangeeta Sinha MLA ...",
-          "channelTitle": "Awaaz Hind 24",
-          "publishedAt": "2026-08-12T15:15:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/AUU8LQY9_vs/hqdefault.jpg",
-          "durationSeconds": 163,
-          "durationFormatted": "02:43",
-          "views": 221,
+          "views": 15,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Events"
@@ -422,16 +394,16 @@
       "count": 1,
       "items": [
         {
-          "videoId": "FRE2--AKu34",
-          "title": "राजनांदगांव में जूनियर डॉक्टरों का प्रदर्शन, स्टाइपेंड बढ़ाने सड़क पर उतरे डॉक्टर | CG Bhaskar",
-          "description": "राजनांदगांव में जूनियर डॉक्टरों का प्रदर्शन, स्टाइपेंड बढ़ाने ...",
+          "videoId": "vpPF0-AxrNI",
+          "title": "बूढ़ा गार्डन बदहाल, नगर निगम बेपरवाह! | CG Bhaskar",
+          "description": "बूढ़ा गार्डन बदहाल, नगर निगम बेपरवाह! | CG Bhaskar राजधानी रायपुर के ...",
           "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-12T15:00:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/FRE2--AKu34/hqdefault.jpg",
-          "durationSeconds": 339,
-          "durationFormatted": "05:39",
-          "views": 61,
-          "likes": 3,
+          "publishedAt": "2026-08-13T14:15:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/vpPF0-AxrNI/hqdefault.jpg",
+          "durationSeconds": 137,
+          "durationFormatted": "02:17",
+          "views": 42,
+          "likes": 2,
           "videoType": "VOD",
           "genre": "Civic"
         }
@@ -446,51 +418,8 @@
     },
     {
       "section": "Crime",
-      "count": 3,
-      "items": [
-        {
-          "videoId": "lmKbIo-OF8o",
-          "title": "Raipur में मालिक घर में मौजूद..चोर दिनदहाड़े Activa लेकर हुआ फरार!",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T17:37:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/lmKbIo-OF8o/hqdefault.jpg",
-          "durationSeconds": 57,
-          "durationFormatted": "00:57",
-          "views": 1154,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "videoId": "pPuHcP8lukQ",
-          "title": "मां भवानी मंदिर के पास तेंदुए की दस्तक! photo Viral, इलाके में दहशत",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T17:36:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/pPuHcP8lukQ/hqdefault.jpg",
-          "durationSeconds": 56,
-          "durationFormatted": "00:56",
-          "views": 1063,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "videoId": "Hg5MXUSNWS8",
-          "title": "Raipur में मालिक घर में मौजूद..चोर दिनदहाड़े Activa लेकर हुआ फरार! || KP NEWS || Janvi Sahu",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T16:00:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/Hg5MXUSNWS8/hqdefault.jpg",
-          "durationSeconds": 349,
-          "durationFormatted": "05:49",
-          "views": 1167,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "sectionIndex": 8
     }
   ]

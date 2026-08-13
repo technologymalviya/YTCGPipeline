@@ -1,75 +1,15 @@
 {
-  "generatedAt": "2026-08-13T13:54:08.849510Z",
+  "generatedAt": "2026-08-13T15:27:53.272197Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 9,
-      "trendScore": 35.0,
+      "videoCount": 3,
+      "trendScore": 36.8,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "Hg5MXUSNWS8",
-          "title": "Raipur में मालिक घर में मौजूद..चोर दिनदहाड़े Activa लेकर हुआ फरार! || KP NEWS || Janvi Sahu",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T16:00:09Z",
-          "thumbnail": "https://i.ytimg.com/vi/Hg5MXUSNWS8/hqdefault.jpg",
-          "durationSeconds": 349,
-          "durationFormatted": "05:49",
-          "views": 1167,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "lmKbIo-OF8o",
-          "title": "Raipur में मालिक घर में मौजूद..चोर दिनदहाड़े Activa लेकर हुआ फरार!",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-12T17:37:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/lmKbIo-OF8o/hqdefault.jpg",
-          "durationSeconds": 57,
-          "durationFormatted": "00:57",
-          "views": 1154,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "Q3S0aaWYNGY",
-          "title": "CM हाउस में मना हरेली त्यौहार, दिखी छत्तीसगढ़ की लोकसंस्कृति की झलक | CG Bhaskar",
-          "description": "CM हाउस में मना हरेली त्यौहार, दिखी छत्तीसगढ़ की लोकसंस्कृति की झलक ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-12T17:00:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q3S0aaWYNGY/hqdefault.jpg",
-          "durationSeconds": 458,
-          "durationFormatted": "07:38",
-          "views": 467,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "B5fpA49sisA",
-          "title": "1 करोड़ रुपए की घूसखोरी में घिरे IPS राहुल बंसल | CG Bhaskar",
-          "description": "1 करोड़ रुपए की घूसखोरी में घिरे IPS राहुल बंसल | CG Bhaskar पंचायत सचिव को ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-13T10:19:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/B5fpA49sisA/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 425,
-          "likes": 12,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "eiyh-dAkvF0",
           "title": "Bhilai Blinkit वाले हड़ताल पर गए, Manager पर लगाए गंभीर आरोप, देखें पूरी रिपोर्ट |Khush | CG Bhaskar",
           "description": "Bhilai Blinkit वाले हड़ताल पर गए, Manager पर लगाए गंभीर आरोप, देखें पूरी रिपोर्ट ...",
@@ -78,8 +18,38 @@
           "thumbnail": "https://i.ytimg.com/vi/eiyh-dAkvF0/hqdefault.jpg",
           "durationSeconds": 438,
           "durationFormatted": "07:18",
-          "views": 407,
-          "likes": 13,
+          "views": 737,
+          "likes": 35,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "B5fpA49sisA",
+          "title": "1 करोड़ रुपए की घूसखोरी में घिरे IPS राहुल बंसल | CG Bhaskar",
+          "description": "1 करोड़ रुपए की घूसखोरी में घिरे IPS राहुल बंसल | CG Bhaskar पंचायत सचिव को ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T10:19:52Z",
+          "thumbnail": "https://i.ytimg.com/vi/B5fpA49sisA/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 457,
+          "likes": 17,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "M7bHkUJdu9I",
+          "title": "शिक्षक अभ्यर्थियों ने शिक्षामंत्री गजेंद्र को दिया अल्टीमेटम | CG Bhaskar",
+          "description": "शिक्षक अभ्यर्थियों ने शिक्षामंत्री गजेंद्र को दिया अल्टीमेटम | CG ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T12:30:15Z",
+          "thumbnail": "https://i.ytimg.com/vi/M7bHkUJdu9I/hqdefault.jpg",
+          "durationSeconds": 176,
+          "durationFormatted": "02:56",
+          "views": 236,
+          "likes": 7,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -87,64 +57,10 @@
       "latestUpdateAt": "2026-08-13T12:30:15Z"
     },
     {
-      "clusterId": "location-durg",
-      "topic": "Durg",
-      "videoCount": 3,
-      "trendScore": 33.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "4uA3umHOvMc",
-          "title": "दुर्ग के डुंडेरा में हरेली का आयोजन, बच्चों से लेकर महिलाओं तक सब झूमे, भूपेश बघेल भी हुए शामिल",
-          "description": "दुर्ग के डुंडेरा में हरेली का आयोजन, बच्चों से लेकर महिलाओं तक सब ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-13T08:20:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/4uA3umHOvMc/hqdefault.jpg",
-          "durationSeconds": 1008,
-          "durationFormatted": "16:48",
-          "views": 902,
-          "likes": 18,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "O-ve7POG16I",
-          "title": "दुर्ग में अब ऑटो-ई-रिक्शा की होगी डिजिटल पहचान | CG Bhaskar",
-          "description": "दुर्ग में अब ऑटो-ई-रिक्शा की होगी डिजिटल पहचान | CG Bhaskar दुर्ग-भिलाई ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-13T09:00:12Z",
-          "thumbnail": "https://i.ytimg.com/vi/O-ve7POG16I/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 450,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "blQIKYqUVas",
-          "title": "दुर्ग में नकली सिगरेट बेचने वालों का भांडाफोड़ | CG Bhaskar",
-          "description": "दुर्ग-भिलाई वालों अगर आप भी सिगरेट पीने के शौकिन हैं तो ये खबर जरूर ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-13T08:24:49Z",
-          "thumbnail": "https://i.ytimg.com/vi/blQIKYqUVas/hqdefault.jpg",
-          "durationSeconds": 108,
-          "durationFormatted": "01:48",
-          "views": 384,
-          "likes": 13,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-13T09:00:12Z"
-    },
-    {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 3,
-      "trendScore": 31.4,
+      "videoCount": 4,
+      "trendScore": 33.5,
       "topVideos": [
         {
           "index": 1,
@@ -156,7 +72,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cL0TCktShEE/hqdefault.jpg",
           "durationSeconds": 64,
           "durationFormatted": "01:04",
-          "views": 190,
+          "views": 257,
           "likes": 4,
           "videoType": "VOD",
           "genre": "General"
@@ -171,8 +87,8 @@
           "thumbnail": "https://i.ytimg.com/vi/DnfsBFdkTAE/hqdefault.jpg",
           "durationSeconds": 107,
           "durationFormatted": "01:47",
-          "views": 106,
-          "likes": 3,
+          "views": 215,
+          "likes": 9,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -186,22 +102,106 @@
           "thumbnail": "https://i.ytimg.com/vi/kf_mF6C3JtA/hqdefault.jpg",
           "durationSeconds": 624,
           "durationFormatted": "10:24",
-          "views": 18,
+          "views": 32,
           "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "cBzJCcA2rVw",
+          "title": "नो स्टाइपेंड नो ड्यूटी, इंटर्न डॉक्टरों का रायपुर में बड़ा आंदोलन | CG Bhaskar",
+          "description": "नो स्टाइपेंड नो ड्यूटी, इंटर्न डॉक्टरों का रायपुर में बड़ा आंदोलन ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T15:15:33Z",
+          "thumbnail": "https://i.ytimg.com/vi/cBzJCcA2rVw/hqdefault.jpg",
+          "durationSeconds": 440,
+          "durationFormatted": "07:20",
+          "views": 0,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-08-13T11:45:32Z"
+      "latestUpdateAt": "2026-08-13T15:15:33Z"
+    },
+    {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 3,
+      "trendScore": 32.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "4uA3umHOvMc",
+          "title": "दुर्ग के डुंडेरा में हरेली का आयोजन, बच्चों से लेकर महिलाओं तक सब झूमे, भूपेश बघेल भी हुए शामिल",
+          "description": "दुर्ग के डुंडेरा में हरेली का आयोजन, बच्चों से लेकर महिलाओं तक सब ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T08:20:06Z",
+          "thumbnail": "https://i.ytimg.com/vi/4uA3umHOvMc/hqdefault.jpg",
+          "durationSeconds": 1008,
+          "durationFormatted": "16:48",
+          "views": 1589,
+          "likes": 25,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "O-ve7POG16I",
+          "title": "दुर्ग में अब ऑटो-ई-रिक्शा की होगी डिजिटल पहचान | CG Bhaskar",
+          "description": "दुर्ग में अब ऑटो-ई-रिक्शा की होगी डिजिटल पहचान | CG Bhaskar दुर्ग-भिलाई ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T09:00:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/O-ve7POG16I/hqdefault.jpg",
+          "durationSeconds": 76,
+          "durationFormatted": "01:16",
+          "views": 562,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "blQIKYqUVas",
+          "title": "दुर्ग में नकली सिगरेट बेचने वालों का भांडाफोड़ | CG Bhaskar",
+          "description": "दुर्ग-भिलाई वालों अगर आप भी सिगरेट पीने के शौकिन हैं तो ये खबर जरूर ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-13T08:24:49Z",
+          "thumbnail": "https://i.ytimg.com/vi/blQIKYqUVas/hqdefault.jpg",
+          "durationSeconds": 108,
+          "durationFormatted": "01:48",
+          "views": 465,
+          "likes": 13,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-13T09:00:12Z"
     },
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 29.6,
+      "videoCount": 2,
+      "trendScore": 29.7,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "f8iW3CA4cdo",
+          "title": "पाट जात्रा के साथ शुरू हुआ 75 दिनों का बस्तर दशहरा #bastar #culturalfestival #dussehra #tribes",
+          "description": "पाट जात्रा के साथ शुरू हुआ 75 दिनों का बस्तर दशहरा #Bastar #Chhattisgarh #PaatJatra ...",
+          "channelTitle": "Vayam Chhattisgarh",
+          "publishedAt": "2026-08-13T10:11:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/f8iW3CA4cdo/hqdefault.jpg",
+          "durationSeconds": 69,
+          "durationFormatted": "01:09",
+          "views": 274,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
           "videoId": "cy3Q_GPsbBU",
           "title": "Bastar Dussehra की शुरुआत,विश्व का सबसे लंबा पर्व | CG Bhaskar",
           "description": "Bastar Dussehra की शुरुआत,विश्व का सबसे लंबा पर्व Join our Whatsapp Group ...",
@@ -210,8 +210,8 @@
           "thumbnail": "https://i.ytimg.com/vi/cy3Q_GPsbBU/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 140,
-          "likes": 4,
+          "views": 188,
+          "likes": 5,
           "videoType": "VOD",
           "genre": "General"
         }
