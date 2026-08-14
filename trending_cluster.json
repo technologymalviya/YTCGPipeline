@@ -1,5 +1,168 @@
 {
-  "generatedAt": "2026-08-14T03:04:03.421758Z",
-  "clusterCount": 0,
-  "clusters": []
+  "generatedAt": "2026-08-14T05:51:34.914719Z",
+  "clusterCount": 3,
+  "clusters": [
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 5,
+      "trendScore": 44.8,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "rgwjrTo0vBk",
+          "title": "Durg में CTET वालों ने खोला मोर्चा | शिक्षक भर्ती में सरकार से इनकी क्या है मांग? | सुनिए उनकी बातें",
+          "description": "Durg में CTET वालों ने खोला मोर्चा | शिक्षक भर्ती में सरकार से इनकी क्या ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-13T14:00:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/rgwjrTo0vBk/hqdefault.jpg",
+          "durationSeconds": 1111,
+          "durationFormatted": "18:31",
+          "views": 17768,
+          "likes": 785,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "zd3tFDrWEe4",
+          "title": "College में Guest Lecturer की Joining क्यों नहीं? | सरकार के मंत्री झूठ बोल रहे | Yashwant Sahu |",
+          "description": "College में Guest Lecturer की Joining क्यों नहीं? | सरकार के मंत्री झूठ बोल रहे ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-13T15:30:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/zd3tFDrWEe4/hqdefault.jpg",
+          "durationSeconds": 676,
+          "durationFormatted": "11:16",
+          "views": 4620,
+          "likes": 498,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "fcD0bjumrKQ",
+          "title": "बिलासपुर; इंजीनियर भी युवा कांग्रेस के चुनावी मैदान में...",
+          "description": "बिलासपुर; इंजीनियर भी युवा कांग्रेस के चुनावी मैदान में... Join this channel to ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-14T02:30:19Z",
+          "thumbnail": "https://i.ytimg.com/vi/fcD0bjumrKQ/hqdefault.jpg",
+          "durationSeconds": 156,
+          "durationFormatted": "02:36",
+          "views": 1086,
+          "likes": 52,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "kvn7pixHukU",
+          "title": "CGPSC-CGSSB पर सारी बातें | BIA Director Pankaj Sir कर रहे Explain | Yashwant Sahu |",
+          "description": "CGPSC-CGSSB पर सारी बातें | BIA Director Pankaj Sir कर रहे Explain | Report/Story: Yashwant Sahu Camera: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-14T02:00:07Z",
+          "thumbnail": "https://i.ytimg.com/vi/kvn7pixHukU/hqdefault.jpg",
+          "durationSeconds": 2108,
+          "durationFormatted": "35:08",
+          "views": 1065,
+          "likes": 93,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "u4kbyquNG14",
+          "title": "Guest Lecturers : डेढ़ महीने से नौकरी का इंतजार,मंत्रालय तक पहुंचा अतिथि व्याख्याताओं का गुस्सा !",
+          "description": "छत्तीसगढ़ के सरकारी कॉलेजों में Guest Lecturers Appointment में देरी का मामला ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-08-13T10:42:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/u4kbyquNG14/hqdefault.jpg",
+          "durationSeconds": 1520,
+          "durationFormatted": "25:20",
+          "views": 355,
+          "likes": 68,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        }
+      ],
+      "latestUpdateAt": "2026-08-14T02:30:19Z"
+    },
+    {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 3,
+      "trendScore": 34.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "LI59LR-l368",
+          "title": "मोक्षित कार्पोरेशन Durg को झटका...",
+          "description": "मोक्षित कार्पोरेशन Durg को झटका... Join this channel to get access to the perks: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-13T12:30:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/LI59LR-l368/hqdefault.jpg",
+          "durationSeconds": 155,
+          "durationFormatted": "02:35",
+          "views": 6001,
+          "likes": 254,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "jyJm76HqA3E",
+          "title": "Durg में नकली Gold Flake का बड़ा खेल 18 हजार नकली सिगरेट 2 आरोपी गिरफ्तार || KP NEWS || Janvi Sahu",
+          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
+          "channelTitle": "KPNews",
+          "publishedAt": "2026-08-13T14:30:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/jyJm76HqA3E/hqdefault.jpg",
+          "durationSeconds": 369,
+          "durationFormatted": "06:09",
+          "views": 504,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "RxDsAaAFApY",
+          "title": "दुर्ग में नकली सिगरेट के कारोबार का बड़ा खुलासा",
+          "description": "आप हमारे चैनल की सदस्यता मुफ्त में लें, ताकि आप हमारे चैनल की और ...",
+          "channelTitle": "SABKA SANDESH NEWS",
+          "publishedAt": "2026-08-13T15:55:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/RxDsAaAFApY/hqdefault.jpg",
+          "durationSeconds": 129,
+          "durationFormatted": "02:09",
+          "views": 81,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-13T15:55:59Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 26.1,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "k6ndODP2v0A",
+          "title": "नक्सलमुक्त बस्तर में खास होगा Independence Day! लालबाग मैदान में 16 टुकड़ियों की परेड |  Bastar",
+          "description": "नक्सलमुक्त बस्तर में इस बार स्वतंत्रता दिवस समारोह खास होने जा रहा ...",
+          "channelTitle": "The Rural Press",
+          "publishedAt": "2026-08-13T13:00:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/k6ndODP2v0A/hqdefault.jpg",
+          "durationSeconds": 141,
+          "durationFormatted": "02:21",
+          "views": 15,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-08-13T13:00:11Z"
+    }
+  ]
 }
