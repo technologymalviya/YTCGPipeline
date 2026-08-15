@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-15T03:09:28.711004Z",
+  "generatedAt": "2026-08-15T04:53:23.883683Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 11,
-      "trendScore": 46.0,
+      "trendScore": 45.5,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 5,
-      "trendScore": 33.0,
+      "trendScore": 32.5,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 3,
-      "trendScore": 32.0,
+      "trendScore": 31.4,
       "topVideos": [
         {
           "index": 1,
