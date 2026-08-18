@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-17T19:04:39.914433Z",
+  "generatedAt": "2026-08-18T01:55:38.922211Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 36.7,
+      "trendScore": 33.2,
       "topVideos": [
         {
           "index": 1,
@@ -30,7 +30,7 @@
       "clusterId": "deo-khairagarh",
       "topic": "DEO Khairagarh",
       "videoCount": 4,
-      "trendScore": 34.8,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -99,7 +99,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 4,
-      "trendScore": 30.5,
+      "trendScore": 27.3,
       "topVideos": [
         {
           "index": 1,
@@ -168,7 +168,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 2,
-      "trendScore": 29.3,
+      "trendScore": 26.2,
       "topVideos": [
         {
           "index": 1,
@@ -207,7 +207,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 17.5,
+      "trendScore": 14.4,
       "topVideos": [
         {
           "index": 1,
@@ -261,7 +261,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 4,
-      "trendScore": 17.4,
+      "trendScore": 14.3,
       "topVideos": [
         {
           "index": 1,
