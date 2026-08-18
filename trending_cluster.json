@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-18T01:55:38.922211Z",
+  "generatedAt": "2026-08-18T03:13:20.849587Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 33.2,
+      "trendScore": 32.7,
       "topVideos": [
         {
           "index": 1,
@@ -30,7 +30,7 @@
       "clusterId": "deo-khairagarh",
       "topic": "DEO Khairagarh",
       "videoCount": 4,
-      "trendScore": 31.7,
+      "trendScore": 31.2,
       "topVideos": [
         {
           "index": 1,
@@ -99,7 +99,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 4,
-      "trendScore": 27.3,
+      "trendScore": 26.8,
       "topVideos": [
         {
           "index": 1,
@@ -168,7 +168,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 2,
-      "trendScore": 26.2,
+      "trendScore": 25.7,
       "topVideos": [
         {
           "index": 1,
@@ -204,64 +204,10 @@
       "latestUpdateAt": "2026-08-17T12:33:26Z"
     },
     {
-      "clusterId": "location-durg",
-      "topic": "Durg",
-      "videoCount": 3,
-      "trendScore": 14.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "r5-Uq1-fXzw",
-          "title": "Durg में चोरी के आरोपी का बड़ा खुलासा ,एक चोरी की जांच में सामने आई 5 वारदातें, सामान बरामद",
-          "description": "chhattisgarh #durgnews #crimenews ........................................................................................................................................... India Town ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-08-17T11:56:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/r5-Uq1-fXzw/hqdefault.jpg",
-          "durationSeconds": 96,
-          "durationFormatted": "01:36",
-          "views": 6,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "PZeqsi3mdS4",
-          "title": "Durg में लिफ्ट के बहाने युवक पर जानलेवा हमला ,चाकू से पेट-पीठ पर वार, आरोपी गिरफ्तार",
-          "description": "chhattisgarh #durgnews #crimenews ........................................................................................................................................... India Town ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-08-17T11:57:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/PZeqsi3mdS4/hqdefault.jpg",
-          "durationSeconds": 65,
-          "durationFormatted": "01:05",
-          "views": 3,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "ddqap5vFswU",
-          "title": "Durg में सजेगा रिमझिम सावन मेला ,21-22 अगस्त को महिलाओं के हुनर और संस्कृति का दिखेगा रंग",
-          "description": "chhattisgarh #durgnews #sawanspecial ........................................................................................................................................... India Town ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-08-17T11:58:23Z",
-          "thumbnail": "https://i.ytimg.com/vi/ddqap5vFswU/hqdefault.jpg",
-          "durationSeconds": 105,
-          "durationFormatted": "01:45",
-          "views": 2,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-08-17T11:58:23Z"
-    },
-    {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 4,
-      "trendScore": 14.3,
+      "trendScore": 13.9,
       "topVideos": [
         {
           "index": 1,
@@ -325,6 +271,60 @@
         }
       ],
       "latestUpdateAt": "2026-08-17T11:55:55Z"
+    },
+    {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 3,
+      "trendScore": 13.9,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "r5-Uq1-fXzw",
+          "title": "Durg में चोरी के आरोपी का बड़ा खुलासा ,एक चोरी की जांच में सामने आई 5 वारदातें, सामान बरामद",
+          "description": "chhattisgarh #durgnews #crimenews ........................................................................................................................................... India Town ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-17T11:56:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/r5-Uq1-fXzw/hqdefault.jpg",
+          "durationSeconds": 96,
+          "durationFormatted": "01:36",
+          "views": 6,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "PZeqsi3mdS4",
+          "title": "Durg में लिफ्ट के बहाने युवक पर जानलेवा हमला ,चाकू से पेट-पीठ पर वार, आरोपी गिरफ्तार",
+          "description": "chhattisgarh #durgnews #crimenews ........................................................................................................................................... India Town ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-17T11:57:30Z",
+          "thumbnail": "https://i.ytimg.com/vi/PZeqsi3mdS4/hqdefault.jpg",
+          "durationSeconds": 65,
+          "durationFormatted": "01:05",
+          "views": 3,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "ddqap5vFswU",
+          "title": "Durg में सजेगा रिमझिम सावन मेला ,21-22 अगस्त को महिलाओं के हुनर और संस्कृति का दिखेगा रंग",
+          "description": "chhattisgarh #durgnews #sawanspecial ........................................................................................................................................... India Town ...",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-17T11:58:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/ddqap5vFswU/hqdefault.jpg",
+          "durationSeconds": 105,
+          "durationFormatted": "01:45",
+          "views": 2,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-08-17T11:58:23Z"
     }
   ]
 }
