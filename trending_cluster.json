@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-19T01:57:27.688493Z",
+  "generatedAt": "2026-08-19T03:22:07.011401Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "bhaskar-cho",
       "topic": "Bhaskar CHO",
       "videoCount": 14,
-      "trendScore": 46.2,
+      "trendScore": 45.7,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 6,
-      "trendScore": 39.4,
+      "trendScore": 39.0,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 9,
-      "trendScore": 34.4,
+      "trendScore": 33.9,
       "topVideos": [
         {
           "index": 1,
