@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-19T18:59:19.072276Z",
+  "generatedAt": "2026-08-20T01:56:21.885427Z",
   "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 15,
-      "trendScore": 50.1,
+      "trendScore": 47.1,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-bjp",
       "topic": "Bhaskar BJP",
       "videoCount": 9,
-      "trendScore": 38.9,
+      "trendScore": 36.6,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 7,
-      "trendScore": 37.4,
+      "trendScore": 34.5,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "swarna-sharda",
       "topic": "Swarna Sharda",
       "videoCount": 6,
-      "trendScore": 28.9,
+      "trendScore": 25.7,
       "topVideos": [
         {
           "index": 1,
@@ -342,7 +342,7 @@
       "clusterId": "cement-faizan",
       "topic": "Cement Faizan",
       "videoCount": 4,
-      "trendScore": 27.2,
+      "trendScore": 24.3,
       "topVideos": [
         {
           "index": 1,
