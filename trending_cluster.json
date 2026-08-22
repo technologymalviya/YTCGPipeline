@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T16:45:40.932157Z",
+  "generatedAt": "2026-08-22T18:54:14.403094Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 41.5,
+      "trendScore": 40.7,
       "topVideos": [
         {
           "index": 1,
@@ -60,7 +60,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 7,
-      "trendScore": 37.2,
+      "trendScore": 36.4,
       "topVideos": [
         {
           "index": 1,
@@ -144,7 +144,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 7,
-      "trendScore": 36.5,
+      "trendScore": 35.6,
       "topVideos": [
         {
           "index": 1,
@@ -228,7 +228,7 @@
       "clusterId": "bhaskar-हफत",
       "topic": "Bhaskar हफ्ते",
       "videoCount": 4,
-      "trendScore": 32.0,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -297,7 +297,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 3,
-      "trendScore": 31.6,
+      "trendScore": 30.9,
       "topVideos": [
         {
           "index": 1,
@@ -348,49 +348,10 @@
       "latestUpdateAt": "2026-08-22T09:43:55Z"
     },
     {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 2,
-      "trendScore": 29.5,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "KZHyn2hjyvw",
-          "title": "कथा का छठवां दिन, भारी बारिश में भी दूर-दूर से आए लोग | CG Bhaskar",
-          "description": "कथा का छठवां दिन, भारी बारिश में भी दूर-दूर से आए लोग | CG Bhaskar * Bhilai के ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-22T12:15:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/KZHyn2hjyvw/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 179,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "JQ8r3EXdcFM",
-          "title": "प्रजापिता ब्रह्माकुमारी की बहनों ने पत्रकारों को बांधी राखी | CG Bhaskar",
-          "description": "प्रजापिता ब्रह्माकुमारी की बहनों ने पत्रकारों को बांधी राखी | CG ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-22T10:45:21Z",
-          "thumbnail": "https://i.ytimg.com/vi/JQ8r3EXdcFM/hqdefault.jpg",
-          "durationSeconds": 160,
-          "durationFormatted": "02:40",
-          "views": 68,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-22T12:15:22Z"
-    },
-    {
       "clusterId": "mona-sen",
       "topic": "Mona Sen",
       "videoCount": 4,
-      "trendScore": 29.2,
+      "trendScore": 28.4,
       "topVideos": [
         {
           "index": 1,
@@ -454,6 +415,45 @@
         }
       ],
       "latestUpdateAt": "2026-08-22T06:57:19Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 2,
+      "trendScore": 28.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "KZHyn2hjyvw",
+          "title": "कथा का छठवां दिन, भारी बारिश में भी दूर-दूर से आए लोग | CG Bhaskar",
+          "description": "कथा का छठवां दिन, भारी बारिश में भी दूर-दूर से आए लोग | CG Bhaskar * Bhilai के ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-22T12:15:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/KZHyn2hjyvw/hqdefault.jpg",
+          "durationSeconds": 179,
+          "durationFormatted": "02:59",
+          "views": 179,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "JQ8r3EXdcFM",
+          "title": "प्रजापिता ब्रह्माकुमारी की बहनों ने पत्रकारों को बांधी राखी | CG Bhaskar",
+          "description": "प्रजापिता ब्रह्माकुमारी की बहनों ने पत्रकारों को बांधी राखी | CG ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-22T10:45:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/JQ8r3EXdcFM/hqdefault.jpg",
+          "durationSeconds": 160,
+          "durationFormatted": "02:40",
+          "views": 68,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-22T12:15:22Z"
     }
   ]
 }
