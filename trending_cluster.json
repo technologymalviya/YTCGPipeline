@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T03:12:18.248526Z",
+  "generatedAt": "2026-08-22T04:56:02.400526Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "bhaskar-mrs",
       "topic": "Bhaskar Mrs",
       "videoCount": 9,
-      "trendScore": 36.6,
+      "trendScore": 36.0,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 2,
-      "trendScore": 28.8,
+      "trendScore": 28.1,
       "topVideos": [
         {
           "index": 1,
@@ -129,7 +129,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 26.1,
+      "trendScore": 25.6,
       "topVideos": [
         {
           "index": 1,
