@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T14:43:46.399828Z",
+  "generatedAt": "2026-08-22T16:45:40.932157Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 42.4,
+      "trendScore": 41.5,
       "topVideos": [
         {
           "index": 1,
@@ -60,7 +60,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 7,
-      "trendScore": 37.9,
+      "trendScore": 37.2,
       "topVideos": [
         {
           "index": 1,
@@ -144,7 +144,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 7,
-      "trendScore": 37.5,
+      "trendScore": 36.5,
       "topVideos": [
         {
           "index": 1,
@@ -228,7 +228,7 @@
       "clusterId": "bhaskar-हफत",
       "topic": "Bhaskar हफ्ते",
       "videoCount": 4,
-      "trendScore": 32.9,
+      "trendScore": 32.0,
       "topVideos": [
         {
           "index": 1,
@@ -297,7 +297,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 3,
-      "trendScore": 32.3,
+      "trendScore": 31.6,
       "topVideos": [
         {
           "index": 1,
@@ -351,7 +351,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 30.8,
+      "trendScore": 29.5,
       "topVideos": [
         {
           "index": 1,
@@ -390,7 +390,7 @@
       "clusterId": "mona-sen",
       "topic": "Mona Sen",
       "videoCount": 4,
-      "trendScore": 30.0,
+      "trendScore": 29.2,
       "topVideos": [
         {
           "index": 1,
