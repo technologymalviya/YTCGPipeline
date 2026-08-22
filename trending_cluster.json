@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-21T19:03:50.371933Z",
+  "generatedAt": "2026-08-22T01:55:00.968797Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 7,
-      "trendScore": 40.0,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 3,
-      "trendScore": 34.2,
+      "trendScore": 30.9,
       "topVideos": [
         {
           "index": 1,
@@ -144,7 +144,7 @@
       "clusterId": "mona-sen",
       "topic": "Mona Sen",
       "videoCount": 4,
-      "trendScore": 30.0,
+      "trendScore": 27.0,
       "topVideos": [
         {
           "index": 1,
