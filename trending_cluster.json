@@ -1,12 +1,36 @@
 {
-  "generatedAt": "2026-08-23T13:07:57.548112Z",
-  "clusterCount": 4,
+  "generatedAt": "2026-08-23T14:45:42.222273Z",
+  "clusterCount": 2,
   "clusters": [
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 1,
+      "trendScore": 44.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "tltPudMqni4",
+          "title": "Patpar Jhanki Full Interview | Viral कलाकारों से मिलिए | पहली बार ऐसी बातचीत | Yashwant Sahu |",
+          "description": "Patpar Jhanki Full Interview | Viral कलाकारों से मिलिए | पहली बार ऐसी बातचीत | Report/Story: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-23T14:00:21Z",
+          "thumbnail": "https://i.ytimg.com/vi/tltPudMqni4/hqdefault.jpg",
+          "durationSeconds": 2077,
+          "durationFormatted": "34:37",
+          "views": 1237,
+          "likes": 94,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-23T14:00:21Z"
+    },
     {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
-      "videoCount": 5,
-      "trendScore": 41.1,
+      "videoCount": 3,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +42,8 @@
           "thumbnail": "https://i.ytimg.com/vi/-msWjwjPafo/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 62205,
-          "likes": 2138,
+          "views": 72965,
+          "likes": 2409,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -33,8 +57,8 @@
           "thumbnail": "https://i.ytimg.com/vi/sn77B0fkwUM/hqdefault.jpg",
           "durationSeconds": 12268,
           "durationFormatted": "03:24:28",
-          "views": 14184,
-          "likes": 304,
+          "views": 14342,
+          "likes": 307,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,250 +72,13 @@
           "thumbnail": "https://i.ytimg.com/vi/HGfYDbIzdqk/hqdefault.jpg",
           "durationSeconds": 906,
           "durationFormatted": "15:06",
-          "views": 5165,
-          "likes": 104,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "o-hp19j04yM",
-          "title": "भिलाई: पं प्रदीप मिश्रा की कथा से लौट रहे युवक की मौt, टैक्कर से टकराई बाइक",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T11:53:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/o-hp19j04yM/hqdefault.jpg",
-          "durationSeconds": 81,
-          "durationFormatted": "01:21",
-          "views": 1294,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "Biwx1h5YRIo",
-          "title": "Bhilai में Shiv mahapuran katha कथा यहां बनता है सैकड़ों भक्तों का खाना! || KP News || Janvi",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-22T13:09:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/Biwx1h5YRIo/hqdefault.jpg",
-          "durationSeconds": 561,
-          "durationFormatted": "09:21",
-          "views": 1028,
-          "likes": 0,
+          "views": 5227,
+          "likes": 105,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-08-23T11:53:36Z"
-    },
-    {
-      "clusterId": "public-sector-exam",
-      "topic": "Public Sector Exam",
-      "videoCount": 7,
-      "trendScore": 37.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "c6EO0CYVlI0",
-          "title": "LIVE : Pandit Pradeep Mishra Shiv Mahapuran Katha Bhilai | KP News | Day-7 |",
-          "description": "PanditPradeepMishra #ShivMahapuran #ShivMahapuranKatha #Bhilai #BhilaiLive #KPNews #KPNewsLive #PradeepMishra ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T06:12:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/c6EO0CYVlI0/hqdefault.jpg",
-          "durationSeconds": 12284,
-          "durationFormatted": "03:24:44",
-          "views": 13757,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "aTtLXCDJXi0",
-          "title": "छत्तीसगढ़ NEET 2026, मेरिट लिस्ट में बड़ा झोल! || KP NEWS || Faizan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-22T15:40:10Z",
-          "thumbnail": "https://i.ytimg.com/vi/aTtLXCDJXi0/hqdefault.jpg",
-          "durationSeconds": 945,
-          "durationFormatted": "15:45",
-          "views": 9013,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 3,
-          "videoId": "todeNS0kB-s",
-          "title": "NEET 2026 मेरिट लिस्ट पर बड़ा सवाल! सीट के लिए फर्जी दस्तावेजों के इस्तेमाल का आरोप! @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T11:51:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/todeNS0kB-s/hqdefault.jpg",
-          "durationSeconds": 85,
-          "durationFormatted": "01:25",
-          "views": 215,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "index": 4,
-          "videoId": "3vRgtfOaZuY",
-          "title": "🔴 Deputy CM Vijay Sharma EXCLUSIVE: कैसे बदलेगा बस्तर? नक्सलमुक्त बस्तर के विकास पर सीधी बात",
-          "description": "IBC24, Deputy CM Vijay Sharma EXCLUSIVE: कैसे बदलेगा बस्तर? नक्सलमुक्त बस्तर के ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-08-23T09:56:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/3vRgtfOaZuY/hqdefault.jpg",
-          "durationSeconds": 1033,
-          "durationFormatted": "17:13",
-          "views": 169,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "nslozwpzLmc",
-          "title": "Balrampur News : CM Bicycle Scheme सवालों के घेरे में। कई साइकिलों वितरण से पहले ही खराब",
-          "description": "IBC24, Balrampur News : CM Bicycle Scheme सवालों के घेरे में। कई साइकिलों वितरण से ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-08-23T10:37:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/nslozwpzLmc/hqdefault.jpg",
-          "durationSeconds": 127,
-          "durationFormatted": "02:07",
-          "views": 53,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        }
-      ],
-      "latestUpdateAt": "2026-08-23T13:04:22Z"
-    },
-    {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 3,
-      "trendScore": 33.4,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "D6DwOsA9RXg",
-          "title": "Raipur कमिश्नरेट पुलिस ने 4 करोड़ Cash किस मामले में पकड़ा?",
-          "description": "Raipur कमिश्नरेट पुलिस ने 4 करोड़ Cash किस मामले में पकड़ा? Join this channel to get ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-08-23T02:30:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/D6DwOsA9RXg/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 1902,
-          "likes": 46,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "cOhkbu8EAaA",
-          "title": "Heavy Rain in Raipur : रायपुर मे मूसलाधार बारिश। बारिश से कई इलाकों में जलभराव",
-          "description": "IBC24, Heavy Rain in Raipur : रायपुर मे मूसलाधार बारिश। बारिश से कई इलाकों में ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-08-23T10:19:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/cOhkbu8EAaA/hqdefault.jpg",
-          "durationSeconds": 742,
-          "durationFormatted": "12:22",
-          "views": 707,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "suE17HACE-c",
-          "title": "Raipur Black Currency Scam: ₹1.13 करोड़ की ठगी से खुला ठगी का राज | 9 गिरफ्तार, 4 करोड़ कैश बरामद",
-          "description": "IBC24, Raipur Black Currency Scam: ₹1.13 करोड़ की ठगी का खुलासा | 9 गिरफ्तार, 4 करोड़ कैश ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-08-23T12:38:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/suE17HACE-c/hqdefault.jpg",
-          "durationSeconds": 513,
-          "durationFormatted": "08:33",
-          "views": 43,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-08-23T12:38:56Z"
-    },
-    {
-      "clusterId": "supela-modi",
-      "topic": "Supela Modi",
-      "videoCount": 4,
-      "trendScore": 31.1,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "Tz5Jqycjw8M",
-          "title": "Supela फ्लाईओवर के नीचे हादसा, नाबालिग युवक ने 4-5 गाड़ियों को मारी जोरदार टक्कर! @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T11:51:39Z",
-          "thumbnail": "https://i.ytimg.com/vi/Tz5Jqycjw8M/hqdefault.jpg",
-          "durationSeconds": 76,
-          "durationFormatted": "01:16",
-          "views": 710,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Traffic"
-        },
-        {
-          "index": 2,
-          "videoId": "MdpBNDhbdq0",
-          "title": "शिव महापुराण के अंतिम दिन भंडारा आयोजक बोले- जनता के संयम का सदा ऋणी रहूंगा!  @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T11:51:59Z",
-          "thumbnail": "https://i.ytimg.com/vi/MdpBNDhbdq0/hqdefault.jpg",
-          "durationSeconds": 60,
-          "durationFormatted": "01:00",
-          "views": 471,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "UKrlHdzbPxU",
-          "title": "PM Modi से ख़ास बातचीत! Interview ft. हमशक्ल नायक || KP NEWS || Faizan Khan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T08:14:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/UKrlHdzbPxU/hqdefault.jpg",
-          "durationSeconds": 691,
-          "durationFormatted": "11:31",
-          "views": 248,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "OzPPuvFlvjI",
-          "title": "&quot;CTS 2026&quot; 29 साल के सफर पर डॉ संतोष राय ने ये कहा",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-08-23T11:51:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/OzPPuvFlvjI/hqdefault.jpg",
-          "durationSeconds": 55,
-          "durationFormatted": "00:55",
-          "views": 135,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-23T11:51:59Z"
+      "latestUpdateAt": "2026-08-23T06:15:43Z"
     }
   ]
 }
