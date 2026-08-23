@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-22T18:54:14.403094Z",
+  "generatedAt": "2026-08-23T02:06:53.219572Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 40.7,
+      "trendScore": 38.4,
       "topVideos": [
         {
           "index": 1,
@@ -60,7 +60,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 7,
-      "trendScore": 36.4,
+      "trendScore": 34.4,
       "topVideos": [
         {
           "index": 1,
@@ -144,7 +144,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 7,
-      "trendScore": 35.6,
+      "trendScore": 33.0,
       "topVideos": [
         {
           "index": 1,
@@ -225,10 +225,64 @@
       "latestUpdateAt": "2026-08-22T11:51:49Z"
     },
     {
+      "clusterId": "location-raipur",
+      "topic": "Raipur",
+      "videoCount": 3,
+      "trendScore": 29.2,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "znAPnizuFgo",
+          "title": "IGKV Raipur में Paper Leak से बवाल | Exam Cancel पर NSUI का जोरदार प्रदर्शन | Diaper लेकर पहुंचे |",
+          "description": "IGKV Raipur में Paper Leak से बवाल | Exam Cancel पर NSUI का जोरदार प्रदर्शन | Diaper लेकर ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-21T17:00:25Z",
+          "thumbnail": "https://i.ytimg.com/vi/znAPnizuFgo/hqdefault.jpg",
+          "durationSeconds": 375,
+          "durationFormatted": "06:15",
+          "views": 7619,
+          "likes": 211,
+          "videoType": "VOD",
+          "genre": "Civic"
+        },
+        {
+          "index": 2,
+          "videoId": "JfFzOfp-Bzk",
+          "title": "रायपुर में ट्रैफिक सुधार की तैयारी! 7 जगहों पर नए सिग्नल | CG Bhaskar",
+          "description": "रायपुर में ट्रैफिक सुधार की तैयारी! 7 जगहों पर नए सिग्नल | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-21T14:15:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/JfFzOfp-Bzk/hqdefault.jpg",
+          "durationSeconds": 80,
+          "durationFormatted": "01:20",
+          "views": 379,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "-HzywRXnxf0",
+          "title": "रायपुर में हिन्दू देवी देवताओं पर अभद्र टिप्पणी और अवैध धर्मांतरण का आरोप | CG Bhaskar",
+          "description": "रायपुर में हिन्दू देवी देवताओं पर अभद्र टिप्पणी और अवैध धर्मांतरण ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-22T09:43:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/-HzywRXnxf0/hqdefault.jpg",
+          "durationSeconds": 396,
+          "durationFormatted": "06:36",
+          "views": 82,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-22T09:43:55Z"
+    },
+    {
       "clusterId": "bhaskar-हफत",
       "topic": "Bhaskar हफ्ते",
       "videoCount": 4,
-      "trendScore": 31.1,
+      "trendScore": 28.8,
       "topVideos": [
         {
           "index": 1,
@@ -294,64 +348,10 @@
       "latestUpdateAt": "2026-08-22T12:45:24Z"
     },
     {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 3,
-      "trendScore": 30.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "znAPnizuFgo",
-          "title": "IGKV Raipur में Paper Leak से बवाल | Exam Cancel पर NSUI का जोरदार प्रदर्शन | Diaper लेकर पहुंचे |",
-          "description": "IGKV Raipur में Paper Leak से बवाल | Exam Cancel पर NSUI का जोरदार प्रदर्शन | Diaper लेकर ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-08-21T17:00:25Z",
-          "thumbnail": "https://i.ytimg.com/vi/znAPnizuFgo/hqdefault.jpg",
-          "durationSeconds": 375,
-          "durationFormatted": "06:15",
-          "views": 7619,
-          "likes": 211,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 2,
-          "videoId": "JfFzOfp-Bzk",
-          "title": "रायपुर में ट्रैफिक सुधार की तैयारी! 7 जगहों पर नए सिग्नल | CG Bhaskar",
-          "description": "रायपुर में ट्रैफिक सुधार की तैयारी! 7 जगहों पर नए सिग्नल | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-21T14:15:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/JfFzOfp-Bzk/hqdefault.jpg",
-          "durationSeconds": 80,
-          "durationFormatted": "01:20",
-          "views": 379,
-          "likes": 4,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "-HzywRXnxf0",
-          "title": "रायपुर में हिन्दू देवी देवताओं पर अभद्र टिप्पणी और अवैध धर्मांतरण का आरोप | CG Bhaskar",
-          "description": "रायपुर में हिन्दू देवी देवताओं पर अभद्र टिप्पणी और अवैध धर्मांतरण ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-22T09:43:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/-HzywRXnxf0/hqdefault.jpg",
-          "durationSeconds": 396,
-          "durationFormatted": "06:36",
-          "views": 82,
-          "likes": 2,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-22T09:43:55Z"
-    },
-    {
       "clusterId": "mona-sen",
       "topic": "Mona Sen",
       "videoCount": 4,
-      "trendScore": 28.4,
+      "trendScore": 26.2,
       "topVideos": [
         {
           "index": 1,
@@ -420,7 +420,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 28.3,
+      "trendScore": 25.1,
       "topVideos": [
         {
           "index": 1,
