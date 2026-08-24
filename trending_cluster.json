@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T17:02:04.304045Z",
+  "generatedAt": "2026-08-24T19:07:24.979827Z",
   "clusterCount": 4,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 5,
-      "trendScore": 41.6,
+      "trendScore": 40.6,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 3,
-      "trendScore": 39.7,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -144,7 +144,7 @@
       "clusterId": "bhaskar-वधयक",
       "topic": "Bhaskar विधायक",
       "videoCount": 7,
-      "trendScore": 38.2,
+      "trendScore": 37.1,
       "topVideos": [
         {
           "index": 1,
@@ -228,7 +228,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 3,
-      "trendScore": 28.1,
+      "trendScore": 27.2,
       "topVideos": [
         {
           "index": 1,
