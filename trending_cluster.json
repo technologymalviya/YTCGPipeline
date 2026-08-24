@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-24T03:28:25.322200Z",
+  "generatedAt": "2026-08-24T05:07:45.757890Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "supela-यवक",
       "topic": "Supela युवक",
       "videoCount": 5,
-      "trendScore": 30.9,
+      "trendScore": 30.4,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 2,
-      "trendScore": 26.8,
+      "trendScore": 26.3,
       "topVideos": [
         {
           "index": 1,
