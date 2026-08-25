@@ -1,27 +1,6 @@
 {
-  "generatedAt": "2026-08-25T01:57:15.741138Z",
+  "generatedAt": "2026-08-25T03:23:42.598572Z",
   "sections": [
-    {
-      "section": "Bhilai",
-      "count": 1,
-      "items": [
-        {
-          "videoId": "YKObmZuAeRM",
-          "title": "ठंडा समोसा बना दोस्तों में खू.नी झगड़े की वजह! #crimenews #bhilainews #crimeupdate",
-          "description": "ठंडा समोसा बना दोस्तों में खू.नी झगड़े की वजह! #BhilaiNews #ChhattisgarhNews ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-08-24T10:42:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/YKObmZuAeRM/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 467,
-          "likes": 8,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "sectionIndex": 0
-    },
     {
       "section": "Live",
       "count": 0,
@@ -39,16 +18,16 @@
       "count": 1,
       "items": [
         {
-          "videoId": "YKObmZuAeRM",
-          "title": "ठंडा समोसा बना दोस्तों में खू.नी झगड़े की वजह! #crimenews #bhilainews #crimeupdate",
-          "description": "ठंडा समोसा बना दोस्तों में खू.नी झगड़े की वजह! #BhilaiNews #ChhattisgarhNews ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-08-24T10:42:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/YKObmZuAeRM/hqdefault.jpg",
-          "durationSeconds": 52,
-          "durationFormatted": "00:52",
-          "views": 467,
-          "likes": 8,
+          "videoId": "8E453NGuwIk",
+          "title": "छत्तीसगढ़ियों की जमीन पर अब RDA की नज़र! Raipur Land Scam || Bharti Media || Naveen Gautam ||",
+          "description": "छत्तीसगढ़ियों की जमीन पर अब RDA की नज़र! Raipur Land Scam || Bharti Media || Naveen Gautam ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-08-24T10:55:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/8E453NGuwIk/hqdefault.jpg",
+          "durationSeconds": 722,
+          "durationFormatted": "12:02",
+          "views": 493,
+          "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -63,37 +42,8 @@
     },
     {
       "section": "Jobs",
-      "count": 2,
-      "items": [
-        {
-          "videoId": "vIC0OtzgqNo",
-          "title": "छत्तीसगढ़ में पूर्व अग्निवीरों को बड़ा तोहफा! सरकारी नौकरी में 10% आरक्षण तय #Chhattisgarh #Agniveer",
-          "description": "छत्तीसगढ़ में पूर्व अग्निवीरों को बड़ा तोहफा! सरकारी नौकरी में 10% ...",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-08-24T12:30:51Z",
-          "thumbnail": "https://i.ytimg.com/vi/vIC0OtzgqNo/hqdefault.jpg",
-          "durationSeconds": 62,
-          "durationFormatted": "01:02",
-          "views": 155,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        },
-        {
-          "videoId": "jeL_wz0Yezs",
-          "title": "1600 पदों पर भर्ती कब? कवर्धा में पुलिस अभ्यर्थियों ने किया हल्लाबोल! #vijaysharma #policebharti",
-          "description": "1600 पदों पर भर्ती कब? कवर्धा में पुलिस अभ्यर्थियों ने किया हल्लाबोल!",
-          "channelTitle": "Vayam Chhattisgarh",
-          "publishedAt": "2026-08-24T10:24:03Z",
-          "thumbnail": "https://i.ytimg.com/vi/jeL_wz0Yezs/hqdefault.jpg",
-          "durationSeconds": 64,
-          "durationFormatted": "01:04",
-          "views": 270,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        }
-      ],
+      "count": 0,
+      "items": [],
       "sectionIndex": 3
     },
     {
@@ -122,8 +72,23 @@
     },
     {
       "section": "Crime",
-      "count": 0,
-      "items": [],
+      "count": 1,
+      "items": [
+        {
+          "videoId": "ywiE02CR2QI",
+          "title": "Pandit Pradeep Mishra की कथा सुनने के बाद मौत के मुँह से लौटा ! #pandit_pradeep_ji_mishra #viral",
+          "description": "Pandit Pradeep Mishra की कथा सुनने के बाद मौत के मुँह से लौटा ! #pandit_pradeep_ji_mishra ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-08-24T08:08:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/ywiE02CR2QI/hqdefault.jpg",
+          "durationSeconds": 140,
+          "durationFormatted": "02:20",
+          "views": 4117,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Crime"
+        }
+      ],
       "sectionIndex": 8
     }
   ]
