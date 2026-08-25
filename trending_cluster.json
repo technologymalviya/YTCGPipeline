@@ -1,5 +1,90 @@
 {
-  "generatedAt": "2026-08-25T03:23:42.939363Z",
-  "clusterCount": 0,
-  "clusters": []
+  "generatedAt": "2026-08-25T05:00:52.048093Z",
+  "clusterCount": 1,
+  "clusters": [
+    {
+      "clusterId": "public-sector-exam",
+      "topic": "Public Sector Exam",
+      "videoCount": 5,
+      "trendScore": 42.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "n3ZFdL7C0AQ",
+          "title": "आरक्षक भर्ती; सेकंड लिस्ट के लिए डिप्टी सीएम के निवास पहुंचे कैंडिडेट्स...",
+          "description": "आरक्षक भर्ती; सेकंड लिस्ट के लिए डिप्टी सीएम के निवास पहुंचे ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-24T11:30:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/n3ZFdL7C0AQ/hqdefault.jpg",
+          "durationSeconds": 180,
+          "durationFormatted": "03:00",
+          "views": 17502,
+          "likes": 611,
+          "videoType": "VOD",
+          "genre": "Jobs"
+        },
+        {
+          "index": 2,
+          "videoId": "A5Nd5-hSFk8",
+          "title": "Good News: रक्षाबंधन से पहले आएगा महतारी वंदन योजना का किश्त",
+          "description": "Good News: रक्षाबंधन से पहले आएगा महतारी वंदन योजना का किश्त Join this channel to ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-24T16:30:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/A5Nd5-hSFk8/hqdefault.jpg",
+          "durationSeconds": 66,
+          "durationFormatted": "01:06",
+          "views": 8931,
+          "likes": 255,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "K-hlHAKYJ8M",
+          "title": "Patpar Jhanki Inside Story | ये है मेन किरदार | सबके पीछे की कहानी | Yashwant Sahu |",
+          "description": "Patpar Jhanki Inside Story | ये है मेन किरदार | सबके पीछे की कहानी | Yashwant Sahu | Report/Story: ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-24T15:30:08Z",
+          "thumbnail": "https://i.ytimg.com/vi/K-hlHAKYJ8M/hqdefault.jpg",
+          "durationSeconds": 1020,
+          "durationFormatted": "17:00",
+          "views": 8257,
+          "likes": 389,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "9ZmBvwjP_RA",
+          "title": "CG में 31 IPS Transfer, UP कैडर की अंजलि की CG में पहली पोस्टिंग",
+          "description": "CG में 31 IPS Transfer, UP कैडर की अंजलि की CG में पहली पोस्टिंग Join this channel to get ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-25T02:30:26Z",
+          "thumbnail": "https://i.ytimg.com/vi/9ZmBvwjP_RA/hqdefault.jpg",
+          "durationSeconds": 180,
+          "durationFormatted": "03:00",
+          "views": 3729,
+          "likes": 156,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "iGQjMgbttFg",
+          "title": "Amlesh Nagesh ने खोले वो राज | Full Fun Interview | Mann | Kajal | Yashwant | Cg Movie |",
+          "description": "Amlesh Nagesh ने खोले वो राज | Full Fun Interview | Mann | Kajal | Yashwant | Cg Movie | Report/Story: Yashwant ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-08-25T02:00:10Z",
+          "thumbnail": "https://i.ytimg.com/vi/iGQjMgbttFg/hqdefault.jpg",
+          "durationSeconds": 2356,
+          "durationFormatted": "39:16",
+          "views": 2205,
+          "likes": 257,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-25T02:30:26Z"
+    }
+  ]
 }
