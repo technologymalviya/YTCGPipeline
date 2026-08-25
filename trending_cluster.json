@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T13:25:13.011707Z",
+  "generatedAt": "2026-08-25T15:11:02.600976Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 26,
-      "trendScore": 62.1,
+      "trendScore": 61.4,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-transporter",
       "topic": "Bhaskar Transporter",
       "videoCount": 8,
-      "trendScore": 37.4,
+      "trendScore": 36.8,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 31.5,
+      "trendScore": 30.6,
       "topVideos": [
         {
           "index": 1,
@@ -213,7 +213,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 30.0,
+      "trendScore": 29.6,
       "topVideos": [
         {
           "index": 1,
@@ -237,7 +237,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 29.7,
+      "trendScore": 29.1,
       "topVideos": [
         {
           "index": 1,
@@ -291,7 +291,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 4,
-      "trendScore": 27.5,
+      "trendScore": 27.0,
       "topVideos": [
         {
           "index": 1,
@@ -360,7 +360,7 @@
       "clusterId": "influencer-dancer",
       "topic": "Influencer Dancer",
       "videoCount": 5,
-      "trendScore": 25.7,
+      "trendScore": 25.4,
       "topVideos": [
         {
           "index": 1,
