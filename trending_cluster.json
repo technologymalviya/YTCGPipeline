@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T07:22:32.283564Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-08-25T09:05:19.458306Z",
+  "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 55,
-      "trendScore": 64.2,
+      "videoCount": 56,
+      "trendScore": 64.9,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n3ZFdL7C0AQ/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 19204,
-          "likes": 646,
+          "views": 20625,
+          "likes": 677,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -33,8 +33,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ptS5rQyLmMY/hqdefault.jpg",
           "durationSeconds": 767,
           "durationFormatted": "12:47",
-          "views": 16535,
-          "likes": 148,
+          "views": 16846,
+          "likes": 149,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -48,8 +48,8 @@
           "thumbnail": "https://i.ytimg.com/vi/A5Nd5-hSFk8/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 11761,
-          "likes": 283,
+          "views": 13572,
+          "likes": 304,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -63,8 +63,8 @@
           "thumbnail": "https://i.ytimg.com/vi/K-hlHAKYJ8M/hqdefault.jpg",
           "durationSeconds": 1020,
           "durationFormatted": "17:00",
-          "views": 10268,
-          "likes": 418,
+          "views": 11658,
+          "likes": 447,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -78,19 +78,19 @@
           "thumbnail": "https://i.ytimg.com/vi/9ZmBvwjP_RA/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 6241,
-          "likes": 252,
+          "views": 8867,
+          "likes": 329,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-08-25T07:18:15Z"
+      "latestUpdateAt": "2026-08-25T08:57:45Z"
     },
     {
       "clusterId": "location-raipur",
       "topic": "Raipur",
-      "videoCount": 18,
-      "trendScore": 51.3,
+      "videoCount": 17,
+      "trendScore": 49.7,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/n11fny5zN2c/hqdefault.jpg",
           "durationSeconds": 83,
           "durationFormatted": "01:23",
-          "views": 43562,
-          "likes": 706,
+          "views": 48087,
+          "likes": 759,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,28 +117,13 @@
           "thumbnail": "https://i.ytimg.com/vi/2r6fv7nQJlM/hqdefault.jpg",
           "durationSeconds": 109,
           "durationFormatted": "01:49",
-          "views": 35495,
-          "likes": 663,
+          "views": 36932,
+          "likes": 691,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "JtXb_DGrU3w",
-          "title": "ये है राजधानी रायपुर  आप कमेंट में बताइए  की ये कौन-कौन से एरिया की तस्वीर है?",
-          "description": "ये है राजधानी रायपुर आप कमेंट में बताइए की ये कौन-कौन से एरिया की ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-08-24T08:10:38Z",
-          "thumbnail": "https://i.ytimg.com/vi/JtXb_DGrU3w/hqdefault.jpg",
-          "durationSeconds": 66,
-          "durationFormatted": "01:06",
-          "views": 6628,
-          "likes": 140,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
           "videoId": "Sl9PmnMexCI",
           "title": "Raipur Congress Slammed Smriti Irani on Sugar Price Hike During Street Agitation at Raipur DM office",
           "description": "Raipur Congress Slammed Smriti Irani on Sugar Price Hike During Street Agitation at infront of Raipur DM office ...",
@@ -147,10 +132,25 @@
           "thumbnail": "https://i.ytimg.com/vi/Sl9PmnMexCI/hqdefault.jpg",
           "durationSeconds": 61,
           "durationFormatted": "01:01",
-          "views": 1023,
-          "likes": 19,
+          "views": 1028,
+          "likes": 23,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "8E453NGuwIk",
+          "title": "छत्तीसगढ़ियों की जमीन पर अब RDA की नज़र! Raipur Land Scam || Bharti Media || Naveen Gautam ||",
+          "description": "छत्तीसगढ़ियों की जमीन पर अब RDA की नज़र! Raipur Land Scam || Bharti Media || Naveen Gautam ...",
+          "channelTitle": "Bharti Media Network",
+          "publishedAt": "2026-08-24T10:55:55Z",
+          "thumbnail": "https://i.ytimg.com/vi/8E453NGuwIk/hqdefault.jpg",
+          "durationSeconds": 722,
+          "durationFormatted": "12:02",
+          "views": 850,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
         },
         {
           "index": 5,
@@ -162,8 +162,8 @@
           "thumbnail": "https://i.ytimg.com/vi/vTeZbiXC6Rk/hqdefault.jpg",
           "durationSeconds": 614,
           "durationFormatted": "10:14",
-          "views": 734,
-          "likes": 38,
+          "views": 773,
+          "likes": 39,
           "videoType": "VOD",
           "genre": "General"
         }
@@ -171,94 +171,10 @@
       "latestUpdateAt": "2026-08-25T07:07:13Z"
     },
     {
-      "clusterId": "bhaskar-transporter",
-      "topic": "Bhaskar Transporter",
-      "videoCount": 11,
-      "trendScore": 40.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "8domLPb3iDc",
-          "title": "विधायक देवेंद्र यादव ने निकाली कांवड़ यात्रा, देखिए माहौल  | CG Bhaskar",
-          "description": "विधायक देवेंद्र यादव ने निकाली कांवड़ यात्रा, देखिए माहौल Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-24T11:00:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/8domLPb3iDc/hqdefault.jpg",
-          "durationSeconds": 70,
-          "durationFormatted": "01:10",
-          "views": 2600,
-          "likes": 59,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 2,
-          "videoId": "GsluCnsGxfQ",
-          "title": "Transporter Indrajeet Singh ( छोटू) के ठिकानों पर GST की Raid… | CG Bhaskar",
-          "description": "Transporter Indrajeet Singh ( छोटू) के ठिकानों पर GST की Raid… | CG Bhaskar Join our Whatsapp Group ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-24T17:35:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/GsluCnsGxfQ/hqdefault.jpg",
-          "durationSeconds": 115,
-          "durationFormatted": "01:55",
-          "views": 1827,
-          "likes": 73,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 3,
-          "videoId": "wDdD4XajF3w",
-          "title": "मामा बने विधायक रिकेश, पहुंचाया माँ-शिशु सुरक्षा उपहार | CG Bhaskar",
-          "description": "मामा बने विधायक रिकेश, पहुंचाया माँ-शिशु सुरक्षा उपहार | CG Bhaskar Join our ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-24T09:15:31Z",
-          "thumbnail": "https://i.ytimg.com/vi/wDdD4XajF3w/hqdefault.jpg",
-          "durationSeconds": 137,
-          "durationFormatted": "02:17",
-          "views": 1071,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "jHlp3648wEg",
-          "title": "भोलेनाथ का अनोखे श्रृंगार बने आकर्षण। दर्शन को उमड़ी श्रद्धालुओं की भीड़ | CG Bhaskar",
-          "description": "भोलेनाथ का अनोखे श्रृंगार बने आकर्षण। दर्शन को उमड़ी श्रद्धालुओं ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-24T14:08:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/jHlp3648wEg/hqdefault.jpg",
-          "durationSeconds": 162,
-          "durationFormatted": "02:42",
-          "views": 976,
-          "likes": 32,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "r5XbB8wFLtI",
-          "title": "जहां सुविधाएं हारी वहां डॉक्टर ने जीता दिल! | CG Bhaskar",
-          "description": "धमतरी जिले के रिसगांव क्षेत्र में 12 वर्षों से कठिन परिस्थितियों के ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-08-24T11:00:35Z",
-          "thumbnail": "https://i.ytimg.com/vi/r5XbB8wFLtI/hqdefault.jpg",
-          "durationSeconds": 165,
-          "durationFormatted": "02:45",
-          "views": 593,
-          "likes": 6,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-25T07:09:09Z"
-    },
-    {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 4,
-      "trendScore": 38.9,
+      "trendScore": 38.3,
       "topVideos": [
         {
           "index": 1,
@@ -270,8 +186,8 @@
           "thumbnail": "https://i.ytimg.com/vi/hRADG8Ug9Rc/hqdefault.jpg",
           "durationSeconds": 174,
           "durationFormatted": "02:54",
-          "views": 81640,
-          "likes": 3333,
+          "views": 92949,
+          "likes": 3614,
           "videoType": "VOD",
           "genre": "Crime"
         },
@@ -285,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/rvCDq8n0nRs/hqdefault.jpg",
           "durationSeconds": 91,
           "durationFormatted": "01:31",
-          "views": 4337,
+          "views": 4536,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -300,8 +216,8 @@
           "thumbnail": "https://i.ytimg.com/vi/ixFN_c_2rCE/hqdefault.jpg",
           "durationSeconds": 152,
           "durationFormatted": "02:32",
-          "views": 1584,
-          "likes": 83,
+          "views": 1604,
+          "likes": 89,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -315,7 +231,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YKObmZuAeRM/hqdefault.jpg",
           "durationSeconds": 52,
           "durationFormatted": "00:52",
-          "views": 510,
+          "views": 533,
           "likes": 12,
           "videoType": "VOD",
           "genre": "General"
@@ -326,8 +242,8 @@
     {
       "clusterId": "festival",
       "topic": "Festival",
-      "videoCount": 8,
-      "trendScore": 36.5,
+      "videoCount": 9,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,
@@ -339,13 +255,28 @@
           "thumbnail": "https://i.ytimg.com/vi/rjnLGkx8mLk/hqdefault.jpg",
           "durationSeconds": 82,
           "durationFormatted": "01:22",
-          "views": 163,
-          "likes": 3,
+          "views": 183,
+          "likes": 4,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "lb8Pk-dmdwY",
+          "title": "मूकबधिर बच्चों की खास राखी!, सेन समाज द्वारा दी गई सेवा",
+          "description": "मूकबधिर बच्चों की खास राखी!, सेन समाज द्वारा दी गई सेवा | CG Bhaskar ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-25T07:09:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/lb8Pk-dmdwY/hqdefault.jpg",
+          "durationSeconds": 158,
+          "durationFormatted": "02:38",
+          "views": 148,
+          "likes": 6,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "wIhsWi83Ia8",
           "title": "Rajnandgaon  बाजार में अपने भाई के लिए राखी खरीदने पहुंचे बहनें",
           "description": "chhattisgarh #rajnandgaon #rakshabandhan #cgshorts .",
@@ -354,13 +285,13 @@
           "thumbnail": "https://i.ytimg.com/vi/wIhsWi83Ia8/hqdefault.jpg",
           "durationSeconds": 110,
           "durationFormatted": "01:50",
-          "views": 131,
+          "views": 132,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "haMl9fVzd9s",
           "title": "रंग बिरंगी राखियों से सजा राजनांदगांव का बाजार",
           "description": "chhattisgarh #rajnandgaon #rakhi #cgshorts ........................................................................................................................................... India ...",
@@ -375,7 +306,7 @@
           "genre": "General"
         },
         {
-          "index": 4,
+          "index": 5,
           "videoId": "0ODXKOc2c0A",
           "title": "MP के स्कूलों में कृष्ण जन्माष्टमी उत्सव पर सियासत, 1 से 3 सितंबर तक होंगे विशेष कार्यक्रम",
           "description": "मध्य प्रदेश के स्कूलों में इस बार कृष्ण जन्माष्टमी उत्सव के साथ ही.",
@@ -384,58 +315,103 @@
           "thumbnail": "https://i.ytimg.com/vi/0ODXKOc2c0A/hqdefault.jpg",
           "durationSeconds": 160,
           "durationFormatted": "02:40",
-          "views": 84,
-          "likes": 7,
+          "views": 87,
+          "likes": 8,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-08-25T07:09:09Z"
+    },
+    {
+      "clusterId": "bhaskar-transporter",
+      "topic": "Bhaskar Transporter",
+      "videoCount": 8,
+      "trendScore": 36.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "8domLPb3iDc",
+          "title": "विधायक देवेंद्र यादव ने निकाली कांवड़ यात्रा, देखिए माहौल  | CG Bhaskar",
+          "description": "विधायक देवेंद्र यादव ने निकाली कांवड़ यात्रा, देखिए माहौल Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-24T11:00:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/8domLPb3iDc/hqdefault.jpg",
+          "durationSeconds": 70,
+          "durationFormatted": "01:10",
+          "views": 2717,
+          "likes": 62,
           "videoType": "VOD",
           "genre": "Events"
         },
         {
+          "index": 2,
+          "videoId": "GsluCnsGxfQ",
+          "title": "Transporter Indrajeet Singh ( छोटू) के ठिकानों पर GST की Raid… | CG Bhaskar",
+          "description": "Transporter Indrajeet Singh ( छोटू) के ठिकानों पर GST की Raid… | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-24T17:35:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/GsluCnsGxfQ/hqdefault.jpg",
+          "durationSeconds": 115,
+          "durationFormatted": "01:55",
+          "views": 2343,
+          "likes": 86,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 3,
+          "videoId": "jHlp3648wEg",
+          "title": "भोलेनाथ का अनोखे श्रृंगार बने आकर्षण। दर्शन को उमड़ी श्रद्धालुओं की भीड़ | CG Bhaskar",
+          "description": "भोलेनाथ का अनोखे श्रृंगार बने आकर्षण। दर्शन को उमड़ी श्रद्धालुओं ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-24T14:08:37Z",
+          "thumbnail": "https://i.ytimg.com/vi/jHlp3648wEg/hqdefault.jpg",
+          "durationSeconds": 162,
+          "durationFormatted": "02:42",
+          "views": 1127,
+          "likes": 35,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 4,
+          "videoId": "wDdD4XajF3w",
+          "title": "मामा बने विधायक रिकेश, पहुंचाया माँ-शिशु सुरक्षा उपहार | CG Bhaskar",
+          "description": "मामा बने विधायक रिकेश, पहुंचाया माँ-शिशु सुरक्षा उपहार | CG Bhaskar Join our ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-24T09:15:31Z",
+          "thumbnail": "https://i.ytimg.com/vi/wDdD4XajF3w/hqdefault.jpg",
+          "durationSeconds": 137,
+          "durationFormatted": "02:17",
+          "views": 1074,
+          "likes": 21,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
           "index": 5,
-          "videoId": "bbH6qIY1o7E",
-          "title": "कवर्धा में Ganesh Chaturthi और Navratri की तैयारी तेज, युवा मित्र मंडल ने सौंपा पत्र",
-          "description": "कवर्धा में गणेश चतुर्थी और शारदीय नवरात्रि के आगामी महापर्वों को ...",
-          "channelTitle": "UNA MPCG",
-          "publishedAt": "2026-08-24T14:02:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/bbH6qIY1o7E/hqdefault.jpg",
-          "durationSeconds": 208,
-          "durationFormatted": "03:28",
-          "views": 62,
+          "videoId": "r5XbB8wFLtI",
+          "title": "जहां सुविधाएं हारी वहां डॉक्टर ने जीता दिल! | CG Bhaskar",
+          "description": "धमतरी जिले के रिसगांव क्षेत्र में 12 वर्षों से कठिन परिस्थितियों के ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-24T11:00:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/r5XbB8wFLtI/hqdefault.jpg",
+          "durationSeconds": 165,
+          "durationFormatted": "02:45",
+          "views": 613,
           "likes": 8,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-08-25T06:11:20Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 31.9,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "_WwnQKSl4n4",
-          "title": "Amlesh nagesh new chhattisgarhi film 2026 में TorMayaruMorMayaru2026 Film Cast Interview",
-          "description": "amleshnagesh #manqureshi #chhattisgarh #TorMayaruMorMayaru #TorMayaruMorMayaru2026 #ChhattisgarhiMovie2026 ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-08-24T13:30:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/_WwnQKSl4n4/hqdefault.jpg",
-          "durationSeconds": 1479,
-          "durationFormatted": "24:39",
-          "views": 6540,
-          "likes": 248,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-24T13:30:13Z"
+      "latestUpdateAt": "2026-08-25T05:11:21Z"
     },
     {
       "clusterId": "zee-mpcg",
       "topic": "Zee MPCG",
-      "videoCount": 4,
-      "trendScore": 31.8,
+      "videoCount": 5,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -447,7 +423,7 @@
           "thumbnail": "https://i.ytimg.com/vi/vaCJpYb2zHA/hqdefault.jpg",
           "durationSeconds": 1600,
           "durationFormatted": "26:40",
-          "views": 96,
+          "views": 97,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -462,7 +438,7 @@
           "thumbnail": "https://i.ytimg.com/vi/wfojPlfziRo/hqdefault.jpg",
           "durationSeconds": 1428,
           "durationFormatted": "23:48",
-          "views": 67,
+          "views": 68,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -477,13 +453,28 @@
           "thumbnail": "https://i.ytimg.com/vi/6Kwzz1eqbSs/hqdefault.jpg",
           "durationSeconds": 2146,
           "durationFormatted": "35:46",
-          "views": 45,
+          "views": 46,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
+          "videoId": "KVA9HVHX7V0",
+          "title": "🔴LIVE : भोपाल: किसानों को लेकर कैबिनेट में बड़े फैसले | MP News | Zee MPCG",
+          "description": "LIVE : भोपाल: किसानों को लेकर कैबिनेट में बड़े फैसले | MP News | Zee MPCG #Live ...",
+          "channelTitle": "Zee Madhya Pradesh Chhattisgarh",
+          "publishedAt": "2026-08-25T07:25:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/KVA9HVHX7V0/hqdefault.jpg",
+          "durationSeconds": 5155,
+          "durationFormatted": "01:25:55",
+          "views": 39,
+          "likes": 3,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
           "videoId": "iIq3n--b_xg",
           "title": "🔴LIVE : Din Dahade : धार में आज बाजार बंद का आह्वान | Latest News | Zee MPCG",
           "description": "LIVE : Din Dahade : धार में आज बाजार बंद का आह्वान | Latest News | Zee MPCG कवर्धा:पुलिस ...",
@@ -492,22 +483,130 @@
           "thumbnail": "https://i.ytimg.com/vi/iIq3n--b_xg/hqdefault.jpg",
           "durationSeconds": 1219,
           "durationFormatted": "20:19",
-          "views": 32,
+          "views": 36,
           "likes": 3,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-08-25T06:25:35Z"
+      "latestUpdateAt": "2026-08-25T07:25:23Z"
+    },
+    {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 31.3,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "_WwnQKSl4n4",
+          "title": "Amlesh nagesh new chhattisgarhi film 2026 में TorMayaruMorMayaru2026 Film Cast Interview",
+          "description": "amleshnagesh #manqureshi #chhattisgarh #TorMayaruMorMayaru #TorMayaruMorMayaru2026 #ChhattisgarhiMovie2026 ...",
+          "channelTitle": "CG BOX",
+          "publishedAt": "2026-08-24T13:30:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/_WwnQKSl4n4/hqdefault.jpg",
+          "durationSeconds": 1479,
+          "durationFormatted": "24:39",
+          "views": 7099,
+          "likes": 262,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-24T13:30:13Z"
+    },
+    {
+      "clusterId": "location-durg",
+      "topic": "Durg",
+      "videoCount": 3,
+      "trendScore": 30.6,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "kGH0I1oMMqI",
+          "title": "दुर्ग में महाकाल की भव्य पालकी यात्रा | CG Bhaskar",
+          "description": "दुर्ग में महाकाल की भव्य पालकी यात्रा | CG Bhaskar Join our Whatsapp Group ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-08-24T15:00:20Z",
+          "thumbnail": "https://i.ytimg.com/vi/kGH0I1oMMqI/hqdefault.jpg",
+          "durationSeconds": 65,
+          "durationFormatted": "01:05",
+          "views": 616,
+          "likes": 20,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 2,
+          "videoId": "fURgzSpeoaA",
+          "title": "दुर्ग में मानसून मेहरबान 🌧️",
+          "description": "दुर्ग जिले में मानसून की बारिश का दौर जारी है। 1 जून से 23 अगस्त 2026 तक ...",
+          "channelTitle": "SABKA SANDESH NEWS",
+          "publishedAt": "2026-08-24T13:31:28Z",
+          "thumbnail": "https://i.ytimg.com/vi/fURgzSpeoaA/hqdefault.jpg",
+          "durationSeconds": 71,
+          "durationFormatted": "01:11",
+          "views": 121,
+          "likes": 4,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "UTYTekJiyk4",
+          "title": "Durg के सेलूद स्कूल में छात्रों ने वॉशरूम और सुरक्षा की मांग को लेकर सड़क पर चक्काजाम किया",
+          "description": "Durg के सेलूद स्कूल में छात्रों ने वॉशरूम और सुरक्षा की मांग को लेकर ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-08-25T08:57:58Z",
+          "thumbnail": "https://i.ytimg.com/vi/UTYTekJiyk4/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 1,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-25T08:57:58Z"
     },
     {
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
-      "videoCount": 4,
-      "trendScore": 30.1,
+      "videoCount": 5,
+      "trendScore": 30.6,
       "topVideos": [
         {
           "index": 1,
+          "videoId": "2jSHAz8KNVA",
+          "title": "RAJNANDGAON - सड़क पर मवेशी, पार्षद लापता",
+          "description": "chhattisgarh #rajnandgaon #nagarnigam #cgnews #cgshorts .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-25T07:44:59Z",
+          "thumbnail": "https://i.ytimg.com/vi/2jSHAz8KNVA/hqdefault.jpg",
+          "durationSeconds": 112,
+          "durationFormatted": "01:52",
+          "views": 277,
+          "likes": 5,
+          "videoType": "VOD",
+          "genre": "Crime"
+        },
+        {
+          "index": 2,
+          "videoId": "-QTU5amDWmQ",
+          "title": "RAJNANDGAONसड़क पर गोवंश, आफत में आमजन!",
+          "description": "chhattisgarh #rajnandgaon #cgshorts #cgnews #gauvansh .",
+          "channelTitle": "ITN DIGITAL+",
+          "publishedAt": "2026-08-25T08:29:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/-QTU5amDWmQ/hqdefault.jpg",
+          "durationSeconds": 156,
+          "durationFormatted": "02:36",
+          "views": 10,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "rsIf4bFXhdE",
           "title": "Rajnandgaon में सावन के आखिरी सोमवार आस्था का सैलाब! बाबा चंद्रमौलेश्वर की भव्य पालकी, गूंजे जयकारे",
           "description": "chhattisgarh #rajnandgaon #mahakal #sawan2026 .",
@@ -522,7 +621,7 @@
           "genre": "General"
         },
         {
-          "index": 2,
+          "index": 4,
           "videoId": "CflwYD2cecQ",
           "title": "राजनांदगांव में महाकाल की भव्य शोभायात्रा, उमड़ा श्रद्धा का सैलाब",
           "description": "chhattisgarh #rajnandgaon #sawan ........................................................................................................................................... India Town ...",
@@ -537,22 +636,7 @@
           "genre": "General"
         },
         {
-          "index": 3,
-          "videoId": "-3SMuBJXNKU",
-          "title": "Rajnandgaon के आंगनबाड़ी केंद्र पर गंभीर आरोप! बच्चों के पोषण, सुरक्षा और सफाई व्यवस्था पर सवाल",
-          "description": "chhattisgarh #rajnandgaon #anganbadi ........................................................................................................................................... India Town ...",
-          "channelTitle": "ITN DIGITAL+",
-          "publishedAt": "2026-08-24T12:38:44Z",
-          "thumbnail": "https://i.ytimg.com/vi/-3SMuBJXNKU/hqdefault.jpg",
-          "durationSeconds": 122,
-          "durationFormatted": "02:02",
-          "views": 4,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Civic"
-        },
-        {
-          "index": 4,
+          "index": 5,
           "videoId": "szpNyjP0zhc",
           "title": "Rajnandgaon में Mamta Nagar Underbridge बदहाल , कीचड़, अंधेरा और मवेशियों से बढ़ा हादसे का खतरा",
           "description": "chhattisgarh #rajnandgaon #underbridge ........................................................................................................................................... India ...",
@@ -561,19 +645,19 @@
           "thumbnail": "https://i.ytimg.com/vi/szpNyjP0zhc/hqdefault.jpg",
           "durationSeconds": 81,
           "durationFormatted": "01:21",
-          "views": 0,
+          "views": 2,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Civic"
         }
       ],
-      "latestUpdateAt": "2026-08-25T07:16:38Z"
+      "latestUpdateAt": "2026-08-25T08:29:43Z"
     },
     {
       "clusterId": "santosh-rai",
       "topic": "SAntosh Rai",
       "videoCount": 4,
-      "trendScore": 24.0,
+      "trendScore": 23.7,
       "topVideos": [
         {
           "index": 1,
@@ -585,7 +669,7 @@
           "thumbnail": "https://i.ytimg.com/vi/LmxPcmv1M2E/hqdefault.jpg",
           "durationSeconds": 78,
           "durationFormatted": "01:18",
-          "views": 868,
+          "views": 950,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -600,7 +684,7 @@
           "thumbnail": "https://i.ytimg.com/vi/2FFe25f_YNU/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 675,
+          "views": 721,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -615,7 +699,7 @@
           "thumbnail": "https://i.ytimg.com/vi/S3RfGrBygDI/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 392,
+          "views": 408,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -630,7 +714,7 @@
           "thumbnail": "https://i.ytimg.com/vi/9nuNV_k-hzQ/hqdefault.jpg",
           "durationSeconds": 85,
           "durationFormatted": "01:25",
-          "views": 207,
+          "views": 215,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
