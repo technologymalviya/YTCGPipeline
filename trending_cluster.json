@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T10:57:01.163770Z",
+  "generatedAt": "2026-08-25T13:25:13.011707Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 26,
-      "trendScore": 63.3,
+      "trendScore": 62.1,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-transporter",
       "topic": "Bhaskar Transporter",
       "videoCount": 8,
-      "trendScore": 38.4,
+      "trendScore": 37.4,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 32.9,
+      "trendScore": 31.5,
       "topVideos": [
         {
           "index": 1,
@@ -210,10 +210,34 @@
       "latestUpdateAt": "2026-08-25T07:09:09Z"
     },
     {
+      "clusterId": "movie",
+      "topic": "Movie",
+      "videoCount": 1,
+      "trendScore": 30.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "_WwnQKSl4n4",
+          "title": "Amlesh nagesh new chhattisgarhi film 2026 में TorMayaruMorMayaru2026 Film Cast Interview",
+          "description": "amleshnagesh #manqureshi #chhattisgarh #TorMayaruMorMayaru #TorMayaruMorMayaru2026 #ChhattisgarhiMovie2026 ...",
+          "channelTitle": "CG BOX",
+          "publishedAt": "2026-08-24T13:30:13Z",
+          "thumbnail": "https://i.ytimg.com/vi/_WwnQKSl4n4/hqdefault.jpg",
+          "durationSeconds": 1479,
+          "durationFormatted": "24:39",
+          "views": 7715,
+          "likes": 271,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-08-24T13:30:13Z"
+    },
+    {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 30.7,
+      "trendScore": 29.7,
       "topVideos": [
         {
           "index": 1,
@@ -264,34 +288,10 @@
       "latestUpdateAt": "2026-08-25T09:45:03Z"
     },
     {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 30.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "_WwnQKSl4n4",
-          "title": "Amlesh nagesh new chhattisgarhi film 2026 में TorMayaruMorMayaru2026 Film Cast Interview",
-          "description": "amleshnagesh #manqureshi #chhattisgarh #TorMayaruMorMayaru #TorMayaruMorMayaru2026 #ChhattisgarhiMovie2026 ...",
-          "channelTitle": "CG BOX",
-          "publishedAt": "2026-08-24T13:30:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/_WwnQKSl4n4/hqdefault.jpg",
-          "durationSeconds": 1479,
-          "durationFormatted": "24:39",
-          "views": 7715,
-          "likes": 271,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-08-24T13:30:13Z"
-    },
-    {
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 4,
-      "trendScore": 28.4,
+      "trendScore": 27.5,
       "topVideos": [
         {
           "index": 1,
@@ -360,7 +360,7 @@
       "clusterId": "influencer-dancer",
       "topic": "Influencer Dancer",
       "videoCount": 5,
-      "trendScore": 26.3,
+      "trendScore": 25.7,
       "topVideos": [
         {
           "index": 1,
