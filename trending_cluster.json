@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-26T15:57:41.855041Z",
+  "generatedAt": "2026-08-26T18:09:26.432728Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "हआ-वरध",
       "topic": "हुआ विरोध",
       "videoCount": 7,
-      "trendScore": 32.3,
+      "trendScore": 31.1,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 4,
-      "trendScore": 27.2,
+      "trendScore": 26.1,
       "topVideos": [
         {
           "index": 1,
@@ -159,7 +159,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 23.1,
+      "trendScore": 21.9,
       "topVideos": [
         {
           "index": 1,
