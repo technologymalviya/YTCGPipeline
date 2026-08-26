@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-25T19:05:50.120308Z",
+  "generatedAt": "2026-08-26T02:06:28.029525Z",
   "clusterCount": 3,
   "clusters": [
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 3,
-      "trendScore": 47.2,
+      "trendScore": 43.6,
       "topVideos": [
         {
           "index": 1,
@@ -60,7 +60,7 @@
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 7,
-      "trendScore": 41.5,
+      "trendScore": 39.1,
       "topVideos": [
         {
           "index": 1,
@@ -144,7 +144,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 10.9,
+      "trendScore": 8.0,
       "topVideos": [
         {
           "index": 1,
