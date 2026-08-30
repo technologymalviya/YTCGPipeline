@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-29T21:01:39.178773Z",
+  "generatedAt": "2026-08-30T05:34:34.490032Z",
   "clusterCount": 2,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 6,
-      "trendScore": 38.2,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 4,
-      "trendScore": 31.4,
+      "trendScore": 27.6,
       "topVideos": [
         {
           "index": 1,
