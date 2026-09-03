@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-02T21:10:21.332272Z",
+  "generatedAt": "2026-09-03T04:47:11.218592Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 34,
-      "trendScore": 63.3,
+      "trendScore": 60.0,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "bhaskar-छटट",
       "topic": "Bhaskar छुट्टी",
       "videoCount": 10,
-      "trendScore": 41.4,
+      "trendScore": 38.5,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 9,
-      "trendScore": 38.9,
+      "trendScore": 35.8,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 10,
-      "trendScore": 37.3,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -342,7 +342,7 @@
       "clusterId": "kpnews_-episode",
       "topic": "@KPNews_ Episode",
       "videoCount": 8,
-      "trendScore": 33.3,
+      "trendScore": 30.2,
       "topVideos": [
         {
           "index": 1,
@@ -426,7 +426,7 @@
       "clusterId": "originals-bhopal",
       "topic": "Originals Bhopal",
       "videoCount": 5,
-      "trendScore": 30.1,
+      "trendScore": 26.4,
       "topVideos": [
         {
           "index": 1,
