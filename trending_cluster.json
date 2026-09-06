@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T18:26:11.598496Z",
-  "clusterCount": 9,
+  "generatedAt": "2026-09-06T20:34:57.914302Z",
+  "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 21,
-      "trendScore": 56.5,
+      "videoCount": 16,
+      "trendScore": 49.5,
       "topVideos": [
         {
           "index": 1,
@@ -18,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/GutupPYiADs/hqdefault.jpg",
           "durationSeconds": 482,
           "durationFormatted": "08:02",
-          "views": 7575,
-          "likes": 92,
+          "views": 9408,
+          "likes": 93,
           "videoType": "VOD",
           "genre": "Politics"
         },
@@ -33,7 +33,7 @@
           "thumbnail": "https://i.ytimg.com/vi/iFasca1Ckq4/hqdefault.jpg",
           "durationSeconds": 819,
           "durationFormatted": "13:39",
-          "views": 6039,
+          "views": 8094,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Politics"
@@ -48,28 +48,13 @@
           "thumbnail": "https://i.ytimg.com/vi/orCmpd01rZ4/hqdefault.jpg",
           "durationSeconds": 104,
           "durationFormatted": "01:44",
-          "views": 5221,
-          "likes": 252,
+          "views": 7640,
+          "likes": 265,
           "videoType": "VOD",
           "genre": "Politics"
         },
         {
           "index": 4,
-          "videoId": "aLFWXLzzHeA",
-          "title": "CGPSC Mains Result पर बवाल! आयोग ने जारी किया बयान, अभ्यर्थियों ने कह दी ये बड़ी बात | TRP News",
-          "description": "CGPSC Mains Result पर बवाल! आयोग ने जारी किया बयान, अभ्यर्थियों ने कह दी ये ...",
-          "channelTitle": "The Rural Press",
-          "publishedAt": "2026-09-06T08:38:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/aLFWXLzzHeA/hqdefault.jpg",
-          "durationSeconds": 843,
-          "durationFormatted": "14:03",
-          "views": 3181,
-          "likes": 136,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
           "videoId": "-cvI7XIDPN4",
           "title": "Big Pola Festival | एक साथ दौड़ेंगे सैकड़ों बैल | CM साय के हरि झंडी के बाद | हो गई तैयारी Madiyapar",
           "description": "Big Pola Festival | एक साथ दौड़ेंगे सैकड़ों बैल | CM साय के हरि झंडी के बाद | हो गई ...",
@@ -78,19 +63,34 @@
           "thumbnail": "https://i.ytimg.com/vi/-cvI7XIDPN4/hqdefault.jpg",
           "durationSeconds": 775,
           "durationFormatted": "12:55",
-          "views": 2589,
-          "likes": 80,
+          "views": 6401,
+          "likes": 81,
           "videoType": "VOD",
           "genre": "Events"
+        },
+        {
+          "index": 5,
+          "videoId": "ZsM6sWzF7s0",
+          "title": "CM Vishnu Deo Sai Live |तीजा तिहार कार्यक्रम में पीएम आवास और Mahtari Vandana Yojana को लेकर बोले CM",
+          "description": "CM Vishnu Deo Sai Live |तीजा तिहार कार्यक्रम में पीएम आवास और Mahtari Vandana Yojana को ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-09-06T09:59:35Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZsM6sWzF7s0/hqdefault.jpg",
+          "durationSeconds": 2771,
+          "durationFormatted": "46:11",
+          "views": 914,
+          "likes": 2,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-09-06T17:53:21Z"
+      "latestUpdateAt": "2026-09-06T18:58:26Z"
     },
     {
       "clusterId": "कसन-bed",
       "topic": "किसान B.Ed",
       "videoCount": 5,
-      "trendScore": 48.1,
+      "trendScore": 43.8,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +102,8 @@
           "thumbnail": "https://i.ytimg.com/vi/MQ5kz9Iyh0M/hqdefault.jpg",
           "durationSeconds": 178,
           "durationFormatted": "02:58",
-          "views": 11999,
-          "likes": 692,
+          "views": 18002,
+          "likes": 765,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,8 +117,8 @@
           "thumbnail": "https://i.ytimg.com/vi/V-l6K8udZAo/hqdefault.jpg",
           "durationSeconds": 148,
           "durationFormatted": "02:28",
-          "views": 6433,
-          "likes": 504,
+          "views": 12219,
+          "likes": 535,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -132,8 +132,8 @@
           "thumbnail": "https://i.ytimg.com/vi/4LaM-244oT0/hqdefault.jpg",
           "durationSeconds": 180,
           "durationFormatted": "03:00",
-          "views": 1882,
-          "likes": 59,
+          "views": 3117,
+          "likes": 63,
           "videoType": "VOD",
           "genre": "Jobs"
         },
@@ -147,8 +147,8 @@
           "thumbnail": "https://i.ytimg.com/vi/FGh-_thNGZk/hqdefault.jpg",
           "durationSeconds": 55,
           "durationFormatted": "00:55",
-          "views": 1645,
-          "likes": 101,
+          "views": 2553,
+          "likes": 118,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -162,250 +162,13 @@
           "thumbnail": "https://i.ytimg.com/vi/NVGpaODiK5k/hqdefault.jpg",
           "durationSeconds": 153,
           "durationFormatted": "02:33",
-          "views": 1612,
-          "likes": 108,
+          "views": 2350,
+          "likes": 127,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-09-06T16:30:28Z"
-    },
-    {
-      "clusterId": "bhaskar-cspdcl",
-      "topic": "Bhaskar CSPDCL",
-      "videoCount": 6,
-      "trendScore": 37.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "gssG4v-1TGs",
-          "title": "CSPDCL का अल्टीमेटम, तो सरकारी दफ्तरों का कट जाएगा कनेक्शन! | CG Bhaskar",
-          "description": "CSPDCL का अल्टीमेटम, तो सरकारी दफ्तरों का कट जाएगा कनेक्शन! | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T11:15:13Z",
-          "thumbnail": "https://i.ytimg.com/vi/gssG4v-1TGs/hqdefault.jpg",
-          "durationSeconds": 71,
-          "durationFormatted": "01:11",
-          "views": 798,
-          "likes": 19,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "hqPOKbczhiM",
-          "title": "Bilaspur में घुसपैठियों पर कार्रवाई तेज, 23 की पहचान के बाद उठे कई सवाल | CG Bhaskar",
-          "description": "Bilaspur में घुसपैठियों पर कार्रवाई तेज, 23 की पहचान के बाद उठे कई सवाल | CG ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T12:21:20Z",
-          "thumbnail": "https://i.ytimg.com/vi/hqPOKbczhiM/hqdefault.jpg",
-          "durationSeconds": 142,
-          "durationFormatted": "02:22",
-          "views": 416,
-          "likes": 25,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "nV9hH_9mC2o",
-          "title": "डोंगरगढ़ की भव्य दही हांडी में पहुंचे भूपेश बघेल ने Genz को लेकर क्या कुछ कहा ? | CG Bhaskar",
-          "description": "डोंगरगढ़ की भव्य दही हांडी में पहुंचे भूपेश बघेल ने Genz को लेकर क्या ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T10:30:06Z",
-          "thumbnail": "https://i.ytimg.com/vi/nV9hH_9mC2o/hqdefault.jpg",
-          "durationSeconds": 394,
-          "durationFormatted": "06:34",
-          "views": 359,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "vVGRhEzAZ5k",
-          "title": "चिट्ठी में लिखी जाती है दिल की बात, हनुमान जी तक पहुँचती है हर फरियाद | CG Bhaskar",
-          "description": "चिट्ठी में लिखी जाती है दिल की बात, हनुमान जी तक पहुँचती है हर फरियाद ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T09:30:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/vVGRhEzAZ5k/hqdefault.jpg",
-          "durationSeconds": 415,
-          "durationFormatted": "06:55",
-          "views": 223,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "n_phAeckGSA",
-          "title": "SSC JE के 1,748 पदों पर होगी भर्ती, ₹1.12 लाख वेतन | CG Bhaskar",
-          "description": "SSC JE के 1748 पदों पर होगी भर्ती, ₹1.12 लाख वेतन | CG Bhaskar इंजीनियरिंग ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T09:20:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/n_phAeckGSA/hqdefault.jpg",
-          "durationSeconds": 105,
-          "durationFormatted": "01:45",
-          "views": 189,
-          "likes": 7,
-          "videoType": "VOD",
-          "genre": "Jobs"
-        }
-      ],
-      "latestUpdateAt": "2026-09-06T13:45:22Z"
-    },
-    {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 7,
-      "trendScore": 36.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "HHeGPOYI8kA",
-          "title": "Odisha के बलांगीर म 2 करोड़ के साइबर ठगी। Odisha Police के Raipur म बड़े कारवाही। Raipur News",
-          "description": "IBC24, Odisha के बलांगीर म 2 करोड़ के साइबर ठगी। Odisha Police के Raipur म बड़े ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-06T15:10:26Z",
-          "thumbnail": "https://i.ytimg.com/vi/HHeGPOYI8kA/hqdefault.jpg",
-          "durationSeconds": 144,
-          "durationFormatted": "02:24",
-          "views": 115,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 2,
-          "videoId": "XhDXj6-pe5w",
-          "title": " रायपुर में दिखी भोजली की परंपरा, लोकगीतों के बीच तालाब पहुंचीं महिलाएं और युवतियां | CG Bhaskar",
-          "description": "रायपुर में दिखी भोजली की परंपरा, लोकगीतों के बीच तालाब पहुंचीं ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T12:57:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/XhDXj6-pe5w/hqdefault.jpg",
-          "durationSeconds": 687,
-          "durationFormatted": "11:27",
-          "views": 110,
-          "likes": 11,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "Juqq5FOy1d8",
-          "title": "Odisha के बलांगीर में 2 करोड़ की साइबर ठगी, रायपुर के टिकरापारा-तेलीबांधा से दो आरोपी गिरफ्तार",
-          "description": "Odisha के बलांगीर में 2 करोड़ की साइबर ठगी, रायपुर के ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-09-06T11:14:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/Juqq5FOy1d8/hqdefault.jpg",
-          "durationSeconds": 83,
-          "durationFormatted": "01:23",
-          "views": 60,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        },
-        {
-          "index": 4,
-          "videoId": "eS2FIPWz0oY",
-          "title": "Raipur | अपना अपार्टमेंट, अपना उत्सव कार्यक्रम का आयोजन, रहवासियों ने बढ़-चढ़कर लिया हिस्सा",
-          "description": "Raipur | अपना अपार्टमेंट, अपना उत्सव कार्यक्रम का आयोजन, रहवासियों ने ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-09-06T14:03:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/eS2FIPWz0oY/hqdefault.jpg",
-          "durationSeconds": 123,
-          "durationFormatted": "02:03",
-          "views": 33,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 5,
-          "videoId": "SaT1OZDlPrg",
-          "title": "Raipur के भाठागांव के आधे निर्मित सड़क के गड्ढों में कांग्रेसियों ने लगाया बेश₹म का पौधा  CG Bhaskar",
-          "description": "Raipur के भाठागांव के आधे निर्मित सड़क के गड्ढों में कांग्रेसियों ने ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T15:00:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/SaT1OZDlPrg/hqdefault.jpg",
-          "durationSeconds": 434,
-          "durationFormatted": "07:14",
-          "views": 21,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-09-06T17:41:51Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 4,
-      "trendScore": 34.2,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "B_AbVEW-hiQ",
-          "title": "बागबाहरा के शिशु मंदिर में धूमधाम से मनी जन्माष्टमी | भव्य झांकी और रंगारंग कार्यक्रम ने जीता दिल |",
-          "description": "बागबाहरा के शिशु मंदिर में धूमधाम से मनी जन्माष्टमी | भव्य झांकी और ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T11:37:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/B_AbVEW-hiQ/hqdefault.jpg",
-          "durationSeconds": 946,
-          "durationFormatted": "15:46",
-          "views": 329,
-          "likes": 25,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "QlRdetZuFzQ",
-          "title": "तीज के रंग में रंगा राजपूत समाज, जानिए तीज का महत्व| CG Bhaskar",
-          "description": "तीज के रंग में रंगा राजपूत समाज, जानिए तीज का महत्व| CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-06T14:30:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/QlRdetZuFzQ/hqdefault.jpg",
-          "durationSeconds": 178,
-          "durationFormatted": "02:58",
-          "views": 258,
-          "likes": 5,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "Fz2_QBBIgS4",
-          "title": "रियासतकालीन मंदिरों में जन्माष्टमी की धूम, देर रात तक हुई पूजा-अर्चना @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-09-06T05:21:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/Fz2_QBBIgS4/hqdefault.jpg",
-          "durationSeconds": 59,
-          "durationFormatted": "00:59",
-          "views": 196,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "_Xma-ibCxT4",
-          "title": "गणेश उत्सव में मूषक दान करने का क्या महत्व है !",
-          "description": "गणेश उत्सव में मूषक दान करने का क्या महत्व है ! #ganeshchaturthi #ganpatibappa ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-09-06T12:48:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/_Xma-ibCxT4/hqdefault.jpg",
-          "durationSeconds": 74,
-          "durationFormatted": "01:14",
-          "views": 24,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        }
-      ],
-      "latestUpdateAt": "2026-09-06T14:30:01Z"
     },
     {
       "clusterId": "location-durg",
@@ -423,7 +186,7 @@
           "thumbnail": "https://i.ytimg.com/vi/NHE7znRAdwc/hqdefault.jpg",
           "durationSeconds": 728,
           "durationFormatted": "12:08",
-          "views": 4845,
+          "views": 8571,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -438,7 +201,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Yktg0jIviCI/hqdefault.jpg",
           "durationSeconds": 66,
           "durationFormatted": "01:06",
-          "views": 1019,
+          "views": 1788,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -453,7 +216,7 @@
           "thumbnail": "https://i.ytimg.com/vi/hwf8OkVSzDk/hqdefault.jpg",
           "durationSeconds": 193,
           "durationFormatted": "03:13",
-          "views": 121,
+          "views": 123,
           "likes": 1,
           "videoType": "VOD",
           "genre": "Politics"
@@ -465,7 +228,7 @@
       "clusterId": "जल-कस",
       "topic": "जिला कैसे",
       "videoCount": 4,
-      "trendScore": 29.4,
+      "trendScore": 28.0,
       "topVideos": [
         {
           "index": 1,
@@ -477,7 +240,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kNk5CNS6XRw/hqdefault.jpg",
           "durationSeconds": 95,
           "durationFormatted": "01:35",
-          "views": 228,
+          "views": 270,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -492,7 +255,7 @@
           "thumbnail": "https://i.ytimg.com/vi/4kJKyweSzow/hqdefault.jpg",
           "durationSeconds": 79,
           "durationFormatted": "01:19",
-          "views": 38,
+          "views": 68,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -507,7 +270,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ILOGJT1UOW8/hqdefault.jpg",
           "durationSeconds": 101,
           "durationFormatted": "01:41",
-          "views": 28,
+          "views": 36,
           "likes": 1,
           "videoType": "VOD",
           "genre": "General"
@@ -522,7 +285,7 @@
           "thumbnail": "https://i.ytimg.com/vi/lvDcEi_8io0/hqdefault.jpg",
           "durationSeconds": 141,
           "durationFormatted": "02:21",
-          "views": 20,
+          "views": 36,
           "likes": 2,
           "videoType": "VOD",
           "genre": "General"
@@ -531,79 +294,79 @@
       "latestUpdateAt": "2026-09-06T15:08:18Z"
     },
     {
-      "clusterId": "location-bhilai",
-      "topic": "Bhilai",
+      "clusterId": "location-raipur",
+      "topic": "Raipur",
       "videoCount": 4,
-      "trendScore": 29.3,
+      "trendScore": 25.1,
       "topVideos": [
         {
           "index": 1,
-          "videoId": "AJXBn-87lIQ",
-          "title": "क्या भिलाई के संडे मार्केट को विधायक रिकेश सेन खा गए?",
-          "description": "क्या भिलाई के संडे मार्केट को विधायक रिकेश सेन खा गए? #Bhilai #BhilaiNews ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-09-06T09:32:19Z",
-          "thumbnail": "https://i.ytimg.com/vi/AJXBn-87lIQ/hqdefault.jpg",
-          "durationSeconds": 105,
-          "durationFormatted": "01:45",
-          "views": 1621,
+          "videoId": "Juqq5FOy1d8",
+          "title": "Odisha के बलांगीर में 2 करोड़ की साइबर ठगी, रायपुर के टिकरापारा-तेलीबांधा से दो आरोपी गिरफ्तार",
+          "description": "Odisha के बलांगीर में 2 करोड़ की साइबर ठगी, रायपुर के ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-09-06T11:14:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/Juqq5FOy1d8/hqdefault.jpg",
+          "durationSeconds": 83,
+          "durationFormatted": "01:23",
+          "views": 59,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Politics"
+          "genre": "Crime"
         },
         {
           "index": 2,
-          "videoId": "eCUzqTQ6HZ0",
-          "title": "Bhilai: शिक्षिका K. Sharda ने रचा इतिहास! Golden Book में दर्ज हुआ नाम... @KPNews_",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-09-06T05:21:50Z",
-          "thumbnail": "https://i.ytimg.com/vi/eCUzqTQ6HZ0/hqdefault.jpg",
-          "durationSeconds": 87,
-          "durationFormatted": "01:27",
-          "views": 673,
+          "videoId": "4oyolwIeImg",
+          "title": "Raipur News : Rotary Club ने SHINE 2026 का किया आयोजन। 2500 से ज्यादा छात्रों ने मंच पर बिखेरा जलवा",
+          "description": "IBC24, Raipur News : Rotary Club ने SHINE 2026 का किया आयोजन। 2500 से ज्यादा छात्रों ने ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-09-06T17:38:11Z",
+          "thumbnail": "https://i.ytimg.com/vi/4oyolwIeImg/hqdefault.jpg",
+          "durationSeconds": 92,
+          "durationFormatted": "01:32",
+          "views": 55,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 3,
-          "videoId": "VhAauWu4AJc",
-          "title": "Bhilai: मजदूर, ठेकेदार रोड पर मकान बन जाता, पैसे नहीं मिलते! || KP NEWS || Faizan Khan",
-          "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
-          "channelTitle": "KPNews",
-          "publishedAt": "2026-09-06T13:35:58Z",
-          "thumbnail": "https://i.ytimg.com/vi/VhAauWu4AJc/hqdefault.jpg",
-          "durationSeconds": 641,
-          "durationFormatted": "10:41",
-          "views": 565,
+          "videoId": "5w4AVMFYys8",
+          "title": "Shri Pahadi Mata Mangal Path: Raipur में श्री पहाड़ी माता का भव्य मंगल पाठ।उमड़ा आस्था का सैलाब",
+          "description": "IBC24, Shri Pahadi Mata Mangal Path: Raipur में श्री पहाड़ी माता का भव्य मंगल पाठ।",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-09-06T17:41:51Z",
+          "thumbnail": "https://i.ytimg.com/vi/5w4AVMFYys8/hqdefault.jpg",
+          "durationSeconds": 75,
+          "durationFormatted": "01:15",
+          "views": 53,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 4,
-          "videoId": "DyknNetsZ2Y",
-          "title": "घर ढहा, परिवार बाल-बाल बचा। असहाय परिवार की कौन करेगा मदद?। Aaj Bhilai। Sagar Sahu।",
-          "description": "घर ढहा, परिवार बाल-बाल बचा। असहाय परिवार की कौन करेगा मदद?। Aaj Bhilai।",
-          "channelTitle": "Aaj Bhilai ",
-          "publishedAt": "2026-09-06T14:55:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/DyknNetsZ2Y/hqdefault.jpg",
-          "durationSeconds": 912,
-          "durationFormatted": "15:12",
-          "views": 28,
-          "likes": 2,
+          "videoId": "eS2FIPWz0oY",
+          "title": "Raipur | अपना अपार्टमेंट, अपना उत्सव कार्यक्रम का आयोजन, रहवासियों ने बढ़-चढ़कर लिया हिस्सा",
+          "description": "Raipur | अपना अपार्टमेंट, अपना उत्सव कार्यक्रम का आयोजन, रहवासियों ने ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-09-06T14:03:50Z",
+          "thumbnail": "https://i.ytimg.com/vi/eS2FIPWz0oY/hqdefault.jpg",
+          "durationSeconds": 123,
+          "durationFormatted": "02:03",
+          "views": 33,
+          "likes": 0,
           "videoType": "VOD",
-          "genre": "General"
+          "genre": "Events"
         }
       ],
-      "latestUpdateAt": "2026-09-06T14:55:15Z"
+      "latestUpdateAt": "2026-09-06T17:41:51Z"
     },
     {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 22.7,
+      "trendScore": 21.5,
       "topVideos": [
         {
           "index": 1,
@@ -615,13 +378,37 @@
           "thumbnail": "https://i.ytimg.com/vi/Sr-q0bpIqbk/hqdefault.jpg",
           "durationSeconds": 873,
           "durationFormatted": "14:33",
-          "views": 45,
+          "views": 51,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-09-06T17:18:11Z"
+    },
+    {
+      "clusterId": "festival",
+      "topic": "Festival",
+      "videoCount": 1,
+      "trendScore": 17.4,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "_Xma-ibCxT4",
+          "title": "गणेश उत्सव में मूषक दान करने का क्या महत्व है !",
+          "description": "गणेश उत्सव में मूषक दान करने का क्या महत्व है ! #ganeshchaturthi #ganpatibappa ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-09-06T12:48:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/_Xma-ibCxT4/hqdefault.jpg",
+          "durationSeconds": 74,
+          "durationFormatted": "01:14",
+          "views": 24,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        }
+      ],
+      "latestUpdateAt": "2026-09-06T12:48:32Z"
     }
   ]
 }
