@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-24T21:37:55.305261Z",
+  "generatedAt": "2026-09-25T05:08:03.013866Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 28,
-      "trendScore": 60.0,
+      "trendScore": 56.8,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 8,
-      "trendScore": 42.2,
+      "trendScore": 39.3,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "bhaskar-rjn",
       "topic": "Bhaskar RJN",
       "videoCount": 8,
-      "trendScore": 37.6,
+      "trendScore": 34.9,
       "topVideos": [
         {
           "index": 1,
@@ -255,79 +255,10 @@
       "latestUpdateAt": "2026-09-24T13:15:23Z"
     },
     {
-      "clusterId": "rahul-gandhi",
-      "topic": "Rahul Gandhi",
-      "videoCount": 4,
-      "trendScore": 30.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "gummMH1L8ZY",
-          "title": "Rahul Gandhi ने लगाया चुनाव में धांधली का आरोप | PC कर EC और BJP पर साधा निशाना",
-          "description": "Rahul Gandhi ने लगाया चुनाव में धांधली का आरोप | PC कर EC और BJP पर साधा निशाना ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-24T16:35:01Z",
-          "thumbnail": "https://i.ytimg.com/vi/gummMH1L8ZY/hqdefault.jpg",
-          "durationSeconds": 756,
-          "durationFormatted": "12:36",
-          "views": 1767,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 2,
-          "videoId": "xrHvfidBGRU",
-          "title": "ज्ञानेश पर सियासत फुल...भाजपा बनाम राहुल! PM Modi | Rahul Gandhi | Gyanesh Kumar",
-          "description": "ज्ञानेश पर सियासत फुल...भाजपा बनाम राहुल! PM Modi | Rahul Gandhi | Gyanesh Kumar ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-09-24T15:46:48Z",
-          "thumbnail": "https://i.ytimg.com/vi/xrHvfidBGRU/hqdefault.jpg",
-          "durationSeconds": 2990,
-          "durationFormatted": "49:50",
-          "views": 779,
-          "likes": 1,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 3,
-          "videoId": "ZO996QjJIsQ",
-          "title": "MP OBC Reservation Politics: आरक्षण पर MP में सियासी संग्राम | Rahul Gandhi की चिट्ठी, BJP का पलटवार",
-          "description": "MP OBC Reservation Politics : OBC आरक्षण पर MP में सियासी संग्राम | Rahul Gandhi की ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-24T16:37:24Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZO996QjJIsQ/hqdefault.jpg",
-          "durationSeconds": 192,
-          "durationFormatted": "03:12",
-          "views": 343,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 4,
-          "videoId": "FGqUVpJeJCI",
-          "title": "ज्ञानेश पर क्लेश..भाजपा बनाम कांग्रेस | Rahul Gandhi ने कहा- Gyanesh Kumar को Modi-Shah बचाते हैं",
-          "description": "ज्ञानेश पर क्लेश..भाजपा बनाम कांग्रेस | Rahul Gandhi ने कहा- Gyanesh Kumar को ...",
-          "channelTitle": "Inh 24X7",
-          "publishedAt": "2026-09-24T16:05:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/FGqUVpJeJCI/hqdefault.jpg",
-          "durationSeconds": 334,
-          "durationFormatted": "05:34",
-          "views": 49,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-09-24T16:37:24Z"
-    },
-    {
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 2,
-      "trendScore": 29.6,
+      "trendScore": 27.2,
       "topVideos": [
         {
           "index": 1,
@@ -366,7 +297,7 @@
       "clusterId": "xpress-पमगढ",
       "topic": "Xpress पामगढ़",
       "videoCount": 4,
-      "trendScore": 29.4,
+      "trendScore": 26.8,
       "topVideos": [
         {
           "index": 1,
@@ -432,10 +363,79 @@
       "latestUpdateAt": "2026-09-24T13:02:33Z"
     },
     {
+      "clusterId": "rahul-gandhi",
+      "topic": "Rahul Gandhi",
+      "videoCount": 4,
+      "trendScore": 26.7,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "gummMH1L8ZY",
+          "title": "Rahul Gandhi ने लगाया चुनाव में धांधली का आरोप | PC कर EC और BJP पर साधा निशाना",
+          "description": "Rahul Gandhi ने लगाया चुनाव में धांधली का आरोप | PC कर EC और BJP पर साधा निशाना ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-09-24T16:35:01Z",
+          "thumbnail": "https://i.ytimg.com/vi/gummMH1L8ZY/hqdefault.jpg",
+          "durationSeconds": 756,
+          "durationFormatted": "12:36",
+          "views": 1767,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 2,
+          "videoId": "xrHvfidBGRU",
+          "title": "ज्ञानेश पर सियासत फुल...भाजपा बनाम राहुल! PM Modi | Rahul Gandhi | Gyanesh Kumar",
+          "description": "ज्ञानेश पर सियासत फुल...भाजपा बनाम राहुल! PM Modi | Rahul Gandhi | Gyanesh Kumar ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-09-24T15:46:48Z",
+          "thumbnail": "https://i.ytimg.com/vi/xrHvfidBGRU/hqdefault.jpg",
+          "durationSeconds": 2990,
+          "durationFormatted": "49:50",
+          "views": 779,
+          "likes": 1,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "ZO996QjJIsQ",
+          "title": "MP OBC Reservation Politics: आरक्षण पर MP में सियासी संग्राम | Rahul Gandhi की चिट्ठी, BJP का पलटवार",
+          "description": "MP OBC Reservation Politics : OBC आरक्षण पर MP में सियासी संग्राम | Rahul Gandhi की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-09-24T16:37:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/ZO996QjJIsQ/hqdefault.jpg",
+          "durationSeconds": 192,
+          "durationFormatted": "03:12",
+          "views": 343,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Politics"
+        },
+        {
+          "index": 4,
+          "videoId": "FGqUVpJeJCI",
+          "title": "ज्ञानेश पर क्लेश..भाजपा बनाम कांग्रेस | Rahul Gandhi ने कहा- Gyanesh Kumar को Modi-Shah बचाते हैं",
+          "description": "ज्ञानेश पर क्लेश..भाजपा बनाम कांग्रेस | Rahul Gandhi ने कहा- Gyanesh Kumar को ...",
+          "channelTitle": "Inh 24X7",
+          "publishedAt": "2026-09-24T16:05:22Z",
+          "thumbnail": "https://i.ytimg.com/vi/FGqUVpJeJCI/hqdefault.jpg",
+          "durationSeconds": 334,
+          "durationFormatted": "05:34",
+          "views": 49,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-09-24T16:37:24Z"
+    },
+    {
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 23.1,
+      "trendScore": 20.0,
       "topVideos": [
         {
           "index": 1,
