@@ -1,96 +1,12 @@
 {
-  "generatedAt": "2026-09-27T21:29:14.574180Z",
-  "clusterCount": 7,
+  "generatedAt": "2026-09-28T05:37:47.805092Z",
+  "clusterCount": 3,
   "clusters": [
-    {
-      "clusterId": "location-raipur",
-      "topic": "Raipur",
-      "videoCount": 12,
-      "trendScore": 45.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "T7pTQ2-DFGw",
-          "title": "रायपुर में 28 को निकलेगी झांकी, ये रूट रहेंगे बंद...",
-          "description": "रायपुर में 28 को निकलेगी झांकी, ये रूट रहेंगे बंद... Join this channel to get access to the ...",
-          "channelTitle": "Bhilai Times",
-          "publishedAt": "2026-09-27T14:30:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/T7pTQ2-DFGw/hqdefault.jpg",
-          "durationSeconds": 123,
-          "durationFormatted": "02:03",
-          "views": 7242,
-          "likes": 293,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "JODsj_NAJ-E",
-          "title": "Raipur Flood: आफत की बारिश..मुंडरा गांव में &#39;जल प्रलय&#39;| न रास्ते बचे, न ठिकाना..बाढ़ ने छीना आशियाना",
-          "description": "Raipur Flood : आफत की बारिश.. मुंडरा गांव में 'जल प्रलय' | न रास्ते बचे, न ठिकाना ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-27T19:17:37Z",
-          "thumbnail": "https://i.ytimg.com/vi/JODsj_NAJ-E/hqdefault.jpg",
-          "durationSeconds": 37656,
-          "durationFormatted": "10:27:36",
-          "views": 6992,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "GIsTo_XIcqw",
-          "title": "रायपुर में कार चलाने वाला सावधान | Be careful driving in Raipur | Thiha Chhattisgarh ",
-          "description": "रायपुर में कार चलाने वाला सावधान | Be careful driving in Raipur | Thiha Chhattisgarh #raipur ...",
-          "channelTitle": "Thiha Chhattisgarh",
-          "publishedAt": "2026-09-27T13:45:18Z",
-          "thumbnail": "https://i.ytimg.com/vi/GIsTo_XIcqw/hqdefault.jpg",
-          "durationSeconds": 252,
-          "durationFormatted": "04:12",
-          "views": 2805,
-          "likes": 42,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "YBKYPWPAAtg",
-          "title": "27 सितम्बर, 2026 I प्रादेशिक हिन्दी समाचार/आकाशवाणी रायपुर/Chhattisgarh Newsonair",
-          "description": "",
-          "channelTitle": "CHHATTISGARH AIR NEWS",
-          "publishedAt": "2026-09-27T13:55:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/YBKYPWPAAtg/hqdefault.jpg",
-          "durationSeconds": 632,
-          "durationFormatted": "10:32",
-          "views": 672,
-          "likes": 31,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "-LXuYpfjgf8",
-          "title": "Raipur Crime News : Lawrence Bishnoi के नाम पर 50 करोड़ की फिरौती। Shoaib Dhebar Arrest",
-          "description": "IBC24, Raipur Crime News : Lawrence Bishnoi के नाम पर 50 करोड़ की फिरौती। Shoaib Dhebar Arrest ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-27T18:00:15Z",
-          "thumbnail": "https://i.ytimg.com/vi/-LXuYpfjgf8/hqdefault.jpg",
-          "durationSeconds": 88,
-          "durationFormatted": "01:28",
-          "views": 405,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-09-27T21:06:38Z"
-    },
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 8,
-      "trendScore": 41.7,
+      "videoCount": 2,
+      "trendScore": 34.3,
       "topVideos": [
         {
           "index": 1,
@@ -102,8 +18,8 @@
           "thumbnail": "https://i.ytimg.com/vi/u02MlJtxTdg/hqdefault.jpg",
           "durationSeconds": 133,
           "durationFormatted": "02:13",
-          "views": 69523,
-          "likes": 1399,
+          "views": 88164,
+          "likes": 1866,
           "videoType": "VOD",
           "genre": "General"
         },
@@ -117,148 +33,19 @@
           "thumbnail": "https://i.ytimg.com/vi/j9AHyWvhDdw/hqdefault.jpg",
           "durationSeconds": 1047,
           "durationFormatted": "17:27",
-          "views": 4032,
-          "likes": 27,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "CMINHwKJttA",
-          "title": "Raipur Rain Flood News : भाटागांव में जलभराव से लोग परेशान || कई लोग फंसे...! Ground Report | Naveen",
-          "description": "Raipur Rain Flood News : भाटागांव में जलभराव से लोग परेशान || कई लोग फंसे...! Ground ...",
-          "channelTitle": "Bharti Media Network",
-          "publishedAt": "2026-09-27T04:37:17Z",
-          "thumbnail": "https://i.ytimg.com/vi/CMINHwKJttA/hqdefault.jpg",
-          "durationSeconds": 644,
-          "durationFormatted": "10:44",
-          "views": 3203,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "-Pl92Grrefg",
-          "title": "PM मोदी ने की CG की तारीफ, “मुनगा अभियान की गूंज” | CG Bhaskar",
-          "description": "PM मोदी ने की CG की तारीफ, “मुनगा अभियान की गूंज” | CG Bhaskar छत्तीसगढ़ के ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T12:00:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/-Pl92Grrefg/hqdefault.jpg",
-          "durationSeconds": 116,
-          "durationFormatted": "01:56",
-          "views": 1365,
-          "likes": 21,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 5,
-          "videoId": "MGfq9ti48-k",
-          "title": "स्कूल शिक्षक ने प्राचार्य को दी धमKi! Video Viral | CG Bhaskar",
-          "description": "स्कूल शिक्षक ने प्राचार्य को दी धमKi! Video Viral | CG Bhaskar बिलासपुर के ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T11:30:30Z",
-          "thumbnail": "https://i.ytimg.com/vi/MGfq9ti48-k/hqdefault.jpg",
-          "durationSeconds": 109,
-          "durationFormatted": "01:49",
-          "views": 770,
-          "likes": 11,
+          "views": 9943,
+          "likes": 67,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
-      "latestUpdateAt": "2026-09-27T17:55:20Z"
-    },
-    {
-      "clusterId": "bhaskar-वसरजन",
-      "topic": "Bhaskar विसर्जन",
-      "videoCount": 8,
-      "trendScore": 36.3,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "nox3CrqIR9Y",
-          "title": "पितृ पक्ष शुरू होते ही श्राद्ध की सामग्रियों से सजा बाजार | CG Bhaskar",
-          "description": "पितृ पक्ष शुरू होते ही श्राद्ध की सामग्रियों से सजा बाजार | CG Bhaskar आज ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T08:45:33Z",
-          "thumbnail": "https://i.ytimg.com/vi/nox3CrqIR9Y/hqdefault.jpg",
-          "durationSeconds": 161,
-          "durationFormatted": "02:41",
-          "views": 5351,
-          "likes": 58,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "Yh161dEhbSk",
-          "title": "नगाड़े की गूंज से जबरदस्त हुआ विसर्जन का माहौल | CG Bhaskar",
-          "description": "नगाड़े की गूंज से जबरदस्त हुआ विसर्जन का माहौल | CG Bhaskar गणेश विसर्जन ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T06:04:08Z",
-          "thumbnail": "https://i.ytimg.com/vi/Yh161dEhbSk/hqdefault.jpg",
-          "durationSeconds": 180,
-          "durationFormatted": "03:00",
-          "views": 4545,
-          "likes": 25,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "VmP0zRJ7-XQ",
-          "title": "राजनांदगांव में गणेश विसर्जन झांकी 2026 की धूम, घर बैठे देखिए पूरी झांकी। | CG Bhaskar",
-          "description": "राजनांदगांव में गणेश विसर्जन झांकी 2026 की धूम, घर बैठे देखिए पूरी ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T10:45:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/VmP0zRJ7-XQ/hqdefault.jpg",
-          "durationSeconds": 843,
-          "durationFormatted": "14:03",
-          "views": 914,
-          "likes": 10,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "pq7-cUQHw28",
-          "title": "गड्ढे भरते हैं या बस छिपाए जाते हैं? देखिए पचपेड़ी नाका का हाल ! | CG Bhaskar",
-          "description": "गड्ढे भरते हैं या बस छिपाए जाते हैं? देखिए पचपेड़ी नाका का हाल !",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T02:30:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/pq7-cUQHw28/hqdefault.jpg",
-          "durationSeconds": 113,
-          "durationFormatted": "01:53",
-          "views": 693,
-          "likes": 24,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "ZiVQAuPrJdQ",
-          "title": "बांस से सामान बनाने वालों की कहानी, रविवार को भी करते हैं काम | CG Bhaskar",
-          "description": "बांस से सामान बनाने वालों की कहानी, रविवार को भी करते हैं काम | CG Bhaskar ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T11:45:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZiVQAuPrJdQ/hqdefault.jpg",
-          "durationSeconds": 570,
-          "durationFormatted": "09:30",
-          "views": 586,
-          "likes": 14,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-09-27T16:57:54Z"
+      "latestUpdateAt": "2026-09-27T17:00:02Z"
     },
     {
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 4,
-      "trendScore": 32.1,
+      "trendScore": 33.7,
       "topVideos": [
         {
           "index": 1,
@@ -270,13 +57,28 @@
           "thumbnail": "https://i.ytimg.com/vi/aj3GYLkk2KI/hqdefault.jpg",
           "durationSeconds": 648,
           "durationFormatted": "10:48",
-          "views": 14910,
-          "likes": 130,
+          "views": 16941,
+          "likes": 155,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 2,
+          "videoId": "JDJNAUXmJmk",
+          "title": "बाढ़ में डूबा दुर्ग का ये गांव, घर छोड़ने को मजबूर लोग!",
+          "description": "बाढ़ में डूबा दुर्ग का ये गांव, घर छोड़ने को मजबूर लोग! Join this channel to get ...",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-09-28T02:30:38Z",
+          "thumbnail": "https://i.ytimg.com/vi/JDJNAUXmJmk/hqdefault.jpg",
+          "durationSeconds": 161,
+          "durationFormatted": "02:41",
+          "views": 3728,
+          "likes": 266,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
           "videoId": "b26nw8HrJF8",
           "title": "दुर्ग पुलगांव रोड पानी से भरा लहर में फंसे लोग विसर्जन के लिए गाड़ियों का जाम!",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -285,13 +87,13 @@
           "thumbnail": "https://i.ytimg.com/vi/b26nw8HrJF8/hqdefault.jpg",
           "durationSeconds": 84,
           "durationFormatted": "01:24",
-          "views": 2327,
+          "views": 2766,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Traffic"
         },
         {
-          "index": 3,
+          "index": 4,
           "videoId": "q1oR2P4uktQ",
           "title": "DURG: भारी बारिश से बड़ा खतरा! सभी स्कूल बंद, SDRF टीम ALERT",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
@@ -300,34 +102,19 @@
           "thumbnail": "https://i.ytimg.com/vi/q1oR2P4uktQ/hqdefault.jpg",
           "durationSeconds": 123,
           "durationFormatted": "02:03",
-          "views": 407,
+          "views": 445,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
-        },
-        {
-          "index": 4,
-          "videoId": "AyxJquI3aNU",
-          "title": "रक्तदान शिविर में पहुंचे दुर्ग ग्रामीण विधायक ललित चंद्राकर | CG Bhaskar",
-          "description": "रक्तदान शिविर में पहुंचे दुर्ग ग्रामीण विधायक ललित चंद्राकर | CG ...",
-          "channelTitle": "CG Bhaskar",
-          "publishedAt": "2026-09-27T09:45:28Z",
-          "thumbnail": "https://i.ytimg.com/vi/AyxJquI3aNU/hqdefault.jpg",
-          "durationSeconds": 179,
-          "durationFormatted": "02:59",
-          "views": 226,
-          "likes": 3,
-          "videoType": "VOD",
-          "genre": "Politics"
         }
       ],
-      "latestUpdateAt": "2026-09-27T14:00:32Z"
+      "latestUpdateAt": "2026-09-28T02:30:38Z"
     },
     {
       "clusterId": "bhilai-faizan",
       "topic": "Bhilai Faizan",
       "videoCount": 6,
-      "trendScore": 29.8,
+      "trendScore": 27.7,
       "topVideos": [
         {
           "index": 1,
@@ -339,7 +126,7 @@
           "thumbnail": "https://i.ytimg.com/vi/dRAEZUkDecA/hqdefault.jpg",
           "durationSeconds": 835,
           "durationFormatted": "13:55",
-          "views": 4489,
+          "views": 5825,
           "likes": 0,
           "videoType": "VOD",
           "genre": "Events"
@@ -354,7 +141,7 @@
           "thumbnail": "https://i.ytimg.com/vi/xx-EFxgRusU/hqdefault.jpg",
           "durationSeconds": 105,
           "durationFormatted": "01:45",
-          "views": 744,
+          "views": 844,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -369,7 +156,7 @@
           "thumbnail": "https://i.ytimg.com/vi/r8tV2JE4Z_o/hqdefault.jpg",
           "durationSeconds": 50,
           "durationFormatted": "00:50",
-          "views": 472,
+          "views": 551,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
@@ -384,76 +171,28 @@
           "thumbnail": "https://i.ytimg.com/vi/JW3lWI6d9sY/hqdefault.jpg",
           "durationSeconds": 161,
           "durationFormatted": "02:41",
-          "views": 278,
+          "views": 321,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         },
         {
           "index": 5,
-          "videoId": "Q8xwu6vZYVA",
-          "title": "Episode 16: छत्तीसगढ़ के सरनेम का ये राज जानते हैं आप @KPNews_",
+          "videoId": "DM_gvcc0GOg",
+          "title": "कल बारिश ने रोकी झांकियां आज रात राजनांदगांव में फिर दिखेगा झांकियों का भव्य नज़ारा! @KPNews_",
           "description": "news #bhilainews #kpnewsbhilai #kpnewscg #kpnews #cgnews #chhattisgarh #chhattisgarhnews #bhilai #bhilaidurg ...",
           "channelTitle": "KPNews",
-          "publishedAt": "2026-09-27T06:52:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/Q8xwu6vZYVA/hqdefault.jpg",
-          "durationSeconds": 125,
-          "durationFormatted": "02:05",
-          "views": 175,
+          "publishedAt": "2026-09-27T06:53:04Z",
+          "thumbnail": "https://i.ytimg.com/vi/DM_gvcc0GOg/hqdefault.jpg",
+          "durationSeconds": 63,
+          "durationFormatted": "01:03",
+          "views": 209,
           "likes": 0,
           "videoType": "VOD",
           "genre": "General"
         }
       ],
       "latestUpdateAt": "2026-09-27T13:33:06Z"
-    },
-    {
-      "clusterId": "festival",
-      "topic": "Festival",
-      "videoCount": 1,
-      "trendScore": 26.7,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "j50sRs87koQ",
-          "title": "🔴गरबा का रंग.. एंट्री पर जंग | Garba Entry Controversy | Janta Cafe",
-          "description": "IBC24, गरबा का रंग.. एंट्री पर जंग | Garba Entry Controversy | Janta Cafe #garba #navratri #garbaentry ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-27T15:45:29Z",
-          "thumbnail": "https://i.ytimg.com/vi/j50sRs87koQ/hqdefault.jpg",
-          "durationSeconds": 2676,
-          "durationFormatted": "44:36",
-          "views": 1599,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-09-27T15:45:29Z"
-    },
-    {
-      "clusterId": "movie",
-      "topic": "Movie",
-      "videoCount": 1,
-      "trendScore": 25.0,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "u3ozYejt5WU",
-          "title": "Kolkata News: Satyajit Ray Film Institute में बवाल। ABVP-SFI सदस्यों के बीच विवाद के बाद कार में आग",
-          "description": "IBC24, Kolkata News: Satyajit Ray Film Institute में बवाल। ABVP-SFI सदस्यों के बीच विवाद के बाद ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-09-27T16:10:22Z",
-          "thumbnail": "https://i.ytimg.com/vi/u3ozYejt5WU/hqdefault.jpg",
-          "durationSeconds": 69,
-          "durationFormatted": "01:09",
-          "views": 585,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Crime"
-        }
-      ],
-      "latestUpdateAt": "2026-09-27T16:10:22Z"
     }
   ]
 }
