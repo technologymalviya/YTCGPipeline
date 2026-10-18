@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T18:37:59.045764Z",
+  "generatedAt": "2026-10-18T04:49:42.729050Z",
   "clusterCount": 7,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 28,
-      "trendScore": 65.4,
+      "trendScore": 60.7,
       "topVideos": [
         {
           "index": 1,
@@ -90,7 +90,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 7,
-      "trendScore": 39.6,
+      "trendScore": 35.6,
       "topVideos": [
         {
           "index": 1,
@@ -174,7 +174,7 @@
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 10,
-      "trendScore": 36.4,
+      "trendScore": 31.5,
       "topVideos": [
         {
           "index": 1,
@@ -258,7 +258,7 @@
       "clusterId": "location-rajnandgaon",
       "topic": "Rajnandgaon",
       "videoCount": 4,
-      "trendScore": 36.1,
+      "trendScore": 31.4,
       "topVideos": [
         {
           "index": 1,
@@ -327,7 +327,7 @@
       "clusterId": "location-durg",
       "topic": "Durg",
       "videoCount": 5,
-      "trendScore": 34.5,
+      "trendScore": 29.9,
       "topVideos": [
         {
           "index": 1,
@@ -411,7 +411,7 @@
       "clusterId": "bhaskar-पड",
       "topic": "Bhaskar पेड़",
       "videoCount": 6,
-      "trendScore": 32.8,
+      "trendScore": 29.2,
       "topVideos": [
         {
           "index": 1,
@@ -495,7 +495,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 6,
-      "trendScore": 32.4,
+      "trendScore": 27.5,
       "topVideos": [
         {
           "index": 1,
