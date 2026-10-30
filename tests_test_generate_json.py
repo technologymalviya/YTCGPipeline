@@ -108,6 +108,13 @@ def test_generate_ott_json_adds_city_section_index_zero():
     section_names = [section["section"] for section in out["sections"]]
     assert "Scheduled" not in section_names
     assert "Podcast" in section_names
+    assert "Negative" in section_names
+    assert "Crime" not in section_names
+    assert "Traffic" not in section_names
+    negative = next(section for section in out["sections"] if section["section"] == "Negative")
+    assert negative["sectionIndex"] == 7
+    assert negative["count"] == 1
+    assert negative["items"][0]["videoId"] == "v1"
     assert out["sections"][0]["section"] == "Montreal"
     assert out["sections"][0]["sectionIndex"] == 0
     assert out["sections"][0]["count"] == 1

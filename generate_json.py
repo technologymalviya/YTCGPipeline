@@ -159,6 +159,7 @@ SECTION_LIVE = "Live"
 SECTION_SCHEDULED = "Scheduled"
 SECTION_CRIME = "Crime"
 SECTION_TRAFFIC = "Traffic"
+SECTION_NEGATIVE = "Negative"
 SECTION_POLITICS = "Politics"
 SECTION_JOBS = "Jobs"
 SECTION_EVENTS = "Events"
@@ -167,7 +168,8 @@ SECTION_PODCAST = "Podcast"
 SECTION_GENERAL = "General"
 
 # Section -> Index map (per requested mapping)
-# Mapping provided: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Traffic" 7, "Crime" 8
+# Mapping: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Negative" 7
+# Negative is the single tab/rail for Crime and Traffic.
 SECTION_INDEX = {
     "General": 1,
     "Podcast": 2,
@@ -175,8 +177,7 @@ SECTION_INDEX = {
     "Politics": 4,
     "Events": 5,
     "Civic": 6,
-    "Traffic": 7,
-    "Crime": 8,
+    "Negative": 7,
 }
 
 # Load multiple API keys for fallback support
@@ -1704,8 +1705,9 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
     live_news = filter_by_genre(other_feed, [GENRE_LIVE])
     general_news = filter_by_genre(other_feed, [GENRE_GENERAL])
     politics_news = filter_by_genre(other_feed, [GENRE_POLITICS])
-    traffic_news = filter_by_genre(other_feed, [GENRE_TRAFFIC])
-    crime_news = filter_by_genre(other_feed, [GENRE_CRIME])
+    # One tab and one rail: crime and traffic together, newest first.
+    negative_news = filter_by_genre(other_feed, [GENRE_CRIME, GENRE_TRAFFIC])
+    negative_news.sort(key=lambda v: v.get("publishedAt") or "", reverse=True)
     jobs_news = filter_by_genre(other_feed, [GENRE_JOBS])
     events_news = filter_by_genre(other_feed, [GENRE_EVENTS])
     civic_news = filter_by_genre(other_feed, [GENRE_CIVIC])
@@ -1718,8 +1720,7 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
         {"section": SECTION_POLITICS, "count": len(politics_news), "items": politics_news},
         {"section": SECTION_EVENTS, "count": len(events_news), "items": events_news},
         {"section": SECTION_CIVIC, "count": len(civic_news), "items": civic_news},
-        {"section": SECTION_TRAFFIC, "count": len(traffic_news), "items": traffic_news},
-        {"section": SECTION_CRIME, "count": len(crime_news), "items": crime_news},
+        {"section": SECTION_NEGATIVE, "count": len(negative_news), "items": negative_news},
     ]
 
     if city_section:
