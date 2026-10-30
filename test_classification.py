@@ -54,6 +54,7 @@ from generate_json import (
     GENRE_EVENTS,
     GENRE_CIVIC,
     GENRE_POLITICS,
+    GENRE_PODCAST,
     GENRE_GENERAL,
     GENRE_LIVE,
     GENRE_SCHEDULED,
@@ -147,6 +148,27 @@ class TestKeywordClassification(unittest.TestCase):
                 result = classify_genre_keyword_based(title, description)
                 self.assertEqual(result, expected, f"Expected {expected}, got {result} for '{title}'")
     
+    def test_podcast_channel_includes_every_upload(self):
+        """Every video from a podcast channel belongs in Podcast, even without the word in the title."""
+        result = classify_genre_keyword_based(
+            "आज की बड़ी बहस",
+            "पूरा एपिसोड नहीं, सामान्य बातचीत",
+            "Chhattisgarh Podcast",
+        )
+        self.assertEqual(result, GENRE_PODCAST)
+
+    def test_negative_news_context_is_crime(self):
+        """Crop loss and raids are negative context, so cosine matching sends them to Crime."""
+        cases = [
+            "छत्तीसगढ़ में चक्रवात अर्नब ने किसानों की हजारों एकड़ धान की फसल बर्बाद",
+            "Balaghat Double Money Fraud Scam : 600 करोड़ का बड़ा घोटाला",
+            "Uttarakhand Helicopter Crash: जोशीमठ के पास Crash",
+        ]
+        for title in cases:
+            with self.subTest(title=title):
+                result = classify_genre_keyword_based(title, "")
+                self.assertEqual(result, GENRE_CRIME, f"Expected Crime, got {result} for '{title}'")
+
     def test_general_classification(self):
         """Test general genre classification for non-specific content."""
         test_cases = [

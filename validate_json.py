@@ -14,7 +14,7 @@ from typing import Dict, List, Any
 OUTPUT_FILE_NAME = "output.json"
 
 # Section Names
-EXPECTED_SECTIONS = ["Live", "Scheduled", "General", "Politics", "Traffic", "Crime"]
+EXPECTED_SECTIONS = ["Live", "General", "Politics", "Traffic", "Crime"]
 
 # Required Fields
 REQUIRED_VIDEO_FIELDS = [

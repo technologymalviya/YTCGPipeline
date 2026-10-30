@@ -105,6 +105,9 @@ def test_generate_ott_json_adds_city_section_index_zero():
     with patch("requests.get", return_value=Resp()):
         out = gj.generate_ott_json(feed, request_ip="24.48.0.1", ip_lookup_url="http://ip-api.com/json/{ip}")
 
+    section_names = [section["section"] for section in out["sections"]]
+    assert "Scheduled" not in section_names
+    assert "Podcast" in section_names
     assert out["sections"][0]["section"] == "Montreal"
     assert out["sections"][0]["sectionIndex"] == 0
     assert out["sections"][0]["count"] == 1
@@ -189,6 +192,7 @@ def test_main_writes_output(mock_get, tmp_path):
     os.environ["YOUTUBE_API_KEY"] = "DUMMY_KEY"
     os.environ["BHILAI_CHANNELS"] = "CHAN_1"
     gj.API_KEYS = gj.load_api_keys()
+    gj.BHILAI_CHANNELS = gj.load_bhilai_channels()
     gj.current_api_key_index = 0
 
     # Ensure output file does not exist

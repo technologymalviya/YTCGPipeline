@@ -109,23 +109,25 @@ def calculate_trend_score(section: Dict[str, Any], videos: List[Dict[str, Any]])
     velocity = total_views / video_count if video_count > 0 else 0
     
     # Weighted trend score formula
-    # - 30% video count (normalized to 0-100 scale)
-    # - 25% total views (log scale, normalized)
-    # - 20% engagement rate
-    # - 15% recency
-    # - 10% velocity (log scale)
+    # - 40% total views (log scale)
+    # - 20% velocity (views per video, log scale)
+    # - 25% recency
+    # - 10% engagement rate
+    # - 5% video count
     
     video_count_score = min(100, video_count * 3.7)  # 27 videos = ~100 points
     views_score = min(100, math.log10(max(1, total_views)) * 10)
     engagement_score = min(100, engagement_rate * 10)
     velocity_score = min(100, math.log10(max(1, velocity)) * 20)
     
+    # Views, pace, and freshness decide the order. Raw video count is only a tie-break
+    # so a large low-interest bucket cannot outrank a story people are actually watching.
     trend_score = (
-        video_count_score * 0.30 +
-        views_score * 0.25 +
-        engagement_score * 0.20 +
-        avg_recency * 0.15 +
-        velocity_score * 0.10
+        views_score * 0.40 +
+        velocity_score * 0.20 +
+        avg_recency * 0.25 +
+        engagement_score * 0.10 +
+        video_count_score * 0.05
     )
     
     return round(trend_score, 1)
@@ -928,6 +930,46 @@ def extract_city_news_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, A
     return clusters
 
 
+def video_trending_score(video: Dict[str, Any]) -> float:
+    """How trending one video is, before any topic filter is applied.
+
+    Views carry most of the weight. Recency lifts a fresh clip. Likes are a small check
+    that people engaged, not only that the video exists.
+    """
+    views = max(0, int(video.get('views') or 0))
+    likes = max(0, int(video.get('likes') or 0))
+    recency = 0.0
+    published_at = video.get('publishedAt') or ''
+    try:
+        published = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
+        hours_old = max(0.0, (datetime.now(timezone.utc) - published).total_seconds() / 3600)
+        recency = 100 * (0.95 ** min(hours_old, 96))
+    except (ValueError, AttributeError):
+        recency = 0.0
+    view_score = min(100.0, math.log10(views + 1) * 22)
+    engagement = (likes / views * 100) if views else 0.0
+    engagement_score = min(100.0, engagement * 8)
+    return view_score * 0.55 + recency * 0.35 + engagement_score * 0.10
+
+
+def select_actually_trending_videos(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Keep videos that are actually trending. Topic filters run only on this set."""
+    if len(videos) <= 8:
+        return videos
+    scored = [(video_trending_score(video), video) for video in videos]
+    values = sorted(score for score, _ in scored)
+    # 60th percentile: the stronger 40% is what counts as trending.
+    cutoff = values[int(len(values) * 0.60)]
+    kept = [video for score, video in scored if score >= cutoff and score > 0]
+    if len(kept) < 8:
+        ranked = sorted(scored, key=lambda item: item[0], reverse=True)
+        kept = [video for _, video in ranked[:max(8, len(videos) // 3)]]
+    logger.info(
+        f"Trending gate kept {len(kept)} of {len(videos)} videos before topic filters (cutoff={cutoff:.1f})"
+    )
+    return kept
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
@@ -949,6 +991,7 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         all_videos.extend(items)
 
     all_videos = dedupe_videos_by_video_id(all_videos)
+    all_videos = select_actually_trending_videos(all_videos)
     
     if not all_videos:
         logger.info("No videos found in data")
@@ -1210,7 +1253,7 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
     
     Creates clean, news-focused output with:
     - Short, human-readable titles
-    - Top videos for each cluster
+    - Every unique video in each cluster, highest views first
     - Essential metrics only
     
     Args:
@@ -1225,7 +1268,7 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
     # Create summary clusters with topVideos
     summary_clusters = []
     for cluster in sorted_clusters:
-        # Top videos by views, unique videoId (avoids duplicate IDs in trending JSON)
+        # All videos by views, unique videoId (avoids duplicate IDs in trending JSON)
         videos = cluster.get('videos', [])
         sorted_videos = sorted(videos, key=lambda v: v.get('views', 0), reverse=True)
         seen_keys: Set[str] = set()
@@ -1236,8 +1279,6 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
                 continue
             seen_keys.add(k)
             top_videos.append(v)
-            if len(top_videos) >= 5:
-                break
         
         # Create clean video summaries with full fields from output.json
         top_video_summaries = []

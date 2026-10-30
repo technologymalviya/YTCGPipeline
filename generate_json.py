@@ -5,9 +5,11 @@ Fetches latest videos from Bhilai news channels and generates JSON feed.
 """
 
 import json
+import math
 import os
 import re
 import time
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from typing import List, Dict, Optional
 from urllib.parse import quote_plus
@@ -144,11 +146,12 @@ GENRE_CIVIC = "Civic"
 GENRE_PODCAST = "Podcast"
 GENRE_GENERAL = "General"
 
-# Podcast allowed channel titles — genre Podcast only when channel is listed AND title/description
-# look like a podcast episode (see _looks_like_podcast_content). Other uploads use normal genres.
+# Every upload from these channels goes in the Podcast row, not only titles that say "podcast".
 PODCAST_ALLOWED_CHANNEL_TITLES = [
     "Chhattisgarh Podcast",
     "Z-Series CG Podcast",
+    "The Lok Ras",
+    "The PS Show",
 ]
 
 # Section Names
@@ -366,14 +369,22 @@ def normalize(text: str) -> str:
 
 
 def _is_allowed_podcast_channel(channel_title: str) -> bool:
-    return bool(channel_title and channel_title in PODCAST_ALLOWED_CHANNEL_TITLES)
+    """True for dedicated podcast channels. All of their uploads belong in the Podcast row."""
+    if not channel_title:
+        return False
+    raw = channel_title.strip()
+    folded = raw.lower()
+    allowed = {name.lower() for name in PODCAST_ALLOWED_CHANNEL_TITLES}
+    if folded in allowed:
+        return True
+    return "podcast" in folded or "पॉडकास्ट" in raw or "पोडकास्ट" in raw
 
 
 def _looks_like_podcast_content(title: str, description: str = "") -> bool:
-    """True when metadata clearly indicates a podcast-style episode (not generic news uploads)."""
+    """True when the title or description itself is a podcast episode."""
     title_n = normalize(title or "")
     desc_n = normalize(description or "")
-    text = f"{title_n} {title_n} {title_n} {desc_n}"
+    text = f"{title_n} {desc_n}"
     needles = (
         "podcast",
         "podcasts",
@@ -386,18 +397,14 @@ def _looks_like_podcast_content(title: str, description: str = "") -> bool:
         "z-series",
         "z series",
         "zseries",
-        "podcast episode",
-        "podcast show",
-        "apple podcast",
-        "episode",
-        "episodes",
-        "एपिसोड",
     )
-    if any(n in text for n in needles):
+    return any(n in text for n in needles)
+
+
+def _is_podcast_video(title: str, description: str = "", channel_title: str = "") -> bool:
+    if _is_allowed_podcast_channel(channel_title):
         return True
-    if re.search(r"\bep\s*\d+\b", text):
-        return True
-    return False
+    return _looks_like_podcast_content(title, description)
 
 
 # Create word boundary patterns for better matching
@@ -452,8 +459,8 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
         
         # Prepare prompt
         prompt = f"""Classify this video into ONE of these genres based on title and description:
-- Crime: Criminal activities, arrests, violence, murders, thefts, police cases, betting/satta raids, scams as crime stories
-- Traffic: Road accidents, traffic jams, vehicle collisions, highway incidents
+- Crime: Criminal cases and any negative news: deaths, disasters, crop loss, blasts, raids, arrests, fraud, missing people, violence, allegations of harm. If the story is bad news, choose Crime even when a politician is mentioned.
+- Traffic: Road accidents, traffic jams, vehicle collisions, highway incidents only
 - Jobs: Only hiring/recruitment/vacancy/admit card/merit lists/government job exams — NOT school board exam human-interest, NOT investigative stories about doctors' private practice or staff shortages
 - Events: Festivals, ceremonies, celebrations, inaugurations, cultural or sports events (not crime controversies, not IPL betting)
 - Civic: Municipal services, civic issues, government services, certificates, utilities
@@ -712,7 +719,8 @@ def classify_genre(title: str, description: str = "", published_at: str = None, 
     if use_openai and published_at and is_recent_video(published_at, hours=1):
         openai_result = classify_genre_with_openai(title, description)
         if openai_result:
-            return openai_result
+            scores = semantic_context_scores(title, description)
+            return apply_negative_crime_context(openai_result, scores)
     
     # Use keyword-based classification for older videos or if OpenAI fails
     keyword_result = classify_genre_keyword_based(title, description)
@@ -722,21 +730,8 @@ def classify_genre(title: str, description: str = "", published_at: str = None, 
     return keyword_result
 
 
-def classify_genre_keyword_based(title: str, description: str = "", channel_title: str = "") -> str:
-    """Classify video genre based on title and description with improved accuracy using keywords.
-    
-    Args:
-        title: Video title
-        description: Video description
-        channel_title: Channel title (required for Podcast classification)
-    
-    Returns:
-        Genre classification string
-    """
-    # Podcast tab: allow-listed channel AND title/description must look like a podcast episode
-    if _is_allowed_podcast_channel(channel_title) and _looks_like_podcast_content(title, description):
-        return GENRE_PODCAST
-
+def _classify_genre_by_keywords(title: str, description: str = "") -> str:
+    """Keyword rules only. Podcast and negative-news context are applied by the public wrapper."""
     # Normalize title and description separately - title gets more weight
     title_text = normalize(title or "")
     desc_text = normalize(description or "")
@@ -1124,6 +1119,195 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     return GENRE_GENERAL
 
 
+# Context prototypes for cosine similarity. Negative / harm stories sit on Crime
+# so a partial overlap (crop loss, raid, death, blast) still beats a passing
+# politician or city name.
+_CONTEXT_STOPWORDS = {
+    "the", "a", "an", "of", "in", "on", "to", "for", "and", "or", "is", "are",
+    "with", "from", "at", "by", "this", "that", "news", "update", "live",
+    "में", "को", "की", "का", "के", "से", "ने", "है", "हैं", "पर", "और", "या",
+    "एक", "यह", "इस", "कि", "भी", "हो", "गया", "गई", "तो", "ही", "तक", "कर",
+    "किया", "लिए", "वाला", "वाले", "वाली", "नहीं", "रहा", "रहे", "रही", "सिर्फ",
+}
+
+# Common words that must not count on their own. They still count inside a phrase.
+_CONTEXT_UNIGRAM_SKIP = {
+    "नहीं", "रहा", "रहे", "रही", "शराब", "helicopter", "हेलीकॉप्टर",
+    "किसान", "किसानों", "फसल", "फसलें", "धान", "बारिश", "चक्रवात", "तूफान",
+}
+
+_CONTEXT_PHRASES = (
+    "नहीं रहे",
+    "फसल बर्बाद",
+    "फसल को नुकसान",
+    "फसलें तबाह",
+    "फसलें बर्बाद",
+    "helicopter crash",
+    "हेलीकॉप्टर क्रैश",
+    "शराब जब्त",
+    "गंभीर आरोप",
+    "आर्थिक संकट",
+)
+
+_GENRE_CONTEXT_EXAMPLES = {
+    GENRE_CRIME: [
+        "murder arrested raid fraud scam robbery theft kidnapping shooting blast explosion missing torture accused",
+        "हत्या गिरफ्तार गिरफ्तारी छापेमारी ठगी घोटाला लूट चोरी अपहरण लापता फरार विस्फोट आरोपी कांड",
+        "फसल बर्बाद फसल को नुकसान फसलें तबाह किसानों की फसल चौपट चक्रवात से तबाही कहर संकट",
+        "निधन मौत नहीं रहे अंतिम संस्कार helicopter crash हेलीकॉप्टर क्रैश विमान हादसा",
+        "गैस ब्लास्ट सिलेंडर धमाका बाढ़ तबाही",
+        "शराब जब्त हेरोइन पिस्टल मादक पदार्थ अवैध ब्याज खुलासा",
+        "ईडी रेड एसीबी छापा वसूली धोखाधड़ी गंभीर आरोप",
+        "मारपीट हमला हिंसा फायरिंग गोली चाकू बवाल",
+        "मंगलसूत्र छीन snatching chain snatching",
+    ],
+    GENRE_TRAFFIC: [
+        "road accident car crash traffic jam collision highway overturned hit and run",
+        "सड़क दुर्घटना कार हादसा टक्कर जाम ट्रैफिक पलटी एक्सीडेंट",
+    ],
+    GENRE_POLITICS: [
+        "election rally speech minister scheme modi congress bjp vote budget parliament",
+        "चुनाव रैली भाषण मंत्री मुख्यमंत्री योजना सम्मान निधि किस्त विधानसभा कांग्रेस भाजपा",
+        "लोकतंत्र बचाओ पदयात्रा अभियान सियासत",
+    ],
+    GENRE_EVENTS: [
+        "festival celebration ceremony puja cricket match wedding inauguration karwa chauth",
+        "त्योहार उत्सव समारोह पूजा मेला क्रिकेट मैच शादी उद्घाटन करवा चौथ",
+    ],
+    GENRE_JOBS: [
+        "job vacancy recruitment admit card government job result hiring",
+        "नौकरी भर्ती वैकेंसी एडमिट कार्ड सरकारी नौकरी रिजल्ट",
+    ],
+    GENRE_CIVIC: [
+        "municipal water supply garbage road repair cleanliness certificate",
+        "नगर निगम पानी सफाई कचरा सड़क निर्माण पेयजल शिकायत",
+    ],
+    GENRE_GENERAL: [
+        "weather forecast rain alert temperature horoscope air show",
+        "मौसम अपडेट बारिश का अलर्ट तापमान राशिफल",
+    ],
+}
+
+# Crime wins when its context cosine is real and close to the next-best genre.
+SEMANTIC_CRIME_MIN = 0.12
+SEMANTIC_CRIME_RATIO = 0.72
+
+_context_idf: Optional[Dict[str, float]] = None
+_genre_example_vectors: Optional[Dict[str, List[Dict[str, float]]]] = None
+
+
+def _context_tokens(text: str) -> Counter:
+    """Word, phrase, and adjacent-word tokens used as the context vector."""
+    normalized = normalize(text)
+    words = [w for w in normalized.split() if len(w) >= 2 and w not in _CONTEXT_STOPWORDS]
+    counts: Counter = Counter()
+    for word in words:
+        if word in _CONTEXT_UNIGRAM_SKIP:
+            continue
+        counts["w:" + word] += 2
+    for left, right in zip(words, words[1:]):
+        if left in _CONTEXT_UNIGRAM_SKIP and right in _CONTEXT_UNIGRAM_SKIP:
+            continue
+        counts["b:" + left + "_" + right] += 3
+    for phrase in _CONTEXT_PHRASES:
+        if phrase in normalized:
+            counts["p:" + phrase.replace(" ", "_")] += 4
+    return counts
+
+
+def _tfidf_vector(counts: Counter, idf: Dict[str, float]) -> Dict[str, float]:
+    vector: Dict[str, float] = {}
+    for token, count in counts.items():
+        weight = idf.get(token)
+        if not weight or count <= 0:
+            continue
+        tf = 1.0 + math.log(count)
+        vector[token] = tf * weight
+    return vector
+
+
+def _cosine_similarity(left: Dict[str, float], right: Dict[str, float]) -> float:
+    if not left or not right:
+        return 0.0
+    if len(left) > len(right):
+        left, right = right, left
+    dot = 0.0
+    for token, weight in left.items():
+        other = right.get(token)
+        if other:
+            dot += weight * other
+    left_norm = math.sqrt(sum(weight * weight for weight in left.values()))
+    right_norm = math.sqrt(sum(weight * weight for weight in right.values()))
+    if left_norm == 0 or right_norm == 0:
+        return 0.0
+    return dot / (left_norm * right_norm)
+
+
+def _ensure_context_vectors() -> None:
+    global _context_idf, _genre_example_vectors
+    if _genre_example_vectors is not None and _context_idf is not None:
+        return
+    documents = []
+    for examples in _GENRE_CONTEXT_EXAMPLES.values():
+        for example in examples:
+            documents.append(_context_tokens(example))
+    doc_count = len(documents) or 1
+    doc_freq: Counter = Counter()
+    for document in documents:
+        doc_freq.update(document.keys())
+    _context_idf = {
+        token: math.log((1 + doc_count) / (1 + freq)) + 1.0
+        for token, freq in doc_freq.items()
+    }
+    _genre_example_vectors = {
+        genre: [_tfidf_vector(_context_tokens(example), _context_idf) for example in examples]
+        for genre, examples in _GENRE_CONTEXT_EXAMPLES.items()
+    }
+
+
+def semantic_context_scores(title: str, description: str = "") -> Dict[str, float]:
+    """Cosine similarity of a video against each genre's context examples.
+
+    Title is repeated so the headline dominates the description.
+    The score for a genre is the closest example, not a diluted average.
+    """
+    _ensure_context_vectors()
+    assert _context_idf is not None and _genre_example_vectors is not None
+    query_text = f"{title or ''} {title or ''} {title or ''} {(description or '')[:400]}"
+    query = _tfidf_vector(_context_tokens(query_text), _context_idf)
+    scores: Dict[str, float] = {}
+    for genre, vectors in _genre_example_vectors.items():
+        scores[genre] = max((_cosine_similarity(query, vector) for vector in vectors), default=0.0)
+    return scores
+
+
+def apply_negative_crime_context(genre: str, scores: Dict[str, float]) -> str:
+    """Move negative stories into Crime when that context is the closest match.
+
+    Road-traffic stories stay Traffic. Podcast, Live, and Scheduled labels are left alone.
+    """
+    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_CRIME):
+        return genre
+    if genre == GENRE_TRAFFIC:
+        return GENRE_TRAFFIC
+    crime = scores.get(GENRE_CRIME, 0.0)
+    best_other = max((value for name, value in scores.items() if name != GENRE_CRIME), default=0.0)
+    if crime >= SEMANTIC_CRIME_MIN and crime >= best_other * SEMANTIC_CRIME_RATIO:
+        return GENRE_CRIME
+    return genre
+
+
+def classify_genre_keyword_based(title: str, description: str = "", channel_title: str = "") -> str:
+    """Classify by keywords, then pull negative context into Crime.
+
+    Every video from a podcast channel is Podcast, as is any title that is itself a podcast.
+    """
+    if _is_podcast_video(title, description, channel_title):
+        return GENRE_PODCAST
+    genre = _classify_genre_by_keywords(title, description)
+    return apply_negative_crime_context(genre, semantic_context_scores(title, description))
+
+
 def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
     """Fetch detailed information for video IDs."""
     if not video_ids:
@@ -1355,12 +1539,12 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                 else:
                     openai_result = classify_genre_with_openai(title, description)
                     if openai_result:
-                        v["genre"] = openai_result
-                        # OpenAI has no Podcast class; still apply podcast tab rules for allow-listed channels
-                        if _is_allowed_podcast_channel(channel_title) and _looks_like_podcast_content(
-                            title, description
-                        ):
+                        if _is_podcast_video(title, description, channel_title):
                             v["genre"] = GENRE_PODCAST
+                        else:
+                            v["genre"] = apply_negative_crime_context(
+                                openai_result, semantic_context_scores(title, description)
+                            )
                         openai_count += 1
                     else:
                         # OpenAI failed - set circuit breaker and use keyword-based
@@ -1514,10 +1698,10 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
 
     # Podcast section = genre Podcast only (assigned only for allow-listed channels + podcast signals)
     podcast_news = filter_by_genre(feed, [GENRE_PODCAST])
-    other_feed = [v for v in feed if v.get("genre") != GENRE_PODCAST]
+    # Scheduled streams have no row. They stay out of every other section too.
+    other_feed = [v for v in feed if v.get("genre") not in (GENRE_PODCAST, GENRE_SCHEDULED)]
     
     live_news = filter_by_genre(other_feed, [GENRE_LIVE])
-    scheduled_news = filter_by_genre(other_feed, [GENRE_SCHEDULED])
     general_news = filter_by_genre(other_feed, [GENRE_GENERAL])
     politics_news = filter_by_genre(other_feed, [GENRE_POLITICS])
     traffic_news = filter_by_genre(other_feed, [GENRE_TRAFFIC])
@@ -1528,7 +1712,6 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
     
     sections = [
         {"section": SECTION_LIVE, "count": len(live_news), "items": live_news},
-        {"section": SECTION_SCHEDULED, "count": len(scheduled_news), "items": scheduled_news},
         {"section": SECTION_GENERAL, "count": len(general_news), "items": general_news},
         {"section": SECTION_PODCAST, "count": len(podcast_news), "items": podcast_news},
         {"section": SECTION_JOBS, "count": len(jobs_news), "items": jobs_news},
