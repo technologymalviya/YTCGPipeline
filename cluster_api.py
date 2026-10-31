@@ -631,6 +631,96 @@ def is_pse_related_video(video: Dict[str, Any]) -> bool:
     return False
 
 
+_CG_MOVIE_RELEASE_PATTERN = re.compile(
+    r"movie release|film release|new movie|upcoming movie|official trailer|"
+    r"movie trailer|film trailer|first look|poster launch|"
+    r"cgfilm|cg film|chhattisgarhi film|chhattisgarhi movie|"
+    r"ट्रेलर|टीजर|फिल्म रिलीज|मूवी रिलीज|नई फिल्म|छत्तीसगढ़ी फिल्म|छत्तीसगढ़ की फिल्म"
+)
+_MOVIE_SONG_ONLY_PATTERN = re.compile(r"(?<![a-z0-9])(?:geet|song|jukebox|audio)(?![a-z0-9])|गीत|जुकबॉक्स")
+_MOVIE_RELEASE_WORD_PATTERN = re.compile(r"trailer|teaser|release|official|ट्रेलर|टीजर|रिलीज|फिल्म|movie")
+_FILM_CITY_PATTERN = re.compile(r"film city|फिल्म सिटी|chitrotpala")
+
+
+def is_new_cg_movie_release(video: Dict[str, Any]) -> bool:
+    """True for a new Chhattisgarh movie release, trailer, or teaser.
+
+    National film interviews and film-city news are not releases. Song and
+    jukebox uploads are not releases unless the title also says trailer or release.
+    """
+    from generate_json import _region_title_text, video_mentions_chhattisgarh
+
+    title = video.get("title") or ""
+    text = _region_title_text(title)
+    channel = (video.get("channelTitle") or "").lower()
+    if _FILM_CITY_PATTERN.search(text) and not _MOVIE_RELEASE_WORD_PATTERN.search(text):
+        return False
+    song_only = _MOVIE_SONG_ONLY_PATTERN.search(text) and not re.search(
+        r"trailer|teaser|release|ट्रेलर|रिलीज", text
+    )
+    if song_only:
+        return False
+    film_channel = any(name in channel for name in ("cgfilm", "cg film", "sundrani film"))
+    has_release = _CG_MOVIE_RELEASE_PATTERN.search(text) is not None
+    channel_release = film_channel and _MOVIE_RELEASE_WORD_PATTERN.search(text) is not None
+    if not has_release and not channel_release:
+        return False
+    return video_mentions_chhattisgarh(title) or "cgfilm" in text or "cg film" in text or film_channel
+
+
+_SONG_TITLE_PATTERN = re.compile(
+    r"(?<![a-z0-9])(?:song|songs|geet|lokgeet|jukebox|bhajan|gana)(?![a-z0-9])|"
+    r"गीत|गाना|जुकबॉक्स|भजन|लोकगीत|सुवा गीत|सुवा"
+)
+_SONG_CHANNEL_PATTERN = re.compile(r"lokgeet|bhakti|sundrani|jukebox|geet")
+
+
+def is_song_video(video: Dict[str, Any]) -> bool:
+    """True for a Chhattisgarh or Madhya Pradesh song, geet, or jukebox upload.
+
+    Movie trailers stay in New Movie Release. A music-channel upload counts
+    even when the title does not say song.
+    """
+    from generate_json import _region_title_text
+
+    if is_new_cg_movie_release(video):
+        return False
+    title = _region_title_text(video.get("title") or "")
+    channel = (video.get("channelTitle") or "").lower()
+    if _SONG_TITLE_PATTERN.search(title):
+        return True
+    return _SONG_CHANNEL_PATTERN.search(channel) is not None and not _FILM_CITY_PATTERN.search(title)
+
+
+_CM_TITLE_PATTERN = re.compile(
+    r"(?<![a-z0-9])(?:cm|chief minister)(?![a-z0-9])|"
+    r"(?<![\u0900-\u097F])(?:मुख्यमंत्री|सीएम)(?![\u0900-\u097F])"
+)
+_OTHER_STATE_CM_PATTERN = re.compile(
+    r"(?<![a-z0-9])(?:yogi|dhami|stalin|mamata|kejriwal)(?![a-z0-9])|"
+    r"(?<![\u0900-\u097F])(?:योगी|धामी|स्टालिन|ममता|केजरीवाल)(?![\u0900-\u097F])"
+)
+
+
+def is_cm_video(video: Dict[str, Any]) -> bool:
+    """True when the headline is about the Chhattisgarh or Madhya Pradesh chief minister."""
+    from generate_json import (
+        _region_title_text,
+        video_mentions_chhattisgarh,
+        video_mentions_madhya_pradesh,
+    )
+
+    title = video.get("title") or ""
+    text = _region_title_text(title)
+    if not _CM_TITLE_PATTERN.search(text):
+        return False
+    if _OTHER_STATE_CM_PATTERN.search(text) and not (
+        video_mentions_chhattisgarh(title) or video_mentions_madhya_pradesh(title)
+    ):
+        return False
+    return True
+
+
 def is_movie_related_video(video: Dict[str, Any]) -> bool:
     """
     Check if a video is explicitly about movies (releases, trailers, movie news).
@@ -970,16 +1060,54 @@ def select_actually_trending_videos(videos: List[Dict[str, Any]]) -> List[Dict[s
     return kept
 
 
+def _named_cluster(cluster_id: str, topic: str, videos: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """Build one trending cluster from an already chosen set of videos."""
+    items = dedupe_videos_by_video_id(videos)
+    total_views = sum(v.get("views", 0) for v in items)
+    total_likes = sum(v.get("likes", 0) for v in items)
+    engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
+    trending_velocity = round(total_views / len(items), 1) if items else 0
+    latest_update = None
+    for item in items:
+        published_at = item.get("publishedAt")
+        if not published_at:
+            continue
+        try:
+            published = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+        except (ValueError, AttributeError):
+            continue
+        if not latest_update or published > latest_update:
+            latest_update = published
+    genres = [v.get("genre", "General") for v in items]
+    most_common_genre = max(set(genres), key=genres.count) if genres else "General"
+    return {
+        "clusterId": cluster_id,
+        "topic": topic,
+        "originalCategory": most_common_genre,
+        "videoCount": len(items),
+        "trendScore": calculate_trend_score({"section": topic}, items),
+        "latestUpdateAt": latest_update.isoformat().replace("+00:00", "Z") if latest_update else None,
+        "totalViews": total_views,
+        "totalLikes": total_likes,
+        "engagementRate": engagement_rate,
+        "trendingVelocity": trending_velocity,
+        "videos": items,
+    }
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
     
     Groups similar videos across all sections and only creates clusters
     with 4+ similar videos. Also creates dedicated clusters for:
+    - New Chhattisgarh movie releases, songs, and chief minister stories
+    - All Chhattisgarh and All Madhya Pradesh
     - Public Sector Exam (PSE)
-    - Movie (upcoming movies, releases, trailers)
     - Festival (festival celebrations, preparations, events)
     """
+    from generate_json import video_feed_states
+
     clusters = []
     
     # Collect all videos from all sections
@@ -991,9 +1119,17 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         all_videos.extend(items)
 
     all_videos = dedupe_videos_by_video_id(all_videos)
+    movie_videos = [video for video in all_videos if is_new_cg_movie_release(video)]
+    song_videos = [video for video in all_videos if is_song_video(video)]
+    cm_videos = [video for video in all_videos if is_cm_video(video)]
+    cg_videos = [video for video in all_videos if "cg" in video_feed_states(video.get("title") or "")]
+    mp_videos = [video for video in all_videos if "mp" in video_feed_states(video.get("title") or "")]
+    special_keys = {_video_dedupe_key(video) for video in movie_videos + song_videos}
+
     all_videos = select_actually_trending_videos(all_videos)
+    all_videos = [video for video in all_videos if _video_dedupe_key(video) not in special_keys]
     
-    if not all_videos:
+    if not all_videos and not movie_videos and not song_videos and not cg_videos and not mp_videos:
         logger.info("No videos found in data")
         return []
     
@@ -1001,21 +1137,23 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     
     # Separate PSE, Movie, Festival, and other videos
     pse_videos = []
-    movie_videos = []
     festival_videos = []
     other_videos = []
     
     for video in all_videos:
         if is_pse_related_video(video):
             pse_videos.append(video)
-        elif is_movie_related_video(video):
-            movie_videos.append(video)
         elif is_festival_related_video(video):
             festival_videos.append(video)
         else:
             other_videos.append(video)
     
-    logger.info(f"Found {len(pse_videos)} PSE-related videos, {len(movie_videos)} Movie-related videos, {len(festival_videos)} Festival-related videos, {len(other_videos)} other videos")
+    logger.info(
+        f"Found {len(pse_videos)} PSE-related videos, {len(movie_videos)} new CG movie releases, "
+        f"{len(song_videos)} songs, {len(cm_videos)} CM stories, "
+        f"{len(cg_videos)} All Chhattisgarh, {len(mp_videos)} All Madhya Pradesh, "
+        f"{len(festival_videos)} Festival-related videos, {len(other_videos)} other videos"
+    )
     
     # Create PSE cluster if there are any PSE videos (no minimum size requirement)
     if pse_videos:
@@ -1067,55 +1205,25 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(pse_cluster)
         logger.info(f"Created PSE cluster with {len(pse_videos)} videos")
     
-    # Create Movie cluster if there are any movie videos (no minimum size requirement)
+    # New CG movie releases are chosen from the full feed, before the trending gate,
+    # so a fresh release with few views is not dropped.
     if movie_videos:
-        # Sort movie videos by views to get top ones
-        movie_videos_sorted = sorted(movie_videos, key=lambda v: v.get('views', 0), reverse=True)
-        
-        # Calculate trend score for Movie cluster
-        dummy_section = {'section': 'Movie'}
-        trend_score = calculate_trend_score(dummy_section, movie_videos)
-        
-        # Find latest update time
-        latest_update = None
-        for item in movie_videos:
-            published_at = item.get('publishedAt')
-            if published_at:
-                try:
-                    pub_date = datetime.fromisoformat(published_at.replace('Z', '+00:00'))
-                    if not latest_update or pub_date > latest_update:
-                        latest_update = pub_date
-                except (ValueError, AttributeError):
-                    pass
-        
-        latest_update_str = latest_update.isoformat().replace('+00:00', 'Z') if latest_update else None
-        
-        # Calculate derived metrics
-        total_views = sum(v.get('views', 0) for v in movie_videos)
-        total_likes = sum(v.get('likes', 0) for v in movie_videos)
-        engagement_rate = round((total_likes / total_views * 100), 2) if total_views > 0 else 0
-        trending_velocity = round(total_views / len(movie_videos), 1) if movie_videos else 0
-        
-        # Determine most common genre from movie videos
-        genres = [v.get('genre', 'General') for v in movie_videos]
-        most_common_genre = max(set(genres), key=genres.count) if genres else 'General'
-        
-        movie_cluster = {
-            'clusterId': 'movie',
-            'topic': 'Movie',
-            'originalCategory': most_common_genre,
-            'videoCount': len(movie_videos),
-            'trendScore': trend_score,
-            'latestUpdateAt': latest_update_str,
-            'totalViews': total_views,
-            'totalLikes': total_likes,
-            'engagementRate': engagement_rate,
-            'trendingVelocity': trending_velocity,
-            'videos': movie_videos  # Include full video data
-        }
-        
-        clusters.append(movie_cluster)
-        logger.info(f"Created Movie cluster with {len(movie_videos)} videos")
+        clusters.append(_named_cluster("new-movie-release", "New Movie Release", movie_videos))
+        logger.info(f"Created New Movie Release cluster with {len(movie_videos)} videos")
+
+    if song_videos:
+        clusters.append(_named_cluster("song", "Song", song_videos))
+        logger.info(f"Created Song cluster with {len(song_videos)} videos")
+
+    if cm_videos:
+        clusters.append(_named_cluster("cm", "CM", cm_videos))
+        logger.info(f"Created CM cluster with {len(cm_videos)} videos")
+
+    clusters.append(_named_cluster("all-chhattisgarh", "All Chhattisgarh", cg_videos))
+    clusters.append(_named_cluster("all-madhya-pradesh", "All Madhya Pradesh", mp_videos))
+    logger.info(
+        f"Created All Chhattisgarh ({len(cg_videos)}) and All Madhya Pradesh ({len(mp_videos)})"
+    )
     
     # Create Festival cluster if there are any festival videos (no minimum size requirement)
     if festival_videos:
@@ -1237,11 +1345,18 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         
         clusters.append(cluster)
     
+    reserved_ids = {
+        'public-sector-exam', 'new-movie-release', 'song', 'cm', 'festival',
+        'all-chhattisgarh', 'all-madhya-pradesh',
+    }
     pse_count = len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])
-    movie_count = len([c for c in clusters if c.get('clusterId') == 'movie'])
+    movie_count = len([c for c in clusters if c.get('clusterId') == 'new-movie-release'])
     festival_count = len([c for c in clusters if c.get('clusterId') == 'festival'])
     location_count = len([c for c in clusters if str(c.get('clusterId', '')).startswith('location-')])
-    content_count = len([c for c in clusters if c.get('clusterId') not in ['public-sector-exam', 'movie', 'festival'] and not str(c.get('clusterId', '')).startswith('location-')])
+    content_count = len([
+        c for c in clusters
+        if c.get('clusterId') not in reserved_ids and not str(c.get('clusterId', '')).startswith('location-')
+    ])
     
     logger.info(f"Extracted {len(clusters)} clusters ({pse_count} PSE + {movie_count} Movie + {festival_count} Festival + {location_count} city-news + {content_count} content-based clusters)")
     return clusters
@@ -1262,8 +1377,15 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
     Returns:
         Dictionary with 'generatedAt', 'clusterCount', and sorted 'clusters' list
     """
-    # Sort clusters by trend score descending
-    sorted_clusters = sorted(clusters, key=lambda x: x['trendScore'], reverse=True)
+    # These categories stay at the top. The rest follow trend score.
+    pinned_ids = ["new-movie-release", "song", "cm", "all-chhattisgarh", "all-madhya-pradesh"]
+    pinned = [c for pin in pinned_ids for c in clusters if c.get("clusterId") == pin]
+    rest = sorted(
+        [c for c in clusters if c.get("clusterId") not in pinned_ids],
+        key=lambda x: x["trendScore"],
+        reverse=True,
+    )
+    sorted_clusters = pinned + rest
     
     # Create summary clusters with topVideos
     summary_clusters = []

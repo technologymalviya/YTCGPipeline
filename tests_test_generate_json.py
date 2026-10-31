@@ -74,6 +74,43 @@ def test_resolve_city_from_ip_failure_safe():
     assert city == ""
 
 
+def test_trending_movie_song_and_cm_clusters():
+    import cluster_api
+
+    assert cluster_api.is_new_cg_movie_release({
+        "title": "Official Trailer | छत्तीसगढ़ी फिल्म नया रिलीज",
+        "channelTitle": "CGFilm",
+    })
+    assert not cluster_api.is_new_cg_movie_release({
+        "title": "Ramayana Star Riya Kapoor ने फिल्म पर खुलकर बात की",
+        "channelTitle": "IBC24",
+    })
+    assert cluster_api.is_song_video({
+        "title": "Gaura Gauri - Short Video Song | Kanchan Joshi",
+        "channelTitle": "Sundrani CG Bhakti",
+    })
+    assert not cluster_api.is_song_video({
+        "title": "Official Trailer | छत्तीसगढ़ी फिल्म नया रिलीज",
+        "channelTitle": "CGFilm",
+    })
+    assert cluster_api.is_cm_video({
+        "title": "Cm का आदेश | फसल मुआवजा",
+        "channelTitle": "Bhilai Times",
+    })
+    assert cluster_api.is_cm_video({
+        "title": "CM Mohan Yadav का बड़ा बयान, भोपाल",
+        "channelTitle": "IBC24",
+    })
+    assert not cluster_api.is_cm_video({
+        "title": "Pushkar Dhami LIVE: Pauri Garhwal में CM Dhami",
+        "channelTitle": "Bansal News",
+    })
+    assert not cluster_api.is_cm_video({
+        "title": "रायपुर में सड़क हादसा",
+        "channelTitle": "IBC24",
+    })
+
+
 def test_region_filter_keeps_cg_mp_and_drops_other_states():
     assert gj.video_is_cg_or_mp("रायपुर में सड़क हादसा, दो की मौत")
     assert gj.video_is_cg_or_mp("भोपाल में मंत्रिमंडल की बैठक, मध्य प्रदेश")

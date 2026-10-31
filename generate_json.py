@@ -1664,12 +1664,11 @@ def resolve_city_from_ip(ip: str, lookup_template: Optional[str] = None) -> str:
     return ""
 
 
-# Places and names that mean the story is about Chhattisgarh or Madhya Pradesh.
-_CG_MP_REGION_TERMS = (
+# Places that mean the story is about Chhattisgarh.
+_CG_REGION_TERMS = (
     "chhattisgarh", "chattisgarh", "chhatisgarh", "chhattishgarh", "chhattishgard",
-    "chatisgarh", "chhattisgarhi", "madhya pradesh", "madhyapradesh", "madya pradesh",
-    "madyapradesh", "mpcg", "mp news", "cg news",
-    "छत्तीसगढ़", "छत्तीसगढ", "छतीसगढ़", "छत्तीसगढ़ी", "मध्य प्रदेश", "मध्यप्रदेश",
+    "chatisgarh", "chhattisgarhi", "cg news", "cgfilm", "cg film", "mpcg",
+    "छत्तीसगढ़", "छत्तीसगढ", "छतीसगढ़", "छत्तीसगढ़ी",
     "raipur", "रायपुर", "bhilai", "भिलाई", "bilaspur", "बिलासपुर", "raigarh", "रायगढ़",
     "korba", "कोरबा", "jagdalpur", "जगदलपुर", "bastar", "बस्तर", "rajnandgaon",
     "राजनांदगांव", "राजनांदगाँव", "ambikapur", "अंबिकापुर", "dhamtari", "धमतरी",
@@ -1679,7 +1678,13 @@ _CG_MP_REGION_TERMS = (
     "sukma", "सुकमा", "mungeli", "मुंगेली", "bhatapara", "भाटापारा", "dongargarh",
     "डोंगरगढ़", "rajim", "राजिम", "khairagarh", "खैरागढ़", "mainpat", "मैनपाट",
     "ratanpur", "रतनपुर", "abhanpur", "अभनपुर", "arang", "आरंग", "charoda", "चरोदा",
-    "durg", "दुर्ग",
+    "durg", "दुर्ग", "cg",
+)
+
+# Places that mean the story is about Madhya Pradesh.
+_MP_REGION_TERMS = (
+    "madhya pradesh", "madhyapradesh", "madya pradesh", "madyapradesh", "mp news", "mpcg",
+    "मध्य प्रदेश", "मध्यप्रदेश", "mp",
     "bhopal", "भोपाल", "indore", "इंदौर", "इन्दौर", "jabalpur", "जबलपुर", "gwalior",
     "ग्वालियर", "ujjain", "उज्जैन", "rewa", "रीवा", "satna", "सतना", "ratlam", "रतलाम",
     "dewas", "देवास", "khandwa", "खंडवा", "chhindwara", "छिंदवाड़ा", "burhanpur",
@@ -1687,10 +1692,13 @@ _CG_MP_REGION_TERMS = (
     "neemuch", "नीमच", "vidisha", "विदिशा", "sehore", "सिहोर", "narmadapuram",
     "नर्मदापुरम", "katni", "कटनी", "shivpuri", "शिवपुरी", "betul", "बैतूल", "balaghat",
     "बालाघाट", "chhatarpur", "छतरपुर", "tikamgarh", "टीकमगढ़", "itarsi", "इटारसी",
-    "khargone", "खरगोन", "khandwa", "omkareshwar", "ओंकारेश्वर", "pachmarhi", "पचमढ़ी",
+    "khargone", "खरगोन", "omkareshwar", "ओंकारेश्वर", "pachmarhi", "पचमढ़ी",
     "amarkantak", "अमरकंटक", "maheshwar", "महेश्वर", "jhabua", "झाबुआ", "barwani",
     "बड़वानी", "morena", "मुरैना", "datia", "दतिया", "malwa", "मालवा",
 )
+
+# Places and names that mean the story is about Chhattisgarh or Madhya Pradesh.
+_CG_MP_REGION_TERMS = _CG_REGION_TERMS + _MP_REGION_TERMS
 
 # Other Indian states. A headline that names one of these, and does not also name
 # Chhattisgarh or Madhya Pradesh, is left out of the feed.
@@ -1766,6 +1774,8 @@ def _region_term_pattern(terms) -> re.Pattern:
     return re.compile("|".join(parts))
 
 
+_CG_REGION_PATTERN = _region_term_pattern(_CG_REGION_TERMS)
+_MP_REGION_PATTERN = _region_term_pattern(_MP_REGION_TERMS)
 _CG_MP_REGION_PATTERN = _region_term_pattern(_CG_MP_REGION_TERMS)
 _OTHER_STATE_REGION_PATTERN = _region_term_pattern(_OTHER_STATE_REGION_TERMS)
 
@@ -1783,6 +1793,33 @@ def _region_title_text(title: str) -> str:
     for phrase, replacement in _REGION_TITLE_EXCEPTIONS:
         text = re.sub(phrase, replacement, text)
     return re.sub(r"\s+", " ", text).strip()
+
+
+def video_mentions_chhattisgarh(title: str) -> bool:
+    """True when the headline names Chhattisgarh or a Chhattisgarh place."""
+    return _CG_REGION_PATTERN.search(_region_title_text(title)) is not None
+
+
+def video_mentions_madhya_pradesh(title: str) -> bool:
+    """True when the headline names Madhya Pradesh or a Madhya Pradesh place."""
+    return _MP_REGION_PATTERN.search(_region_title_text(title)) is not None
+
+
+def video_feed_states(title: str) -> set:
+    """Which state categories a feed video belongs to.
+
+    A headline that names only Madhya Pradesh is Madhya Pradesh. One that names
+    Chhattisgarh, both states, or no state stays in Chhattisgarh, because this
+    feed is the Chhattisgarh pipeline. A headline that names both is in both.
+    """
+    cg = video_mentions_chhattisgarh(title)
+    mp = video_mentions_madhya_pradesh(title)
+    states = set()
+    if cg or not mp:
+        states.add("cg")
+    if mp:
+        states.add("mp")
+    return states
 
 
 def video_is_cg_or_mp(title: str, description: str = "") -> bool:
