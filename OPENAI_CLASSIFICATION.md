@@ -58,9 +58,12 @@ The system works automatically! No code changes needed.
 
 ## How It Works
 
-1. **Primary**: Tries OpenAI classification first
-2. **Fallback**: If OpenAI fails (rate limit, error, unavailable), uses keyword-based classification
-3. **Transparent**: All errors are logged but don't stop the script
+OpenAI runs only for videos published in the last hour. Older videos go straight to keywords.
+
+1. **Primary**: Ask the model for one genre. The Crime instruction includes negative news (deaths, disasters, crop loss, blasts, raids, arrests, fraud, missing people, violence), even when a politician is named. Traffic is only road accidents, jams, and collisions.
+2. **Context check**: After a successful label, cosine similarity against genre examples can still move the video to Crime when the harm context is strong enough. A Traffic label is kept. See [Genre Classification](GENRE_CLASSIFICATION_ANALYSIS.md).
+3. **Fallback**: If OpenAI fails (rate limit, error, unavailable), keyword classification runs, then the same context check.
+4. **Transparent**: Errors are logged and do not stop the script. The first failure also stops further OpenAI calls in that batch.
 
 ## Configuration
 

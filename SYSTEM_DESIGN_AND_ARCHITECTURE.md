@@ -7,9 +7,9 @@
 The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pipeline that:
 
 1. **Ingests** latest videos from configured Bhilai/news YouTube channels via YouTube Data API v3.
-2. **Enriches** each video with genre classification (Live, Scheduled, Crime, Traffic, Jobs, Events, Civic, Politics, Podcast, General) using a hybrid approach: OpenAI for recent videos, rule-based keywords otherwise.
+2. **Enriches** each video with a genre (Live, Scheduled, Crime, Traffic, Jobs, Events, Civic, Politics, Podcast, General). Recent videos try OpenAI; others use keywords. Both paths then run a cosine context check that moves negative stories into Crime. Traffic stays Traffic.
 3. **Publishes** two JSON artifacts:
-   - **output.json** — OTT-style feed with sections (Live, Scheduled, General, Podcast, Jobs, Politics, Events, Civic, Traffic, Crime) and full video metadata.
+   - **output.json** — OTT-style feed. Tabs are Live, General, Podcast, Jobs, Politics, Events, Civic, and Negative (Crime and Traffic together). Scheduled videos are labeled and omitted from the feed. An optional city section is prepended.
    - **trending_cluster.json** — Clusters of similar/topical content (PSE, Movie, Festival, content-based) sorted by trend score, with top videos per cluster.
 4. **Serves** data via an optional **Cluster API** (Flask) for clusters, filtering, and raw file access (including proxy to GitHub raw for `trending_cluster.json`).
 
@@ -93,8 +93,8 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 
 1. **Config**: API keys and channel list from environment (`YOUTUBE_API_KEY*`, `BHILAI_CHANNELS`, `OPENAI_API_KEY`).
 2. **Fetch**: For each channel, search latest videos (YouTube Search + Videos), merge, sort by `publishedAt`.
-3. **Classify**: For each video, set `genre` (Live/Scheduled by `videoType`; else OpenAI for last 1h, else keyword-based). Podcast channels forced to genre Podcast.
-4. **Section**: Build OTT sections from genres; write `output.json` (generatedAt, sections with sectionIndex, items).
+3. **Classify**: Live/Scheduled from `videoType`. Otherwise OpenAI for the last hour, else keywords. Podcast channels and podcast titles are forced to Podcast. A cosine context check then moves negative stories into Crime; Traffic is left as Traffic. See [Genre Classification](GENRE_CLASSIFICATION_ANALYSIS.md).
+4. **Section**: Build OTT tabs from genres. Crime and Traffic share the Negative tab. Scheduled videos are not given a row. Write `output.json` (`generatedAt`, sections with `sectionIndex`, items).
 5. **Cluster**: Read `output.json`; extract PSE / Movie / Festival + content-based clusters (min 4 videos); compute trend score; sort; top 5 videos per cluster; write `trending_cluster.json`.
 6. **Optional**: Cluster API serves clusters and files; `trending_cluster.json` can be read from disk or proxied from GitHub raw.
 
@@ -119,19 +119,21 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 
 3. **Genre classification** (`add_genres_to_feed`)
    - Live/Scheduled: from `videoType` (LIVE, SCHEDULED/UPCOMING).
-   - Others: if published in last 1 hour and OpenAI enabled → `classify_genre_with_openai`; else or on failure → `classify_genre_keyword_based(title, description, channel_title)`.
-   - Circuit breaker: first OpenAI failure stops OpenAI for rest of batch; time cap (e.g. 50s) stops OpenAI after limit; Podcast channel override (channel allow-list) forces or rejects Podcast.
+   - Others: if published in the last hour and OpenAI is enabled → `classify_genre_with_openai`, then `apply_negative_crime_context`. On failure, or for older videos → `classify_genre_keyword_based` (keywords, then the same context check).
+   - Context check: TF-IDF cosine against genre example sentences. Crime wins when its score is at least 0.12 and at least 0.72× the next genre. Traffic, Podcast, Live, and Scheduled are not overridden.
+   - Circuit breaker: first OpenAI failure stops OpenAI for the rest of the batch; time cap (50s) does the same.
+   - Podcast: every upload from an allow-listed or podcast-named channel, and any title/description that says podcast, is Podcast.
 
 4. **OTT structure** (`generate_ott_json`)
-   - Filter by genre into sections: Live, Scheduled, General, Podcast, Jobs, Politics, Events, Civic, Traffic, Crime (Podcast section only from allowed channels; other sections exclude those channels).
-   - Attach `sectionIndex` per section; output `{ generatedAt, sections }`.
+   - Sections: Live, General, Podcast, Jobs, Politics, Events, Civic, Negative. Negative is Crime plus Traffic, newest first. Scheduled videos are excluded. A resolved city section is prepended at index 0.
+   - `sectionIndex`: General 1, Podcast 2, Jobs 3, Politics 4, Events 5, Civic 6, Negative 7.
 
 5. **Persistence**
    - Write `output.json` only when config is valid and feed non-empty (otherwise preserve existing file).
 
 **Key design choices**:
 - Multiple YouTube API keys for quota and key-rotation.
-- Hybrid genre: OpenAI for recency, keyword for stability and cost control.
+- Hybrid genre: OpenAI for the last hour, keywords otherwise, then cosine context so negative news lands in Crime.
 - Circuit breaker and time limit to avoid runaway OpenAI usage.
 
 ### 3.2 generate_trending_clusters.py
@@ -190,8 +192,8 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 
 - **generatedAt**: ISO8601 UTC.
 - **sections**: Array of:
-  - **section**: Name (Live, Scheduled, General, Podcast, Jobs, Politics, Events, Civic, Traffic, Crime).
-  - **sectionIndex**: Numeric index for ordering (e.g. General=1, Podcast=2, …).
+  - **section**: Name (optional city, Live, General, Podcast, Jobs, Politics, Events, Civic, Negative).
+  - **sectionIndex**: Rail order. General=1, Podcast=2, Jobs=3, Politics=4, Events=5, Civic=6, Negative=7. City and Live use 0.
   - **count**: Number of videos in section.
   - **items**: Array of video objects.
 
@@ -216,8 +218,8 @@ Cluster types:
 
 ### 4.3 Genre and Section Mapping
 
-- **Genres**: Live, Scheduled, Crime, Traffic, Politics, Jobs, Events, Civic, Podcast, General.
-- **Sections** (OTT tabs): Same names; sectionIndex defines order; Podcast is channel-allow-list only; other sections exclude those channels.
+- **Genres**: Live, Scheduled, Crime, Traffic, Politics, Jobs, Events, Civic, Podcast, General. Scheduled is stored on the video and omitted from tabs.
+- **Sections** (OTT tabs): Live, General, Podcast, Jobs, Politics, Events, Civic, Negative. Negative is the single tab and rail for Crime and Traffic. Podcast is every upload from a podcast channel, plus any item whose title or description says podcast.
 
 ---
 
@@ -234,7 +236,7 @@ Cluster types:
 
 - **Usage**: Optional genre classification for videos published in last 1 hour.
 - **Model**: e.g. `gpt-4o-mini`; low temperature; max tokens for single genre label.
-- **Resilience**: Circuit breaker on first failure; time-bound (e.g. 50s); rate/token checks with safety margin; fallback to keyword classification; no script failure on OpenAI errors.
+- **Resilience**: Circuit breaker on first failure; time-bound (50s); rate/token checks with safety margin; fallback to keyword classification plus the cosine context check; no script failure on OpenAI errors.
 - **Config**: `OPENAI_API_KEY`, rate/token limits, time limit in `generate_json.py`.
 
 ### 5.3 GitHub
@@ -309,6 +311,6 @@ Cluster types:
 
 The system is a **batch pipeline** plus **optional REST API**:
 
-- **Pipeline**: YouTube → genre tagging (OpenAI + keyword) → OTT sections → `output.json`; then clusters + trend scores → `trending_cluster.json`. Orchestrated by GitHub Actions or `run_pipeline.sh`.
+- **Pipeline**: YouTube → genre tagging (OpenAI or keywords, then cosine context) → OTT sections, with Crime and Traffic on the Negative tab → `output.json`; then clusters + trend scores → `trending_cluster.json`. Orchestrated by GitHub Actions or `run_pipeline.sh`.
 - **Serving**: Cluster API provides clusters, filters, and access to both JSONs; `trending_cluster.json` can be read from disk or GitHub raw.
 - **Resilience**: Multiple YouTube keys, OpenAI circuit breaker and time limit, and safe fallbacks keep the pipeline running and the data files consistent.
