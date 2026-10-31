@@ -1664,6 +1664,156 @@ def resolve_city_from_ip(ip: str, lookup_template: Optional[str] = None) -> str:
     return ""
 
 
+# Places and names that mean the story is about Chhattisgarh or Madhya Pradesh.
+_CG_MP_REGION_TERMS = (
+    "chhattisgarh", "chattisgarh", "chhatisgarh", "chhattishgarh", "chhattishgard",
+    "chatisgarh", "chhattisgarhi", "madhya pradesh", "madhyapradesh", "madya pradesh",
+    "madyapradesh", "mpcg", "mp news", "cg news",
+    "छत्तीसगढ़", "छत्तीसगढ", "छतीसगढ़", "छत्तीसगढ़ी", "मध्य प्रदेश", "मध्यप्रदेश",
+    "raipur", "रायपुर", "bhilai", "भिलाई", "bilaspur", "बिलासपुर", "raigarh", "रायगढ़",
+    "korba", "कोरबा", "jagdalpur", "जगदलपुर", "bastar", "बस्तर", "rajnandgaon",
+    "राजनांदगांव", "राजनांदगाँव", "ambikapur", "अंबिकापुर", "dhamtari", "धमतरी",
+    "kanker", "कांकेर", "dantewada", "दंतेवाड़ा", "दंतेवाडा", "mahasamund", "महासमुंद",
+    "janjgir", "जांजगीर", "kawardha", "कवर्धा", "bemetara", "बेमेतरा", "gariaband",
+    "gariyaband", "गरियाबंद", "surguja", "सरगुजा", "kondagaon", "कोंडागांव",
+    "sukma", "सुकमा", "mungeli", "मुंगेली", "bhatapara", "भाटापारा", "dongargarh",
+    "डोंगरगढ़", "rajim", "राजिम", "khairagarh", "खैरागढ़", "mainpat", "मैनपाट",
+    "ratanpur", "रतनपुर", "abhanpur", "अभनपुर", "arang", "आरंग", "charoda", "चरोदा",
+    "durg", "दुर्ग",
+    "bhopal", "भोपाल", "indore", "इंदौर", "इन्दौर", "jabalpur", "जबलपुर", "gwalior",
+    "ग्वालियर", "ujjain", "उज्जैन", "rewa", "रीवा", "satna", "सतना", "ratlam", "रतलाम",
+    "dewas", "देवास", "khandwa", "खंडवा", "chhindwara", "छिंदवाड़ा", "burhanpur",
+    "बुरहानपुर", "singrauli", "सिंगरौली", "shahdol", "शहडोल", "mandsaur", "मंदसौर",
+    "neemuch", "नीमच", "vidisha", "विदिशा", "sehore", "सिहोर", "narmadapuram",
+    "नर्मदापुरम", "katni", "कटनी", "shivpuri", "शिवपुरी", "betul", "बैतूल", "balaghat",
+    "बालाघाट", "chhatarpur", "छतरपुर", "tikamgarh", "टीकमगढ़", "itarsi", "इटारसी",
+    "khargone", "खरगोन", "khandwa", "omkareshwar", "ओंकारेश्वर", "pachmarhi", "पचमढ़ी",
+    "amarkantak", "अमरकंटक", "maheshwar", "महेश्वर", "jhabua", "झाबुआ", "barwani",
+    "बड़वानी", "morena", "मुरैना", "datia", "दतिया", "malwa", "मालवा",
+)
+
+# Other Indian states. A headline that names one of these, and does not also name
+# Chhattisgarh or Madhya Pradesh, is left out of the feed.
+_OTHER_STATE_REGION_TERMS = (
+    "uttar pradesh", "uttarpradesh", "उत्तर प्रदेश", "उत्तरप्रदेश", "यूपी", "up", "uppsc", "uppcl",
+    "lucknow", "लखनऊ", "kanpur", "कानपुर", "varanasi", "वाराणसी", "banaras", "बनारस",
+    "noida", "नोएडा", "ghaziabad", "गाजियाबाद", "agra", "आगरा", "prayagraj", "प्रयागराज",
+    "meerut", "मेरठ", "gorakhpur", "गोरखपुर", "ayodhya", "अयोध्या", "mathura", "मथुरा",
+    "vrindavan", "वृंदावन", "aligarh", "अलीगढ़", "bareilly", "बरेली", "moradabad", "मुरादाबाद",
+    "jhansi", "झांसी", "saharanpur", "सहारनपुर", "muzaffarnagar", "मुजफ्फरनगर", "amethi", "अमेठी",
+    "raebareli", "rae bareli", "रायबरेली", "azamgarh", "आजमगढ़", "yogi adityanath",
+    "योगी आदित्यनाथ", "cm yogi", "सीएम योगी",
+    "bihar", "बिहार", "patna", "पटना", "muzaffarpur", "मुजफ्फरपुर", "bhagalpur", "भागलपुर",
+    "rajasthan", "राजस्थान", "jaipur", "जयपुर", "jodhpur", "जोधपुर", "udaipur", "उदयपुर",
+    "ajmer", "अजमेर", "bikaner", "बीकानेर", "jaisalmer", "जैसलमेर", "bharatpur", "भरतपुर",
+    "maharashtra", "महाराष्ट्र", "mumbai", "मुंबई", "bombay", "pune", "पुणे", "nagpur", "नागपुर",
+    "nashik", "नासिक", "thane", "ठाणे",
+    "gujarat", "गुजरात", "ahmedabad", "अहमदाबाद", "gandhinagar", "गांधीनगर", "vadodara", "वडोदरा",
+    "rajkot", "राजकोट",
+    "punjab", "पंजाब", "amritsar", "अमृतसर", "ludhiana", "लुधियाना", "jalandhar", "जालंधर",
+    "chandigarh", "चंडीगढ़",
+    "haryana", "हरियाणा", "gurugram", "गुरुग्राम", "gurgaon", "गुड़गांव", "faridabad", "फरीदाबाद",
+    "panipat", "पानीपत", "rohtak", "रोहतक", "sonipat", "सोनीपत",
+    "jharkhand", "झारखंड", "ranchi", "रांची", "jamshedpur", "जमशेदपुर", "dhanbad", "धनबाद",
+    "bokaro", "बोकारो",
+    "odisha", "odisa", "orissa", "ओडिशा", "उड़ीसा", "bhubaneswar", "भुवनेश्वर", "cuttack", "कटक",
+    "west bengal", "पश्चिम बंगाल", "kolkata", "calcutta", "कोलकाता", "कलकत्ता", "howrah", "हावड़ा",
+    "siliguri", "सिलीगुड़ी", "darjeeling", "दार्जिलिंग", "bengal", "बंगाल",
+    "karnataka", "कर्नाटक", "bengaluru", "bangalore", "बेंगलुरु", "बेंगलोर", "mysuru", "mysore", "मैसूर",
+    "telangana", "तेलंगाना", "hyderabad", "हैदराबाद",
+    "andhra", "आंध्र", "आन्ध्र", "visakhapatnam", "vijayawada", "विजयवाड़ा",
+    "tamil nadu", "tamilnadu", "तमिलनाडु", "chennai", "चेन्नई", "madurai", "मदुरै", "coimbatore",
+    "kerala", "केरल", "thiruvananthapuram", "तिरुवनंतपुरम", "kochi", "कोच्चि",
+    "assam", "असम", "guwahati", "गुवाहाटी",
+    "goa", "गोवा",
+    "himachal", "हिमाचल", "shimla", "शिमला", "dharamshala", "धर्मशाला",
+    "uttarakhand", "उत्तराखंड", "उत्तराखण्ड", "dehradun", "देहरादून", "haridwar", "हरिद्वार",
+    "rishikesh", "ऋषिकेश", "nainital", "नैनीताल",
+    "jammu", "जम्मू", "kashmir", "कश्मीर", "srinagar", "श्रीनगर", "ladakh", "लद्दाख",
+    "manipur", "मणिपुर", "meghalaya", "मेघालय", "mizoram", "मिजोरम", "nagaland", "नागालैंड",
+    "tripura", "त्रिपुरा", "sikkim", "सिक्किम", "arunachal", "अरुणाचल",
+    "delhi", "दिल्ली", "new delhi", "नई दिल्ली",
+    "puducherry", "पुडुचेरी",
+)
+
+_REGION_TITLE_EXCEPTIONS = (
+    (r"बंगाल की खाड़ी", " "),
+    (r"bay of bengal", " "),
+    (r"mini kashmir", " "),
+    (r"मिनी कश्मीर", " "),
+)
+
+
+def _region_term_pattern(terms) -> re.Pattern:
+    """Match a place name as a whole word, in Latin or Devanagari."""
+    latin = []
+    devanagari = []
+    for term in terms:
+        term = term.strip().lower()
+        if not term:
+            continue
+        if re.search(r"[a-z]", term):
+            latin.append(re.escape(term))
+        else:
+            devanagari.append(re.escape(term))
+    parts = []
+    if latin:
+        body = "|".join(sorted(set(latin), key=len, reverse=True))
+        parts.append(rf"(?<![a-z0-9])(?:{body})(?![a-z0-9])")
+    if devanagari:
+        body = "|".join(sorted(set(devanagari), key=len, reverse=True))
+        parts.append(rf"(?<![\u0900-\u097F])(?:{body})(?![\u0900-\u097F])")
+    return re.compile("|".join(parts))
+
+
+_CG_MP_REGION_PATTERN = _region_term_pattern(_CG_MP_REGION_TERMS)
+_OTHER_STATE_REGION_PATTERN = _region_term_pattern(_OTHER_STATE_REGION_TERMS)
+
+
+def _region_title_text(title: str) -> str:
+    """Normalize a headline for the state filter.
+
+    Punctuation becomes a space so "Delhi-Varanasi" still matches both cities.
+    Channel descriptions often stamp "chhattisgarh" on every upload, so the
+    decision uses the title only.
+    """
+    text = (title or "").lower()
+    text = re.sub(r"[^\w\s\u0900-\u097F]", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    for phrase, replacement in _REGION_TITLE_EXCEPTIONS:
+        text = re.sub(phrase, replacement, text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def video_is_cg_or_mp(title: str, description: str = "") -> bool:
+    """True when the headline is not about a state other than CG or MP.
+
+    Stories that name Uttar Pradesh or any other Indian state are removed.
+    A headline that also names Chhattisgarh or Madhya Pradesh stays, as does
+    a local or national headline that names no other state.
+    """
+    del description  # Title is the source of truth; descriptions carry channel tags.
+    text = _region_title_text(title)
+    if not text:
+        return True
+    if not _OTHER_STATE_REGION_PATTERN.search(text):
+        return True
+    return _CG_MP_REGION_PATTERN.search(text) is not None
+
+
+def filter_to_cg_mp_news(feed: List[Dict]) -> List[Dict]:
+    """Drop videos whose headline is about a state other than CG or MP."""
+    kept: List[Dict] = []
+    dropped = 0
+    for video in feed:
+        if video_is_cg_or_mp(video.get("title") or "", video.get("description") or ""):
+            kept.append(video)
+        else:
+            dropped += 1
+    print(f"[Region] Kept {len(kept)} videos, dropped {dropped} from other states")
+    return kept
+
+
 def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
     """Return videos whose title mentions the resolved city (not channel name or description alone)."""
     city_n = normalize(city or "")
@@ -1685,6 +1835,7 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
     _log_city(
         f"Starting OTT JSON generation with feed_size={len(feed)}, request_ip='{request_ip or '<none>'}'"
     )
+    feed = filter_to_cg_mp_news(feed)
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
     if city:
@@ -1767,6 +1918,7 @@ def main():
         print(f"Loaded {len(API_KEYS)} API key(s) for fallback support")
         print(f"Fetching videos from {len(BHILAI_CHANNELS)} Bhilai news channels...")
         feed = aggregate_bhilai_videos(BHILAI_CHANNELS)
+        feed = filter_to_cg_mp_news(feed)
         feed = add_genres_to_feed(feed)
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()

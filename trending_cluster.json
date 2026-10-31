@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T09:21:32.874499Z",
+  "generatedAt": "2026-10-31T09:41:45.240999Z",
   "clusterCount": 5,
   "clusters": [
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 29,
-      "trendScore": 60.4,
+      "videoCount": 27,
+      "trendScore": 60.2,
       "topVideos": [
         {
           "index": 1,
@@ -220,36 +220,6 @@
         },
         {
           "index": 15,
-          "videoId": "K1AU6PtuPY0",
-          "title": "PM-Kisan Samman Nidhi: किसानों सावधान! एक गलती और अटक जाएगा ₹2000 का पैसा! |",
-          "description": "PM Kisan 24th Installment 2026: प्रधानमंत्री किसान सम्मान निधि योजना की 24वीं ...",
-          "channelTitle": "India News Madhya Pradesh Chhattisgarh",
-          "publishedAt": "2026-10-30T14:31:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/K1AU6PtuPY0/hqdefault.jpg",
-          "durationSeconds": 0,
-          "durationFormatted": "LIVE",
-          "views": 1633,
-          "likes": 1,
-          "videoType": "LIVE",
-          "genre": "Live"
-        },
-        {
-          "index": 16,
-          "videoId": "gg-74e6D-nM",
-          "title": "UP BJP Meeting: Lucknow में BJP का महामंथन! UP in-charge Vinod Tawde की अध्यक्षता में हो रही बैठक",
-          "description": "IBC24, UP BJP Meeting: Lucknow में BJP का महामंथन! UP in-charge Vinod Tawde की अध्यक्षता में ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-10-31T08:48:55Z",
-          "thumbnail": "https://i.ytimg.com/vi/gg-74e6D-nM/hqdefault.jpg",
-          "durationSeconds": 197,
-          "durationFormatted": "03:17",
-          "views": 851,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Politics"
-        },
-        {
-          "index": 17,
           "videoId": "SaHzMy_xiDo",
           "title": "Bhopal: केंद्रीय मंत्री Hardeep Singh Puri ने MP से राज्यसभा के लिए दाखिल किया नामांकन...",
           "description": "Bhopal: केंद्रीय मंत्री Hardeep Singh Puri ने MP से राज्यसभा के लिए दाखिल किया ...",
@@ -264,7 +234,7 @@
           "genre": "Politics"
         },
         {
-          "index": 18,
+          "index": 16,
           "videoId": "jbUpNAXKGDM",
           "title": "Bilaspur News: युवक ने महिला Tehsildar से की गाली-गलौज! CM Helpline की शिकायत पर किया था फोन",
           "description": "Bilaspur News: युवक ने महिला Tehsildar से की गाली-गलौज! CM Helpline की शिकायत पर किया ...",
@@ -279,7 +249,7 @@
           "genre": "Politics"
         },
         {
-          "index": 19,
+          "index": 17,
           "videoId": "-h0EmKmJENw",
           "title": "बिलाईगढ़ - खबर का हुआ असर ! जागा शिक्षा विभागChhattisgarh Xpress News",
           "description": "Chhattisgarh Xpress News सबसे तेज सबसे आगे विश्वसनीय न्यूज़ चैनल “छत्तीसगढ़ ...",
@@ -294,7 +264,7 @@
           "genre": "General"
         },
         {
-          "index": 20,
+          "index": 18,
           "videoId": "3UhOlQQe59g",
           "title": "Cyclone Arnab Impact: Kondagaon में बारिश से फसल बर्बाद! प्रभावितों को सरकारी मदद की कवायद शुरु",
           "description": "IBC24, Cyclone Arnab Impact: Kondagaon में बारिश से फसल बर्बाद! प्रभावितों को सरकारी ...",
@@ -309,7 +279,7 @@
           "genre": "Crime"
         },
         {
-          "index": 21,
+          "index": 19,
           "videoId": "BiKdw325xkE",
           "title": "PM Kisan Yojana: मोदी ने जारी की 24वीं किस्त! 9.34 करोड़ किसानों को लाभ",
           "description": "किसानों के लिए बड़ी खबर! पीएम किसान सम्मान निधि की 24वीं किस्त जारी!",
@@ -324,7 +294,7 @@
           "genre": "Politics"
         },
         {
-          "index": 22,
+          "index": 20,
           "videoId": "T_sXoZEIgXQ",
           "title": "Ujjain Bulldozer Action: Mahakal Temple के पास बड़ा Action। 10 अवैध इमारतों पर कार्रवाई",
           "description": "IBC24, Ujjain Bulldozer Action: Mahakal Temple के पास बड़ा Action। 10 अवैध इमारतों पर ...",
@@ -339,7 +309,7 @@
           "genre": "Crime"
         },
         {
-          "index": 23,
+          "index": 21,
           "videoId": "mOt4TIPJvpk",
           "title": "MP Rajya Sabha Bypoll: Hardeep Singh Puri ने दाखिल किया पर्चा! CM Mohan Yadav समेत दिग्गज रहे मौजूद",
           "description": "IBC24, MP Rajya Sabha Bypoll: Hardeep Singh Puri ने दाखिल किया पर्चा! CM Mohan Yadav समेत ...",
@@ -354,7 +324,7 @@
           "genre": "Politics"
         },
         {
-          "index": 24,
+          "index": 22,
           "videoId": "zEj7LB6CbmM",
           "title": "थोड़ी देर में BJP कार्यालय पहुंचेंगे Hardeep Singh Puri | नामांकन में CM समेत ये दिग्गज रहेंगे मौजूद",
           "description": "Bhopal: थोड़ी देर में BJP कार्यालय पहुंचेंगे Hardeep Singh Puri | नामांकन में CM ...",
@@ -369,7 +339,7 @@
           "genre": "Politics"
         },
         {
-          "index": 25,
+          "index": 23,
           "videoId": "ep_vdTubCgA",
           "title": "#shorts : भारत में सबसे तेजी से गरीबी घटी, वर्ल्ड बैंक की रिपोर्ट में खुलासा",
           "description": "shorts : भारत में सबसे तेजी से गरीबी घटी, वर्ल्ड बैंक की रिपोर्ट में ...",
@@ -384,7 +354,7 @@
           "genre": "Crime"
         },
         {
-          "index": 26,
+          "index": 24,
           "videoId": "8pOiIdLxcvs",
           "title": "&quot;Hardeep Singh Puri का अनुभव MP के काम आएगा&quot; CM Mohan Yadav का बड़ा बयान",
           "description": "भारतीय जनता पार्टी के राज्यसभा प्रत्याशी एवं केंद्रीय मंत्री ...",
@@ -399,7 +369,7 @@
           "genre": "Politics"
         },
         {
-          "index": 27,
+          "index": 25,
           "videoId": "hyN5_BHRQX0",
           "title": "Betul News: CM Mohan Yadav के दौरे से पहले पुलिस का बड़ा एक्शन। हिरासत में कई कांग्रेस कार्यकर्ता",
           "description": "IBC24, Betul News: CM Mohan Yadav के दौरे से पहले पुलिस का बड़ा एक्शन। हिरासत में ...",
@@ -414,7 +384,7 @@
           "genre": "Politics"
         },
         {
-          "index": 28,
+          "index": 26,
           "videoId": "_4sbrsHsViw",
           "title": "Betul News: CM मोहन यादव देंगे ₹443 करोड़ की सौगात, Tendu Patta संग्राहकों को मिलेगा Bonus| Original",
           "description": "Betul News: CM मोहन यादव देंगे ₹443 करोड़ की सौगात, Tendu Patta संग्राहकों को ...",
@@ -429,7 +399,7 @@
           "genre": "Politics"
         },
         {
-          "index": 29,
+          "index": 27,
           "videoId": "GOl_Q46mkHg",
           "title": "Bulldozer Action: सिंहस्थ 2028 से पहले Ujjain में बड़ा बुलडोजर एक्शन! 11 अवैध इमारतों पर कार्रवाई",
           "description": "उज्जैन में सिंहस्थ 2028 की तैयारियों के बीच महाकाल मंदिर पहुंच मार्ग ...",
@@ -450,7 +420,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 5,
-      "trendScore": 51.3,
+      "trendScore": 51.0,
       "topVideos": [
         {
           "index": 1,
@@ -534,7 +504,7 @@
       "clusterId": "bjym-छततसगढ",
       "topic": "BJYM छत्तीसगढ़",
       "videoCount": 5,
-      "trendScore": 49.9,
+      "trendScore": 49.7,
       "topVideos": [
         {
           "index": 1,
@@ -618,7 +588,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 43.5,
+      "trendScore": 43.3,
       "topVideos": [
         {
           "index": 1,
@@ -642,7 +612,7 @@
       "clusterId": "movie",
       "topic": "Movie",
       "videoCount": 1,
-      "trendScore": 38.3,
+      "trendScore": 37.9,
       "topVideos": [
         {
           "index": 1,

@@ -74,6 +74,20 @@ def test_resolve_city_from_ip_failure_safe():
     assert city == ""
 
 
+def test_region_filter_keeps_cg_mp_and_drops_other_states():
+    assert gj.video_is_cg_or_mp("रायपुर में सड़क हादसा, दो की मौत")
+    assert gj.video_is_cg_or_mp("भोपाल में मंत्रिमंडल की बैठक, मध्य प्रदेश")
+    assert gj.video_is_cg_or_mp("Bilaspur Kolkata flight restored")
+    assert gj.video_is_cg_or_mp("Raipur News: दिल्ली में नक्सलवाद ला रही कांग्रेस")
+    assert gj.video_is_cg_or_mp("Montreal traffic update and road closure")
+    assert gj.video_is_cg_or_mp("बंगाल की खाड़ी में चक्रवात")
+    assert not gj.video_is_cg_or_mp("AAP Punjab List | पंजाब चुनाव के लिए पहली लिस्ट")
+    assert not gj.video_is_cg_or_mp("Vande Bharat: Delhi-Varanasi के बीच नई ट्रेन, Prayagraj-Kanpur")
+    assert not gj.video_is_cg_or_mp("लखनऊ में योगी सरकार का बड़ा फैसला")
+    assert not gj.video_is_cg_or_mp("Cyclone: राजस्थान में ओले, उत्तराखंड में बर्फबारी, ओडिशा में लैंडस्लाइड")
+    assert not gj.video_is_cg_or_mp("CM Yogi बोले देश सुरक्षित बन रहा है")
+
+
 def test_generate_ott_json_adds_city_section_index_zero():
     feed = [
         {
