@@ -22,7 +22,7 @@ from flask_cors import CORS
 # Configuration
 OUTPUT_FILE = "output.json"
 TRENDING_CLUSTER_FILE = "trending_cluster.json"
-GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/MridulEcolab/TestPipeline/main/"
+GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/technologymalviya/YTCGPipeline/main/"
 GITHUB_REQUEST_TIMEOUT = 10  # seconds
 DEFAULT_PORT = 5000
 DEFAULT_HOST = "0.0.0.0"
@@ -1472,13 +1472,16 @@ def error_response(message: str, status_code: int = 400) -> tuple:
     }), status_code
 
 
-def success_response(data: Any) -> Dict[str, Any]:
-    """Create a standardized success response."""
-    return jsonify({
+def success_response(data: Any):
+    """Create a standardized success response that must not be cached."""
+    response = jsonify({
         'success': True,
         'data': data,
         'timestamp': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z')
     })
+    response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+    response.headers["Pragma"] = "no-cache"
+    return response
 
 
 def require_data(f):
@@ -1649,7 +1652,10 @@ def get_output_json():
         return error_response(f"{OUTPUT_FILE} not found", 404)
     
     try:
-        return send_file(OUTPUT_FILE, mimetype='application/json')
+        response = send_file(OUTPUT_FILE, mimetype='application/json', max_age=0)
+        response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate, max-age=0"
+        response.headers["Pragma"] = "no-cache"
+        return response
     except Exception as e:
         logger.error(f"Error serving {OUTPUT_FILE}: {e}")
         return error_response(f"Error serving file: {str(e)}", 500)
@@ -1657,21 +1663,27 @@ def get_output_json():
 
 @app.route('/api/data/trending_cluster.json', methods=['GET'])
 def get_trending_cluster_json():
-    """
-    Fetch and return the trending_cluster.json file from GitHub.
-    
-    This endpoint fetches the file from the GitHub repository's main branch
-    using the raw content URL: https://raw.githubusercontent.com/MridulEcolab/TestPipeline/main/trending_cluster.json
-    """
+    """Return the current trending file, never a cached copy from an older repo."""
     logger.info("GET /api/data/trending_cluster.json")
-    
-    # Construct the full GitHub URL using urljoin for robustness
+
+    if os.path.exists(TRENDING_CLUSTER_FILE):
+        try:
+            with open(TRENDING_CLUSTER_FILE, "r", encoding="utf-8") as handle:
+                trending_data = json.load(handle)
+            logger.info("Serving local trending_cluster.json")
+            return success_response(trending_data)
+        except json.JSONDecodeError as e:
+            logger.error(f"Invalid local trending JSON: {e}")
+
     github_url = urljoin(GITHUB_RAW_BASE_URL, TRENDING_CLUSTER_FILE)
-    
     try:
-        # Fetch the file from GitHub
         logger.info(f"Fetching from: {github_url}")
-        response = requests.get(github_url, timeout=GITHUB_REQUEST_TIMEOUT)
+        response = requests.get(
+            github_url,
+            timeout=GITHUB_REQUEST_TIMEOUT,
+            headers={"Cache-Control": "no-cache", "Pragma": "no-cache"},
+            params={"t": int(datetime.now(timezone.utc).timestamp())},
+        )
         
         if response.status_code == 404:
             return error_response(f"File not found on GitHub: {TRENDING_CLUSTER_FILE}", 404)

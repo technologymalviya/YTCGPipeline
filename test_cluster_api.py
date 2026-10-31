@@ -259,12 +259,14 @@ class TestClusterAPI:
                 assert 'generatedAt' in trending_data, "Should contain generatedAt timestamp"
                 assert 'clusterCount' in trending_data, "Should contain clusterCount"
                 
-                # Verify clusters are sorted by trendScore descending
+                # Pinned categories lead. The remaining topics follow trend score.
                 clusters = trending_data['clusters']
-                if len(clusters) > 1:
-                    for i in range(len(clusters) - 1):
-                        current = clusters[i]['trendScore']
-                        next_item = clusters[i + 1]['trendScore']
+                pinned = {"New Movie Release", "Song", "CM", "All Chhattisgarh", "All Madhya Pradesh"}
+                rest = [cluster for cluster in clusters if cluster.get("topic") not in pinned]
+                if len(rest) > 1:
+                    for i in range(len(rest) - 1):
+                        current = rest[i]['trendScore']
+                        next_item = rest[i + 1]['trendScore']
                         assert current >= next_item, "Clusters should be sorted by trendScore descending"
                 
                 # Verify each cluster has topVideos
