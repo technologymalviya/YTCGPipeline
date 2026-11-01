@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T18:39:45.888968Z",
+  "generatedAt": "2026-11-01T06:30:00.474553Z",
   "clusterCount": 6,
   "clusters": [
     {
       "clusterId": "song",
       "topic": "Song",
       "videoCount": 2,
-      "trendScore": 47.9,
+      "trendScore": 42.8,
       "topVideos": [
         {
           "index": 1,
@@ -45,7 +45,7 @@
       "clusterId": "cm",
       "topic": "CM",
       "videoCount": 1,
-      "trendScore": 45.6,
+      "trendScore": 40.6,
       "topVideos": [
         {
           "index": 1,
@@ -69,7 +69,7 @@
       "clusterId": "all-chhattisgarh",
       "topic": "All Chhattisgarh",
       "videoCount": 13,
-      "trendScore": 57.4,
+      "trendScore": 50.1,
       "topVideos": [
         {
           "index": 1,
@@ -280,8 +280,8 @@
     {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
-      "videoCount": 2,
-      "trendScore": 56.2,
+      "videoCount": 3,
+      "trendScore": 46.6,
       "topVideos": [
         {
           "index": 1,
@@ -312,6 +312,21 @@
           "likes": 281,
           "videoType": "VOD",
           "genre": "Politics"
+        },
+        {
+          "index": 3,
+          "videoId": "9iB-wETEDDM",
+          "title": "दुर्ग में जेपी नड्‌डा और CM की पदयात्रा समाप्त, कांग्रेस को खूब कोसा...",
+          "description": "दुर्ग में जेपी नड्‌डा और CM की पदयात्रा समाप्त, कांग्रेस को खूब कोसा.",
+          "channelTitle": "Bhilai Times",
+          "publishedAt": "2026-10-31T02:30:34Z",
+          "thumbnail": "https://i.ytimg.com/vi/9iB-wETEDDM/hqdefault.jpg",
+          "durationSeconds": 101,
+          "durationFormatted": "01:41",
+          "views": 7389,
+          "likes": 260,
+          "videoType": "VOD",
+          "genre": "Politics"
         }
       ],
       "latestUpdateAt": "2026-10-31T14:00:21Z"
@@ -320,7 +335,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 54.0,
+      "trendScore": 46.6,
       "topVideos": [
         {
           "index": 1,
