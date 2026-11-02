@@ -1,5 +1,6 @@
 import json
 import os
+from datetime import datetime, timezone
 from unittest.mock import patch
 
 import generate_json as gj
@@ -173,25 +174,28 @@ def test_generate_ott_json_adds_city_section_index_zero():
 
 # === Tests that mock YouTube API calls ===
 def mocked_requests_get(url, params=None, timeout=None, **kwargs):
-    # Simulate search endpoint
-    if url == gj.YOUTUBE_SEARCH_URL:
-        # Return a single video item for the search
-        search_json = {
+    # Simulate the uploads playlist. The title must be inside the last-day window.
+    if url == gj.YOUTUBE_PLAYLIST_URL:
+        published = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        playlist_json = {
             "items": [
                 {
-                    "id": {"videoId": "vid1"},
                     "snippet": {
                         "title": "Test video title",
                         "description": "A short description",
                         "channelTitle": "TestChannel",
-                        "publishedAt": "2026-01-11T10:00:00Z",
+                        "publishedAt": published,
                         "thumbnails": {"high": {"url": "http://example.com/thumb.jpg"}},
-                        "liveBroadcastContent": "none"
-                    }
+                        "resourceId": {"videoId": "vid1"},
+                    },
+                    "contentDetails": {
+                        "videoId": "vid1",
+                        "videoPublishedAt": published,
+                    },
                 }
             ]
         }
-        return MockResponse(200, search_json)
+        return MockResponse(200, playlist_json)
     # Simulate videos endpoint
     elif url == gj.YOUTUBE_VIDEOS_URL:
         videos_json = {

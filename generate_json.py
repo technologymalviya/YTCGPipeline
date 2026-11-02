@@ -44,7 +44,7 @@ REQUEST_TIMEOUT = 20
 OUTPUT_FILE_NAME = "output.json"
 
 # YouTube API Configuration
-YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
+YOUTUBE_PLAYLIST_URL = "https://www.googleapis.com/youtube/v3/playlistItems"
 YOUTUBE_VIDEOS_URL = "https://www.googleapis.com/youtube/v3/videos"
 
 # Environment Variable Names
@@ -223,8 +223,12 @@ def switch_to_next_api_key():
     return False
 
 def is_quota_exceeded_error(response):
-    """Check if the error is a quota exceeded error."""
-    if response.status_code == 403:
+    """Check if the error is a quota exceeded error.
+
+    YouTube returns 403 for the daily unit quota and 429 when the search
+    query cap is hit. Both should move on to the next API key.
+    """
+    if response.status_code in (403, 429):
         try:
             error_data = response.json()
             error_obj = error_data.get("error", {})
@@ -1388,30 +1392,29 @@ def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
 
 
 def fetch_latest_videos_for_channel(channel_id: str) -> List[Dict]:
-    """Fetch latest videos from a channel."""
-    published_after = (
-        datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
-    ).isoformat().replace("+00:00", "Z")
-    
-    # Retry logic with API key fallback
+    """Fetch a channel's latest uploads from its uploads playlist.
+
+    search.list is capped at 100 calls a day, which this pipeline burns through.
+    The uploads playlist costs one unit and returns the same recent videos.
+    Anything older than LAST_HOURS_FILTER is dropped after the response.
+    """
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
+    playlist_id = "UU" + channel_id[2:] if channel_id.startswith("UC") else channel_id
+
     while True:
         api_key = get_current_api_key()
         if not api_key:
             return []
-            
+
         params = {
-            "part": "snippet",
-            "channelId": channel_id,
-            "order": "date",
+            "part": "snippet,contentDetails",
+            "playlistId": playlist_id,
             "maxResults": MAX_RESULTS,
-            "type": "video",
             "key": api_key,
-            "safeSearch": "strict",
-            "publishedAfter": published_after,
         }
-        
+
         try:
-            response = requests.get(YOUTUBE_SEARCH_URL, params=params, timeout=REQUEST_TIMEOUT)
+            response = requests.get(YOUTUBE_PLAYLIST_URL, params=params, timeout=REQUEST_TIMEOUT)
             if response.status_code == 200:
                 break
             elif is_quota_exceeded_error(response):
@@ -1433,34 +1436,43 @@ def fetch_latest_videos_for_channel(channel_id: str) -> List[Dict]:
         except Exception as e:
             print(f"[NETWORK ERROR] channel {channel_id}: {e}")
             return []
-    
+
     items = response.json().get("items", [])
-    video_ids = [item["id"]["videoId"] for item in items if item.get("id", {}).get("videoId")]
-    video_details = fetch_video_details(video_ids)
-    
-    videos: List[Dict] = []
+    recent_items = []
     for item in items:
-        vid_dict = item.get("id", {})
-        video_id = vid_dict.get("videoId")
-        if not video_id:
+        snippet = item.get("snippet") or {}
+        content = item.get("contentDetails") or {}
+        published_at = content.get("videoPublishedAt") or snippet.get("publishedAt") or ""
+        video_id = (snippet.get("resourceId") or {}).get("videoId") or content.get("videoId")
+        if not video_id or not published_at:
             continue
-        snippet = item.get("snippet", {})
+        try:
+            published_dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        if published_dt < cutoff:
+            continue
+        recent_items.append((video_id, snippet, published_at))
+
+    video_details = fetch_video_details([video_id for video_id, _, _ in recent_items])
+
+    videos: List[Dict] = []
+    for video_id, snippet, published_at in recent_items:
         video_info = video_details.get(video_id, {})
-        
         videos.append({
             "videoId": video_id,
             "title": snippet.get("title"),
             "description": snippet.get("description"),
             "channelTitle": snippet.get("channelTitle"),
-            "publishedAt": snippet.get("publishedAt"),
-            "thumbnail": snippet.get("thumbnails", {}).get("high", {}).get("url"),
+            "publishedAt": published_at,
+            "thumbnail": (snippet.get("thumbnails") or {}).get("high", {}).get("url"),
             "durationSeconds": video_info.get("durationSeconds"),
             "durationFormatted": video_info.get("durationFormatted"),
             "views": video_info.get("views", 0),
             "likes": video_info.get("likes", 0),
             "videoType": video_info.get("videoType", VIDEO_TYPE_UNKNOWN),
         })
-    
+
     return videos
 
 
