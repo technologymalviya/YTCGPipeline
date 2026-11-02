@@ -58,7 +58,7 @@ Comprehensive logging has been added to track OpenAI classification usage in the
 [OpenAI] Attempting classification for: सड़क दुर्घटना में तीन लोग घायल...
 [OpenAI] API call attempt 1/3 (model: gpt-4o-mini)
 [OpenAI] API call successful (attempt 1)
-[OpenAI] Classification successful: "Traffic" → Traffic
+[OpenAI] Classification successful: "Negative" → Negative
 [OpenAI] Attempting classification for: नौकरी सूचना: 100 पदों पर भर्ती...
 [OpenAI] API call attempt 1/3 (model: gpt-4o-mini)
 [OpenAI] API call successful (attempt 1)

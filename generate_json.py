@@ -137,8 +137,8 @@ VIDEO_TYPE_UNKNOWN = "UNKNOWN"
 # Genre Constants
 GENRE_LIVE = "Live"
 GENRE_SCHEDULED = "Scheduled"
-GENRE_CRIME = "Crime"
-GENRE_TRAFFIC = "Traffic"
+# Crime and road incidents share one public genre so the client never renders them apart.
+GENRE_NEGATIVE = "Negative"
 GENRE_POLITICS = "Politics"
 GENRE_JOBS = "Jobs"
 GENRE_EVENTS = "Events"
@@ -157,8 +157,6 @@ PODCAST_ALLOWED_CHANNEL_TITLES = [
 # Section Names
 SECTION_LIVE = "Live"
 SECTION_SCHEDULED = "Scheduled"
-SECTION_CRIME = "Crime"
-SECTION_TRAFFIC = "Traffic"
 SECTION_NEGATIVE = "Negative"
 SECTION_POLITICS = "Politics"
 SECTION_JOBS = "Jobs"
@@ -169,7 +167,7 @@ SECTION_GENERAL = "General"
 
 # Section -> Index map (per requested mapping)
 # Mapping: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Negative" 7
-# Negative is the single tab/rail for Crime and Traffic.
+# Negative is the only harm tab. Items in it also use genre Negative.
 SECTION_INDEX = {
     "General": 1,
     "Podcast": 2,
@@ -460,8 +458,7 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
         
         # Prepare prompt
         prompt = f"""Classify this video into ONE of these genres based on title and description:
-- Crime: Criminal cases and any negative news: deaths, disasters, crop loss, blasts, raids, arrests, fraud, missing people, violence, allegations of harm. If the story is bad news, choose Crime even when a politician is mentioned.
-- Traffic: Road accidents, traffic jams, vehicle collisions, highway incidents only
+- Negative: Crime, road accidents, traffic jams, collisions, and any harmful news: deaths, disasters, crop loss, blasts, raids, arrests, fraud, missing people, violence. If the story is bad news, choose Negative even when a politician is mentioned.
 - Jobs: Only hiring/recruitment/vacancy/admit card/merit lists/government job exams — NOT school board exam human-interest, NOT investigative stories about doctors' private practice or staff shortages
 - Events: Festivals, ceremonies, celebrations, inaugurations, cultural or sports events (not crime controversies, not IPL betting)
 - Civic: Municipal services, civic issues, government services, certificates, utilities
@@ -471,7 +468,7 @@ def classify_genre_with_openai(title: str, description: str = "") -> Optional[st
 Title: {title}
 Description: {description[:500]}
 
-Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics, or General)."""
+Respond with ONLY the genre name (Negative, Jobs, Events, Civic, Politics, or General)."""
         
         # Estimate tokens (rough: 1 token ≈ 4 characters)
         estimated_tokens = len(prompt) // 4 + OPENAI_MAX_TOKENS
@@ -588,8 +585,9 @@ Respond with ONLY the genre name (Crime, Traffic, Jobs, Events, Civic, Politics,
         
         # Validate and map genre
         genre_map = {
-            "crime": GENRE_CRIME,
-            "traffic": GENRE_TRAFFIC,
+            "negative": GENRE_NEGATIVE,
+            "crime": GENRE_NEGATIVE,
+            "traffic": GENRE_NEGATIVE,
             "jobs": GENRE_JOBS,
             "events": GENRE_EVENTS,
             "civic": GENRE_CIVIC,
@@ -721,7 +719,7 @@ def classify_genre(title: str, description: str = "", published_at: str = None, 
         openai_result = classify_genre_with_openai(title, description)
         if openai_result:
             scores = semantic_context_scores(title, description)
-            return apply_negative_crime_context(openai_result, scores)
+            return apply_negative_context(openai_result, scores)
     
     # Use keyword-based classification for older videos or if OpenAI fails
     keyword_result = classify_genre_keyword_based(title, description)
@@ -1039,10 +1037,11 @@ def _classify_genre_by_keywords(title: str, description: str = "") -> str:
         if pattern.search(text):
             return GENRE_GENERAL
 
-    # Traffic - check BEFORE Crime (road accidents can have deaths but should be Traffic)
+    # Road harm is checked before other harm so a highway death is claimed here.
+    # Both still publish as Negative. There is no separate Traffic genre.
     for pattern in traffic_patterns:
         if pattern.search(text):
-            return GENRE_TRAFFIC
+            return GENRE_NEGATIVE
 
     # Jobs - employment opportunities
     _jobs_skip_substrings = [
@@ -1082,7 +1081,7 @@ def _classify_genre_by_keywords(title: str, description: str = "") -> str:
     # Crime - check BEFORE Events to catch crimes at events (e.g., "मेला में दुष्कर्म")
     for pattern in crime_patterns:
         if pattern.search(text):
-            return GENRE_CRIME
+            return GENRE_NEGATIVE
     
     # Events - check BEFORE Politics to catch conferences/events/launches (not political discussions)
     _events_crime_story_markers = [
@@ -1120,9 +1119,8 @@ def _classify_genre_by_keywords(title: str, description: str = "") -> str:
     return GENRE_GENERAL
 
 
-# Context prototypes for cosine similarity. Negative / harm stories sit on Crime
-# so a partial overlap (crop loss, raid, death, blast) still beats a passing
-# politician or city name.
+# Context prototypes for cosine similarity. Harm stories, including road incidents,
+# sit on Negative so a partial overlap still beats a passing politician or city name.
 _CONTEXT_STOPWORDS = {
     "the", "a", "an", "of", "in", "on", "to", "for", "and", "or", "is", "are",
     "with", "from", "at", "by", "this", "that", "news", "update", "live",
@@ -1151,7 +1149,7 @@ _CONTEXT_PHRASES = (
 )
 
 _GENRE_CONTEXT_EXAMPLES = {
-    GENRE_CRIME: [
+    GENRE_NEGATIVE: [
         "murder arrested raid fraud scam robbery theft kidnapping shooting blast explosion missing torture accused",
         "हत्या गिरफ्तार गिरफ्तारी छापेमारी ठगी घोटाला लूट चोरी अपहरण लापता फरार विस्फोट आरोपी कांड",
         "फसल बर्बाद फसल को नुकसान फसलें तबाह किसानों की फसल चौपट चक्रवात से तबाही कहर संकट",
@@ -1161,8 +1159,6 @@ _GENRE_CONTEXT_EXAMPLES = {
         "ईडी रेड एसीबी छापा वसूली धोखाधड़ी गंभीर आरोप",
         "मारपीट हमला हिंसा फायरिंग गोली चाकू बवाल",
         "मंगलसूत्र छीन snatching chain snatching",
-    ],
-    GENRE_TRAFFIC: [
         "road accident car crash traffic jam collision highway overturned hit and run",
         "सड़क दुर्घटना कार हादसा टक्कर जाम ट्रैफिक पलटी एक्सीडेंट",
     ],
@@ -1189,9 +1185,9 @@ _GENRE_CONTEXT_EXAMPLES = {
     ],
 }
 
-# Crime wins when its context cosine is real and close to the next-best genre.
-SEMANTIC_CRIME_MIN = 0.12
-SEMANTIC_CRIME_RATIO = 0.72
+# Negative wins when its context cosine is real and close to the next-best genre.
+SEMANTIC_NEGATIVE_MIN = 0.12
+SEMANTIC_NEGATIVE_RATIO = 0.72
 
 _context_idf: Optional[Dict[str, float]] = None
 _genre_example_vectors: Optional[Dict[str, List[Dict[str, float]]]] = None
@@ -1282,31 +1278,32 @@ def semantic_context_scores(title: str, description: str = "") -> Dict[str, floa
     return scores
 
 
-def apply_negative_crime_context(genre: str, scores: Dict[str, float]) -> str:
-    """Move negative stories into Crime when that context is the closest match.
+def apply_negative_context(genre: str, scores: Dict[str, float]) -> str:
+    """Move harm stories, including road incidents, to Negative when that context is closest.
 
-    Road-traffic stories stay Traffic. Podcast, Live, and Scheduled labels are left alone.
+    Podcast, Live, Scheduled, and an existing Negative label are left alone.
+    Crime and Traffic are not public genres.
     """
-    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_CRIME):
+    if genre in ("Crime", "Traffic"):
+        return GENRE_NEGATIVE
+    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE):
         return genre
-    if genre == GENRE_TRAFFIC:
-        return GENRE_TRAFFIC
-    crime = scores.get(GENRE_CRIME, 0.0)
-    best_other = max((value for name, value in scores.items() if name != GENRE_CRIME), default=0.0)
-    if crime >= SEMANTIC_CRIME_MIN and crime >= best_other * SEMANTIC_CRIME_RATIO:
-        return GENRE_CRIME
+    negative = scores.get(GENRE_NEGATIVE, 0.0)
+    best_other = max((value for name, value in scores.items() if name != GENRE_NEGATIVE), default=0.0)
+    if negative >= SEMANTIC_NEGATIVE_MIN and negative >= best_other * SEMANTIC_NEGATIVE_RATIO:
+        return GENRE_NEGATIVE
     return genre
 
 
 def classify_genre_keyword_based(title: str, description: str = "", channel_title: str = "") -> str:
-    """Classify by keywords, then pull negative context into Crime.
+    """Classify by keywords, then pull harm context into Negative.
 
     Every video from a podcast channel is Podcast, as is any title that is itself a podcast.
     """
     if _is_podcast_video(title, description, channel_title):
         return GENRE_PODCAST
     genre = _classify_genre_by_keywords(title, description)
-    return apply_negative_crime_context(genre, semantic_context_scores(title, description))
+    return apply_negative_context(genre, semantic_context_scores(title, description))
 
 
 def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
@@ -1543,7 +1540,7 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                         if _is_podcast_video(title, description, channel_title):
                             v["genre"] = GENRE_PODCAST
                         else:
-                            v["genre"] = apply_negative_crime_context(
+                            v["genre"] = apply_negative_context(
                                 openai_result, semantic_context_scores(title, description)
                             )
                         openai_count += 1
@@ -1893,8 +1890,11 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
     live_news = filter_by_genre(other_feed, [GENRE_LIVE])
     general_news = filter_by_genre(other_feed, [GENRE_GENERAL])
     politics_news = filter_by_genre(other_feed, [GENRE_POLITICS])
-    # One tab and one rail: crime and traffic together, newest first.
-    negative_news = filter_by_genre(other_feed, [GENRE_CRIME, GENRE_TRAFFIC])
+    # One genre, one tab. Newest publishedAt first. Never emit Crime or Traffic.
+    for video in other_feed:
+        if video.get("genre") in ("Crime", "Traffic"):
+            video["genre"] = GENRE_NEGATIVE
+    negative_news = filter_by_genre(other_feed, [GENRE_NEGATIVE])
     negative_news.sort(key=lambda v: v.get("publishedAt") or "", reverse=True)
     jobs_news = filter_by_genre(other_feed, [GENRE_JOBS])
     events_news = filter_by_genre(other_feed, [GENRE_EVENTS])

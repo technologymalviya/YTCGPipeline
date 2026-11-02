@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T19:00:34.081967Z",
+  "generatedAt": "2026-11-02T05:59:07.927602Z",
   "clusterCount": 10,
   "clusters": [
     {
       "clusterId": "song",
       "topic": "Song",
       "videoCount": 1,
-      "trendScore": 43.4,
+      "trendScore": 35.2,
       "topVideos": [
         {
           "index": 1,
@@ -30,7 +30,7 @@
       "clusterId": "cm",
       "topic": "CM",
       "videoCount": 25,
-      "trendScore": 49.4,
+      "trendScore": 40.9,
       "topVideos": [
         {
           "index": 1,
@@ -120,7 +120,7 @@
           "views": 464,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 7,
@@ -225,7 +225,7 @@
           "views": 51,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 14,
@@ -255,7 +255,7 @@
           "views": 42,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 16,
@@ -414,7 +414,7 @@
       "clusterId": "all-chhattisgarh",
       "topic": "All Chhattisgarh",
       "videoCount": 159,
-      "trendScore": 61.0,
+      "trendScore": 53.0,
       "topVideos": [
         {
           "index": 1,
@@ -444,7 +444,7 @@
           "views": 69404,
           "likes": 449,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 3,
@@ -519,7 +519,7 @@
           "views": 12449,
           "likes": 95,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 8,
@@ -534,7 +534,7 @@
           "views": 11639,
           "likes": 152,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 9,
@@ -549,7 +549,7 @@
           "views": 11242,
           "likes": 271,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 10,
@@ -564,7 +564,7 @@
           "views": 8080,
           "likes": 217,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 11,
@@ -579,7 +579,7 @@
           "views": 7818,
           "likes": 77,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 12,
@@ -594,7 +594,7 @@
           "views": 6161,
           "likes": 71,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 13,
@@ -624,7 +624,7 @@
           "views": 5250,
           "likes": 205,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 15,
@@ -729,7 +729,7 @@
           "views": 3152,
           "likes": 24,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 22,
@@ -744,7 +744,7 @@
           "views": 2159,
           "likes": 6,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 23,
@@ -774,7 +774,7 @@
           "views": 1864,
           "likes": 9,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 25,
@@ -789,7 +789,7 @@
           "views": 1832,
           "likes": 56,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 26,
@@ -849,7 +849,7 @@
           "views": 1560,
           "likes": 19,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 30,
@@ -924,7 +924,7 @@
           "views": 1260,
           "likes": 9,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 35,
@@ -939,7 +939,7 @@
           "views": 1154,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 36,
@@ -1134,7 +1134,7 @@
           "views": 530,
           "likes": 8,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 49,
@@ -1164,7 +1164,7 @@
           "views": 464,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 51,
@@ -1314,7 +1314,7 @@
           "views": 249,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 61,
@@ -1344,7 +1344,7 @@
           "views": 244,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 63,
@@ -1404,7 +1404,7 @@
           "views": 201,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 67,
@@ -1434,7 +1434,7 @@
           "views": 174,
           "likes": 2,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 69,
@@ -1479,7 +1479,7 @@
           "views": 146,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 72,
@@ -1494,7 +1494,7 @@
           "views": 142,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 73,
@@ -1509,7 +1509,7 @@
           "views": 140,
           "likes": 5,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 74,
@@ -1524,7 +1524,7 @@
           "views": 136,
           "likes": 9,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 75,
@@ -1539,7 +1539,7 @@
           "views": 129,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 76,
@@ -1554,7 +1554,7 @@
           "views": 128,
           "likes": 2,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "Negative"
         },
         {
           "index": 77,
@@ -1569,7 +1569,7 @@
           "views": 124,
           "likes": 5,
           "videoType": "VOD",
-          "genre": "Traffic"
+          "genre": "Negative"
         },
         {
           "index": 78,
@@ -1689,7 +1689,7 @@
           "views": 79,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 86,
@@ -1779,7 +1779,7 @@
           "views": 63,
           "likes": 2,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 92,
@@ -1839,7 +1839,7 @@
           "views": 60,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 96,
@@ -1914,7 +1914,7 @@
           "views": 52,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 101,
@@ -1929,7 +1929,7 @@
           "views": 51,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 102,
@@ -2004,7 +2004,7 @@
           "views": 39,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 107,
@@ -2034,7 +2034,7 @@
           "views": 38,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 109,
@@ -2124,7 +2124,7 @@
           "views": 26,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 115,
@@ -2139,7 +2139,7 @@
           "views": 25,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 116,
@@ -2184,7 +2184,7 @@
           "views": 24,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 119,
@@ -2289,7 +2289,7 @@
           "views": 16,
           "likes": 4,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 126,
@@ -2439,7 +2439,7 @@
           "views": 8,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 136,
@@ -2454,7 +2454,7 @@
           "views": 7,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 137,
@@ -2544,7 +2544,7 @@
           "views": 6,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 143,
@@ -2559,7 +2559,7 @@
           "views": 6,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 144,
@@ -2694,7 +2694,7 @@
           "views": 4,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 153,
@@ -2724,7 +2724,7 @@
           "views": 3,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 155,
@@ -2799,7 +2799,7 @@
           "views": 1,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         }
       ],
       "latestUpdateAt": "2026-11-01T18:24:45Z"
@@ -2808,7 +2808,7 @@
       "clusterId": "all-madhya-pradesh",
       "topic": "All Madhya Pradesh",
       "videoCount": 35,
-      "trendScore": 53.6,
+      "trendScore": 45.1,
       "topVideos": [
         {
           "index": 1,
@@ -2823,7 +2823,7 @@
           "views": 12449,
           "likes": 95,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 2,
@@ -2838,7 +2838,7 @@
           "views": 1864,
           "likes": 9,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 3,
@@ -3048,7 +3048,7 @@
           "views": 42,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 17,
@@ -3243,7 +3243,7 @@
           "views": 8,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 30,
@@ -3318,7 +3318,7 @@
           "views": 1,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 35,
@@ -3339,10 +3339,94 @@
       "latestUpdateAt": "2026-11-01T18:19:04Z"
     },
     {
+      "clusterId": "chhattisgarh-samachar",
+      "topic": "Chhattisgarh Samachar",
+      "videoCount": 5,
+      "trendScore": 48.0,
+      "topVideos": [
+        {
+          "index": 1,
+          "videoId": "ffRnquvMYeI",
+          "title": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, Media CG News",
+          "description": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, Media ...",
+          "channelTitle": "Media Chhattisgarh",
+          "publishedAt": "2026-10-31T23:40:32Z",
+          "thumbnail": "https://i.ytimg.com/vi/ffRnquvMYeI/hqdefault.jpg",
+          "durationSeconds": 1165,
+          "durationFormatted": "19:25",
+          "views": 56283,
+          "likes": 771,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 2,
+          "videoId": "guuBfeQ0qZo",
+          "title": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, Suprabhat News",
+          "description": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, ...",
+          "channelTitle": "Suprabhat News  Chhattisgarh",
+          "publishedAt": "2026-10-31T23:19:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/guuBfeQ0qZo/hqdefault.jpg",
+          "durationSeconds": 725,
+          "durationFormatted": "12:05",
+          "views": 37076,
+          "likes": 310,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 3,
+          "videoId": "4sT6wieJwds",
+          "title": "Chhattisgarh Rajyotsav 2026: राज्योत्सव 2026 का शानदार शुभारंभ! जश्न के रंग में रंगा छत्तीसगढ़",
+          "description": "IBC24, Chhattisgarh Rajyotsav 2026: राज्योत्सव 2026 का शानदार शुभारंभ! जश्न के रंग में ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-11-01T15:42:41Z",
+          "thumbnail": "https://i.ytimg.com/vi/4sT6wieJwds/hqdefault.jpg",
+          "durationSeconds": 2500,
+          "durationFormatted": "41:40",
+          "views": 4016,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "Events"
+        },
+        {
+          "index": 4,
+          "videoId": "i9Qjkriqx-k",
+          "title": "Chhattisgarh Rajyotsav 2026 : छत्तीसगढ़ में राज्योत्सव दी धूम | उमड़ी लोगों की भीड़ | CG Sthapana Diwas",
+          "description": "Chhattisgarh Rajyotsav 2026 : छत्तीसगढ़ में राज्योत्सव दी धूम | उमड़ी लोगों की ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-11-01T13:03:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/i9Qjkriqx-k/hqdefault.jpg",
+          "durationSeconds": 378,
+          "durationFormatted": "06:18",
+          "views": 3202,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 5,
+          "videoId": "_r4ACCh5dKY",
+          "title": "🔴Sthapana Diwas 2026: Chhattisgarh के 26 साल! क्या बदला, क्या बाकी? दिग्गजों के साथ खास चर्चा",
+          "description": "IBC24, Sthapana Diwas 2026: Chhattisgarh के 26 साल! क्या बदला, क्या बाकी? दिग्गजों के ...",
+          "channelTitle": "IBC24",
+          "publishedAt": "2026-11-01T13:13:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/_r4ACCh5dKY/hqdefault.jpg",
+          "durationSeconds": 3060,
+          "durationFormatted": "51:00",
+          "views": 1703,
+          "likes": 0,
+          "videoType": "VOD",
+          "genre": "General"
+        }
+      ],
+      "latestUpdateAt": "2026-11-01T15:42:41Z"
+    },
+    {
       "clusterId": "public-sector-exam",
       "topic": "Public Sector Exam",
       "videoCount": 18,
-      "trendScore": 56.3,
+      "trendScore": 47.8,
       "topVideos": [
         {
           "index": 1,
@@ -3372,7 +3456,7 @@
           "views": 8080,
           "likes": 217,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 3,
@@ -3402,7 +3486,7 @@
           "views": 3152,
           "likes": 24,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 5,
@@ -3417,7 +3501,7 @@
           "views": 2159,
           "likes": 6,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 6,
@@ -3432,7 +3516,7 @@
           "views": 1864,
           "likes": 9,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 7,
@@ -3522,7 +3606,7 @@
           "views": 464,
           "likes": 0,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 13,
@@ -3612,100 +3696,16 @@
           "views": 136,
           "likes": 9,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         }
       ],
       "latestUpdateAt": "2026-11-01T17:54:35Z"
     },
     {
-      "clusterId": "chhattisgarh-samachar",
-      "topic": "Chhattisgarh Samachar",
-      "videoCount": 5,
-      "trendScore": 54.6,
-      "topVideos": [
-        {
-          "index": 1,
-          "videoId": "ffRnquvMYeI",
-          "title": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, Media CG News",
-          "description": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, Media ...",
-          "channelTitle": "Media Chhattisgarh",
-          "publishedAt": "2026-10-31T23:40:32Z",
-          "thumbnail": "https://i.ytimg.com/vi/ffRnquvMYeI/hqdefault.jpg",
-          "durationSeconds": 1165,
-          "durationFormatted": "19:25",
-          "views": 56283,
-          "likes": 771,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 2,
-          "videoId": "guuBfeQ0qZo",
-          "title": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, Suprabhat News",
-          "description": "Chhattisgarh News Today | 1 नवंबर 2026 छत्तीसगढ़ की फटाफट बड़ी खबरें, CG Samachar, ...",
-          "channelTitle": "Suprabhat News  Chhattisgarh",
-          "publishedAt": "2026-10-31T23:19:36Z",
-          "thumbnail": "https://i.ytimg.com/vi/guuBfeQ0qZo/hqdefault.jpg",
-          "durationSeconds": 725,
-          "durationFormatted": "12:05",
-          "views": 37076,
-          "likes": 310,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 3,
-          "videoId": "4sT6wieJwds",
-          "title": "Chhattisgarh Rajyotsav 2026: राज्योत्सव 2026 का शानदार शुभारंभ! जश्न के रंग में रंगा छत्तीसगढ़",
-          "description": "IBC24, Chhattisgarh Rajyotsav 2026: राज्योत्सव 2026 का शानदार शुभारंभ! जश्न के रंग में ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-11-01T15:42:41Z",
-          "thumbnail": "https://i.ytimg.com/vi/4sT6wieJwds/hqdefault.jpg",
-          "durationSeconds": 2500,
-          "durationFormatted": "41:40",
-          "views": 4016,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "Events"
-        },
-        {
-          "index": 4,
-          "videoId": "i9Qjkriqx-k",
-          "title": "Chhattisgarh Rajyotsav 2026 : छत्तीसगढ़ में राज्योत्सव दी धूम | उमड़ी लोगों की भीड़ | CG Sthapana Diwas",
-          "description": "Chhattisgarh Rajyotsav 2026 : छत्तीसगढ़ में राज्योत्सव दी धूम | उमड़ी लोगों की ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-11-01T13:03:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/i9Qjkriqx-k/hqdefault.jpg",
-          "durationSeconds": 378,
-          "durationFormatted": "06:18",
-          "views": 3202,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        },
-        {
-          "index": 5,
-          "videoId": "_r4ACCh5dKY",
-          "title": "🔴Sthapana Diwas 2026: Chhattisgarh के 26 साल! क्या बदला, क्या बाकी? दिग्गजों के साथ खास चर्चा",
-          "description": "IBC24, Sthapana Diwas 2026: Chhattisgarh के 26 साल! क्या बदला, क्या बाकी? दिग्गजों के ...",
-          "channelTitle": "IBC24",
-          "publishedAt": "2026-11-01T13:13:47Z",
-          "thumbnail": "https://i.ytimg.com/vi/_r4ACCh5dKY/hqdefault.jpg",
-          "durationSeconds": 3060,
-          "durationFormatted": "51:00",
-          "views": 1703,
-          "likes": 0,
-          "videoType": "VOD",
-          "genre": "General"
-        }
-      ],
-      "latestUpdateAt": "2026-11-01T15:42:41Z"
-    },
-    {
       "clusterId": "location-bhilai",
       "topic": "Bhilai",
       "videoCount": 3,
-      "trendScore": 54.3,
+      "trendScore": 47.7,
       "topVideos": [
         {
           "index": 1,
@@ -3720,7 +3720,7 @@
           "views": 69404,
           "likes": 449,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 2,
@@ -3735,7 +3735,7 @@
           "views": 11242,
           "likes": 271,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 3,
@@ -3759,7 +3759,7 @@
       "clusterId": "location-raipur",
       "topic": "Raipur",
       "videoCount": 10,
-      "trendScore": 53.7,
+      "trendScore": 45.3,
       "topVideos": [
         {
           "index": 1,
@@ -3774,7 +3774,7 @@
           "views": 6161,
           "likes": 71,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 2,
@@ -3789,7 +3789,7 @@
           "views": 5250,
           "likes": 205,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 3,
@@ -3804,7 +3804,7 @@
           "views": 1832,
           "likes": 56,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 4,
@@ -3819,7 +3819,7 @@
           "views": 1560,
           "likes": 19,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 5,
@@ -3894,7 +3894,7 @@
           "views": 174,
           "likes": 2,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         },
         {
           "index": 10,
@@ -3917,8 +3917,8 @@
     {
       "clusterId": "bhaskar-chhattisgarh",
       "topic": "Bhaskar Chhattisgarh",
-      "videoCount": 7,
-      "trendScore": 50.9,
+      "videoCount": 8,
+      "trendScore": 43.5,
       "topVideos": [
         {
           "index": 1,
@@ -4012,6 +4012,21 @@
         },
         {
           "index": 7,
+          "videoId": "l7ZY16Y0MDU",
+          "title": "राजयोत्सव में ये रहेगी Parking की व्यवस्था | CG Bhaskar",
+          "description": "राजयोत्सव में ये रहेगी Parking की व्यवस्था | CG Bhaskar नवा रायपुर में होने ...",
+          "channelTitle": "CG Bhaskar",
+          "publishedAt": "2026-11-01T07:30:24Z",
+          "thumbnail": "https://i.ytimg.com/vi/l7ZY16Y0MDU/hqdefault.jpg",
+          "durationSeconds": 177,
+          "durationFormatted": "02:57",
+          "views": 335,
+          "likes": 15,
+          "videoType": "VOD",
+          "genre": "General"
+        },
+        {
+          "index": 8,
           "videoId": "_243B3JcNQg",
           "title": "सुनिए लोकतंत्र बचाओ अराजकता हटाओ रैली में पहुंचे लोगों ने क्या कहा | CG Bhaskar",
           "description": "सुनिए लोकतंत्र बचाओ अराजकता हटाओ रैली में पहुंचे लोगों ने क्या कहा ...",
@@ -4032,7 +4047,7 @@
       "clusterId": "festival",
       "topic": "Festival",
       "videoCount": 1,
-      "trendScore": 40.9,
+      "trendScore": 31.7,
       "topVideos": [
         {
           "index": 1,
@@ -4047,7 +4062,7 @@
           "views": 244,
           "likes": 1,
           "videoType": "VOD",
-          "genre": "Crime"
+          "genre": "Negative"
         }
       ],
       "latestUpdateAt": "2026-11-01T15:45:40Z"

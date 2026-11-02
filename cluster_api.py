@@ -1219,8 +1219,10 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(_named_cluster("cm", "CM", cm_videos))
         logger.info(f"Created CM cluster with {len(cm_videos)} videos")
 
-    clusters.append(_named_cluster("all-chhattisgarh", "All Chhattisgarh", cg_videos))
-    clusters.append(_named_cluster("all-madhya-pradesh", "All Madhya Pradesh", mp_videos))
+    if cg_videos:
+        clusters.append(_named_cluster("all-chhattisgarh", "All Chhattisgarh", cg_videos))
+    if mp_videos:
+        clusters.append(_named_cluster("all-madhya-pradesh", "All Madhya Pradesh", mp_videos))
     logger.info(
         f"Created All Chhattisgarh ({len(cg_videos)}) and All Madhya Pradesh ({len(mp_videos)})"
     )
@@ -1391,7 +1393,9 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
     summary_clusters = []
     for cluster in sorted_clusters:
         # All videos by views, unique videoId (avoids duplicate IDs in trending JSON)
-        videos = cluster.get('videos', [])
+        videos = cluster.get('videos', []) or []
+        if not videos:
+            continue
         sorted_videos = sorted(videos, key=lambda v: v.get('views', 0), reverse=True)
         seen_keys: Set[str] = set()
         top_videos: List[Dict[str, Any]] = []
@@ -1420,13 +1424,18 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
                 'videoType': video.get('videoType'),
                 'genre': video.get('genre')
             }
+            genre = video.get('genre')
+            if genre in ("Crime", "Traffic"):
+                video_summary["genre"] = "Negative"
             top_video_summaries.append(video_summary)
         
-        # Create cluster summary with required fields
+        if not top_video_summaries:
+            continue
+        # A topic with no videos is omitted so the client does not render an empty row.
         summary = {
             'clusterId': cluster.get('clusterId'),
             'topic': cluster.get('topic'),  # Auto-generated short headline
-            'videoCount': cluster.get('videoCount'),
+            'videoCount': len(top_video_summaries),
             'trendScore': cluster.get('trendScore'),
             'topVideos': top_video_summaries,
             'latestUpdateAt': cluster.get('latestUpdateAt')

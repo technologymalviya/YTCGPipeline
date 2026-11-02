@@ -48,8 +48,7 @@ from generate_json import (
     OPENAI_SAFETY_MARGIN_RPM,
     OPENAI_SAFETY_MARGIN_TPM,
     OPENAI_MAX_EXECUTION_TIME,
-    GENRE_CRIME,
-    GENRE_TRAFFIC,
+    GENRE_NEGATIVE,
     GENRE_JOBS,
     GENRE_EVENTS,
     GENRE_CIVIC,
@@ -70,10 +69,10 @@ class TestKeywordClassification(unittest.TestCase):
     def test_crime_classification(self):
         """Test crime genre classification."""
         test_cases = [
-            ("Murder case in city", "A murder happened", GENRE_CRIME),
-            ("हत्या का मामला", "कत्ल", GENRE_CRIME),
-            ("Police arrested suspect", "गिरफ्तार", GENRE_CRIME),
-            ("Kidnapping case reported", "अपहरण", GENRE_CRIME),
+            ("Murder case in city", "A murder happened", GENRE_NEGATIVE),
+            ("हत्या का मामला", "कत्ल", GENRE_NEGATIVE),
+            ("Police arrested suspect", "गिरफ्तार", GENRE_NEGATIVE),
+            ("Kidnapping case reported", "अपहरण", GENRE_NEGATIVE),
         ]
         
         for title, description, expected in test_cases:
@@ -84,9 +83,9 @@ class TestKeywordClassification(unittest.TestCase):
     def test_traffic_classification(self):
         """Test traffic genre classification."""
         test_cases = [
-            ("Road accident on highway", "कार हादसा", GENRE_TRAFFIC),
-            ("Traffic jam in city", "सड़क जाम", GENRE_TRAFFIC),
-            ("Car crash on expressway", "दुर्घटना", GENRE_TRAFFIC),
+            ("Road accident on highway", "कार हादसा", GENRE_NEGATIVE),
+            ("Traffic jam in city", "सड़क जाम", GENRE_NEGATIVE),
+            ("Car crash on expressway", "दुर्घटना", GENRE_NEGATIVE),
         ]
         
         for title, description, expected in test_cases:
@@ -158,7 +157,7 @@ class TestKeywordClassification(unittest.TestCase):
         self.assertEqual(result, GENRE_PODCAST)
 
     def test_negative_news_context_is_crime(self):
-        """Crop loss and raids are negative context, so cosine matching sends them to Crime."""
+        """Crop loss and raids are harm context, so cosine matching sends them to Negative."""
         cases = [
             "छत्तीसगढ़ में चक्रवात अर्नब ने किसानों की हजारों एकड़ धान की फसल बर्बाद",
             "Balaghat Double Money Fraud Scam : 600 करोड़ का बड़ा घोटाला",
@@ -167,7 +166,7 @@ class TestKeywordClassification(unittest.TestCase):
         for title in cases:
             with self.subTest(title=title):
                 result = classify_genre_keyword_based(title, "")
-                self.assertEqual(result, GENRE_CRIME, f"Expected Crime, got {result} for '{title}'")
+                self.assertEqual(result, GENRE_NEGATIVE, f"Expected Negative, got {result} for '{title}'")
 
     def test_general_classification(self):
         """Test general genre classification for non-specific content."""
@@ -217,7 +216,7 @@ class TestOpenAIClassification(unittest.TestCase):
         
         result = classify_genre_with_openai("Murder case reported", "A crime happened")
         
-        self.assertEqual(result, GENRE_CRIME)
+        self.assertEqual(result, GENRE_NEGATIVE)
         mock_client.chat.completions.create.assert_called_once()
     
     @patch('generate_json.openai')
@@ -395,7 +394,7 @@ class TestAddGenresToFeed(unittest.TestCase):
         result = add_genres_to_feed(feed)
         
         self.assertEqual(len(result), 1)
-        self.assertEqual(result[0]["genre"], GENRE_CRIME)  # Should use keyword-based
+        self.assertEqual(result[0]["genre"], GENRE_NEGATIVE)  # Should use keyword-based
     
     @patch('generate_json.classify_genre_with_openai')
     def test_openai_classification_for_recent_videos(self, mock_openai):
@@ -515,7 +514,7 @@ class TestAddGenresToFeed(unittest.TestCase):
         self.assertEqual(result[1]["genre"], GENRE_SCHEDULED)
         # Recent video might use OpenAI (if available) or keyword-based
         # Old video should use keyword-based
-        self.assertEqual(result[3]["genre"], GENRE_TRAFFIC)
+        self.assertEqual(result[3]["genre"], GENRE_NEGATIVE)
 
 
 def run_tests():

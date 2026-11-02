@@ -38,9 +38,9 @@ def test_normalize_and_replacements():
     assert "हादसा" in out or "h!dsa" not in out
 
 def test_classify_genre_basic():
-    assert gj.classify_genre("Major accident on highway") == gj.GENRE_TRAFFIC
+    assert gj.classify_genre("Major accident on highway") == gj.GENRE_NEGATIVE
     assert gj.classify_genre("सरकारी नौकरी भर्ती का विज्ञापन") == gj.GENRE_JOBS or gj.classify_genre("सरकारी नौकरी भर्ती का विज्ञापन") == gj.GENRE_GENERAL
-    assert gj.classify_genre("हत्या का मामला, आरोपी गिरफ्तार") == gj.GENRE_CRIME
+    assert gj.classify_genre("हत्या का मामला, आरोपी गिरफ्तार") == gj.GENRE_NEGATIVE
 
 
 def test_resolve_ip_lookup_url_configurable():
@@ -132,7 +132,7 @@ def test_generate_ott_json_adds_city_section_index_zero():
             "title": "Montreal traffic update and road closure",
             "description": "City bulletin",
             "channelTitle": "News Channel",
-            "genre": gj.GENRE_TRAFFIC,
+            "genre": gj.GENRE_NEGATIVE,
             "videoType": gj.VIDEO_TYPE_VOD,
             "publishedAt": "2026-01-01T00:00:00Z",
         },

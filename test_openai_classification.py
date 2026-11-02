@@ -26,7 +26,7 @@ else:
 sys.path.insert(0, '.')
 real_classify = None
 try:
-    from generate_json import classify_genre as real_classify_genre, GENRE_CRIME, GENRE_TRAFFIC, GENRE_JOBS, GENRE_EVENTS, GENRE_CIVIC, GENRE_POLITICS, GENRE_GENERAL
+    from generate_json import classify_genre as real_classify_genre, GENRE_NEGATIVE, GENRE_JOBS, GENRE_EVENTS, GENRE_CIVIC, GENRE_POLITICS, GENRE_GENERAL
     real_classify = real_classify_genre
 except Exception as e:
     # If import fails, we'll define fallback constants and a mock classifier below.
@@ -34,8 +34,7 @@ except Exception as e:
     real_classify = None
 
 # Fallback genre constants (used when generate_json isn't available)
-GENRE_CRIME = globals().get('GENRE_CRIME', 'crime')
-GENRE_TRAFFIC = globals().get('GENRE_TRAFFIC', 'traffic')
+GENRE_NEGATIVE = globals().get('GENRE_NEGATIVE', 'Negative')
 GENRE_JOBS = globals().get('GENRE_JOBS', 'jobs')
 GENRE_EVENTS = globals().get('GENRE_EVENTS', 'events')
 GENRE_CIVIC = globals().get('GENRE_CIVIC', 'civic')
@@ -48,10 +47,10 @@ if USE_MOCK or real_classify is None:
         text = f"{title} {description}".lower()
         # Crime keywords
         if any(k in text for k in ["हत्या", "गिरफ्तार", "चोरी", "हिंसा", "मर्डर", "ड्रग", "लूट", "गिरफ्तारी"]):
-            return GENRE_CRIME
-        # Traffic keywords
+            return GENRE_NEGATIVE
+        # Traffic keywords share the Negative genre
         if any(k in text for k in ["ट्रैफिक", "टक्कर", "दुर्घटना", "हादसा", "ट्रक", "रोड", "हाईवे", "एक्सीडेंट", "वाह��"]):
-            return GENRE_TRAFFIC
+            return GENRE_NEGATIVE
         # Jobs keywords
         if any(k in text for k in ["नौकरी", "भर्ती", "रोजगार", "इंटरव्यू", "पदों", "रोजगार मेला", "रिजल्ट", "एडमिट"]):
             return GENRE_JOBS
@@ -174,8 +173,8 @@ def generate_mock_videos() -> List[Dict]:
     
     # Combine all titles with their expected genres
     all_titles = (
-        [(t, GENRE_CRIME) for t in crime_titles] +
-        [(t, GENRE_TRAFFIC) for t in traffic_titles] +
+        [(t, GENRE_NEGATIVE) for t in crime_titles] +
+        [(t, GENRE_NEGATIVE) for t in traffic_titles] +
         [(t, GENRE_JOBS) for t in jobs_titles] +
         [(t, GENRE_EVENTS) for t in events_titles] +
         [(t, GENRE_CIVIC) for t in civic_titles] +
