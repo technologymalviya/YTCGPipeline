@@ -4,6 +4,7 @@ YT Aggregator for Bhilai News - GitHub Actions Pipeline Version
 Fetches latest videos from Bhilai news channels and generates JSON feed.
 """
 
+import calendar
 import json
 import math
 import os
@@ -145,6 +146,7 @@ GENRE_EVENTS = "Events"
 GENRE_CIVIC = "Civic"
 GENRE_PODCAST = "Podcast"
 GENRE_GENERAL = "General"
+GENRE_EDUCATION = "Education"
 
 # Every upload from these channels goes in the Podcast row, not only titles that say "podcast".
 PODCAST_ALLOWED_CHANNEL_TITLES = [
@@ -164,10 +166,12 @@ SECTION_EVENTS = "Events"
 SECTION_CIVIC = "Civic"
 SECTION_PODCAST = "Podcast"
 SECTION_GENERAL = "General"
+SECTION_EDUCATION = "Education"
 
 # Section -> Index map (per requested mapping)
 # Mapping: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Negative" 7
 # Negative is the only harm tab. Items in it also use genre Negative.
+# Education is 8 so the existing rails keep their indexes.
 SECTION_INDEX = {
     "General": 1,
     "Podcast": 2,
@@ -176,7 +180,49 @@ SECTION_INDEX = {
     "Events": 5,
     "Civic": 6,
     "Negative": 7,
+    "Education": 8,
 }
+
+# Lessons shorter than this are shorts, ads, or clips, not a taught course.
+EDUCATION_MIN_DURATION_SECONDS = 10 * 60
+EDUCATION_RETENTION_MONTHS = 6
+EDUCATION_PLAYLIST_PAGE_SIZE = 50
+EDUCATION_MAX_PLAYLIST_PAGES = 15
+YOUTUBE_VIDEO_BATCH = 50
+
+# Focused catalogs teach AIML, data, or cloud. Topic catalogs are broader, so
+# only a lesson whose title or description matches the subject list is kept.
+EDUCATION_CHANNELS = {
+    "UCNU_lfiiWBdtULKOw6X0Dig": "focused",  # Krish Naik — AIML and data science
+    "UCh9nVJoWXmFb7sLApWGcLPQ": "focused",  # codebasics — data science and data engineering
+    "UCCWi3hpnq_Pe03nGxuS7isg": "focused",  # CampusX — AIML and data science courses
+    "UCChmJrVa8kDg05JfCmxpLRw": "focused",  # Darshil Parmar — data engineering, analytics, cloud data
+    "UC7cs8q-gJRlGwj4A8OmCmXg": "focused",  # Alex The Analyst — data analyst
+    "UCmLGJ3VYBcfRaWbP6JLJcpA": "focused",  # Seattle Data Guy — data engineering and pipelines
+    "UCtYLUTtgS3k1Fg4y5tAhLbw": "focused",  # StatQuest — machine learning taught from first principles
+    "UCcIXc5mJsHVYTZR1maL5l9w": "focused",  # DeepLearning.AI — AIML courses
+    "UCHXa4OpASJEwrHrLeIzw7Yg": "focused",  # Nicholas Renotte — computer vision and machine learning
+    "UCV8e2g4IWQqK71bbzGDEI4Q": "focused",  # Data Professor — data science
+    "UCDvErgK0j5ur3aLgn6U-LqQ": "focused",  # DataTalksClub — data engineering and ML courses
+    "UCnfZSN7A09wNwYiUoincXZg": "focused",  # Data Engineering Simplified — data pipelines
+    "UCfzlCWGWYyIQ0aLC5w48gBQ": "topic",  # sentdex — keep ML and computer vision lessons
+    "UC8butISFwT-Wl7EV0hUK0BQ": "topic",  # freeCodeCamp — data, AIML, and cloud courses only
+    "UCdngmbVKX1Tgre699-XLlUA": "topic",  # TechWorld with Nana — cloud engineering
+    "UCpIn7ox7j7bH_OFj7tYouOQ": "topic",  # John Savill — cloud architecture
+}
+EDUCATION_CHANNEL_IDS = frozenset(EDUCATION_CHANNELS)
+
+_EDUCATION_TOPIC_PATTERN = re.compile(
+    r"machine learning|deep learning|artificial intelligence|\baiml\b|\bmlops\b|"
+    r"neural|computer vision|\bnlp\b|\bllms?\b|generative ai|data science|data scientist|"
+    r"data engineering|data engineer|data analyst|data analysis|data analytics|"
+    r"data pipeline|\betl\b|\belt\b|airflow|kafka|spark|hadoop|snowflake|databricks|"
+    r"bigquery|lakehouse|\bdbt\b|pandas|pytorch|tensorflow|scikit|"
+    r"power bi|tableau|statistic|regression|cloud engineer|cloud architect|"
+    r"cloud computing|\baws\b|\bazure\b|google cloud|\bgcp\b|kubernetes|\bk8s\b|"
+    r"terraform|docker|devops|opencv|\byolo\b|object detection|\bsql\b",
+    re.IGNORECASE,
+)
 
 # Load multiple API keys for fallback support
 def load_api_keys():
@@ -408,6 +454,93 @@ def _is_podcast_video(title: str, description: str = "", channel_title: str = ""
     if _is_allowed_podcast_channel(channel_title):
         return True
     return _looks_like_podcast_content(title, description)
+
+
+def is_education_video(video: Dict) -> bool:
+    """True when the video belongs on the Education tab and nowhere else."""
+    if (video.get("genre") or "") == GENRE_EDUCATION:
+        return True
+    return (video.get("channelId") or "") in EDUCATION_CHANNEL_IDS
+
+
+def education_retention_cutoff(now: Optional[datetime] = None) -> datetime:
+    """Start of the six-month window. Lessons older than this are dropped."""
+    now = now or datetime.now(timezone.utc)
+    month = now.month - EDUCATION_RETENTION_MONTHS
+    year = now.year
+    while month <= 0:
+        month += 12
+        year -= 1
+    day = min(now.day, calendar.monthrange(year, month)[1])
+    return now.replace(year=year, month=month, day=day)
+
+
+def _published_at(video: Dict) -> Optional[datetime]:
+    raw = video.get("publishedAt") or ""
+    try:
+        return datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        return None
+
+
+def education_lesson_ok(video: Dict) -> bool:
+    """A kept lesson is a recorded course of at least ten minutes on the subject.
+
+    Focused channels are already that subject. Broader channels must name
+    AIML, data, cloud, computer vision, or a data pipeline in the title or description.
+    """
+    if (video.get("videoType") or "").strip().upper() in (VIDEO_TYPE_LIVE, VIDEO_TYPE_SCHEDULED):
+        return False
+    duration = video.get("durationSeconds")
+    if not isinstance(duration, int) or duration < EDUCATION_MIN_DURATION_SECONDS:
+        return False
+    channel_id = video.get("channelId") or ""
+    if EDUCATION_CHANNELS.get(channel_id) != "topic":
+        return channel_id in EDUCATION_CHANNEL_IDS
+    text = f"{video.get('title') or ''} {video.get('description') or ''}"
+    return _EDUCATION_TOPIC_PATTERN.search(text) is not None
+
+
+def merge_education_videos(
+    saved: List[Dict],
+    fresh: List[Dict],
+    now: Optional[datetime] = None,
+) -> List[Dict]:
+    """Keep unique Education lessons published inside the last six months.
+
+    A freshly fetched copy replaces the saved copy of the same video.
+    """
+    cutoff = education_retention_cutoff(now)
+    by_id: Dict[str, Dict] = {}
+    for video in list(saved) + list(fresh):
+        video_id = video.get("videoId")
+        published = _published_at(video)
+        if not video_id or published is None or published < cutoff:
+            continue
+        if not is_education_video(video):
+            continue
+        video["genre"] = GENRE_EDUCATION
+        by_id[video_id] = video
+    return sorted(by_id.values(), key=lambda item: item.get("publishedAt") or "", reverse=True)
+
+
+def load_saved_education_videos(path: str = OUTPUT_FILE_NAME) -> List[Dict]:
+    """Read the Education tab already stored on disk. Missing file means none."""
+    if not os.path.exists(path):
+        return []
+    try:
+        with open(path, encoding="utf-8") as handle:
+            data = json.load(handle)
+    except (OSError, json.JSONDecodeError):
+        return []
+    saved: List[Dict] = []
+    for section in data.get("sections") or []:
+        if section.get("section") != SECTION_EDUCATION:
+            continue
+        for video in section.get("items") or []:
+            video["genre"] = GENRE_EDUCATION
+            saved.append(video)
+    return saved
 
 
 # Create word boundary patterns for better matching
@@ -1290,7 +1423,7 @@ def apply_negative_context(genre: str, scores: Dict[str, float]) -> str:
     """
     if genre in ("Crime", "Traffic"):
         return GENRE_NEGATIVE
-    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE):
+    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION):
         return genre
     negative = scores.get(GENRE_NEGATIVE, 0.0)
     best_other = max((value for name, value in scores.items() if name != GENRE_NEGATIVE), default=0.0)
@@ -1310,64 +1443,54 @@ def classify_genre_keyword_based(title: str, description: str = "", channel_titl
     return apply_negative_context(genre, semantic_context_scores(title, description))
 
 
-def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
-    """Fetch detailed information for video IDs."""
-    if not video_ids:
-        return {}
-    
-    # Retry logic with API key fallback
+def _youtube_get(url: str, params: Dict, label: str) -> Optional[Dict]:
+    """GET one YouTube API page, rotating keys when quota or the key is rejected."""
     while True:
         api_key = get_current_api_key()
         if not api_key:
-            return {}
-            
-        params = {
-            "part": "snippet,contentDetails,statistics,liveStreamingDetails",
-            "id": ",".join(video_ids),
-            "key": api_key,
-        }
-        
+            return None
+        request_params = dict(params)
+        request_params["key"] = api_key
         try:
-            response = requests.get(YOUTUBE_VIDEOS_URL, params=params, timeout=REQUEST_TIMEOUT)
-            if response.status_code == 200:
-                data = response.json()
-                break
-            elif is_quota_exceeded_error(response):
-                print(MSG_QUOTA_EXCEEDED.format(current_api_key_index + 1))
-                if not switch_to_next_api_key():
-                    print(MSG_ALL_KEYS_EXHAUSTED)
-                    return {}
-                continue
-            elif is_invalid_api_key_error(response):
-                print(MSG_INVALID_API_KEY.format(current_api_key_index + 1))
-                print(MSG_CHECK_API_KEY)
-                if not switch_to_next_api_key():
-                    print(MSG_ALL_KEYS_EXHAUSTED)
-                    return {}
-                continue
-            else:
-                print(f"Error fetching video details: HTTP {response.status_code}")
-                return {}
-        except Exception as e:
-            print(f"Error fetching video details: {e}")
-            return {}
-    
+            response = requests.get(url, params=request_params, timeout=REQUEST_TIMEOUT)
+        except Exception as exc:
+            print(f"[NETWORK ERROR] {label}: {exc}")
+            return None
+        if response.status_code == 200:
+            return response.json()
+        if is_quota_exceeded_error(response):
+            print(MSG_QUOTA_EXCEEDED.format(current_api_key_index + 1) + f" for {label}")
+            if not switch_to_next_api_key():
+                print(MSG_ALL_KEYS_EXHAUSTED)
+                return None
+            continue
+        if is_invalid_api_key_error(response):
+            print(MSG_INVALID_API_KEY.format(current_api_key_index + 1) + f" for {label}")
+            print(MSG_CHECK_API_KEY)
+            if not switch_to_next_api_key():
+                print(MSG_ALL_KEYS_EXHAUSTED)
+                return None
+            continue
+        print(f"[ERROR] HTTP {response.status_code} for {label}: {response.text}")
+        return None
+
+
+def _details_from_videos_response(data: Dict) -> Dict[str, Dict]:
     details: Dict[str, Dict] = {}
-    
     for item in data.get("items", []):
         video_id = item.get("id")
         snippet = item.get("snippet", {}) or {}
         content = item.get("contentDetails", {}) or {}
         stats = item.get("statistics", {}) or {}
         live = item.get("liveStreamingDetails", {}) or {}
-        
+
         iso = (content.get("duration") or "").upper()
         live_bc = (snippet.get("liveBroadcastContent") or "").lower()
-        
+
         secs = 0
         duration_formatted = "00:00"
         video_type = VIDEO_TYPE_VOD
-        
+
         if live_bc == "live" or (live.get("actualStartTime") and not live.get("actualEndTime")):
             video_type = VIDEO_TYPE_LIVE
             duration_formatted = VIDEO_TYPE_LIVE
@@ -1379,7 +1502,7 @@ def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
                 duration_formatted = VIDEO_TYPE_SCHEDULED
             else:
                 video_type = VIDEO_TYPE_VOD
-        
+
         details[video_id] = {
             "durationSeconds": secs,
             "durationFormatted": duration_formatted,
@@ -1387,57 +1510,74 @@ def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
             "views": _safe_int(stats.get("viewCount", 0)),
             "likes": _safe_int(stats.get("likeCount", 0)),
         }
-    
     return details
 
 
-def fetch_latest_videos_for_channel(channel_id: str) -> List[Dict]:
-    """Fetch a channel's latest uploads from its uploads playlist.
+def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
+    """Fetch duration and statistics. The Videos API accepts 50 ids per call."""
+    details: Dict[str, Dict] = {}
+    for start in range(0, len(video_ids), YOUTUBE_VIDEO_BATCH):
+        chunk = video_ids[start:start + YOUTUBE_VIDEO_BATCH]
+        data = _youtube_get(
+            YOUTUBE_VIDEOS_URL,
+            {
+                "part": "snippet,contentDetails,statistics,liveStreamingDetails",
+                "id": ",".join(chunk),
+            },
+            "video details",
+        )
+        if data:
+            details.update(_details_from_videos_response(data))
+    return details
 
-    search.list is capped at 100 calls a day, which this pipeline burns through.
-    The uploads playlist costs one unit and returns the same recent videos.
-    Anything older than LAST_HOURS_FILTER is dropped after the response.
+
+def fetch_latest_videos_for_channel(
+    channel_id: str,
+    *,
+    cutoff: Optional[datetime] = None,
+    page_size: int = MAX_RESULTS,
+    max_pages: int = 1,
+) -> List[Dict]:
+    """Fetch a channel's uploads playlist, newest first, until the cutoff.
+
+    The news feed uses one page and the last 24 hours. Education walks further
+    back so a course published months ago is still collected.
     """
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
+    if cutoff is None:
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
     playlist_id = "UU" + channel_id[2:] if channel_id.startswith("UC") else channel_id
 
-    while True:
-        api_key = get_current_api_key()
-        if not api_key:
-            return []
-
+    items: List[Dict] = []
+    page_token = ""
+    for _ in range(max_pages):
         params = {
             "part": "snippet,contentDetails",
             "playlistId": playlist_id,
-            "maxResults": MAX_RESULTS,
-            "key": api_key,
+            "maxResults": page_size,
         }
-
-        try:
-            response = requests.get(YOUTUBE_PLAYLIST_URL, params=params, timeout=REQUEST_TIMEOUT)
-            if response.status_code == 200:
+        if page_token:
+            params["pageToken"] = page_token
+        data = _youtube_get(YOUTUBE_PLAYLIST_URL, params, f"channel {channel_id}")
+        if not data:
+            break
+        page_items = data.get("items") or []
+        items.extend(page_items)
+        page_token = data.get("nextPageToken") or ""
+        reached_cutoff = False
+        for item in page_items:
+            content = item.get("contentDetails") or {}
+            snippet = item.get("snippet") or {}
+            published_at = content.get("videoPublishedAt") or snippet.get("publishedAt") or ""
+            try:
+                published_dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            except ValueError:
+                continue
+            if published_dt < cutoff:
+                reached_cutoff = True
                 break
-            elif is_quota_exceeded_error(response):
-                print(MSG_QUOTA_EXCEEDED.format(current_api_key_index + 1) + f" for channel {channel_id}")
-                if not switch_to_next_api_key():
-                    print(MSG_ALL_KEYS_EXHAUSTED)
-                    return []
-                continue
-            elif is_invalid_api_key_error(response):
-                print(MSG_INVALID_API_KEY.format(current_api_key_index + 1) + f" for channel {channel_id}")
-                print(MSG_CHECK_API_KEY)
-                if not switch_to_next_api_key():
-                    print(MSG_ALL_KEYS_EXHAUSTED)
-                    return []
-                continue
-            else:
-                print(f"[ERROR] HTTP {response.status_code}: {response.text}")
-                return []
-        except Exception as e:
-            print(f"[NETWORK ERROR] channel {channel_id}: {e}")
-            return []
+        if reached_cutoff or not page_token:
+            break
 
-    items = response.json().get("items", [])
     recent_items = []
     for item in items:
         snippet = item.get("snippet") or {}
@@ -1463,6 +1603,7 @@ def fetch_latest_videos_for_channel(channel_id: str) -> List[Dict]:
             "videoId": video_id,
             "title": snippet.get("title"),
             "description": snippet.get("description"),
+            "channelId": snippet.get("channelId") or channel_id,
             "channelTitle": snippet.get("channelTitle"),
             "publishedAt": published_at,
             "thumbnail": (snippet.get("thumbnails") or {}).get("high", {}).get("url"),
@@ -1474,6 +1615,24 @@ def fetch_latest_videos_for_channel(channel_id: str) -> List[Dict]:
         })
 
     return videos
+
+
+def fetch_education_channel_videos(channel_id: str) -> List[Dict]:
+    """Collect six months of course lessons from one education channel."""
+    videos = fetch_latest_videos_for_channel(
+        channel_id,
+        cutoff=education_retention_cutoff(),
+        page_size=EDUCATION_PLAYLIST_PAGE_SIZE,
+        max_pages=EDUCATION_MAX_PLAYLIST_PAGES,
+    )
+    lessons = []
+    for video in videos:
+        video["channelId"] = channel_id
+        video["genre"] = GENRE_EDUCATION
+        if education_lesson_ok(video):
+            lessons.append(video)
+    print(f"[Education] {channel_id}: kept {len(lessons)} of {len(videos)} uploads")
+    return lessons
 
 
 def aggregate_bhilai_videos(channels: List[str]) -> List[Dict]:
@@ -1518,6 +1677,12 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                 print(f"[Classification] Execution time limit reached ({elapsed_time:.1f}s), using keyword-based for remaining {total_videos - i + 1} videos")
                 execution_time_exceeded = True
             openai_failed = True  # Treat as failure to use keyword-based
+        # Course channels never enter Live, General, or any news genre.
+        if is_education_video(v):
+            v["genre"] = GENRE_EDUCATION
+            special_count += 1
+            continue
+
         video_type = (v.get("videoType") or "").strip().upper()
         
         if video_type == VIDEO_TYPE_LIVE:
@@ -1876,11 +2041,32 @@ def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
     return out
 
 
-def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str = "") -> Dict:
+def _education_section(videos: List[Dict]) -> Dict:
+    """One Education rail. Newest lesson first. These items are not copied elsewhere."""
+    ordered = sorted(videos, key=lambda video: video.get("publishedAt") or "", reverse=True)
+    return {
+        "section": SECTION_EDUCATION,
+        "count": len(ordered),
+        "items": ordered,
+        "sectionIndex": SECTION_INDEX[SECTION_EDUCATION],
+    }
+
+
+def generate_ott_json(
+    feed: List[Dict],
+    request_ip: str = "",
+    ip_lookup_url: str = "",
+    education_videos: Optional[List[Dict]] = None,
+) -> Dict:
     """Generate OTT-style JSON feed."""
     _log_city(
         f"Starting OTT JSON generation with feed_size={len(feed)}, request_ip='{request_ip or '<none>'}'"
     )
+    # Education is removed before the region filter and before every news tab.
+    education_only = [video for video in feed if is_education_video(video)]
+    feed = [video for video in feed if not is_education_video(video)]
+    education_only.extend(education_videos or [])
+    education_only = merge_education_videos(education_only, [])
     feed = filter_to_cg_mp_news(feed)
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
@@ -1922,6 +2108,8 @@ def generate_ott_json(feed: List[Dict], request_ip: str = "", ip_lookup_url: str
         {"section": SECTION_CIVIC, "count": len(civic_news), "items": civic_news},
         {"section": SECTION_NEGATIVE, "count": len(negative_news), "items": negative_news},
     ]
+    if education_only:
+        sections.append(_education_section(education_only))
 
     if city_section:
         sections = [city_section] + sections
@@ -1965,20 +2153,32 @@ def main():
         }
     else:
         print(f"Loaded {len(API_KEYS)} API key(s) for fallback support")
-        print(f"Fetching videos from {len(BHILAI_CHANNELS)} Bhilai news channels...")
-        feed = aggregate_bhilai_videos(BHILAI_CHANNELS)
+        news_channels = [channel for channel in BHILAI_CHANNELS if channel not in EDUCATION_CHANNEL_IDS]
+        print(f"Fetching videos from {len(news_channels)} news channels...")
+        feed = aggregate_bhilai_videos(news_channels)
         feed = filter_to_cg_mp_news(feed)
         feed = add_genres_to_feed(feed)
+        print(f"[Education] Fetching {len(EDUCATION_CHANNELS)} course channels, kept for {EDUCATION_RETENTION_MONTHS} months")
+        fresh_education: List[Dict] = []
+        for channel_id in EDUCATION_CHANNELS:
+            fresh_education.extend(fetch_education_channel_videos(channel_id))
+        education_videos = merge_education_videos(load_saved_education_videos(), fresh_education)
+        print(f"[Education] {len(education_videos)} lessons inside the six-month window")
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()
         _log_city(
             f"Runtime config: REQUEST_IP='{request_ip or '<none>'}', "
             f"IP_LOOKUP_URL='{ip_lookup_url or IP_LOOKUP_URL_DEFAULT}'"
         )
-        json_data = generate_ott_json(feed, request_ip=request_ip, ip_lookup_url=ip_lookup_url)
-        print(f"Fetched {len(feed)} total videos")
+        json_data = generate_ott_json(
+            feed,
+            request_ip=request_ip,
+            ip_lookup_url=ip_lookup_url,
+            education_videos=education_videos,
+        )
+        print(f"Fetched {len(feed)} news videos")
         
-        # Check if we have any data
+        # An empty news fetch must not wipe the previous news file.
         if len(feed) == 0:
             print(MSG_NO_VIDEOS)
             print(MSG_PRESERVE_DATA)

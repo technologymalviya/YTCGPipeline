@@ -1106,17 +1106,21 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     - Public Sector Exam (PSE)
     - Festival (festival celebrations, preparations, events)
     """
-    from generate_json import video_feed_states
+    from generate_json import is_education_video, video_feed_states
 
     clusters = []
     
-    # Collect all videos from all sections
+    # Collect all videos from all sections. Education lessons stay on their
+    # own tab: they are not news, and they are not part of All Chhattisgarh
+    # or All Madhya Pradesh.
     all_videos = []
     sections = data.get('sections', [])
     
     for section in sections:
+        if section.get('section') == 'Education':
+            continue
         items = section.get('items', [])
-        all_videos.extend(items)
+        all_videos.extend(item for item in items if not is_education_video(item))
 
     all_videos = dedupe_videos_by_video_id(all_videos)
     movie_videos = [video for video in all_videos if is_new_cg_movie_release(video)]

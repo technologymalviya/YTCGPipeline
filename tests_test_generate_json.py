@@ -75,6 +75,116 @@ def test_resolve_city_from_ip_failure_safe():
     assert city == ""
 
 
+def test_education_lessons_stay_on_their_tab_for_six_months():
+    krish = "UCNU_lfiiWBdtULKOw6X0Dig"
+    freecodecamp = "UC8butISFwT-Wl7EV0hUK0BQ"
+    now = datetime(2026, 11, 3, tzinfo=timezone.utc)
+
+    assert not gj.education_lesson_ok({
+        "channelId": krish,
+        "title": "Short tip",
+        "description": "",
+        "durationSeconds": 90,
+        "videoType": "VOD",
+    })
+    assert gj.education_lesson_ok({
+        "channelId": krish,
+        "title": "Complete Machine Learning Course",
+        "description": "",
+        "durationSeconds": 3600,
+        "videoType": "VOD",
+    })
+    assert not gj.education_lesson_ok({
+        "channelId": freecodecamp,
+        "title": "JavaScript Full Course",
+        "description": "web development",
+        "durationSeconds": 36000,
+        "videoType": "VOD",
+    })
+    assert gj.education_lesson_ok({
+        "channelId": freecodecamp,
+        "title": "Machine Learning Full Course",
+        "description": "",
+        "durationSeconds": 36000,
+        "videoType": "VOD",
+    })
+
+    kept = {
+        "videoId": "kept",
+        "genre": "Education",
+        "channelId": krish,
+        "title": "Deep Learning",
+        "publishedAt": "2026-08-01T00:00:00Z",
+        "views": 1,
+    }
+    expired = {
+        "videoId": "expired",
+        "genre": "Education",
+        "channelId": krish,
+        "title": "Old course",
+        "publishedAt": "2026-01-01T00:00:00Z",
+    }
+    refreshed = dict(kept, views=9)
+    merged = gj.merge_education_videos([kept, expired], [refreshed], now=now)
+    assert [video["videoId"] for video in merged] == ["kept"]
+    assert merged[0]["views"] == 9
+
+    news = {
+        "videoId": "news1",
+        "title": "रायपुर में बैठक",
+        "description": "",
+        "channelTitle": "Bhilai Times",
+        "publishedAt": "2026-11-03T04:00:00Z",
+        "genre": "General",
+        "views": 100,
+        "likes": 1,
+    }
+    course = {
+        "videoId": "course1",
+        "title": "Machine Learning Full Course",
+        "description": "",
+        "channelTitle": "Krish Naik",
+        "channelId": krish,
+        "publishedAt": "2026-11-03T04:00:00Z",
+        "genre": "Education",
+        "views": 5000,
+        "likes": 10,
+        "durationSeconds": 7200,
+    }
+    leaked = dict(course, videoId="course2", genre="General", title="रायपुर data science class")
+    out = gj.generate_ott_json([news, course, leaked])
+    by_section = {
+        section["section"]: [item["videoId"] for item in section["items"]]
+        for section in out["sections"]
+    }
+    assert by_section["Education"] == ["course1", "course2"]
+    assert out["sections"][-1]["sectionIndex"] == 8
+    for name, video_ids in by_section.items():
+        if name == "Education":
+            continue
+        assert "course1" not in video_ids
+        assert "course2" not in video_ids
+
+    import cluster_api
+    clusters = cluster_api.extract_clusters(out)
+    encoded = json.dumps(clusters)
+    assert "course1" not in encoded
+    assert "course2" not in encoded
+
+
+def test_education_channel_is_not_classified_as_news():
+    video = {
+        "title": "Murder case study in machine learning",
+        "description": "crime dataset",
+        "channelTitle": "Krish Naik",
+        "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+        "publishedAt": "2020-01-01T00:00:00Z",
+        "videoType": "VOD",
+    }
+    classified = gj.add_genres_to_feed([video])
+    assert classified[0]["genre"] == gj.GENRE_EDUCATION
+
+
 def test_trending_movie_song_and_cm_clusters():
     import cluster_api
 

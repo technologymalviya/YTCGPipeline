@@ -99,6 +99,7 @@ Genres are grouped into sections in `generate_ott_json`. `sectionIndex` is the r
 | Events | 5 | Genre Events |
 | Civic | 6 | Genre Civic |
 | Negative | 7 | Genre Negative, newest `publishedAt` first |
+| Education | 8 | Course lessons from the education channels only. Kept for six months. Not copied into other tabs or All. |
 
 There is one Negative tab and one Negative rail. Each item's `genre` is `Negative`. Crime and Traffic are not written.
 

@@ -92,10 +92,10 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 ### 2.3 Data Flow
 
 1. **Config**: API keys and channel list from environment (`YOUTUBE_API_KEY*`, `BHILAI_CHANNELS`, `OPENAI_API_KEY`).
-2. **Fetch**: For each channel, search latest videos (YouTube Search + Videos), merge, sort by `publishedAt`.
-3. **Classify**: Live/Scheduled from `videoType`. Otherwise OpenAI for the last hour, else keywords. Podcast channels and podcast titles are forced to Podcast. A cosine context check then moves crime and road incidents into Negative. See [Genre Classification](GENRE_CLASSIFICATION_ANALYSIS.md).
-4. **Section**: Build OTT tabs from genres. Harm stories use the Negative tab and genre Negative. Scheduled videos are not given a row. Write `output.json` (`generatedAt`, sections with `sectionIndex`, items).
-5. **Cluster**: Read `output.json`; extract topic clusters; compute trend score; omit any topic that has no videos; write `trending_cluster.json`.
+2. **Fetch**: News channels use the uploads playlist for the last 24 hours. Education channels are paged back six months and kept only when the upload is a course lesson.
+3. **Classify**: Live/Scheduled from `videoType`. Otherwise OpenAI for the last hour, else keywords. Podcast channels and podcast titles are forced to Podcast. Education channels are forced to Education and are not classified as news. A cosine context check then moves crime and road incidents into Negative. See [Genre Classification](GENRE_CLASSIFICATION_ANALYSIS.md).
+4. **Section**: Build OTT tabs from genres. Harm stories use the Negative tab and genre Negative. Education lessons are only in the Education tab. Scheduled videos are not given a row. Write `output.json` (`generatedAt`, sections with `sectionIndex`, items).
+5. **Cluster**: Read `output.json`; extract topic clusters; compute trend score; omit any topic that has no videos. Education lessons are excluded from every cluster, including All Chhattisgarh and All Madhya Pradesh. Write `trending_cluster.json`.
 6. **Optional**: Cluster API serves clusters and files; `trending_cluster.json` can be read from disk or proxied from GitHub raw.
 
 ---
@@ -125,8 +125,8 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
    - Podcast: every upload from an allow-listed or podcast-named channel, and any title/description that says podcast, is Podcast.
 
 4. **OTT structure** (`generate_ott_json`)
-   - Sections: Live, General, Podcast, Jobs, Politics, Events, Civic, Negative. Negative items use genre Negative, newest first. Scheduled videos are excluded. A resolved city section is prepended at index 0.
-   - `sectionIndex`: General 1, Podcast 2, Jobs 3, Politics 4, Events 5, Civic 6, Negative 7.
+   - Sections: Live, General, Podcast, Jobs, Politics, Events, Civic, Negative, Education. Negative items use genre Negative, newest first. Education is course lessons only and is omitted when empty. Scheduled videos are excluded. A resolved city section is prepended at index 0.
+   - `sectionIndex`: General 1, Podcast 2, Jobs 3, Politics 4, Events 5, Civic 6, Negative 7, Education 8.
 
 5. **Persistence**
    - Write `output.json` only when config is valid and feed non-empty (otherwise preserve existing file).
@@ -192,8 +192,8 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 
 - **generatedAt**: ISO8601 UTC.
 - **sections**: Array of:
-  - **section**: Name (optional city, Live, General, Podcast, Jobs, Politics, Events, Civic, Negative).
-  - **sectionIndex**: Rail order. General=1, Podcast=2, Jobs=3, Politics=4, Events=5, Civic=6, Negative=7. City and Live use 0.
+  - **section**: Name (optional city, Live, General, Podcast, Jobs, Politics, Events, Civic, Negative, Education).
+  - **sectionIndex**: Rail order. General=1, Podcast=2, Jobs=3, Politics=4, Events=5, Civic=6, Negative=7, Education=8. City and Live use 0.
   - **count**: Number of videos in section.
   - **items**: Array of video objects.
 
@@ -202,7 +202,7 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 - **durationSeconds**, **durationFormatted**
 - **views**, **likes**
 - **videoType** (LIVE, VOD, SCHEDULED, UNKNOWN)
-- **genre** (Live, Scheduled, Negative, Politics, Jobs, Events, Civic, Podcast, General)
+- **genre** (Live, Scheduled, Negative, Politics, Jobs, Events, Civic, Podcast, General, Education)
 
 ### 4.2 trending_cluster.json
 
@@ -218,8 +218,8 @@ Cluster types:
 
 ### 4.3 Genre and Section Mapping
 
-- **Genres**: Live, Scheduled, Negative, Politics, Jobs, Events, Civic, Podcast, General. Scheduled is stored on the video and omitted from tabs. Crime and Traffic are not genres.
-- **Sections** (OTT tabs): Live, General, Podcast, Jobs, Politics, Events, Civic, Negative. Negative is the only harm tab, and its items use genre Negative. Podcast is every upload from a podcast channel, plus any item whose title or description says podcast.
+- **Genres**: Live, Scheduled, Negative, Politics, Jobs, Events, Civic, Podcast, General, Education. Scheduled is stored on the video and omitted from tabs. Crime and Traffic are not genres.
+- **Sections** (OTT tabs): Live, General, Podcast, Jobs, Politics, Events, Civic, Negative, Education. Negative is the only harm tab, and its items use genre Negative. Podcast is every upload from a podcast channel, plus any item whose title or description says podcast. Education is only course lessons from the education channels, kept for six months, and those videos are not repeated in any other tab or in All Chhattisgarh / All Madhya Pradesh.
 
 ---
 
