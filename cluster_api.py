@@ -1165,6 +1165,9 @@ _TRENDING_TOPIC_STOPWORDS = {
     "दिया", "किया", "होगा", "होगी", "वाले", "वाला", "वाली", "नहीं", "यहां", "यहाँ",
     "वहां", "वहाँ", "जब", "तब", "फिर", "अब", "जो", "तो", "भी", "ही", "तक", "यह",
     "ये", "वो", "वह", "एक", "बाद", "साथ", "केंद्र",
+    "लेकर", "करने", "shorts", "mpcg",
+    "जनवरी", "फरवरी", "मार्च", "अप्रैल", "मई", "जून", "जुलाई", "अगस्त",
+    "सितंबर", "सितम्बर", "अक्टूबर", "नवंबर", "नवम्बर", "दिसंबर", "दिसम्बर",
 }
 
 
@@ -1217,6 +1220,10 @@ def extract_trending_topic_clusters(videos: List[Dict[str, Any]]) -> List[Dict[s
         # A word that is just the station name is not a topic.
         brand_hits = sum(1 for video in items if token in (video.get("channelTitle") or "").lower())
         if brand_hits >= max(2, len(items) // 2):
+            continue
+        channels = {(video.get("channelTitle") or "").strip() for video in items}
+        channels.discard("")
+        if channels and len(channels) < 2:
             continue
         for video in items:
             used.add(_video_dedupe_key(video))

@@ -287,9 +287,10 @@ _EDUCATION_TOPIC_PATTERN = re.compile(
 
 _FOOD_TITLE_PATTERN = re.compile(
     r"food|recipe|restaurant|cafe|dhaba|thali|street food|breakfast|lunch|dinner|"
-    r"poha|samosa|jalebi|biryani|paneer|dosa|idli|"
+    r"poha|samosa|jalebi|biryani|paneer|dosa|idli|bhaji|sabzi|sabji|"
+    r"paratha|achar|chutney|pickle|mushroom|sweet|"
     r"खाना|भोजन|रेसिपी|रेसिपि|नाश्ता|थाली|चाट|पोहा|समोसा|रसगुल्ला|मिठाई|स्वाद|"
-    r"स्ट्रीट फूड|रेस्टोरेंट|ढाबा",
+    r"स्ट्रीट फूड|रेस्टोरेंट|ढाबा|भाजी|सब्जी|अचार|चटनी|पराठा|पुटू|कटरा",
     re.IGNORECASE,
 )
 _MOVIE_NOT_FEATURE_PATTERN = re.compile(
@@ -583,9 +584,22 @@ def vlog_ok(video: Dict) -> bool:
     return (video.get("channelId") or "") in VLOG_CHANNEL_IDS and _long_enough(video, VLOG_MIN_DURATION_SECONDS)
 
 
+_FOOD_NOT_A_MEAL_PATTERN = re.compile(
+    r"review|unboxing|shopping|market tour|बाजार|बाज़ार",
+    re.IGNORECASE,
+)
+
+
 def food_vlog_ok(video: Dict) -> bool:
-    """A CG or MP food vlog of at least three minutes. Shorts stay out."""
-    return (video.get("channelId") or "") in FOOD_CHANNEL_IDS and _long_enough(video, FOOD_MIN_DURATION_SECONDS)
+    """A CG or MP food vlog of at least three minutes. Shorts, shopping, and reviews stay out."""
+    if (video.get("channelId") or "") not in FOOD_CHANNEL_IDS:
+        return False
+    if not _long_enough(video, FOOD_MIN_DURATION_SECONDS):
+        return False
+    text = f"{video.get('title') or ''} {video.get('description') or ''}"
+    if _FOOD_NOT_A_MEAL_PATTERN.search(text):
+        return False
+    return _FOOD_TITLE_PATTERN.search(text) is not None
 
 
 def free_u_movie_ok(video: Dict) -> bool:

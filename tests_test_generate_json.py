@@ -259,6 +259,12 @@ def test_free_u_certificate_movie_rules():
     assert not gj.food_vlog_ok(_feed_video(
         "short", "Indore poha", channelId="UCATnz7ESiAH9rW6WZC2pajg", durationSeconds=30,
     ))
+    assert not gj.food_vlog_ok(_feed_video(
+        "shop", "Dhanteras Shopping 2026", channelId="UCOT0guEWvdIoXjKI1et_2cA", durationSeconds=400,
+    ))
+    assert gj.food_vlog_ok(_feed_video(
+        "recipe", "लाल भाजी recipe", channelId="UCOT0guEWvdIoXjKI1et_2cA", durationSeconds=400,
+    ))
     assert gj.free_u_movie_ok(_feed_video(
         "full", "Sindoor | Full Movie (HD)", channelId=goldmines, durationSeconds=7200,
     ))
@@ -274,7 +280,10 @@ def test_weather_and_trending_topic_groups():
     items.append(_feed_video("heat", "छत्तीसगढ़ में मौसम विभाग का अलर्ट", views=20))
     items.append(_feed_video("meet", "रायपुर में बैठक", views=20))
     items.extend(
-        _feed_video(f"paddy{i}", f"धान खरीदी केंद्र में भीड़ {i}", views=80000)
+        _feed_video(
+            f"paddy{i}", f"धान खरीदी केंद्र में भीड़ {i}", views=80000,
+            channelTitle="Desk A" if i == 0 else "Desk B",
+        )
         for i in range(3)
     )
     items.extend(
