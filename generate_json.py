@@ -596,10 +596,10 @@ def food_vlog_ok(video: Dict) -> bool:
         return False
     if not _long_enough(video, FOOD_MIN_DURATION_SECONDS):
         return False
-    text = f"{video.get('title') or ''} {video.get('description') or ''}"
-    if _FOOD_NOT_A_MEAL_PATTERN.search(text):
+    title = video.get("title") or ""
+    if _FOOD_NOT_A_MEAL_PATTERN.search(title):
         return False
-    return _FOOD_TITLE_PATTERN.search(text) is not None
+    return _FOOD_TITLE_PATTERN.search(title) is not None
 
 
 def free_u_movie_ok(video: Dict) -> bool:
@@ -665,10 +665,12 @@ def merge_catalog_videos(
     fresh: List[Dict],
     genre: str,
     now: Optional[datetime] = None,
+    accept=None,
 ) -> List[Dict]:
     """Keep one copy of each catalog video published inside the last six months.
 
     A freshly fetched copy replaces the saved copy of the same video.
+    Saved videos that no longer pass the tab's rule are dropped.
     """
     cutoff = education_retention_cutoff(now)
     by_id: Dict[str, Dict] = {}
@@ -678,6 +680,8 @@ def merge_catalog_videos(
         if not video_id or published is None or published < cutoff:
             continue
         if catalog_genre(video) != genre and video.get("genre") != genre:
+            continue
+        if accept is not None and not accept(video):
             continue
         video["genre"] = genre
         by_id[video_id] = video
@@ -1832,7 +1836,9 @@ def collect_catalog(channel_ids, genre: str, section_name: str, accept) -> List[
     fresh: List[Dict] = []
     for channel_id in channel_ids:
         fresh.extend(fetch_catalog_channel_videos(channel_id, genre, accept))
-    return merge_catalog_videos(load_saved_catalog_videos(section_name, genre), fresh, genre)
+    return merge_catalog_videos(
+        load_saved_catalog_videos(section_name, genre), fresh, genre, accept=accept,
+    )
 
 
 def aggregate_bhilai_videos(channels: List[str]) -> List[Dict]:
