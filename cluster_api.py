@@ -947,40 +947,94 @@ def dedupe_videos_by_video_id(videos: List[Dict[str, Any]]) -> List[Dict[str, An
     return out
 
 
-def _city_cluster_match_text(video: Dict[str, Any]) -> str:
-    """Lowercase video title only — city trending clusters must not match on channel or description."""
-    return (video.get('title') or '').lower()
+# City topics. State names are not cities. "durg" must not match "durga".
+_CITY_TOPICS = (
+    ("Raipur", ("raipur", "रायपुर")),
+    ("Bhilai", ("bhilai", "भिलाई")),
+    ("Durg", ("durg", "दुर्ग")),
+    ("Bilaspur", ("bilaspur", "बिलासपुर")),
+    ("Raigarh", ("raigarh", "रायगढ़")),
+    ("Korba", ("korba", "कोरबा")),
+    ("Jagdalpur", ("jagdalpur", "जगदलपुर")),
+    ("Bastar", ("bastar", "बस्तर")),
+    ("Rajnandgaon", ("rajnandgaon", "राजनांदगांव", "राजनांदगाँव", "राजनंदगांव")),
+    ("Ambikapur", ("ambikapur", "अंबिकापुर")),
+    ("Dhamtari", ("dhamtari", "धमतरी")),
+    ("Kanker", ("kanker", "कांकेर")),
+    ("Dantewada", ("dantewada", "दंतेवाड़ा", "दंतेवाडा")),
+    ("Mahasamund", ("mahasamund", "महासमुंद")),
+    ("Janjgir", ("janjgir", "जांजगीर")),
+    ("Kawardha", ("kawardha", "कवर्धा")),
+    ("Bemetara", ("bemetara", "बेमेतरा")),
+    ("Gariaband", ("gariaband", "gariyaband", "गरियाबंद")),
+    ("Surguja", ("surguja", "सरगुजा")),
+    ("Kondagaon", ("kondagaon", "कोंडागांव")),
+    ("Sukma", ("sukma", "सुकमा")),
+    ("Mungeli", ("mungeli", "मुंगेली")),
+    ("Bhatapara", ("bhatapara", "भाटापारा")),
+    ("Dongargarh", ("dongargarh", "डोंगरगढ़")),
+    ("Rajim", ("rajim", "राजिम")),
+    ("Khairagarh", ("khairagarh", "खैरागढ़")),
+    ("Bhopal", ("bhopal", "भोपाल")),
+    ("Indore", ("indore", "इंदौर", "इन्दौर")),
+    ("Jabalpur", ("jabalpur", "जबलपुर")),
+    ("Gwalior", ("gwalior", "ग्वालियर")),
+    ("Ujjain", ("ujjain", "उज्जैन")),
+    ("Rewa", ("rewa", "रीवा")),
+    ("Satna", ("satna", "सतना")),
+    ("Ratlam", ("ratlam", "रतलाम")),
+    ("Dewas", ("dewas", "देवास")),
+    ("Khandwa", ("khandwa", "खंडवा")),
+    ("Chhindwara", ("chhindwara", "छिंदवाड़ा")),
+    ("Burhanpur", ("burhanpur", "बुरहानपुर")),
+    ("Singrauli", ("singrauli", "सिंगरौली")),
+    ("Shahdol", ("shahdol", "शहडोल")),
+    ("Katni", ("katni", "कटनी")),
+    ("Shivpuri", ("shivpuri", "शिवपुरी")),
+    ("Betul", ("betul", "बैतूल")),
+    ("Balaghat", ("balaghat", "बालाघाट")),
+    ("Chhatarpur", ("chhatarpur", "छतरपुर")),
+    ("Tikamgarh", ("tikamgarh", "टीकमगढ़")),
+    ("Khargone", ("khargone", "खरगोन")),
+)
+_CITY_MATCH_PATTERNS = None
+
+
+def _city_match_patterns():
+    """Compile city names once, with word boundaries so Durga is not Durg."""
+    global _CITY_MATCH_PATTERNS
+    if _CITY_MATCH_PATTERNS is None:
+        from generate_json import _region_term_pattern
+        _CITY_MATCH_PATTERNS = [
+            (name, _region_term_pattern(terms)) for name, terms in _CITY_TOPICS
+        ]
+    return _CITY_MATCH_PATTERNS
 
 
 def extract_city_news_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Group news whose title names a Chhattisgarh or Madhya Pradesh city.
+
+    One topic per city, and only when at least three headlines name it.
+    A headline can sit in every city it names. The channel name and the
+    description are ignored, because those repeat the station's home city.
     """
-    Group local news where the video title mentions a known city.
-    One cluster per city with topic = city name. Only created when count > 2 (3+ videos).
-    """
-    location_patterns = {
-        "Bhilai": ["bhilai", "भिलाई"],
-        "Raipur": ["raipur", "रायपुर"],
-        "Durg": ["durg", "दुर्ग"],
-        "Bilaspur": ["bilaspur", "बिलासपुर"],
-        "Rajnandgaon": ["rajnandgaon", "राजनांदगांव", "राजनंदगांव"],
-        "Korba": ["korba", "कोरबा"],
-        "Jagdalpur": ["jagdalpur", "जगदलपुर"],
-        "Bastar": ["bastar", "बस्तर"],
-    }
+    from generate_json import _region_title_text
 
     location_buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    patterns = _city_match_patterns()
 
     for video in videos:
-        text = _city_cluster_match_text(video)
-        for location, needles in location_patterns.items():
-            if any(n in text for n in needles):
+        text = _region_title_text(video.get("title") or "")
+        if not text:
+            continue
+        for location, pattern in patterns:
+            if pattern.search(text):
                 location_buckets[location].append(video)
-                break
 
     clusters: List[Dict[str, Any]] = []
     for location, raw_items in location_buckets.items():
         items = dedupe_videos_by_video_id(raw_items)
-        if len(items) <= 2:
+        if len(items) < 3:
             continue
 
         total_views = sum(v.get('views', 0) for v in items)
@@ -1123,6 +1177,12 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         all_videos.extend(item for item in items if not is_education_video(item))
 
     all_videos = dedupe_videos_by_video_id(all_videos)
+    # Group cities before the view gate and before PSE. Both of those steps
+    # were keeping local headlines out of a city topic.
+    city_news_clusters = extract_city_news_clusters([
+        video for video in all_videos
+        if not is_new_cg_movie_release(video) and not is_song_video(video)
+    ])
     movie_videos = [video for video in all_videos if is_new_cg_movie_release(video)]
     song_videos = [video for video in all_videos if is_song_video(video)]
     cm_videos = [video for video in all_videos if is_cm_video(video)]
@@ -1281,8 +1341,8 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
         clusters.append(festival_cluster)
         logger.info(f"Created Festival cluster with {len(festival_videos)} videos")
     
-    # City-based news clusters (3+ videos mentioning the same city); exclude from similarity clustering
-    city_news_clusters = extract_city_news_clusters(other_videos)
+    # City topics were already built from the full feed. Drop those videos
+    # from similarity grouping so the same city is not clustered twice.
     clusters.extend(city_news_clusters)
     city_video_keys = {
         _video_dedupe_key(v) for c in city_news_clusters for v in c.get('videos', [])

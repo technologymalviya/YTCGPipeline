@@ -185,6 +185,37 @@ def test_education_channel_is_not_classified_as_news():
     assert classified[0]["genre"] == gj.GENRE_EDUCATION
 
 
+def test_city_news_is_grouped_even_when_views_are_low():
+    import cluster_api
+
+    def video(video_id, title, views=1):
+        return {
+            "videoId": video_id,
+            "title": title,
+            "description": "chhattisgarh",
+            "channelTitle": "Bhilai Times",
+            "publishedAt": "2026-11-11T04:00:00Z",
+            "views": views,
+            "likes": 0,
+            "genre": "General",
+        }
+
+    items = [video(f"n{i}", f"छत्तीसगढ़ समाचार {i}", views=100000) for i in range(20)]
+    items.extend([
+        video("b1", "भिलाई में पानी की समस्या", views=2),
+        video("b2", "Bhilai market update", views=2),
+        video("b3", "Bhilai road work", views=2),
+        video("d1", "Durg city news", views=2),
+        video("d2", "दुर्ग में घटना", views=2),
+        video("d3", "Durg police", views=2),
+        video("x1", "Durga pandal decoration", views=2),
+    ])
+    clusters = cluster_api.extract_clusters({"sections": [{"section": "General", "items": items}]})
+    topics = {cluster["topic"]: cluster["videoCount"] for cluster in clusters}
+    assert topics.get("Bhilai") == 3
+    assert topics.get("Durg") == 3
+
+
 def test_trending_movie_song_and_cm_clusters():
     import cluster_api
 
