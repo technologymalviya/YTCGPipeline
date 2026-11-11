@@ -150,6 +150,7 @@ GENRE_EDUCATION = "Education"
 GENRE_VLOG = "Vlog"
 GENRE_FOOD = "Food"
 GENRE_MOVIE = "Movie"
+GENRE_DARSHAN = "Darshan"
 
 # Every upload from these channels goes in the Podcast row, not only titles that say "podcast".
 PODCAST_ALLOWED_CHANNEL_TITLES = [
@@ -173,6 +174,7 @@ SECTION_EDUCATION = "Education"
 SECTION_VLOG = "Vlog"
 SECTION_FOOD = "Food"
 SECTION_MOVIE = "Movie"
+SECTION_DARSHAN = "Darshan"
 
 # Section -> Index map (per requested mapping)
 # Mapping: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Negative" 7
@@ -190,6 +192,7 @@ SECTION_INDEX = {
     "Vlog": 9,
     "Food": 10,
     "Movie": 11,
+    "Darshan": 12,
 }
 
 # Lessons shorter than this are shorts, ads, or clips, not a taught course.
@@ -264,8 +267,29 @@ MOVIE_CHANNEL_IDS = frozenset({
     "UC3ar28GS6o1p0m_wabfk2zw",  # Pen Movies
     "UCxtwjNPrymSvS4UD_6HgcxQ",  # NH Studioz
 })
+# Hindu mandir channels. Only a broadcast that is live right now is kept.
+DARSHAN_CHANNEL_IDS = frozenset({
+    "UCEUuwXHmHckwmdANSy4c7Sw",  # Shri Mahakaleshwar, Ujjain
+    "UCdMj2twWfMHXrWgX5oVdoyA",  # Shree Kashi Vishwanath Mandir Trust
+    "UCEQuF2Whhhlyo8YCgXQSYeg",  # Shri Badrinath Kedarnath Temple Committee
+    "UCsIZ3yYwCW4316fPX3V-4lg",  # Shri Omkareshwar Jyotirlinga
+    "UCIbhcJEGjI7fRfKiG_p0Mqg",  # Shri Ram Janmbhoomi Teerth Kshetra, Ayodhya
+    "UCT1egsvA08YcdMLiEu1DTRg",  # Somnath Temple
+    "UCF9FdiMBENIbM6jb44zWmCQ",  # Shree Siddhivinayak Ganapati Temple Trust
+    "UCFYQr1l7ereS27SrLJ8bBtw",  # Shri Mata Vaishno Devi Shrine Board
+    "UCTboTRX74UydvU_cBdm_cCQ",  # SVBC TTD, Tirumala
+    "UChNJZwzEgqF823dzGN3Q1Sw",  # Shri Trimbakeshwar Devasthan Trust
+    "UC9CgVhkj8XZ2g__MWbVWr2g",  # Ramanathaswamy Temple, Rameswaram
+    "UCOpa4kIY9aXsYnXunZvSuaQ",  # Dwarka Darshan
+    "UC0gsVyA8eyK2Zw4rNWbskWw",  # Dwarkadhish
+    "UCOosMevVVqF6rhqnzNZ8e7w",  # Shri Banke Bihari Ji, Vrindavan
+    "UC5oL2R6nxvEE94mVS9vmZ8A",  # Kal Bhairav, Ujjain
+    "UCAA6IsLVfbHrP1I_lzxv09Q",  # ISKCON Vrindavan
+    "UCcON_PYxEOS9HmmVyhYnUFQ",  # Maa Bamleshwari Mandir, Dongargarh
+})
+DARSHAN_PLAYLIST_PAGES = 2
 NON_NEWS_CHANNEL_IDS = (
-    EDUCATION_CHANNEL_IDS | VLOG_CHANNEL_IDS | FOOD_CHANNEL_IDS | MOVIE_CHANNEL_IDS
+    EDUCATION_CHANNEL_IDS | VLOG_CHANNEL_IDS | FOOD_CHANNEL_IDS | MOVIE_CHANNEL_IDS | DARSHAN_CHANNEL_IDS
 )
 VLOG_MIN_DURATION_SECONDS = 3 * 60
 FOOD_MIN_DURATION_SECONDS = 3 * 60
@@ -545,10 +569,10 @@ def _is_podcast_video(title: str, description: str = "", channel_title: str = ""
 def catalog_genre(video: Dict) -> Optional[str]:
     """The private tab for this video, or None when it is ordinary news.
 
-    Education, Vlog, Food, and Movie never appear on another tab or in All.
+    Education, Vlog, Food, Movie, and Darshan never appear on another tab or in All.
     """
     genre = video.get("genre") or ""
-    if genre in (GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE):
+    if genre in (GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE, GENRE_DARSHAN):
         return genre
     channel_id = video.get("channelId") or ""
     if channel_id in EDUCATION_CHANNEL_IDS:
@@ -559,11 +583,13 @@ def catalog_genre(video: Dict) -> Optional[str]:
         return GENRE_FOOD
     if channel_id in MOVIE_CHANNEL_IDS:
         return GENRE_MOVIE
+    if channel_id in DARSHAN_CHANNEL_IDS:
+        return GENRE_DARSHAN
     return None
 
 
 def is_catalog_video(video: Dict) -> bool:
-    """True when the video is reserved for Education, Vlog, Food, or Movie."""
+    """True when the video is reserved for Education, Vlog, Food, Movie, or Darshan."""
     return catalog_genre(video) is not None
 
 
@@ -620,6 +646,13 @@ def free_u_movie_ok(video: Dict) -> bool:
     if _MOVIE_U_CERTIFICATE_PATTERN.search(text):
         return True
     return _FULL_MOVIE_PATTERN.search(title) is not None
+
+
+def darshan_live_ok(video: Dict) -> bool:
+    """A Hindu mandir broadcast that is on air now. Recordings and upcoming streams are not."""
+    if (video.get("channelId") or "") not in DARSHAN_CHANNEL_IDS:
+        return False
+    return (video.get("videoType") or "").strip().upper() == VIDEO_TYPE_LIVE
 
 
 def education_retention_cutoff(now: Optional[datetime] = None) -> datetime:
@@ -1601,7 +1634,7 @@ def apply_negative_context(genre: str, scores: Dict[str, float]) -> str:
     """
     if genre in ("Crime", "Traffic"):
         return GENRE_NEGATIVE
-    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE):
+    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE, GENRE_DARSHAN):
         return genre
     negative = scores.get(GENRE_NEGATIVE, 0.0)
     best_other = max((value for name, value in scores.items() if name != GENRE_NEGATIVE), default=0.0)
@@ -1829,6 +1862,28 @@ def fetch_catalog_channel_videos(channel_id: str, genre: str, accept) -> List[Di
             kept.append(video)
     print(f"[{genre}] {channel_id}: kept {len(kept)} of {len(videos)} uploads")
     return kept
+
+
+def collect_darshan_lives(channel_ids) -> List[Dict]:
+    """Keep mandir broadcasts that are live now. An ended stream is not saved."""
+    cutoff = datetime(2005, 1, 1, tzinfo=timezone.utc)
+    fresh: List[Dict] = []
+    for channel_id in channel_ids:
+        videos = fetch_latest_videos_for_channel(
+            channel_id,
+            cutoff=cutoff,
+            page_size=EDUCATION_PLAYLIST_PAGE_SIZE,
+            max_pages=DARSHAN_PLAYLIST_PAGES,
+        )
+        kept = []
+        for video in videos:
+            video["channelId"] = channel_id
+            video["genre"] = GENRE_DARSHAN
+            if darshan_live_ok(video):
+                kept.append(video)
+        print(f"[Darshan] {channel_id}: kept {len(kept)} live of {len(videos)} recent uploads")
+        fresh.extend(kept)
+    return fresh
 
 
 def collect_catalog(channel_ids, genre: str, section_name: str, accept) -> List[Dict]:
@@ -2259,6 +2314,19 @@ def _private_section(section_name: str, videos: List[Dict]) -> Dict:
     }
 
 
+def _take_live_only(feed: List[Dict], genre: str, extra: Optional[List[Dict]], accept) -> tuple:
+    """Remove one private genre from the news feed and keep only what is live now."""
+    owned = [video for video in list(feed) + list(extra or []) if catalog_genre(video) == genre and accept(video)]
+    remaining = [video for video in feed if catalog_genre(video) != genre]
+    by_id: Dict[str, Dict] = {}
+    for video in owned:
+        video_id = video.get("videoId")
+        if video_id:
+            video["genre"] = genre
+            by_id[video_id] = video
+    return remaining, list(by_id.values())
+
+
 def _take_private(feed: List[Dict], genre: str, extra: Optional[List[Dict]]) -> tuple:
     """Pull one private genre out of the news feed and merge the saved copy."""
     owned = [video for video in feed if catalog_genre(video) == genre]
@@ -2275,6 +2343,7 @@ def generate_ott_json(
     vlog_videos: Optional[List[Dict]] = None,
     food_videos: Optional[List[Dict]] = None,
     movie_videos: Optional[List[Dict]] = None,
+    darshan_videos: Optional[List[Dict]] = None,
 ) -> Dict:
     """Generate OTT-style JSON feed."""
     _log_city(
@@ -2285,6 +2354,7 @@ def generate_ott_json(
     feed, vlog_only = _take_private(feed, GENRE_VLOG, vlog_videos)
     feed, food_only = _take_private(feed, GENRE_FOOD, food_videos)
     feed, movie_only = _take_private(feed, GENRE_MOVIE, movie_videos)
+    feed, darshan_only = _take_live_only(feed, GENRE_DARSHAN, darshan_videos, darshan_live_ok)
     feed = filter_to_cg_mp_news(feed)
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
@@ -2331,6 +2401,7 @@ def generate_ott_json(
         (SECTION_VLOG, vlog_only),
         (SECTION_FOOD, food_only),
         (SECTION_MOVIE, movie_only),
+        (SECTION_DARSHAN, darshan_only),
     ):
         if owned:
             sections.append(_private_section(section_name, owned))
@@ -2391,7 +2462,11 @@ def main():
         vlog_videos = collect_catalog(VLOG_CHANNEL_IDS, GENRE_VLOG, SECTION_VLOG, vlog_ok)
         food_videos = collect_catalog(FOOD_CHANNEL_IDS, GENRE_FOOD, SECTION_FOOD, food_vlog_ok)
         movie_videos = collect_catalog(MOVIE_CHANNEL_IDS, GENRE_MOVIE, SECTION_MOVIE, free_u_movie_ok)
-        print(f"[Vlog] {len(vlog_videos)} [Food] {len(food_videos)} [Movie] {len(movie_videos)}")
+        darshan_videos = collect_darshan_lives(DARSHAN_CHANNEL_IDS)
+        print(
+            f"[Vlog] {len(vlog_videos)} [Food] {len(food_videos)} "
+            f"[Movie] {len(movie_videos)} [Darshan] {len(darshan_videos)}"
+        )
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()
         _log_city(
@@ -2406,6 +2481,7 @@ def main():
             vlog_videos=vlog_videos,
             food_videos=food_videos,
             movie_videos=movie_videos,
+            darshan_videos=darshan_videos,
         )
         print(f"Fetched {len(feed)} news videos")
         

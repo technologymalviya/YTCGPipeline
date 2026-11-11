@@ -239,6 +239,41 @@ def test_private_tabs_stay_out_of_news_and_all():
     assert "m1" not in encoded
 
 
+def test_darshan_tab_keeps_only_a_live_mandir_stream():
+    import cluster_api
+
+    mahakal = "UCEUuwXHmHckwmdANSy4c7Sw"
+    live = _feed_video(
+        "d1", "Bhasma Aarti", channelId=mahakal, channelTitle="Shri Mahakaleshwar",
+        videoType="LIVE", durationSeconds=0,
+    )
+    recording = _feed_video(
+        "d2", "Bhasma Aarti recording", channelId=mahakal, videoType="VOD", durationSeconds=3600,
+    )
+    upcoming = _feed_video(
+        "d3", "Aarti upcoming", channelId=mahakal, videoType="SCHEDULED", durationSeconds=0,
+    )
+    news_live = _feed_video("n1", "रायपुर लाइव", videoType="LIVE", channelId="NEWSCHAN")
+    assert gj.darshan_live_ok(live)
+    assert not gj.darshan_live_ok(recording)
+    assert not gj.darshan_live_ok(upcoming)
+    assert not gj.darshan_live_ok(news_live)
+    news = _feed_video("n2", "रायपुर में बैठक")
+    out = gj.generate_ott_json([news, live, recording, news_live], darshan_videos=[live, recording, upcoming])
+    by_section = {
+        section["section"]: [item["videoId"] for item in section["items"]]
+        for section in out["sections"]
+    }
+    assert by_section["Darshan"] == ["d1"]
+    assert out["sections"][-1]["sectionIndex"] == 12
+    for name, video_ids in by_section.items():
+        if name == "Darshan":
+            continue
+        assert "d1" not in video_ids
+        assert "d2" not in video_ids
+    assert "d1" not in json.dumps(cluster_api.extract_clusters(out))
+
+
 def test_free_u_certificate_movie_rules():
     goldmines = "UCyoXW-Dse7fURq30EWl_CUA"
     assert gj.free_u_movie_ok(_feed_video(

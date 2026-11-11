@@ -1250,9 +1250,9 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
 
     clusters = []
     
-    # Education, Vlog, Food, and Movie stay on their own tabs. They are not
+    # Education, Vlog, Food, Movie, and Darshan stay on their own tabs. They are not
     # news and they are not part of All Chhattisgarh or All Madhya Pradesh.
-    private_sections = {"Education", "Vlog", "Food", "Movie"}
+    private_sections = {"Education", "Vlog", "Food", "Movie", "Darshan"}
     all_videos = []
     sections = data.get('sections', [])
     
