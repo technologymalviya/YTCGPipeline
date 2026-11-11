@@ -230,7 +230,6 @@ EDUCATION_CHANNEL_IDS = frozenset(EDUCATION_CHANNELS)
 # Famous Chhattisgarh vlog channels. Their uploads belong on the Vlog tab only.
 VLOG_CHANNEL_IDS = frozenset({
     "UCMfTJq-r9fNEAEWcf_K3b5g",  # Mr.RakeshWakte
-    "UCRJsRYrVa5UjoDTCk0sdCug",  # PK Vlogs 07
     "UC6tOy_bgL0L8wC04x7Ryx1A",  # rohanraipurvlogs
     "UCLbTU5Tr2jgLbjHWGLoCc_A",  # CG tour vlogger
     "UCuwl-vznLM7aMROp678EWyw",  # The CG Tour
@@ -253,6 +252,7 @@ FOOD_CHANNEL_IDS = frozenset({
     "UC0rkGt_3aEz9hp6tCnFnFFA",  # MP Food Vlogs
     "UCR5ZAKaoQzu57WrZ7Fr2Wgg",  # indori foodie
     "UCqXomluwT6htg__dGh1vLOg",  # Indore Street
+    "UCOT0guEWvdIoXjKI1et_2cA",  # Chhattisgarhi Rasoi
 })
 
 # Channels that upload full movies for free. Only a U-certificate feature is kept.
@@ -293,7 +293,11 @@ _FOOD_TITLE_PATTERN = re.compile(
     re.IGNORECASE,
 )
 _MOVIE_NOT_FEATURE_PATTERN = re.compile(
-    r"trailer|teaser|jukebox|promo|dialogue|scene|songs?|audio|short",
+    r"trailer|teaser|jukebox|promo|dialogue|scene|सीन|climax|shorts?|audio song|\bsongs?\b",
+    re.IGNORECASE,
+)
+_FULL_MOVIE_PATTERN = re.compile(
+    r"full movie|फुल मूवी|पूर्ण मूवी|हिंदी डब्ड मूवी|डब्ड मूवी",
     re.IGNORECASE,
 )
 _MOVIE_ADULT_OR_UA_PATTERN = re.compile(
@@ -580,28 +584,28 @@ def vlog_ok(video: Dict) -> bool:
 
 
 def food_vlog_ok(video: Dict) -> bool:
-    """A CG or MP food vlog. A travel clip on the same channel stays out."""
-    if (video.get("channelId") or "") not in FOOD_CHANNEL_IDS:
-        return False
-    if not _long_enough(video, FOOD_MIN_DURATION_SECONDS):
-        return False
-    text = f"{video.get('title') or ''} {video.get('description') or ''}"
-    return _FOOD_TITLE_PATTERN.search(text) is not None
+    """A CG or MP food vlog of at least three minutes. Shorts stay out."""
+    return (video.get("channelId") or "") in FOOD_CHANNEL_IDS and _long_enough(video, FOOD_MIN_DURATION_SECONDS)
 
 
 def free_u_movie_ok(video: Dict) -> bool:
-    """A full movie uploaded free on YouTube with a U certificate.
+    """A full movie uploaded free on YouTube.
 
-    U/A and A certificates are not U. Trailers, songs, and clips are not movies.
+    A stated U/A or A certificate is rejected. A stated U certificate is kept.
+    A full movie that does not print a certificate is kept, because these
+    channels upload the film itself rather than a trailer. Scenes and songs are not.
     """
     if (video.get("channelId") or "") not in MOVIE_CHANNEL_IDS:
         return False
     if not _long_enough(video, MOVIE_MIN_DURATION_SECONDS):
         return False
-    text = f"{video.get('title') or ''} {video.get('description') or ''}"
-    if _MOVIE_NOT_FEATURE_PATTERN.search(text) or _MOVIE_ADULT_OR_UA_PATTERN.search(text):
+    title = video.get("title") or ""
+    text = f"{title} {video.get('description') or ''}"
+    if _MOVIE_NOT_FEATURE_PATTERN.search(title) or _MOVIE_ADULT_OR_UA_PATTERN.search(text):
         return False
-    return _MOVIE_U_CERTIFICATE_PATTERN.search(text) is not None
+    if _MOVIE_U_CERTIFICATE_PATTERN.search(text):
+        return True
+    return _FULL_MOVIE_PATTERN.search(title) is not None
 
 
 def education_retention_cutoff(now: Optional[datetime] = None) -> datetime:

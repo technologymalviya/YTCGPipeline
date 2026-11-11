@@ -207,7 +207,7 @@ def test_private_tabs_stay_out_of_news_and_all():
 
     vlog = _feed_video(
         "v1", "Raipur morning walk", genre="Vlog",
-        channelId="UCRJsRYrVa5UjoDTCk0sdCug", channelTitle="PK Vlogs 07",
+        channelId="UCMfTJq-r9fNEAEWcf_K3b5g", channelTitle="Mr.RakeshWakte",
     )
     food = _feed_video(
         "f1", "Indore poha breakfast", genre="Food",
@@ -257,7 +257,10 @@ def test_free_u_certificate_movie_rules():
         "food", "Best poha in Indore", channelId="UCATnz7ESiAH9rW6WZC2pajg", durationSeconds=480,
     ))
     assert not gj.food_vlog_ok(_feed_video(
-        "trip", "Mandu fort tour", channelId="UC0rkGt_3aEz9hp6tCnFnFFA", durationSeconds=480,
+        "short", "Indore poha", channelId="UCATnz7ESiAH9rW6WZC2pajg", durationSeconds=30,
+    ))
+    assert gj.free_u_movie_ok(_feed_video(
+        "full", "Sindoor | Full Movie (HD)", channelId=goldmines, durationSeconds=7200,
     ))
 
 

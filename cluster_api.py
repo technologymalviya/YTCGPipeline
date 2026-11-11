@@ -1161,6 +1161,10 @@ _TRENDING_TOPIC_STOPWORDS = {
     "खबर", "न्यूज", "न्यूज़", "आज", "लाइव", "बड़ी", "बड़ा", "ताजा", "देखें",
     "छत्तीसगढ़", "छत्तीसगढ", "मध्य", "प्रदेश", "मध्यप्रदेश", "chhattisgarh",
     "madhya", "pradesh", "india", "cg", "mp", "समाचार",
+    "कर", "हुई", "हुआ", "रहा", "रही", "रहे", "गया", "गई", "गए", "क्यों", "लिए",
+    "दिया", "किया", "होगा", "होगी", "वाले", "वाला", "वाली", "नहीं", "यहां", "यहाँ",
+    "वहां", "वहाँ", "जब", "तब", "फिर", "अब", "जो", "तो", "भी", "ही", "तक", "यह",
+    "ये", "वो", "वह", "एक", "बाद", "साथ", "केंद्र",
 }
 
 
@@ -1192,8 +1196,10 @@ def extract_trending_topic_clusters(videos: List[Dict[str, Any]]) -> List[Dict[s
     buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
     for video in videos:
         text = _region_title_text(video.get("title") or "")
-        tokens = set(re.findall(r"[a-z0-9]{4,}|[\u0900-\u097F]{2,}", text))
+        tokens = set(re.findall(r"[a-z0-9]{4,}|[\u0900-\u097F]{4,}", text))
         for token in tokens:
+            if token.isdigit() or re.fullmatch(r"20\d\d", token):
+                continue
             if token in _TRENDING_TOPIC_STOPWORDS or token in city_tokens:
                 continue
             buckets[token].append(video)
@@ -1207,6 +1213,10 @@ def extract_trending_topic_clusters(videos: List[Dict[str, Any]]) -> List[Dict[s
             if _video_dedupe_key(video) not in used
         ]
         if len(items) < 3:
+            continue
+        # A word that is just the station name is not a topic.
+        brand_hits = sum(1 for video in items if token in (video.get("channelTitle") or "").lower())
+        if brand_hits >= max(2, len(items) // 2):
             continue
         for video in items:
             used.add(_video_dedupe_key(video))
