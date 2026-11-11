@@ -261,7 +261,7 @@ class TestClusterAPI:
                 
                 # Pinned categories lead. The remaining topics follow trend score.
                 clusters = trending_data['clusters']
-                pinned = {"New Movie Release", "Song", "CM", "All Chhattisgarh", "All Madhya Pradesh"}
+                pinned = {"New Movie Release", "Song", "CM", "All Chhattisgarh", "All Madhya Pradesh", "Weather"}
                 rest = [cluster for cluster in clusters if cluster.get("topic") not in pinned]
                 if len(rest) > 1:
                     for i in range(len(rest) - 1):

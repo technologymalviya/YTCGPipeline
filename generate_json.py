@@ -147,6 +147,9 @@ GENRE_CIVIC = "Civic"
 GENRE_PODCAST = "Podcast"
 GENRE_GENERAL = "General"
 GENRE_EDUCATION = "Education"
+GENRE_VLOG = "Vlog"
+GENRE_FOOD = "Food"
+GENRE_MOVIE = "Movie"
 
 # Every upload from these channels goes in the Podcast row, not only titles that say "podcast".
 PODCAST_ALLOWED_CHANNEL_TITLES = [
@@ -167,6 +170,9 @@ SECTION_CIVIC = "Civic"
 SECTION_PODCAST = "Podcast"
 SECTION_GENERAL = "General"
 SECTION_EDUCATION = "Education"
+SECTION_VLOG = "Vlog"
+SECTION_FOOD = "Food"
+SECTION_MOVIE = "Movie"
 
 # Section -> Index map (per requested mapping)
 # Mapping: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Negative" 7
@@ -181,6 +187,9 @@ SECTION_INDEX = {
     "Civic": 6,
     "Negative": 7,
     "Education": 8,
+    "Vlog": 9,
+    "Food": 10,
+    "Movie": 11,
 }
 
 # Lessons shorter than this are shorts, ads, or clips, not a taught course.
@@ -209,8 +218,58 @@ EDUCATION_CHANNELS = {
     "UC8butISFwT-Wl7EV0hUK0BQ": "topic",  # freeCodeCamp — data, AIML, and cloud courses only
     "UCdngmbVKX1Tgre699-XLlUA": "topic",  # TechWorld with Nana — cloud engineering
     "UCpIn7ox7j7bH_OFj7tYouOQ": "topic",  # John Savill — cloud architecture
+    "UCJS9pqu9BzkAMNTmzNMNhvg": "topic",  # Google Cloud Tech — GCP, including AIML
+    "UC0m-80FnNY2Qb7obvTL_2fA": "topic",  # Microsoft Azure — Azure AIML and data
+    "UCT-nPlVzJI-ccQXlxjSvJmw": "topic",  # AWS Developers — AWS AIML and data
+    "UCLLw7jmFsvfIVaUFsLs8mlQ": "focused",  # Luke Barousse — data analytics
+    "UC7QsqoVapFbZ6_lSsWQahuQ": "focused",  # DataExpert — data engineering
+    "UCbTggJVf0NDTfWX-C_gUGSg": "topic",  # Sumit Mittal — data engineering lessons
 }
 EDUCATION_CHANNEL_IDS = frozenset(EDUCATION_CHANNELS)
+
+# Famous Chhattisgarh vlog channels. Their uploads belong on the Vlog tab only.
+VLOG_CHANNEL_IDS = frozenset({
+    "UCMfTJq-r9fNEAEWcf_K3b5g",  # Mr.RakeshWakte
+    "UCRJsRYrVa5UjoDTCk0sdCug",  # PK Vlogs 07
+    "UC6tOy_bgL0L8wC04x7Ryx1A",  # rohanraipurvlogs
+    "UCLbTU5Tr2jgLbjHWGLoCc_A",  # CG tour vlogger
+    "UCuwl-vznLM7aMROp678EWyw",  # The CG Tour
+    "UC3_bx9fmyV8sLWBeqOgVw_g",  # CG TOURS
+    "UCDkNPDgK2a3lMO0T-KKs4nA",  # The CG Explorer
+    "UCbztM13w6Pz2T_UFwAo0JPQ",  # Manoj Yadav Vlogs
+    "UCQowPyM0iwCmMFGUpvnamtA",  # CG VLOGER
+    "UCOJ_xoXavonXUp0xTfVlzhA",  # BILASPUR VLOGS
+    "UCUTmPRjAJJCbYGS3QW0VNbA",  # RAIPUR DIARIEs
+    "UCwhfAxTmvzWQ9ttM3zMuHOw",  # Chhattisgarhi Vlogs
+})
+
+# Food vlogs from Chhattisgarh and Madhya Pradesh. Tourism clips on these
+# channels are dropped unless the title is about food.
+FOOD_CHANNEL_IDS = frozenset({
+    "UC2YHbILXV-Wpkuob-XENFVQ",  # Raipur food
+    "UC6LBt_zh4gEnKy5I5wQyVIA",  # Traditional Food of Chhattisgarh
+    "UCFUkrUhiIJd5xJ2hXpWRDQQ",  # CG Food Vlogs
+    "UCATnz7ESiAH9rW6WZC2pajg",  # indorefood
+    "UC0rkGt_3aEz9hp6tCnFnFFA",  # MP Food Vlogs
+    "UCR5ZAKaoQzu57WrZ7Fr2Wgg",  # indori foodie
+    "UCqXomluwT6htg__dGh1vLOg",  # Indore Street
+})
+
+# Channels that upload full movies for free. Only a U-certificate feature is kept.
+MOVIE_CHANNEL_IDS = frozenset({
+    "UCyoXW-Dse7fURq30EWl_CUA",  # Goldmines
+    "UCBOmfqgTZi7yDp4-3Lr_3lA",  # Shemaroo Movies
+    "UCEKWXRsfUHkan-D_ljU8Asw",  # Rajshri
+    "UCYauDsl-rswjQGpA0_-Z9Pw",  # Ultra Movie Parlour
+    "UC3ar28GS6o1p0m_wabfk2zw",  # Pen Movies
+    "UCxtwjNPrymSvS4UD_6HgcxQ",  # NH Studioz
+})
+NON_NEWS_CHANNEL_IDS = (
+    EDUCATION_CHANNEL_IDS | VLOG_CHANNEL_IDS | FOOD_CHANNEL_IDS | MOVIE_CHANNEL_IDS
+)
+VLOG_MIN_DURATION_SECONDS = 3 * 60
+FOOD_MIN_DURATION_SECONDS = 3 * 60
+MOVIE_MIN_DURATION_SECONDS = 60 * 60
 
 _EDUCATION_TOPIC_PATTERN = re.compile(
     r"machine learning|deep learning|artificial intelligence|\baiml\b|\bmlops\b|"
@@ -220,7 +279,29 @@ _EDUCATION_TOPIC_PATTERN = re.compile(
     r"bigquery|lakehouse|\bdbt\b|pandas|pytorch|tensorflow|scikit|"
     r"power bi|tableau|statistic|regression|cloud engineer|cloud architect|"
     r"cloud computing|\baws\b|\bazure\b|google cloud|\bgcp\b|kubernetes|\bk8s\b|"
-    r"terraform|docker|devops|opencv|\byolo\b|object detection|\bsql\b",
+    r"terraform|docker|devops|opencv|\byolo\b|object detection|\bsql\b|"
+    r"vertex|sagemaker|bedrock|azure ml|azure machine learning|synapse|"
+    r"microsoft fabric|dataflow|dataproc|bigquery ml",
+    re.IGNORECASE,
+)
+
+_FOOD_TITLE_PATTERN = re.compile(
+    r"food|recipe|restaurant|cafe|dhaba|thali|street food|breakfast|lunch|dinner|"
+    r"poha|samosa|jalebi|biryani|paneer|dosa|idli|"
+    r"खाना|भोजन|रेसिपी|रेसिपि|नाश्ता|थाली|चाट|पोहा|समोसा|रसगुल्ला|मिठाई|स्वाद|"
+    r"स्ट्रीट फूड|रेस्टोरेंट|ढाबा",
+    re.IGNORECASE,
+)
+_MOVIE_NOT_FEATURE_PATTERN = re.compile(
+    r"trailer|teaser|jukebox|promo|dialogue|scene|songs?|audio|short",
+    re.IGNORECASE,
+)
+_MOVIE_ADULT_OR_UA_PATTERN = re.compile(
+    r"u\s*/\s*a|\(\s*ua\s*\)|\(\s*u\s*/\s*a\s*\)|\ba\s*certificate\b|adults only",
+    re.IGNORECASE,
+)
+_MOVIE_U_CERTIFICATE_PATTERN = re.compile(
+    r"\bu\s*certificate\b|\(\s*u\s*\)|\[\s*u\s*\]|\bcertified\s+u\b|यू\s*सर्टिफिकेट",
     re.IGNORECASE,
 )
 
@@ -456,11 +537,71 @@ def _is_podcast_video(title: str, description: str = "", channel_title: str = ""
     return _looks_like_podcast_content(title, description)
 
 
+def catalog_genre(video: Dict) -> Optional[str]:
+    """The private tab for this video, or None when it is ordinary news.
+
+    Education, Vlog, Food, and Movie never appear on another tab or in All.
+    """
+    genre = video.get("genre") or ""
+    if genre in (GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE):
+        return genre
+    channel_id = video.get("channelId") or ""
+    if channel_id in EDUCATION_CHANNEL_IDS:
+        return GENRE_EDUCATION
+    if channel_id in VLOG_CHANNEL_IDS:
+        return GENRE_VLOG
+    if channel_id in FOOD_CHANNEL_IDS:
+        return GENRE_FOOD
+    if channel_id in MOVIE_CHANNEL_IDS:
+        return GENRE_MOVIE
+    return None
+
+
+def is_catalog_video(video: Dict) -> bool:
+    """True when the video is reserved for Education, Vlog, Food, or Movie."""
+    return catalog_genre(video) is not None
+
+
 def is_education_video(video: Dict) -> bool:
     """True when the video belongs on the Education tab and nowhere else."""
-    if (video.get("genre") or "") == GENRE_EDUCATION:
-        return True
-    return (video.get("channelId") or "") in EDUCATION_CHANNEL_IDS
+    return catalog_genre(video) == GENRE_EDUCATION
+
+
+def _long_enough(video: Dict, minimum: int) -> bool:
+    if (video.get("videoType") or "").strip().upper() in (VIDEO_TYPE_LIVE, VIDEO_TYPE_SCHEDULED):
+        return False
+    duration = video.get("durationSeconds")
+    return isinstance(duration, int) and duration >= minimum
+
+
+def vlog_ok(video: Dict) -> bool:
+    """A Chhattisgarh vlog, not a short."""
+    return (video.get("channelId") or "") in VLOG_CHANNEL_IDS and _long_enough(video, VLOG_MIN_DURATION_SECONDS)
+
+
+def food_vlog_ok(video: Dict) -> bool:
+    """A CG or MP food vlog. A travel clip on the same channel stays out."""
+    if (video.get("channelId") or "") not in FOOD_CHANNEL_IDS:
+        return False
+    if not _long_enough(video, FOOD_MIN_DURATION_SECONDS):
+        return False
+    text = f"{video.get('title') or ''} {video.get('description') or ''}"
+    return _FOOD_TITLE_PATTERN.search(text) is not None
+
+
+def free_u_movie_ok(video: Dict) -> bool:
+    """A full movie uploaded free on YouTube with a U certificate.
+
+    U/A and A certificates are not U. Trailers, songs, and clips are not movies.
+    """
+    if (video.get("channelId") or "") not in MOVIE_CHANNEL_IDS:
+        return False
+    if not _long_enough(video, MOVIE_MIN_DURATION_SECONDS):
+        return False
+    text = f"{video.get('title') or ''} {video.get('description') or ''}"
+    if _MOVIE_NOT_FEATURE_PATTERN.search(text) or _MOVIE_ADULT_OR_UA_PATTERN.search(text):
+        return False
+    return _MOVIE_U_CERTIFICATE_PATTERN.search(text) is not None
 
 
 def education_retention_cutoff(now: Optional[datetime] = None) -> datetime:
@@ -501,12 +642,13 @@ def education_lesson_ok(video: Dict) -> bool:
     return _EDUCATION_TOPIC_PATTERN.search(text) is not None
 
 
-def merge_education_videos(
+def merge_catalog_videos(
     saved: List[Dict],
     fresh: List[Dict],
+    genre: str,
     now: Optional[datetime] = None,
 ) -> List[Dict]:
-    """Keep unique Education lessons published inside the last six months.
+    """Keep one copy of each catalog video published inside the last six months.
 
     A freshly fetched copy replaces the saved copy of the same video.
     """
@@ -517,15 +659,24 @@ def merge_education_videos(
         published = _published_at(video)
         if not video_id or published is None or published < cutoff:
             continue
-        if not is_education_video(video):
+        if catalog_genre(video) != genre and video.get("genre") != genre:
             continue
-        video["genre"] = GENRE_EDUCATION
+        video["genre"] = genre
         by_id[video_id] = video
     return sorted(by_id.values(), key=lambda item: item.get("publishedAt") or "", reverse=True)
 
 
-def load_saved_education_videos(path: str = OUTPUT_FILE_NAME) -> List[Dict]:
-    """Read the Education tab already stored on disk. Missing file means none."""
+def merge_education_videos(
+    saved: List[Dict],
+    fresh: List[Dict],
+    now: Optional[datetime] = None,
+) -> List[Dict]:
+    """Keep unique Education lessons published inside the last six months."""
+    return merge_catalog_videos(saved, fresh, GENRE_EDUCATION, now)
+
+
+def load_saved_catalog_videos(section_name: str, genre: str, path: str = OUTPUT_FILE_NAME) -> List[Dict]:
+    """Read one private tab already stored on disk. A missing file means none."""
     if not os.path.exists(path):
         return []
     try:
@@ -535,12 +686,17 @@ def load_saved_education_videos(path: str = OUTPUT_FILE_NAME) -> List[Dict]:
         return []
     saved: List[Dict] = []
     for section in data.get("sections") or []:
-        if section.get("section") != SECTION_EDUCATION:
+        if section.get("section") != section_name:
             continue
         for video in section.get("items") or []:
-            video["genre"] = GENRE_EDUCATION
+            video["genre"] = genre
             saved.append(video)
     return saved
+
+
+def load_saved_education_videos(path: str = OUTPUT_FILE_NAME) -> List[Dict]:
+    """Read the Education tab already stored on disk. Missing file means none."""
+    return load_saved_catalog_videos(SECTION_EDUCATION, GENRE_EDUCATION, path)
 
 
 # Create word boundary patterns for better matching
@@ -1423,7 +1579,7 @@ def apply_negative_context(genre: str, scores: Dict[str, float]) -> str:
     """
     if genre in ("Crime", "Traffic"):
         return GENRE_NEGATIVE
-    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION):
+    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE):
         return genre
     negative = scores.get(GENRE_NEGATIVE, 0.0)
     best_other = max((value for name, value in scores.items() if name != GENRE_NEGATIVE), default=0.0)
@@ -1635,6 +1791,32 @@ def fetch_education_channel_videos(channel_id: str) -> List[Dict]:
     return lessons
 
 
+def fetch_catalog_channel_videos(channel_id: str, genre: str, accept) -> List[Dict]:
+    """Collect six months of one private-tab channel, then keep what accept() allows."""
+    videos = fetch_latest_videos_for_channel(
+        channel_id,
+        cutoff=education_retention_cutoff(),
+        page_size=EDUCATION_PLAYLIST_PAGE_SIZE,
+        max_pages=EDUCATION_MAX_PLAYLIST_PAGES,
+    )
+    kept = []
+    for video in videos:
+        video["channelId"] = channel_id
+        video["genre"] = genre
+        if accept(video):
+            kept.append(video)
+    print(f"[{genre}] {channel_id}: kept {len(kept)} of {len(videos)} uploads")
+    return kept
+
+
+def collect_catalog(channel_ids, genre: str, section_name: str, accept) -> List[Dict]:
+    """Fetch a private tab and merge it with the copy already saved for six months."""
+    fresh: List[Dict] = []
+    for channel_id in channel_ids:
+        fresh.extend(fetch_catalog_channel_videos(channel_id, genre, accept))
+    return merge_catalog_videos(load_saved_catalog_videos(section_name, genre), fresh, genre)
+
+
 def aggregate_bhilai_videos(channels: List[str]) -> List[Dict]:
     """Fetch videos for each channel and merge them."""
     all_videos: List[Dict] = []
@@ -1677,9 +1859,10 @@ def add_genres_to_feed(feed: List[Dict]) -> List[Dict]:
                 print(f"[Classification] Execution time limit reached ({elapsed_time:.1f}s), using keyword-based for remaining {total_videos - i + 1} videos")
                 execution_time_exceeded = True
             openai_failed = True  # Treat as failure to use keyword-based
-        # Course channels never enter Live, General, or any news genre.
-        if is_education_video(v):
-            v["genre"] = GENRE_EDUCATION
+        # Private tabs never enter Live, General, or any news genre.
+        private_genre = catalog_genre(v)
+        if private_genre:
+            v["genre"] = private_genre
             special_count += 1
             continue
 
@@ -2041,15 +2224,23 @@ def filter_by_city(feed: List[Dict], city: str) -> List[Dict]:
     return out
 
 
-def _education_section(videos: List[Dict]) -> Dict:
-    """One Education rail. Newest lesson first. These items are not copied elsewhere."""
+def _private_section(section_name: str, videos: List[Dict]) -> Dict:
+    """One private rail. Newest first. These items are not copied elsewhere."""
     ordered = sorted(videos, key=lambda video: video.get("publishedAt") or "", reverse=True)
     return {
-        "section": SECTION_EDUCATION,
+        "section": section_name,
         "count": len(ordered),
         "items": ordered,
-        "sectionIndex": SECTION_INDEX[SECTION_EDUCATION],
+        "sectionIndex": SECTION_INDEX[section_name],
     }
+
+
+def _take_private(feed: List[Dict], genre: str, extra: Optional[List[Dict]]) -> tuple:
+    """Pull one private genre out of the news feed and merge the saved copy."""
+    owned = [video for video in feed if catalog_genre(video) == genre]
+    remaining = [video for video in feed if catalog_genre(video) != genre]
+    owned.extend(extra or [])
+    return remaining, merge_catalog_videos(owned, [], genre)
 
 
 def generate_ott_json(
@@ -2057,16 +2248,19 @@ def generate_ott_json(
     request_ip: str = "",
     ip_lookup_url: str = "",
     education_videos: Optional[List[Dict]] = None,
+    vlog_videos: Optional[List[Dict]] = None,
+    food_videos: Optional[List[Dict]] = None,
+    movie_videos: Optional[List[Dict]] = None,
 ) -> Dict:
     """Generate OTT-style JSON feed."""
     _log_city(
         f"Starting OTT JSON generation with feed_size={len(feed)}, request_ip='{request_ip or '<none>'}'"
     )
-    # Education is removed before the region filter and before every news tab.
-    education_only = [video for video in feed if is_education_video(video)]
-    feed = [video for video in feed if not is_education_video(video)]
-    education_only.extend(education_videos or [])
-    education_only = merge_education_videos(education_only, [])
+    # Private tabs are removed before the region filter and before every news tab.
+    feed, education_only = _take_private(feed, GENRE_EDUCATION, education_videos)
+    feed, vlog_only = _take_private(feed, GENRE_VLOG, vlog_videos)
+    feed, food_only = _take_private(feed, GENRE_FOOD, food_videos)
+    feed, movie_only = _take_private(feed, GENRE_MOVIE, movie_videos)
     feed = filter_to_cg_mp_news(feed)
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
@@ -2108,8 +2302,14 @@ def generate_ott_json(
         {"section": SECTION_CIVIC, "count": len(civic_news), "items": civic_news},
         {"section": SECTION_NEGATIVE, "count": len(negative_news), "items": negative_news},
     ]
-    if education_only:
-        sections.append(_education_section(education_only))
+    for section_name, owned in (
+        (SECTION_EDUCATION, education_only),
+        (SECTION_VLOG, vlog_only),
+        (SECTION_FOOD, food_only),
+        (SECTION_MOVIE, movie_only),
+    ):
+        if owned:
+            sections.append(_private_section(section_name, owned))
 
     if city_section:
         sections = [city_section] + sections
@@ -2153,7 +2353,7 @@ def main():
         }
     else:
         print(f"Loaded {len(API_KEYS)} API key(s) for fallback support")
-        news_channels = [channel for channel in BHILAI_CHANNELS if channel not in EDUCATION_CHANNEL_IDS]
+        news_channels = [channel for channel in BHILAI_CHANNELS if channel not in NON_NEWS_CHANNEL_IDS]
         print(f"Fetching videos from {len(news_channels)} news channels...")
         feed = aggregate_bhilai_videos(news_channels)
         feed = filter_to_cg_mp_news(feed)
@@ -2164,6 +2364,10 @@ def main():
             fresh_education.extend(fetch_education_channel_videos(channel_id))
         education_videos = merge_education_videos(load_saved_education_videos(), fresh_education)
         print(f"[Education] {len(education_videos)} lessons inside the six-month window")
+        vlog_videos = collect_catalog(VLOG_CHANNEL_IDS, GENRE_VLOG, SECTION_VLOG, vlog_ok)
+        food_videos = collect_catalog(FOOD_CHANNEL_IDS, GENRE_FOOD, SECTION_FOOD, food_vlog_ok)
+        movie_videos = collect_catalog(MOVIE_CHANNEL_IDS, GENRE_MOVIE, SECTION_MOVIE, free_u_movie_ok)
+        print(f"[Vlog] {len(vlog_videos)} [Food] {len(food_videos)} [Movie] {len(movie_videos)}")
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()
         _log_city(
@@ -2175,6 +2379,9 @@ def main():
             request_ip=request_ip,
             ip_lookup_url=ip_lookup_url,
             education_videos=education_videos,
+            vlog_videos=vlog_videos,
+            food_videos=food_videos,
+            movie_videos=movie_videos,
         )
         print(f"Fetched {len(feed)} news videos")
         

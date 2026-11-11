@@ -185,6 +185,111 @@ def test_education_channel_is_not_classified_as_news():
     assert classified[0]["genre"] == gj.GENRE_EDUCATION
 
 
+def _feed_video(video_id, title, **extra):
+    video = {
+        "videoId": video_id,
+        "title": title,
+        "description": "",
+        "channelTitle": "News",
+        "publishedAt": "2026-11-11T04:00:00Z",
+        "views": extra.pop("views", 10),
+        "likes": 0,
+        "genre": extra.pop("genre", "General"),
+        "durationSeconds": extra.pop("durationSeconds", 600),
+        "videoType": "VOD",
+    }
+    video.update(extra)
+    return video
+
+
+def test_private_tabs_stay_out_of_news_and_all():
+    import cluster_api
+
+    vlog = _feed_video(
+        "v1", "Raipur morning walk", genre="Vlog",
+        channelId="UCRJsRYrVa5UjoDTCk0sdCug", channelTitle="PK Vlogs 07",
+    )
+    food = _feed_video(
+        "f1", "Indore poha breakfast", genre="Food",
+        channelId="UCATnz7ESiAH9rW6WZC2pajg", channelTitle="indorefood",
+    )
+    movie = _feed_video(
+        "m1", "Family Drama (U) Full Movie", genre="Movie",
+        channelId="UCyoXW-Dse7fURq30EWl_CUA", durationSeconds=7200,
+    )
+    news = _feed_video("n1", "रायपुर में बैठक", views=100)
+    out = gj.generate_ott_json([news, vlog, food, movie])
+    by_section = {
+        section["section"]: [item["videoId"] for item in section["items"]]
+        for section in out["sections"]
+    }
+    assert by_section["Vlog"] == ["v1"]
+    assert by_section["Food"] == ["f1"]
+    assert by_section["Movie"] == ["m1"]
+    assert by_section["Vlog"] and out["sections"][-3]["sectionIndex"] == 9
+    for name, video_ids in by_section.items():
+        if name in ("Vlog", "Food", "Movie"):
+            continue
+        assert "v1" not in video_ids
+        assert "f1" not in video_ids
+        assert "m1" not in video_ids
+    encoded = json.dumps(cluster_api.extract_clusters(out))
+    assert "v1" not in encoded
+    assert "f1" not in encoded
+    assert "m1" not in encoded
+
+
+def test_free_u_certificate_movie_rules():
+    goldmines = "UCyoXW-Dse7fURq30EWl_CUA"
+    assert gj.free_u_movie_ok(_feed_video(
+        "ok", "Family Drama (U) | Full Movie", channelId=goldmines, durationSeconds=7200,
+    ))
+    assert not gj.free_u_movie_ok(_feed_video(
+        "ua", "Action (U/A) | Full Movie", channelId=goldmines, durationSeconds=7200,
+    ))
+    assert not gj.free_u_movie_ok(_feed_video(
+        "trailer", "Family Drama (U) Official Trailer", channelId=goldmines, durationSeconds=7200,
+    ))
+    assert not gj.free_u_movie_ok(_feed_video(
+        "short", "Family Drama (U)", channelId=goldmines, durationSeconds=600,
+    ))
+    assert gj.food_vlog_ok(_feed_video(
+        "food", "Best poha in Indore", channelId="UCATnz7ESiAH9rW6WZC2pajg", durationSeconds=480,
+    ))
+    assert not gj.food_vlog_ok(_feed_video(
+        "trip", "Mandu fort tour", channelId="UC0rkGt_3aEz9hp6tCnFnFFA", durationSeconds=480,
+    ))
+
+
+def test_weather_and_trending_topic_groups():
+    import cluster_api
+
+    items = [
+        _feed_video(f"rain{i}", f"रायपुर में भारी बारिश का अलर्ट {i}", views=20)
+        for i in range(1)
+    ]
+    items.append(_feed_video("heat", "छत्तीसगढ़ में मौसम विभाग का अलर्ट", views=20))
+    items.append(_feed_video("meet", "रायपुर में बैठक", views=20))
+    items.extend(
+        _feed_video(f"paddy{i}", f"धान खरीदी केंद्र में भीड़ {i}", views=80000)
+        for i in range(3)
+    )
+    items.extend(
+        _feed_video(f"other{i}", f"अलग अलग मुद्दा संख्या {i}", views=5)
+        for i in range(12)
+    )
+    clusters = cluster_api.extract_clusters({"sections": [{"section": "General", "items": items}]})
+    by_topic = {cluster["topic"]: cluster for cluster in clusters}
+    weather_ids = {video["videoId"] for video in by_topic["Weather"]["videos"]}
+    assert weather_ids == {"rain0", "heat"}
+    assert "meet" not in weather_ids
+    assert any(
+        cluster["clusterId"].startswith("topic-")
+        and {video["videoId"] for video in cluster["videos"]} == {"paddy0", "paddy1", "paddy2"}
+        for cluster in clusters
+    )
+
+
 def test_city_news_is_grouped_even_when_views_are_low():
     import cluster_api
 

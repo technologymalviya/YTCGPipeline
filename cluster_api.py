@@ -1149,6 +1149,75 @@ def _named_cluster(cluster_id: str, topic: str, videos: List[Dict[str, Any]]) ->
     }
 
 
+_WEATHER_TITLE_PATTERN = re.compile(
+    r"weather|forecast|rainfall|cyclone|heat\s*wave|cold\s*wave|\bimd\b|"
+    r"मौसम|बारिश|वर्षा|तूफान|चक्रवात|ओलावृष्टि|आंधी|बाढ़|तापमान|मौसम विभाग",
+    re.IGNORECASE,
+)
+_TRENDING_TOPIC_STOPWORDS = {
+    "the", "and", "for", "with", "from", "this", "that", "video", "news", "live",
+    "latest", "breaking", "today", "update", "hindi", "official", "full", "new",
+    "big", "में", "की", "का", "के", "से", "और", "पर", "को", "ने", "है", "हैं",
+    "खबर", "न्यूज", "न्यूज़", "आज", "लाइव", "बड़ी", "बड़ा", "ताजा", "देखें",
+    "छत्तीसगढ़", "छत्तीसगढ", "मध्य", "प्रदेश", "मध्यप्रदेश", "chhattisgarh",
+    "madhya", "pradesh", "india", "cg", "mp", "समाचार",
+}
+
+
+def extract_weather_cluster(videos: List[Dict[str, Any]]) -> Optional[Dict[str, Any]]:
+    """One Weather topic, and only videos whose headline is about the weather."""
+    from generate_json import _region_title_text
+
+    matched = []
+    for video in videos:
+        text = _region_title_text(video.get("title") or "")
+        if text and _WEATHER_TITLE_PATTERN.search(text):
+            matched.append(video)
+    matched = dedupe_videos_by_video_id(matched)
+    if not matched:
+        return None
+    logger.info(f"Created Weather cluster with {len(matched)} videos")
+    return _named_cluster("weather", "Weather", matched)
+
+
+def extract_trending_topic_clusters(videos: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Group a trending headline that several videos share into its own topic.
+
+    A video is used once, for the shared word that appears in the most headlines.
+    City names and generic news words are not topics of their own.
+    """
+    from generate_json import _region_title_text
+
+    city_tokens = {term.lower() for _, terms in _CITY_TOPICS for term in terms}
+    buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
+    for video in videos:
+        text = _region_title_text(video.get("title") or "")
+        tokens = set(re.findall(r"[a-z0-9]{4,}|[\u0900-\u097F]{2,}", text))
+        for token in tokens:
+            if token in _TRENDING_TOPIC_STOPWORDS or token in city_tokens:
+                continue
+            buckets[token].append(video)
+
+    ranked = sorted(buckets.items(), key=lambda item: len(item[1]), reverse=True)
+    used: Set[str] = set()
+    clusters: List[Dict[str, Any]] = []
+    for token, raw_items in ranked:
+        items = [
+            video for video in dedupe_videos_by_video_id(raw_items)
+            if _video_dedupe_key(video) not in used
+        ]
+        if len(items) < 3:
+            continue
+        for video in items:
+            used.add(_video_dedupe_key(video))
+        label = token.title() if re.search(r"[a-z]", token) else token
+        cluster_id = re.sub(r"[^\w]+", "-", token).strip("-") or "topic"
+        clusters.append(_named_cluster(f"topic-{cluster_id}", label, items))
+    if clusters:
+        logger.info(f"Created {len(clusters)} trending topic clusters")
+    return clusters
+
+
 def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Extract clusters from output.json based on content similarity.
@@ -1160,29 +1229,31 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     - Public Sector Exam (PSE)
     - Festival (festival celebrations, preparations, events)
     """
-    from generate_json import is_education_video, video_feed_states
+    from generate_json import is_catalog_video, video_feed_states
 
     clusters = []
     
-    # Collect all videos from all sections. Education lessons stay on their
-    # own tab: they are not news, and they are not part of All Chhattisgarh
-    # or All Madhya Pradesh.
+    # Education, Vlog, Food, and Movie stay on their own tabs. They are not
+    # news and they are not part of All Chhattisgarh or All Madhya Pradesh.
+    private_sections = {"Education", "Vlog", "Food", "Movie"}
     all_videos = []
     sections = data.get('sections', [])
     
     for section in sections:
-        if section.get('section') == 'Education':
+        if section.get('section') in private_sections:
             continue
         items = section.get('items', [])
-        all_videos.extend(item for item in items if not is_education_video(item))
+        all_videos.extend(item for item in items if not is_catalog_video(item))
 
     all_videos = dedupe_videos_by_video_id(all_videos)
-    # Group cities before the view gate and before PSE. Both of those steps
-    # were keeping local headlines out of a city topic.
-    city_news_clusters = extract_city_news_clusters([
+    # Group cities and weather before the view gate and before PSE. Both of
+    # those steps were keeping local headlines out of their own topic.
+    news_for_places = [
         video for video in all_videos
         if not is_new_cg_movie_release(video) and not is_song_video(video)
-    ])
+    ]
+    city_news_clusters = extract_city_news_clusters(news_for_places)
+    weather_cluster = extract_weather_cluster(news_for_places)
     movie_videos = [video for video in all_videos if is_new_cg_movie_release(video)]
     song_videos = [video for video in all_videos if is_song_video(video)]
     cm_videos = [video for video in all_videos if is_cm_video(video)]
@@ -1192,6 +1263,20 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
 
     all_videos = select_actually_trending_videos(all_videos)
     all_videos = [video for video in all_videos if _video_dedupe_key(video) not in special_keys]
+    weather_keys = set()
+    if weather_cluster:
+        weather_keys = {_video_dedupe_key(video) for video in weather_cluster.get("videos", [])}
+    trending_topic_clusters = extract_trending_topic_clusters([
+        video for video in all_videos
+        if _video_dedupe_key(video) not in weather_keys
+        and not is_new_cg_movie_release(video)
+        and not is_song_video(video)
+    ])
+    trending_topic_keys = {
+        _video_dedupe_key(video)
+        for cluster in trending_topic_clusters
+        for video in cluster.get("videos", [])
+    }
     
     if not all_videos and not movie_videos and not song_videos and not cg_videos and not mp_videos:
         logger.info("No videos found in data")
@@ -1204,7 +1289,10 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     festival_videos = []
     other_videos = []
     
+    claimed_keys = weather_keys | trending_topic_keys
     for video in all_videos:
+        if _video_dedupe_key(video) in claimed_keys:
+            continue
         if is_pse_related_video(video):
             pse_videos.append(video)
         elif is_festival_related_video(video):
@@ -1344,6 +1432,9 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     # City topics were already built from the full feed. Drop those videos
     # from similarity grouping so the same city is not clustered twice.
     clusters.extend(city_news_clusters)
+    if weather_cluster:
+        clusters.append(weather_cluster)
+    clusters.extend(trending_topic_clusters)
     city_video_keys = {
         _video_dedupe_key(v) for c in city_news_clusters for v in c.get('videos', [])
     }
@@ -1413,7 +1504,7 @@ def extract_clusters(data: Dict[str, Any]) -> List[Dict[str, Any]]:
     
     reserved_ids = {
         'public-sector-exam', 'new-movie-release', 'song', 'cm', 'festival',
-        'all-chhattisgarh', 'all-madhya-pradesh',
+        'all-chhattisgarh', 'all-madhya-pradesh', 'weather',
     }
     pse_count = len([c for c in clusters if c.get('clusterId') == 'public-sector-exam'])
     movie_count = len([c for c in clusters if c.get('clusterId') == 'new-movie-release'])
@@ -1444,7 +1535,7 @@ def generate_trending_cluster_json(clusters: List[Dict[str, Any]]) -> Dict[str, 
         Dictionary with 'generatedAt', 'clusterCount', and sorted 'clusters' list
     """
     # These categories stay at the top. The rest follow trend score.
-    pinned_ids = ["new-movie-release", "song", "cm", "all-chhattisgarh", "all-madhya-pradesh"]
+    pinned_ids = ["new-movie-release", "song", "cm", "all-chhattisgarh", "all-madhya-pradesh", "weather"]
     pinned = [c for pin in pinned_ids for c in clusters if c.get("clusterId") == pin]
     rest = sorted(
         [c for c in clusters if c.get("clusterId") not in pinned_ids],
