@@ -126,7 +126,7 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 
 4. **OTT structure** (`generate_ott_json`)
    - Sections: Live, General, Podcast, Jobs, Politics, Events, Civic, Negative, Education. Negative items use genre Negative, newest first. Education is course lessons only and is omitted when empty. Scheduled videos are excluded. A resolved city section is prepended at index 0.
-   - `sectionIndex`: General 1, Podcast 2, Jobs 3, Politics 4, Events 5, Civic 6, Negative 7, Education 8, Vlog 9, Food 10, Movie 11, Darshan 12.
+   - `sectionIndex`: General 1, Podcast 2, Jobs 3, Politics 4, Events 5, Civic 6, Negative 7, Education 8, Vlog 9, Food 10, Movie 11, Darshan 12, Katha 13.
 
 5. **Persistence**
    - Write `output.json` only when config is valid and feed non-empty (otherwise preserve existing file).
@@ -193,7 +193,7 @@ The **YTCG Pipeline** (YouTube Chhattisgarh / Bhilai News Pipeline) is a data pi
 - **generatedAt**: ISO8601 UTC.
 - **sections**: Array of:
   - **section**: Name (optional city, Live, General, Podcast, Jobs, Politics, Events, Civic, Negative, Education).
-  - **sectionIndex**: Rail order. General=1, Podcast=2, Jobs=3, Politics=4, Events=5, Civic=6, Negative=7, Education=8, Vlog=9, Food=10, Movie=11, Darshan=12. City and Live use 0.
+  - **sectionIndex**: Rail order. General=1, Podcast=2, Jobs=3, Politics=4, Events=5, Civic=6, Negative=7, Education=8, Vlog=9, Food=10, Movie=11, Darshan=12, Katha=13. City and Live use 0.
   - **count**: Number of videos in section.
   - **items**: Array of video objects.
 

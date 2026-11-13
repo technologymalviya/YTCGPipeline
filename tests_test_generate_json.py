@@ -274,6 +274,42 @@ def test_darshan_tab_keeps_only_a_live_mandir_stream():
     assert "d1" not in json.dumps(cluster_api.extract_clusters(out))
 
 
+def test_katha_stays_on_its_tab():
+    import cluster_api
+
+    bhakti = "UCsjMAEPcv7-oNGHtRU9Vg6w"
+    talk = _feed_video(
+        "k1", "Shri Ram Katha", channelId=bhakti, channelTitle="BhaktiPath", durationSeconds=3600,
+    )
+    short = _feed_video(
+        "k2", "Katha clip", channelId=bhakti, durationSeconds=30,
+    )
+    live = _feed_video(
+        "k3", "Katha live", channelId="UCGQ-nwzfhjFKJBvwv1TE3-Q",
+        channelTitle="Sudhanshu Ji Maharaj", videoType="LIVE", durationSeconds=0,
+    )
+    news = _feed_video("n2", "रायपुर में बैठक")
+    assert gj.katha_ok(talk)
+    assert gj.katha_ok(live)
+    assert not gj.katha_ok(short)
+    out = gj.generate_ott_json([news, talk, short], katha_videos=[talk, short, live])
+    by_section = {
+        section["section"]: [item["videoId"] for item in section["items"]]
+        for section in out["sections"]
+    }
+    assert set(by_section["Katha"]) == {"k1", "k3"}
+    assert out["sections"][-1]["sectionIndex"] == 13
+    for name, video_ids in by_section.items():
+        if name == "Katha":
+            continue
+        assert "k1" not in video_ids
+        assert "k2" not in video_ids
+        assert "k3" not in video_ids
+    encoded = json.dumps(cluster_api.extract_clusters(out))
+    assert "k1" not in encoded
+    assert "k3" not in encoded
+
+
 def test_free_u_certificate_movie_rules():
     goldmines = "UCyoXW-Dse7fURq30EWl_CUA"
     assert gj.free_u_movie_ok(_feed_video(

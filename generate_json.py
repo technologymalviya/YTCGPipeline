@@ -151,6 +151,7 @@ GENRE_VLOG = "Vlog"
 GENRE_FOOD = "Food"
 GENRE_MOVIE = "Movie"
 GENRE_DARSHAN = "Darshan"
+GENRE_KATHA = "Katha"
 
 # Every upload from these channels goes in the Podcast row, not only titles that say "podcast".
 PODCAST_ALLOWED_CHANNEL_TITLES = [
@@ -175,6 +176,7 @@ SECTION_VLOG = "Vlog"
 SECTION_FOOD = "Food"
 SECTION_MOVIE = "Movie"
 SECTION_DARSHAN = "Darshan"
+SECTION_KATHA = "Katha"
 
 # Section -> Index map (per requested mapping)
 # Mapping: "General" 1, "Podcast" 2, "Jobs" 3, "Politics" 4, "Events" 5, "Civic" 6, "Negative" 7
@@ -193,6 +195,7 @@ SECTION_INDEX = {
     "Food": 10,
     "Movie": 11,
     "Darshan": 12,
+    "Katha": 13,
 }
 
 # Lessons shorter than this are shorts, ads, or clips, not a taught course.
@@ -288,8 +291,15 @@ DARSHAN_CHANNEL_IDS = frozenset({
     "UCcON_PYxEOS9HmmVyhYnUFQ",  # Maa Bamleshwari Mandir, Dongargarh
 })
 DARSHAN_PLAYLIST_PAGES = 2
+# Katha discourses. Shorts are dropped. Talks are kept for six months.
+KATHA_CHANNEL_IDS = frozenset({
+    "UCsjMAEPcv7-oNGHtRU9Vg6w",  # BhaktiPath
+    "UCGQ-nwzfhjFKJBvwv1TE3-Q",  # Sudhanshu Ji Maharaj
+})
+KATHA_MIN_DURATION_SECONDS = 3 * 60
 NON_NEWS_CHANNEL_IDS = (
-    EDUCATION_CHANNEL_IDS | VLOG_CHANNEL_IDS | FOOD_CHANNEL_IDS | MOVIE_CHANNEL_IDS | DARSHAN_CHANNEL_IDS
+    EDUCATION_CHANNEL_IDS | VLOG_CHANNEL_IDS | FOOD_CHANNEL_IDS | MOVIE_CHANNEL_IDS
+    | DARSHAN_CHANNEL_IDS | KATHA_CHANNEL_IDS
 )
 VLOG_MIN_DURATION_SECONDS = 3 * 60
 FOOD_MIN_DURATION_SECONDS = 3 * 60
@@ -569,10 +579,10 @@ def _is_podcast_video(title: str, description: str = "", channel_title: str = ""
 def catalog_genre(video: Dict) -> Optional[str]:
     """The private tab for this video, or None when it is ordinary news.
 
-    Education, Vlog, Food, Movie, and Darshan never appear on another tab or in All.
+    Education, Vlog, Food, Movie, Darshan, and Katha never appear on another tab or in All.
     """
     genre = video.get("genre") or ""
-    if genre in (GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE, GENRE_DARSHAN):
+    if genre in (GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE, GENRE_DARSHAN, GENRE_KATHA):
         return genre
     channel_id = video.get("channelId") or ""
     if channel_id in EDUCATION_CHANNEL_IDS:
@@ -585,11 +595,13 @@ def catalog_genre(video: Dict) -> Optional[str]:
         return GENRE_MOVIE
     if channel_id in DARSHAN_CHANNEL_IDS:
         return GENRE_DARSHAN
+    if channel_id in KATHA_CHANNEL_IDS:
+        return GENRE_KATHA
     return None
 
 
 def is_catalog_video(video: Dict) -> bool:
-    """True when the video is reserved for Education, Vlog, Food, Movie, or Darshan."""
+    """True when the video is reserved for Education, Vlog, Food, Movie, Darshan, or Katha."""
     return catalog_genre(video) is not None
 
 
@@ -646,6 +658,19 @@ def free_u_movie_ok(video: Dict) -> bool:
     if _MOVIE_U_CERTIFICATE_PATTERN.search(text):
         return True
     return _FULL_MOVIE_PATTERN.search(title) is not None
+
+
+def katha_ok(video: Dict) -> bool:
+    """A talk from a Katha channel. Shorts and upcoming streams stay out. A live talk stays."""
+    if (video.get("channelId") or "") not in KATHA_CHANNEL_IDS:
+        return False
+    video_type = (video.get("videoType") or "").strip().upper()
+    if video_type == VIDEO_TYPE_SCHEDULED:
+        return False
+    if video_type == VIDEO_TYPE_LIVE:
+        return True
+    duration = video.get("durationSeconds")
+    return isinstance(duration, int) and duration >= KATHA_MIN_DURATION_SECONDS
 
 
 def darshan_live_ok(video: Dict) -> bool:
@@ -1634,7 +1659,7 @@ def apply_negative_context(genre: str, scores: Dict[str, float]) -> str:
     """
     if genre in ("Crime", "Traffic"):
         return GENRE_NEGATIVE
-    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE, GENRE_DARSHAN):
+    if genre in (GENRE_PODCAST, GENRE_LIVE, GENRE_SCHEDULED, GENRE_NEGATIVE, GENRE_EDUCATION, GENRE_VLOG, GENRE_FOOD, GENRE_MOVIE, GENRE_DARSHAN, GENRE_KATHA):
         return genre
     negative = scores.get(GENRE_NEGATIVE, 0.0)
     best_other = max((value for name, value in scores.items() if name != GENRE_NEGATIVE), default=0.0)
@@ -2344,6 +2369,7 @@ def generate_ott_json(
     food_videos: Optional[List[Dict]] = None,
     movie_videos: Optional[List[Dict]] = None,
     darshan_videos: Optional[List[Dict]] = None,
+    katha_videos: Optional[List[Dict]] = None,
 ) -> Dict:
     """Generate OTT-style JSON feed."""
     _log_city(
@@ -2355,6 +2381,8 @@ def generate_ott_json(
     feed, food_only = _take_private(feed, GENRE_FOOD, food_videos)
     feed, movie_only = _take_private(feed, GENRE_MOVIE, movie_videos)
     feed, darshan_only = _take_live_only(feed, GENRE_DARSHAN, darshan_videos, darshan_live_ok)
+    feed, katha_only = _take_private(feed, GENRE_KATHA, katha_videos)
+    katha_only = [video for video in katha_only if katha_ok(video)]
     feed = filter_to_cg_mp_news(feed)
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
@@ -2402,6 +2430,7 @@ def generate_ott_json(
         (SECTION_FOOD, food_only),
         (SECTION_MOVIE, movie_only),
         (SECTION_DARSHAN, darshan_only),
+        (SECTION_KATHA, katha_only),
     ):
         if owned:
             sections.append(_private_section(section_name, owned))
@@ -2463,9 +2492,10 @@ def main():
         food_videos = collect_catalog(FOOD_CHANNEL_IDS, GENRE_FOOD, SECTION_FOOD, food_vlog_ok)
         movie_videos = collect_catalog(MOVIE_CHANNEL_IDS, GENRE_MOVIE, SECTION_MOVIE, free_u_movie_ok)
         darshan_videos = collect_darshan_lives(DARSHAN_CHANNEL_IDS)
+        katha_videos = collect_catalog(KATHA_CHANNEL_IDS, GENRE_KATHA, SECTION_KATHA, katha_ok)
         print(
             f"[Vlog] {len(vlog_videos)} [Food] {len(food_videos)} "
-            f"[Movie] {len(movie_videos)} [Darshan] {len(darshan_videos)}"
+            f"[Movie] {len(movie_videos)} [Darshan] {len(darshan_videos)} [Katha] {len(katha_videos)}"
         )
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()
@@ -2482,6 +2512,7 @@ def main():
             food_videos=food_videos,
             movie_videos=movie_videos,
             darshan_videos=darshan_videos,
+            katha_videos=katha_videos,
         )
         print(f"Fetched {len(feed)} news videos")
         
