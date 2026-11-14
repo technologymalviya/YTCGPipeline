@@ -246,6 +246,7 @@ VLOG_CHANNEL_IDS = frozenset({
     "UCOJ_xoXavonXUp0xTfVlzhA",  # BILASPUR VLOGS
     "UCUTmPRjAJJCbYGS3QW0VNbA",  # RAIPUR DIARIEs
     "UCwhfAxTmvzWQ9ttM3zMuHOw",  # Chhattisgarhi Vlogs
+    "UCYFZN_1OJ_vXDJF_vU0mAEQ",  # Vlogs Rahul
 })
 
 # Food vlogs from Chhattisgarh and Madhya Pradesh. Tourism clips on these
@@ -259,6 +260,19 @@ FOOD_CHANNEL_IDS = frozenset({
     "UCR5ZAKaoQzu57WrZ7Fr2Wgg",  # indori foodie
     "UCqXomluwT6htg__dGh1vLOg",  # Indore Street
     "UCOT0guEWvdIoXjKI1et_2cA",  # Chhattisgarhi Rasoi
+    "UCwrMIdPlGaNsIGmdMdqO7gA",  # Mayank Karra — Raipur and Chhattisgarhi food
+    "UC3bOIEnFeLmmFn189N3a71g",  # Raipur Foodie Love
+    "UCD7r1Snj1vqJ5dTUUM0u0tw",  # Spoons of Indore
+    "UCbPfW4KDhfbEwCcW0kHrR9g",  # Aamchi Indore
+    "UC6ElR3Fd94_YtoDRqY4ynsg",  # Indori Foodist
+    "UCt_abdviZhkCbd0SGjwlEEw",  # Foodie Yaara — Indore
+    "UCfPIhmpMlAbFBT4aihSk98Q",  # Swad Indore Ka
+})
+# These channels also post travel, shopping, or appliance videos.
+FOOD_MIXED_CHANNEL_IDS = frozenset({
+    "UCOT0guEWvdIoXjKI1et_2cA",  # Chhattisgarhi Rasoi
+    "UC0rkGt_3aEz9hp6tCnFnFFA",  # MP Food Vlogs
+    "UCbPfW4KDhfbEwCcW0kHrR9g",  # Aamchi Indore
 })
 
 # Channels that upload full movies for free. Only a U-certificate feature is kept.
@@ -289,6 +303,7 @@ DARSHAN_CHANNEL_IDS = frozenset({
     "UC5oL2R6nxvEE94mVS9vmZ8A",  # Kal Bhairav, Ujjain
     "UCAA6IsLVfbHrP1I_lzxv09Q",  # ISKCON Vrindavan
     "UCcON_PYxEOS9HmmVyhYnUFQ",  # Maa Bamleshwari Mandir, Dongargarh
+    "UCor-kmbz5UV7TYsva9WdK1Q",  # Hare Krishna Movement, Bhilai-Raipur
 })
 DARSHAN_PLAYLIST_PAGES = 2
 # Katha discourses. Shorts are dropped. Talks are kept for six months.
@@ -297,9 +312,17 @@ KATHA_CHANNEL_IDS = frozenset({
     "UCGQ-nwzfhjFKJBvwv1TE3-Q",  # Sudhanshu Ji Maharaj
 })
 KATHA_MIN_DURATION_SECONDS = 3 * 60
+# National shows that belong on the Podcast tab, not in the CG/MP news rails.
+PODCAST_CHANNEL_IDS = frozenset({
+    "UCzwCEE_PchiBULMnAJqhGVg",  # Raj Shamani
+    "UCyaN6mg5u8Cjy2ZI4ikWaug",  # My First Million
+    "UCKZozRVHRYsYHGEyNKuhhdA",  # Think School
+    "UCRzYN32xtBf3Yxsx5BvJWJw",  # warikoo
+})
+PODCAST_MIN_DURATION_SECONDS = 3 * 60
 NON_NEWS_CHANNEL_IDS = (
     EDUCATION_CHANNEL_IDS | VLOG_CHANNEL_IDS | FOOD_CHANNEL_IDS | MOVIE_CHANNEL_IDS
-    | DARSHAN_CHANNEL_IDS | KATHA_CHANNEL_IDS
+    | DARSHAN_CHANNEL_IDS | KATHA_CHANNEL_IDS | PODCAST_CHANNEL_IDS
 )
 VLOG_MIN_DURATION_SECONDS = 3 * 60
 FOOD_MIN_DURATION_SECONDS = 3 * 60
@@ -597,6 +620,8 @@ def catalog_genre(video: Dict) -> Optional[str]:
         return GENRE_DARSHAN
     if channel_id in KATHA_CHANNEL_IDS:
         return GENRE_KATHA
+    if channel_id in PODCAST_CHANNEL_IDS:
+        return GENRE_PODCAST
     return None
 
 
@@ -623,21 +648,41 @@ def vlog_ok(video: Dict) -> bool:
 
 
 _FOOD_NOT_A_MEAL_PATTERN = re.compile(
-    r"review|unboxing|shopping|market tour|बाजार|बाज़ार",
+    r"unboxing|shopping|market tour|बाजार|बाज़ार",
     re.IGNORECASE,
 )
 
 
 def food_vlog_ok(video: Dict) -> bool:
-    """A CG or MP food vlog of at least three minutes. Shorts, shopping, and reviews stay out."""
-    if (video.get("channelId") or "") not in FOOD_CHANNEL_IDS:
+    """A CG or Indore food vlog of at least three minutes.
+
+    A channel that also posts travel or shopping must name the food in the title.
+    A food channel keeps the meal videos and drops shopping and appliance clips.
+    """
+    channel_id = video.get("channelId") or ""
+    if channel_id not in FOOD_CHANNEL_IDS:
         return False
     if not _long_enough(video, FOOD_MIN_DURATION_SECONDS):
         return False
     title = video.get("title") or ""
     if _FOOD_NOT_A_MEAL_PATTERN.search(title):
         return False
-    return _FOOD_TITLE_PATTERN.search(title) is not None
+    if channel_id in FOOD_MIXED_CHANNEL_IDS:
+        return _FOOD_TITLE_PATTERN.search(title) is not None
+    return True
+
+
+def podcast_channel_ok(video: Dict) -> bool:
+    """An episode from a Podcast-tab channel. Shorts and upcoming streams stay out."""
+    if (video.get("channelId") or "") not in PODCAST_CHANNEL_IDS:
+        return False
+    video_type = (video.get("videoType") or "").strip().upper()
+    if video_type == VIDEO_TYPE_SCHEDULED:
+        return False
+    if video_type == VIDEO_TYPE_LIVE:
+        return True
+    duration = video.get("durationSeconds")
+    return isinstance(duration, int) and duration >= PODCAST_MIN_DURATION_SECONDS
 
 
 def free_u_movie_ok(video: Dict) -> bool:
@@ -2370,6 +2415,7 @@ def generate_ott_json(
     movie_videos: Optional[List[Dict]] = None,
     darshan_videos: Optional[List[Dict]] = None,
     katha_videos: Optional[List[Dict]] = None,
+    podcast_videos: Optional[List[Dict]] = None,
 ) -> Dict:
     """Generate OTT-style JSON feed."""
     _log_city(
@@ -2383,6 +2429,8 @@ def generate_ott_json(
     feed, darshan_only = _take_live_only(feed, GENRE_DARSHAN, darshan_videos, darshan_live_ok)
     feed, katha_only = _take_private(feed, GENRE_KATHA, katha_videos)
     katha_only = [video for video in katha_only if katha_ok(video)]
+    feed, podcast_owned = _take_private(feed, GENRE_PODCAST, podcast_videos)
+    podcast_owned = [video for video in podcast_owned if podcast_channel_ok(video)]
     feed = filter_to_cg_mp_news(feed)
     city_section = None
     city = resolve_city_from_ip(request_ip, ip_lookup_url)
@@ -2398,6 +2446,15 @@ def generate_ott_json(
 
     # Podcast section = genre Podcast only (assigned only for allow-listed channels + podcast signals)
     podcast_news = filter_by_genre(feed, [GENRE_PODCAST])
+    seen_podcast = set()
+    podcast_items = []
+    for video in list(podcast_owned) + list(podcast_news):
+        video_id = video.get("videoId")
+        if not video_id or video_id in seen_podcast:
+            continue
+        seen_podcast.add(video_id)
+        podcast_items.append(video)
+    podcast_items.sort(key=lambda video: video.get("publishedAt") or "", reverse=True)
     # Scheduled streams have no row. They stay out of every other section too.
     other_feed = [v for v in feed if v.get("genre") not in (GENRE_PODCAST, GENRE_SCHEDULED)]
     
@@ -2417,7 +2474,7 @@ def generate_ott_json(
     sections = [
         {"section": SECTION_LIVE, "count": len(live_news), "items": live_news},
         {"section": SECTION_GENERAL, "count": len(general_news), "items": general_news},
-        {"section": SECTION_PODCAST, "count": len(podcast_news), "items": podcast_news},
+        {"section": SECTION_PODCAST, "count": len(podcast_items), "items": podcast_items},
         {"section": SECTION_JOBS, "count": len(jobs_news), "items": jobs_news},
         {"section": SECTION_POLITICS, "count": len(politics_news), "items": politics_news},
         {"section": SECTION_EVENTS, "count": len(events_news), "items": events_news},
@@ -2493,9 +2550,11 @@ def main():
         movie_videos = collect_catalog(MOVIE_CHANNEL_IDS, GENRE_MOVIE, SECTION_MOVIE, free_u_movie_ok)
         darshan_videos = collect_darshan_lives(DARSHAN_CHANNEL_IDS)
         katha_videos = collect_catalog(KATHA_CHANNEL_IDS, GENRE_KATHA, SECTION_KATHA, katha_ok)
+        podcast_videos = collect_catalog(PODCAST_CHANNEL_IDS, GENRE_PODCAST, SECTION_PODCAST, podcast_channel_ok)
         print(
             f"[Vlog] {len(vlog_videos)} [Food] {len(food_videos)} "
-            f"[Movie] {len(movie_videos)} [Darshan] {len(darshan_videos)} [Katha] {len(katha_videos)}"
+            f"[Movie] {len(movie_videos)} [Darshan] {len(darshan_videos)} "
+            f"[Katha] {len(katha_videos)} [Podcast channels] {len(podcast_videos)}"
         )
         request_ip = os.environ.get(ENV_REQUEST_IP, "").strip()
         ip_lookup_url = os.environ.get(ENV_IP_LOOKUP_URL, "").strip()
@@ -2513,6 +2572,7 @@ def main():
             movie_videos=movie_videos,
             darshan_videos=darshan_videos,
             katha_videos=katha_videos,
+            podcast_videos=podcast_videos,
         )
         print(f"Fetched {len(feed)} news videos")
         

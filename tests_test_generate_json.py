@@ -310,6 +310,27 @@ def test_katha_stays_on_its_tab():
     assert "k3" not in encoded
 
 
+def test_named_podcast_channels_stay_out_of_the_news_tabs():
+    import cluster_api
+
+    episode = _feed_video(
+        "p1", "How to start", channelId="UCzwCEE_PchiBULMnAJqhGVg",
+        channelTitle="Raj Shamani", durationSeconds=2400,
+    )
+    news = _feed_video("n9", "रायपुर में बैठक")
+    out = gj.generate_ott_json([news, episode], podcast_videos=[episode])
+    by_section = {
+        section["section"]: [item["videoId"] for item in section["items"]]
+        for section in out["sections"]
+    }
+    assert by_section["Podcast"] == ["p1"]
+    for name, video_ids in by_section.items():
+        if name == "Podcast":
+            continue
+        assert "p1" not in video_ids
+    assert "p1" not in json.dumps(cluster_api.extract_clusters(out))
+
+
 def test_free_u_certificate_movie_rules():
     goldmines = "UCyoXW-Dse7fURq30EWl_CUA"
     assert gj.free_u_movie_ok(_feed_video(
@@ -335,6 +356,25 @@ def test_free_u_certificate_movie_rules():
     ))
     assert gj.food_vlog_ok(_feed_video(
         "recipe", "लाल भाजी recipe", channelId="UCOT0guEWvdIoXjKI1et_2cA", durationSeconds=400,
+    ))
+    mayank = "UCwrMIdPlGaNsIGmdMdqO7gA"
+    assert gj.food_vlog_ok(_feed_video(
+        "thali", "Nukkad Bihan Raipur", channelId=mayank, durationSeconds=500,
+    ))
+    assert not gj.food_vlog_ok(_feed_video(
+        "market", "Raipur flower market tour", channelId=mayank, durationSeconds=500,
+    ))
+    assert gj.vlog_ok(_feed_video(
+        "rahul", "Bhilai evening", channelId="UCYFZN_1OJ_vXDJF_vU0mAEQ", durationSeconds=400,
+    ))
+    assert gj.darshan_live_ok(_feed_video(
+        "hk", "Hare Krishna aarti", channelId="UCor-kmbz5UV7TYsva9WdK1Q", videoType="LIVE",
+    ))
+    assert gj.podcast_channel_ok(_feed_video(
+        "ep", "The episode", channelId="UCzwCEE_PchiBULMnAJqhGVg", durationSeconds=2400,
+    ))
+    assert not gj.podcast_channel_ok(_feed_video(
+        "clip", "A short", channelId="UCRzYN32xtBf3Yxsx5BvJWJw", durationSeconds=20,
     ))
     assert gj.free_u_movie_ok(_feed_video(
         "full", "Sindoor | Full Movie (HD)", channelId=goldmines, durationSeconds=7200,
