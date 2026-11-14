@@ -1894,6 +1894,48 @@ def list_channel_uploads(
     return videos
 
 
+def load_saved_video_facts(path: str = OUTPUT_FILE_NAME) -> Dict[str, Dict]:
+    """Stats already stored for a video. A finished video does not need another details call."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as handle:
+            data = json.load(handle)
+    except (OSError, json.JSONDecodeError):
+        return {}
+    facts: Dict[str, Dict] = {}
+    for section in data.get("sections") or []:
+        for video in section.get("items") or []:
+            video_id = video.get("videoId")
+            if not video_id:
+                continue
+            facts[video_id] = {
+                "durationSeconds": video.get("durationSeconds"),
+                "durationFormatted": video.get("durationFormatted"),
+                "views": video.get("views", 0),
+                "likes": video.get("likes", 0),
+                "videoType": video.get("videoType") or VIDEO_TYPE_UNKNOWN,
+            }
+    return facts
+
+
+def videos_needing_details(videos: List[Dict], saved_facts: Dict[str, Dict]) -> List[Dict]:
+    """Reuse a saved recording. A live broadcast is checked again because it can end."""
+    pending: List[Dict] = []
+    for video in videos:
+        saved = saved_facts.get(video.get("videoId") or "")
+        video_type = ((saved or {}).get("videoType") or "").strip().upper()
+        if not saved or video_type in (VIDEO_TYPE_LIVE, VIDEO_TYPE_UNKNOWN, ""):
+            pending.append(video)
+            continue
+        video["durationSeconds"] = saved.get("durationSeconds")
+        video["durationFormatted"] = saved.get("durationFormatted")
+        video["views"] = saved.get("views", 0)
+        video["likes"] = saved.get("likes", 0)
+        video["videoType"] = saved.get("videoType")
+    return pending
+
+
 def hydrate_videos(videos: List[Dict]) -> List[Dict]:
     """Fill duration, views, and live status for every id in one videos.list pass.
 
@@ -2603,7 +2645,13 @@ def main():
         print(f"Loaded {len(API_KEYS)} API key(s) for fallback support")
         _api_calls["playlistItems"] = 0
         _api_calls["videos"] = 0
-        news_channels = [channel for channel in BHILAI_CHANNELS if channel not in NON_NEWS_CHANNEL_IDS]
+        seen_channels = set()
+        news_channels = []
+        for channel in BHILAI_CHANNELS:
+            if not channel or channel in NON_NEWS_CHANNEL_IDS or channel in seen_channels:
+                continue
+            seen_channels.add(channel)
+            news_channels.append(channel)
         news_cutoff = datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
         catalog_cutoff = education_retention_cutoff()
         print(f"Listing uploads from {len(news_channels)} news channels and the private tabs...")
@@ -2633,8 +2681,10 @@ def main():
             DARSHAN_PAGE_SIZE,
             lambda _channel: DARSHAN_PLAYLIST_PAGES,
         )
-        # One videos.list pass: news, brand-new catalog uploads, and the current darshan page.
-        needs_details = list(news_listed) + list(darshan_listed)
+        # One videos.list pass: new or still-live news, brand-new catalog uploads, and darshan.
+        saved_facts = load_saved_video_facts()
+        needs_details = videos_needing_details(news_listed, saved_facts)
+        needs_details.extend(darshan_listed)
         for _channels, _section_name, genre, _accept in catalog_specs:
             known_ids = catalog_known_ids[genre]
             needs_details.extend(

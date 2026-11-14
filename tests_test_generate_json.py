@@ -599,6 +599,32 @@ def test_videos_list_uses_one_batch_per_fifty_ids(monkeypatch):
     assert [len(chunk) for chunk in calls] == [50, 10]
 
 
+def test_saved_recording_does_not_need_another_details_call():
+    saved = {
+        "old": {
+            "durationSeconds": 100,
+            "durationFormatted": "01:40",
+            "views": 5,
+            "likes": 1,
+            "videoType": "VOD",
+        },
+        "live": {
+            "durationSeconds": 0,
+            "durationFormatted": "LIVE",
+            "views": 9,
+            "likes": 0,
+            "videoType": "LIVE",
+        },
+    }
+    old = {"videoId": "old", "title": "stored"}
+    new = {"videoId": "new", "title": "fresh"}
+    live = {"videoId": "live", "title": "on air"}
+    pending = gj.videos_needing_details([old, new, live], saved)
+    assert [video["videoId"] for video in pending] == ["new", "live"]
+    assert old["views"] == 5
+    assert old["durationSeconds"] == 100
+
+
 def test_known_catalog_channel_lists_only_its_newest_page():
     assert gj.catalog_playlist_pages("UCknown", {"UCknown"}) == 1
     assert gj.catalog_playlist_pages("UCnew", {"UCknown"}) == gj.EDUCATION_MAX_PLAYLIST_PAGES
