@@ -587,6 +587,23 @@ def mocked_requests_get(url, params=None, timeout=None, **kwargs):
 
     return MockResponse(404, {}, text="Not Found")
 
+def test_videos_list_uses_one_batch_per_fifty_ids(monkeypatch):
+    calls = []
+
+    def fake_get(url, params, label):
+        calls.append(params["id"].split(","))
+        return {"items": []}
+
+    monkeypatch.setattr(gj, "_youtube_get", fake_get)
+    gj.fetch_video_details([f"v{i}" for i in range(60)])
+    assert [len(chunk) for chunk in calls] == [50, 10]
+
+
+def test_known_catalog_channel_lists_only_its_newest_page():
+    assert gj.catalog_playlist_pages("UCknown", {"UCknown"}) == 1
+    assert gj.catalog_playlist_pages("UCnew", {"UCknown"}) == gj.EDUCATION_MAX_PLAYLIST_PAGES
+
+
 @patch("requests.get", side_effect=mocked_requests_get)
 def test_fetch_and_aggregate(mock_get, tmp_path):
     # Provide an API key and a channel via env

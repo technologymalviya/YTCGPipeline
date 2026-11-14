@@ -305,7 +305,7 @@ DARSHAN_CHANNEL_IDS = frozenset({
     "UCcON_PYxEOS9HmmVyhYnUFQ",  # Maa Bamleshwari Mandir, Dongargarh
     "UCor-kmbz5UV7TYsva9WdK1Q",  # Hare Krishna Movement, Bhilai-Raipur
 })
-DARSHAN_PLAYLIST_PAGES = 2
+DARSHAN_PLAYLIST_PAGES = 1
 # Katha discourses. Shorts are dropped. Talks are kept for six months.
 KATHA_CHANNEL_IDS = frozenset({
     "UCsjMAEPcv7-oNGHtRU9Vg6w",  # BhaktiPath
@@ -1738,6 +1738,10 @@ def _youtube_get(url: str, params: Dict, label: str) -> Optional[Dict]:
             print(f"[NETWORK ERROR] {label}: {exc}")
             return None
         if response.status_code == 200:
+            if url == YOUTUBE_PLAYLIST_URL:
+                _api_calls["playlistItems"] += 1
+            elif url == YOUTUBE_VIDEOS_URL:
+                _api_calls["videos"] += 1
             return response.json()
         if is_quota_exceeded_error(response):
             print(MSG_QUOTA_EXCEEDED.format(current_api_key_index + 1) + f" for {label}")
@@ -1812,18 +1816,18 @@ def fetch_video_details(video_ids: List[str]) -> Dict[str, Dict]:
     return details
 
 
-def fetch_latest_videos_for_channel(
+_api_calls = {"playlistItems": 0, "videos": 0}
+DARSHAN_PAGE_SIZE = 10
+
+
+def list_channel_uploads(
     channel_id: str,
     *,
     cutoff: Optional[datetime] = None,
     page_size: int = MAX_RESULTS,
     max_pages: int = 1,
 ) -> List[Dict]:
-    """Fetch a channel's uploads playlist, newest first, until the cutoff.
-
-    The news feed uses one page and the last 24 hours. Education walks further
-    back so a course published months ago is still collected.
-    """
+    """Read a channel's uploads playlist. This does not call the videos endpoint."""
     if cutoff is None:
         cutoff = datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
     playlist_id = "UU" + channel_id[2:] if channel_id.startswith("UC") else channel_id
@@ -1859,7 +1863,7 @@ def fetch_latest_videos_for_channel(
         if reached_cutoff or not page_token:
             break
 
-    recent_items = []
+    videos: List[Dict] = []
     for item in items:
         snippet = item.get("snippet") or {}
         content = item.get("contentDetails") or {}
@@ -1873,13 +1877,6 @@ def fetch_latest_videos_for_channel(
             continue
         if published_dt < cutoff:
             continue
-        recent_items.append((video_id, snippet, published_at))
-
-    video_details = fetch_video_details([video_id for video_id, _, _ in recent_items])
-
-    videos: List[Dict] = []
-    for video_id, snippet, published_at in recent_items:
-        video_info = video_details.get(video_id, {})
         videos.append({
             "videoId": video_id,
             "title": snippet.get("title"),
@@ -1888,14 +1885,61 @@ def fetch_latest_videos_for_channel(
             "channelTitle": snippet.get("channelTitle"),
             "publishedAt": published_at,
             "thumbnail": (snippet.get("thumbnails") or {}).get("high", {}).get("url"),
-            "durationSeconds": video_info.get("durationSeconds"),
-            "durationFormatted": video_info.get("durationFormatted"),
-            "views": video_info.get("views", 0),
-            "likes": video_info.get("likes", 0),
-            "videoType": video_info.get("videoType", VIDEO_TYPE_UNKNOWN),
+            "durationSeconds": None,
+            "durationFormatted": None,
+            "views": 0,
+            "likes": 0,
+            "videoType": VIDEO_TYPE_UNKNOWN,
         })
-
     return videos
+
+
+def hydrate_videos(videos: List[Dict]) -> List[Dict]:
+    """Fill duration, views, and live status for every id in one videos.list pass.
+
+    YouTube accepts 50 ids per request, so a large set is several requests of that size.
+    """
+    ids: List[str] = []
+    seen = set()
+    for video in videos:
+        video_id = video.get("videoId")
+        if video_id and video_id not in seen:
+            seen.add(video_id)
+            ids.append(video_id)
+    if not ids:
+        return videos
+    details = fetch_video_details(ids)
+    for video in videos:
+        info = details.get(video.get("videoId")) or {}
+        if not info:
+            continue
+        video["durationSeconds"] = info.get("durationSeconds")
+        video["durationFormatted"] = info.get("durationFormatted")
+        video["views"] = info.get("views", 0)
+        video["likes"] = info.get("likes", 0)
+        video["videoType"] = info.get("videoType", VIDEO_TYPE_UNKNOWN)
+    print(f"[YouTube] videos.list: {len(ids)} videos in {(len(ids) + YOUTUBE_VIDEO_BATCH - 1) // YOUTUBE_VIDEO_BATCH} request(s)")
+    return videos
+
+
+def catalog_playlist_pages(channel_id: str, known_channels) -> int:
+    """A channel we already store only needs its newest page. A new one is backfilled once."""
+    if channel_id in known_channels:
+        return 1
+    return EDUCATION_MAX_PLAYLIST_PAGES
+
+
+def fetch_latest_videos_for_channel(
+    channel_id: str,
+    *,
+    cutoff: Optional[datetime] = None,
+    page_size: int = MAX_RESULTS,
+    max_pages: int = 1,
+) -> List[Dict]:
+    """Fetch one channel's recent uploads, including duration and statistics."""
+    return hydrate_videos(list_channel_uploads(
+        channel_id, cutoff=cutoff, page_size=page_size, max_pages=max_pages,
+    ))
 
 
 def fetch_education_channel_videos(channel_id: str) -> List[Dict]:
@@ -1934,6 +1978,29 @@ def fetch_catalog_channel_videos(channel_id: str, genre: str, accept) -> List[Di
     return kept
 
 
+def _list_channels(channels, cutoff: datetime, page_size: int, pages_for) -> List[Dict]:
+    """List uploads for many channels without calling the videos endpoint."""
+    listed: List[Dict] = []
+    for channel_id in channels:
+        found = list_channel_uploads(
+            channel_id,
+            cutoff=cutoff,
+            page_size=page_size,
+            max_pages=pages_for(channel_id),
+        )
+        for video in found:
+            video["channelId"] = channel_id
+        listed.extend(found)
+    return listed
+
+
+def _saved_channel_and_video_ids(section_name: str, genre: str):
+    saved = load_saved_catalog_videos(section_name, genre)
+    channels = {video.get("channelId") for video in saved if video.get("channelId")}
+    video_ids = {video.get("videoId") for video in saved if video.get("videoId")}
+    return channels, video_ids
+
+
 def collect_darshan_lives(channel_ids) -> List[Dict]:
     """Keep mandir broadcasts that are live now. An ended stream is not saved."""
     cutoff = datetime(2005, 1, 1, tzinfo=timezone.utc)
@@ -1942,7 +2009,7 @@ def collect_darshan_lives(channel_ids) -> List[Dict]:
         videos = fetch_latest_videos_for_channel(
             channel_id,
             cutoff=cutoff,
-            page_size=EDUCATION_PLAYLIST_PAGE_SIZE,
+            page_size=DARSHAN_PAGE_SIZE,
             max_pages=DARSHAN_PLAYLIST_PAGES,
         )
         kept = []
@@ -2534,23 +2601,95 @@ def main():
         }
     else:
         print(f"Loaded {len(API_KEYS)} API key(s) for fallback support")
+        _api_calls["playlistItems"] = 0
+        _api_calls["videos"] = 0
         news_channels = [channel for channel in BHILAI_CHANNELS if channel not in NON_NEWS_CHANNEL_IDS]
-        print(f"Fetching videos from {len(news_channels)} news channels...")
-        feed = aggregate_bhilai_videos(news_channels)
+        news_cutoff = datetime.now(timezone.utc) - timedelta(hours=LAST_HOURS_FILTER)
+        catalog_cutoff = education_retention_cutoff()
+        print(f"Listing uploads from {len(news_channels)} news channels and the private tabs...")
+        news_listed = _list_channels(news_channels, news_cutoff, MAX_RESULTS, lambda _channel: 1)
+        catalog_specs = (
+            (EDUCATION_CHANNELS, SECTION_EDUCATION, GENRE_EDUCATION, education_lesson_ok),
+            (VLOG_CHANNEL_IDS, SECTION_VLOG, GENRE_VLOG, vlog_ok),
+            (FOOD_CHANNEL_IDS, SECTION_FOOD, GENRE_FOOD, food_vlog_ok),
+            (MOVIE_CHANNEL_IDS, SECTION_MOVIE, GENRE_MOVIE, free_u_movie_ok),
+            (KATHA_CHANNEL_IDS, SECTION_KATHA, GENRE_KATHA, katha_ok),
+            (PODCAST_CHANNEL_IDS, SECTION_PODCAST, GENRE_PODCAST, podcast_channel_ok),
+        )
+        catalog_listed = {}
+        catalog_known_ids = {}
+        for channels, section_name, genre, _accept in catalog_specs:
+            known_channels, known_ids = _saved_channel_and_video_ids(section_name, genre)
+            catalog_known_ids[genre] = known_ids
+            catalog_listed[genre] = _list_channels(
+                channels,
+                catalog_cutoff,
+                EDUCATION_PLAYLIST_PAGE_SIZE,
+                lambda channel_id, known=known_channels: catalog_playlist_pages(channel_id, known),
+            )
+        darshan_listed = _list_channels(
+            DARSHAN_CHANNEL_IDS,
+            datetime(2005, 1, 1, tzinfo=timezone.utc),
+            DARSHAN_PAGE_SIZE,
+            lambda _channel: DARSHAN_PLAYLIST_PAGES,
+        )
+        # One videos.list pass: news, brand-new catalog uploads, and the current darshan page.
+        needs_details = list(news_listed) + list(darshan_listed)
+        for _channels, _section_name, genre, _accept in catalog_specs:
+            known_ids = catalog_known_ids[genre]
+            needs_details.extend(
+                video for video in catalog_listed[genre]
+                if video.get("videoId") not in known_ids
+            )
+        hydrate_videos(needs_details)
+        print(
+            f"[YouTube] playlistItems requests {_api_calls['playlistItems']}, "
+            f"videos.list requests {_api_calls['videos']}"
+        )
+        feed = sorted(news_listed, key=lambda video: video.get("publishedAt") or "", reverse=True)
         feed = filter_to_cg_mp_news(feed)
         feed = add_genres_to_feed(feed)
-        print(f"[Education] Fetching {len(EDUCATION_CHANNELS)} course channels, kept for {EDUCATION_RETENTION_MONTHS} months")
-        fresh_education: List[Dict] = []
-        for channel_id in EDUCATION_CHANNELS:
-            fresh_education.extend(fetch_education_channel_videos(channel_id))
-        education_videos = merge_education_videos(load_saved_education_videos(), fresh_education)
+
+        def _fresh_catalog(genre, accept):
+            fresh = []
+            for video in catalog_listed[genre]:
+                if video.get("videoId") in catalog_known_ids[genre]:
+                    continue
+                video["genre"] = genre
+                if accept(video):
+                    fresh.append(video)
+            return fresh
+
+        education_videos = merge_education_videos(
+            load_saved_education_videos(),
+            _fresh_catalog(GENRE_EDUCATION, education_lesson_ok),
+        )
         print(f"[Education] {len(education_videos)} lessons inside the six-month window")
-        vlog_videos = collect_catalog(VLOG_CHANNEL_IDS, GENRE_VLOG, SECTION_VLOG, vlog_ok)
-        food_videos = collect_catalog(FOOD_CHANNEL_IDS, GENRE_FOOD, SECTION_FOOD, food_vlog_ok)
-        movie_videos = collect_catalog(MOVIE_CHANNEL_IDS, GENRE_MOVIE, SECTION_MOVIE, free_u_movie_ok)
-        darshan_videos = collect_darshan_lives(DARSHAN_CHANNEL_IDS)
-        katha_videos = collect_catalog(KATHA_CHANNEL_IDS, GENRE_KATHA, SECTION_KATHA, katha_ok)
-        podcast_videos = collect_catalog(PODCAST_CHANNEL_IDS, GENRE_PODCAST, SECTION_PODCAST, podcast_channel_ok)
+        vlog_videos = merge_catalog_videos(
+            load_saved_catalog_videos(SECTION_VLOG, GENRE_VLOG),
+            _fresh_catalog(GENRE_VLOG, vlog_ok), GENRE_VLOG, accept=vlog_ok,
+        )
+        food_videos = merge_catalog_videos(
+            load_saved_catalog_videos(SECTION_FOOD, GENRE_FOOD),
+            _fresh_catalog(GENRE_FOOD, food_vlog_ok), GENRE_FOOD, accept=food_vlog_ok,
+        )
+        movie_videos = merge_catalog_videos(
+            load_saved_catalog_videos(SECTION_MOVIE, GENRE_MOVIE),
+            _fresh_catalog(GENRE_MOVIE, free_u_movie_ok), GENRE_MOVIE, accept=free_u_movie_ok,
+        )
+        katha_videos = merge_catalog_videos(
+            load_saved_catalog_videos(SECTION_KATHA, GENRE_KATHA),
+            _fresh_catalog(GENRE_KATHA, katha_ok), GENRE_KATHA, accept=katha_ok,
+        )
+        podcast_videos = merge_catalog_videos(
+            load_saved_catalog_videos(SECTION_PODCAST, GENRE_PODCAST),
+            _fresh_catalog(GENRE_PODCAST, podcast_channel_ok), GENRE_PODCAST, accept=podcast_channel_ok,
+        )
+        darshan_videos = []
+        for video in darshan_listed:
+            video["genre"] = GENRE_DARSHAN
+            if darshan_live_ok(video):
+                darshan_videos.append(video)
         print(
             f"[Vlog] {len(vlog_videos)} [Food] {len(food_videos)} "
             f"[Movie] {len(movie_videos)} [Darshan] {len(darshan_videos)} "
